@@ -2,6 +2,14 @@ IF YOU COMPLETE SOMETHING - DO NOT REMOVE IT! CROSS IT OFF
 	(So we know what we did)
 
 
+// HIGH PRIORITIES
+//////////////////
+Get all critical files/mods/etc. in git for version control.
+	Can/should the repos just be condensed to a "Addons/*" or at least ("AddonsEconomy/*", "AddonsCars/*, etc.)?
+		Could introduce branched repo
+	Need vanilla server files added
+	Need base mods added
+
 
 
 // FIX THE ECONOMY
@@ -16,16 +24,24 @@ Money printers
 Cash Burns
 	Hunger
 	Theft
-	Ammo
+	Ammo (decrease default ammo)
 	Consumables (guns, food, apparel, buffs, etc.). Things that are destroyed upon death/jail.
-	Gambling
+		Non-refundable (or consumable entities)
+			DJ radios
+			Microwaves
+			Tip jars
+	Gambling / Lottories
 	Property prices (pay to own a base)
 	Taxes
+	Bail (early realease from PD)
+	Materializing player models (until they log off)
 --Bitcoin
 --	Decrease gas usage / increase duration of fuel
 --	Decrease BTC price (payout)
 --	Increase max. amount fuel cannisters
 --	Decrease max. amount generators
+	Decrease wait time between purchasing fuel
+	(More for UI) can the terminal be improved?
 Cars
 	Decrease price
 	Fix ratio of purchase : repair
@@ -43,6 +59,7 @@ Casino
 	/casino, add possibility for small -% streaks (more realistic, helps balance)
 Unbox
 	Hide money boxes (will be used later but are currently OP)
+	Perma sweps should be offered via donation / credit only
 Drugs
 	Must serve a consumable purchase
 	Require user to take more risk to sell / deliver
@@ -61,6 +78,7 @@ Drugs
 (food for thought - to be expanded on later)
 Create a written system of consistent, concise, yet fun server rules.
 Implement case law.
+Ban/punish on intent rather than action or outcome
 
 
 // THEME & ASTHETICS
@@ -68,19 +86,89 @@ Implement case law.
 (food for thought - to be expanded on later)
 Consistent UI
 Consistent color scheme / art style
+Vibrant HUE and color schemes
+	'Rose colored classes' or Halo: Reach styles, not Gears of War
 Consistent player model usage (no "sanic" the hedgehogs...)
 Integrate F4 + /Casino + /Unbox + donations
+Hide blacklisted options from Q menu
+	Useless tools
+	Extra tabs. (Shaders, Entities, Weapons, etc.)
+Shop Menus
+	Decrease the wait time between spawning multiple of the same object (purchasing fuel, printers, etc.)
+Unbox
+	Purchased keys should combine into a single key image with an (x10 or x5) just for simplicity's sake)
+Add ability for players to locally mute eachother
+Hide player rank (Mod, Admin, etc.) from the front page of Tab menu.
+	Require at lease 1-2 more clicks to view. Helps keep RP active / prevents special treatment.
+Customized decals and images for game buildings, entities, etc.
 
 
 // CUSTOM MAP
 /////////////
 (food for thought - to be expanded on later)
+Size matters
+	Small but not over crowded
+	Large but not empty feeling
+Must be easy to navigate
+	Nothing maze like or overly layred (like C18)
+Must have hidden OOC rooms:
+	Staff rooms
+	Banishment/jail room
+	Minigame room?
+	Full sized event room
 
 
 // MONETIZATION
 ///////////////
 (food for thought - to be expanded on later)
 Can only monetize server upon stability and player base development
+API to permit BTC / ETH / LTC server donations (not the in-game currency; the real crypto)
+Paypal integration
+
+
+// PROPS & BUILDING
+///////////////////
+(food for thought - to be expanded on later)
+Decrease current methods of spam protection
+	Props shouldn't auto-freeze in air. Makes it touch to build
+	Props auto-nocollide with eachother. (General comfort improvement). Also prevents model collision based spam / crashing.
+Create / publish a literal whitelist
+	Make it easier for player to know which props are valid
+Integrate Fading Door tool with Keypad tool. (Left click to fade, right to place related keypad).
+Exploits
+	Remove ability for players to hotkey a faded door. (Too easily abused).
+
+
+// META & DEV OPS
+/////////////////
+(food for thought - to be expanded on later)
+Create a Jira/Trello for agile development
+Develope the website/forums
+PR & recruitment of players from other communities & servers to join DerpRP.
+
+
+// RP
+/////
+(food for thought - to be expanded on later)
+Mayor's law set to a UI element rather than bill boards
+	Prevents players from claiming to not know current laws
+Allow player sprays?
+
+
+// CLIENT & SERVER OPTIMIZATION
+///////////////////////////////
+(food for thought - to be expanded on later)
+Multicore rendering option
+Remove FPS governor (if possible)
+Boost connection speeds (if possble) (also attempt via server's CPanel console)
+Tricks up sleeves (things that can be cut if needed)
+	Lights & Lamps cause lag
+	Contraints cause lag
+	Autoremover props that fell through map
+
+
+
+
 
 
 
