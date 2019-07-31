@@ -21,11 +21,11 @@ Cash Burns
 	Gambling
 	Property prices (pay to own a base)
 	Taxes
-Bitcoin
-	Decrease gas usage / increase duration of fuel
-	Decrease BTC price (payout)
-	Increase max. amount fuel cannisters
-	Decrease max. amount generators
+--Bitcoin
+--	Decrease gas usage / increase duration of fuel
+--	Decrease BTC price (payout)
+--	Increase max. amount fuel cannisters
+--	Decrease max. amount generators
 Cars
 	Decrease price
 	Fix ratio of purchase : repair
@@ -46,6 +46,7 @@ Unbox
 Drugs
 	Must serve a consumable purchase
 	Require user to take more risk to sell / deliver
+	More risky to run and manage (goes to theft)
 	Do something better than a "lean cup"
 
 
@@ -68,6 +69,16 @@ Consistent color scheme / art style
 Consistent player model usage (no "sanic" the hedgehogs...)
 Integrate F4 + /Casino + /Unbox + donations
 
+
+// CUSTOM MAP
+/////////////
+(food for thought - to be expanded on later)
+
+
+// MONETIZATION
+///////////////
+(food for thought - to be expanded on later)
+Can only monetize server upon stability and player base development
 
 
 
