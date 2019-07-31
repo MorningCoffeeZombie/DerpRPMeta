@@ -46,7 +46,9 @@ Unbox
 Drugs
 	Must serve a consumable purchase
 	Require user to take more risk to sell / deliver
+--		Adjusted for meth mod
 	More risky to run and manage (goes to theft)
+--		Adjusted for meth mod
 	Do something better than a "lean cup"
 
 
