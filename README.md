@@ -14,11 +14,12 @@ Connect!: `131.153.31.254:27035`
 
 # Contributors
 Add your github and/or steam names to this *README.md* if you contributed:  
-| GITHUB | STEAM |
-|--------|-------|
-| MorningCoffeeZombie | DrDerpenstein |
-| | | 
-| | | 
+
+| GITHUB | STEAM |  
+|--------|-------|  
+| MorningCoffeeZombie | DrDerpenstein |  
+| | |   
+| | |   
 
 
 
