@@ -1,0 +1,77 @@
+IF YOU COMPLETE SOMETHING - DO NOT REMOVE IT! CROSS IT OFF
+	(So we know what we did)
+
+
+
+
+// FIX THE ECONOMY
+//////////////////
+
+Money printers
+	Increase print time
+	Decrease payout
+	Decrease upgrade / purchase costs
+	Require non-afk action (refill, fix, etc.)
+	Only 2-4 printers (of any type) max. per player
+Cash Burns
+	Hunger
+	Theft
+	Ammo
+	Consumables (guns, food, apparel, buffs, etc.). Things that are destroyed upon death/jail.
+	Gambling
+	Property prices (pay to own a base)
+	Taxes
+Bitcoin
+	Decrease gas usage / increase duration of fuel
+	Decrease BTC price (payout)
+	Increase max. amount fuel cannisters
+	Decrease max. amount generators
+Cars
+	Decrease price
+	Fix ratio of purchase : repair
+Guns
+	Stabilize price
+Jobs
+	Decrease wages (eliminate wages?). You get money for nothing/afk-ing 
+Robbery (bank, jewelry, etc.)
+	Decrease payout
+	Decrease total bags/vault
+Casino
+	Review/adjust odds
+	"Barrier to entry" to "potential payout" ratio far too favorable for players
+	/casino, decrease speed of stock market results. Make the % gains take longer.
+	/casino, add possibility for small -% streaks (more realistic, helps balance)
+Unbox
+	Hide money boxes (will be used later but are currently OP)
+Drugs
+	Must serve a consumable purchase
+	Require user to take more risk to sell / deliver
+	Do something better than a "lean cup"
+
+
+
+
+
+
+// LEGISLATION
+//////////////
+(food for thought - to be expanded on later)
+Create a written system of consistent, concise, yet fun server rules.
+Implement case law.
+
+
+// THEME & ASTHETICS
+////////////////////
+(food for thought - to be expanded on later)
+Consistent UI
+Consistent color scheme / art style
+Consistent player model usage (no "sanic" the hedgehogs...)
+Integrate F4 + /Casino + /Unbox + donations
+
+
+
+
+
+
+
+
