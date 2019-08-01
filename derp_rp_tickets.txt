@@ -59,6 +59,7 @@ Casino
 	"Barrier to entry" to "potential payout" ratio far too favorable for players
 	/casino, decrease speed of stock market results. Make the % gains take longer.
 	/casino, add possibility for small -% streaks (more realistic, helps balance)
+	mCasino settings may be held via api. check /mlib/lua/autorun/mlib.lua for this:	"https://api.m4dsolutions.com:8130/mlib/"
 Unbox
 	Hide money boxes (will be used later but are currently OP)
 	Perma sweps should be offered via donation / credit only

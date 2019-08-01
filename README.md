@@ -39,6 +39,10 @@ Roles (not jobs) by rank:
 * "owner"
 * "coowner"
 * "superadmin"
+* "admin"
+* "mod"
+* "donator"
+* "respected"
 * "vip"
 
 

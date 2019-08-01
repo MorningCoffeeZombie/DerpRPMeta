@@ -1,3 +1,14 @@
-/safezones
-/leancfg
+"MOD","COMMAND","PERMISSIONS","DESCRIPTION","CONFIG FILE LOCATION"
+,"/safezones","SA+",,
+,"/leancfg","","Configure \"Lean\" chef mod",
+"double or nothing","!saveslots","","Double or Nothing" casino addon command,"/double or nothing/lua/bdon_config.lua"
+"eradication","!purge_store","User+","Open the Purge store while a purge is active","/eradication/lua/eradication/eradication_config.lua"
+"eradication","!purge_info","User+","Open the Purge help menu","/eradication/lua/eradication/eradication_config.lua"
+"eradication","!purge_party","User+","Open the Purge group/party/team menu","/eradication/lua/eradication/eradication_config.lua"
+"eradication","/accept","User+","Accept a Purge team request","/eradication/lua/eradication/eradication_config.lua"
+"eradication","/deny","User+","Deny a Purge team request","/eradication/lua/eradication/eradication_config.lua"
+
+
+
+
 
