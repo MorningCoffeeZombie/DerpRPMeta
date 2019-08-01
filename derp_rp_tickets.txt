@@ -41,7 +41,9 @@ Cash Burns
 --	Increase max. amount fuel cannisters
 --	Decrease max. amount generators
 	Decrease wait time between purchasing fuel
+		This is not in the bitminers code, must be part of the UI
 	(More for UI) can the terminal be improved?
+	Adjust cost of upgrades (CPU cores, etc.)
 Cars
 	Decrease price
 	Fix ratio of purchase : repair
@@ -70,6 +72,15 @@ Drugs
 
 
 
+
+
+
+
+
+// SET CO CLASS TO > SUPERADMIN
+///////////////////////////////
+Only accomodate co-owner class once properly in place
+Bump SA down 1 step below CO
 
 
 

@@ -32,6 +32,16 @@ Connect Via GMod Console: `connect 131.153.31.254:27035`
 [GMod Official Lua Documentation](https://wiki.garrysmod.com/page/Main_Page)  
 
 
+# ULX Common Player Roles (Proper Syntax)
+
+Roles (not jobs) by rank:
+
+* "owner"
+* "coowner"
+* "superadmin"
+* "vip"
+
+
 # Contributors
 Add your github and/or steam names to this *README.md* if you contributed to the repo:  
 
