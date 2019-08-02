@@ -31,7 +31,7 @@ Cash Burns
 			Microwaves
 			Tip jars
 	Gambling / Lottories
-	Property prices (pay to own a base)
+--	Property prices (pay to own a base)
 	Taxes
 	Bail (early realease from PD)
 	Materializing player models (until they log off)
@@ -42,7 +42,7 @@ Cash Burns
 --	Decrease max. amount generators
 	Decrease wait time between purchasing fuel
 		This is not in the bitminers code, must be part of the UI
-	(More for UI) can the terminal be improved?
+		(More for UI) can the terminal be improved?
 	Adjust cost of upgrades (CPU cores, etc.)
 Cars
 	Decrease price
@@ -61,7 +61,7 @@ Casino
 	/casino, add possibility for small -% streaks (more realistic, helps balance)
 	mCasino settings may be held via api. check /mlib/lua/autorun/mlib.lua for this:	"https://api.m4dsolutions.com:8130/mlib/"
 Unbox
-	Hide money boxes (will be used later but are currently OP)
+--	Hide money boxes (will be used later but are currently OP)
 	Perma sweps should be offered via donation / credit only
 Drugs
 	Must serve a consumable purchase
