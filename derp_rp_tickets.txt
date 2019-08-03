@@ -4,11 +4,11 @@ IF YOU COMPLETE SOMETHING - DO NOT REMOVE IT! CROSS IT OFF
 
 // HIGH PRIORITIES
 //////////////////
-Get all critical files/mods/etc. in git for version control.
-	Can/should the repos just be condensed to a "Addons/*" or at least ("AddonsEconomy/*", "AddonsCars/*, etc.)?
-		Could introduce branched repo
-	Need vanilla server files added
-	Need base mods added
+--Get all critical files/mods/etc. in git for version control.
+--	Can/should the repos just be condensed to a "Addons/*" or at least ("AddonsEconomy/*", "AddonsCars/*, etc.)?
+--		Could introduce branched repo
+--	Need vanilla server files added
+--	Need base mods added
 
 
 
@@ -128,6 +128,7 @@ Must have hidden OOC rooms:
 	Banishment/jail room
 	Minigame room?
 	Full sized event room
+Needs a 'main street' or common area
 
 
 // MONETIZATION
