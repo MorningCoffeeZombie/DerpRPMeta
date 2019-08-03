@@ -12,4 +12,4 @@ gprinters,!gprinters,,Admin customization menu,
 ,!vcmod,,Vehicle settings,
 ,!menu,,ULX menu,
 darkrpmodification,,Root,RP jobs configs,darkrpmodification/lua/darkrp_customthings/jobs.lua
-​,,,,
+​,/jail [name] [seconds],Staff,Jails the named player for time in seconds,
