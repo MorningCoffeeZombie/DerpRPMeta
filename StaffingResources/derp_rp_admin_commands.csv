@@ -11,3 +11,5 @@ gprinters,!gprinters,,Admin customization menu,
 ,!apg,,Anti Prop Grief solution,
 ,!vcmod,,Vehicle settings,
 ,!menu,,ULX menu,
+darkrpmodification,,Root,RP jobs configs,darkrpmodification/lua/darkrp_customthings/jobs.lua
+​,,,,
