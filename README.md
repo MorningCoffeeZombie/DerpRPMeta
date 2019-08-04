@@ -46,10 +46,19 @@ Roles (not jobs) by rank:
 * "vip"
 
 
+# Server Locations
+
+| **LOCATION** | **USE** |  
+|--------------|---------|  
+| garrysmod/lua/autorun/server/workshop.lua | Add GMod workshop content to req'd downloads |  
+| | |  
+| | |  
+
+
 # Contributors
 Add your github and/or steam names to this *README.md* if you contributed to the repo:  
 
-**| GITHUB | STEAM |**  
+| **GITHUB** | **STEAM** |  
 |--------|-------|  
 | [MorningCoffeeZombie](https://github.com/MorningCoffeeZombie) | DrDerpenstein |  
 | | |   
