@@ -11,5 +11,7 @@ gprinters,!gprinters,,Admin customization menu,
 ,!apg,,Anti Prop Grief solution,
 ,!vcmod,,Vehicle settings,
 ,!menu,,ULX menu,
-darkrpmodification,,Root,RP jobs configs,darkrpmodification/lua/darkrp_customthings/jobs.lua
+darkrpmodification,,Root,RP jobs configs,/darkrpmodification/lua/darkrp_customthings/jobs.lua
 ​,/jail [name] [seconds],Staff,Jails the named player for time in seconds,
+title_store_v2,titlesadmin,Staff,Title shop admin command.,/title_store_v2/lua/config/sh_config.lua
+title_store_v2,titlestoresave,Staff,Save the location of the title store NPC,/title_store_v2/lua/config/sh_config.lua

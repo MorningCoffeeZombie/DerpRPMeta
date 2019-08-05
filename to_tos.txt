@@ -1,8 +1,8 @@
-entitied/bm2_generator/init.lua
+AddonsEconomy/derpbitminers/lua/entities/bm2_generator/init.lua
 	fuel = possibly line 139
 		probably line 205
 
-dtj_weaponhud/lua/dtj_w_sh_config.lua
+AddonsCore/dtj_weaponhud/lua/dtj_w_sh_config.lua
 	Edit Line 9
 	Edit Line 68
 	Edit Line 85
@@ -12,8 +12,38 @@ dtj_weaponhud/lua/dtj_w_sh_config.lua
 * add "weapon_crowbar" to civil worker
 
 
-fix userg group perms in
+AddonsCore/fix user group perms in
 	CORE/permaprops_321321/lua/permaprops/sv_menu.lua
+
+
+AddonsCore/title_store_v2/lua/config/sh_config.lua
+	Line 127	decrease refund %
+	adjust prices
+
+AddonsCore/door_display/lua/autorun/sh_doordisplay.lua
+	line 17	- increase draw distance slightly
+	change font??
+
+AddonsCore/itemstore/lua/itemstore/config.lua
+	line 42	-	itemstore.config.PickupDistance.	make this distance shorter
+	line 45	-	itemstore.config.DropDistance. make this distance closer 
+
+
+AddonsEconomy/circle_printers/lua/entities/*
+	https://snipplr.com/view/40782/color-to-rgb-value-table-in-lua/
+	make sure "preventwireusers" is set to true
+	bronze:
+		self.CrclCfg.ModelColor = Color(179, 98, 0, 255)
+
+	silver:
+		self.CrclCfg.ModelColor = Color(192, 192, 192, 255)
+
+	Gold:
+		self.CrclCfg.ModelColor = Color(222, 190, 20, 255)
+
+	Diamond:
+		self.CrclCfg.ModelColor = Color(95, 158, 160, 255)
+
 
 
 
