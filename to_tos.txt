@@ -2,12 +2,14 @@ AddonsEconomy/derpbitminers/lua/entities/bm2_generator/init.lua
 	fuel = possibly line 139
 		probably line 205
 
+
 AddonsCore/dtj_weaponhud/lua/dtj_w_sh_config.lua
 	Edit Line 9
 	Edit Line 68
 	Edit Line 85
 	Edit Line 150
 	Edit Line 177
+
 
 * add "weapon_crowbar" to civil worker
 
@@ -20,9 +22,11 @@ AddonsCore/title_store_v2/lua/config/sh_config.lua
 	Line 127	decrease refund %
 	adjust prices
 
+
 AddonsCore/door_display/lua/autorun/sh_doordisplay.lua
 	line 17	- increase draw distance slightly
 	change font??
+
 
 AddonsCore/itemstore/lua/itemstore/config.lua
 	line 42	-	itemstore.config.PickupDistance.	make this distance shorter
@@ -34,15 +38,18 @@ AddonsEconomy/circle_printers/lua/entities/*
 	make sure "preventwireusers" is set to true
 	bronze:
 		self.CrclCfg.ModelColor = Color(179, 98, 0, 255)
-
 	silver:
 		self.CrclCfg.ModelColor = Color(192, 192, 192, 255)
-
 	Gold:
 		self.CrclCfg.ModelColor = Color(222, 190, 20, 255)
-
 	Diamond:
 		self.CrclCfg.ModelColor = Color(95, 158, 160, 255)
+
+
+AddonsCore/sh_lounge_f4_menu/lua/f4_config.lua
+	Line 94	add "admin" and "moderator" or whatever ranks...
+	should we hide each players money from others? for privacy
+	change line 201 "cleanusergroups" to shorten them up
 
 
 
