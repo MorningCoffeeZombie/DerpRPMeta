@@ -1,0 +1,23 @@
+entitied/bm2_generator/init.lua
+	fuel = possibly line 139
+		probably line 205
+
+dtj_weaponhud/lua/dtj_w_sh_config.lua
+	Edit Line 9
+	Edit Line 68
+	Edit Line 85
+	Edit Line 150
+	Edit Line 177
+
+* add "weapon_crowbar" to civil worker
+
+
+fix userg group perms in
+	CORE/permaprops_321321/lua/permaprops/sv_menu.lua
+
+
+
+
+
+
+
