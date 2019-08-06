@@ -49,11 +49,11 @@ AddonsEconomy/circle_printers/lua/entities/*
 AddonsCore/sh_lounge_f4_menu/lua/f4_config.lua
 	Line 94	add "admin" and "moderator" or whatever ranks...
 	should we hide each players money from others? for privacy
-	change line 201 "cleanusergroups" to shorten them up
+	change line 201 "cleanusergroups" to shorten them up?
 
-
+#######################
 when you buy F4 items too fast you get an error message. grep that message in the repos and find where it is...make the time between clicks much shorter (0.25 works for that other addon)
-
+#########################
 
 AddonsCore/OpenPermissions-Config/lua/openpermissions_config.lua
 	Add Will & my steam id's to the static list of operators (de-ranking backup)

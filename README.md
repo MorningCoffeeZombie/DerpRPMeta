@@ -30,6 +30,7 @@ Connect Via GMod Console: `connect 131.153.31.254:27035`
 [Install Lua / Basic](https://www.lua.org/start.html#learning)  
 [Basic Lua Tutorials](https://www.lua.org/pil/contents.html)  
 [GMod Official Lua Documentation](https://wiki.garrysmod.com/page/Main_Page)  
+[Lua Checker](https://fptje.github.io/glualint-web/)  
 
 
 # ULX Common Player Roles (Proper Syntax)
@@ -65,5 +66,8 @@ Add your github and/or steam names to this *README.md* if you contributed to the
 | | |   
 
 
+
+# Friends of the Server
+Bastixx	STEAM_0:1:91231746	Possible Moderator and event host (game master)
 
 
