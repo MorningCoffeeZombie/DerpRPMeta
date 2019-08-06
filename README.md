@@ -15,36 +15,36 @@ Connect Via GMod Console: `connect 131.153.31.254:27035`
 
 # Coding Standards
 
-* Preserve default config vaules (when possible) by commenting them out and creating a new/edited line directly below the changed code.  
+* Preserve default config vaules (when possible) by commenting them out ~~and creating a new/edited line directly below the changed code~~.  
 * Comment!  
 * Write your code as simple as possible. It should be easy to understand if never seen before.  
 * Code should be written as if it is case sensitive.  
 * Commit / Push your code every time you begin working on a new or unrelated topic from your previous edits. (Assuming code is stable)  
 * Preserve file paths and structures.  
-* Prioritize relative coding over hard-coding.  
+* Prioritize relative locations over hard-coding.  
 + Preface Arrays with "arr_", Functions with "fun_" (or similar; but consistent).  
 	* Variables are common enough it shouldn't matter.  
 
 
 # Helpful Links
+[GMod Official Lua Documentation](https://wiki.garrysmod.com/page/Main_Page)  
 [Install Lua / Basic](https://www.lua.org/start.html#learning)  
 [Basic Lua Tutorials](https://www.lua.org/pil/contents.html)  
-[GMod Official Lua Documentation](https://wiki.garrysmod.com/page/Main_Page)  
-[Lua Checker](https://fptje.github.io/glualint-web/)  
+[Lua Schema Checker](https://fptje.github.io/glualint-web/)  
 
 
 # ULX Common Player Roles (Proper Syntax)
-
-Roles (not jobs) by rank:
+Roles (not jobs) by rank. Case sensitive:
 
 * "owner"
 * "coowner"
 * "superadmin"
 * "admin"
+* "moderator"
 * "mod"
+* "vip"
 * "donator"
 * "respected"
-* "vip"
 
 
 # Server Locations
@@ -56,18 +56,21 @@ Roles (not jobs) by rank:
 | | |  
 
 
+# Friends of the Server
+
+| **RP NAME** | **STEAM** | **NOTES** |  
+|-------------|-----------|-----------|  
+| Bastixx | STEAM_0:1:91231746 | Possible Moderator and event host (game master) |  
+
+
+
+
 # Contributors
-Add your github and/or steam names to this *README.md* if you contributed to the repo:  
+Add your github and/or steam names to this *README.md* if you contributed to the DerpRP repos:  
 
 | **GITHUB** | **STEAM** |  
 |--------|-------|  
+| [colonelwager](https://github.com/colonelwager) | Derp |   
 | [MorningCoffeeZombie](https://github.com/MorningCoffeeZombie) | DrDerpenstein |  
 | | |   
-| | |   
-
-
-
-# Friends of the Server
-Bastixx	STEAM_0:1:91231746	Possible Moderator and event host (game master)
-
 
