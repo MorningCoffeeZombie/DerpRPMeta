@@ -11,39 +11,8 @@ AddonsCore/dtj_weaponhud/lua/dtj_w_sh_config.lua
 	Edit Line 177
 
 
-* add "weapon_crowbar" to civil worker
-
-
 AddonsCore/fix user group perms in
 	CORE/permaprops_321321/lua/permaprops/sv_menu.lua
-
-
-AddonsCore/title_store_v2/lua/config/sh_config.lua
-	Line 127	decrease refund %
-	adjust prices
-
-
-AddonsCore/door_display/lua/autorun/sh_doordisplay.lua
-	line 17	- increase draw distance slightly
-	change font??
-
-
-AddonsCore/itemstore/lua/itemstore/config.lua
-	line 42	-	itemstore.config.PickupDistance.	make this distance shorter
-	line 45	-	itemstore.config.DropDistance. make this distance closer 
-
-
-AddonsEconomy/circle_printers/lua/entities/*
-	https://snipplr.com/view/40782/color-to-rgb-value-table-in-lua/
-	make sure "preventwireusers" is set to true
-	bronze:
-		self.CrclCfg.ModelColor = Color(179, 98, 0, 255)
-	silver:
-		self.CrclCfg.ModelColor = Color(192, 192, 192, 255)
-	Gold:
-		self.CrclCfg.ModelColor = Color(222, 190, 20, 255)
-	Diamond:
-		self.CrclCfg.ModelColor = Color(95, 158, 160, 255)
 
 
 AddonsCore/sh_lounge_f4_menu/lua/f4_config.lua
@@ -59,10 +28,8 @@ AddonsCore/OpenPermissions-Config/lua/openpermissions_config.lua
 	Add Will & my steam id's to the static list of operators (de-ranking backup)
 	the ../openpermissions_luq_functions.lua 	could be a very useful file
 
+#########################################################################
 
-Rearrange the arcade/casino in spawn
-	make it more 'vegas like'
-	block the garage door from closing.
 
 
 
