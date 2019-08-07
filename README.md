@@ -31,6 +31,7 @@ Connect Via GMod Console: `connect 131.153.31.254:27035`
 [Install Lua / Basic](https://www.lua.org/start.html#learning)  
 [Basic Lua Tutorials](https://www.lua.org/pil/contents.html)  
 [Lua Schema Checker](https://fptje.github.io/glualint-web/)  
+[CSite LUA Entity Creator](https://csite.io/tools)  
 
 
 # ULX Common Player Roles (Proper Syntax)
