@@ -30,7 +30,13 @@ AddonsCore/OpenPermissions-Config/lua/openpermissions_config.lua
 
 #########################################################################
 
-
+FREE ADDONS:
+add nocollide world
+add headcrab remover
+add an act menu
+add propshare
+thirdperson
+slappers
 
 
 

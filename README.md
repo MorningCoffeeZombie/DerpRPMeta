@@ -33,6 +33,7 @@ Connect Via GMod Console: `connect 131.153.31.254:27035`
 [Basic Lua Tutorials](https://www.lua.org/pil/contents.html)  
 [Lua Schema Checker](https://fptje.github.io/glualint-web/)  
 [CSite LUA Entity Creator](https://csite.io/tools)  
+[Garry Newman's Github](https://github.com/garrynewman)  
 
 
 # ULX Common Player Roles (Proper Syntax)
