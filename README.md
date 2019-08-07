@@ -28,6 +28,7 @@ Connect Via GMod Console: `connect 131.153.31.254:27035`
 
 # Helpful Links
 [GMod Official Lua Documentation](https://wiki.garrysmod.com/page/Main_Page)  
+[DarkRP Dev Wiki](https://wiki.darkrp.com/index.php/Main_Page)  
 [Install Lua / Basic](https://www.lua.org/start.html#learning)  
 [Basic Lua Tutorials](https://www.lua.org/pil/contents.html)  
 [Lua Schema Checker](https://fptje.github.io/glualint-web/)  
