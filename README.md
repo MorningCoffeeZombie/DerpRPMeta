@@ -51,6 +51,7 @@ Roles (not jobs) by rank. Case sensitive:
 
 # Ammo types
 
+* "None"
 * "pistol"
 * "357"
 * "smg1"
