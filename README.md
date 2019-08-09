@@ -58,8 +58,10 @@ Roles (not jobs) by rank. Case sensitive:
 * "ar2"
 * "buckshot"
 * "crossbow"
-* **UNTESTED:** "rpg_round"
+* "grenade"
+* "rpg_round"
 * **INFINITE:** "crate"
+* **GRENADE LAUNCHER:** "SMG1_Grenade"
 
 
 # Server Locations
