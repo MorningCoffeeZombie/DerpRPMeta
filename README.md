@@ -49,6 +49,17 @@ Roles (not jobs) by rank. Case sensitive:
 * "donator"
 * "respected"
 
+# Ammo types
+
+* "pistol"
+* "357"
+* "smg1"
+* "ar2"
+* "buckshot"
+* "crossbow"
+* **UNTESTED:** "rpg_round"
+* **INFINITE:** "crate"
+
 
 # Server Locations
 
