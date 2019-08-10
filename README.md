@@ -5,7 +5,7 @@ Development resources for DerpRP
 
 
 # Connect
-Connect Via GMod Console: `connect 131.153.31.254:27025`  
+Connect Via GMod Console: `connect 131.153.31.254:27035`  
 Dev Server: `connect 131.153.29.245:27025`
 [Discord](https://discord.gg/YVMUpe) | [Alternate Discord](https://discord.gg/crFNW7)  
 [Forums](http://rpforum.derpdarkrp.nn.pe/index.php)  
