@@ -4,16 +4,15 @@ BM2CONFIG = {}
 BM2CONFIG.GeneratorsProduceSound = true
 
 --Dollas a bitcoins sells for. Dont make this too large or it will be too easy to make money
-BM2CONFIG.BitcoinValue = 625	-- 700 was nice, lowering to 625 to make sure that the "end game" of having a full BTC setup isn't OP
+BM2CONFIG.BitcoinValue = 850
 
 --This is a value that when raising or lowering will effect the speed of all bitminers.
 --This is a balanced number and you should only change it if you know you need to. Small increments make big differences
-BM2CONFIG.BaseSpeed = 0.0035	--Default
-
+BM2CONFIG.BaseSpeed = 0.005
 
 --The higher this number, the faster the generator will loose fuel.
 --You can use this to balance out more so they need to buy fuel more frequently
-BM2CONFIG.BaseFuelDepletionRate = 0.5
+BM2CONFIG.BaseFuelDepletionRate = 0.9 --0.9 default
 
 
 --This will allow you to change the default generator output level
@@ -30,51 +29,47 @@ BM2CONFIG.BitminerSpeedMulipliers = {
 
 hook.Add("loadCustomDarkRPItems", "BM2.RegisterEntities", function()
 	DarkRP.createCategory{
-		name = "Bitminers",
+		name = "Bitminers 2",
 		categorises = "entities",
 		startExpanded = true,
 		color = Color(120, 120, 255, 255),
-		canSee = function(ply) return table.HasValue({TEAM_BITMINER}, ply:Team()) end,
-		sortOrder = 1
+		sortOrder = 1,
 	}
 
 	DarkRP.createEntity("Bitminer S1", {
 		ent = "bm2_bitminer_1",
 		model = "models/bitminers2/bitminer_1.mdl",
-		price = 1500,
+		price = 5000,
 		max = 4,
 		cmd = "buybitminers1",
-		category = "Bitminers",
-		allowed = {TEAM_BITMINER}
-	})
+		category = "Bitminers 2"
+	}) 
 
 	DarkRP.createEntity("Bitminer S2", {
 		ent = "bm2_bitminer_2",
 		model = "models/bitminers2/bitminer_3.mdl",
-		price = 3000,
+		price = 25000,
 		max = 4,
 		cmd = "buybitminers2",
-		category = "Bitminers",
-		allowed = {TEAM_BITMINER}
+		category = "Bitminers 2"
 	})
+
 	DarkRP.createEntity("Bitminer Server", {
 		ent = "bm2_bitminer_server",
 		model = "models/bitminers2/bitminer_2.mdl",
-		price = 7500,
+		price = 50000,
 		max = 16,
 		cmd = "buybitminerserver",
-		category = "Bitminers",
-		allowed = {TEAM_BITMINER}
+		category = "Bitminers 2"
 	})
 
 	DarkRP.createEntity("Bitminer Rack", {
 		ent = "bm2_bitminer_rack",
 		model = "models/bitminers2/bitminer_rack.mdl",
-		price = 12500,
+		price = 100000,
 		max = 2,
 		cmd = "buybitminerrack",
-		category = "Bitminers",
-		allowed = {TEAM_BITMINER}
+		category = "Bitminers 2"
 	})
 
 	DarkRP.createEntity("Extension Lead", {
@@ -83,8 +78,7 @@ hook.Add("loadCustomDarkRPItems", "BM2.RegisterEntities", function()
 		price = 500,
 		max = 8,
 		cmd = "buybitminerextension",
-		category = "Bitminers",
-		allowed = {TEAM_BITMINER}
+		category = "Bitminers 2"
 	})
 
 	DarkRP.createEntity("Power Lead", {
@@ -93,28 +87,25 @@ hook.Add("loadCustomDarkRPItems", "BM2.RegisterEntities", function()
 		price = 500,
 		max = 10,
 		cmd = "buybitminerpowerlead",
-		category = "Bitminers",
-		allowed = {TEAM_BITMINER}
+		category = "Bitminers 2"
 	})
 
 	DarkRP.createEntity("Generator", {
 		ent = "bm2_generator",
 		model = "models/bitminers2/generator.mdl",
 		price = 6000,
-		max = 2, --Defait 3
+		max = 3,
 		cmd = "buybitminergenerator",
-		category = "Bitminers",
-		allowed = {TEAM_BITMINER}
+		category = "Bitminers 2"
 	})
 
 	DarkRP.createEntity("Fuel", {
 		ent = "bm2_fuel",
 		model = "models/props_junk/gascan001a.mdl",
 		price = 1000,
-		max = 6, --Default 4
+		max = 4,
 		cmd = "buybitminerfuel",
-		category = "Bitminers",
-		allowed = {TEAM_BITMINER}
+		category = "Bitminers 2"
 	})
 
 	hook.Call("BM2_DLC_loadCustomDarkRPItems")

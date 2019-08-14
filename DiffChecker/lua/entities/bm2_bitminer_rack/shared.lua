@@ -2,11 +2,10 @@ ENT.Type = "anim"
 
 ENT.PrintName = "Bitminer Rack"
 ENT.Spawnable = true
-ENT.Category = "Bitminers"
+ENT.Category = "Bitminers 2"
 
 ENT.upgrades = {
-	--CPU = {name = "CPU Speed +256MHz", cost = {2000,4000,8000,16000,320000, 64000, 128000}, amountPerUpgrade = 0.256},	--Default
-	CPU = {name = "CPU Speed +256MHz", cost = {1500,3000,3500,9000,18000, 33000, 75000}, amountPerUpgrade = 0.256},
+	CPU = {name = "Overclocks all server by +256MHz", cost = {2000,4000,8000,16000,32000, 64000, 128000}, amountPerUpgrade = 0.256},
 	CORES = {name = "Adds an extra core", cost = {}} //Altough were not using it, by having an empty table it will prevent errors
 }
 

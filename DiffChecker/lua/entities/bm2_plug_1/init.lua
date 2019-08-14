@@ -99,9 +99,9 @@ end
 function ENT:Use(act, caller)
 	self:UnPlug()
 end
-
+ 
 function ENT:OnRemove()
-	if self.parent then
+	if self.parent and IsValid(self.parent) then
 		self.parent:Remove()
 	end
 end

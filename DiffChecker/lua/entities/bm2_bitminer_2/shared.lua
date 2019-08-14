@@ -2,13 +2,11 @@ ENT.Type = "anim"
 
 ENT.PrintName = "Bitminer 2"
 ENT.Spawnable = true
-ENT.Category = "Bitminers"
+ENT.Category = "Bitminers 2"
 
 ENT.upgrades = {
-	--CPU = {name = "CPU Speed +256MHz", cost = {2000,4000,8000,16000,320000, 64000, 128000}, amountPerUpgrade = 0.256},	--Default
-	CPU = {name = "CPU Speed +256MHz", cost = {1000,2000,3500,8000,16500, 33000, 69000}, amountPerUpgrade = 0.256},
-	--CORES = {name = "Adds an extra core", cost = {50000, 10000, 175000}}	--Default
-	CORES = {name = "Adds an extra core", cost = {3500, 7000, 15000}}
+	CPU = {name = "CPU Speed +256MHz", cost = {2000,4000,8000,16000,320000, 64000, 128000}, amountPerUpgrade = 0.256},
+	CORES = {name = "Adds an extra core", cost = {50000, 10000, 175000}}
 }
 
 function ENT:SetupDataTables()

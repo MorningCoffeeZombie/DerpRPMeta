@@ -17,6 +17,16 @@ function ENT:Initialize()
 	self.inserted = false
 end	
 
+function ENT:OnRemove()
+	print("check 1")
+	if self.parentServer ~= nil then
+			print("check 2")
+		if self.beenPlacedIntoRack then
+				print("check 3")
+			self.parentServer:RemoveServer(self.index) 
+		end
+	end
+end
 
 //Destroying it
 function ENT:OnTakeDamage(damage)

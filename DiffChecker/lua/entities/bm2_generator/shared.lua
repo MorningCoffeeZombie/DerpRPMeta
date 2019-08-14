@@ -3,7 +3,7 @@ ENT.Base = "base_gmodentity"
 
 ENT.PrintName = "Generator"
 ENT.Spawnable = true
-ENT.Category = "Bitminers"
+ENT.Category = "Bitminers 2"
 
 ENT.RenderGroup = RENDERGROUP_TRANSLUCENT
 

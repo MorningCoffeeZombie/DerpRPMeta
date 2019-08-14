@@ -102,6 +102,10 @@ end
 //Adds a server to the rack
 function ENT:StartTouch(e)
 	if e:GetClass() == "bm2_bitminer_server" then
+		if(table.Count(self.rack) == 8) then
+			return
+		end
+
 		if e.beenPlacedIntoRack then return end
 		e.beenPlacedIntoRack = true
 		local hasSpace = -1
@@ -121,6 +125,8 @@ function ENT:StartTouch(e)
 			e:SetMoveType(MOVETYPE_NONE)
 			e:SetParent(self)
 			self.rack[hasSpace] = e
+			self.rack[hasSpace].index = hasSpace
+			self.rack[hasSpace].parentServer = self
 			self.cores = self.cores + self.serverCores 
 			self:UpdateConnectedServers()
 		end

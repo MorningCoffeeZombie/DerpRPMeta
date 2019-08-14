@@ -6,8 +6,7 @@ sound.Add( {
 	name = "bm2_engine",
 	channel = CHAN_STATIC,
 	volume = 1,
-	--level = 75,	--Default
-	level = 65,	--https://wiki.garrysmod.com/page/Enums/SNDLVL		https://wiki.garrysmod.com/page/Structures/SoundData
+	level = 75,
 	pitch = { 95, 110 },
 	sound = "vehicles/v8/v8_idle_loop1.wav"
 } )
@@ -203,7 +202,7 @@ function ENT:OnRemove()
 end
 
 function ENT:StartTouch(ent)
-	if ent:GetClass() == "bm2_fuel" or ent:GetClass() == "bm2_large_fuel" or ent:GetClass() == "zwf_fuel" then	--if ent:GetClass() == "bm2_fuel" or ent:GetClass() == "bm2_large_fuel" then	--This was the defualt code before integration with weedfarm
+	if ent:GetClass() == "bm2_fuel" or ent:GetClass() == "bm2_large_fuel" then
 		if not ent.used then
 			ent.used = true
 			ent:Remove()
