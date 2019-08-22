@@ -1,5 +1,7 @@
 OFFICIAL MOD TITLE (folder name),COMMAND,PERMISSIONS,DESCRIPTION,CONFIG FILE LOCATION
-,/safezones,SA+,,
+sh_safezones,/safezones,SA+,,AddonsRP/sh_safezones/lua/sz_config.lua
+sh_safezones,/safezone,SA+,,AddonsRP/sh_safezones/lua/sz_config.lua
+sh_safezones,/sz,SA+,,AddonsRP/sh_safezones/lua/sz_config.lua
 lean_prod,/leancfg,,Configure “Lean Chef” addon,
 double or nothing,!saveslots,,Double or Nothing casino addon command,/double or nothing/lua/bdon_config.lua
 eradication,!purge_store,User+,Open the Purge store while a purge is active,/eradication/lua/eradication/eradication_config.lua
@@ -16,3 +18,7 @@ darkrpmodification,,Root,RP jobs configs,/darkrpmodification/lua/darkrp_customth
 title_store_v2,titlesadmin,Staff,Title shop admin command.,/title_store_v2/lua/config/sh_config.lua
 title_store_v2,titlestoresave,Staff,Save the location of the title store NPC,/title_store_v2/lua/config/sh_config.lua
 title_store_v2,!titles,User+,Edit your current title,/title_store_v2/lua/config/sh_config.lua
+Blues-unboxing-3,bu3_items,SA+,This console command prints out a list of all registered items and there ID for when you need it,/blues-unboxing-3/lua/bu3_config.lua
+Blues-unboxing-3,bu3_give <STEAMID64> <ITEM ID> <AMOUNT>,SA+,This will give an online player the item and the amount.,/blues-unboxing-3/lua/bu3_config.lua
+Blues-unboxing-3,bu3_give_all <ITEM ID> <AMOUNT>,SA+,Gives all the online players that item and amount,/blues-unboxing-3/lua/bu3_config.lua
+Blues-unboxing-3,bu3_wipe <STEAMID64>,SA+,This will delete a players inventory,/blues-unboxing-3/lua/bu3_config.lua
