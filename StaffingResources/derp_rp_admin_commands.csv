@@ -22,3 +22,4 @@ Blues-unboxing-3,bu3_items,SA+,This console command prints out a list of all reg
 Blues-unboxing-3,bu3_give <STEAMID64> <ITEM ID> <AMOUNT>,SA+,This will give an online player the item and the amount.,/blues-unboxing-3/lua/bu3_config.lua
 Blues-unboxing-3,bu3_give_all <ITEM ID> <AMOUNT>,SA+,Gives all the online players that item and amount,/blues-unboxing-3/lua/bu3_config.lua
 Blues-unboxing-3,bu3_wipe <STEAMID64>,SA+,This will delete a players inventory,/blues-unboxing-3/lua/bu3_config.lua
+itemstore,/invholster,User+,Automatically put the gun/SWEP you’re holding into your pocket/inventory,/AddonsCore/itemstore/lua/itemstore/config.lua
