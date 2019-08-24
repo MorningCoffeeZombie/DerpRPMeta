@@ -16,23 +16,23 @@ IF YOU COMPLETE SOMETHING - DO NOT REMOVE IT! CROSS IT OFF
 //////////////////
 
 Money printers
-	Increase print time
-	Decrease payout
-	Decrease upgrade / purchase costs
-	Require non-afk action (refill, fix, etc.)
-	Only 2-4 printers (of any type) max. per player
+--	Increase print time
+--	Decrease payout
+--	Decrease upgrade / purchase costs
+--	Require non-afk action (refill, fix, etc.)
+--	Only 2-4 printers (of any type) max. per player
 Cash Burns
-	Hunger
-	Theft
-	Ammo (decrease default ammo)
+--	Hunger
+--	Theft
+--	Ammo (decrease default ammo)
 	Consumables (guns, food, apparel, buffs, etc.). Things that are destroyed upon death/jail.
 		Non-refundable (or consumable entities)
 			DJ radios
-			Microwaves
+--			Microwaves
 			Tip jars
 	Gambling / Lottories
 --	Property prices (pay to own a base)
-	Taxes
+--	Taxes
 	Bail (early realease from PD)
 	Materializing player models (until they log off)
 --Bitcoin
@@ -40,23 +40,23 @@ Cash Burns
 --	Decrease BTC price (payout)
 --	Increase max. amount fuel cannisters
 --	Decrease max. amount generators
-	Decrease wait time between purchasing fuel
-		This is not in the bitminers code, must be part of the UI
+--	Decrease wait time between purchasing fuel
+--		This is not in the bitminers code, must be part of the UI
 		(More for UI) can the terminal be improved?
-	Adjust cost of upgrades (CPU cores, etc.)
+--	Adjust cost of upgrades (CPU cores, etc.)
 Cars
-	Decrease price
-	Fix ratio of purchase : repair
+--	Decrease price
+--	Fix ratio of purchase : repair
 Guns
-	Stabilize price
+--	Stabilize price
 Jobs
-	Decrease wages (eliminate wages?). You get money for nothing/afk-ing 
+--	Decrease wages (eliminate wages?). You get money for nothing/afk-ing 
 Robbery (bank, jewelry, etc.)
-	Decrease payout
-	Decrease total bags/vault
+--	Decrease payout
+--	Decrease total bags/vault
 Casino
-	Review/adjust odds
-	"Barrier to entry" to "potential payout" ratio far too favorable for players
+--	Review/adjust odds
+--	"Barrier to entry" to "potential payout" ratio far too favorable for players
 	/casino, decrease speed of stock market results. Make the % gains take longer.
 	/casino, add possibility for small -% streaks (more realistic, helps balance)
 	mCasino settings may be held via api. check /mlib/lua/autorun/mlib.lua for this:	"https://api.m4dsolutions.com:8130/mlib/"
@@ -64,10 +64,10 @@ Unbox
 --	Hide money boxes (will be used later but are currently OP)
 	Perma sweps should be offered via donation / credit only
 Drugs
-	Must serve a consumable purchase
-	Require user to take more risk to sell / deliver
+--	Must serve a consumable purchase
+--	Require user to take more risk to sell / deliver
 --		Adjusted for meth mod
-	More risky to run and manage (goes to theft)
+--	More risky to run and manage (goes to theft)
 --		Adjusted for meth mod
 	Do something better than a "lean cup"
 
