@@ -24,3 +24,4 @@ Blues-unboxing-3,bu3_give_all <ITEM ID> <AMOUNT>,SA+,Gives all the online player
 Blues-unboxing-3,bu3_wipe <STEAMID64>,SA+,This will delete a players inventory,/blues-unboxing-3/lua/bu3_config.lua
 itemstore,/invholster,User+,Automatically put the gun/SWEP you’re holding into your pocket/inventory,/AddonsCore/itemstore/lua/itemstore/config.lua
 screengrab,screengrab,SA+,Type this into the console to take screenshots of EXACTLY what another player sees,https://github.com/cobalt77/Screengrab.git
+edgehud,edgehud_config ,SA+,Edit global options for all users regarding HUD elements,/edgehud/lua/edgehud/sh_configuration.lua
