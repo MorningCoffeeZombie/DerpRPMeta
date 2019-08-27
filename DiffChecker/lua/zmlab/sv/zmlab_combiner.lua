@@ -67,23 +67,36 @@ function zmlab.f.Combiner_StartTouch(Combiner,other)
 
         if other:GetClass() == "zmlab_filter" and Combiner:GetHasFilter() == false then
 
-            zmlab.f.Combiner_AttachFilter(Combiner, other)
+            timer.Simple(0, function()
+                if IsValid(Combiner) and IsValid(other) then
+                    zmlab.f.Combiner_AttachFilter(Combiner, other)
+                end
+            end)
 
         elseif other:GetClass() == "zmlab_methylamin" and currentStage == 1 and Combiner:GetMethylamin() < Combiner:GetNeedMethylamin() then
+            timer.Simple(0, function()
+                if IsValid(Combiner) and IsValid(other) then
+                    zmlab.f.Combiner_MethylaminLoader(Combiner, other)
+                end
+            end)
 
-            zmlab.f.Combiner_MethylaminLoader(Combiner, other)
         elseif other:GetClass() == "zmlab_aluminium" and currentStage == 3 and Combiner:GetAluminium() < Combiner:GetNeedAluminium() then
-
-            zmlab.f.Combiner_AluminiumLoader(Combiner, other)
-
+            timer.Simple(0, function()
+                if IsValid(Combiner) and IsValid(other) then
+                    zmlab.f.Combiner_AluminiumLoader(Combiner, other)
+                end
+            end)
         end
 
     end
 
 
     if not IsValid(Combiner.OutputModule) and other:GetClass() == "zmlab_frezzingtray" and currentStage == 7 and other.STATE == "EMPTY" then
-
-        zmlab.f.Combiner_AddTray(Combiner,other)
+        timer.Simple(0, function()
+            if IsValid(Combiner) and IsValid(other) then
+                zmlab.f.Combiner_AddTray(Combiner,other)
+            end
+        end)
     end
 end
 
@@ -181,7 +194,7 @@ function zmlab.f.Combiner_StopTimer(Combiner)
 end
 
 function zmlab.f.Combiner_NextStage(Combiner)
-    Combiner:SetStage(Combiner:GetStage() + 1)
+    Combiner:SetStage(math.Clamp(Combiner:GetStage() + 1,1,8))
     local currentStage = Combiner:GetStage()
 
     zmlab.f.Debug("zmlab.f.Combiner_NextStage: " .. currentStage)

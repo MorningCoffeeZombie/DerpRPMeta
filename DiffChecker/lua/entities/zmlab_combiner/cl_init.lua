@@ -44,7 +44,10 @@ function ENT:DrawInfo()
 
 		// NextStep Text
 		draw.DrawText(zmlab.language.combiner_nextstep, "zmlab_nextstep", -350, -90, zmlab.default_colors["white01"], TEXT_ALIGN_LEFT)
-		draw.DrawText(zmlab_combiner_stageinfo[self.LastStage], "zmlab_font_info", -80, -88, zmlab.default_colors["yellow01"], TEXT_ALIGN_LEFT)
+
+		if self.LastStage and zmlab_combiner_stageinfo[self.LastStage] then
+			draw.DrawText(zmlab_combiner_stageinfo[self.LastStage], "zmlab_font_info", -80, -88, zmlab.default_colors["yellow01"], TEXT_ALIGN_LEFT)
+		end
 
 		if self.LastStage == 3 then
 			draw.DrawText(zmlab.language.aluminium .. ": " .. self:GetNeedAluminium() .. " (" .. self:GetAluminium() .. ")", "zmlab_font1", -350, -170, zmlab.default_colors["white01"], TEXT_ALIGN_LEFT)
@@ -269,6 +272,8 @@ function ENT:OnRemove()
 	self:StopSound("Combiner_filtering")
 
 	self:RemoveClientModels()
+
+	if self.Sounds == nil then return end
 
 	for k, v in pairs(self.Sounds) do
 		if v and v:IsPlaying() then

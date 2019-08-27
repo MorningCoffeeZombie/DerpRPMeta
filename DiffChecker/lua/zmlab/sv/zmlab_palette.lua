@@ -21,6 +21,7 @@ function zmlab.f.Palette_AddCrate(Palette, crate)
     if (crate:GetMethAmount() >= zmlab.config.TransportCrate.Capacity and Palette:GetCrateCount() < 12) then
         Palette:SetCrateCount(Palette:GetCrateCount() + 1)
         Palette:SetMethAmount(Palette:GetMethAmount() + crate:GetMethAmount())
-        crate:Remove()
+
+        SafeRemoveEntity(crate)
     end
 end

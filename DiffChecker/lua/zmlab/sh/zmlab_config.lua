@@ -4,7 +4,7 @@ zmlab.config = zmlab.config || {}
 ////////////////////////////////////////////////////////////////////////////////
 
 // Bought by 76561198065274788
-// Version 1.4.2
+// Version 1.4.4
 
 ////////////////////////////////////////////////////////////////////////////////
 // Developed by ZeroChain:
@@ -31,13 +31,12 @@ zmlab.config.Debug = false
 
 
 // This lets you set what Language we want do use
-// en,de,dk,es,fr,pl,ru,tr, cn
+// en,de,dk,es,fr,pl,ru,tr, cn , pt
 zmlab.config.SelectedLanguage = "en"
 
 // These Ranks are allowed do use the Chat Command  !savezmlab  which saves all the NPCs and DropOff Points
 zmlab.config.AdminRanks = {
 	["superadmin"] = true,
-	["coowner"] = true,
 	["owner"] = true,
 }
 
@@ -50,20 +49,19 @@ zmlab.config.UoW = "g"
 // The Damage the entitys have do take before they get destroyed.
 // Setting it to -1 disables it
 zmlab.config.Damageable = {
-	["zmlab_combiner"] = 300,
-	["zmlab_frezzer"] = 225,
-	["zmlab_methylamin"] = 100,
-	["zmlab_aluminium"] = 100,
-	["zmlab_filter"] = 200,
-	["zmlab_collectcrate"] = -1,
-	["zmlab_meth_baggy"] = -1,
-	["zmlab_meth"] = -1,
-	["zmlab_palette"] = 500,
+	["zmlab_combiner"] = 200,
+	["zmlab_frezzer"] = 150,
+	["zmlab_methylamin"] = 25,
+	["zmlab_aluminium"] = 25,
+	["zmlab_filter"] = 100,
+	["zmlab_collectcrate"] = 100,
+	["zmlab_meth_baggy"] = 25,
+	["zmlab_meth"] = 25,
+	["zmlab_palette"] = 150,
 }
 
 // Disables the Owner Checks so everyone can use everyones methlab entitys
---zmlab.config.SharedOwnership = false	--Default
-zmlab.config.SharedOwnership = true
+zmlab.config.SharedOwnership = false
 
 // Do we have VrondakisLevelSystem installed?
 zmlab.config.Vrondakis = {
@@ -161,22 +159,17 @@ zmlab.config.MethExtractorSWEP = {
 zmlab.config.Police = {
 
 	// Should the player get wanted once he sells meth?
-	--WantedOnMethSell = true,	--Default
-	WantedOnMethSell = false, --It's government's job to witness crimes
+	WantedOnMethSell = true,
 
 	// These jobs can get extra money if they destroy TransportCrates filled with meth and also get a Wanted notification once a player sells meth
 	Jobs = {
 		["Civil Protection"] = true,
 		["SWAT"] = true,
-		["Police Officer"] = true, 	--Added by MorningCoffeeZombie
-		["Police Chief"] = true, 	--Added by MorningCoffeeZombie
-		["SWAT Operator"] =true, 	--Added by MorningCoffeeZombie
-		["Cop"] = true,
 	},
 
 	// The money the police player receives (for destroying the TransportCrate) is the same amount the meth producer receives times this value
 	// 1 = 100% , 0.5 = 50%
-	PoliceCut = 0.5,	-- Default 1
+	PoliceCut = 1,
 }
 
 zmlab.config.Meth = {
@@ -187,11 +180,10 @@ zmlab.config.Meth = {
 	Consumable = true,
 
 	// The Damage a player gets when consuming meth
-	Damage = -10,	-- Default 10. Negative numbers will GIVE health
+	Damage = 10,
 
 	// The duration a bag of meth can get you high
-	--EffectDuration = 30,	--Default
-	EffectDuration = 60,
+	EffectDuration = 30,
 
 	// This enables the music that plays while the player is high
 	//*Note The music can only be heard from the player that uses the drug
@@ -204,8 +196,7 @@ zmlab.config.Methylamin = {
 	Max = 3,
 
 	// Do we want do randomize the needed Methylamin amount for each Cook? (If yes then it will use zmlab.config.Meth.Max as max value)
-	--Random = true,	--Default
-	Random = false,	--Consistent batches
+	Random = true,
 }
 
 zmlab.config.Aluminium = {
@@ -213,8 +204,7 @@ zmlab.config.Aluminium = {
 	Max = 3,
 
 	// Do we want do randomize the needed Aluminium amount for each Cook? (If yes then it will use zmlab.config.Aluminium.Max as max value)
-	--Random = true,	--Default
-	Random = false,	--Consistent batches
+	Random = true,
 }
 
 
@@ -226,8 +216,7 @@ zmlab.config.MethBuyer = {
 	ShowEffect = true,
 
 	// What Sell mode do we want?
-	--SellMode = 3,	--Default
-	SellMode = 2,	--Makes dealing more risky
+	SellMode = 3,
 	// 1 = Methcrates can be absorbed by Players and sold by the MethBuyer on use
 	// 2 = Methcrates cant be absorbed and the MethBuyer tells you a dropoff point instead (Palette Entity gets used here for easier transport)
 	// 3 = Methcrates can be absorbed and the MethBuyer tells you a dropoff point
@@ -235,43 +224,28 @@ zmlab.config.MethBuyer = {
 	// Sell Price per unit
 	// Examble: 1kg Meth = 7$ for a user Rank
 	SellRanks = {
-		--[[ DEFAULTS BELOW: (attempting to decrease price and not give undo privilege to different ranks
 		["default"] = 5, // This value gets used if the players rank is not definied in the table
 		["user"] = 7,
 		["superadmin"] = 15,
 		["vip"] = 10,
-		]]--
-		["owner"] = 33,
-		["coowner"] = 33,
-		["superadmin"] = 33,
-		["admin"] = 33,
-		["mod"] = 33,
-		["vip"] = 33,
-		["user"] = 30,
-		["default"] = 30, --Copied from line above. All players now sell for $5/kg
 	},
 
 	// Here you can add all the Jobs that can sell Meth
 	//*Note* This has do be the exact name of the Job, Leave empty the table to allow everyone to sell meth
---[[	Customers = {
+	Customers = {
 		["Master Meth Cook"] = true,
 		["Gangster"] = true,
-		["Professional Robber"] = true,	--Added to increase risk of theft
-		["Robber"] = true,	--Added to increase risk of theft
 	},
---]]
-		Customers = {},	-- Made this empty so anyone can sell
 }
 
 zmlab.config.DropOffPoint = {
 
 	// The Time in seconds before Dropoff Point closes.
-	--DeliverTime = 60,	--Default
-	DeliverTime = 180,	--Increasing to deal with new risks of distribution
+	DeliverTime = 60,
 
 	// The Time in seconds till you can request another dropoff point.
-	DeliverRequest_CoolDown = 30,	-- Default 60
+	DeliverRequest_CoolDown = 60,
 
 	// Do we want the DropOff Point do close as soon as it gets a Meth Drop
-	OnTimeUse = false,	-- Default true
+	OnTimeUse = true,
 }

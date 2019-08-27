@@ -47,7 +47,11 @@ function zmlab.f.Frezzer_StartTouch(Frezzer, other)
         local traypos = zmlab.f.Frezzer_FindEmptyTrayPos(Frezzer)
 
         if traypos then
-            zmlab.f.Frezzer_AddTray(Frezzer, other, traypos)
+            timer.Simple(0, function()
+                if IsValid(Frezzer) then
+                    zmlab.f.Frezzer_AddTray(Frezzer, other, traypos)
+                end
+            end)
         end
     end
 end

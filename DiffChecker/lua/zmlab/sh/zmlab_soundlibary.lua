@@ -5,9 +5,8 @@ sound.Add({
 	volume = 0.2,
 	level = 80,
 	pitch = {85, 90},
-	sound = {"zmlab/meth_consum_music.wav"}	
+	sound = {"zmlab/meth_consum_music.wav"}
 })
--- sound = {"zmlab/meth_consum_music.wav","zmlab/semi_charmed_life_44100hz_16bit_mono.wav","zmlab/dipset_santanas_town_16bit_22050_mono.wav"}
 
 sound.Add({
 	name = "sfx_meth_consum",

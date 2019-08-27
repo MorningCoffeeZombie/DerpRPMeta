@@ -1,8 +1,7 @@
 if not CLIENT then return end
 
 surface.CreateFont("zmlab_font1", {
-	--font = "Marlett",	--Default
-	font = "Arial",	--Font with better support
+	font = "Marlett",
 	extended = true,
 	size = 50,
 	weight = 500,
@@ -10,8 +9,7 @@ surface.CreateFont("zmlab_font1", {
 })
 
 surface.CreateFont("zmlab_font_processing", {
-	--font = "Marlett",	--Default
-	font = "Arial",	--Font with better support
+	font = "Marlett",
 	extended = true,
 	size = 60,
 	weight = 500,
@@ -19,8 +17,7 @@ surface.CreateFont("zmlab_font_processing", {
 })
 
 surface.CreateFont("zmlab_nextstep", {
-	--font = "Marlett",	--Default
-	font = "Arial",	--Font with better support
+	font = "Marlett",
 	extended = true,
 	size = 40,
 	weight = 500,
@@ -28,8 +25,7 @@ surface.CreateFont("zmlab_nextstep", {
 })
 
 surface.CreateFont("zmlab_font2", {
-	--font = "Marlett",	--Default
-	font = "Arial",	--Font with better support
+	font = "Marlett",
 	extended = true,
 	size = 40,
 	weight = 500,
@@ -37,8 +33,7 @@ surface.CreateFont("zmlab_font2", {
 })
 
 surface.CreateFont("zmlab_font_info", {
-	--font = "Marlett",	--Default
-	font = "Arial",	--Font with better support
+	font = "Marlett",
 	extended = true,
 	size = 30,
 	weight = 500,
@@ -47,8 +42,7 @@ surface.CreateFont("zmlab_font_info", {
 
 
 surface.CreateFont("zmlab_font3", {
-	--font = "Marlett",	--Default
-	font = "Arial",	--Font with better support
+	font = "Marlett",
 	extended = true,
 	size = 75,
 	weight = 500,
@@ -64,8 +58,7 @@ surface.CreateFont("zmlab_npc", {
 })
 
 surface.CreateFont("zmlab_font4", {
-	--font = "Marlett",	--Default
-	font = "Arial",	--Font with better support
+	font = "Marlett",
 	extended = true,
 	size = 100,
 	weight = 900,
@@ -73,8 +66,7 @@ surface.CreateFont("zmlab_font4", {
 })
 
 surface.CreateFont("zmlab_font5", {
-	--font = "Marlett",	--Default
-	font = "Arial",	--Font with better support
+	font = "Marlett",
 	extended = true,
 	size = 15,
 	weight = 900,
