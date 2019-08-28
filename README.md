@@ -35,6 +35,7 @@ Dev Server: `connect 131.153.29.245:27025`
 [Lua Schema Checker](https://fptje.github.io/glualint-web/)  
 [CSite LUA Entity Creator](https://csite.io/tools)  
 [Garry Newman's Github](https://github.com/garrynewman)  
+[List of Valid DarkRP Vars](https://wiki.darkrp.com/index.php/LUA:DarkRPVars)  
 
 
 # ULX Common Player Roles (Proper Syntax)
