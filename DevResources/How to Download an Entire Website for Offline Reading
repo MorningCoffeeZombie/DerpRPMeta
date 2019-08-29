@@ -1,0 +1,2055 @@
+
+<!DOCTYPE html>
+
+<html lang="en-US">
+
+<head>
+  <meta charset="UTF-8">
+
+  <link rel='preconnect' href='https://static.makeuseof.com' crossorigin/>
+  <link rel='preconnect' href='https://static.h-bid.com' crossorigin/>
+  <link rel='preconnect' href='https://api.monetizer101.com' />
+  <link rel='preconnect' href='https://optimized-by.rubiconproject.com' />
+  <link rel='preconnect' href='https://ads.rubiconproject.com' />
+  <link rel='preconnect' href='https://z-na.amazon-adsystems.com' />
+  <link rel='preconnect' href='https://googleads.g.doubleclick.net' />
+  <link rel='preconnect' href='https://a.tribalfusion.com' />
+  <link rel='preconnect' href='https://anp.valassisdigital.io' />
+  <link rel='preconnect' href='https://csi.gstatic.com' />
+  <link rel='preconnect' href='https://stats.g.doubleclick.net' />
+  <link rel='preconnect' href='https://aax-eu.amazon-adsystem.com' />
+
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>How to Download an Entire Website for Offline Reading</title>
+
+
+
+<link rel="stylesheet"  href="https://static.makeuseof.com/wp-content/themes/makeuseof2016/style.min.css?v=20" type="text/css" media="all" />
+
+  <script type="text/javascript">
+  var Makeuseof = {
+      post_id: "142098",
+  };
+  </script>
+
+
+
+
+  <script src="//static.h-bid.com/sncmp/sncmp_stub.min.js" type="text/javascript"></script>
+   <script>
+   var isSponsored = false;
+ var googletag = googletag || {}; googletag.cmd = googletag.cmd || [];
+ var snhb = snhb || {}; snhb.queue = snhb.queue || [];
+ adsbygoogle = window.adsbygoogle || [];
+ adsbygoogle.pauseAdRequests=1;
+
+ window.__cmp('setLogo', '//static.makeuseof.com/wp-content/uploads/muo-logo-400.png', function(result){} )
+ window.__cmp('setPrivacyPolicy', '//www.makeuseof.com/legal/#privacy-policy/', function(result){} );
+ window.__cmp('setPublisherPurposesVersion', 1, function(result) {});
+ window.__cmp('setActivePublisherDefaultPurposesIds', [1, 2, 3, 4, 5], function(result) {});
+
+ var snhb = snhb || {}; snhb.options = snhb.options || {}; snhb.options.gdpr = snhb.options.gdpr || {};
+     snhb.options.gdpr.reconsiderationAppealIntervalSeconds = 86400; // 0 to disable reconsideration appeal, default: 86400s (24h)
+     snhb.options.gdpr.reconsiderationAppealFunction = function() {
+         var containerId = "sncmp-reconsider-container";
+         var container = document.createElement("div");
+         container.className = "sncmp sncmp-reconsider-container";
+         container.id = containerId;
+         if (document.getElementById(containerId) === null) {
+             document.getElementsByTagName("body")[0].appendChild(container);
+             container.innerHTML =
+                 "<p>We detected that you only gave partial or no consent. While we respect your choice, we rely on advertisement revenue and would like to use this opportunity to ask you to reconsider and give full consent.</p>"
+                 + "<button onclick=\'__cmp( \"fullOptIn\", null, null )'>Opt-In and Proceed<\/button>"
+                 + "<button onclick=\'__cmp( \"showGUI\", \"learnMore\", null )'>Manage Consent<\/button>";
+         }
+         document.addEventListener('cmpGUISubmit', function(){
+             document.getElementsByTagName("body")[0].removeChild(document.getElementById(containerId)); });
+         };
+ snhb.options.allOutputEnabled = true;
+ snhb.options.autoStartAuction = false;
+
+ googletag.cmd.push(function() {
+     googletag.pubads().disableInitialLoad();
+     googletag.pubads().enableSingleRequest();
+     var additionalAdSlots = [];
+
+     additionalAdSlots.push(googletag.defineSlot('/1065821/Premium_1x1', [1, 1], 'div-gpt-ad-1565270039099-0').addService(googletag.pubads()));
+
+     snhb.queue.push(function(){
+     snhb.addAdditionalAdSlotsToRefresh(additionalAdSlots);
+     });
+   googletag.enableServices();
+   });
+ </script>
+
+ <script async type="text/javascript" src="//static.h-bid.com/makeuseof.com/20190704/snhb-makeuseof.com.min.js?20190724"></script>
+
+
+
+
+
+
+
+<script src="https://snigelweb-com.videoplayerhub.com/videoloader.js"></script>
+
+    <script src="https://static.makeuseof.com/wp-content/themes/makeuseof2016/scripts.min.js?v=41" async></script>
+
+
+<link rel="alternate" type="application/rss+xml" title="RSS" href="https://www.makeuseof.com/rss">
+<link rel="shortcut icon" href="https://static.makeuseof.com/wp-content/themes/makeuseof2016/components/icons/favicon.ico" type="image/x-icon"/ >
+<link rel="icon" type="image/png" href="https://static.makeuseof.com/wp-content/themes/makeuseof2016/components/icons/128x128.png" sizes="128x128">
+<link rel="icon" type="image/png" href="https://static.makeuseof.com/wp-content/themes/makeuseof2016/components/icons/64x64.png" sizes="64x64">
+<link rel="icon" type="image/png" href="https://static.makeuseof.com/wp-content/themes/makeuseof2016/components/icons/32x32.png" sizes="32x32">
+
+
+
+
+    <meta property="fb:app_id" content="172826243054377"/>
+
+
+
+<meta name='twitter:creator' content='carbonjello'><meta name="twitter:title" content="How to Download an Entire Website for Offline Reading"/>
+<meta name='twitter:url' content='https://www.makeuseof.com/tag/how-do-i-download-an-entire-website-for-offline-reading/'/>
+<meta name='twitter:site' content='@MakeUseOf'/>
+<meta name="twitter:description" content="Here&#039;s how you can download entire websites for offline reading so you have access even when you don&#039;t have Wi-Fi or 4G."/>
+<meta name='twitter:image' content='https://static.makeuseof.com/wp-content/uploads/2013/04/Offline-Browsing-994x400.jpg'/>
+<meta name='twitter:card' content='summary_large_image'/>
+<meta name='thumbnail' content='https://static.makeuseof.com/wp-content/uploads/2013/04/Offline-Browsing-994x400.jpg'/>
+<meta property='article:publisher' content='https://www.facebook.com/makeuseof' /><meta property="og:title" content="How to Download an Entire Website for Offline Reading"/>
+<meta property="og:url" content="https://www.makeuseof.com/tag/how-do-i-download-an-entire-website-for-offline-reading/"/>
+<meta property="og:site_name" content="MakeUseOf"/>
+<meta property="og:type" content="article"/>
+<meta property="og:description" content="Here&#039;s how you can download entire websites for offline reading so you have access even when you don&#039;t have Wi-Fi or 4G."/>
+<meta property="og:image" content="https://static.makeuseof.com/wp-content/uploads/2013/04/Offline-Browsing-994x400.jpg"/>
+
+     <meta name="parsely-title" content="How to Download an Entire Website for Offline Reading" />
+     <meta name="parsely-link" content="https://www.makeuseof.com/tag/how-do-i-download-an-entire-website-for-offline-reading/" />
+     <meta name="parsely-type" content="post" />
+     <meta name="parsely-image-url" content="https://static.makeuseof.com/wp-content/uploads/2013/04/Offline-Browsing-382x255.jpg" />
+     <meta name="parsely-pub-date" content="2018-10-23T17:00:30.000Z" />
+     <meta name="parsely-section" content="Internet" />
+     <meta name="parsely-author" content="Joel Lee" />
+     <meta name="parsely-tags" content="Download Management,Meta: Authority Transfer,Meta: HAIL,Meta: Strategic Optimization,Offline Browsing" />
+
+
+<script type="application/ld+json">
+{
+    "@context":"http://schema.org",
+    "@type":"BreadcrumbList",
+    "itemListElement":[
+      {
+          "@type":"ListItem",
+          "position":1,
+          "item": {
+              "@id": "https://www.makeuseof.com/", "name": "MakeUseOf.com"
+          }
+      }
+      ,
+      {
+          "@type":"ListItem",
+          "position":2,
+          "item": {
+              "@id": "https://www.makeuseof.com/service/web-based/", "name": "Internet"
+          }
+      }
+      ,
+      {
+          "@type":"ListItem",
+          "position":3,
+          "item": {
+              "@id": "https://www.makeuseof.com/tag/how-do-i-download-an-entire-website-for-offline-reading/", "name": "How to Download an Entire Website for Offline Reading"
+          }
+      }
+    ]
+}
+</script>
+
+
+
+<meta name="twitter:widgets:csp" content="on">
+
+
+<!-- This site is optimized with the Yoast SEO plugin v4.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Here&#039;s how you can download entire websites for offline reading so you have access even when you don&#039;t have Wi-Fi or 4G."/>
+<link rel="canonical" href="https://www.makeuseof.com/tag/how-do-i-download-an-entire-website-for-offline-reading/" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='https://api.w.org/' href='https://www.makeuseof.com/wp-json/' />
+
+<link rel='shortlink' href='https://www.makeuseof.com/?p=142098' />
+<link rel="alternate" type="application/json+oembed" href="https://www.makeuseof.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.makeuseof.com%2Ftag%2Fhow-do-i-download-an-entire-website-for-offline-reading%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.makeuseof.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.makeuseof.com%2Ftag%2Fhow-do-i-download-an-entire-website-for-offline-reading%2F&#038;format=xml" />
+<link rel="alternate" type="application/rss+xml" title="MakeUseOf RSS Feed" href="https://www.makeuseof.com/feed/" /><script>
+  (function (s,o,n,a,r,i,z,e) {s['StackSonarObject']=r;s[r]=s[r]||function(){
+  (s[r].q=s[r].q||[]).push(arguments)},s[r].l=1*new Date();i=o.createElement(n),
+  z=o.getElementsByTagName(n)[0];i.async=1;i.src=a;z.parentNode.insertBefore(i,z)
+  })(window,document,'script','https://www.stack-sonar.com/ping.js','stackSonar');
+
+  stackSonar('stack-connect-wp', "JgzRwT22nTt7BFbMTf7xYg");
+</script>
+
+</head>
+
+
+<body class="post-template-default single single-post postid-142098 single-format-standard">
+
+  <div class="icon-sprite"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+  <symbol id="icon-logo" viewBox="0 0 60 32">
+    <path d="M2.516 0l2.591 3.082-5.107 28.918h57.191l-2.568-3.057 5.11-28.943h-57.217zM44.612 3.116h11.44l-4.552 25.784h-11.442l4.553-25.784zM33.657 23.938l3.676-20.822h4.163l-4.553 25.784h-11.449l4.552-25.784h4.165l-3.676 20.822h3.122zM8.204 3.116h18.726l-4.552 25.784h-4.163l3.676-20.822h-3.118l-3.676 20.822h-4.17l3.677-20.822h-3.112l-3.677 20.822h-4.163l4.553-25.784zM45.094 23.938h3.127l2.8-15.861h-3.127l-2.8 15.861z"></path>
+  </symbol>
+
+  <symbol id="icon-logo-background" viewBox="0 0 185 32">
+    <path d="M0 0h184.686l-4.68 32h-180.005z"></path>
+  </symbol>
+
+  <symbol id="icon-menu" viewBox="0 0 47 32">
+    <path d="M0 0h46.933v6.4h-46.933v-6.4z"></path>
+    <path d="M0 12.8h46.933v6.4h-46.933v-6.4z"></path>
+    <path d="M0 25.6h46.933v6.4h-46.933v-6.4z"></path>
+  </symbol>
+
+  <symbol id="icon-search" viewBox="0 0 32 32">
+    <path d="M13 22c-4.962 0-9-4.038-9-9s4.038-9 9-9c4.962 0 9 4.038 9 9s-4.038 9-9 9zM31.414 28.586l-7.926-7.926c1.572-2.15 2.512-4.792 2.512-7.66 0-7.18-5.82-13-13-13s-13 5.82-13 13c0 7.18 5.82 13 13 13 2.868 0 5.51-0.94 7.66-2.512l7.926 7.926c0.39 0.392 0.902 0.586 1.414 0.586s1.024-0.194 1.414-0.586c0.782-0.78 0.782-2.046 0-2.828z"></path>
+  </symbol>
+
+  <symbol id="icon-youtube" viewBox="0 0 16 16">
+    <path d="M15.841 4.8c0 0-0.156-1.103-0.637-1.587-0.609-0.637-1.291-0.641-1.603-0.678-2.237-0.163-5.597-0.163-5.597-0.163h-0.006c0 0-3.359 0-5.597 0.163-0.313 0.038-0.994 0.041-1.603 0.678-0.481 0.484-0.634 1.587-0.634 1.587s-0.159 1.294-0.159 2.591v1.213c0 1.294 0.159 2.591 0.159 2.591s0.156 1.103 0.634 1.588c0.609 0.637 1.409 0.616 1.766 0.684 1.281 0.122 5.441 0.159 5.441 0.159s3.363-0.006 5.6-0.166c0.313-0.037 0.994-0.041 1.603-0.678 0.481-0.484 0.637-1.588 0.637-1.588s0.159-1.294 0.159-2.591v-1.213c-0.003-1.294-0.162-2.591-0.162-2.591zM6.347 10.075v-4.497l4.322 2.256-4.322 2.241z"></path>
+  </symbol>
+
+  <symbol id="icon-google" viewBox="0 0 58 32">
+    <path d="M17.371 13.714h15.109c0.137 0.8 0.254 1.6 0.254 2.651 0 9.143-6.128 15.634-15.362 15.634-8.846 0-16-7.154-16-16s7.154-16 16-16c4.32 0 7.931 1.577 10.72 4.183l-4.343 4.183c-1.189-1.143-3.269-2.469-6.377-2.469-5.463 0-9.92 4.526-9.92 10.103 0 5.579 4.457 10.103 9.92 10.103 6.331 0 8.709-4.551 9.074-6.903h-9.074v-5.486zM17.371 13.714l38.857 4.571h-6.857v6.857h-4.571v-6.857h-6.857v-4.571h6.857v-6.857h4.571v6.857h6.857v4.571l-38.857-4.571z"></path>
+  </symbol>
+
+  <symbol id="icon-search-start" viewBox="0 0 41 32">
+    <path d="M27.814 1.279c-1.705-1.705-4.465-1.705-6.17 0-1.705 1.702-1.705 4.468 0 6.17l4.186 4.189h-21.466c-2.409 0-4.364 1.952-4.364 4.364 0 2.409 1.955 4.364 4.364 4.364h21.466l-4.186 4.186c-1.705 1.702-1.705 4.468 0 6.17 0.852 0.852 1.969 1.28 3.084 1.28 1.117 0 2.234-0.428 3.087-1.28l11.636-11.636c1.705-1.702 1.705-4.468 0-6.17l-11.636-11.636z"></path>
+  </symbol>
+
+  <symbol id="icon-close" viewBox="0 0 32 32">
+    <title>close</title>
+    <path d="M20.526 16.001l10.537-10.537c1.25-1.25 1.25-3.277 0-4.527-1.248-1.248-3.275-1.248-4.525 0l-10.537 10.539-10.539-10.539c-1.248-1.248-3.275-1.248-4.525 0-1.25 1.25-1.25 3.277 0 4.527l10.539 10.537-10.539 10.537c-1.25 1.25-1.25 3.277 0 4.527 0.625 0.625 1.444 0.937 2.263 0.937s1.636-0.311 2.261-0.937l10.539-10.539 10.537 10.539c0.625 0.625 1.444 0.937 2.263 0.937s1.636-0.311 2.261-0.937c1.25-1.25 1.25-3.277 0-4.527l-10.537-10.537z"></path>
+  </symbol>
+
+  <!-- SOCIAL -->
+  <symbol id="icon-email" viewBox="0 0 38 32">
+    <path d="M20 16l-20-16h38l-18 16zM0 6v26h38v-26l-18 16-20-16z"></path>
+  </symbol>
+
+  <symbol id="icon-facebook" viewBox="0 0 32 32">
+    <path d="M1.766 0c-0.976 0-1.766 0.79-1.766 1.766v28.468c0 0.975 0.79 1.766 1.766 1.766h15.326v-12.392h-4.17v-4.829h4.17v-3.562c0-4.133 2.524-6.384 6.211-6.384 1.766 0 3.284 0.132 3.727 0.19v4.319l-2.557 0.001c-2.005 0-2.393 0.953-2.393 2.351v3.083h4.782l-0.623 4.83h-4.16v12.392h8.154c0.975 0 1.766-0.791 1.766-1.766v-28.468c0-0.976-0.791-1.766-1.766-1.766h-28.468z"></path>
+  </symbol>
+
+  <symbol id="icon-twitter" viewBox="0 0 40 32">
+    <path d="M39.376 3.788c-1.449 0.643-3.006 1.077-4.64 1.272 1.668-1 2.949-2.583 3.552-4.469-1.561 0.926-3.29 1.598-5.13 1.96-1.474-1.57-3.573-2.551-5.897-2.551-4.462 0-8.079 3.617-8.079 8.078 0 0.633 0.072 1.25 0.209 1.841-6.714-0.337-12.667-3.553-16.651-8.441-0.695 1.193-1.094 2.581-1.094 4.061 0 2.803 1.426 5.275 3.594 6.724-1.324-0.042-2.57-0.405-3.659-1.010-0.001 0.034-0.001 0.068-0.001 0.102 0 3.914 2.785 7.179 6.48 7.921-0.678 0.185-1.392 0.283-2.128 0.283-0.521 0-1.027-0.051-1.52-0.145 1.028 3.21 4.011 5.545 7.546 5.61-2.765 2.167-6.248 3.458-10.033 3.458-0.652 0-1.295-0.038-1.927-0.113 3.575 2.292 7.821 3.629 12.384 3.629 14.859 0 22.985-12.31 22.985-22.985 0-0.35-0.008-0.699-0.023-1.045 1.578-1.139 2.948-2.562 4.031-4.182z"></path>
+  </symbol>
+
+  <symbol id="icon-pinterest" viewBox="0 0 32 32">
+    <path d="M16 0c-8.836 0-16 7.163-16 16 0 6.779 4.217 12.568 10.169 14.899-0.14-1.265-0.267-3.207 0.056-4.588 0.291-1.249 1.876-7.953 1.876-7.953s-0.479-0.959-0.479-2.376c0-2.224 1.289-3.885 2.895-3.885 1.364 0 2.024 1.025 2.024 2.253 0 1.372-0.873 3.424-1.325 5.327-0.377 1.592 0.799 2.892 2.369 2.892 2.844 0 5.029-2.999 5.029-7.327 0-3.831-2.752-6.509-6.683-6.509-4.552 0-7.224 3.415-7.224 6.943 0 1.375 0.529 2.851 1.191 3.651 0.131 0.159 0.149 0.299 0.111 0.46l-0.444 1.813c-0.071 0.293-0.232 0.356-0.536 0.215-1.999-0.931-3.248-3.852-3.248-6.199 0-5.047 3.667-9.683 10.572-9.683 5.551 0 9.864 3.956 9.864 9.241 0 5.515-3.476 9.952-8.303 9.952-1.621 0-3.145-0.841-3.667-1.837l-0.997 3.804c-0.361 1.391-1.336 3.133-1.989 4.195 1.499 0.463 3.089 0.713 4.739 0.713 8.836 0 16-7.164 16-16 0-8.837-7.164-16-16-16v0z"></path>
+  </symbol>
+
+  <symbol id="icon-whatsapp" viewBox="0 0 32 32">
+    <path d="M23.439 19.148c-0.39-0.214-2.307-1.248-2.666-1.394s-0.622-0.222-0.902 0.166c-0.28 0.387-1.075 1.253-1.316 1.51-0.242 0.257-0.475 0.281-0.865 0.066-0.389-0.213-1.654-0.681-3.121-2.091-1.142-1.097-1.89-2.428-2.107-2.834s-0.002-0.614 0.205-0.804c0.185-0.172 0.415-0.45 0.622-0.674s0.28-0.387 0.422-0.648 0.085-0.495-0.007-0.697c-0.092-0.202-0.813-2.187-1.114-2.995s-0.637-0.688-0.869-0.697c-0.232-0.008-0.495-0.052-0.76-0.061s-0.699 0.073-1.078 0.457c-0.379 0.384-1.441 1.306-1.515 3.262-0.073 1.954 1.279 3.897 1.468 4.169s2.583 4.51 6.562 6.253c3.98 1.742 4.001 1.211 4.731 1.172s2.387-0.874 2.753-1.788c0.366-0.915 0.395-1.71 0.302-1.88s-0.354-0.279-0.744-0.492v0zM16.141 28.569c-2.631 0-5.082-0.789-7.129-2.142l-4.979 1.594 1.619-4.812c-1.551-2.137-2.468-4.761-2.468-7.597 0-7.145 5.813-12.958 12.957-12.958 7.146 0 12.958 5.813 12.958 12.958s-5.812 12.957-12.958 12.957v0zM0.576 15.612c0 2.941 0.816 5.691 2.233 8.037l-2.809 8.351 8.618-2.759c2.23 1.233 4.795 1.936 7.523 1.936 8.597 0 15.566-6.969 15.566-15.565 0-8.597-6.968-15.566-15.566-15.566-8.596 0-15.565 6.969-15.565 15.566z"></path>
+  </symbol>
+
+  <symbol id="icon-amazon" viewBox="0 0 34 32">
+    <path d="M0.063 24.422c0.101-0.164 0.262-0.174 0.486-0.031 5.079 2.949 10.606 4.426 16.58 4.426 3.981 0 7.914-0.745 11.796-2.23l0.44-0.183c0.193-0.084 0.329-0.143 0.411-0.183 0.306-0.122 0.545-0.063 0.719 0.183 0.172 0.243 0.115 0.468-0.168 0.671-0.367 0.264-0.834 0.571-1.404 0.915-1.745 1.038-3.696 1.842-5.85 2.412-2.152 0.566-4.253 0.854-6.307 0.854-3.17 0-6.166-0.556-8.989-1.663-2.829-1.107-5.355-2.67-7.591-4.684-0.124-0.099-0.186-0.203-0.186-0.304 0-0.063 0.021-0.122 0.063-0.183v0zM9.232 15.727c0-1.405 0.346-2.605 1.037-3.601s1.634-1.749 2.835-2.259c1.096-0.468 2.447-0.803 4.052-1.007 0.545-0.063 1.442-0.143 2.682-0.243v-0.518c0-1.3-0.147-2.177-0.43-2.622-0.425-0.612-1.096-0.919-2.011-0.919h-0.237c-0.67 0.063-1.251 0.273-1.739 0.642-0.488 0.367-0.802 0.877-0.943 1.527-0.084 0.407-0.287 0.642-0.612 0.703l-3.505-0.428c-0.344-0.084-0.518-0.266-0.518-0.552 0-0.063 0.010-0.132 0.031-0.214 0.346-1.81 1.194-3.153 2.544-4.027 1.351-0.875 2.933-1.363 4.739-1.464h0.761c2.315 0 4.123 0.6 5.427 1.8 0.201 0.203 0.388 0.424 0.562 0.657 0.174 0.235 0.314 0.441 0.413 0.625 0.105 0.185 0.193 0.449 0.272 0.797 0.084 0.342 0.147 0.581 0.184 0.713 0.042 0.132 0.071 0.42 0.092 0.856s0.029 0.696 0.029 0.776v7.383c0 0.531 0.075 1.013 0.23 1.447 0.147 0.441 0.298 0.755 0.44 0.948l0.7 0.931c0.122 0.183 0.182 0.346 0.182 0.489 0 0.162-0.080 0.304-0.243 0.426-1.689 1.468-2.602 2.259-2.745 2.381-0.243 0.185-0.538 0.206-0.884 0.063-0.285-0.243-0.532-0.478-0.746-0.703-0.214-0.222-0.367-0.386-0.457-0.487-0.092-0.105-0.239-0.3-0.44-0.596-0.205-0.298-0.348-0.495-0.43-0.598-1.14 1.242-2.257 2.014-3.352 2.32-0.691 0.206-1.546 0.306-2.562 0.306-1.563 0-2.85-0.482-3.855-1.447s-1.509-2.335-1.509-4.105h0.004zM14.474 15.115c0 0.793 0.197 1.426 0.593 1.909 0.398 0.476 0.928 0.713 1.599 0.713 0.063 0 0.147-0.008 0.26-0.027 0.111-0.021 0.189-0.031 0.23-0.031 0.851-0.224 1.513-0.772 1.98-1.647 0.222-0.388 0.39-0.81 0.503-1.267 0.111-0.455 0.172-0.826 0.182-1.112s0.015-0.755 0.015-1.405v-0.761c-1.18 0-2.074 0.084-2.682 0.245-1.789 0.508-2.682 1.636-2.682 3.385l0.002-0.002zM27.272 24.94c0.042-0.084 0.105-0.164 0.182-0.245 0.509-0.344 0.997-0.579 1.467-0.701 0.769-0.201 1.521-0.315 2.252-0.336 0.203-0.021 0.398-0.008 0.578 0.031 0.916 0.084 1.467 0.235 1.647 0.461 0.084 0.12 0.122 0.302 0.122 0.545v0.214c0 0.713-0.193 1.552-0.578 2.517-0.388 0.965-0.926 1.745-1.613 2.335-0.105 0.084-0.195 0.122-0.277 0.122-0.042 0-0.084-0.011-0.122-0.029-0.126-0.063-0.153-0.174-0.092-0.336 0.754-1.77 1.127-3 1.127-3.692 0-0.224-0.042-0.388-0.122-0.489-0.203-0.241-0.771-0.365-1.708-0.365-0.344 0-0.75 0.021-1.215 0.063-0.511 0.063-0.978 0.122-1.404 0.183-0.126 0-0.203-0.021-0.245-0.063s-0.050-0.080-0.029-0.122c0-0.021 0.008-0.050 0.029-0.090v-0.004z"></path>
+  </symbol>
+
+  <!-- MISC -->
+  <symbol id="icon-label-rectangle" viewBox="0 0 994 32">
+    <path d="M0.049 0h994.084l-4.317 32h-989.817l0.049-32z"></path>
+  </symbol>
+
+  <symbol id="icon-triangle-long" viewBox="0 0 455 32">
+    <path d="M455.111 0l-455.111 32v-32h455.111z"></path>
+  </symbol>
+
+  <symbol id="icon-down" viewBox="0 0 21 32">
+    <path d="M19.196 13.143q0 0.232-0.179 0.411l-8.321 8.321q-0.179 0.179-0.411 0.179t-0.411-0.179l-8.321-8.321q-0.179-0.179-0.179-0.411t0.179-0.411l0.893-0.893q0.179-0.179 0.411-0.179t0.411 0.179l7.018 7.018 7.018-7.018q0.179-0.179 0.411-0.179t0.411 0.179l0.893 0.893q0.179 0.179 0.179 0.411z"></path>
+  </symbol>
+</svg>
+</div>
+
+  <header class="header-wrap">
+  <div class="header-container">
+
+    
+    <div class="header-branding">
+  <a href="/" title="MakeUseOf">
+    <svg class="logo"><use xlink:href="#icon-logo"></svg>
+    <svg class="logo-background"><use xlink:href="#icon-logo-background"></svg>
+  </a>
+</div>
+
+    
+    <nav class="header-navigation">
+    
+    <div class="menu-main-menu-container">
+        <ul id="menu-main-menu" class="menu">
+            <li class="menu-item menu-item-has-children is-category no-view-all"><a href="#" data-slug="1,82,57,92,3621,3893,4856,6723">PC &amp; Mobile</a>
+                <ul class="sub-menu">
+                	<li class="menu-item is-category"><a href="https://www.makeuseof.com/service/windows/" data-slug="82">Windows</a></li>
+                	<li class="menu-item is-category"><a href="https://www.makeuseof.com/service/mac/" data-slug="57">Mac</a></li>
+                	<li class="menu-item is-category"><a href="https://www.makeuseof.com/service/linux/" data-slug="92">Linux</a></li>
+                	<li class="menu-item is-category"><a href="https://www.makeuseof.com/service/google-android/" data-slug="3621">Android</a></li>
+                	<li class="menu-item is-category"><a href="https://www.makeuseof.com/service/ios/" data-slug="3893">iPhone and iPad</a></li>
+                    <li class="menu-item is-category"><a href="https://www.makeuseof.com/service/web-based/" data-slug="1">Internet</a></li>
+                    <li class="menu-item is-category"><a href="https://www.makeuseof.com/service/security/" data-slug="4856">Security</a></li>
+                    <li class="menu-item is-category"><a href="https://www.makeuseof.com/service/programming/" data-slug="6723">Programming</a></li>
+
+
+
+                </ul>
+            </li>
+            <li class="menu-item menu-item-has-children is-category no-view-all"><a href="#" data-slug="6194,6363,6354,4926,235,182,3703">Lifestyle</a>
+                <ul class="sub-menu">
+                    <li class="menu-item is-category"><a href="https://www.makeuseof.com/service/news/" data-slug="6194">Technology News</a></li>
+                	<li class="menu-item is-category"><a href="https://www.makeuseof.com/service/entertainment/" data-slug="6363">Entertainment</a></li>
+                	<li class="menu-item is-category"><a href="https://www.makeuseof.com/service/productivity/" data-slug="6354">Productivity</a></li>
+                	<li class="menu-item is-category"><a href="https://www.makeuseof.com/service/creative/" data-slug="4926">Creative</a></li>
+                	<li class="menu-item is-category"><a href="https://www.makeuseof.com/service/games/" data-slug="235">Gaming</a></li>
+                	<li class="menu-item is-category"><a href="https://www.makeuseof.com/service/social-media/" data-slug="182">Social Media</a></li>
+                </ul>
+            </li>
+            <li class="menu-item menu-item-has-children is-category no-view-all"><a href="#" data-slug="3297,4450,4885,4876">Hardware</a>
+                <ul class="sub-menu">
+                    <li class="menu-item is-category"><a href="https://www.makeuseof.com/service/technology-explained/" data-slug="3297">Technology Explained</a>
+                    <li class="menu-item is-category"><a href="https://www.makeuseof.com/service/buying-guides/" data-slug="6630">Buying Guides</a></li>
+                	<li class="menu-item is-category"><a href="https://www.makeuseof.com/service/smart-home/" data-slug="4885">Smart Home</a></li>
+                	<li class="menu-item is-category"><a href="https://www.makeuseof.com/service/diy-projects/" data-slug="4876">DIY</a></li>
+                    <li class="menu-item is-category"><a href="https://www.makeuseof.com/service/product-reviews/" data-slug="4450">Product Reviews</a></li>
+                </ul>
+            </li>
+
+            <li class="menu-item menu-item-has-children"><a href="#" onclick="ga('send','event','header','Free Stuff');" style="color:#e22524!important">Free Stuff</a>
+              <ul class="sub-menu">
+                  <li class="menu-item"><a href="https://www.makeuseof.com/tags/longform-guide/" onclick="ga('send','event','header','Guides');">Free eBooks</a></li>
+                  <li class="menu-item"><a href="https://www.makeuseof.com/giveaways/" onclick="ga('send','event','header','Giveaways');">Giveaways</a></li>
+                  <li class="menu-item"><a href="https://www.makeuseof.com/tags/best-of/" onclick="ga('send','event','header','Top Lists');">Top Lists</a></li>
+                  <li class="menu-item"><a href="https://www.makeuseof.com/tags/cheat-sheet/" onclick="ga('send','event','header','Cheat Sheets');">Free Cheat Sheets</a></li>
+
+              </ul>
+            </li>
+
+
+            <li class="menu-item"><a href="https://www.makeuseof.com/videos/" onclick="ga('send','event','header','Videos');">Videos</a></li>
+
+
+            <li class="menu-item menu-item-has-children"><a href="#" onclick="ga('send','event','header','About');">About</a>
+                <ul class="sub-menu">
+                    <li class="menu-item"><a href="https://www.makeuseof.com/about/">About MakeUseOf</a></li>
+                    <li class="menu-item"><a href="https://www.makeuseof.com/advertise/">Advertise</a></li>
+                    <li class="menu-item"><a href="https://www.makeuseof.com/contact/">Contact</a></li>
+                    <li class="menu-item"><a href="https://www.makeuseof.com/legal/#privacy-policy">Privacy</a></li>
+                    <li class="menu-item"><a href="https://muoapps.com" target="_blank" rel="nofollow" onclick="ga('send','event','header','Apps');">Apps</a></li>
+                    <li class="menu-item"><a href="https://deals.makeuseof.com/?utm_source=makeuseof&utm_medium=homepage&utm_campaign=shoptab" target="_blank" rel="nofollow" onclick="ga('send','event','header','Shop');">Shop</a></li>
+
+                </ul>
+            </li>
+
+            <li class="menu-item"><a style="color:#f9a825!important" href="https://whatnerd.com/" onclick="ga('send','event','header','WhatNerd');" target="_blank">WhatNerd</a></li>
+            <li class="menu-item"><a style="color:#4a3ddd!important" title="Blocks Decoded" href="https://blocksdecoded.com/" onclick="ga('send','event','header','BlocksD');" target="_blank">Blocks D.</a></li>
+
+
+
+
+
+
+
+
+        </ul>
+    </div>
+
+
+<div class="header-search-form">
+    <form role="search" method="get" class="search-form" action="https://www.makeuseof.com/" id="search-form">
+  <label>
+    <span class="show-for-sr">Search for:</span>
+    <input type="search" class="search-field" placeholder="Search MakeUseOf..." value="" name="s">
+  </label>
+  <button type="submit" class="search-submit" form="search-form" value="Search MakeUseOf...">
+    <svg><use xlink:href="#icon-search-start"></svg>
+  </button>
+</form>
+</div>
+</nav>
+
+    
+    <div class="header-tools">
+  <div class="header-tools-container">
+
+    <ul class="header-tools-social-links visible">
+
+  <li class="header-tools-social-link-item email">
+    <a href="https://www.makeuseof.com/subscribe/" target="_blank">
+      <span class="header-tools-social-label show-for-sr">Email</span>
+      <svg><use xlink:href="#icon-email"></svg>
+    </a>
+  </li>
+
+          <li class="header-tools-social-link-item facebook">
+            <a href="https://www.facebook.com/makeuseof" target="_blank">
+              <span class="header-tools-social-label show-for-sr">Facebook</span>
+              <svg><use xlink:href="#icon-facebook"></svg>
+            </a>
+          </li>
+          <li class="header-tools-social-link-item pinterest">
+            <a href="https://www.pinterest.com/makeuseof/" target="_blank">
+              <span class="header-tools-social-label show-for-sr">Pinterest</span>
+              <svg><use xlink:href="#icon-pinterest"></svg>
+            </a>
+          </li>
+          <li class="header-tools-social-link-item twitter">
+            <a href="https://twitter.com/makeuseof" target="_blank">
+              <span class="header-tools-social-label show-for-sr">Twitter</span>
+              <svg><use xlink:href="#icon-twitter"></svg>
+            </a>
+          </li>
+          <li class="header-tools-social-link-item youtube">
+            <a href="https://www.youtube.com/c/makeuseof" target="_blank">
+              <span class="header-tools-social-label show-for-sr">YouTube</span>
+              <svg><use xlink:href="#icon-youtube"></svg>
+            </a>
+        </li>
+      </ul>
+
+
+    <button class="header-tools-search-submit" type="submit" form="search-form" value="Search MakeUseOf...">
+      <svg><use xlink:href="#icon-search-start"></svg>
+    </button>
+
+    <a class="header-tools-search-open visible" href="#" title="Search">
+      <span class="show-for-sr">Search</span>
+      <svg><use xlink:href="#icon-search"></svg>
+    </a>
+
+    <a class="header-tools-search-close" href="#" title="Close Search">
+      <svg><use xlink:href="#icon-close"></svg>
+    </a>
+  </div>
+</div>
+
+  </div>
+</header>
+
+
+<div class="header-navigation-mega">
+  <div class="header-navigation-mega-items"></div>
+
+  <div class="header-navigation-mega-posts-wrap">
+    <div class="header-navigation-mega-posts"></div>
+    <div class="header-navigation-mega-loading">
+      <div class="loader">
+  <div class="loader-shape-one">
+    <svg width="19px" height="16px" viewBox="0 0 19 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <g>
+        <path d="M0.758344658,5.255649e-05 L2.48548877,2.03626617 L0,16 L16.1491334,16 L18.2379414,16 L16.513627,13.9672902 L18.9998231,5.255649e-05 L0.758344658,5.255649e-05 Z M4.51735019,1.97092093 L16.6287581,1.97092093 L14.482473,14.0291316 L2.37106503,14.0291316 L4.51735019,1.97092093 Z" fill="#E22524"></path>
+      </g>
+    </svg>
+  </div>
+
+  <div class="loader-shape-two">
+    <svg width="19px" height="16px" viewBox="0 0 19 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M0.758344658,5.255649e-05 L2.48548877,2.03626617 L0,16 L16.1491334,16 L18.2379414,16 L16.513627,13.9672902 L18.9998231,5.255649e-05 L0.758344658,5.255649e-05 Z M4.51735019,1.97092093 L16.6287581,1.97092093 L14.482473,14.0291316 L2.37106503,14.0291316 L4.51735019,1.97092093 Z" fill="#FCDED2"></path>
+      </g>
+    </svg>
+  </div>
+</div>
+    </div>
+  </div>
+
+  
+  <div class="header-navigation-mega-search">
+    <div class="header-navigation-mega-search-categories">
+  <h1 class="header-navigation-mega-search-title">
+    Popular Topics  </h1>
+  <ul class="header-navigation-mega-search-categories-list">
+       <li>
+     <a href="https://www.makeuseof.com/service/web-based/">
+       The Internet</a>
+   </li>
+       <li>
+     <a href="https://www.makeuseof.com/service/windows/">
+       Windows</a>
+   </li>
+       <li>
+     <a href="https://www.makeuseof.com/service/ios/">
+       iPhone and iPad</a>
+   </li>
+       <li>
+     <a href="https://www.makeuseof.com/service/google-android/">
+       Android</a>
+   </li>
+       <li>
+     <a href="https://www.makeuseof.com/service/mac/">
+       Mac</a>
+   </li>
+       <li>
+     <a href="https://www.makeuseof.com/service/games/">
+       Gaming</a>
+   </li>
+   </ul>
+
+</div>
+
+<div class="header-navigation-mega-search-posts">
+  <h1 class="header-navigation-mega-search-title">
+    MakeUseOf
+  </h1>
+  <figure class="article-card-container">
+
+  
+
+  <!-- IMAGE -->
+  <article
+    class="article-card
+     size-small      position-relative      align-left              display-taxonomy
+      "
+      >
+
+
+
+    
+    <div
+      class="article-card-image-overlay"
+        >
+      <a href="https://www.makeuseof.com/tag/understand-facebooks-privacy-violations/">5 Tools to Understand Facebook&#8217;s Privacy Violations and Defeat It</a>
+    </div>
+
+    <div class="article-card-caption-container">
+      <div class="article-card-caption">
+
+        <!-- TAXONOMY -->
+                  <span class="article-card-taxonomy-container">
+            <p class="article-card-taxonomy">
+                                                            <a href="https://www.makeuseof.com/service/web-based/" class="internet">
+                          Internet                        </a>
+                                            <a href="https://www.makeuseof.com/service/security/" class="security">
+                          Security                        </a>
+                                </p>
+          </span>
+        
+        <!-- TITLE -->
+                  <h1 class="article-card-title">
+            <a href="https://www.makeuseof.com/tag/understand-facebooks-privacy-violations/">
+              5 Tools to Understand Facebook&#8217;s Privacy Violations and Defeat It            </a>
+          </h1>
+      
+        <!-- EXCERPT -->
+        
+        <!-- META -->
+                  <div class="article-card-meta">
+                        <span  class="article-card-meta-avatar"><img alt='' src='https://secure.gravatar.com/avatar/0ce907cbf4e65904f239ef881779cca7?s=32&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/0ce907cbf4e65904f239ef881779cca7?s=64&#038;d=mm&#038;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' /></span>
+            <div class="article-card-meta-details">
+              <span class="article-card-meta-author">
+                    <meta content="Mihir Patkar">
+                    <a href="https://www.makeuseof.com/tag/author/mihir/" title="Mihir Patkar">Mihir Patkar</a>
+              </span>
+
+              
+                          </div>
+          </div>
+        
+      </div>
+    </div>
+
+    <!-- LINK OVERLAY -->
+    
+
+  </article>
+
+</figure>
+<figure class="article-card-container">
+
+  
+
+  <!-- IMAGE -->
+  <article
+    class="article-card
+     size-small      position-relative      align-left              display-taxonomy
+      "
+      >
+
+
+
+    
+    <div
+      class="article-card-image-overlay"
+        >
+      <a href="https://www.makeuseof.com/tag/restore-windows-computer-factory-settings/">How to Factory Reset Your HP Laptop</a>
+    </div>
+
+    <div class="article-card-caption-container">
+      <div class="article-card-caption">
+
+        <!-- TAXONOMY -->
+                  <span class="article-card-taxonomy-container">
+            <p class="article-card-taxonomy">
+                                                            <a href="https://www.makeuseof.com/service/windows/" class="windows">
+                          Windows                        </a>
+                                </p>
+          </span>
+        
+        <!-- TITLE -->
+                  <h1 class="article-card-title">
+            <a href="https://www.makeuseof.com/tag/restore-windows-computer-factory-settings/">
+              How to Factory Reset Your HP Laptop            </a>
+          </h1>
+      
+        <!-- EXCERPT -->
+        
+        <!-- META -->
+                  <div class="article-card-meta">
+                        <span  class="article-card-meta-avatar"><img alt='' src='https://secure.gravatar.com/avatar/857a3ca2000a9572c03d209e11818483?s=32&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/857a3ca2000a9572c03d209e11818483?s=64&#038;d=mm&#038;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' /></span>
+            <div class="article-card-meta-details">
+              <span class="article-card-meta-author">
+                    <meta content="Ben Stegner">
+                    <a href="https://www.makeuseof.com/tag/author/benstegner/" title="Ben Stegner">Ben Stegner</a>
+              </span>
+
+              
+                          </div>
+          </div>
+        
+      </div>
+    </div>
+
+    <!-- LINK OVERLAY -->
+    
+
+  </article>
+
+</figure>
+</div>
+
+<div class="header-navigation-mega-search-deals">
+  <h1 class="header-navigation-mega-search-title">
+    Top Deals  </h1>
+    <div class="deals-feature-container stackcommerce-widget" data-scsort="best_sellers" data-sc-per-page="2">
+  </div>
+</div>
+  </div>
+</div>
+
+  <header class="mobile-header-wrap">
+  <div class="mobile-header-container">
+
+    
+    <div class="mobile-header-branding">
+  <a href="/" title="MakeUseOf">
+    <svg class="logo"><use xlink:href="#icon-logo"></svg>
+  </a>
+</div>
+
+    
+    <div class="mobile-header-tools">
+  <div class="mobile-header-tools-container">
+
+    <div class="mobile-header-tools-item visible">
+      <button class="mobile-header-tools-search" data-mobile-header-search-toggle>
+        <span class="show-for-sr">Search</span>
+        <svg><use xlink:href="#icon-search"></svg>
+      </button>
+    </div>
+
+    <div class="mobile-header-tools-item visible open">
+      <button class="mobile-header-tools-navigation" data-mobile-header-navigation-open>
+        <span class="show-for-sr">Open Menu</span>
+        <svg><use xlink:href="#icon-menu"></svg>
+      </button>
+    </div>
+
+    <div class="mobile-header-tools-item close">
+      <button class="mobile-header-tools-navigation" data-mobile-header-navigation-close>
+        <span class="show-for-sr">Close Menu</span>
+        <svg><use xlink:href="#icon-close"></svg>
+      </button>
+    </div>
+
+  </div>
+</div>
+
+    
+    <nav class="mobile-header-navigation" data-mobile-header-navigation>
+    
+    <div class="menu-main-menu-container">
+        <ul id="menu-main-menu" class="menu">
+            <li class="menu-item menu-item-has-children is-category no-view-all"><a href="#" data-slug="1,82,57,92,3621,3893,4856,6723">PC &amp; Mobile</a>
+                <ul class="sub-menu">
+                	<li class="menu-item is-category"><a href="https://www.makeuseof.com/service/windows/" data-slug="82">Windows</a></li>
+                	<li class="menu-item is-category"><a href="https://www.makeuseof.com/service/mac/" data-slug="57">Mac</a></li>
+                	<li class="menu-item is-category"><a href="https://www.makeuseof.com/service/linux/" data-slug="92">Linux</a></li>
+                	<li class="menu-item is-category"><a href="https://www.makeuseof.com/service/google-android/" data-slug="3621">Android</a></li>
+                	<li class="menu-item is-category"><a href="https://www.makeuseof.com/service/ios/" data-slug="3893">iPhone and iPad</a></li>
+                    <li class="menu-item is-category"><a href="https://www.makeuseof.com/service/web-based/" data-slug="1">Internet</a></li>
+                    <li class="menu-item is-category"><a href="https://www.makeuseof.com/service/security/" data-slug="4856">Security</a></li>
+                    <li class="menu-item is-category"><a href="https://www.makeuseof.com/service/programming/" data-slug="6723">Programming</a></li>
+
+
+
+                </ul>
+            </li>
+            <li class="menu-item menu-item-has-children is-category no-view-all"><a href="#" data-slug="6194,6363,6354,4926,235,182,3703">Lifestyle</a>
+                <ul class="sub-menu">
+                    <li class="menu-item is-category"><a href="https://www.makeuseof.com/service/news/" data-slug="6194">Technology News</a></li>
+                	<li class="menu-item is-category"><a href="https://www.makeuseof.com/service/entertainment/" data-slug="6363">Entertainment</a></li>
+                	<li class="menu-item is-category"><a href="https://www.makeuseof.com/service/productivity/" data-slug="6354">Productivity</a></li>
+                	<li class="menu-item is-category"><a href="https://www.makeuseof.com/service/creative/" data-slug="4926">Creative</a></li>
+                	<li class="menu-item is-category"><a href="https://www.makeuseof.com/service/games/" data-slug="235">Gaming</a></li>
+                	<li class="menu-item is-category"><a href="https://www.makeuseof.com/service/social-media/" data-slug="182">Social Media</a></li>
+                </ul>
+            </li>
+            <li class="menu-item menu-item-has-children is-category no-view-all"><a href="#" data-slug="3297,4450,4885,4876">Hardware</a>
+                <ul class="sub-menu">
+                    <li class="menu-item is-category"><a href="https://www.makeuseof.com/service/technology-explained/" data-slug="3297">Technology Explained</a>
+                    <li class="menu-item is-category"><a href="https://www.makeuseof.com/service/buying-guides/" data-slug="6630">Buying Guides</a></li>
+                	<li class="menu-item is-category"><a href="https://www.makeuseof.com/service/smart-home/" data-slug="4885">Smart Home</a></li>
+                	<li class="menu-item is-category"><a href="https://www.makeuseof.com/service/diy-projects/" data-slug="4876">DIY</a></li>
+                    <li class="menu-item is-category"><a href="https://www.makeuseof.com/service/product-reviews/" data-slug="4450">Product Reviews</a></li>
+                </ul>
+            </li>
+
+            <li class="menu-item menu-item-has-children"><a href="#" onclick="ga('send','event','header','Free Stuff');" style="color:#e22524!important">Free Stuff</a>
+              <ul class="sub-menu">
+                  <li class="menu-item"><a href="https://www.makeuseof.com/tags/longform-guide/" onclick="ga('send','event','header','Guides');">Free eBooks</a></li>
+                  <li class="menu-item"><a href="https://www.makeuseof.com/giveaways/" onclick="ga('send','event','header','Giveaways');">Giveaways</a></li>
+                  <li class="menu-item"><a href="https://www.makeuseof.com/tags/best-of/" onclick="ga('send','event','header','Top Lists');">Top Lists</a></li>
+                  <li class="menu-item"><a href="https://www.makeuseof.com/tags/cheat-sheet/" onclick="ga('send','event','header','Cheat Sheets');">Free Cheat Sheets</a></li>
+
+              </ul>
+            </li>
+
+
+            <li class="menu-item"><a href="https://www.makeuseof.com/videos/" onclick="ga('send','event','header','Videos');">Videos</a></li>
+
+
+            <li class="menu-item menu-item-has-children"><a href="#" onclick="ga('send','event','header','About');">About</a>
+                <ul class="sub-menu">
+                    <li class="menu-item"><a href="https://www.makeuseof.com/about/">About MakeUseOf</a></li>
+                    <li class="menu-item"><a href="https://www.makeuseof.com/advertise/">Advertise</a></li>
+                    <li class="menu-item"><a href="https://www.makeuseof.com/contact/">Contact</a></li>
+                    <li class="menu-item"><a href="https://www.makeuseof.com/legal/#privacy-policy">Privacy</a></li>
+                    <li class="menu-item"><a href="https://muoapps.com" target="_blank" rel="nofollow" onclick="ga('send','event','header','Apps');">Apps</a></li>
+                    <li class="menu-item"><a href="https://deals.makeuseof.com/?utm_source=makeuseof&utm_medium=homepage&utm_campaign=shoptab" target="_blank" rel="nofollow" onclick="ga('send','event','header','Shop');">Shop</a></li>
+
+                </ul>
+            </li>
+
+            <li class="menu-item"><a style="color:#f9a825!important" href="https://whatnerd.com/" onclick="ga('send','event','header','WhatNerd');" target="_blank">WhatNerd</a></li>
+            <li class="menu-item"><a style="color:#4a3ddd!important" title="Blocks Decoded" href="https://blocksdecoded.com/" onclick="ga('send','event','header','BlocksD');" target="_blank">Blocks D.</a></li>
+
+
+
+
+
+
+
+
+        </ul>
+    </div>
+
+  <ul class="mobile-social-links">
+    <li class="mobile-social-link-item facebook">
+      <a href="https://www.facebook.com/makeuseof" target="_blank">
+        <span class="mobile-social-label show-for-sr">Facebook</span>
+        <svg><use xlink:href="#icon-facebook"></svg>
+      </a>
+    </li>
+
+    <li class="mobile-social-link-item pinterest">
+      <a href="https://www.pinterest.com/makeuseof/" target="_blank">
+        <span class="mobile-social-label show-for-sr">Facebook</span>
+        <svg><use xlink:href="#icon-pinterest"></svg>
+      </a>
+    </li>
+
+    <li class="mobile-social-link-item twitter">
+      <a href="https://twitter.com/makeuseof" target="_blank">
+        <span class="mobile-social-label show-for-sr">Facebook</span>
+        <svg><use xlink:href="#icon-twitter"></svg>
+      </a>
+    </li>
+
+    <li class="mobile-social-link-item youtube">
+      <a href="https://www.youtube.com/c/makeuseof" target="_blank">
+        <span class="mobile-social-label show-for-sr">Facebook</span>
+        <svg><use xlink:href="#icon-youtube"></svg>
+      </a>
+    </li>
+  </ul>
+</nav>
+
+    
+    <div class="mobile-header-search" data-mobile-header-search-form>
+
+  <form role="search" method="get" class="search-form" action="https://www.makeuseof.com/" id="mobile-search-form">
+    <label>
+      <span class="show-for-sr">Search for:</span>
+      <input type="search" class="search-field" placeholder="Search MakeUseOf..." value="" name="s">
+    </label>
+    <div class="mobile-search-form-actions">
+      <button type="submit" class="search-submit" form="mobile-search-form" value="Search MakeUseOf...">
+        <svg><use xlink:href="#icon-search-start"></svg>
+      </button>
+      <button class="mobile-search-form-close" data-mobile-header-search-toggle>
+        <svg><use xlink:href="#icon-close"></svg>
+      </button>
+    </div>
+  </form>
+
+</div>
+
+  </div>
+</header>
+
+<div class="single-post-container">
+  
+	
+
+	<div itemscope itemtype="http://schema.org/Article" class="single-post infinite-post article-template-hero "
+			data-id="142098"
+			data-url="https://www.makeuseof.com/tag/how-do-i-download-an-entire-website-for-offline-reading/"
+			data-title="How to Download an Entire Website for Offline Reading"
+			data-author="Joel Lee"
+			data-date="October2018"
+					data-category="Internet"
+				>
+
+        
+<div itemprop="publisher" itemscope itemtype="https://schema.org/Organization" style="display:none;">
+	<div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+
+		<meta itemprop="url" content="https://static.makeuseof.com/wp-content/uploads/muo-logo-google.png">
+		<meta itemprop="height" content="60">
+	</div>
+    <meta itemprop="name" content="MakeUseOf">
+  </div>
+
+
+        
+
+		
+			  <div class="single-post-hero-image-container">
+    <div class="single-post-hero-image">
+                <img alt="How to Download an Entire Website for Offline Reading" src="https://static.makeuseof.com/wp-content/uploads/2013/04/Offline-Browsing-670x335.jpg" itemprop="image"
+          srcset="https://static.makeuseof.com/wp-content/uploads/2013/04/Offline-Browsing.jpg 1680w,https://static.makeuseof.com/wp-content/uploads/2013/04/Offline-Browsing-1100x600.jpg 1100w,https://static.makeuseof.com/wp-content/uploads/2013/04/Offline-Browsing-644x373.jpg 644w, https://static.makeuseof.com/wp-content/uploads/2013/04/Offline-Browsing-297x141.jpg 297w">
+          </div>
+
+    <div class="single-post-hero-overlay">
+      <div class="single-post-hero-overlay-container">
+        <figure class="article-card-container">
+
+  
+
+  <!-- IMAGE -->
+  <article
+    class="article-card
+     size-extra-large      position-absolute      align-left              display-taxonomy
+      "
+      >
+
+
+
+    
+    <div
+      class="article-card-image-overlay"
+        >
+      <a href="https://www.makeuseof.com/tag/how-do-i-download-an-entire-website-for-offline-reading/">How to Download an Entire Website for Offline Reading</a>
+    </div>
+
+    <div class="article-card-caption-container">
+      <div class="article-card-caption">
+
+        <!-- TAXONOMY -->
+                  <span class="article-card-taxonomy-container">
+            <p class="article-card-taxonomy">
+                                                            <a href="https://www.makeuseof.com/service/web-based/" class="internet">
+                          Internet                        </a>
+                                </p>
+          </span>
+        
+        <!-- TITLE -->
+                  <h1 itemprop="headline" class="article-card-title">
+            <a href="https://www.makeuseof.com/tag/how-do-i-download-an-entire-website-for-offline-reading/">
+              How to Download an Entire Website for Offline Reading            </a>
+          </h1>
+      
+        <!-- EXCERPT -->
+        
+        <!-- META -->
+                  <div class="article-card-meta">
+                        <span  class="article-card-meta-avatar"><img alt='' src='https://secure.gravatar.com/avatar/58d506753d3ead2b116f11b93ca3fb6c?s=32&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/58d506753d3ead2b116f11b93ca3fb6c?s=64&#038;d=mm&#038;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' /></span>
+            <div class="article-card-meta-details">
+              <span class="article-card-meta-author" itemprop="author" itemscope itemtype="https://schema.org/Person">
+                    <meta itemprop="name" content="Joel Lee">
+                    <a href="https://www.makeuseof.com/tag/author/joellee/" title="Joel Lee">Joel Lee</a>
+              </span>
+
+                                                      <span style="display:none;"><time itemprop="datePublished">October 23, 2018</time></span>
+                      <span class="article-card-meta-date">Updated <time itemprop="dateModified">November 19, 2018</time></span>
+                      <span class="article-card-meta-date-short">19-11-2018</span>
+                                
+                              <span class="article-card-read-time">5 minutes</span>
+                          </div>
+          </div>
+        
+      </div>
+    </div>
+
+    <!-- LINK OVERLAY -->
+          <div class="article-card-link-overlay">
+        <a href="https://www.makeuseof.com/tag/how-do-i-download-an-entire-website-for-offline-reading/" title="How to Download an Entire Website for Offline Reading">How to Download an Entire Website for Offline Reading</a>
+      </div>
+  
+
+  </article>
+
+</figure>
+      </div>
+    </div>
+  </div>
+		
+		<link itemprop="mainEntityOfPage" href="https://www.makeuseof.com/tag/how-do-i-download-an-entire-website-for-offline-reading/" />
+
+		<div class="container-wrap">
+			<div class="layout-block">
+
+				<div itemprop="articleBody" class="single-post-content rte">
+
+
+					
+
+					<div class="single-post-sharing-button-list">
+
+  <!-- EMAIL -->
+  <a class="single-post-sharing-button email"
+    href="mailto:?Subject=How to Download an Entire Website for Offline Reading&amp;Body=I%20saw%20this%20and%20thought%20of%20you!%20 https://www.makeuseof.com/tag/how-do-i-download-an-entire-website-for-offline-reading/"
+    onclick="ga('send','social','Email','Share', 'https://www.makeuseof.com/tag/how-do-i-download-an-entire-website-for-offline-reading/');"
+    >
+    <svg><use xlink:href="#icon-email"></svg>
+    <span class="single-post-sharing-button-label">Email</span>
+  </a>
+
+
+  <!-- FACEBOOK -->
+  <a class="single-post-sharing-button facebook"
+    href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.makeuseof.com%2Ftag%2Fhow-do-i-download-an-entire-website-for-offline-reading%2F%3Futm_source%3Dfacebook%26utm_campaign%3Dsharebar"
+    onclick="ga('send','social','Facebook','Like', 'https://www.makeuseof.com/tag/how-do-i-download-an-entire-website-for-offline-reading/');window.open('https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.makeuseof.com%2Ftag%2Fhow-do-i-download-an-entire-website-for-offline-reading%2F%3Futm_source%3Dfacebook%26utm_campaign%3Dsharebar', 'newwindow', 'width=600, height=450'); return false;"
+    target="_blank">
+    <svg><use xlink:href="#icon-facebook"></svg>
+    <span class="single-post-sharing-button-label">Facebook</span>
+  </a>
+
+  <!-- WHATSAPP -->
+  <a class="single-post-sharing-button whatsapp"
+    href="whatsapp://send?text=How+to+Download+an+Entire+Website+for+Offline+Reading%3A+https%3A%2F%2Fwww.makeuseof.com%2Ftag%2Fhow-do-i-download-an-entire-website-for-offline-reading%2F%3Futm_source%3Dwhatsapp%26utm_campaign%3Dsharebar"
+    data-action="share/whatsapp/share"
+    onclick="ga('send','social','Whatsapp','Share', 'https://www.makeuseof.com/tag/how-do-i-download-an-entire-website-for-offline-reading/');"
+    >
+    <svg><use xlink:href="#icon-whatsapp"></svg>
+    <span class="single-post-sharing-button-label">Whatsapp</span>
+  </a>
+
+
+  <!-- PINTEREST -->
+  <a class="single-post-sharing-button pinterest"
+     href="https://www.pinterest.com/pin/create/bookmarklet/?media=https://static.makeuseof.com/wp-content/uploads/2013/04/Offline-Browsing-670x335.jpg&url=https%3A%2F%2Fwww.makeuseof.com%2Ftag%2Fhow-do-i-download-an-entire-website-for-offline-reading%2F&is_video=false&description=How+to+Download+an+Entire+Website+for+Offline+Reading"
+     onclick="ga('send','social','Pinterest','Pin', 'https%3A%2F%2Fwww.makeuseof.com%2Ftag%2Fhow-do-i-download-an-entire-website-for-offline-reading%2F');window.open('https://www.pinterest.com/pin/create/bookmarklet/?media=https://static.makeuseof.com/wp-content/uploads/2013/04/Offline-Browsing-670x335.jpg&url=https%3A%2F%2Fwww.makeuseof.com%2Ftag%2Fhow-do-i-download-an-entire-website-for-offline-reading%2F&is_video=false&description=How+to+Download+an+Entire+Website+for+Offline+Reading', 'newwindow', 'width=600, height=450'); return false;"
+     target="_blank">
+    <svg><use xlink:href="#icon-pinterest"></svg>
+    <span class="single-post-sharing-button-label">Pinterest</span>
+  </a>
+
+  <!-- TWITTER -->
+  <a class="single-post-sharing-button twitter"
+    href="https://twitter.com/share?url=https://www.makeuseof.com/tag/how-do-i-download-an-entire-website-for-offline-reading/&text=How to Download an Entire Website for Offline Reading&hashtags=MakeUseOf"
+    onclick="ga('send','social','Twitter','Tweet', 'https://www.makeuseof.com/tag/how-do-i-download-an-entire-website-for-offline-reading/');window.open('https://twitter.com/share?url=https://www.makeuseof.com/tag/how-do-i-download-an-entire-website-for-offline-reading/&text=How to Download an Entire Website for Offline Reading&hashtags=MakeUseOf', 'newwindow', 'width=600, height=450'); return false;"
+    target="_blank">
+    <svg><use xlink:href="#icon-twitter"></svg>
+    <span class="single-post-sharing-button-label">Twitter</span>
+  </a>
+
+
+
+
+
+
+</div>
+
+
+																
+
+          			
+					<div class="post-body">
+					
+<div id="axdsense1" class="aligncenter"><small style="color:LightGray">Advertisement</small>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+var snParent = document.getElementById("axdsense1");
+  var parent_width = parseInt(snParent.offsetWidth);
+  var parent_height = 210;
+  if (parent_width >= 1200) { parent_width = 1200; }
+  if (parent_width <= 500) { parent_height = 100; }
+  var ins = document.createElement("ins");
+  ins.innerHTML = '<ins class="adsbygoogle"' +
+  'style="display:inline-block;width:' + parent_width + 'px;height:' + parent_height + 'px"' +
+  ' data-ad-client="ca-pub-9894449314507324"' +
+  ' data-ad-slot="3092450298"' +
+  ' data-font-face="verdana"' +
+  ' data-max-num-ads="3">' +
+  '';
+  snParent.appendChild(ins);
+  (adsbygoogle=window.adsbygoogle || []).push({});
+</script>
+</div>
+<p>Although <a class="no-callout" href="//www.makeuseof.com/tag/how-to-get-free-internet-service-almost-anywhere/">Wi-Fi is available everywhere</a> these days, you may find yourself without it from time to time. And when you do, there may be certain websites you wish you could save and access while offline&mdash;perhaps for research, entertainment, or posterity.</p><p>It&rsquo;s easy enough to <a class="no-callout" href="//www.makeuseof.com/tag/save-complete-webpage-offline-reading/">save individual web pages for offline reading</a>, but what if you want to download an <strong>entire website</strong>? Well, it&rsquo;s easier than you think! Here are four nifty tools you can use to download any website for offline reading, zero effort required.</p><h2>1. <a href="https://www.cyotek.com/cyotek-webcopy">WebCopy</a></h2><p><img class="aligncenter wp-image-685740 size-full lazy-load" data-src="//static.makeuseof.com/wp-content/uploads/2017/08/download-website-webcopy-cyotek.png" alt="Read a site offline with WebCopy" width="626" height="429"></p><p><strong>Available for Windows only.</strong></p><p><strong>WebCopy</strong> by Cyotek takes a website URL and scans it for links, pages, and media. As it finds pages, it recursively looks for more links, pages, and media until the whole website is discovered. Then you can use the configuration options to decide which parts to download offline.</p><p>The interesting thing about WebCopy is you can set up multiple &ldquo;projects&rdquo; that each have their own settings and configurations. This makes it easy to re-download many different sites whenever you want, each one in the same exact way every time.</p><div id="snhb-in_content-1-0" class="aligncenter"></div><p>One project can copy many websites, so use them with an organized plan (e.g. a &ldquo;Tech&rdquo; project for copying tech sites).</p><h3>How to Download an Entire Website With WebCopy</h3><ol>
+<li>Install and launch the app.</li>
+<li>Navigate to <strong>File &gt; New</strong> to create a new project.</li>
+<li>Type the URL into the <strong>Website</strong> field.</li>
+<li>Change the <strong>Save folder</strong> field to where you want the site saved.</li>
+<li>Play around with <strong>Project &gt; Rules&hellip;</strong> (<a href="https://docs.cyotek.com/cyowcopy/current/rules.html">learn more about WebCopy Rules</a>).</li>
+<li>Navigate to <strong>File &gt; Save As&hellip;</strong> to save the project.</li>
+<li>Click <strong>Copy Website</strong> in the toolbar to start the process.</li>
+</ol><p>Once the copying is done, you can use the Results tab to see the status of each individual page and/or media file. The Errors tab shows any problems that may have occurred and the Skipped tab shows files that weren&rsquo;t downloaded.</p><p>But most important is the Sitemap, which shows the full directory structure of the website as discovered by WebCopy.</p><p>To view the website offline, open File Explorer and navigate to the save folder you designated. Open the <strong>index.html</strong> (or sometimes <strong>index.htm</strong>) in your browser of choice to start browsing.</p><div id="snhb-in_content-2-0" class="aligncenter mobile-only"></div><h2>2. <a href="http://www.httrack.com/">HTTrack</a></h2><p><img class="aligncenter wp-image-685738 size-full lazy-load" data-src="//static.makeuseof.com/wp-content/uploads/2017/08/download-website-httrack.png" alt="Grab a webpage for offline reading with WinHTTRack" width="670" height="392"></p><p><strong>Available for Windows, Linux, and Android.</strong></p><p><strong>HTTrack</strong> is more known than WebCopy, and is arguably better because it&rsquo;s open source and available on platforms other than Windows, but the interface is a bit clunky and leaves much to be desired. However, it works well so don&rsquo;t let that turn you away.</p><p>Like WebCopy, it uses a project-based approach that lets you copy multiple websites and keep them all organized. You can pause and resume downloads, and you can update copied websites by re-downloading old and new files.</p><div id="snhb-in_content-3-0" class="aligncenter mobile-only"></div><h3>How to Download a Website With HTTrack</h3><ol>
+<li>Install and launch the app.</li>
+<li>Click <strong>Next</strong> to begin creating a new project.</li>
+<li>Give the project a name, category, base path, then click <strong>Next</strong>.</li>
+<li>Select <strong>Download web site(s)</strong> for Action, then type each website&rsquo;s URL in the <strong>Web Addresses</strong> box, one URL per line. You can also store URLs in a TXT file and import it, which is convenient when you want to re-download the same sites later. Click <strong>Next</strong>.</li>
+<li>Adjust parameters if you want, then click <strong>Finish</strong>.</li>
+</ol><p>Once everything is downloaded, you can browse the site like normal by going to where the files were downloaded and opening the <strong>index.html</strong> or <strong>index.htm</strong> in a browser.</p><h2>3. <a href="http://ricks-apps.com/osx/sitesucker/index.html">SiteSucker</a></h2><p><img class="aligncenter wp-image-685739 size-full lazy-load" data-src="//static.makeuseof.com/wp-content/uploads/2017/08/download-website-sitesucker.png" alt="SiteSucker copies websites for offline viewing" width="670" height="277"></p><p><strong>Available for Mac and iOS.</strong></p><p>If you&rsquo;re on a Mac, your best option is <strong>SiteSucker</strong>. This simple tool rips entire websites and maintains the same overall structure, and includes all relevant media files too (e.g. images, PDFs, style sheets).</p><div id="snhb-in_content-4-0" class="aligncenter mobile-only"></div><p>It has a clean and easy-to-use interface that could not be easier to use: you literally paste in the website URL and press <strong>Enter.</strong></p><p>One nifty feature is the ability to save the download to a file, then use that file to download the same exact files and structure again in the future (or on another machine). This feature is also what allows SiteSucker to pause and resume downloads.</p><p>SiteSucker costs $5 and does not come with a free version or a free trial, which is its biggest downside. The latest version requires macOS 10.13 High Sierra or later. Older versions of SiteSucker are available for older Mac systems, but some features may be missing.</p><h2>4. <a href="http://www.gnu.org/software/wget/">Wget</a></h2><p><strong>Available for Windows, Mac, and Linux.</strong></p><p><strong>Wget</strong> is a command-line utility that can retrieve all kinds of files over the HTTP and FTP protocols. Since websites are served through HTTP and most web media files are accessible through HTTP or FTP, this makes Wget an excellent tool for ripping websites.</p><p>While Wget is typically used to download single files, it <em>can</em> be used to recursively download all pages and files that are found through an initial page:</p><pre><code class="language-bash">wget -r -p //www.makeuseof.com</code></pre><p>However, some sites may detect and prevent what you&rsquo;re trying to do because ripping a website can cost them a lot of bandwidth. To get around this, you can disguise yourself as a web browser with a user agent string:</p><pre><code class="language-bash">wget -r -p -U Mozilla //www.makeuseof.com</code></pre><p>If you want to be polite, you should also limit your download speed (so you don&rsquo;t hog the web server&rsquo;s bandwidth) and pause between each download (so you don&rsquo;t overwhelm the web server with too many requests):</p><pre><code class="language-bash">wget -r -p -U Mozilla --wait=10 --limit-rate=35K //www.makeuseof.com</code></pre><p>Wget comes bundled with most Unix-based systems. On Mac, you can install Wget using a single Homebrew command: <strong>brew install wget</strong> (<a href="//www.makeuseof.com/tag/install-mac-software-terminal-homebrew/">how to set up Homebrew on Mac</a><span class="link-callout">
+            <span class="link-callout-image" style="background-image:url(//static.makeuseof.com/wp-content/themes/makeuseof2016/components/icons/no-image.png)">
+              <span class="link-callout-image-container" style="background-image:url(//static.makeuseof.com/wp-content/uploads/2014/12/brew-install-297x141.jpg)">
+                <a href="//www.makeuseof.com/tag/install-mac-software-terminal-homebrew/" onclick="ga('send','event','ui','link-callout');">How to Install Mac Apps in Terminal Using Homebrew</a>
+              </span>
+            </span>
+            <span class="link-callout-info">
+              <span class="link-callout-title">
+                <a href="//www.makeuseof.com/tag/install-mac-software-terminal-homebrew/" onclick="ga('send','event','ui','link-callout');">How to Install Mac Apps in Terminal Using Homebrew</a></span>
+              <span class="link-callout-excerpt">Did you know you can install Mac software in the Terminal? Here's how to use Homebrew to install Mac apps easily.</span>
+              <a href="//www.makeuseof.com/tag/install-mac-software-terminal-homebrew/" class="link-callout-link" onclick="ga('send','event','ui','link-callout');">Read More</a>
+            </span>
+          </span>). On Windows, you&rsquo;ll need to use <a href="https://eternallybored.org/misc/wget/">this ported version</a> instead.</p><h2>Which Websites Do You Want to Download?</h2><p>Now that you know how to download an entire website, you should never be caught without something to read, even when you have no internet access.</p><p>But remember: the bigger the site, the bigger the download. We don&rsquo;t recommend downloading huge sites like MakeUseOf because you&rsquo;ll need thousands of MBs to store all of the media files we use.</p><p>The <a class="no-callout" href="//www.makeuseof.com/tag/best-websites-internet/">best sites to download</a> are those with lots of text and not many images, and sites that don&rsquo;t regularly add new pages or changed. Static information sites, online ebook sites, and sites you want to archive in case they go down are ideal.</p><p>If you&rsquo;re interested in more options for offline reading, take a look at how you can <a href="//www.makeuseof.com/tag/take-reading-offline-5-chrome-apps/">set up Google Chrome for reading books offline</a><span class="link-callout">
+            <span class="link-callout-image" style="background-image:url(//static.makeuseof.com/wp-content/themes/makeuseof2016/components/icons/no-image.png)">
+              <span class="link-callout-image-container" style="background-image:url(//static.makeuseof.com/wp-content/uploads/2014/06/offline-ebook-chrome-297x141.jpg)">
+                <a href="//www.makeuseof.com/tag/take-reading-offline-5-chrome-apps/" onclick="ga('send','event','ui','link-callout');">How to Set Up Google Chrome for Offline Reading of Books</a>
+              </span>
+            </span>
+            <span class="link-callout-info">
+              <span class="link-callout-title">
+                <a href="//www.makeuseof.com/tag/take-reading-offline-5-chrome-apps/" onclick="ga('send','event','ui','link-callout');">How to Set Up Google Chrome for Offline Reading of Books</a></span>
+              <span class="link-callout-excerpt">Thanks to Chrome's offline apps, you don't need to rely on the internet to catch up on your ebook reading.</span>
+              <a href="//www.makeuseof.com/tag/take-reading-offline-5-chrome-apps/" class="link-callout-link" onclick="ga('send','event','ui','link-callout');">Read More</a>
+            </span>
+          </span>. And for other <a href="//www.makeuseof.com/tag/ways-to-read-long-articles/">ways to read long articles</a><span class="link-callout">
+            <span class="link-callout-image" style="background-image:url(//static.makeuseof.com/wp-content/themes/makeuseof2016/components/icons/no-image.png)">
+              <span class="link-callout-image-container" style="background-image:url(//static.makeuseof.com/wp-content/uploads/2019/07/read-long-articles-quick-297x141.jpg)">
+                <a href="//www.makeuseof.com/tag/ways-to-read-long-articles/" onclick="ga('send','event','ui','link-callout');">5 Smart Ways to Read Long Articles Quickly Instead of Hoarding Them</a>
+              </span>
+            </span>
+            <span class="link-callout-info">
+              <span class="link-callout-title">
+                <a href="//www.makeuseof.com/tag/ways-to-read-long-articles/" onclick="ga('send','event','ui','link-callout');">5 Smart Ways to Read Long Articles Quickly Instead of Hoarding Them</a></span>
+              <span class="link-callout-excerpt">What if you could read a long article in the limited time you have? These smart methods help you go through long reads quickly.</span>
+              <a href="//www.makeuseof.com/tag/ways-to-read-long-articles/" class="link-callout-link" onclick="ga('send','event','ui','link-callout');">Read More</a>
+            </span>
+          </span> instead of downloading them, check out our tips and tricks.</p><p><small>Image Credit: RawPixel.com/Shutterstock</small></p>
+
+
+
+
+					</div>
+
+					<p><small>Explore more about: <a href='https://www.makeuseof.com/tags/download-manager/' title='Download Management Tag'>Download Management</a>, <a href='https://www.makeuseof.com/tags/offline-browsing/' title='Offline Browsing Tag'>Offline Browsing</a>.</small></p>
+
+
+					<span class="article-endpoint"></span>
+
+
+<div id='div-gpt-ad-1565270039099-0' style='width: 1px; height: 1px;'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1565270039099-0'); });
+</script>
+</div>
+
+
+					
+							<div class="single-post-navigation show-for-sr">
+								<a href='https://www.makeuseof.com/tag/personalize-yelp-based-on-interests/' rel='prev'>You Can Now Personalize Yelp Based on Your Interests<a/><a href="https://www.makeuseof.com/tag/ebay-instant-selling-sell-phone-instantly/" rel="next">eBay Instant Selling Lets You Sell Your Phone Instantly</a>							</div>
+
+
+						
+
+					
+					
+
+    <div class="single-post-newsletter nolinks">
+
+        <form action="https://www.mail.makeuseof.com/add_subscriber.html" accept-charset="utf-8" method="post">
+            <p><strong>Enjoyed this article? Stay informed by joining our newsletter!</strong></p>
+            <div class="form-field-email">
+                <div class="form-field-title">
+                    Enter your Email
+                </div>
+
+                <div class="form-field-control">
+                    <label class="form-label form-newsletter-email" for="newsletter-email">
+                        <input
+                            id="newsletter-email"
+                            class="form-input form-text"
+                            name="email"
+                            type="email"
+                            placeholder="your@email.com">
+                    </label>
+                    <input type="hidden" name="thankyou_url" value="https://www.makeuseof.com/confirm-your-subscription/"/>
+                    <input type="hidden" name="campaign_token" value="W" />
+                    <input type="hidden" name="start_day" value="0" />
+
+                    <label class="form-label form-newsletter-submit">
+                        <button class="form-submit button" type="submit">
+                            Submit
+                        </button>
+                    </label>
+
+                </div>
+
+            </div>
+            <div class="privacy_message_form"><a href="https://www.makeuseof.com/legal/" rel="nofollow">Read our privacy policy</a></div>
+
+        </form>
+    </div>
+
+
+
+						
+<div class="single-post-comments" data-comments>
+
+
+    <h2 class="single-post-comments-title">
+      <el>
+        <button class="comments-list-toggle" data-comments-list-toggle>
+          16 comments        </button>
+
+        <svg class="loading-bars" style="margin-left: 110px;display:none;" width="32px" height="32px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid" class="uil-facebook"><rect x="0" y="0" width="100" height="100" fill="#ffffff" class="bk"></rect><g transform="translate(20 50)"><rect x="-10" y="-30" width="20" height="60" fill="#e22524" opacity="0.6" transform="scale(1.01881 1.01881)"><animateTransform attributeName="transform" type="scale" from="2" to="1" begin="0s" repeatCount="indefinite" dur="1s" calcMode="spline" keySplines="0.1 0.9 0.4 1" keyTimes="0;1" values="2;1"></animateTransform></rect></g><g transform="translate(50 50)"><rect x="-10" y="-30" width="20" height="60" fill="#e22524" opacity="0.8" transform="scale(1.03825 1.03825)"><animateTransform attributeName="transform" type="scale" from="2" to="1" begin="0.1s" repeatCount="indefinite" dur="1s" calcMode="spline" keySplines="0.1 0.9 0.4 1" keyTimes="0;1" values="2;1"></animateTransform></rect></g><g transform="translate(80 50)"><rect x="-10" y="-30" width="20" height="60" fill="#e22524" opacity="0.9" transform="scale(1.07024 1.07024)"><animateTransform attributeName="transform" type="scale" from="2" to="1" begin="0.2s" repeatCount="indefinite" dur="1s" calcMode="spline" keySplines="0.1 0.9 0.4 1" keyTimes="0;1" values="2;1"></animateTransform></rect></g></svg>
+        </el>
+
+                <button class="comments-form-toggle" data-comments-form-toggle>
+            Write a Comment          </button>
+      
+
+    </h2>
+
+    <div data-comments-form>
+              	<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/tag/how-do-i-download-an-entire-website-for-offline-reading/#respond" style="display:none;">Cancel reply</a></small></h3>			<form action="https://www.makeuseof.com/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate>
+				<p class="comment-notes"><span id="email-notes">Your email address will not be published.</span> Required fields are marked <span class="required">*</span></p><p class="comment-form-comment"><label for="comment">Comment</label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required="required"></textarea></p><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" required='required' /></p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="email" value="" size="30" maxlength="100" aria-describedby="email-notes" required='required' /></p>
+
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='142098' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="3a9faf3647" /></p><p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="128"/></p>			</form>
+			</div><!-- #respond -->
+	    </div>
+
+  	
+  		<ol class="single-post-comment-list " data-comments-list>
+                <li class="comment even thread-even depth-1" id="comment-2952521">
+          <div id="div-comment-2952521" class="comment-body">
+      
+      <div class="comment-avatar">
+          <img alt='' data-src='https://secure.gravatar.com/avatar/e07932c6c19ec792ae94da838c791535?s=32&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/e07932c6c19ec792ae94da838c791535?s=64&#038;d=mm&#038;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' />      </div>
+
+      <div class="comment-meta">
+        <div class="comment-author">
+            Nicolai Svendsen        </div>
+
+        <div class="comment-date">
+          June 5, 2019 at 7:11 am        </div>
+      </div>
+
+      <div class="comment-content"  style="overflow:hidden;">
+        <p>Unfortunately, the tool HTTrack just creates the website and the links inside link to inaccurate file paths. The paths are close to correct, except it includes a folder in the path that doesn't actually exist, making the index.html useless for actual browsing if that's what I want to do. This is on Android.</p>
+<p>That's my experience, anyway. I guess it could be some adjusting of options I need to mess around with, I hope, since this would be a nice and tidy solution. I was hoping it would let me browse everything offline instead of going to each individual file to see it. After all, it says "browse mirror" when I'm done.</p>
+<p>I hope I just overlooked something obvious. Granted, it's only been five minutes since I installed it, so I'll keep messing about.</p>
+      </div>
+
+      <div class="comment-reply">
+        <a rel='nofollow' class='comment-reply-link' href='#comment-2952521' data-commentid="2952521" data-postid="142098" data-belowelement="div-comment-2952521" data-respondelement="respond" aria-label='Reply to Nicolai Svendsen'>Reply</a>      </div>
+            </div>
+        </li><!-- #comment-## -->
+    <li class="comment odd alt thread-odd thread-alt depth-1" id="comment-2547051">
+          <div id="div-comment-2547051" class="comment-body">
+      
+      <div class="comment-avatar">
+          <img alt='' data-src='https://secure.gravatar.com/avatar/18a1e81d28023f474ccd49d1ed93458f?s=32&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/18a1e81d28023f474ccd49d1ed93458f?s=64&#038;d=mm&#038;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' />      </div>
+
+      <div class="comment-meta">
+        <div class="comment-author">
+            Ahmed Gelemli        </div>
+
+        <div class="comment-date">
+          September 9, 2018 at 1:56 pm        </div>
+      </div>
+
+      <div class="comment-content"  style="overflow:hidden;">
+        <p>The best site for download:<br />
+<a href="http://www.google.com" rel="nofollow">http://www.google.com</a></p>
+      </div>
+
+      <div class="comment-reply">
+        <a rel='nofollow' class='comment-reply-link' href='#comment-2547051' data-commentid="2547051" data-postid="142098" data-belowelement="div-comment-2547051" data-respondelement="respond" aria-label='Reply to Ahmed Gelemli'>Reply</a>      </div>
+            </div>
+        </li><!-- #comment-## -->
+    <li class="comment even thread-even depth-1" id="comment-2437795">
+          <div id="div-comment-2437795" class="comment-body">
+      
+      <div class="comment-avatar">
+          <img alt='' data-src='https://secure.gravatar.com/avatar/57e31a1ac1daeef44e80a074cf1bd8d4?s=32&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/57e31a1ac1daeef44e80a074cf1bd8d4?s=64&#038;d=mm&#038;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' />      </div>
+
+      <div class="comment-meta">
+        <div class="comment-author">
+            duane        </div>
+
+        <div class="comment-date">
+          May 25, 2018 at 2:49 pm        </div>
+      </div>
+
+      <div class="comment-content"  style="overflow:hidden;">
+        <p>are you able to download a site that no longer directs to a current URL? If i change providers, am I able to still download the old website?</p>
+      </div>
+
+      <div class="comment-reply">
+        <a rel='nofollow' class='comment-reply-link' href='#comment-2437795' data-commentid="2437795" data-postid="142098" data-belowelement="div-comment-2437795" data-respondelement="respond" aria-label='Reply to duane'>Reply</a>      </div>
+            </div>
+        </li><!-- #comment-## -->
+    <li class="comment odd alt thread-odd thread-alt depth-1" id="comment-2426936">
+          <div id="div-comment-2426936" class="comment-body">
+      
+      <div class="comment-avatar">
+          <img alt='' data-src='https://secure.gravatar.com/avatar/7df18ffa590f8777502c93464b1bf772?s=32&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/7df18ffa590f8777502c93464b1bf772?s=64&#038;d=mm&#038;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' />      </div>
+
+      <div class="comment-meta">
+        <div class="comment-author">
+            Navneet        </div>
+
+        <div class="comment-date">
+          May 12, 2018 at 2:09 pm        </div>
+      </div>
+
+      <div class="comment-content"  style="overflow:hidden;">
+        <p>great post!<br />
+comicdownloader.com is also a great place to download comic to read offline from other sites if you are a comic lover.</p>
+      </div>
+
+      <div class="comment-reply">
+        <a rel='nofollow' class='comment-reply-link' href='#comment-2426936' data-commentid="2426936" data-postid="142098" data-belowelement="div-comment-2426936" data-respondelement="respond" aria-label='Reply to Navneet'>Reply</a>      </div>
+            </div>
+        </li><!-- #comment-## -->
+    <li class="comment even thread-even depth-1" id="comment-2324645">
+          <div id="div-comment-2324645" class="comment-body">
+      
+      <div class="comment-avatar">
+          <img alt='' data-src='https://secure.gravatar.com/avatar/0de7b6765110bacd990ca7a89b8e5c1e?s=32&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/0de7b6765110bacd990ca7a89b8e5c1e?s=64&#038;d=mm&#038;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' />      </div>
+
+      <div class="comment-meta">
+        <div class="comment-author">
+            Michael1124        </div>
+
+        <div class="comment-date">
+          January 1, 2018 at 12:14 pm        </div>
+      </div>
+
+      <div class="comment-content"  style="overflow:hidden;">
+        <p>IDM (Internet Download Manager) has a built-in site grabber.</p>
+      </div>
+
+      <div class="comment-reply">
+        <a rel='nofollow' class='comment-reply-link' href='#comment-2324645' data-commentid="2324645" data-postid="142098" data-belowelement="div-comment-2324645" data-respondelement="respond" aria-label='Reply to Michael1124'>Reply</a>      </div>
+            </div>
+        </li><!-- #comment-## -->
+    <li class="comment odd alt thread-odd thread-alt depth-1" id="comment-2324641">
+          <div id="div-comment-2324641" class="comment-body">
+      
+      <div class="comment-avatar">
+          <img alt='' data-src='https://secure.gravatar.com/avatar/0de7b6765110bacd990ca7a89b8e5c1e?s=32&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/0de7b6765110bacd990ca7a89b8e5c1e?s=64&#038;d=mm&#038;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' />      </div>
+
+      <div class="comment-meta">
+        <div class="comment-author">
+            Michael1124        </div>
+
+        <div class="comment-date">
+          January 1, 2018 at 12:12 pm        </div>
+      </div>
+
+      <div class="comment-content"  style="overflow:hidden;">
+        <p>Did you know IDM (Internet Download Manager) has a built in site grabber?</p>
+      </div>
+
+      <div class="comment-reply">
+        <a rel='nofollow' class='comment-reply-link' href='#comment-2324641' data-commentid="2324641" data-postid="142098" data-belowelement="div-comment-2324641" data-respondelement="respond" aria-label='Reply to Michael1124'>Reply</a>      </div>
+            </div>
+        </li><!-- #comment-## -->
+    <li class="comment even thread-even depth-1 parent" id="comment-2314768">
+          <div id="div-comment-2314768" class="comment-body">
+      
+      <div class="comment-avatar">
+          <img alt='' data-src='https://secure.gravatar.com/avatar/c0eec9ab2f95d562b244dad5dbe9788a?s=32&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/c0eec9ab2f95d562b244dad5dbe9788a?s=64&#038;d=mm&#038;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' />      </div>
+
+      <div class="comment-meta">
+        <div class="comment-author">
+            Rehan Khan        </div>
+
+        <div class="comment-date">
+          December 26, 2017 at 8:14 am        </div>
+      </div>
+
+      <div class="comment-content"  style="overflow:hidden;">
+        <p>Faris Technology is the cost effective way of devloping websites which will help you to grow your business easy and less invesment.</p>
+<p>We provide Software, Website Development, Themes, Domain registrtion and Webhosting, Email Marketing and Email hosting server @ very reasonable rate kindly contact us</p>
+      </div>
+
+      <div class="comment-reply">
+        <a rel='nofollow' class='comment-reply-link' href='#comment-2314768' data-commentid="2314768" data-postid="142098" data-belowelement="div-comment-2314768" data-respondelement="respond" aria-label='Reply to Rehan Khan'>Reply</a>      </div>
+            </div>
+        <ul class="children">
+    <li class="comment odd alt depth-2" id="comment-2612138">
+          <div id="div-comment-2612138" class="comment-body">
+      
+      <div class="comment-avatar">
+          <img alt='' data-src='https://secure.gravatar.com/avatar/137fde232716b61a70ffc6e60a68d6b9?s=32&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/137fde232716b61a70ffc6e60a68d6b9?s=64&#038;d=mm&#038;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' />      </div>
+
+      <div class="comment-meta">
+        <div class="comment-author">
+            ReadandShare        </div>
+
+        <div class="comment-date">
+          October 23, 2018 at 8:49 pm        </div>
+      </div>
+
+      <div class="comment-content"  style="overflow:hidden;">
+        <p>Right - so cost effective you skip paying for advertising by spamming everyone else instead.  Definitely won't be doing business with you - and hope no one else does either.</p>
+      </div>
+
+      <div class="comment-reply">
+        <a rel='nofollow' class='comment-reply-link' href='#comment-2612138' data-commentid="2612138" data-postid="142098" data-belowelement="div-comment-2612138" data-respondelement="respond" aria-label='Reply to ReadandShare'>Reply</a>      </div>
+            </div>
+        </li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+    <li class="comment even thread-odd thread-alt depth-1 parent" id="comment-2283582">
+          <div id="div-comment-2283582" class="comment-body">
+      
+      <div class="comment-avatar">
+          <img alt='' data-src='https://secure.gravatar.com/avatar/ad7b421942dbdebcf402983ef1799a81?s=32&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/ad7b421942dbdebcf402983ef1799a81?s=64&#038;d=mm&#038;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' />      </div>
+
+      <div class="comment-meta">
+        <div class="comment-author">
+            Silas        </div>
+
+        <div class="comment-date">
+          December 1, 2017 at 7:26 pm        </div>
+      </div>
+
+      <div class="comment-content"  style="overflow:hidden;">
+        <p>I've installed Homebrew and wget and tried running it but it says "Scheme Missing". I even copy and pasted the code provided on this page and it stills says same thing. What am I missing and how do I correct it? Thanks for your help.</p>
+      </div>
+
+      <div class="comment-reply">
+        <a rel='nofollow' class='comment-reply-link' href='#comment-2283582' data-commentid="2283582" data-postid="142098" data-belowelement="div-comment-2283582" data-respondelement="respond" aria-label='Reply to Silas'>Reply</a>      </div>
+            </div>
+        <ul class="children">
+    <li class="comment odd alt depth-2 parent" id="comment-2284375">
+          <div id="div-comment-2284375" class="comment-body">
+      
+      <div class="comment-avatar">
+          <img alt='' data-src='https://secure.gravatar.com/avatar/2e41d52b2986c0c63a2f464e34b7b3f3?s=32&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/2e41d52b2986c0c63a2f464e34b7b3f3?s=64&#038;d=mm&#038;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' />      </div>
+
+      <div class="comment-meta">
+        <div class="comment-author">
+            no        </div>
+
+        <div class="comment-date">
+          December 2, 2017 at 12:22 pm        </div>
+      </div>
+
+      <div class="comment-content"  style="overflow:hidden;">
+        <p>Try without the //</p>
+      </div>
+
+      <div class="comment-reply">
+        <a rel='nofollow' class='comment-reply-link' href='#comment-2284375' data-commentid="2284375" data-postid="142098" data-belowelement="div-comment-2284375" data-respondelement="respond" aria-label='Reply to no'>Reply</a>      </div>
+            </div>
+        <ul class="children">
+    <li class="comment even depth-3" id="comment-2284559">
+          <div id="div-comment-2284559" class="comment-body">
+      
+      <div class="comment-avatar">
+          <img alt='' data-src='https://secure.gravatar.com/avatar/ad7b421942dbdebcf402983ef1799a81?s=32&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/ad7b421942dbdebcf402983ef1799a81?s=64&#038;d=mm&#038;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' />      </div>
+
+      <div class="comment-meta">
+        <div class="comment-author">
+            Silas        </div>
+
+        <div class="comment-date">
+          December 2, 2017 at 4:14 pm        </div>
+      </div>
+
+      <div class="comment-content"  style="overflow:hidden;">
+        <p>Thank you, that worked.</p>
+      </div>
+
+      <div class="comment-reply">
+        <a rel='nofollow' class='comment-reply-link' href='#comment-2284559' data-commentid="2284559" data-postid="142098" data-belowelement="div-comment-2284559" data-respondelement="respond" aria-label='Reply to Silas'>Reply</a>      </div>
+            </div>
+        </li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+    <li class="comment odd alt thread-even depth-1 parent" id="comment-2233482">
+          <div id="div-comment-2233482" class="comment-body">
+      
+      <div class="comment-avatar">
+          <img alt='' data-src='https://secure.gravatar.com/avatar/6c1aee92e16b4b0c132504f59d59bd40?s=32&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/6c1aee92e16b4b0c132504f59d59bd40?s=64&#038;d=mm&#038;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' />      </div>
+
+      <div class="comment-meta">
+        <div class="comment-author">
+            happy patel        </div>
+
+        <div class="comment-date">
+          October 25, 2017 at 2:56 pm        </div>
+      </div>
+
+      <div class="comment-content"  style="overflow:hidden;">
+        <p>downloading youtube from last 2 years ...</p>
+      </div>
+
+      <div class="comment-reply">
+        <a rel='nofollow' class='comment-reply-link' href='#comment-2233482' data-commentid="2233482" data-postid="142098" data-belowelement="div-comment-2233482" data-respondelement="respond" aria-label='Reply to happy patel'>Reply</a>      </div>
+            </div>
+        <ul class="children">
+    <li class="comment even depth-2" id="comment-2283583">
+          <div id="div-comment-2283583" class="comment-body">
+      
+      <div class="comment-avatar">
+          <img alt='' data-src='https://secure.gravatar.com/avatar/ad7b421942dbdebcf402983ef1799a81?s=32&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/ad7b421942dbdebcf402983ef1799a81?s=64&#038;d=mm&#038;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' />      </div>
+
+      <div class="comment-meta">
+        <div class="comment-author">
+            Silas        </div>
+
+        <div class="comment-date">
+          December 1, 2017 at 7:27 pm        </div>
+      </div>
+
+      <div class="comment-content"  style="overflow:hidden;">
+        <p>Probably still at .01% if I had to guess!?</p>
+      </div>
+
+      <div class="comment-reply">
+        <a rel='nofollow' class='comment-reply-link' href='#comment-2283583' data-commentid="2283583" data-postid="142098" data-belowelement="div-comment-2283583" data-respondelement="respond" aria-label='Reply to Silas'>Reply</a>      </div>
+            </div>
+        </li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+    <li class="comment odd alt thread-odd thread-alt depth-1" id="comment-2208955">
+          <div id="div-comment-2208955" class="comment-body">
+      
+      <div class="comment-avatar">
+          <img alt='' data-src='https://secure.gravatar.com/avatar/83a34cc7e7cb47843c11302b7b6d073d?s=32&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/83a34cc7e7cb47843c11302b7b6d073d?s=64&#038;d=mm&#038;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' />      </div>
+
+      <div class="comment-meta">
+        <div class="comment-author">
+            Paul Gerlich        </div>
+
+        <div class="comment-date">
+          October 8, 2017 at 10:44 pm        </div>
+      </div>
+
+      <div class="comment-content"  style="overflow:hidden;">
+        <p>Great article, thanks for posting this</p>
+      </div>
+
+      <div class="comment-reply">
+        <a rel='nofollow' class='comment-reply-link' href='#comment-2208955' data-commentid="2208955" data-postid="142098" data-belowelement="div-comment-2208955" data-respondelement="respond" aria-label='Reply to Paul Gerlich'>Reply</a>      </div>
+            </div>
+        </li><!-- #comment-## -->
+    <li class="comment even thread-even depth-1 parent" id="comment-2186993">
+          <div id="div-comment-2186993" class="comment-body">
+      
+      <div class="comment-avatar">
+          <img alt='' data-src='https://secure.gravatar.com/avatar/b36c8d0505442c95b9c7bd36147ea240?s=32&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/b36c8d0505442c95b9c7bd36147ea240?s=64&#038;d=mm&#038;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' />      </div>
+
+      <div class="comment-meta">
+        <div class="comment-author">
+            Deepak        </div>
+
+        <div class="comment-date">
+          September 18, 2017 at 3:14 pm        </div>
+      </div>
+
+      <div class="comment-content"  style="overflow:hidden;">
+        <p>none of these downloaders are working against the modern checking of javascript..</p>
+      </div>
+
+      <div class="comment-reply">
+        <a rel='nofollow' class='comment-reply-link' href='#comment-2186993' data-commentid="2186993" data-postid="142098" data-belowelement="div-comment-2186993" data-respondelement="respond" aria-label='Reply to Deepak'>Reply</a>      </div>
+            </div>
+        <ul class="children">
+    <li class="comment odd alt depth-2" id="comment-2208957">
+          <div id="div-comment-2208957" class="comment-body">
+      
+      <div class="comment-avatar">
+          <img alt='' data-src='https://secure.gravatar.com/avatar/83a34cc7e7cb47843c11302b7b6d073d?s=32&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/83a34cc7e7cb47843c11302b7b6d073d?s=64&#038;d=mm&#038;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' />      </div>
+
+      <div class="comment-meta">
+        <div class="comment-author">
+            Paul Gerlich        </div>
+
+        <div class="comment-date">
+          October 8, 2017 at 10:44 pm        </div>
+      </div>
+
+      <div class="comment-content"  style="overflow:hidden;">
+        <p>Just leveraged the wget, not sure what you think JS is capable of doing - but it's hard to circumvent a fake UserAgent string.</p>
+      </div>
+
+      <div class="comment-reply">
+        <a rel='nofollow' class='comment-reply-link' href='#comment-2208957' data-commentid="2208957" data-postid="142098" data-belowelement="div-comment-2208957" data-respondelement="respond" aria-label='Reply to Paul Gerlich'>Reply</a>      </div>
+            </div>
+        </li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+        </ol>
+
+  		
+  	
+
+</div>
+
+
+				</div>
+
+				<aside class="single-post-sidebar" style="display: flex; flex-direction: column;">
+						
+
+
+    <div class="single-post-sidebar-meta">
+      <a class="single-post-sidebar-meta-avatar" href="https://www.makeuseof.com/tag/author/joellee/" title="Joel Lee">
+        <img alt='' src='https://secure.gravatar.com/avatar/58d506753d3ead2b116f11b93ca3fb6c?s=64&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/58d506753d3ead2b116f11b93ca3fb6c?s=128&#038;d=mm&#038;r=g 2x' class='avatar avatar-64 photo' height='64' width='64' />      </a>
+
+      <div class="single-post-sidebar-meta-details">
+        <span class="single-post-sidebar-meta-author">
+          <a href="https://www.makeuseof.com/tag/author/joellee/" title="Joel Lee">
+            Joel Lee          </a>
+        </span>
+
+        <span class="single-post-sidebar-meta-author-count">
+                    1747<span> articles</span>        </span>
+      </div>
+    </div>
+
+    <p class="single-post-sidebar-meta-author-biography">
+      Joel Lee has a B.S. in Computer Science and over six years of professional writing experience. He is the Editor in Chief for MakeUseOf.    </p>
+
+
+            <div ><div id='snhb-sidebar_1-0' class='aligncenter single-post-sidebar-advertisement '></div><span class='bt-uid-tg' data-uid='5b2bd62e01-158' style='display: none !important'></span></div>
+    
+
+<div class="article-sidebar giveaways-sidebar sidebar-thumbs"><div class="article-sidebar-title sidebar-heading">Latest Giveaways!</div><figure class="article-card-container">
+
+  
+
+  <!-- IMAGE -->
+  <article
+    class="article-card
+     size-small      position-relative      align-left      "
+      >
+
+
+
+                  <div class="article-card-relative-image">
+          <div class="article-card-relative-image-container"
+                          style="background-image: url('https://static.makeuseof.com/wp-content/uploads/2019/08/insta360-go-featured-1-382x255.jpg');">
+              <img src="https://static.makeuseof.com/wp-content/uploads/2019/08/insta360-go-featured-1-382x255.jpg">
+                      </div>
+        </div>
+          
+    <div
+      class="article-card-image-overlay"
+                          >
+      <a href="https://www.makeuseof.com/tag/insta360-go/">Insta360 GO: The Only Action Cam You&#8217;ll Ever Need</a>
+    </div>
+
+    <div class="article-card-caption-container">
+      <div class="article-card-caption">
+
+        <!-- TAXONOMY -->
+        
+        <!-- TITLE -->
+                  <h1 class="article-card-title">
+            <a href="https://www.makeuseof.com/tag/insta360-go/">
+              Insta360 GO: The Only Action Cam You&#8217;ll Ever Need            </a>
+          </h1>
+      
+        <!-- EXCERPT -->
+        
+        <!-- META -->
+        
+      </div>
+    </div>
+
+    <!-- LINK OVERLAY -->
+    
+
+  </article>
+
+</figure>
+<figure class="article-card-container">
+
+  
+
+  <!-- IMAGE -->
+  <article
+    class="article-card
+     size-small      position-relative      align-left      "
+      >
+
+
+
+                  <div class="article-card-relative-image">
+          <div class="article-card-relative-image-container"
+                          style="background-image: url('https://static.makeuseof.com/wp-content/uploads/2019/08/matrixpad-z4-1-382x255.jpg');">
+              <img src="https://static.makeuseof.com/wp-content/uploads/2019/08/matrixpad-z4-1-382x255.jpg">
+                      </div>
+        </div>
+          
+    <div
+      class="article-card-image-overlay"
+                          >
+      <a href="https://www.makeuseof.com/tag/vankyo-matrixpad-z4/">10.1&#8243; Android Tablet for Less Than $100?! Meet The Vankyo Matrixpad Z4</a>
+    </div>
+
+    <div class="article-card-caption-container">
+      <div class="article-card-caption">
+
+        <!-- TAXONOMY -->
+        
+        <!-- TITLE -->
+                  <h1 class="article-card-title">
+            <a href="https://www.makeuseof.com/tag/vankyo-matrixpad-z4/">
+              10.1&#8243; Android Tablet for Less Than $100?! Meet The Vankyo Matrixpad Z4            </a>
+          </h1>
+      
+        <!-- EXCERPT -->
+        
+        <!-- META -->
+        
+      </div>
+    </div>
+
+    <!-- LINK OVERLAY -->
+    
+
+  </article>
+
+</figure>
+<figure class="article-card-container">
+
+  
+
+  <!-- IMAGE -->
+  <article
+    class="article-card
+     size-small      position-relative      align-left      "
+      >
+
+
+
+                  <div class="article-card-relative-image">
+          <div class="article-card-relative-image-container"
+                          style="background-image: url('https://static.makeuseof.com/wp-content/uploads/2019/08/bond-featured-1-382x255.jpg');">
+              <img src="https://static.makeuseof.com/wp-content/uploads/2019/08/bond-featured-1-382x255.jpg">
+                      </div>
+        </div>
+          
+    <div
+      class="article-card-image-overlay"
+                          >
+      <a href="https://www.makeuseof.com/tag/bond-smart-wifi/">Turn Dumb Remote-Controlled Devices into Smart Voice Controlled Ones, with Bond</a>
+    </div>
+
+    <div class="article-card-caption-container">
+      <div class="article-card-caption">
+
+        <!-- TAXONOMY -->
+        
+        <!-- TITLE -->
+                  <h1 class="article-card-title">
+            <a href="https://www.makeuseof.com/tag/bond-smart-wifi/">
+              Turn Dumb Remote-Controlled Devices into Smart Voice Controlled Ones, with Bond            </a>
+          </h1>
+      
+        <!-- EXCERPT -->
+        
+        <!-- META -->
+        
+      </div>
+    </div>
+
+    <!-- LINK OVERLAY -->
+    
+
+  </article>
+
+</figure>
+</div>
+            <div ><div id='snhb-sidebar_2-0' class='aligncenter single-post-sidebar-advertisement hide-mobile stickyincontainer'></div><span class='bt-uid-tg' data-uid='5b2bd63579-158' style='display: none !important'></span></div>
+    
+
+
+
+  <div class="article-sidebar sidebar-thumbs"><div class="article-sidebar-title sidebar-heading">Related Articles</div><figure class="article-card-container">
+
+  
+
+  <!-- IMAGE -->
+  <article
+    class="article-card
+     size-small      position-relative      align-left              display-taxonomy
+      "
+      >
+
+
+
+                  <div class="article-card-relative-image">
+          <div class="article-card-relative-image-container"
+                          style="background-image: url('https://static.makeuseof.com/wp-content/uploads/2018/02/inspiring-netflix-movies-382x255.jpg');">
+              <img src="https://static.makeuseof.com/wp-content/uploads/2018/02/inspiring-netflix-movies-382x255.jpg">
+                      </div>
+        </div>
+          
+    <div
+      class="article-card-image-overlay"
+                          >
+      <a href="https://www.makeuseof.com/tag/inspiring-movies-netflix/">7 Inspiring Movies on Netflix That Could Change Your Life</a>
+    </div>
+
+    <div class="article-card-caption-container">
+      <div class="article-card-caption">
+
+        <!-- TAXONOMY -->
+                  <span class="article-card-taxonomy-container">
+            <p class="article-card-taxonomy">
+                                                            <a href="https://www.makeuseof.com/service/entertainment/" class="entertainment">
+                          Entertainment                        </a>
+                                </p>
+          </span>
+        
+        <!-- TITLE -->
+                  <h1 class="article-card-title">
+            <a href="https://www.makeuseof.com/tag/inspiring-movies-netflix/">
+              7 Inspiring Movies on Netflix That Could Change Your Life            </a>
+          </h1>
+      
+        <!-- EXCERPT -->
+        
+        <!-- META -->
+        
+      </div>
+    </div>
+
+    <!-- LINK OVERLAY -->
+    
+
+  </article>
+
+</figure>
+<figure class="article-card-container">
+
+  
+
+  <!-- IMAGE -->
+  <article
+    class="article-card
+     size-small      position-relative      align-left              display-taxonomy
+      "
+      >
+
+
+
+                  <div class="article-card-relative-image">
+          <div class="article-card-relative-image-container"
+                          style="background-image: url('https://static.makeuseof.com/wp-content/uploads/2015/10/powerline-adapter1-382x255.jpg');">
+              <img src="https://static.makeuseof.com/wp-content/uploads/2015/10/powerline-adapter1-382x255.jpg">
+                      </div>
+        </div>
+          
+    <div
+      class="article-card-image-overlay"
+                          >
+      <a href="https://www.makeuseof.com/tag/8-things-powerline-adapters-need-know-first/">What Are Powerline Adapters? 9 Things You Need to Know</a>
+    </div>
+
+    <div class="article-card-caption-container">
+      <div class="article-card-caption">
+
+        <!-- TAXONOMY -->
+                  <span class="article-card-taxonomy-container">
+            <p class="article-card-taxonomy">
+                                                            <a href="https://www.makeuseof.com/service/technology-explained/" class="technology explained">
+                          Technology Explained                        </a>
+                                </p>
+          </span>
+        
+        <!-- TITLE -->
+                  <h1 class="article-card-title">
+            <a href="https://www.makeuseof.com/tag/8-things-powerline-adapters-need-know-first/">
+              What Are Powerline Adapters? 9 Things You Need to Know            </a>
+          </h1>
+      
+        <!-- EXCERPT -->
+        
+        <!-- META -->
+        
+      </div>
+    </div>
+
+    <!-- LINK OVERLAY -->
+    
+
+  </article>
+
+</figure>
+<figure class="article-card-container">
+
+  
+
+  <!-- IMAGE -->
+  <article
+    class="article-card
+     size-small      position-relative      align-left              display-taxonomy
+      "
+      >
+
+
+
+                  <div class="article-card-relative-image">
+          <div class="article-card-relative-image-container"
+                          style="background-image: url('https://static.makeuseof.com/wp-content/uploads/2018/04/manage-day-google-assistant-382x255.jpg');">
+              <img src="https://static.makeuseof.com/wp-content/uploads/2018/04/manage-day-google-assistant-382x255.jpg">
+                      </div>
+        </div>
+          
+    <div
+      class="article-card-image-overlay"
+                          >
+      <a href="https://www.makeuseof.com/tag/google-assistant-routines-automate/">How to Use Google Assistant Routines to Automate Your Entire Day</a>
+    </div>
+
+    <div class="article-card-caption-container">
+      <div class="article-card-caption">
+
+        <!-- TAXONOMY -->
+                  <span class="article-card-taxonomy-container">
+            <p class="article-card-taxonomy">
+                                                            <a href="https://www.makeuseof.com/service/productivity/" class="productivity">
+                          Productivity                        </a>
+                                            <a href="https://www.makeuseof.com/service/google-android/" class="android">
+                          Android                        </a>
+                                </p>
+          </span>
+        
+        <!-- TITLE -->
+                  <h1 class="article-card-title">
+            <a href="https://www.makeuseof.com/tag/google-assistant-routines-automate/">
+              How to Use Google Assistant Routines to Automate Your Entire Day            </a>
+          </h1>
+      
+        <!-- EXCERPT -->
+        
+        <!-- META -->
+        
+      </div>
+    </div>
+
+    <!-- LINK OVERLAY -->
+    
+
+  </article>
+
+</figure>
+</div>
+
+      
+  
+  
+            <div><div id='snhb-sidebar_4-0' class='aligncenter single-post-sidebar-advertisement hide-mobile'></div><span class='bt-uid-tg' data-uid='5b2bd63cfd-158' style='display: none !important'></span></div>
+    
+  
+
+  <div class="article-sidebar">
+      <h1 class="article-sidebar-title">Latest Videos</h1>
+      <div class="item js-modal-btn" data-video-id="K76KVYIKzgc"><a href="https://www.youtube.com/watch?v=K76KVYIKzgc" target="_blank"><img height=180 width=320 src="https://i.ytimg.com/vi/K76KVYIKzgc/mqdefault.jpg"/><h4>Turn Dumb Remote-Controlled Devices, into Smart Ones, with Bond</h4></a></div><div class="item js-modal-btn" data-video-id="gxbUXwcGJW4"><a href="https://www.youtube.com/watch?v=gxbUXwcGJW4" target="_blank"><img height=180 width=320 src="https://i.ytimg.com/vi/gxbUXwcGJW4/mqdefault.jpg"/><h4>10.1" Tablet for UNDER $100?!</h4></a></div><div class="item js-modal-btn" data-video-id="8mSR2D3YAO4"><a href="https://www.youtube.com/watch?v=8mSR2D3YAO4" target="_blank"><img height=180 width=320 src="https://i.ytimg.com/vi/8mSR2D3YAO4/mqdefault.jpg"/><h4>PLAY ALONG: Guess the Movie (SEASON FINALE) | TGTS S3E15</h4></a></div><div class="item js-modal-btn" data-video-id="dany7ae_0ks"><a href="https://www.youtube.com/watch?v=dany7ae_0ks" target="_blank"><img height=180 width=320 src="https://i.ytimg.com/vi/dany7ae_0ks/mqdefault.jpg"/><h4>How to Program Arduino in VSCode (Using Platform.io)</h4></a></div><div class="item js-modal-btn" data-video-id="ebC1CpVcP7o"><a href="https://www.youtube.com/watch?v=ebC1CpVcP7o" target="_blank"><img height=180 width=320 src="https://i.ytimg.com/vi/ebC1CpVcP7o/mqdefault.jpg"/><h4>How to Stop Irrelevant YouTube Recommendations</h4></a></div><div class="item js-modal-btn" data-video-id="QOzUL3LspIs"><a href="https://www.youtube.com/watch?v=QOzUL3LspIs" target="_blank"><img height=180 width=320 src="https://i.ytimg.com/vi/QOzUL3LspIs/mqdefault.jpg"/><h4>Guess the Theme Songs... Again! | TGTS S3E14</h4></a></div>    </div>
+
+<div class="article-sidebar">
+    <h1 class="article-sidebar-title">Trending Now</h1>
+    <div class="flex-block">
+      <div class="flex-row">
+        <div class="bullet-posts">
+          <div class="bullet-row">
+         <div class="bullet-thumbnail"><a href="https://www.makeuseof.com/tag/reasons-to-stick-with-sata-ssd/"><img src="https://static.makeuseof.com/wp-content/uploads/2019/08/upgrade-nvme-ssd-150x150.jpg"/></a></div>
+         <div class="bullet-meta">
+             <h3><a href="https://www.makeuseof.com/tag/reasons-to-stick-with-sata-ssd/">Should You Upgrade to NVMe? 6 Reasons to Stick With SATA SSDs</a></h3>
+             <p>by Bertel King</p>
+         </div>
+       </div><div class="bullet-row">
+         <div class="bullet-thumbnail"><a href="https://www.makeuseof.com/tag/password-tools-create-strong-passphrases/"><img src="https://static.makeuseof.com/wp-content/uploads/2019/08/password-tools-150x150.jpg"/></a></div>
+         <div class="bullet-meta">
+             <h3><a href="https://www.makeuseof.com/tag/password-tools-create-strong-passphrases/">5 Password Tools to Create Strong Passphrases and Update Your Security</a></h3>
+             <p>by Mihir Patkar</p>
+         </div>
+       </div><div class="bullet-row">
+         <div class="bullet-thumbnail"><a href="https://www.makeuseof.com/tag/ways-to-run-a-program-as-administrator-in-windows/"><img src="https://static.makeuseof.com/wp-content/uploads/2016/03/windows-10-homescreen-150x150.jpg"/></a></div>
+         <div class="bullet-meta">
+             <h3><a href="https://www.makeuseof.com/tag/ways-to-run-a-program-as-administrator-in-windows/">4 Ways to Run Any Program as an Administrator in Windows</a></h3>
+             <p>by Ben Stegner</p>
+         </div>
+       </div><div class="bullet-row">
+         <div class="bullet-thumbnail"><a href="https://www.makeuseof.com/tag/watch-imdb-tv-android-ios/"><img src="https://static.makeuseof.com/wp-content/uploads/2019/08/imdb-tv-logo-150x150.png"/></a></div>
+         <div class="bullet-meta">
+             <h3><a href="https://www.makeuseof.com/tag/watch-imdb-tv-android-ios/">You Can Now Watch IMDb TV on Android or iOS</a></h3>
+             <p>by Dave Parrack</p>
+         </div>
+       </div><div class="bullet-row">
+         <div class="bullet-thumbnail"><a href="https://www.makeuseof.com/tag/google-wizard-of-oz-easter-egg/"><img src="https://static.makeuseof.com/wp-content/uploads/2019/08/the-wizard-of-oz-red-slippers-150x150.jpg"/></a></div>
+         <div class="bullet-meta">
+             <h3><a href="https://www.makeuseof.com/tag/google-wizard-of-oz-easter-egg/">Google Celebrates The Wizard of Oz With an Easter Egg</a></h3>
+             <p>by Dave Parrack</p>
+         </div>
+       </div><div class="bullet-row">
+         <div class="bullet-thumbnail"><a href="https://www.makeuseof.com/tag/understand-facebooks-privacy-violations/"><img src="https://static.makeuseof.com/wp-content/uploads/2019/08/Facebook-Privacy-150x150.jpg"/></a></div>
+         <div class="bullet-meta">
+             <h3><a href="https://www.makeuseof.com/tag/understand-facebooks-privacy-violations/">5 Tools to Understand Facebook’s Privacy Violations and Defeat It</a></h3>
+             <p>by Mihir Patkar</p>
+         </div>
+       </div><div class="bullet-row">
+         <div class="bullet-thumbnail"><a href="https://www.makeuseof.com/tag/what-is-roku-tv/"><img src="https://static.makeuseof.com/wp-content/uploads/2019/08/whats-roku-tv-150x150.jpg"/></a></div>
+         <div class="bullet-meta">
+             <h3><a href="https://www.makeuseof.com/tag/what-is-roku-tv/">Here’s What Roku TV Is and How It Works</a></h3>
+             <p>by Ian Buckley</p>
+         </div>
+       </div><div class="bullet-row">
+         <div class="bullet-thumbnail"><a href="https://www.makeuseof.com/tag/google-assistant-routines-automate/"><img src="https://static.makeuseof.com/wp-content/uploads/2018/04/manage-day-google-assistant-150x150.jpg"/></a></div>
+         <div class="bullet-meta">
+             <h3><a href="https://www.makeuseof.com/tag/google-assistant-routines-automate/">How to Use Google Assistant Routines to Automate Your Entire Day</a></h3>
+             <p>by Andy Betts</p>
+         </div>
+       </div>        </div>
+      </div>
+  </div>
+</div>
+
+
+
+    <div class="new-offers article-sidebar">
+        <h1 class="article-sidebar-title">Latest Deals</h1>
+        <div class="deals-feature-container stackcommerce-widget" data-categories="87,88,90" data-scsort="best_sellers" data-sc-per-page="4"></div>
+    </div>
+
+
+
+
+
+<div class="disclaimer article-sidebar">
+    <small><strong>Affiliate Disclosure:</strong> By buying the products we recommend, you help keep the lights on at MakeUseOf. <a href="https://www.makeuseof.com/legal/#affiliate-disclaimer" target="_blank">Read more</a>.</small>
+</div>
+
+<div style='flex-grow:1;'>
+
+
+                        <div class="article-sidebar sticky">
+        
+            
+                                                                <div><div id='snhb-sidebar_5-0' class='aligncenter single-post-sidebar-advertisement hide-mobile'></div><span class='bt-uid-tg' data-uid='5b9fb7471c-158' style='display: none !important'></span>
+</div>
+                                    </div>
+    
+</div>
+				</aside>
+
+
+
+
+
+
+			</div>
+
+
+			<?php// if(get_field('article_style') == 'article-template-single-column'): ?>
+			  			
+
+
+		</div>
+
+
+
+	</div>
+
+
+	<div class="single-post-transition-bar" data-url="https://www.makeuseof.com/tag/how-do-i-download-an-entire-website-for-offline-reading/">
+
+		
+														<div><div id='snhb-in_content_bottom-leaderboard-0' class='aligncenter'></div><span class='bt-uid-tg' data-uid='5b9fb761d3-158' style='display: none !important'></span></div>
+							
+			<div class="label-div" style="position:relative;min-height:100px;">
+				<span class="single-post-transition-label-wrap">
+				<span class="single-post-transition-label">
+					Scroll down for the next article
+				</span>
+				</span>
+				<svg class="single-post-transition-icon"><use xlink:href="#icon-down"></svg>
+			</div>
+
+			<div class="end-triple article-category-feature article-quadruple-feature offset-feature homepage-top">
+				<figure class="article-card-container"><article class="article-card size-large position-absolute align-left "><div class="article-card-image-overlay lazy-load" data-background-image="https://static.makeuseof.com/wp-content/uploads/2016/04/clean-safe-windows-downloads-382x255.jpg"><a href="https://www.makeuseof.com/tag/9-cleanest-safest-websites-download-free-software-windows/">The Safest Free Software Download Sites for Windows</a></div><div class="article-card-caption-container"><div class="article-card-caption" style="padding: 17px 17px 0 0;"><h1 itemprop="headline" class="article-card-title"><a href="https://www.makeuseof.com/tag/9-cleanest-safest-websites-download-free-software-windows/">The Safest Free Software Download Sites for Windows</a></h1></div></div><div class="article-card-link-overlay">    <a href="https://www.makeuseof.com/tag/9-cleanest-safest-websites-download-free-software-windows/" title="The Safest Free Software Download Sites for Windows">The Safest Free Software Download Sites for Windows</a></div></article></figure><figure class="article-card-container"><article class="article-card size-large position-absolute align-left "><div class="article-card-image-overlay lazy-load" data-background-image="https://static.makeuseof.com/wp-content/uploads/2009/02/ISP-Block-382x255.jpg"><a href="https://www.makeuseof.com/tag/five-online-solutions-to-beat-torrent-connection-blocking/">5 Ways to Unblock a Torrent When It’s Not Working</a></div><div class="article-card-caption-container"><div class="article-card-caption" style="padding: 17px 17px 0 0;"><h1 itemprop="headline" class="article-card-title"><a href="https://www.makeuseof.com/tag/five-online-solutions-to-beat-torrent-connection-blocking/">5 Ways to Unblock a Torrent When It’s Not Working</a></h1></div></div><div class="article-card-link-overlay">    <a href="https://www.makeuseof.com/tag/five-online-solutions-to-beat-torrent-connection-blocking/" title="5 Ways to Unblock a Torrent When It’s Not Working">5 Ways to Unblock a Torrent When It’s Not Working</a></div></article></figure><figure class="article-card-container"><article class="article-card size-large position-absolute align-left "><div class="article-card-image-overlay lazy-load" data-background-image="https://static.makeuseof.com/wp-content/uploads/2017/02/Phone-GPS-Apps-Featured-382x255.jpg"><a href="https://www.makeuseof.com/tag/top-3-free-offline-gps-apps-android/">8 Best Free Offline GPS Navigation Apps for Android</a></div><div class="article-card-caption-container"><div class="article-card-caption" style="padding: 17px 17px 0 0;"><h1 itemprop="headline" class="article-card-title"><a href="https://www.makeuseof.com/tag/top-3-free-offline-gps-apps-android/">8 Best Free Offline GPS Navigation Apps for Android</a></h1></div></div><div class="article-card-link-overlay">    <a href="https://www.makeuseof.com/tag/top-3-free-offline-gps-apps-android/" title="8 Best Free Offline GPS Navigation Apps for Android">8 Best Free Offline GPS Navigation Apps for Android</a></div></article></figure><figure class="article-card-container"><article class="article-card size-large position-absolute align-left "><div class="article-card-image-overlay lazy-load" data-background-image="https://static.makeuseof.com/wp-content/uploads/2014/01/android-games-offline-382x255.jpg"><a href="https://www.makeuseof.com/tag/connection-not-required-10-great-android-games-to-play-offline/">20 Best Offline Games on Android That Don’t Need Internet</a></div><div class="article-card-caption-container"><div class="article-card-caption" style="padding: 17px 17px 0 0;"><h1 itemprop="headline" class="article-card-title"><a href="https://www.makeuseof.com/tag/connection-not-required-10-great-android-games-to-play-offline/">20 Best Offline Games on Android That Don’t Need Internet</a></h1></div></div><div class="article-card-link-overlay">    <a href="https://www.makeuseof.com/tag/connection-not-required-10-great-android-games-to-play-offline/" title="20 Best Offline Games on Android That Don’t Need Internet">20 Best Offline Games on Android That Don’t Need Internet</a></div></article></figure></div><div class="end-triple article-category-feature article-quadruple-feature offset-feature homepage-top"><figure class="article-card-container"><article class="article-card size-large position-absolute align-left "><div class="article-card-image-overlay lazy-load" data-background-image="https://static.makeuseof.com/wp-content/uploads/2017/11/woman-on-laptop-webpage-website-382x255.jpg"><a href="https://www.makeuseof.com/tag/save-complete-webpage-offline-reading/">How to Download a Complete Webpage for Offline Reading</a></div><div class="article-card-caption-container"><div class="article-card-caption" style="padding: 17px 17px 0 0;"><h1 itemprop="headline" class="article-card-title"><a href="https://www.makeuseof.com/tag/save-complete-webpage-offline-reading/">How to Download a Complete Webpage for Offline Reading</a></h1></div></div><div class="article-card-link-overlay">    <a href="https://www.makeuseof.com/tag/save-complete-webpage-offline-reading/" title="How to Download a Complete Webpage for Offline Reading">How to Download a Complete Webpage for Offline Reading</a></div></article></figure><figure class="article-card-container"><article class="article-card size-large position-absolute align-left "><div class="article-card-image-overlay lazy-load" data-background-image="https://static.makeuseof.com/wp-content/uploads/2017/10/video-downloader-382x255.jpg"><a href="https://www.makeuseof.com/tag/capture-streaming-video-website-5-tools/">5 Best Tools to Download Streaming Video From Any Website</a></div><div class="article-card-caption-container"><div class="article-card-caption" style="padding: 17px 17px 0 0;"><h1 itemprop="headline" class="article-card-title"><a href="https://www.makeuseof.com/tag/capture-streaming-video-website-5-tools/">5 Best Tools to Download Streaming Video From Any Website</a></h1></div></div><div class="article-card-link-overlay">    <a href="https://www.makeuseof.com/tag/capture-streaming-video-website-5-tools/" title="5 Best Tools to Download Streaming Video From Any Website">5 Best Tools to Download Streaming Video From Any Website</a></div></article></figure><figure class="article-card-container"><article class="article-card size-large position-absolute align-left "><div class="article-card-image-overlay lazy-load" data-background-image="https://static.makeuseof.com/wp-content/uploads/2016/02/youtube-red-worth-382x255.jpg"><a href="https://www.makeuseof.com/tag/youtube-red-worth-money-things-need-consider/">Is YouTube Premium Worth the Cost? 7 Things You Need to Consider</a></div><div class="article-card-caption-container"><div class="article-card-caption" style="padding: 17px 17px 0 0;"><h1 itemprop="headline" class="article-card-title"><a href="https://www.makeuseof.com/tag/youtube-red-worth-money-things-need-consider/">Is YouTube Premium Worth the Cost? 7 Things You Need to Consider</a></h1></div></div><div class="article-card-link-overlay">    <a href="https://www.makeuseof.com/tag/youtube-red-worth-money-things-need-consider/" title="Is YouTube Premium Worth the Cost? 7 Things You Need to Consider">Is YouTube Premium Worth the Cost? 7 Things You Need to Consider</a></div></article></figure><figure class="article-card-container"><article class="article-card size-large position-absolute align-left "><div class="article-card-image-overlay lazy-load" data-background-image="https://static.makeuseof.com/wp-content/uploads/2016/04/free-adobe-alternatives-382x255.jpg"><a href="https://www.makeuseof.com/tag/free-alternatives-photoshop-illustrator-lightroom/">15 Free Alternatives to Adobe Lightroom, Illustrator, and Photoshop</a></div><div class="article-card-caption-container"><div class="article-card-caption" style="padding: 17px 17px 0 0;"><h1 itemprop="headline" class="article-card-title"><a href="https://www.makeuseof.com/tag/free-alternatives-photoshop-illustrator-lightroom/">15 Free Alternatives to Adobe Lightroom, Illustrator, and Photoshop</a></h1></div></div><div class="article-card-link-overlay">    <a href="https://www.makeuseof.com/tag/free-alternatives-photoshop-illustrator-lightroom/" title="15 Free Alternatives to Adobe Lightroom, Illustrator, and Photoshop">15 Free Alternatives to Adobe Lightroom, Illustrator, and Photoshop</a></div></article></figure>			</div>
+			</div>
+
+
+</div>
+
+
+  <footer class="footer-wrap">
+    <div class="footer-container">
+
+      <div class="footer-branding">
+        <a href="https://www.makeuseof.com/" title="MakeUseOf">
+          <svg class="footer-tool-icon"><use xlink:href="#icon-logo"></svg>
+        </a>
+      </div>
+
+     
+      <div class="footer-copyright">&copy; 2019 MakeUseOf. All Rights Reserved.</div>
+
+      <div class="footer-social-count">
+      </div>
+
+    </div>
+  </footer>
+
+
+
+
+ <div id="parsely-root" style="display: none">
+ <span id="parsely-cfg" data-parsely-site="makeuseof.com"></span>
+ </div>
+
+
+
+ <div id="amzn-assoc-ad-onelink"></div>
+ <div id="amzn-assoc-ad-onelink"></div>
+  
+</body>
+</html>
