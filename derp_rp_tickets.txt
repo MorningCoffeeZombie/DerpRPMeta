@@ -123,12 +123,27 @@ Size matters
 	Large but not empty feeling
 Must be easy to navigate
 	Nothing maze like or overly layred (like C18)
-Must have hidden OOC rooms:
+Must have OOC rooms:
 	Staff rooms
 	Banishment/jail room
 	Minigame room?
 	Full sized event room
 Needs a 'main street' or common area
+custom map should only use HL2 and CSS materials - general compatibility
+smaller maps forces people to interact more (no hiding)
+	must not be too small tho
+Map for ~50 people but built in a manner that could be expanded upon later
+Typical city
+	Main St
+	Slums/hood
+	Merchant shops
+	PD/Mayor's office/Jails
+	Bank & jewelry store (for pvault and robbery addons)
+	Roads for cars (map size should be 'decent' for cars)
+	No beaches
+Must have our name hard-coded into the walls of spawn (so player's see our name/logo)
+No firehydrants/street lights (we'll place our own for city worker)
+How do people download the map if we don't put it on workshop (for copyright protection)
 
 
 // MONETIZATION

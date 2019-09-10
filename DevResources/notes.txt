@@ -1,0 +1,9 @@
+sv_allowcslua 
+	should be 0
+	This will prevent players from being able to inject their own lua scripts
+		This is how players use ESP, radar, jammers, etc.
+
+
+
+
+

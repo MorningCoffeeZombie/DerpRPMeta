@@ -1,0 +1,47 @@
+Hi there,
+
+For all changes to mCasino make sure you put them in the mLib_loaded hook, as this is called once all the code is fully loaded on your server.
+
+To change the speed of crash you can provide a growth function as shown below, the function is given the current duration of the game and should output the multiplier the game should be on. Below is the default settings for the graph in mCasino.
+
+hook.Add("mLib_loaded", "mCasino_changeGrowth", function()
+
+    // SHARED
+    function mCasino.crash.growthFunction(s) // The speed at which the graph rises, s = duration of round
+        s = s * 1000
+        local r = 0.00006
+        return math.pow(math.exp(1), r * s);
+    end
+
+    // CLIENT
+    mCasino.crash.graphOffset = -1 // The Y starting point offset for the graph
+    mCasino.crash.XAxisPlotMinValue = 10 // Minimum size of X axis (time)
+    mCasino.crash.YAxisPlotMinValue = 2 // Minimum size of Y axis (multiplier)
+    function mCasino.crash.graphStepValues(x) // Calculates the scale of the axis, x = value of time or multiplier depending on axis
+        if not x then return 0 end
+        local c = 0.4
+        local r = 0.1
+
+        while(true) do
+            if(x < c) then return r end
+
+            c = c * 5
+            r = r * 2
+
+            if(x < c) then return r end
+            c = c * 2
+            r = r * 5
+        end
+    end
+end)
+As for high dollar values going negative could you eleborate more on this? Is it on a specific game/action? What goes negative ( e.g. gems, winnings)? 
+
+For crash you can use mCasino_testCrashOutcomes or mCasino_testCrashHighOutcomes to print out the possible values of crash.
+
+If you'd like to calculate the outcome of crash/roulette you can find more information in the sv_config file.
+
+Also, when /casino doesn't open anything does it still appear in chat (or disappears)?
+
+Thanks,
+
+Madhead

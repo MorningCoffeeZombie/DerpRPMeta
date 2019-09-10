@@ -1,0 +1,37 @@
+Greeting,
+
+This is being forwarded by the owner of our Production server but is written soley by the main server dev (who owns the dev server). You may contact me at Discord DrDerpenstein#0834 if passing messages between Doger and I is too much.
+
+I would like to express our concerns about our ability to use the BadCoderz addon as the DRM/usage rights are far too strict. We are often not available at the same time but would like to make continuous improvements to our server. Your suggestion to "only use it one time per week" is impracticle. As such, I am locked out from using a tool that was explicitly for this purpose. 
+
+It's fair to say that a considerable amount of development, for any project, occurs in teams. There were a number of interpretations we would have expected from the line reading "only the person who bought the addon (or has it on gmodstore, it's tied to the steamid) can technically use it". This could mean one license per server and that permissions could be granted and not require dual online presence. 
+
+Assuming we were to buy two copies of the addon; we would only be able to install/use one at a time. This only raises further questions as to the intent and usability of the addon. As for the "security" purposes of this function- a user with the rank of "coowner" or even "owner", but whom does not 'own the addon', should not be considered a security threat as they are clearly the root users. 
+
+We are not asking for a DRM-free copy of the addon: just the ability to leverage the tool as a reasonable customer would expect to. Please allow root privileges for at least three developers. The security concerns with this could be addressed by allowing them to hard-code their own Steam IDs into the addon's lua.
+
+
+
+
+- Not available at same time
+- Even if we bought 2 copies, we can only install 1 at a time
+- Most development occurs in teams
+- Nowhere on the store page is it flagged for having DRM
+	- The 1 description could be interpretted as (1 use per server)
+- We're not asking for a DRM-free copy, just the ability to have more than a single dev
+- "Only use it 1 time per week" is attroushous
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

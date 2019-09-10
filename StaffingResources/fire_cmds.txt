@@ -1,0 +1,15 @@
+Server Console Commands
+- vfire_spread_boost: Set the spread boost of new fires. Higher values will achieve faster, and stronger spread.
+- vfire_enable_damage: Set to 0 to disable fire damage.
+- vfire_enable_damage_in_vehicles: Set to 1 to damage players inside burning vehicles.
+- vfire_damage_multiplier: Set the damage multiplier for fires, 0 disables all damage.
+- vfire_enable_explosion_fires: Set to 0 to disable explosions creating fire.
+- vfire_enable_explosion_effects: Set to 0 to disable fancy explosion effects, won't work if explosion fires is off.
+- vfire_enable_decals: Set to 0 to disable fire decals.
+- vfire_decal_probability: Set the probability (a value between 0 and 1) of creating fire decals.
+- vfire_enable_spread: Set to 0 to disable fire spread.
+- vfire_spread_delay: Set fire spread delay in seconds - the smaller the number the faster fires will spread.
+- vfire_decay_rate: Set fire decay rate, 1 is max decay rate, 0 is no decay rate.
+- vfire_affect_npcs: Set to 0 to disable custom NPC behavior.
+- vfire_remove_all: Remove all active fires.
+- vfire_default_settings: Reset all settings to default values.
