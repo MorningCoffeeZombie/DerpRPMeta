@@ -1,6 +1,6 @@
-TOOL.Category        = "Construction"
-TOOL.Name            = "#No Collide World"
-TOOL.Command        = nil
+TOOL.Category		= "Construction"
+TOOL.Name			= "#No Collide World"
+TOOL.Command		= nil
 TOOL.ConfigName		= ""
 
 if CLIENT then
@@ -11,44 +11,38 @@ end
 
 function TOOL:LeftClick( trace )
 
-    if (!trace.Entity ) then return end
-    if (!trace.Entity:IsValid()) then return end
+	if (!trace.Entity ) then return end
+	if (!trace.Entity:IsValid()) then return end
 	if (trace.Entity:IsPlayer()) then return end
 	
 	local PhysObj = trace.Entity:GetPhysicsObject()
-    
-    if ( CLIENT ) then return true end
-    
-    if ( trace.Entity.CollisionGroup != COLLISION_GROUP_WORLD && PhysObj:IsCollisionEnabled() ) then
-    
-        trace.Entity:SetCollisionGroup( COLLISION_GROUP_WORLD )
-        trace.Entity.CollisionGroup = COLLISION_GROUP_WORLD
+	
+	if ( CLIENT ) then return true end
+	
+	if ( trace.Entity.CollisionGroup != COLLISION_GROUP_WORLD && PhysObj:IsCollisionEnabled() ) then
+		trace.Entity:SetCollisionGroup( COLLISION_GROUP_WORLD )
+		trace.Entity.CollisionGroup = COLLISION_GROUP_WORLD
 		PhysObj:EnableCollisions(false)
-        
-    end
-    
-    return true
-    
+	end
+	
+	return true
 end
 
 function TOOL:RightClick( trace )
 
-    if (!trace.Entity ) then return end
-    if (!trace.Entity:IsValid()) then return end
+	if (!trace.Entity ) then return end
+	if (!trace.Entity:IsValid()) then return end
 	if (trace.Entity:IsPlayer()) then return end
 	
 	local PhysObj = trace.Entity:GetPhysicsObject()
-    
-    if ( CLIENT ) then return true end
-    
-    if ( trace.Entity.CollisionGroup == COLLISION_GROUP_WORLD && !PhysObj:IsCollisionEnabled() ) then
-    
-        trace.Entity:SetCollisionGroup( COLLISION_GROUP_NONE )
-        trace.Entity.CollisionGroup = COLLISION_GROUP_NONE
+	
+	if ( CLIENT ) then return true end
+	
+	if ( trace.Entity.CollisionGroup == COLLISION_GROUP_WORLD && !PhysObj:IsCollisionEnabled() ) then
+		trace.Entity:SetCollisionGroup( COLLISION_GROUP_NONE )
+		trace.Entity.CollisionGroup = COLLISION_GROUP_NONE
 		PhysObj:EnableCollisions(true)
-        
-    end
-    
-    return true
-    
+	end
+	
+	return true
 end

@@ -70,6 +70,7 @@ Roles (not jobs) by rank. Case sensitive:
 
 | **LOCATION** | **USE** |  
 |--------------|---------|  
+| garrysmod/lua/autorun/server/collection.lua | Used by leyworkshopdls to do multi-stage loading and mounting
 | garrysmod/lua/autorun/server/workshop.lua | Add GMod workshop content to req'd downloads |  
 | | |  
 | | |  
