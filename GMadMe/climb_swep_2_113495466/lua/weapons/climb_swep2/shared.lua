@@ -398,7 +398,8 @@ function SWEP:PrimaryAttack()
 
     local Vel = self.Owner:GetVelocity()
     self.Owner:SetVelocity(Vector(0, 0, 240 - 15 * 1 + self.JumpSequence - Vel.z))
-    self:SetNextPrimaryFire(CurTime() + 0.15)
+    --self:SetNextPrimaryFire(CurTime() + 0.15)	-- This is the default line, I spead up the swep ability a little bit (for faster players) ~ MorningCoffeeZombie
+    self:SetNextPrimaryFire(CurTime() + 0.1)
     self.Jumps = self.Jumps + 1
     self:ShakeEffect()
     return true
