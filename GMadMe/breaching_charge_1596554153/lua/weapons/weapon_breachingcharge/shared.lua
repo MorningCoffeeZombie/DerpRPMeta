@@ -28,12 +28,13 @@ AddCSLuaFile()
 
 /*Weapon Initialization|*/
 function SWEP:Initialize()
-	self.Instructions			=	"Primary fire to detonate. Secondary fire to plant."
+	--self.Instructions			=	"Primary fire to detonate. Secondary fire to plant."
+	self.Instructions			=	"Primary fire to plant. Secondary fire to detonate."
 	self.AutoSwitchFrom			=	false
 	self.Primary.ClipSize		=	-1
 	self.Primary.DefaultClip	=	-1
 	self.Primary.Automatic		=	false
-	self.Primary.Ammo			=	"none"
+	self.Primary.Ammo			=	"none"	-- Might need to be "ammo_breachingcharge" based on autorun_ lua files
 	self.Secondary.ClipSize		=	-1
 	self.Secondary.DefaultClip	=	-1
 	self.Secondary.Automatic	=	false
@@ -93,7 +94,7 @@ function SWEP:Deploy()
 end
 
 /*|Trigger|*/
-function SWEP:PrimaryAttack()
+function SWEP:SecondaryAttack()
 	if IsFirstTimePredicted() then
 		if SERVER and self.bombs then
 			for k,v in pairs(self.bombs) do
@@ -111,7 +112,7 @@ function SWEP:PrimaryAttack()
 		self:SetNextPrimaryFire(CurTime()+0.5)
 	end
 end
-function SWEP:SecondaryAttack()
+function SWEP:PrimaryAttack()
 	if IsFirstTimePredicted() then
 		local pos,ang = self:GetSelection()
 		if pos ~= Vector(0,0,0) and self.Owner:GetAmmoCount("ammo_breachingcharge") > 0 then

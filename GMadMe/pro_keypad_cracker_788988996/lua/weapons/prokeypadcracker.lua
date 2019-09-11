@@ -10,8 +10,8 @@ if SERVER then
 end
 
 if CLIENT then
-	SWEP.PrintName = "Master Keypad Cracker"
-	SWEP.Slot = 4
+	SWEP.PrintName = "Keypad Cracker"
+	SWEP.Slot = 1
 	SWEP.SlotPos = 1
 	SWEP.DrawAmmo = false
 	SWEP.DrawCrosshair = true

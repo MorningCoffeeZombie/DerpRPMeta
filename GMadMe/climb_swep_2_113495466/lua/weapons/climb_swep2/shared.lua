@@ -1,7 +1,7 @@
 SWEP.Author              = "Jonascone"
 SWEP.Contact             = ""
 SWEP.Purpose             = "A reiteration of the Climb SWEP."
-SWEP.Instructions        = "Refer to the Workshop page!"
+SWEP.Instructions        = "Left click on wall to jump. Right click on ledge to hang."
 
 SWEP.Spawnable                  = true
 SWEP.AdminSpawnable             = false
