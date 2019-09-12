@@ -21,95 +21,51 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 */
 
-function GM:PlayerShouldTaunt(ply, actid)
-	concommand.Add("act")
-    return true
-end
+
 	
 hook.Add("PlayerSay", "act_chat_commands", function(Player, text, public)
 	text = string.lower( text )
-	if ( text == "!kill" ) then
+	if ( text == "!kill" ) or ( text == "/kill" ) then
 		Player:ConCommand("kill")
 		return ""
-	elseif ( text == "/kill" ) then
-		Player:ConCommand("kill")
-		return ""
-	elseif ( text == "!cheer" ) then
+	elseif ( text == "/cheer" ) or ( text == "!cheer" ) then
 		Player:ConCommand("act cheer")
+		RunConsoleCommand("say", "Hello, I didn't type this.")
 		return ""
-	elseif ( text == "/cheer" ) then
-		Player:ConCommand("act cheer")
-		return ""
-	elseif ( text == "!laugh" ) then
+	elseif ( text == "!laugh" ) or ( text == "/laugh" ) then
 		Player:ConCommand("act laugh")
 		return ""
-	elseif ( text == "/laugh" ) then
-		Player:ConCommand("act laugh")
-		return ""
-	elseif ( text == "!muscle" ) then
+	elseif ( text == "!muscle" ) or ( text == "/muscle" ) then
 		Player:ConCommand("act muscle")
 		return ""
-	elseif ( text == "/muscle" ) then
-		Player:ConCommand("act muscle")
-		return ""
-	elseif ( text == "!zombie" ) then
+	elseif ( text == "!zombie" ) or ( text == "/zombie" ) then
 		Player:ConCommand("act zombie")
 		return ""
-	elseif ( text == "/zombie" ) then
-		Player:ConCommand("act zombie")
-		return ""
-	elseif ( text == "!robot" ) then
+	elseif ( text == "!robot" ) or ( text == "/robot" ) then
 		Player:ConCommand("act robot")
 		return ""
-	elseif ( text == "/robot" ) then
-		Player:ConCommand("act robot")
-		return ""
-	elseif ( text == "!dance" ) then
+	elseif ( text == "!dance" ) or ( text == "/dance" ) then
 		Player:ConCommand("act dance")
 		return ""
-	elseif ( text == "/dance" ) then
-		Player:ConCommand("act dance")
-		return ""
-	elseif ( text == "!agree" ) then
+	elseif ( text == "!agree" ) or ( text == "/agree" ) then
 		Player:ConCommand("act agree")
 		return ""
-	elseif ( text == "/agree" ) then
-		Player:ConCommand("act agree")
-		return ""
-	elseif ( text == "!becon" ) then
+	elseif ( text == "!becon" ) or ( text == "/becon" ) then
 		Player:ConCommand("act becon")
 		return ""
-	elseif ( text == "/becon" ) then
-		Player:ConCommand("act becon")
-		return ""
-	elseif ( text == "!disagree" ) then
+	elseif ( text == "!disagree" ) or ( text == "/disagree" ) then
 		Player:ConCommand("act disagree")
 		return ""
-	elseif ( text == "/disagree" ) then
-		Player:ConCommand("act disagree")
-		return ""
-	elseif ( text == "!salute" ) then
+	elseif ( text == "!salute" ) or ( text == "/salute" ) then
 		Player:ConCommand("act salute")
 		return ""
-	elseif ( text == "/salute" ) then
-		Player:ConCommand("act salute")
-		return ""
-	elseif ( text == "!wave" ) then
+	elseif ( text == "!wave" ) or ( text == "/wave" )  then
 		Player:ConCommand("act wave")
 		return ""
-	elseif ( text == "/wave" ) then
-		Player:ConCommand("act wave")
-		return ""
-	elseif ( text == "!forward" ) then
+	elseif ( text == "!forward" ) or ( text == "/forward" ) then
 		Player:ConCommand("act forward")
 		return ""
-	elseif ( text == "/forward" ) then
-		Player:ConCommand("act forward")
-		return ""
-	elseif ( text == "!pers" ) then
-		Player:ConCommand("act pers")
-		return ""
-	elseif ( text == "/pers" ) then
+	elseif ( text == "!pers" ) or ( text == "/pers" ) then
 		Player:ConCommand("act pers")
 		return ""
 	end
