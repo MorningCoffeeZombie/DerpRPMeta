@@ -11,7 +11,7 @@ if SERVER then
 	end
 
 	CreateConVar("slappers_slap_weapons", 0, FCVAR_REPLICATED, "Slap weapons out of players' hands")
-	CreateConVar("slappers_force", 800, FCVAR_REPLICATED, "Force of the slappers")
+	CreateConVar("slappers_force", 350, FCVAR_REPLICATED, "Force of the slappers")	-- Default 800. Too easy to rdm, 350 is balanced.
 
 	util.AddNetworkString( "SlapAnimation" )
 
@@ -31,7 +31,7 @@ SWEP.HoldType	= "normal"
 
 SWEP.Primary = {
     ClipSize     = -1,
-    Delay = 0.8,
+    Delay = 1.8,	-- Default 0.8. Too quick/mingey
     DefaultClip = -1,
     Automatic = false,
     Ammo = "none"

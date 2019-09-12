@@ -24,6 +24,7 @@ SWEP.AdminOnly		= false
 SWEP.WorldModel		= "models/minic23/csgo/breach_charge_detonator.mdl"
 SWEP.ViewModelFOV	= 60
 SWEP.UseHands		= true
+SWEP.Slot			= 4
 AddCSLuaFile()
 
 /*Weapon Initialization|*/

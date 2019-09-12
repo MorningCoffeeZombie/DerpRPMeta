@@ -21,6 +21,11 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 */
 
+function GM:PlayerShouldTaunt(ply, actid)
+	concommand.Add("act")
+    return true
+end
+	
 hook.Add("PlayerSay", "act_chat_commands", function(Player, text, public)
 	text = string.lower( text )
 	if ( text == "!kill" ) then
