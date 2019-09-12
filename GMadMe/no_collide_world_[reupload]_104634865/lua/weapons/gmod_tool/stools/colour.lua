@@ -23,7 +23,6 @@ local function SetColour( ply, ent, data )
 	--
 	if ( data.Color && data.Color.a < 255 && data.RenderMode == 0 ) then
 		data.RenderMode = 1
-		data.Color.a = 200	-- Line added by MorningCoffeeZombie to limit max transparency.
 	end
 
 	if ( data.Color ) then ent:SetColor( Color( data.Color.r, data.Color.g, data.Color.b, data.Color.a ) ) end
@@ -33,7 +32,6 @@ local function SetColour( ply, ent, data )
 	if ( SERVER ) then
 		duplicator.StoreEntityModifier( ent, "colour", data )
 	end
-
 end
 duplicator.RegisterEntityModifier( "colour", SetColour )
 
@@ -52,9 +50,13 @@ function TOOL:LeftClick( trace )
 	local fx = self:GetClientNumber( "fx", 0 )
 	local mode = self:GetClientNumber( "mode", 0 )
 
-	SetColour( self:GetOwner(), ent, { Color = Color( r, g, b, a ), RenderMode = mode, RenderFX = fx } )
+--	if ( data.Color.a <= 200 ) then
+--		data.Color.a = 200	-- Line added by MorningCoffeeZombie to limit max transparency.
+--	end
+	
+	--SetColour( self:GetOwner(), ent, { Color = Color( r, g, b, a ), RenderMode = mode, RenderFX = fx } )	-- This is default. a was set to a static 255 to prevent invisible props ~MorningCoffeeZombie
+	SetColour( self:GetOwner(), ent, { Color = Color( r, g, b, 255 ), RenderMode = mode, RenderFX = fx } )
 	return true
-
 end
 
 -- Copy color attributes
@@ -75,7 +77,6 @@ function TOOL:RightClick( trace )
 	self:GetOwner():ConCommand( "colour_mode " .. ent:GetRenderMode() )
 
 	return true
-
 end
 
 -- Reset color to default
@@ -89,7 +90,6 @@ function TOOL:Reload( trace )
 
 	SetColour( self:GetOwner(), ent, { Color = Color( 255, 255, 255, 255 ), RenderMode = 0, RenderFX = 0 } )
 	return true
-
 end
 
 local ConVarsDefault = TOOL:BuildConVarList()

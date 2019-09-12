@@ -6,11 +6,7 @@ list.Add( "OverrideMaterials", "models/shadertest/shader5" )
 list.Add( "OverrideMaterials", "models/shiny" )
 list.Add( "OverrideMaterials", "models/debug/debugwhite" )
 list.Add( "OverrideMaterials", "Models/effects/comball_sphere" )
-list.Add( "OverrideMaterials", "Models/effects/comball_tape" )
-list.Add( "OverrideMaterials", "Models/effects/splodearc_sheet" )
-list.Add( "OverrideMaterials", "Models/effects/vol_light001" )
 list.Add( "OverrideMaterials", "models/props_combine/stasisshield_sheet" )
-list.Add( "OverrideMaterials", "models/props_combine/portalball001_sheet" )
 list.Add( "OverrideMaterials", "models/props_combine/com_shield001a" )
 list.Add( "OverrideMaterials", "models/props_c17/frostedglass_01a" )
 list.Add( "OverrideMaterials", "models/props_lab/Tank_Glass001" )
@@ -27,22 +23,15 @@ list.Add( "OverrideMaterials", "models/props_c17/FurnitureMetal001a" )
 list.Add( "OverrideMaterials", "models/props_c17/paper01" )
 list.Add( "OverrideMaterials", "models/flesh" )
 list.Add( "OverrideMaterials", "models/airboat/airboat_blur02" )
-list.Add( "OverrideMaterials", "models/alyx/emptool_glow" )
 list.Add( "OverrideMaterials", "models/antlion/antlion_innards" )	
 list.Add( "OverrideMaterials", "models/barnacle/roots" )
 list.Add( "OverrideMaterials", "models/combine_advisor/body9" )
 list.Add( "OverrideMaterials", "models/combine_advisor/mask" )
 list.Add( "OverrideMaterials", "models/combine_scanner/scanner_eye" )
 list.Add( "OverrideMaterials", "models/debug/debugwhite" )
-list.Add( "OverrideMaterials", "models/dog/eyeglass" )
-list.Add( "OverrideMaterials", "models/effects/comball_glow1" )
-list.Add( "OverrideMaterials", "models/effects/comball_glow2" )
-list.Add( "OverrideMaterials", "models/effects/portalrift_sheet" )
 list.Add( "OverrideMaterials", "models/effects/slimebubble_sheet" )
 list.Add( "OverrideMaterials", "models/effects/splode1_sheet" )
-list.Add( "OverrideMaterials", "models/effects/splodearc_sheet" )
 list.Add( "OverrideMaterials", "models/effects/splode_sheet" )
-list.Add( "OverrideMaterials", "models/effects/vol_light001" )
 list.Add( "OverrideMaterials", "models/gibs/woodgibs/woodgibs01" )
 list.Add( "OverrideMaterials", "models/gibs/woodgibs/woodgibs02" )
 list.Add( "OverrideMaterials", "models/gibs/woodgibs/woodgibs03" )
@@ -136,19 +125,11 @@ list.Add( "OverrideMaterials", "models/props_wasteland/tugboat01" )
 list.Add( "OverrideMaterials", "models/props_wasteland/tugboat02" )
 list.Add( "OverrideMaterials", "models/props_wasteland/wood_fence01a" )
 list.Add( "OverrideMaterials", "models/props_wasteland/wood_fence01a_skin2" )
-list.Add( "OverrideMaterials", "models/roller/rollermine_glow" )
 list.Add( "OverrideMaterials", "models/weapons/v_crossbow/rebar_glow" )
 list.Add( "OverrideMaterials", "models/weapons/v_crowbar/crowbar_cyl" )
-list.Add( "OverrideMaterials", "models/weapons/v_grenade/grenade body" )
-list.Add( "OverrideMaterials", "models/weapons/v_smg1/texture5" )
-list.Add( "OverrideMaterials", "models/weapons/w_smg1/smg_crosshair" )
-list.Add( "OverrideMaterials", "models/weapons/v_slam/new light2" )
-list.Add( "OverrideMaterials", "models/weapons/v_slam/new light1" )
 list.Add( "OverrideMaterials", "models/props/cs_assault/dollar" )
 list.Add( "OverrideMaterials", "models/props/cs_assault/fireescapefloor" )
 list.Add( "OverrideMaterials", "models/props/cs_assault/metal_stairs1" )
-list.Add( "OverrideMaterials", "models/props/cs_assault/moneywrap" )
-list.Add( "OverrideMaterials", "models/props/cs_assault/moneywrap02" )
 list.Add( "OverrideMaterials", "models/props/cs_assault/moneytop" )
 list.Add( "OverrideMaterials", "models/props/cs_assault/pylon" )
 list.Add( "OverrideMaterials", "models/props/CS_militia/boulder01" )
@@ -178,3 +159,20 @@ list.Add( "OverrideMaterials", "models/props/de_nuke/nukconcretewalla" )
 list.Add( "OverrideMaterials", "models/props/de_nuke/nukecardboard" )
 list.Add( "OverrideMaterials", "models/props/de_nuke/pipeset_metal" )
 list.Add( "OverrideMaterials", "models/shadertest/predator" )
+--list.Add( "OverrideMaterials", "models/dog/eyeglass" )	-- Invisible
+--list.Add( "OverrideMaterials", "models/effects/comball_glow1" )	-- Invisible
+--list.Add( "OverrideMaterials", "models/effects/comball_glow2" )	-- Invisible
+--list.Add( "OverrideMaterials", "models/effects/portalrift_sheet" )	-- Invisible
+--list.Add( "OverrideMaterials", "models/effects/splodearc_sheet" )	-- Invisible
+--list.Add( "OverrideMaterials", "models/effects/vol_light001" )	-- Invisible
+--list.Add( "OverrideMaterials", "models/alyx/emptool_glow" )	-- Invisible
+--list.Add( "OverrideMaterials", "models/props_combine/portalball001_sheet" )	-- Invisible
+--list.Add( "OverrideMaterials", "Models/effects/comball_tape" )	-- Invisible
+--list.Add( "OverrideMaterials", "models/weapons/v_smg1/texture5" )	-- Invisible
+--list.Add( "OverrideMaterials", "models/roller/rollermine_glow" )	-- Invisible
+--list.Add( "OverrideMaterials", "models/weapons/w_smg1/smg_crosshair" )	-- Invisible
+--list.Add( "OverrideMaterials", "models/weapons/v_grenade/grenade body" )	-- Invisible
+--list.Add( "OverrideMaterials", "models/props/cs_assault/moneywrap02" )	-- Invisible
+--list.Add( "OverrideMaterials", "models/props/cs_assault/moneywrap" )	-- Invisible
+--list.Add( "OverrideMaterials", "models/weapons/v_slam/new light2" )	-- Lua Error
+--list.Add( "OverrideMaterials", "models/weapons/v_slam/new light1" )	-- Lua Error
