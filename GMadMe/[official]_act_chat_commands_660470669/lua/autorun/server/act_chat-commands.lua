@@ -30,7 +30,7 @@ hook.Add("PlayerSay", "act_chat_commands", function(Player, text, public)
 		return ""
 	elseif ( text == "/cheer" ) or ( text == "!cheer" ) then
 		Player:ConCommand("act cheer")
-		RunConsoleCommand("say", "Hello, I didn't type this.")
+		--RunConsoleCommand("say", "Hello, I didn't type this.")
 		return ""
 	elseif ( text == "!laugh" ) or ( text == "/laugh" ) then
 		Player:ConCommand("act laugh")

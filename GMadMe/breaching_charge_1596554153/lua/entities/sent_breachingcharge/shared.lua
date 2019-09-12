@@ -9,7 +9,7 @@
 ENT.Type		= "anim"
 ENT.Base		= "base_anim"
 ENT.Category	= "Sevan's Entities"
-ENT.PrintName	= "Breaching Charge"
+ENT.PrintName	= "C4 Explosives"
 ENT.Author		= "Sevan Buechele"
 ENT.Contact		= "STEAM_0:1:65313765"
 ENT.Spawnable	= false
