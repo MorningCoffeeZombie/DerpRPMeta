@@ -23,12 +23,14 @@ function TOOL:LeftClick( trace )
 	if ( CLIENT ) then return true end	
 	if ( trace.Entity:GetCollisionGroup() == COLLISION_GROUP_WORLD ) then
 		trace.Entity:SetCollisionGroup( COLLISION_GROUP_NONE )
+		PhysObj:EnableCollisions(false)
 	else
 		trace.Entity:SetCollisionGroup( COLLISION_GROUP_WORLD )
+		PhysObj:EnableCollisions(true)
 	end
 end
 
--- Handle WORLD baed collisions
+-- Handle WORLD based collisions
 function TOOL:RightClick( trace )
 	if (!trace.Entity ) then return end
 	if (!trace.Entity:IsValid()) then return end
@@ -42,7 +44,7 @@ function TOOL:RightClick( trace )
 	if ( trace.Entity.CollisionGroup != COLLISION_GROUP_WORLD ) then
 		trace.Entity:SetCollisionGroup( COLLISION_GROUP_WORLD )
 		trace.Entity.CollisionGroup = COLLISION_GROUP_WORLD
-		PhysObj:EnableCollisions(true)
+		PhysObj:EnableCollisions(false)
 	end
 	return true
 	
@@ -50,7 +52,7 @@ function TOOL:RightClick( trace )
 	if ( trace.Entity.CollisionGroup == COLLISION_GROUP_WORLD ) then
 		trace.Entity:SetCollisionGroup( COLLISION_GROUP_NONE )
 		trace.Entity.CollisionGroup = COLLISION_GROUP_NONE
-		PhysObj:EnableCollisions(false)
+		PhysObj:EnableCollisions(true)
 	end
 	return true
 end
@@ -59,7 +61,7 @@ end
 function TOOL:Reload( trace )
 	if ( !IsValid( trace.Entity ) || trace.Entity:IsPlayer() ) then return false end
 	if ( CLIENT ) then return true end
-	return trace.Entity:SetCollisionGroup( COLLISION_GROUP_WORLD )
+	return trace.Entity:SetCollisionGroup( COLLISION_GROUP_NONE )
 	return constraint.RemoveConstraints( trace.Entity, "NoCollide" )
 end
 

@@ -23,6 +23,7 @@ local function SetColour( ply, ent, data )
 	--
 	if ( data.Color && data.Color.a < 255 && data.RenderMode == 0 ) then
 		data.RenderMode = 1
+		data.Color.a = 200	-- Line added by MorningCoffeeZombie to limit max transparency.
 	end
 
 	if ( data.Color ) then ent:SetColor( Color( data.Color.r, data.Color.g, data.Color.b, data.Color.a ) ) end
