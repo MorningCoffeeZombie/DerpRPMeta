@@ -9,11 +9,20 @@ GREEN='\033[0;32m'
 NC='\033[0m' # No Color
 
 
+# Find root level of repo directories
+if [[ $USER = *rdogg* ]]; then
+	$REPOROOT=/home/$USER/Desktop/DerpRPRepos
+elif [[ $USER = *vmsolus* ]]; then
+	$REPOROOT=/home/$USER/Desktop/GitRepos
+else
+	echo "What is the root level structure for the git repos? (no trailing \"/\" please)"
+	read REPOROOT
+fi
 
 # PULL command
 if [[ "$1" = pul* ]]; then
 	printf "${GREEN}${BOLDFONT}Switching to AddonsCore${NORMALFONT}${NC}\n"
-	cd /home/rdogg/Desktop/DerpRPRepos/AddonsCore
+	cd $REPOROOT/AddonsCore
 	git checkout development
 	git pull
 	printf "${GREEN}${BOLDFONT}Switching to AddonsEconomy${NORMALFONT}${NC}\n"
