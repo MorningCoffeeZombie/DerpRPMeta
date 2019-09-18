@@ -66,6 +66,13 @@ Roles (not jobs) by rank. Case sensitive:
 * **GRENADE LAUNCHER:** "SMG1_Grenade"
 
 
+# ULX Security Commands
+**FORMAT:** `ulx adduser [name] superadmin`
+`ulx adduser DrDerpenstein owner`
+`ulx adduser STEAM_0:0:13562763 owner`
+`ulx adduser Derp owner`
+
+
 # Server Locations
 
 | **LOCATION** | **USE** |  

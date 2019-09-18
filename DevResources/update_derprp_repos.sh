@@ -41,13 +41,17 @@ if [[ "$1" = pul* ]]; then
 	cd /home/rdogg/Desktop/DerpRPRepos/garrysmod
 	git checkout development
 	git pull
+	printf "${GREEN}${BOLDFONT}Switching to Forums${NORMALFONT}${NC}\n"
+	cd /home/rdogg/Desktop/DerpRPRepos/DerpCorpForums
+	git checkout development
+	git pull
 	printf "${GREEN}${BOLDFONT}Switching to DerpRPMeta${NORMALFONT}${NC}\n"
 	cd /home/rdogg/Desktop/DerpRPRepos/DerpRPMeta
 	git pull
 fi
 
 # PUSH command
-if [[ "$1" = pus* ]]; then
+if [[ "$1" = pus* ]] || [[ "$1" = ad* ]]; then
 	printf "${GREEN}${BOLDFONT}Switching to AddonsCore${NORMALFONT}${NC}\n"
 	cd /home/rdogg/Desktop/DerpRPRepos/AddonsCore
 	git checkout development
@@ -74,6 +78,12 @@ if [[ "$1" = pus* ]]; then
 	git push
 	printf "${GREEN}${BOLDFONT}Switching to garrysmod${NORMALFONT}${NC}\n"
 	cd /home/rdogg/Desktop/DerpRPRepos/garrysmod
+	git checkout development
+	git add *
+	git commit
+	git push
+	printf "${GREEN}${BOLDFONT}Switching to Forums${NORMALFONT}${NC}\n"
+	cd /home/rdogg/Desktop/DerpRPRepos/DerpCorpForums
 	git checkout development
 	git add *
 	git commit
@@ -113,6 +123,12 @@ if [[ "$1" = mer* ]]; then
 	git checkout development
 	printf "${GREEN}${BOLDFONT}Switching to garrysmod${NORMALFONT}${NC}\n"
 	cd /home/rdogg/Desktop/DerpRPRepos/garrysmod
+	git checkout master
+	git merge development
+	git push
+	git checkout development
+	printf "${GREEN}${BOLDFONT}Switching to Forums${NORMALFONT}${NC}\n"
+	cd /home/rdogg/Desktop/DerpRPRepos/DerpCorpForums
 	git checkout master
 	git merge development
 	git push
