@@ -97,7 +97,7 @@ Add your github and/or steam names to this *README.md* if you contributed to the
 
 | **GITHUB** | **STEAM** | **STEAM ID** |   
 |--------|-------|-------|  
-| [colonelwager](https://github.com/colonelwager) | Derp | |    
+| [colonelwager](https://github.com/colonelwager) | Derp | STEAM_0:0:52504530 |    
 | [MorningCoffeeZombie](https://github.com/MorningCoffeeZombie) | DrDerpenstein | STEAM_0:0:13562763 |   
 | | | |    
 
