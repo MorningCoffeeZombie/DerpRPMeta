@@ -1,0 +1,65 @@
+PRICE	ITEM	CONFIGS	SUB CONFIGS
+$1,000 	Custom Class		
+$0 		1 Model/skin	
+$0 		1 rifle-grade weapon (or lower if req'd)	
+$0 		1 RP SWEP (camera, vape, pee, climb, slap, bug bait, unarrestbaton, sniffer, starting ammo increase +150) [rape, cuffs, pd sweps, weapon checker, and lock pick - INTENTIONALLY not listed]	
+$0 		1 RP ability (Raiding, Mugging or Hostage Taking)	
+$0 		Job salary of $250	
+$0 		Includes perma VIP rank if player does not already have it	
+$0 			Access to VIP cars
+$0 			Access to VIP jobs
+$0 			Access to other RP entities and purchasables
+$100 		Add 1 more RP ability (Raiding, Mugging or Hostage Taking)	
+$100 		Each additional SWEP added *. Some SWEP requests may be rejected or $ increased at owner's discretion (ie C4, Arrest Batons, etc.)	
+$200 		Each additional model/skin to choose from	
+$250 		Add +100 starting HP or armor. Max 500HP and 255 armor.	
+$250 		Increase run/walk speed (1 time max purchase). Max increase % to be determined by owners.	
+$100 		Gun license for job	
+$100 		F4 menu purchasable entities/shipments. Will have to still spend RP cash to obtain items. (per entity added except sub-configs)	
+$500 			Access to Zero's Weed Farm ents.
+$500 			Access to Zero's Meth Lab ents.
+$500 			Access to Lean Production ents.
+$500 			Access to Bitminer ents.
+$500 		Ability to accept hits (become hitman)	
+$500 		All chef-ing abilities (microwave + food menu)	
+$500 		Ability to function as police but non-demotable. (users are not exempt from PD rules/laws).	
+$0 			Includes ticket book, arrest baton, unarrest baton, battering ram, gun license, taser
+$10 		Increase job salary by $100. Max salary = $2500	
+$50 		Increase starting ammo +150	
+$750 		BUY-INS: Share custom class with another player (by steam id), each purchase of this upgrade permanently adds +1 player. Original class purchaser must consent and can make a 1-time choice if all members of the class will share RP relation in game.	
+$5,000 	Create-A-Job		
+		All of the same configs/prices as Custom Class except this will be a public job that ANY player can do. Max players at a time TBD. This is for those whom are truly selfless.	
+$100,000 	Unban		
+		Prohibitively expensive? Yep! …Not that you probably won't get yourself banned again.	
+			
+			
+Why is custom class so expensive?			
+	It requires server reboot to take effect.		
+	Requires making numerous edits across our codebase.		
+	If any 1 thing is wrong, it crashes the whole server and will wipe staff permissions.		
+	Adds new content to server, increasing time it takes player to join in (discourages new players)		
+	Offsets the RP with classes that are potentially OP.		
+	You can buy the 'share class' and drastically reduce cost		
+	Support the server.		
+			
+Custom Class Rules			
+	Not exempt from any server rules		
+	Players will receive no special treatments		
+	Players cannot puchase the arrest baton on its own (must be done via PD functions package)		
+	Mandatory 1 week waiting time after purchase via paypal before work on class begins (limit charge backs)		
+	Players cannot just pay $750 to join someone elses custom class. Original owner's consent MUST be provided first.		
+	If multiple players split the initial purchase of a custom class; 51% of them must agree when new players pay $750 to join in.		
+	RP job maximum is 5 (playing as class at once), this will not change. Maximum amount of buy-ins is unlimited.		
+	Buy-ins are permanent, the staff/owners will not become involved in personal drama.		
+	Staffing abilities, permissions, etc. will never be for sale (no: playerphys, noclip, ignite, etc.)		
+	If the server's SWEP, car, or model packs change; the class owner will be allowed to pick a replacement from existing options.		
+	You may not copy the name and models of another pre-existing custom class/create-a-job without consent from the owner.		
+	Models may not be overly distracting or out of place (no massive, tiny, or invisible models.)		
+			
+Dev notes			
+	For each class sold; add the purchaser's steam id should be commented into the header (for basic documentation)		
+	Create a 'category.lua' for all custom class, should appear above VIP category		
+	Some bundles will require doorgroups, chatgroups, etc.		
+	Shoud extra packages also add players to chatgroups?		
+	Giving access to other jobs/ents. Will require the "allowed = {}" flag be added with the job for each thing contained in the addon ever…		
+
