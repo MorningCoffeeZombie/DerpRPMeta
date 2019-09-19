@@ -3,5 +3,8 @@ f/k/a DerpRP
 
 https://www.logocrisp.com/logomaker/
 https://fontmeme.com/text-generator/page/2/
-
+	https://fontmeme.com/sky-rogue-font/
+	105 size
+	gradient-orange-v
+	color:	572700
 

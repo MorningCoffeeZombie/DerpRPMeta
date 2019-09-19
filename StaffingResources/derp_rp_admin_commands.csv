@@ -25,8 +25,9 @@ Blues-unboxing-3,bu3_wipe <STEAMID64>,SA+,This will delete a players inventory,/
 itemstore,/invholster,User+,Automatically put the gun/SWEP you’re holding into your pocket/inventory,/AddonsCore/itemstore/lua/itemstore/config.lua
 screengrab,screengrab,SA+,Type this into the console to take screenshots of EXACTLY what another player sees,https://github.com/cobalt77/Screengrab.git
 edgehud,edgehud_config,SA+,Edit global options for all users regarding HUD elements,/edgehud/lua/edgehud/sh_configuration.lua
-breaching_charge,sv_breachingcharge_startingammo,
-breaching_charge,sv_breachingcharge_enabledoorbust,
-breaching_charge,sv_breachingcharge_enablepropunfreeze,
-breaching_charge,sv_breachingcharge_canplace,
-breaching_charge,sv_breachingcharge_debughands,
+breaching_charge,sv_breachingcharge_startingammo,,,
+breaching_charge,sv_breachingcharge_enabledoorbust,,,
+breaching_charge,sv_breachingcharge_enablepropunfreeze,,,
+breaching_charge,sv_breachingcharge_canplace,,,
+breaching_charge,sv_breachingcharge_debughands,,,
+OpenPermissions-Config-master,!openpermissions,Staff,Control some aspect of user groups and logging.,
