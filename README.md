@@ -95,9 +95,9 @@ Roles (not jobs) by rank. Case sensitive:
 # Contributors
 Add your github and/or steam names to this *README.md* if you contributed to the DerpRP repos:  
 
-| **GITHUB** | **STEAM** |  
-|--------|-------|  
-| [colonelwager](https://github.com/colonelwager) | Derp |   
-| [MorningCoffeeZombie](https://github.com/MorningCoffeeZombie) | DrDerpenstein |  
-| | |   
+| **GITHUB** | **STEAM** | **STEAM ID** |   
+|--------|-------|-------|  
+| [colonelwager](https://github.com/colonelwager) | Derp | |    
+| [MorningCoffeeZombie](https://github.com/MorningCoffeeZombie) | DrDerpenstein | STEAM_0:0:13562763 |   
+| | | |    
 
