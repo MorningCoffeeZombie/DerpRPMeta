@@ -15,6 +15,7 @@ hook.Add( "PlayerSay", "PlayerRollJacks21" , function( ply, text, public )
 	if (text == "/cards") or (text == "!cards") or (text == "/cards") or (text == "!cards") then 
 		blackjacksrandom = math.random( 1, 10 )
 			RunConsoleCommand("say", "you win")
+			--game.ConsoleCommand( "say \"happyshopping\"\n" )	-- this actually prints to chat without error and written by 'console'
 		return "[Cards:] " .. playername .. " drew " .. blackjacksrandom
 	end
 end  )
