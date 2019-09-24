@@ -11,6 +11,7 @@ if string.sub(text,1,2) == "!dice" or string.sub(text,1,2) == "/dice" then
 --	local failfactor = math.random(1,24)
 
 --	if failfactor != 20 then
+	if failfactor != 123456789123456789 then
 
 		//The Roll
 		if sum == 1 || sum == 2 || sum == 3 || sum == 4 || sum == 5 || sum == 6 || sum == 7 || sum == 9 || sum == 10 || sum == 12 then
@@ -43,7 +44,7 @@ if string.sub(text,1,2) == "!dice" or string.sub(text,1,2) == "/dice" then
 				locateplayers[i]:ChatPrint( "Received a random bonus of +" .. math.random(1,12) .. "\n" )
 			end
 --]]
---	end
+	end
 end
 
 --[[	if failfactor == 24 then

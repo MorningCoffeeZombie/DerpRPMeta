@@ -1,76 +1,3 @@
-
--- This might need to be inside of a function...
-local playername = ply:GetName()
-
-
-hook.Add( "PlayerSay", "PlayerRoll" , function( ply, text, public )	-- This might need to be function( ply, text, public )
-	text = string.lower( text )
-	if (text == "/roll") or (text == "!roll") then 
-		return "[Roll:] " .. playername .. " rolled " .. math.random( 1, 100 ) 
-	end
-end  )
-
-hook.Add( "PlayerSay", "PlayerRollJack21" , function( ply, text, public )
-	text = string.lower( text )
-	if (text == "/cards") or (text == "!cards") or (text == "/cards") or (text == "!cards") then 
-		blackjackrandom = math.random( 1, 10 )
-			RunConsoleCommand("say", "you win")
-			--game.ConsoleCommand( "say "\"happyshopping\"\n" )	-- this actually prints to chat without error and written by 'console'
-		return "[Cards:] " .. playername .. " drew " .. blackjackrandom
-	end
-end  )
-
-hook.Add( "PlayerSay", "PlayerCoin" , function( ply, text, public )
-	text = string.lower( text )
-	if (text == "/coin") or (text == "!coin") then 
-		local coinresult = math.random( 0, 1 ) 
-		if (coinresult == 0) then 
-			return "[Coin:] " .. playername .. " flipped HEADS"
-		else
-			return "[Coin:] " .. playername .. " flipped TAILS"
-		end
-	end
-end  )
-
-
-
---[[ ALTERNATE TEST CODE:
-
-
-hook.Add( "PlayerSay", "TextGamble" , function( ply, text, public )
-	text = string.lower( text )
-	local gamble_playername = ply:GetName()
-
-	if (text == "/roll") or (text == "!roll") then 
-		return "[Roll:] " .. gamble_playername .. " rolled " .. math.random( 1, 100 ) 
-	end
-
-	if (text == "/cards") or (text == "!cards") or (text == "/cards") or (text == "!cards") then 
-		local blackjackrandom = math.random( 1, 10 )
-		RunConsoleCommand("say", "testing")
-		return "[Cards:] " .. gamble_playername .. " drew " .. blackjackrandom
-	end
-
-	if (text == "/coin") or (text == "!coin") then 
-		local coinresult = math.random( 0, 1 ) 
-		if (coinresult == 0) then 
-			return "[Coin:] " .. gamble_playername .. " flipped HEADS"
-		else
-			return "[Coin:] " .. gamble_playername .. " flipped TAILS"
-		end
-	end
-end  )
-
-
-
-
-
-
---]]
-
-
-
-
 arr_listofcards = { "Ace of Hearts",
 					"King of Hearts",
 					"Queen of Hearts",
@@ -124,6 +51,70 @@ arr_listofcards = { "Ace of Hearts",
 					"Three of Diamonds",
 					"Two of Diamonds"
 }
+
+
+hook.Add( "PlayerSay", "TextGamble" , function( ply, text, public )
+	-- GLOBAL VARS
+	text = string.lower( text )
+	local gamble_playername = ply:GetName()
+	local locateplayers = player.GetAll( )
+
+	-- ROLL
+	if (text == "/roll") or (text == "!roll") then 
+		local rollresult = math.random( 1, 100 )
+		for i = 1, table.getn( locateplayers ) do
+			locateplayers[i]:ChatPrint( "[ROLL:] " .. gamble_playername .. " rolled " .. rollresult .. "\n" )
+		end
+		return ""
+	end
+
+	-- DICE
+	if (text == "/dice") or (text == "!dice") then 
+		local firstdice = math.random(1,6)
+		local seconddice = math.random(1,6)
+		local sum = firstdice + seconddice
+		for i = 1, table.getn( locateplayers ) do
+			locateplayers[i]:ChatPrint( "[DICE:] " .. gamble_playername .. " threw " .. firstdice .. " and " .. seconddice .. "\n" )
+		end
+		return ""
+	end
+		
+	-- CARDS
+	if (text == "/cards") or (text == "!cards") or (text == "/cards") or (text == "!cards") then 
+		local cardsresult = table.Random( arr_listofcards )
+		for i = 1, table.getn( locateplayers ) do
+			locateplayers[i]:ChatPrint( "[CARDS:] " .. gamble_playername .. " drew " .. cardsresult .. "\n" )
+		end
+		return ""
+	end
+
+	-- COIN
+	if (text == "/coin") or (text == "!coin") then 
+		local coinresult = math.random( 0, 1 ) 
+		if (coinresult == 0) then 
+			for i = 1, table.getn( locateplayers ) do
+				locateplayers[i]:ChatPrint( "[COIN:] " .. gamble_playername .. " flipped HEADS " .. "\n" )
+			end
+			return ""
+		else
+			for i = 1, table.getn( locateplayers ) do
+				locateplayers[i]:ChatPrint( "[COIN:] " .. gamble_playername .. " flipped TAILS " .. "\n" )
+			end
+			return ""
+		end
+	end
+end  )
+
+
+
+
+
+
+
+
+
+
+
 
 
 
