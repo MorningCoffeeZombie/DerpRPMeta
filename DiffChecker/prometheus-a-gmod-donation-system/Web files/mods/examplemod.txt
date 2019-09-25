@@ -1,5 +1,0 @@
-Name: Example mod name
-Author: Author information
-Description: Description about the mod
-Version: v1.123
-URL: http://linktowheremodificationisshared

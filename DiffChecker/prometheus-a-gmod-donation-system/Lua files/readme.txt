@@ -1,1 +1,0 @@
-This folder should be merged with your addons folder on your server!
