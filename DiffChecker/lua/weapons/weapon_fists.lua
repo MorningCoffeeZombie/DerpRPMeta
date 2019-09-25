@@ -5,7 +5,7 @@ SWEP.PrintName = "#GMOD_Fists"
 SWEP.Author = "Kilburn, robotboy655, MaxOfS2D & Tenrys"
 SWEP.Purpose = "Well we sure as hell didn't use guns! We would just wrestle Hunters to the ground with our bare hands! I used to kill ten, twenty a day, just using my fists."
 
-SWEP.Slot = 2
+SWEP.Slot = 0
 SWEP.SlotPos = 4
 
 SWEP.Spawnable = true
@@ -69,10 +69,10 @@ function SWEP:PrimaryAttack( right )
 	self:EmitSound( SwingSound )
 
 	self:UpdateNextIdle()
-	self:SetNextMeleeAttack( CurTime() + 0.08 )
+	self:SetNextMeleeAttack( CurTime() + 0.2 )
 
-	self:SetNextPrimaryFire( CurTime() + 0.65 )
-	self:SetNextSecondaryFire( CurTime() + 0.65 )
+	self:SetNextPrimaryFire( CurTime() + 0.9 )
+	self:SetNextSecondaryFire( CurTime() + 0.9 )
 
 end
 
@@ -132,7 +132,10 @@ function SWEP:DealDamage()
 			dmginfo:SetDamage( math.random( 12, 24 ) )
 		end
 
+		SuppressHostEvents( NULL ) -- Let the breakable gibs spawn in multiplayer on client
 		tr.Entity:TakeDamageInfo( dmginfo )
+		SuppressHostEvents( self.Owner )
+
 		hit = true
 
 	end

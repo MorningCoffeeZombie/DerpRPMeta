@@ -1,0 +1,6 @@
+20:43:11 - 22/09/2019:
+ BOUGHT DESIGN for vehicle '315701', cost: $$38,500.
+
+20:42:32 - 22/09/2019:
+BOUGHT vehicle '315701' for $75,000.
+

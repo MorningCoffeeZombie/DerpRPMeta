@@ -1,0 +1,566 @@
+Tue Sep 24 02:10:02 2019	Derp (STEAM_0:0:52504530) has joined the game
+Tue Sep 24 02:10:02 2019	Derp (STEAM_0:0:52504530) spawned
+Tue Sep 24 02:14:22 2019	Derp (STEAM_0:0:52504530): !savezvm
+Tue Sep 24 02:16:19 2019	Derp (STEAM_0:0:52504530): !savezvm
+Tue Sep 24 02:16:20 2019	Derp (STEAM_0:0:52504530) disconnected
+Tue Sep 24 15:12:17 2019	Derp (STEAM_0:0:52504530) has joined the game
+Tue Sep 24 15:12:17 2019	Derp (STEAM_0:0:52504530) spawned
+Tue Sep 24 15:22:00 2019	Derp (STEAM_0:0:52504530) disconnected
+Tue Sep 24 17:17:53 2019	Injurus (STEAM_0:0:428038197) has joined the game
+Tue Sep 24 17:17:53 2019	Injurus (STEAM_0:0:428038197) spawned
+Tue Sep 24 17:23:33 2019	Injurus (STEAM_0:0:428038197) disconnected
+Tue Sep 24 17:57:47 2019	Doof (STEAM_0:1:426762407) has joined the game
+Tue Sep 24 17:57:47 2019	Doof (STEAM_0:1:426762407) spawned
+Tue Sep 24 17:58:27 2019	Doof (STEAM_0:1:426762407) spawned
+Tue Sep 24 18:41:14 2019	b3ar (STEAM_0:1:80896282) has joined the game
+Tue Sep 24 18:41:14 2019	b3ar (STEAM_0:1:80896282) spawned
+Tue Sep 24 18:42:11 2019	Doof was killed by Himself with a suicide trick
+Tue Sep 24 18:42:11 2019	b3ar (STEAM_0:1:80896282) spawned
+Tue Sep 24 18:42:15 2019	Doof (STEAM_0:1:426762407) spawned
+Tue Sep 24 18:55:46 2019	b3ar (STEAM_0:1:80896282) spawned
+Tue Sep 24 18:56:52 2019	b3ar (STEAM_0:1:80896282) spawned
+Tue Sep 24 19:04:54 2019	Doof (STEAM_0:1:426762407): /ooc hey b3ar
+Tue Sep 24 19:05:10 2019	Doof (STEAM_0:1:426762407): /ooc are you bored
+Tue Sep 24 19:05:17 2019	Doof (STEAM_0:1:426762407): /ooc you can watch me make weed if you want
+Tue Sep 24 19:05:39 2019	b3ar (STEAM_0:1:80896282): /ooc im afk farming money
+Tue Sep 24 19:05:43 2019	Doof (STEAM_0:1:426762407): /ooc oh ok
+Tue Sep 24 19:33:35 2019	Doof was killed by Himself with a suicide trick
+Tue Sep 24 19:33:35 2019	Doof (STEAM_0:1:426762407) spawned
+Tue Sep 24 19:58:17 2019	Doof was killed by Himself with a suicide trick
+Tue Sep 24 19:58:19 2019	Doof (STEAM_0:1:426762407) spawned
+Tue Sep 24 20:06:02 2019	Doof was killed by b3ar with a cw_scarh
+Tue Sep 24 20:06:19 2019	Doof (STEAM_0:1:426762407) spawned
+Tue Sep 24 20:06:52 2019	b3ar (STEAM_0:1:80896282): /ooc im editing b*tch!
+Tue Sep 24 20:06:56 2019	Doof (STEAM_0:1:426762407): /ooc oh
+Tue Sep 24 20:07:11 2019	b3ar (STEAM_0:1:80896282): /ooc what did you say before dying?
+Tue Sep 24 20:07:16 2019	Doof (STEAM_0:1:426762407): /ooc nothing
+Tue Sep 24 20:07:29 2019	b3ar (STEAM_0:1:80896282): /ooc ok dont raid me
+Tue Sep 24 20:07:32 2019	Doof (STEAM_0:1:426762407): /ooc ok
+Tue Sep 24 20:21:42 2019	joneswa111184 (STEAM_0:0:509856505) has joined the game
+Tue Sep 24 20:21:42 2019	joneswa11184 (STEAM_0:0:509856505) spawned
+Tue Sep 24 20:22:26 2019	Doof (STEAM_0:1:426762407): /ooc hi jones
+Tue Sep 24 20:22:34 2019	joneswa11184 (STEAM_0:0:509856505): HEY
+Tue Sep 24 20:22:44 2019	b3ar was killed by Himself with a suicide trick
+Tue Sep 24 20:22:48 2019	b3ar (STEAM_0:1:80896282): ``
+Tue Sep 24 20:22:48 2019	b3ar (STEAM_0:1:80896282) spawned
+Tue Sep 24 20:22:50 2019	joneswa11184 (STEAM_0:0:509856505): caps
+Tue Sep 24 20:22:53 2019	b3ar (STEAM_0:1:80896282): 
+Tue Sep 24 20:23:00 2019	joneswa11184 (STEAM_0:0:509856505): shit
+Tue Sep 24 20:23:08 2019	joneswa11184 (STEAM_0:0:509856505): come of you car
+Tue Sep 24 20:23:38 2019	joneswa11184 (STEAM_0:0:509856505) spawned Vehicle prop_vehicle_jeep (sw_blue-x13)
+Tue Sep 24 20:23:50 2019	Doof (STEAM_0:1:426762407): /ooc jones?
+Tue Sep 24 20:23:53 2019	joneswa11184 (STEAM_0:0:509856505) spawned Vehicle prop_vehicle_jeep (sw_blue-x14_normal)
+Tue Sep 24 20:24:52 2019	b3ar (STEAM_0:1:80896282): /ooc okay afk time
+Tue Sep 24 20:25:49 2019	joneswa11184 (STEAM_0:0:509856505) spawned
+Tue Sep 24 20:27:31 2019	joneswa11184 (STEAM_0:0:509856505) spawned
+Tue Sep 24 20:28:04 2019	joneswa11184 (STEAM_0:0:509856505): doof were you at
+Tue Sep 24 20:29:04 2019	Doof (STEAM_0:1:426762407): /ooc jones
+Tue Sep 24 20:29:07 2019	joneswa11184 (STEAM_0:0:509856505): yea
+Tue Sep 24 20:29:23 2019	joneswa11184 (STEAM_0:0:509856505): yea
+Tue Sep 24 20:29:57 2019	Doof (STEAM_0:1:426762407): /ooc jones i see you riding around
+Tue Sep 24 20:30:07 2019	Doof (STEAM_0:1:426762407): /ooc come back to where you were
+Tue Sep 24 20:30:23 2019	Doof (STEAM_0:1:426762407): /ooc ah nvm
+Tue Sep 24 20:30:41 2019	joneswa11184 (STEAM_0:0:509856505): hi
+Tue Sep 24 20:30:57 2019	joneswa11184 (STEAM_0:0:509856505): can i get some weed
+Tue Sep 24 20:31:02 2019	Doof (STEAM_0:1:426762407): sure
+Tue Sep 24 20:31:17 2019	Doof (STEAM_0:1:426762407): get a bong
+Tue Sep 24 20:31:56 2019	joneswa11184 (STEAM_0:0:509856505): you got 2 k
+Tue Sep 24 20:32:04 2019	Doof (STEAM_0:1:426762407) has dropped $2,000
+Tue Sep 24 20:32:08 2019	joneswa11184 (STEAM_0:0:509856505): ythx
+Tue Sep 24 20:32:22 2019	joneswa11184 (STEAM_0:0:509856505): ok
+Tue Sep 24 20:33:07 2019	Doof (STEAM_0:1:426762407): /ooc hey can you bring back a burger
+Tue Sep 24 20:33:11 2019	joneswa11184 (STEAM_0:0:509856505) spawned
+Tue Sep 24 20:33:21 2019	joneswa11184 (STEAM_0:0:509856505): yea
+Tue Sep 24 20:35:13 2019	joneswa11184 (STEAM_0:0:509856505): 1k
+Tue Sep 24 20:35:20 2019	Doof (STEAM_0:1:426762407) has dropped $1,000
+Tue Sep 24 20:35:31 2019	joneswa11184 (STEAM_0:0:509856505): bro
+Tue Sep 24 20:36:05 2019	joneswa11184 (STEAM_0:0:509856505): this is  mine
+Tue Sep 24 20:36:12 2019	Doof (STEAM_0:1:426762407): ok
+Tue Sep 24 20:36:40 2019	joneswa11184 (STEAM_0:0:509856505): i need weed
+Tue Sep 24 20:37:41 2019	Doof (STEAM_0:1:426762407): brb i dont want you to steal anything so get out for a minute please
+Tue Sep 24 20:38:59 2019	joneswa11184 (STEAM_0:0:509856505): cod
+Tue Sep 24 20:39:56 2019	b3ar (STEAM_0:1:80896282): 
+Tue Sep 24 20:40:41 2019	Doof (STEAM_0:1:426762407): /ooc back
+Tue Sep 24 20:40:53 2019	Doof (STEAM_0:1:426762407): /ooc nvm sry
+Tue Sep 24 20:41:04 2019	b3ar (STEAM_0:1:80896282): 
+Tue Sep 24 20:41:55 2019	joneswa11184 (STEAM_0:0:509856505): i neeed s
+Tue Sep 24 20:42:29 2019	b3ar was killed by joneswa11184 with a prop_vehicle_jeep
+Tue Sep 24 20:42:33 2019	b3ar (STEAM_0:1:80896282) spawned
+Tue Sep 24 20:42:37 2019	b3ar (STEAM_0:1:80896282): 
+Tue Sep 24 20:43:16 2019	joneswa11184 (STEAM_0:0:509856505): here
+Tue Sep 24 20:43:25 2019	joneswa11184 (STEAM_0:0:509856505): my car
+Tue Sep 24 20:43:38 2019	joneswa11184 (STEAM_0:0:509856505): go back
+Tue Sep 24 20:44:11 2019	joneswa11184 (STEAM_0:0:509856505): go back
+Tue Sep 24 20:44:48 2019	b3ar (STEAM_0:1:80896282) spawned Vehicle prop_vehicle_jeep (sw_tractor)
+Tue Sep 24 20:45:22 2019	joneswa11184 (STEAM_0:0:509856505): tp w
+Tue Sep 24 20:45:29 2019	b3ar (STEAM_0:1:80896282): 
+Tue Sep 24 20:45:59 2019	b3ar (STEAM_0:1:80896282): 
+Tue Sep 24 20:46:05 2019	joneswa11184 (STEAM_0:0:509856505): stop no mess up
+Tue Sep 24 20:46:16 2019	joneswa11184 (STEAM_0:0:509856505): no
+Tue Sep 24 20:46:19 2019	joneswa11184 (STEAM_0:0:509856505): kill
+Tue Sep 24 20:47:01 2019	Doof was killed by b3ar with a cw_m249_official
+Tue Sep 24 20:47:17 2019	b3ar (STEAM_0:1:80896282): propblock as hell
+Tue Sep 24 20:48:23 2019	Doof (STEAM_0:1:426762407) spawned
+Tue Sep 24 20:48:24 2019	joneswa11184 (STEAM_0:0:509856505): my car
+Tue Sep 24 20:48:34 2019	Doof (STEAM_0:1:426762407): /ooc who tf killed me
+Tue Sep 24 20:48:40 2019	b3ar (STEAM_0:1:80896282): 
+Tue Sep 24 20:49:28 2019	joneswa11184 was killed by Himself with a suicide trick
+Tue Sep 24 20:49:29 2019	Doof (STEAM_0:1:426762407): /ooc jones you can come back now
+Tue Sep 24 20:49:29 2019	joneswa11184 (STEAM_0:0:509856505) spawned
+Tue Sep 24 20:49:35 2019	joneswa11184 (STEAM_0:0:509856505): ok
+Tue Sep 24 20:50:25 2019	rosa parks disstrack (STEAM_0:1:419870346) has joined the game
+Tue Sep 24 20:50:25 2019	* (STEAM_0:1:419870346) spawned
+Tue Sep 24 20:50:36 2019	joneswa11184 (STEAM_0:0:509856505): ok
+Tue Sep 24 20:51:32 2019	* (STEAM_0:1:419870346): // Now
+Tue Sep 24 20:51:34 2019	* (STEAM_0:1:419870346): // For my next trick
+Tue Sep 24 20:51:44 2019	* (STEAM_0:1:419870346): // I will make myself DISAPPEAR
+Tue Sep 24 20:51:53 2019	b3ar (STEAM_0:1:80896282): 
+Tue Sep 24 20:52:02 2019	b3ar (STEAM_0:1:80896282): 
+Tue Sep 24 20:52:10 2019	b3ar was killed by Himself with a suicide trick
+Tue Sep 24 20:52:11 2019	b3ar (STEAM_0:1:80896282) spawned
+Tue Sep 24 20:52:24 2019	* (STEAM_0:1:419870346): // nigga tf you at
+Tue Sep 24 20:52:25 2019	b3ar (STEAM_0:1:80896282): 
+Tue Sep 24 20:52:26 2019	* (STEAM_0:1:419870346): // frfr
+Tue Sep 24 20:52:32 2019	joneswa11184 (STEAM_0:0:509856505): my car ass hole
+Tue Sep 24 20:52:40 2019	* (STEAM_0:1:419870346): retard
+Tue Sep 24 20:52:48 2019	Doof (STEAM_0:1:426762407): its disstrack
+Tue Sep 24 20:53:03 2019	* (STEAM_0:1:419870346): YOU CANT ESCAPE
+Tue Sep 24 20:53:06 2019	b3ar (STEAM_0:1:80896282): /return *
+Tue Sep 24 20:53:15 2019	joneswa11184 (STEAM_0:0:509856505): /return
+Tue Sep 24 20:53:32 2019	joneswa11184 (STEAM_0:0:509856505): /return*
+Tue Sep 24 20:54:27 2019	* (STEAM_0:1:419870346) spawned
+Tue Sep 24 20:54:37 2019	* (STEAM_0:1:419870346): /wanted b3ar shooting me
+Tue Sep 24 20:54:43 2019	joneswa11184 (STEAM_0:0:509856505): /drop
+Tue Sep 24 20:54:46 2019	b3ar (STEAM_0:1:80896282) spawned
+Tue Sep 24 20:54:46 2019	* (STEAM_0:1:419870346) arrested b3ar
+Tue Sep 24 20:55:01 2019	b3ar (STEAM_0:1:80896282): /unarrest b3ar
+Tue Sep 24 20:55:08 2019	b3ar (STEAM_0:1:80896282): 
+Tue Sep 24 20:55:22 2019	* (STEAM_0:1:419870346): no
+Tue Sep 24 20:55:24 2019	* (STEAM_0:1:419870346): you werent
+Tue Sep 24 20:55:54 2019	* (STEAM_0:1:419870346): ?
+Tue Sep 24 20:55:58 2019	* (STEAM_0:1:419870346): I was frozen why
+Tue Sep 24 20:56:01 2019	* (STEAM_0:1:419870346): I didnt???
+Tue Sep 24 20:56:10 2019	* (STEAM_0:1:419870346): you straight shot me
+Tue Sep 24 20:56:12 2019	* (STEAM_0:1:419870346): tf you mean
+Tue Sep 24 20:56:19 2019	* (STEAM_0:1:419870346): Okay? I definitely can
+Tue Sep 24 20:56:22 2019	* (STEAM_0:1:419870346): Show me the rule
+Tue Sep 24 20:56:23 2019	* (STEAM_0:1:419870346): Thanks
+Tue Sep 24 20:56:25 2019	* (STEAM_0:1:419870346): Ill wait
+Tue Sep 24 20:56:31 2019	* (STEAM_0:1:419870346): Show me the rule
+Tue Sep 24 20:56:32 2019	joneswa11184 (STEAM_0:0:509856505) spawned
+Tue Sep 24 20:56:32 2019	* (STEAM_0:1:419870346): Thanks
+Tue Sep 24 20:56:43 2019	* (STEAM_0:1:419870346): Show me the rule
+Tue Sep 24 20:56:47 2019	* (STEAM_0:1:419870346): Surely you could cite the rule
+Tue Sep 24 20:56:52 2019	* (STEAM_0:1:419870346): // Surely you could cite the rule
+Tue Sep 24 20:56:53 2019	b3ar (STEAM_0:1:80896282) spawned
+Tue Sep 24 20:56:56 2019	* (STEAM_0:1:419870346): // Thats all im asking for
+Tue Sep 24 20:57:01 2019	b3ar (STEAM_0:1:80896282): 
+Tue Sep 24 20:57:16 2019	joneswa11184 (STEAM_0:0:509856505) spawned
+Tue Sep 24 20:57:22 2019	* (STEAM_0:1:419870346): Youre making up rules lol
+Tue Sep 24 20:57:24 2019	* (STEAM_0:1:419870346): show me the rule
+Tue Sep 24 20:57:30 2019	* (STEAM_0:1:419870346): you cant find it in the rules so you say its common sense
+Tue Sep 24 20:57:40 2019	* (STEAM_0:1:419870346): I never killed myself bucko
+Tue Sep 24 20:57:50 2019	* (STEAM_0:1:419870346): Show me the rule
+Tue Sep 24 20:57:56 2019	* (STEAM_0:1:419870346): No its not
+Tue Sep 24 20:58:08 2019	* (STEAM_0:1:419870346): i mean its not
+Tue Sep 24 20:58:24 2019	* (STEAM_0:1:419870346): its not in the rules??? show me the rule
+Tue Sep 24 20:58:38 2019	* (STEAM_0:1:419870346): I mean its not in the rules
+Tue Sep 24 20:58:38 2019	b3ar was killed by Himself with a suicide trick
+Tue Sep 24 20:58:41 2019	b3ar (STEAM_0:1:80896282) spawned
+Tue Sep 24 20:58:43 2019	* was killed by Himself with a suicide trick
+Tue Sep 24 20:58:44 2019	* (STEAM_0:1:419870346) spawned
+Tue Sep 24 20:58:47 2019	b3ar (STEAM_0:1:80896282) spawned
+Tue Sep 24 20:59:16 2019	* (STEAM_0:1:419870346): fading door abuse
+Tue Sep 24 20:59:17 2019	* (STEAM_0:1:419870346): smh
+Tue Sep 24 20:59:27 2019	b3ar was killed by * with a cw_p99
+Tue Sep 24 20:59:29 2019	b3ar (STEAM_0:1:80896282) spawned
+Tue Sep 24 20:59:30 2019	* (STEAM_0:1:419870346): bad
+Tue Sep 24 20:59:31 2019	* (STEAM_0:1:419870346): trash
+Tue Sep 24 20:59:33 2019	* (STEAM_0:1:419870346): // trash
+Tue Sep 24 20:59:46 2019	DrDerpenstein sups.gg (STEAM_0:0:13562763) has joined the game
+Tue Sep 24 20:59:46 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Tue Sep 24 21:00:06 2019	joneswa11184 (STEAM_0:0:509856505) spawned
+Tue Sep 24 21:00:12 2019	b3ar (STEAM_0:1:80896282): 
+Tue Sep 24 21:00:26 2019	* (STEAM_0:1:419870346): // imagine just blatantly abusing
+Tue Sep 24 21:00:34 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Tue Sep 24 21:00:39 2019	b3ar (STEAM_0:1:80896282): /ooc you're blocking my door lol
+Tue Sep 24 21:00:40 2019	joneswa11184 was killed by * with a cw_p99
+Tue Sep 24 21:00:41 2019	joneswa11184 (STEAM_0:0:509856505) spawned
+Tue Sep 24 21:00:54 2019	DrDerpenstein was killed by joneswa11184 with a cw_deagle
+Tue Sep 24 21:00:54 2019	* (STEAM_0:1:419870346): // yeah so you teleport through?
+Tue Sep 24 21:00:56 2019	* (STEAM_0:1:419870346): // genius
+Tue Sep 24 21:00:58 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Tue Sep 24 21:01:05 2019	b3ar (STEAM_0:1:80896282): /ooc i could just punish you for that
+Tue Sep 24 21:01:13 2019	b3ar (STEAM_0:1:80896282): /ooc notice how im not lol
+Tue Sep 24 21:01:21 2019	DrDerpenstein was killed by joneswa11184 with a cw_deagle
+Tue Sep 24 21:01:27 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Tue Sep 24 21:01:28 2019	* (STEAM_0:1:419870346): // go for it
+Tue Sep 24 21:01:33 2019	* (STEAM_0:1:419870346): // its 100% false
+Tue Sep 24 21:01:43 2019	Doof (STEAM_0:1:426762407): /ooc is this andrew
+Tue Sep 24 21:01:48 2019	* (STEAM_0:1:419870346): // you a little powerhungry ngl
+Tue Sep 24 21:01:55 2019	Doof (STEAM_0:1:426762407): /ooc no you're just bad andrew
+Tue Sep 24 21:02:04 2019	* (STEAM_0:1:419870346): // who the fuck is andrew you spastic
+Tue Sep 24 21:02:10 2019	Doof (STEAM_0:1:426762407): /ooc you're defending
+Tue Sep 24 21:02:13 2019	Doof (STEAM_0:1:426762407): /ooc haha andrew
+Tue Sep 24 21:02:21 2019	Doof (STEAM_0:1:426762407): /ooc gay kid
+Tue Sep 24 21:02:28 2019	joneswa11184 (STEAM_0:0:509856505): 
+Tue Sep 24 21:02:35 2019	* (STEAM_0:1:419870346): OH IN THAT CASE
+Tue Sep 24 21:02:48 2019	joneswa11184 (STEAM_0:0:509856505): bro stop
+Tue Sep 24 21:02:50 2019	b3ar (STEAM_0:1:80896282) spawned
+Tue Sep 24 21:03:08 2019	joneswa11184 (STEAM_0:0:509856505): door block
+Tue Sep 24 21:03:10 2019	* (STEAM_0:1:419870346): // what are you talking about lmao
+Tue Sep 24 21:03:21 2019	Doof (STEAM_0:1:426762407): /ooc haha or is this the cheat engine user?
+Tue Sep 24 21:03:24 2019	Doof (STEAM_0:1:426762407): /ooc gotem
+Tue Sep 24 21:03:24 2019	* (STEAM_0:1:419870346): // you fucking delusional
+Tue Sep 24 21:03:25 2019	DrDerpenstein (STEAM_0:0:13562763): /pm b3ar is he saying he wasn't door spamming?
+Tue Sep 24 21:03:29 2019	Doof (STEAM_0:1:426762407): /ooc haha defending once again
+Tue Sep 24 21:03:34 2019	Doof (STEAM_0:1:426762407): /ooc andrew the cheat engine user
+Tue Sep 24 21:03:38 2019	DrDerpenstein (STEAM_0:0:13562763): /pm b3ar cuz he was. is he lying in sit?
+Tue Sep 24 21:03:40 2019	b3ar (STEAM_0:1:80896282): 
+Tue Sep 24 21:03:42 2019	Doof (STEAM_0:1:426762407): /ooc hey andrew ask who joe is
+Tue Sep 24 21:03:44 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Sep 24 21:03:44 2019	* (STEAM_0:1:419870346): // what are you talking about???
+Tue Sep 24 21:03:51 2019	* (STEAM_0:1:419870346): // like you proper fucking slow
+Tue Sep 24 21:04:01 2019	Doof (STEAM_0:1:426762407): /ooc you're mind cannot comprehend what i am speaking
+Tue Sep 24 21:04:07 2019	* (STEAM_0:1:419870346): // you are mind
+Tue Sep 24 21:04:09 2019	* (STEAM_0:1:419870346): // youre smart
+Tue Sep 24 21:04:20 2019	* (STEAM_0:1:419870346): frozen why?
+Tue Sep 24 21:04:23 2019	b3ar (STEAM_0:1:80896282): 
+Tue Sep 24 21:04:30 2019	* (STEAM_0:1:419870346): how am i in a sit
+Tue Sep 24 21:04:32 2019	joneswa11184 (STEAM_0:0:509856505): gtg
+Tue Sep 24 21:04:33 2019	* (STEAM_0:1:419870346): what are you talking about
+Tue Sep 24 21:04:39 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Sep 24 21:04:40 2019	joneswa11184 (STEAM_0:0:509856505) disconnected
+Tue Sep 24 21:04:42 2019	* (STEAM_0:1:419870346): Take me to a roof? You didnt indicate there was a sit at all
+Tue Sep 24 21:04:46 2019	* (STEAM_0:1:419870346): you just teleported me
+Tue Sep 24 21:04:59 2019	* (STEAM_0:1:419870346): You did /teleport before through the door
+Tue Sep 24 21:05:02 2019	* (STEAM_0:1:419870346): do it again
+Tue Sep 24 21:05:08 2019	DrDerpenstein (STEAM_0:0:13562763): /kill
+Tue Sep 24 21:05:09 2019	* (STEAM_0:1:419870346): what rule
+Tue Sep 24 21:05:10 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Sep 24 21:05:12 2019	* (STEAM_0:1:419870346): please tell me
+Tue Sep 24 21:05:14 2019	* (STEAM_0:1:419870346): what rule
+Tue Sep 24 21:05:15 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Sep 24 21:05:32 2019	* (STEAM_0:1:419870346): no such rule
+Tue Sep 24 21:05:44 2019	* (STEAM_0:1:419870346): im not minging??
+Tue Sep 24 21:05:48 2019	* (STEAM_0:1:419870346): how?
+Tue Sep 24 21:05:55 2019	* (STEAM_0:1:419870346): I spammed one door
+Tue Sep 24 21:05:57 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Sep 24 21:05:59 2019	* (STEAM_0:1:419870346): 
+Tue Sep 24 21:06:17 2019	Doof (STEAM_0:1:426762407) disconnected
+Tue Sep 24 21:06:23 2019	* (STEAM_0:1:419870346): lets go to a sit
+Tue Sep 24 21:06:40 2019	* (STEAM_0:1:419870346): he said stop being stupid
+Tue Sep 24 21:06:44 2019	* (STEAM_0:1:419870346): thats EXTREMELY disrespectful
+Tue Sep 24 21:06:47 2019	* (STEAM_0:1:419870346): WOAH
+Tue Sep 24 21:06:49 2019	* (STEAM_0:1:419870346): WOOAOOAWOOAH
+Tue Sep 24 21:06:50 2019	* (STEAM_0:1:419870346): WOAH
+Tue Sep 24 21:06:53 2019	* (STEAM_0:1:419870346): WATCH IT PAL
+Tue Sep 24 21:06:55 2019	* (STEAM_0:1:419870346): !report
+Tue Sep 24 21:06:57 2019	* (STEAM_0:1:419870346): /report
+Tue Sep 24 21:06:58 2019	* (STEAM_0:1:419870346): 
+Tue Sep 24 21:07:11 2019	* (STEAM_0:1:419870346): you called me STUPID WTF?!?!?!?/1/1?!
+Tue Sep 24 21:07:16 2019	* (STEAM_0:1:419870346): YES
+Tue Sep 24 21:07:18 2019	* (STEAM_0:1:419870346): WT
+Tue Sep 24 21:07:33 2019	* (STEAM_0:1:419870346): it was an accident dude
+Tue Sep 24 21:07:41 2019	* (STEAM_0:1:419870346): chill dude it was an accident not your uncles dick
+Tue Sep 24 21:07:44 2019	* (STEAM_0:1:419870346): stop taking it up the ass
+Tue Sep 24 21:07:53 2019	* (STEAM_0:1:419870346): stop taking it up the ass please
+Tue Sep 24 21:08:03 2019	* (STEAM_0:1:419870346): NoO!?!
+Tue Sep 24 21:08:05 2019	* (STEAM_0:1:419870346): how
+Tue Sep 24 21:08:07 2019	* (STEAM_0:1:419870346): am i disrespecting you
+Tue Sep 24 21:08:08 2019	* (STEAM_0:1:419870346): in a sit
+Tue Sep 24 21:08:15 2019	* (STEAM_0:1:419870346): yes dude
+Tue Sep 24 21:08:25 2019	* (STEAM_0:1:419870346): no you didnt
+Tue Sep 24 21:08:30 2019	b3ar (STEAM_0:1:80896282) spawned
+Tue Sep 24 21:09:17 2019	DrDerpenstein (STEAM_0:0:13562763): /y This is a mug drop 1k in 10sec or I paint the sidewalk with your brains...unless I can't mug- 10sec to GTFO or you all die
+Tue Sep 24 21:09:22 2019	* was killed by DrDerpenstein with a cw_p99
+Tue Sep 24 21:09:26 2019	* (STEAM_0:1:419870346) spawned
+Tue Sep 24 21:10:08 2019	* was killed by DrDerpenstein with a cw_p99
+Tue Sep 24 21:10:09 2019	* (STEAM_0:1:419870346) spawned
+Tue Sep 24 21:10:23 2019	* was killed by DrDerpenstein with a cw_p99
+Tue Sep 24 21:10:24 2019	* (STEAM_0:1:419870346) spawned
+Tue Sep 24 21:11:14 2019	DrDerpenstein (STEAM_0:0:13562763): /job SERIAL SLAPPER
+Tue Sep 24 21:11:51 2019	b3ar was killed by * with a cw_m3super90
+Tue Sep 24 21:11:54 2019	b3ar (STEAM_0:1:80896282) spawned
+Tue Sep 24 21:11:59 2019	* (STEAM_0:1:419870346): // chill there bucko
+Tue Sep 24 21:12:13 2019	* was killed by DrDerpenstein with a cw_p99
+Tue Sep 24 21:12:15 2019	* (STEAM_0:1:419870346) spawned
+Tue Sep 24 21:12:28 2019	DrDerpenstein (STEAM_0:0:13562763): /blogs
+Tue Sep 24 21:12:33 2019	* (STEAM_0:1:419870346): i broke blogs
+Tue Sep 24 21:13:45 2019	* (STEAM_0:1:419870346): gIVE ME IT
+Tue Sep 24 21:13:47 2019	* (STEAM_0:1:419870346): THE CLIMB
+Tue Sep 24 21:13:57 2019	* (STEAM_0:1:419870346): WHAT JOB
+Tue Sep 24 21:13:59 2019	DrDerpenstein was killed by b3ar with a cw_p99
+Tue Sep 24 21:14:00 2019	b3ar was killed by * with a cw_p99
+Tue Sep 24 21:14:02 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Tue Sep 24 21:14:03 2019	b3ar (STEAM_0:1:80896282) spawned
+Tue Sep 24 21:14:04 2019	* (STEAM_0:1:419870346): // CALM IT BUCKO
+Tue Sep 24 21:14:11 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Sep 24 21:14:19 2019	DrDerpenstein (STEAM_0:0:13562763): type !logs
+Tue Sep 24 21:14:22 2019	b3ar (STEAM_0:1:80896282): 
+Tue Sep 24 21:14:31 2019	* (STEAM_0:1:419870346): // what job
+Tue Sep 24 21:14:35 2019	* (STEAM_0:1:419870346): // has
+Tue Sep 24 21:14:37 2019	* (STEAM_0:1:419870346): // the uhh
+Tue Sep 24 21:14:39 2019	* (STEAM_0:1:419870346): // climb
+Tue Sep 24 21:14:40 2019	DrDerpenstein (STEAM_0:0:13562763): // idk pro theif has it tho
+Tue Sep 24 21:14:50 2019	b3ar (STEAM_0:1:80896282): 
+Tue Sep 24 21:14:52 2019	* (STEAM_0:1:419870346): // thats not fair wtf
+Tue Sep 24 21:15:01 2019	b3ar (STEAM_0:1:80896282): ///[GmodAdminSuite] [FAIL] Sorry, but you do not have permission to access theGmodAdminSuite menu.
+Tue Sep 24 21:15:03 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Sep 24 21:15:08 2019	b3ar (STEAM_0:1:80896282): 
+Tue Sep 24 21:15:37 2019	* (STEAM_0:1:419870346): OOPS
+Tue Sep 24 21:15:39 2019	* (STEAM_0:1:419870346): MY BAD DUDE
+Tue Sep 24 21:16:05 2019	* was killed by b3ar with a cw_p99
+Tue Sep 24 21:16:06 2019	* (STEAM_0:1:419870346) spawned
+Tue Sep 24 21:17:49 2019	* (STEAM_0:1:419870346): /wanted b3ar shooting me
+Tue Sep 24 21:17:53 2019	b3ar (STEAM_0:1:80896282) spawned
+Tue Sep 24 21:17:53 2019	* (STEAM_0:1:419870346) arrested b3ar
+Tue Sep 24 21:18:00 2019	* (STEAM_0:1:419870346): // enjoy the arrest
+Tue Sep 24 21:18:10 2019	b3ar (STEAM_0:1:80896282): 
+Tue Sep 24 21:18:18 2019	b3ar (STEAM_0:1:80896282): 
+Tue Sep 24 21:18:20 2019	DrDerpenstein (STEAM_0:0:13562763): // try logs now
+Tue Sep 24 21:18:23 2019	DrDerpenstein (STEAM_0:0:13562763): /blogs
+Tue Sep 24 21:18:25 2019	DrDerpenstein (STEAM_0:0:13562763): /logs
+Tue Sep 24 21:18:28 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Sep 24 21:18:38 2019	b3ar was killed by * with a cw_p99
+Tue Sep 24 21:18:40 2019	DrDerpenstein (STEAM_0:0:13562763): /logs
+Tue Sep 24 21:18:42 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Sep 24 21:18:46 2019	* (STEAM_0:1:419870346): // ?
+Tue Sep 24 21:18:48 2019	b3ar (STEAM_0:1:80896282) spawned
+Tue Sep 24 21:18:51 2019	* (STEAM_0:1:419870346): // you were escaping jail
+Tue Sep 24 21:18:53 2019	DrDerpenstein (STEAM_0:0:13562763): // i think it has to be ! not /
+Tue Sep 24 21:18:57 2019	b3ar (STEAM_0:1:80896282): 
+Tue Sep 24 21:19:04 2019	DrDerpenstein (STEAM_0:0:13562763): // escaping jail is aos
+Tue Sep 24 21:19:10 2019	* (STEAM_0:1:419870346): // I couldnt arrest him
+Tue Sep 24 21:19:13 2019	b3ar (STEAM_0:1:80896282): /ooc he rdaed
+Tue Sep 24 21:19:14 2019	* (STEAM_0:1:419870346): // I tried but it wouldnt let me
+Tue Sep 24 21:19:21 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Sep 24 21:19:22 2019	* (STEAM_0:1:419870346): // how the fuck did i rda you straight shot me
+Tue Sep 24 21:19:26 2019	* (STEAM_0:1:419870346): // frfr this dude slow
+Tue Sep 24 21:19:29 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Sep 24 21:19:36 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Sep 24 21:19:47 2019	b3ar (STEAM_0:1:80896282): 
+Tue Sep 24 21:19:59 2019	* (STEAM_0:1:419870346): im in god mode
+Tue Sep 24 21:20:02 2019	* (STEAM_0:1:419870346): bet
+Tue Sep 24 21:20:04 2019	* (STEAM_0:1:419870346): shoot me then
+Tue Sep 24 21:20:04 2019	b3ar (STEAM_0:1:80896282): 
+Tue Sep 24 21:20:09 2019	* (STEAM_0:1:419870346): ues
+Tue Sep 24 21:20:10 2019	* (STEAM_0:1:419870346): i am
+Tue Sep 24 21:20:12 2019	* (STEAM_0:1:419870346): shoot me
+Tue Sep 24 21:20:14 2019	* (STEAM_0:1:419870346): again
+Tue Sep 24 21:20:17 2019	* (STEAM_0:1:419870346): shoot me again dude
+Tue Sep 24 21:20:26 2019	* (STEAM_0:1:419870346): SHOOT ME
+Tue Sep 24 21:20:30 2019	* was killed by DrDerpenstein with a cw_p99
+Tue Sep 24 21:20:33 2019	* (STEAM_0:1:419870346) spawned
+Tue Sep 24 21:20:37 2019	* (STEAM_0:1:419870346): ATELEPORTED
+Tue Sep 24 21:20:38 2019	* (STEAM_0:1:419870346): SIKE
+Tue Sep 24 21:20:52 2019	* (STEAM_0:1:419870346): kill me again bet
+Tue Sep 24 21:20:58 2019	* was killed by DrDerpenstein with a cw_p99
+Tue Sep 24 21:20:59 2019	* (STEAM_0:1:419870346) spawned
+Tue Sep 24 21:21:06 2019	* (STEAM_0:1:419870346): checdkpoint
+Tue Sep 24 21:21:21 2019	* (STEAM_0:1:419870346): // sike nigga you thought
+Tue Sep 24 21:21:47 2019	* (STEAM_0:1:419870346): hey dont do that now
+Tue Sep 24 21:21:50 2019	* (STEAM_0:1:419870346): kind of disrespectful
+Tue Sep 24 21:21:58 2019	* (STEAM_0:1:419870346): blatant disrespect
+Tue Sep 24 21:22:10 2019	* (STEAM_0:1:419870346): ???????????? bert
+Tue Sep 24 21:22:19 2019	* (STEAM_0:1:419870346): // no it didnt
+Tue Sep 24 21:23:12 2019	* (STEAM_0:1:419870346): 
+Tue Sep 24 21:23:34 2019	* (STEAM_0:1:419870346): its about you
+Tue Sep 24 21:23:39 2019	* (STEAM_0:1:419870346): I have a picture actually
+Tue Sep 24 21:23:42 2019	* (STEAM_0:1:419870346): a screenshot
+Tue Sep 24 21:23:47 2019	* (STEAM_0:1:419870346): taken with my nokia
+Tue Sep 24 21:23:55 2019	* (STEAM_0:1:419870346): I WILL
+Tue Sep 24 21:24:04 2019	* (STEAM_0:1:419870346): I CAN UPLOAD IT TO FACEBOOK ONE SECOND
+Tue Sep 24 21:24:12 2019	* (STEAM_0:1:419870346): you dont have to log in dude
+Tue Sep 24 21:25:11 2019	DrDerpenstein (STEAM_0:0:13562763): /reports
+Tue Sep 24 21:25:15 2019	DrDerpenstein (STEAM_0:0:13562763): !reports
+Tue Sep 24 21:25:19 2019	DrDerpenstein (STEAM_0:0:13562763): !report
+Tue Sep 24 21:25:27 2019	b3ar (STEAM_0:1:80896282): 
+Tue Sep 24 21:25:45 2019	* (STEAM_0:1:419870346): // dont pick me up
+Tue Sep 24 21:25:48 2019	* (STEAM_0:1:419870346): // ill avoid it every time
+Tue Sep 24 21:25:50 2019	b3ar (STEAM_0:1:80896282): /ooc lol i cant
+Tue Sep 24 21:27:20 2019	DrDerpenstein (STEAM_0:0:13562763): // maybe
+Tue Sep 24 21:27:38 2019	* (STEAM_0:1:419870346): hey baby
+Tue Sep 24 21:27:39 2019	Sukebena-Chan (STEAM_0:1:63382511) has joined the game
+Tue Sep 24 21:27:39 2019	Bexgasm~ (STEAM_0:1:63382511) spawned
+Tue Sep 24 21:28:27 2019	* (STEAM_0:1:419870346): bad
+Tue Sep 24 21:28:44 2019	DrDerpenstein (STEAM_0:0:13562763) spawned Vehicle prop_vehicle_jeep (sw_tractor)
+Tue Sep 24 21:29:02 2019	* (STEAM_0:1:419870346): /wanted drderp wreckless drivin
+Tue Sep 24 21:29:35 2019	Bexgasm~ (STEAM_0:1:63382511) spawned
+Tue Sep 24 21:29:39 2019	Bexgasm~ (STEAM_0:1:63382511):  
+Tue Sep 24 21:29:40 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Sep 24 21:29:43 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Sep 24 21:29:50 2019	Bexgasm~ (STEAM_0:1:63382511): /job Actually Jesus Christ
+Tue Sep 24 21:29:55 2019	DrDerpenstein (STEAM_0:0:13562763): /pm bex just make sure to go the the RESET GRAV job when youre done
+Tue Sep 24 21:30:04 2019	Bexgasm~ (STEAM_0:1:63382511): /pm drderp make me
+Tue Sep 24 21:30:21 2019	DrDerpenstein (STEAM_0:0:13562763): /pm bex you'll be fucked if you dont
+Tue Sep 24 21:30:38 2019	Bexgasm~ was killed by DrDerpenstein with a prop_vehicle_jeep
+Tue Sep 24 21:30:46 2019	Bexgasm~ (STEAM_0:1:63382511) spawned
+Tue Sep 24 21:31:09 2019	* (STEAM_0:1:419870346): YO ENOUGH
+Tue Sep 24 21:31:09 2019	DrDerpenstein was killed by Bexgasm~ with a cw_shorty
+Tue Sep 24 21:31:10 2019	* (STEAM_0:1:419870346): STOP IT
+Tue Sep 24 21:31:10 2019	* (STEAM_0:1:419870346): NOW
+Tue Sep 24 21:31:31 2019	DrDerpenstein (STEAM_0:0:13562763): // stop what?
+Tue Sep 24 21:31:31 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Tue Sep 24 21:31:50 2019	* (STEAM_0:1:419870346): // you got me like zzzzzzzz frfr be quiet
+Tue Sep 24 21:32:11 2019	* (STEAM_0:1:419870346): // DONT
+Tue Sep 24 21:32:13 2019	* (STEAM_0:1:419870346): // PICK ME UP
+Tue Sep 24 21:32:14 2019	* (STEAM_0:1:419870346): // AGAAIN
+Tue Sep 24 21:32:25 2019	DrDerpenstein (STEAM_0:0:13562763): // what are you doing to hack
+Tue Sep 24 21:32:25 2019	* (STEAM_0:1:419870346): ENOUGH
+Tue Sep 24 21:32:33 2019	Bexgasm~ (STEAM_0:1:63382511): // USING CHEAt engine
+Tue Sep 24 21:32:38 2019	* (STEAM_0:1:419870346): ???
+Tue Sep 24 21:32:41 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Sep 24 21:32:49 2019	Bexgasm~ (STEAM_0:1:63382511): 
+Tue Sep 24 21:32:53 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Sep 24 21:33:04 2019	* (STEAM_0:1:419870346): how am i hackin
+Tue Sep 24 21:33:06 2019	* (STEAM_0:1:419870346): explain
+Tue Sep 24 21:33:13 2019	* (STEAM_0:1:419870346): cause
+Tue Sep 24 21:33:18 2019	* (STEAM_0:1:419870346): im just a genius honestly
+Tue Sep 24 21:33:57 2019	* (STEAM_0:1:419870346): bert
+Tue Sep 24 21:34:05 2019	* (STEAM_0:1:419870346): bert
+Tue Sep 24 21:34:29 2019	* (STEAM_0:1:419870346): i do nothing
+Tue Sep 24 21:34:39 2019	* (STEAM_0:1:419870346): im not dude
+Tue Sep 24 21:34:49 2019	* (STEAM_0:1:419870346): how am i cheating dude
+Tue Sep 24 21:34:50 2019	* (STEAM_0:1:419870346): explain
+Tue Sep 24 21:34:55 2019	* (STEAM_0:1:419870346): // ENOUGH
+Tue Sep 24 21:34:56 2019	* (STEAM_0:1:419870346): // WITH THAT
+Tue Sep 24 21:35:15 2019	Bexgasm~ (STEAM_0:1:63382511): !goto *
+Tue Sep 24 21:35:19 2019	* (STEAM_0:1:419870346): // STOP
+Tue Sep 24 21:35:21 2019	Bexgasm~ (STEAM_0:1:63382511): !goto *
+Tue Sep 24 21:35:25 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Sep 24 21:36:59 2019	DrDerpenstein (STEAM_0:0:13562763): !meniu
+Tue Sep 24 21:37:00 2019	Bexgasm~ (STEAM_0:1:63382511): 
+Tue Sep 24 21:37:01 2019	DrDerpenstein (STEAM_0:0:13562763): !menu
+Tue Sep 24 21:37:06 2019	* (STEAM_0:1:419870346): // this clown think setting job will fix it
+Tue Sep 24 21:37:20 2019	* (STEAM_0:1:419870346): how am i hacking dude
+Tue Sep 24 21:37:38 2019	* (STEAM_0:1:419870346): its just when you get bad gmodstore addons
+Tue Sep 24 21:38:00 2019	* (STEAM_0:1:419870346): OKAY
+Tue Sep 24 21:38:17 2019	b3ar (STEAM_0:1:80896282): /ooc how do i get masks
+Tue Sep 24 21:38:19 2019	* (STEAM_0:1:419870346): its not hacking wtf
+Tue Sep 24 21:38:26 2019	* (STEAM_0:1:419870346): // from the maskshop
+Tue Sep 24 21:38:26 2019	Bexgasm~ (STEAM_0:1:63382511): // /acc
+Tue Sep 24 21:38:27 2019	* (STEAM_0:1:419870346): // actually
+Tue Sep 24 21:38:30 2019	* (STEAM_0:1:419870346): // its /ac
+Tue Sep 24 21:38:30 2019	Bexgasm~ (STEAM_0:1:63382511): 
+Tue Sep 24 21:38:34 2019	* (STEAM_0:1:419870346): // /acc***
+Tue Sep 24 21:38:35 2019	* (STEAM_0:1:419870346): 
+Tue Sep 24 21:38:37 2019	Bexgasm~ (STEAM_0:1:63382511): 
+Tue Sep 24 21:38:44 2019	* (STEAM_0:1:419870346): // it stands for accessories actually im a genius
+Tue Sep 24 21:39:02 2019	b3ar (STEAM_0:1:80896282): /ooc nope where is it
+Tue Sep 24 21:39:11 2019	Bexgasm~ (STEAM_0:1:63382511): // acc
+Tue Sep 24 21:39:13 2019	* (STEAM_0:1:419870346): // at spawn retard
+Tue Sep 24 21:39:30 2019	* (STEAM_0:1:419870346): // EY
+Tue Sep 24 21:39:33 2019	* (STEAM_0:1:419870346): // ENOUGH
+Tue Sep 24 21:39:33 2019	Bexgasm~ (STEAM_0:1:63382511): // take the L
+Tue Sep 24 21:39:47 2019	Bexgasm~ (STEAM_0:1:63382511): // GG
+Tue Sep 24 21:39:51 2019	Bexgasm~ (STEAM_0:1:63382511): // promtion
+Tue Sep 24 21:39:53 2019	* (STEAM_0:1:419870346): // wow dude coowner
+Tue Sep 24 21:39:57 2019	b3ar (STEAM_0:1:80896282): \
+Tue Sep 24 21:40:08 2019	* (STEAM_0:1:419870346): /y i am not cheating by the way dont know why you think i am
+Tue Sep 24 21:40:16 2019	b3ar (STEAM_0:1:80896282): 
+Tue Sep 24 21:40:23 2019	* (STEAM_0:1:419870346): // by the way im noit cheating
+Tue Sep 24 21:40:35 2019	Bexgasm~ (STEAM_0:1:63382511): // hey noit cheating, i'm dad
+Tue Sep 24 21:41:10 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Sep 24 21:41:39 2019	* (STEAM_0:1:419870346): // you got me like zzzzzz frfr
+Tue Sep 24 21:41:49 2019	DrDerpenstein (STEAM_0:0:13562763): // where di you go?
+Tue Sep 24 21:41:49 2019	Bexgasm~ (STEAM_0:1:63382511): !goto *
+Tue Sep 24 21:41:52 2019	* (STEAM_0:1:419870346) spawned
+Tue Sep 24 21:41:52 2019	Bexgasm~ (STEAM_0:1:63382511): 
+Tue Sep 24 21:41:56 2019	* (STEAM_0:1:419870346): // sike
+Tue Sep 24 21:41:59 2019	* (STEAM_0:1:419870346): // you thought
+Tue Sep 24 21:42:07 2019	Bexgasm~ (STEAM_0:1:63382511): !warn
+Tue Sep 24 21:42:26 2019	* (STEAM_0:1:419870346): // I am not suspected of cheating??
+Tue Sep 24 21:42:29 2019	* (STEAM_0:1:419870346): // what are you talking abouit
+Tue Sep 24 21:42:30 2019	Bexgasm~ (STEAM_0:1:63382511): !warn
+Tue Sep 24 21:42:34 2019	DrDerpenstein (STEAM_0:0:13562763): !menu
+Tue Sep 24 21:42:47 2019	b3ar (STEAM_0:1:80896282): 
+Tue Sep 24 21:43:03 2019	DrDerpenstein (STEAM_0:0:13562763): /name test
+Tue Sep 24 21:43:03 2019	b3ar (STEAM_0:1:80896282): 
+Tue Sep 24 21:43:08 2019	* (STEAM_0:1:419870346): // do you want me to work with you or not smh
+Tue Sep 24 21:43:08 2019	test (STEAM_0:0:13562763): /rpname DrDerpenstein
+Tue Sep 24 21:43:15 2019	b3ar (STEAM_0:1:80896282): 
+Tue Sep 24 21:43:18 2019	b3ar (STEAM_0:1:80896282): 
+Tue Sep 24 21:43:22 2019	Bexgasm~ (STEAM_0:1:63382511): // work with us on what
+Tue Sep 24 21:43:25 2019	Bexgasm~ (STEAM_0:1:63382511): !goto diss
+Tue Sep 24 21:43:29 2019	* (STEAM_0:1:419870346): // cooperate
+Tue Sep 24 21:43:30 2019	Bexgasm~ (STEAM_0:1:63382511): 
+Tue Sep 24 21:43:37 2019	Bexgasm~ (STEAM_0:1:63382511): // what are you working with us on
+Tue Sep 24 21:43:38 2019	b3ar (STEAM_0:1:80896282): 
+Tue Sep 24 21:43:40 2019	Bexgasm~ (STEAM_0:1:63382511): // being a loser?
+Tue Sep 24 21:43:43 2019	Bexgasm~ (STEAM_0:1:63382511): // L
+Tue Sep 24 21:43:49 2019	* (STEAM_0:1:419870346): // ?? what am i doing dude
+Tue Sep 24 21:43:55 2019	Bexgasm~ (STEAM_0:1:63382511): // i'll show you.
+Tue Sep 24 21:44:01 2019	b3ar (STEAM_0:1:80896282): 
+Tue Sep 24 21:44:01 2019	DrDerpenstein (STEAM_0:0:13562763): /pm bex dont diss him, lets not make him any more tilted
+Tue Sep 24 21:44:11 2019	Bexgasm~ (STEAM_0:1:63382511): /pm drderp Fiiine
+Tue Sep 24 21:44:12 2019	b3ar (STEAM_0:1:80896282): 
+Tue Sep 24 21:44:13 2019	* (STEAM_0:1:419870346): // thats literally just a bug in your physgunfreeze addon
+Tue Sep 24 21:44:30 2019	Bexgasm~ (STEAM_0:1:63382511): // Then why has it not happened with anyone else
+Tue Sep 24 21:44:39 2019	* (STEAM_0:1:419870346): // i dont know dude
+Tue Sep 24 21:44:41 2019	b3ar (STEAM_0:1:80896282): 
+Tue Sep 24 21:44:51 2019	b3ar (STEAM_0:1:80896282): 
+Tue Sep 24 21:45:12 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Sep 24 21:45:22 2019	b3ar (STEAM_0:1:80896282): 
+Tue Sep 24 21:45:34 2019	b3ar (STEAM_0:1:80896282): 
+Tue Sep 24 21:45:37 2019	b3ar (STEAM_0:1:80896282): 
+Tue Sep 24 21:45:39 2019	b3ar was killed by Himself with a suicide trick
+Tue Sep 24 21:45:41 2019	b3ar (STEAM_0:1:80896282) spawned
+Tue Sep 24 21:46:01 2019	* (STEAM_0:1:419870346): // why am i jailed wt f!?
+Tue Sep 24 21:46:56 2019	* (STEAM_0:1:419870346): !report
+Tue Sep 24 21:46:58 2019	* (STEAM_0:1:419870346): 
+Tue Sep 24 21:47:10 2019	b3ar (STEAM_0:1:80896282): 
+Tue Sep 24 21:47:11 2019	* (STEAM_0:1:419870346): // im not hacking wtf?!
+Tue Sep 24 21:47:15 2019	Bexgasm~ (STEAM_0:1:63382511): // ok hacker
+Tue Sep 24 21:47:27 2019	* (STEAM_0:1:419870346): // dude IM NOT HACKING 
+Tue Sep 24 21:47:32 2019	Bexgasm~ (STEAM_0:1:63382511): // ok hacker
+Tue Sep 24 21:48:18 2019	* (STEAM_0:1:419870346): // hey derpenstine
+Tue Sep 24 21:49:39 2019	* (STEAM_0:1:419870346): // i am NOT hacking
+Tue Sep 24 21:50:35 2019	* (STEAM_0:1:419870346): // here ill give you the script im using balls = poop local poop = [1]kill balls()
+Tue Sep 24 21:50:49 2019	* (STEAM_0:1:419870346): // im hilarious
+Tue Sep 24 21:51:33 2019	* (STEAM_0:1:419870346): NO WTF
+Tue Sep 24 21:51:34 2019	* (STEAM_0:1:419870346): !??!
+Tue Sep 24 21:52:15 2019	* (STEAM_0:1:419870346): joe
+Tue Sep 24 21:52:16 2019	* (STEAM_0:1:419870346): what is joe
+Tue Sep 24 21:53:13 2019	ShiddedNFarded (STEAM_0:0:512560465) has joined the game
+Tue Sep 24 21:53:13 2019	ShiddedNFarded (STEAM_0:0:512560465) spawned
+Tue Sep 24 21:53:21 2019	* (STEAM_0:1:419870346): how
+Tue Sep 24 21:53:23 2019	* (STEAM_0:1:419870346): am i hacking
+Tue Sep 24 21:53:23 2019	* (STEAM_0:1:419870346): 
+Tue Sep 24 21:53:28 2019	* (STEAM_0:1:419870346): /me Random Weapon Check, Running/Pulling weapons out = KOS/AOS
+Tue Sep 24 21:53:29 2019	* (STEAM_0:1:419870346): /me Random Weapon Check, Running/Pulling weapons out = KOS/AOS
+Tue Sep 24 21:53:30 2019	* (STEAM_0:1:419870346): /me Random Weapon Check, Running/Pulling weapons out = KOS/AOS
+Tue Sep 24 21:53:31 2019	* (STEAM_0:1:419870346): /me Random Weapon Check, Running/Pulling weapons out = KOS/AOS
+Tue Sep 24 21:53:51 2019	* (STEAM_0:1:419870346): wanna see my spinbot dude
+Tue Sep 24 21:54:10 2019	ShiddedNFarded (STEAM_0:0:512560465) disconnected
+Tue Sep 24 21:54:24 2019	DrDerpenstein (STEAM_0:0:13562763): /forcerpname * Asterisk
+Tue Sep 24 21:54:24 2019	DrDerpenstein (STEAM_0:0:13562763) set rosa parks disstrack's name to Asterisk
+Tue Sep 24 21:54:34 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Sep 24 21:54:40 2019	Asterisk (STEAM_0:1:419870346): // ill literally call balls on you dude
+Tue Sep 24 21:54:52 2019	Asterisk (STEAM_0:1:419870346): // how am i hacking
+Tue Sep 24 21:54:58 2019	b3ar (STEAM_0:1:80896282) spawned
+Tue Sep 24 21:55:10 2019	b3ar (STEAM_0:1:80896282): 
+Tue Sep 24 21:55:12 2019	Bexgasm~ (STEAM_0:1:63382511): !unjail asss
+Tue Sep 24 21:55:24 2019	Asterisk (STEAM_0:1:419870346): // really
+Tue Sep 24 21:55:29 2019	b3ar (STEAM_0:1:80896282): 
+Tue Sep 24 21:55:36 2019	b3ar (STEAM_0:1:80896282): 
+Tue Sep 24 21:55:39 2019	Bexgasm~ (STEAM_0:1:63382511): !name asteisk
+Tue Sep 24 21:55:45 2019	Bexgasm~ (STEAM_0:1:63382511): !name asterisk
+Tue Sep 24 21:55:50 2019	DrDerpenstein (STEAM_0:0:13562763): this /forcerpname * Asterisk
+Tue Sep 24 21:56:10 2019	Asterisk (STEAM_0:1:419870346): physgun me once more
+Tue Sep 24 21:56:11 2019	Asterisk (STEAM_0:1:419870346): bet
+Tue Sep 24 21:56:37 2019	b3ar (STEAM_0:1:80896282) spawned
+Tue Sep 24 21:56:41 2019	Asterisk (STEAM_0:1:419870346): // hmm
+Tue Sep 24 21:58:14 2019	Asterisk (STEAM_0:1:419870346): // this dudes gonna spend like 10 minutes on the wiki and come back to realize it wasnt even the name that caused it
+Tue Sep 24 22:00:03 2019	Asterisk (STEAM_0:1:419870346): // dont touch me
+Tue Sep 24 22:03:02 2019	Asterisk (STEAM_0:1:419870346) disconnected
+Tue Sep 24 22:03:19 2019	b3ar (STEAM_0:1:80896282): /ooc oh!
+Tue Sep 24 22:03:22 2019	Bexgasm~ (STEAM_0:1:63382511): // oh
+Tue Sep 24 22:03:40 2019	b3ar (STEAM_0:1:80896282): /ooc okay ill join later
+Tue Sep 24 22:03:42 2019	b3ar (STEAM_0:1:80896282) disconnected
+Tue Sep 24 22:09:36 2019	DrDerpenstein (STEAM_0:0:13562763) disconnected
+Tue Sep 24 22:11:02 2019	Bexgasm~ (STEAM_0:1:63382511): 
+Tue Sep 24 22:11:06 2019	Bexgasm~ (STEAM_0:1:63382511): 
+Tue Sep 24 22:11:08 2019	Bexgasm~ (STEAM_0:1:63382511): 
+Tue Sep 24 22:11:09 2019	Bexgasm~ (STEAM_0:1:63382511): 
+Tue Sep 24 22:15:48 2019	Bexgasm~ (STEAM_0:1:63382511) disconnected

@@ -1,1 +1,1 @@
-{"1":{"Data":{"MethAmount":25.0},"Class":"zmlab_meth"},"2":{"Data":{"Amount":8.0,"Class":"cw_l85a2","Contents":16.0},"Class":"spawned_shipment"},"4":{"Data":{"Amount":6.0,"Class":"cw_deagle","Contents":7.0},"Class":"spawned_shipment"},"5":{"Data":{"Amount":7.0,"Class":"cw_scorpin_evo3","Contents":27.0},"Class":"spawned_shipment"}}
+[{"Data":{"MethAmount":25.0},"Class":"zmlab_meth"}]

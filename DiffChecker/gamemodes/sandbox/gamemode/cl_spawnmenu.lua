@@ -131,8 +131,6 @@ function GM:PopulatePropMenu()
 	-- This function makes the engine load the spawn menu text files.
 	-- We call it here so that any gamemodes not using the default
 	-- spawn menu can totally not call it.
-	--spawnmenu.AddPropCategory( "DerpCorpWhitelist", "DerpCorp Whitelist", contents, "icon16/tux.png" )	-- This make the list show but not populate...lua seems to not find the table
-	--spawnmenu.PopulateFromTextFiles( AddPropCategory )
 	spawnmenu.PopulateFromEngineTextFiles()
 
 end

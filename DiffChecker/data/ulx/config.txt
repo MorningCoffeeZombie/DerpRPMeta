@@ -23,7 +23,7 @@ ulx meChatEnabled 0 ; Allow players to use '/me' in chat. 0 = Disabled, 1 = Sand
 
 ; This is what the players will see when they join, set it to "" to disable.
 ; You can use %host% and %curmap% in your text and have it automagically parsed for you
-ulx welcomemessage "Welcome to %host%! We're playing %curmap%."
+ulx welcomemessage "Welcome to %host%! We're playing %curmap%." 
 
 
 ulx logFile 1 ; Log to file (Can still echo if off). This is a global setting, nothing will be logged to file with this off.
@@ -32,7 +32,7 @@ ulx logChat 1 ; Log player chat
 ulx logSpawns 1 ; Log when players spawn objects (props, effects, etc)
 ulx logSpawnsEcho 1 ; Echo spawns to players in server. -1 = Off, 0 = Dedicated console only, 1 = Admins only, 2 = All players. (Echoes to console)
 ulx logJoinLeaveEcho 1 ; Echo players leaves and joins to admins in the server (useful for banning minges)
-ulx logDir "ulx_logs" ; The log dir under garrysmod/data
+ulx logDir ulx_logs ; The log dir under garrysmod/data
 ulx logEcho 1 ; Echo mode
 ; Echo modes:
 ; 0 - OFF No output to any players when an admin command is used
@@ -45,7 +45,7 @@ ulx logEchoColorConsole "0 0 0" ; The color that Console gets when using actions
 ulx logEchoColorSelf "75 0 130" ; The color for yourself in echoes
 ulx logEchoColorEveryone "0 128 128" ; The color to use when everyone is targeted in echoes
 ulx logEchoColorPlayerAsGroup 1 ; Whether or not to use group colors for players. If false, it uses the color below.
-ulx logEchoColorPlayer "255 255 0" ; The color to use for players when ulx logEchoColorPlayerAsGroup is set to 0.
+ulx logEchoColorPlayer "255 255 0" ; The color to use for players when ulx logEchoColorPlayerAsGroup 1 
 ulx logEchoColorMisc "0 255 0" ; The color for anything else in echoes
 
 ulx rslotsMode 0 

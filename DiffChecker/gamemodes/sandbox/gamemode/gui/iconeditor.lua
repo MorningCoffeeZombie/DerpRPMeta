@@ -406,7 +406,7 @@ function PANEL:SetIcon( icon )
 		self.LeftPanel:SetWide( 400 )
 	end
 
-	if ( !model || model == "" ) then
+	if ( !model or model == "" ) then
 
 		self:SetModel( "error.mdl" )
 		self.SpawnIcon:SetSpawnIcon( icon:GetIconName() )
@@ -434,8 +434,8 @@ function PANEL:Refresh()
 
 	local tab = PositionSpawnIcon( ent, pos )
 
-	ent:SetSkin( self.SpawnIcon:GetSkinID() )
-	ent:SetBodyGroups( self.SpawnIcon:GetBodyGroup() )
+	ent:SetSkin( self.SpawnIcon:GetSkinID() or 0 )
+	ent:SetBodyGroups( self.SpawnIcon:GetBodyGroup() or "" )
 
 	self:BestGuessLayout()
 	self:FillAnimations( ent )
@@ -447,7 +447,7 @@ function PANEL:FillAnimations( ent )
 
 	self.AnimList:Clear()
 
-	for k, v in SortedPairsByValue( ent:GetSequenceList() ) do
+	for k, v in SortedPairsByValue( ent:GetSequenceList() or {} ) do
 
 		local line = self.AnimList:AddLine( string.lower( v ) )
 
@@ -463,7 +463,7 @@ function PANEL:FillAnimations( ent )
 	self.BodyList:Clear()
 	local newItems = 0
 
-	if ( ent:SkinCount() > 1 ) then
+	if ( ( ent:SkinCount() or 0 ) > 1 ) then
 
 		local combo = self.BodyList:Add( "DComboBox" )
 		combo:Dock( TOP )

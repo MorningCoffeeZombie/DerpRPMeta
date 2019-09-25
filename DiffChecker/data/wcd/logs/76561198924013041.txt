@@ -1,0 +1,39 @@
+23:04:41 - 20/09/2019:
+ BOUGHT DESIGN for vehicle '583479', cost: $$173,500.
+
+23:04:20 - 20/09/2019:
+BOUGHT vehicle '583479' for $150,000.
+
+22:56:06 - 20/09/2019:
+BOUGHT vehicle '787508' for $60,000.
+
+22:56:03 - 20/09/2019:
+BOUGHT vehicle '315701' for $75,000.
+
+22:51:54 - 20/09/2019:
+ BOUGHT DESIGN for vehicle '287402', cost: $$163,500.
+
+22:51:35 - 20/09/2019:
+BOUGHT vehicle '287402' for $80,000.
+
+22:40:30 - 20/09/2019:
+ BOUGHT DESIGN for vehicle '899126', cost: $$128,500.
+
+22:39:46 - 20/09/2019:
+BOUGHT vehicle '899126' for $97,500.
+
+22:37:59 - 20/09/2019:
+ BOUGHT DESIGN for vehicle '837578', cost: $$168,500.
+
+22:37:28 - 20/09/2019:
+BOUGHT vehicle '837578' for $190,000.
+
+21:53:44 - 20/09/2019:
+ BOUGHT DESIGN for vehicle '794217', cost: $$168,500.
+
+21:52:46 - 20/09/2019:
+BOUGHT vehicle '902978' for $22,500.
+
+21:52:41 - 20/09/2019:
+BOUGHT vehicle '794217' for $52,500.
+

@@ -1,0 +1,1988 @@
+<Logging continued from "data/ulx_logs/09-18-19.txt">
+[00:00:12] Derp: hello there 
+[00:00:24] Derp: i was just checking to see if ur bitcoin machine was working
+[00:00:29] Derp: gotta make sure ur on the latest update u know
+[00:00:31] Delightful: \mhm
+[00:00:37] Derp: alright well i have to go now
+[00:00:44] Delightful: thats what they all say
+[00:00:45] Derp: um
+[00:00:50] Delightful killed Derp using player
+[00:01:01] Bexgasm~: !goto derp
+[00:01:01] Bexgasm~ teleported to Derp
+[00:01:15] Derp: its called you when you were born
+[00:01:26] Derp: ur an L shaped prop
+[00:01:26] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_trainstation/payphone001a.mdl
+[00:01:28] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_trainstation/payphone001a.mdl
+[00:01:30] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_trainstation/payphone001a.mdl
+[00:01:48] Derp: models/props_c17/GasPipes006a.mdl
+[00:01:51] Derp<STEAM_0:0:52504530> spawned model models/props_c17/gaspipes006a.mdl
+[00:02:00] Derp: construction prop
+[00:02:08] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_c17/signpole001.mdl
+[00:02:12] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_combine/combine_fence01a.mdl
+[00:02:12] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_combine/combine_fence01b.mdl
+[00:02:15] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_docks/dock01_pole01a_256.mdl
+[00:02:16] Derp: on my screen its next to the washer
+[00:02:17] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_docks/dock01_pole01a_128.mdl
+[00:02:23] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_interiors/furniture_chair03a.mdl
+[00:02:24] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_junk/harpoon002a.mdl
+[00:02:31] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_trainstation/trainstation_post001.mdl
+[00:02:36] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_wasteland/dockplank01b.mdl
+[00:02:44] Derp: /casino
+[00:02:47] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_c17/gaspipes006a.mdl
+[00:03:47] Derp: i know this is random as hell but i really liked the drawing u showed me 
+[00:03:50] Derp: good job
+[00:04:06] Derp: i thought it was really nice
+[00:04:54] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_c17/gaspipes006a.mdl
+[00:05:17] Bexgasm~ killed Derp using weapon_fists
+[00:05:29] Bexgasm~<STEAM_0:1:63382511> used the tool duplicator on maps/rp_downtown_tits_v2.bsp
+[00:05:29] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_phx/construct/metal_dome360.mdl
+[00:05:29] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_phx/construct/metal_dome360.mdl
+[00:05:29] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_phx/construct/metal_plate_curve360x2.mdl
+[00:05:29] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_phx/construct/metal_dome360.mdl
+[00:05:29] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_phx/construct/metal_plate_curve360x2.mdl
+[00:05:30] Derp: why did i add emotes
+[00:05:36] Derp: i hate myself
+[00:05:59] Bexgasm~<STEAM_0:1:63382511> used the tool nocollide on models/props_c17/gaspipes006a.mdl
+[00:05:59] Bexgasm~<STEAM_0:1:63382511> used the tool nocollide on models/props_phx/construct/metal_dome360.mdl
+[00:06:56] Dropped "Bexgasm~" from server<STEAM_0:1:63382511>
+[00:07:00] Client "Sukebena-Chan" connected.
+[00:07:10] Derp added userid STEAM_0:0:183971307 to group noaccess
+[00:07:14] Derp removed all access rights from STEAM_0:0:183971307
+[00:07:45] Derp removed all access rights from jtroll1942
+[00:08:19] Client "Sukebena-Chan" spawned in server <STEAM_0:1:63382511> (took 79 seconds).
+[00:11:39] Delightful: PUT YOUR HANDS UP
+[00:11:48] Delightful: GET ON YO KNEES
+[00:12:08] Delightful: WHY SHOUDNT I KILL U RIGHT NOW
+[00:12:18] Derp: because i have track pants
+[00:12:27] Delightful: TAKE EM OFF BOI
+[00:12:42] Delightful killed Derp using player
+[00:12:45] Delightful: UHHH
+[00:12:48] Delightful: YEA BOI
+[00:12:55] Bexgasm~: // im back
+[00:13:11] Delightful: // Hi bacck im DAD HAHAHAHAHHAHAHAH....kill me 
+[00:13:11] Bexgasm~<STEAM_0:1:63382511> used the tool textscreen on maps/rp_downtown_tits_v2.bsp
+[00:13:21] Derp: // i wish i had a dad
+[00:13:26] Bexgasm~: // 
+[00:13:27] Delightful: // bab
+[00:13:27] Bexgasm~: /
+[00:13:38] Bexgasm~: // L
+[00:14:12] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_c17/furniturecupboard001a.mdl
+[00:14:13] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_c17/furniturecouch002a.mdl
+[00:14:31] Bexgasm~: // delightful, guess what
+[00:14:58] Delightful: // what guess delightful
+[00:15:07] Dropped "The Hitman" from server<STEAM_0:1:83383015>
+[00:15:09] Client "The Hitman" connected.
+[00:15:19] Bexgasm~: // chicken butt
+[00:15:21] Bexgasm~: /spectate
+[00:15:26] Bexgasm~: /spectate
+[00:15:31] Bexgasm~: /spectate
+[00:15:50] Delightful: WHY YOU ALWAYS HERE BOI
+[00:15:50] Client "The Hitman" spawned in server <STEAM_0:1:83383015> (took 41 seconds).
+[00:16:22] Bexgasm~ killed Delightful using player
+[00:16:24] Derp: NO
+[00:16:36] Delightful: // YOU KILLED ME DERP 
+[00:16:39] Bexgasm~: // L
+[00:16:46] Derp: // I DIDNT MEAN TO I THOUGHT U WOULD GET HIM WHEN I CLOSED THE DOOR
+[00:16:52] Bexgasm~: // L
+[00:17:07] Bexgasm~: /spectate
+[00:17:29] Bexgasm~: /spectate
+[00:17:45] Delightful killed Bexgasm~ using player
+[00:18:15] Client "Fade_hsky17" connected.
+[00:18:20] Bexgasm~: /spectate
+[00:19:09] Derp: /addmoney the 35000
+[00:19:35] Derp: u can steal those if u want
+[00:20:00] Derp: u know how to steal printers right?
+[00:20:03] Delightful: no
+[00:20:08] Derp: just press E on my name on the printer
+[00:20:17] Client "Fade_hsky17" spawned in server <STEAM_0:1:130058272> (took 122 seconds).
+[00:20:21] Derp: um
+[00:20:31] Delightful: i reached the printer limit
+[00:20:36] Derp: uh
+[00:20:41] Derp: well um
+[00:20:46] Derp: u can still keep those if u want uh
+[00:20:52] Delightful: do you know what this means right
+[00:21:04] Derp: we can continue this another time i have to leave
+[00:21:08] Delightful: .............death.................
+[00:21:17] Delightful killed Derp using player
+[00:21:24] Bexgasm~: /spectate
+[00:21:24] Derp: DAMN IT I ALMOST TOOK UR BITCOIN
+[00:21:33] Delightful: // JAJAJAJAJAJAJAJA
+[00:21:48] DrDerpenstein: /y This is a mug drop 1k in 10sec or I paint the sidewalk with your brains...unless I can't mug- 10sec to GTFO or you all die
+[00:21:49] Dropped "Fade_hsky17" from server<STEAM_0:1:130058272>
+[00:22:05] DrDerpenstein killed Bexgasm~ using player
+[00:22:09] Derp: // i love it when people join and then walk in spawn for 5 seconds and then leave
+[00:22:21] DrDerpenstein: // they're grabbign content
+[00:22:32] Delightful: // they are look whoops wrong server
+[00:23:22] Delightful: http:
+[00:23:29] Delightful: // well ima goto bed so gn
+[00:23:35] DrDerpenstein: // later dude!
+[00:23:39] Bexgasm~: // no not yet
+[00:23:43] Bexgasm~: /advert raid
+[00:24:31] Derp: um
+[00:24:34] Bexgasm~ killed Delightful using player
+[00:24:42] Delightful: made it easy for you
+[00:24:47] Derp: ok
+[00:24:48] Delightful: // wat
+[00:24:54] Bexgasm~: // dis
+[00:24:57] Bexgasm~: // is a wobbewy
+[00:25:05] Derp: yeah we are getting somewhere
+[00:25:29] Dropped "Delightful" from server<STEAM_0:0:69143418>
+[00:25:40] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_c17/chair02a.mdl
+[00:25:44] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_c17/chair02a.mdl
+[00:25:54] Derp<STEAM_0:0:52504530> spawned/gave himself swep cw_shorty
+[00:26:04] Derp killed Bexgasm~ using player
+[00:26:11] Bexgasm~: /bring derp
+[00:26:34] Bexgasm~<STEAM_0:1:63382511> spawned/gave himself swep gas_log_scanner
+[00:27:07] Derp kicked Themself (RDM)
+[00:27:07] Dropped "Derp" from server<STEAM_0:0:52504530>
+[00:27:12] Bexgasm~: // Ez
+[00:27:33] Bexgasm~<STEAM_0:1:63382511> spawned/used swep weapon_rpg -=RESTRICTED=-
+[00:27:34] Bexgasm~<STEAM_0:1:63382511> spawned/gave himself swep weapon_shotgun
+[00:27:54] Bexgasm~<STEAM_0:1:63382511> spawned/gave himself swep weapon_crowbar
+[00:28:02] Bexgasm~<STEAM_0:1:63382511> spawned/gave himself swep weapon_bugbait
+[00:28:07] Bexgasm~<STEAM_0:1:63382511> spawned/gave himself swep weapon_crowbar
+[00:28:09] Bexgasm~<STEAM_0:1:63382511> spawned/gave himself swep weapon_stunstick
+[00:29:37] Bexgasm~<STEAM_0:1:63382511> spawned/used swep weapon_frag -=RESTRICTED=-
+[00:29:38] Bexgasm~<STEAM_0:1:63382511> spawned/gave himself swep weapon_physcannon
+[00:29:40] Bexgasm~<STEAM_0:1:63382511> spawned/gave himself swep weapon_crossbow
+[00:29:44] Bexgasm~<STEAM_0:1:63382511> spawned/gave himself swep weapon_ar2
+[00:29:49] Bexgasm~<STEAM_0:1:63382511> spawned/gave himself swep weapon_357
+[00:30:00] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_c17/furniturebathtub001a.mdl
+[00:30:05] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_c17/furniturebed001a.mdl
+[00:30:37] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_c17/furniturebed001a.mdl
+[00:30:49] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_c17/furniturebathtub001a.mdl
+[00:31:29] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_c17/furnituredrawer002a.mdl
+[00:31:37] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_c17/oildrum001.mdl
+[00:31:57] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_c17/oildrum001.mdl
+[00:32:21] Bexgasm~<STEAM_0:1:63382511> used the tool precision on models/props_c17/furniturebathtub001a.mdl
+[00:32:21] Bexgasm~<STEAM_0:1:63382511> used the tool precision on models/props_c17/furniturebathtub001a.mdl
+[00:32:22] Bexgasm~<STEAM_0:1:63382511> used the tool precision on models/props_c17/furniturebathtub001a.mdl
+[00:32:22] Bexgasm~<STEAM_0:1:63382511> used the tool precision on models/props_c17/furniturebathtub001a.mdl
+[00:32:22] Bexgasm~<STEAM_0:1:63382511> used the tool precision on models/props_c17/furniturebathtub001a.mdl
+[00:32:22] Bexgasm~<STEAM_0:1:63382511> used the tool precision on models/props_c17/furniturebathtub001a.mdl
+[00:32:22] Bexgasm~<STEAM_0:1:63382511> used the tool precision on models/props_c17/furniturebathtub001a.mdl
+[00:32:23] Bexgasm~<STEAM_0:1:63382511> used the tool precision on models/props_c17/furniturebathtub001a.mdl
+[00:32:23] Bexgasm~<STEAM_0:1:63382511> used the tool precision on models/props_c17/furniturebathtub001a.mdl
+[00:32:23] Bexgasm~<STEAM_0:1:63382511> used the tool precision on models/props_c17/furniturebathtub001a.mdl
+[00:32:23] Bexgasm~<STEAM_0:1:63382511> used the tool precision on models/props_c17/furniturebathtub001a.mdl
+[00:32:23] Bexgasm~<STEAM_0:1:63382511> used the tool precision on models/props_c17/furniturebathtub001a.mdl
+[00:32:23] Bexgasm~<STEAM_0:1:63382511> used the tool precision on models/props_c17/furniturebathtub001a.mdl
+[00:32:24] Bexgasm~<STEAM_0:1:63382511> used the tool precision on models/props_c17/furniturebathtub001a.mdl
+[00:32:24] Bexgasm~<STEAM_0:1:63382511> used the tool precision on models/props_c17/furniturebathtub001a.mdl
+[00:32:24] Bexgasm~<STEAM_0:1:63382511> used the tool precision on models/props_c17/furniturebathtub001a.mdl
+[00:32:24] Bexgasm~<STEAM_0:1:63382511> used the tool precision on models/props_c17/furniturebathtub001a.mdl
+[00:32:24] Bexgasm~<STEAM_0:1:63382511> used the tool precision on models/props_c17/furniturebathtub001a.mdl
+[00:32:31] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_c17/gravestone_cross001b.mdl
+[00:32:53] DrDerpenstein: !who
+[00:32:55] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_c17/metalladder002.mdl
+[00:33:00] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_c17/metalladder001.mdl
+[00:33:02] DrDerpenstein: /who
+[00:33:13] Bexgasm~: !who
+[00:33:14] Bexgasm~: /who
+[00:33:25] DrDerpenstein: !who
+[00:33:27] DrDerpenstein: !who
+[00:33:31] DrDerpenstein: !who
+[00:33:32] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_c17/metalladder001.mdl
+[00:33:39] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_c17/metalladder001.mdl
+[00:33:54] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_c17/metalladder001.mdl
+[00:34:26] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_c17/furniturestove001a.mdl
+[00:34:31] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_c17/furnituredrawer003a.mdl
+[00:35:38] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_c17/furnituredrawer003a.mdl
+[00:35:49] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_m249_official
+[00:36:02] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_c17/furniturestove001a.mdl
+[00:36:27] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_c17/furnitureradiator001a.mdl
+[00:36:30] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_c17/furniturefridge001a.mdl
+[00:38:47] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_c17/furnituredrawer001a_chunk01.mdl
+[00:38:57] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_c17/gravestone003a.mdl
+[00:39:01] Dropped "DrDerpenstein" from server<STEAM_0:0:13562763>
+[00:39:50] Dropped "Bexgasm~" from server<STEAM_0:1:63382511>
+[01:17:04] The Hitman suicided!
+[02:17:54] The Hitman suicided!
+[02:22:08] Dropped "The Hitman" from server<STEAM_0:1:83383015>
+[15:29:01] Client "DevL" connected.
+[15:32:46] Client "DevL" spawned in server <STEAM_0:0:97157625> (took 225 seconds).
+[15:55:40] Dropped "DevL" from server<STEAM_0:0:97157625>
+[16:50:03] Client "DevL" connected.
+[16:52:55] Client "DevL" spawned in server <STEAM_0:0:97157625> (took 172 seconds).
+[16:54:59] DevL: !motd
+[17:51:40] DevL suicided!
+[17:52:21] DevL<STEAM_0:0:97157625> spawned model models/props_c17/fence03a.mdl
+[17:52:23] DevL: !logs
+[17:52:37] DevL<STEAM_0:0:97157625> spawned model models/props_c17/furnituredrawer001a.mdl
+[17:54:37] DevL<STEAM_0:0:97157625> used the tool precision on models/zerochain/props_vendingmachine/zvm_machine.mdl
+[17:54:38] DevL<STEAM_0:0:97157625> used the tool precision on models/zerochain/props_vendingmachine/zvm_machine.mdl
+[17:54:38] DevL<STEAM_0:0:97157625> used the tool precision on models/zerochain/props_vendingmachine/zvm_machine.mdl
+[17:54:39] DevL<STEAM_0:0:97157625> used the tool precision on models/zerochain/props_vendingmachine/zvm_machine.mdl
+[17:54:39] DevL<STEAM_0:0:97157625> used the tool precision on models/zerochain/props_vendingmachine/zvm_machine.mdl
+[18:07:20] DevL<STEAM_0:0:97157625> used the tool precision on *243
+[18:07:26] DevL<STEAM_0:0:97157625> used the tool precision on *243
+[18:12:00] Client "mr. ethnic cleansing" connected.
+[18:12:50] Dropped "DevL" from server<STEAM_0:0:97157625>
+[18:14:48] Client "mr. ethnic cleansing" spawned in server <STEAM_0:1:162111164> (took 168 seconds).
+[18:21:27] Mr ethnic cleasing<STEAM_0:1:162111164> spawned model models/props_c17/gate_door02a.mdl
+[18:21:31] Mr ethnic cleasing<STEAM_0:1:162111164> spawned model models/props_c17/gravestone_coffinpiece001a.mdl
+[18:33:23] Dropped "Mr ethnic cleasing" from server<STEAM_0:1:162111164>
+[20:36:14] Client "mr. ethnic cleansing" connected.
+[20:38:41] Client "mr. ethnic cleansing" spawned in server <STEAM_0:1:162111164> (took 147 seconds).
+[20:48:42] Client "Sukebena-Chan" connected.
+[20:50:05] Client "carlton banks" connected.
+[20:52:13] Client "Sukebena-Chan" spawned in server <STEAM_0:1:63382511> (took 211 seconds).
+[20:52:58] Mr ethnic cleasing: /OOC HEY BEX
+[20:53:12] Client "carlton banks" spawned in server <STEAM_0:0:61782673> (took 187 seconds).
+[20:55:36] Bexgasm~: // Heya
+[20:55:55] Bexgasm~ killed carlton banks using player
+[20:56:28] Bexgasm~ killed Mr ethnic cleasing using player
+[20:58:32] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_c17/furniturebed001a.mdl
+[20:58:40] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_c17/furniturebed001a.mdl
+[20:58:43] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_c17/furniturestove001a.mdl
+[20:58:49] Mr ethnic cleasing<STEAM_0:1:162111164> spawned model models/props_c17/furnituredresser001a.mdl
+[20:58:51] Mr ethnic cleasing<STEAM_0:1:162111164> spawned model models/props_c17/furniturefireplace001a.mdl
+[20:58:55] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_junk/plasticcrate01a.mdl
+[20:58:55] Mr ethnic cleasing<STEAM_0:1:162111164> spawned model models/props_c17/fence01a.mdl
+[20:58:56] Mr ethnic cleasing<STEAM_0:1:162111164> spawned model models/props_c17/canister02a.mdl
+[20:58:59] Mr ethnic cleasing<STEAM_0:1:162111164> spawned model models/props_c17/fence01b.mdl
+[20:59:00] Mr ethnic cleasing<STEAM_0:1:162111164> spawned model models/props_c17/furniturechair001a.mdl
+[20:59:00] Mr ethnic cleasing<STEAM_0:1:162111164> spawned model models/props_c17/door02_double.mdl
+[20:59:01] Mr ethnic cleasing<STEAM_0:1:162111164> spawned model models/props_c17/door01_left.mdl
+[20:59:02] Mr ethnic cleasing<STEAM_0:1:162111164> spawned model models/props_c17/display_cooler01a.mdl
+[20:59:02] Mr ethnic cleasing<STEAM_0:1:162111164> spawned model models/props_c17/concrete_barrier001a.mdl
+[20:59:03] Mr ethnic cleasing<STEAM_0:1:162111164> spawned model models/props_borealis/borealis_door001a.mdl
+[20:59:03] Mr ethnic cleasing<STEAM_0:1:162111164> spawned model models/props_borealis/door_wheel001a.mdl
+[20:59:04] Mr ethnic cleasing<STEAM_0:1:162111164> spawned model models/props_c17/chair02a.mdl
+[20:59:05] Mr ethnic cleasing<STEAM_0:1:162111164> spawned model models/props_c17/bench01a.mdl
+[20:59:05] Mr ethnic cleasing<STEAM_0:1:162111164> spawned model models/props_borealis/mooring_cleat01.mdl
+[20:59:05] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_junk/plasticcrate01a.mdl
+[20:59:07] Mr ethnic cleasing<STEAM_0:1:162111164> spawned model models/props_c17/furnituredrawer001a_chunk06.mdl
+[20:59:08] Mr ethnic cleasing<STEAM_0:1:162111164> spawned model models/props_c17/furniturecouch001a.mdl
+[20:59:09] Mr ethnic cleasing<STEAM_0:1:162111164> spawned model models/props_c17/furniturecouch002a.mdl
+[20:59:09] Mr ethnic cleasing<STEAM_0:1:162111164> spawned model models/props_c17/furnituredrawer001a_chunk05.mdl
+[20:59:09] Mr ethnic cleasing<STEAM_0:1:162111164> spawned model models/props_junk/plasticcrate01a.mdl
+[20:59:10] Mr ethnic cleasing<STEAM_0:1:162111164> spawned model models/props_junk/plasticcrate01a.mdl
+[20:59:10] Mr ethnic cleasing<STEAM_0:1:162111164> spawned model models/props_c17/metalladder002.mdl
+[20:59:10] Mr ethnic cleasing<STEAM_0:1:162111164> spawned model models/props_c17/lockers001a.mdl
+[20:59:11] Mr ethnic cleasing<STEAM_0:1:162111164> spawned model models/props_c17/shelfunit01a.mdl
+[20:59:17] Mr ethnic cleasing<STEAM_0:1:162111164> spawned model models/props_combine/combine_barricade_short02a.mdl
+[20:59:19] Mr ethnic cleasing<STEAM_0:1:162111164> spawned model models/props_interiors/furniture_desk01a.mdl
+[20:59:20] Mr ethnic cleasing<STEAM_0:1:162111164> spawned model models/props_interiors/furniture_couch02a.mdl
+[20:59:20] Mr ethnic cleasing<STEAM_0:1:162111164> spawned model models/props_interiors/furniture_chair03a.mdl
+[20:59:20] Mr ethnic cleasing<STEAM_0:1:162111164> spawned model models/props_interiors/furniture_chair01a.mdl
+[20:59:21] Mr ethnic cleasing<STEAM_0:1:162111164> spawned model models/props_interiors/pot01a.mdl
+[20:59:22] Mr ethnic cleasing<STEAM_0:1:162111164> spawned model models/props_junk/metalbucket01a.mdl
+[20:59:25] Mr ethnic cleasing<STEAM_0:1:162111164> spawned model models/props_lab/blastdoor001a.mdl
+[20:59:25] Mr ethnic cleasing<STEAM_0:1:162111164> spawned model models/props_lab/blastdoor001b.mdl
+[20:59:26] Mr ethnic cleasing<STEAM_0:1:162111164> spawned model models/props_lab/blastdoor001c.mdl
+[20:59:42] Mr ethnic cleasing<STEAM_0:1:162111164> spawned model models/props_combine/breendesk.mdl
+[20:59:46] Mr ethnic cleasing<STEAM_0:1:162111164> spawned model models/props_combine/breendesk.mdl
+[20:59:48] Mr ethnic cleasing<STEAM_0:1:162111164> spawned model models/props_combine/breendesk.mdl
+[20:59:48] Mr ethnic cleasing<STEAM_0:1:162111164> spawned model models/props_combine/breendesk.mdl
+[20:59:48] Mr ethnic cleasing<STEAM_0:1:162111164> spawned model models/props_combine/breendesk.mdl
+[20:59:48] Mr ethnic cleasing<STEAM_0:1:162111164> spawned model models/props_combine/breendesk.mdl
+[20:59:49] Mr ethnic cleasing<STEAM_0:1:162111164> spawned model models/props_combine/breendesk.mdl
+[21:00:05] Mr ethnic cleasing<STEAM_0:1:162111164> spawned model models/props_combine/breendesk.mdl
+[21:01:18] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_junk/plasticcrate01a.mdl
+[21:01:46] carlton banks<STEAM_0:0:61782673> spawned model models/props_c17/furniturechair001a.mdl
+[21:01:48] carlton banks<STEAM_0:0:61782673> spawned model models/props_c17/furniturechair001a.mdl
+[21:01:50] carlton banks<STEAM_0:0:61782673> spawned model models/props_c17/furniturechair001a.mdl
+[21:01:53] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_junk/plasticcrate01a.mdl
+[21:01:54] carlton banks<STEAM_0:0:61782673> spawned model models/props_c17/furniturechair001a.mdl
+[21:01:54] carlton banks<STEAM_0:0:61782673> spawned model models/props_c17/furniturechair001a.mdl
+[21:01:55] carlton banks<STEAM_0:0:61782673> spawned model models/props_c17/furniturechair001a.mdl
+[21:01:55] carlton banks<STEAM_0:0:61782673> spawned model models/props_c17/furniturechair001a.mdl
+[21:01:55] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_c17/chair02a.mdl
+[21:01:55] carlton banks<STEAM_0:0:61782673> spawned model models/props_c17/furniturechair001a.mdl
+[21:01:55] carlton banks<STEAM_0:0:61782673> spawned model models/props_c17/furniturechair001a.mdl
+[21:02:04] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_junk/plasticcrate01a.mdl
+[21:02:41] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_c17/furniturestove001a.mdl
+[21:02:46] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_c17/gravestone002a.mdl
+[21:03:01] Bexgasm~<STEAM_0:1:63382511> used the tool textscreen on maps/rp_downtown_tits_v2.bsp
+[21:03:10] Bexgasm~<STEAM_0:1:63382511> used the tool textscreen on models/props_c17/gravestone002a.mdl
+[21:03:12] Bexgasm~<STEAM_0:1:63382511> used the tool textscreen on models/props_c17/gravestone002a.mdl
+[21:03:13] Bexgasm~<STEAM_0:1:63382511> used the tool textscreen on models/props_c17/gravestone002a.mdl
+[21:03:15] Bexgasm~<STEAM_0:1:63382511> used the tool textscreen on maps/rp_downtown_tits_v2.bsp
+[21:03:24] Bexgasm~<STEAM_0:1:63382511> used the tool textscreen on maps/rp_downtown_tits_v2.bsp
+[21:03:51] Bexgasm~<STEAM_0:1:63382511> used the tool textscreen on models/props_c17/gravestone002a.mdl
+[21:03:52] Bexgasm~<STEAM_0:1:63382511> used the tool textscreen on models/props_c17/gravestone002a.mdl
+[21:03:53] Bexgasm~<STEAM_0:1:63382511> used the tool textscreen on models/props_c17/gravestone002a.mdl
+[21:03:54] Bexgasm~<STEAM_0:1:63382511> used the tool textscreen on models/props_c17/gravestone002a.mdl
+[21:03:55] Bexgasm~<STEAM_0:1:63382511> used the tool textscreen on models/props_c17/gravestone002a.mdl
+[21:04:20] Bexgasm~<STEAM_0:1:63382511> used the tool permaprops on models/props_c17/gravestone002a.mdl
+[21:04:22] carlton banks<STEAM_0:0:61782673> used the tool textscreen on maps/rp_downtown_tits_v2.bsp
+[21:04:40] Bexgasm~<STEAM_0:1:63382511> used the tool permaprops on maps/rp_downtown_tits_v2.bsp
+[21:04:48] carlton banks<STEAM_0:0:61782673> used the tool textscreen on maps/rp_downtown_tits_v2.bsp
+[21:04:58] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_c17/furniturestove001a.mdl
+[21:05:02] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_combine/combine_window001.mdl
+[21:05:38] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_junk/cardboard_box001a.mdl
+[21:06:03] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_combine/combine_window001.mdl
+[21:06:06] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_combine/combine_window001.mdl
+[21:06:09] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_combine/combine_window001.mdl
+[21:06:11] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_combine/combine_window001.mdl
+[21:06:13] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_combine/combine_window001.mdl
+[21:06:15] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_combine/combine_window001.mdl
+[21:06:34] Client "b3ar" connected.
+[21:07:06] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_junk/cinderblock01a.mdl
+[21:07:20] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_c17/oildrum001.mdl
+[21:07:39] Client "b3ar" spawned in server <STEAM_0:1:80896282> (took 65 seconds).
+[21:08:51] Bexgasm~ killed carlton banks using weapon_fists
+[21:09:13] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:09:13] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:09:28] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:09:28] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:09:32] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:09:33] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:09:37] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/player/group01/female_01.mdl
+[21:09:40] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/player/group01/female_01.mdl
+[21:09:43] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:09:44] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:09:47] Bexgasm~<STEAM_0:1:63382511> used the tool material on maps/rp_downtown_tits_v2.bsp
+[21:09:47] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/player/corpse1.mdl
+[21:09:47] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/player/corpse1.mdl
+[21:09:49] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/player/corpse1.mdl
+[21:09:54] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:09:54] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:10:01] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/player/corpse1.mdl
+[21:10:02] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/player/corpse1.mdl
+[21:10:03] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/player/corpse1.mdl
+[21:10:04] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/player/corpse1.mdl
+[21:10:06] Bexgasm~<STEAM_0:1:63382511> used the tool material on maps/rp_downtown_tits_v2.bsp
+[21:10:06] Bexgasm~<STEAM_0:1:63382511> used the tool material on maps/rp_downtown_tits_v2.bsp
+[21:10:07] Bexgasm~<STEAM_0:1:63382511> used the tool material on maps/rp_downtown_tits_v2.bsp
+[21:10:08] Bexgasm~<STEAM_0:1:63382511> used the tool material on maps/rp_downtown_tits_v2.bsp
+[21:10:08] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/player/corpse1.mdl
+[21:10:08] Bexgasm~<STEAM_0:1:63382511> used the tool material on maps/rp_downtown_tits_v2.bsp
+[21:10:08] Bexgasm~<STEAM_0:1:63382511> used the tool material on maps/rp_downtown_tits_v2.bsp
+[21:10:09] Bexgasm~<STEAM_0:1:63382511> used the tool material on maps/rp_downtown_tits_v2.bsp
+[21:10:09] Bexgasm~<STEAM_0:1:63382511> used the tool material on maps/rp_downtown_tits_v2.bsp
+[21:10:09] Bexgasm~<STEAM_0:1:63382511> used the tool material on maps/rp_downtown_tits_v2.bsp
+[21:10:09] Bexgasm~<STEAM_0:1:63382511> used the tool material on maps/rp_downtown_tits_v2.bsp
+[21:10:09] Bexgasm~<STEAM_0:1:63382511> used the tool material on maps/rp_downtown_tits_v2.bsp
+[21:10:09] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/player/corpse1.mdl
+[21:10:09] Bexgasm~<STEAM_0:1:63382511> used the tool material on maps/rp_downtown_tits_v2.bsp
+[21:10:10] Bexgasm~<STEAM_0:1:63382511> used the tool material on maps/rp_downtown_tits_v2.bsp
+[21:10:12] b3ar<STEAM_0:1:80896282> spawned model models/hunter/blocks/cube3x8x025.mdl
+[21:10:22] Bexgasm~: !unbox
+[21:10:22] Bexgasm~ suicided!
+[21:10:42] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:10:42] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:10:44] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:10:45] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:10:47] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:10:47] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:10:48] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:10:48] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:10:50] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/player/corpse1.mdl
+[21:10:51] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:10:52] Bexgasm~<STEAM_0:1:63382511> used the tool material on maps/rp_downtown_tits_v2.bsp
+[21:10:52] Bexgasm~<STEAM_0:1:63382511> used the tool material on maps/rp_downtown_tits_v2.bsp
+[21:10:52] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/player/corpse1.mdl
+[21:10:52] Bexgasm~<STEAM_0:1:63382511> used the tool material on maps/rp_downtown_tits_v2.bsp
+[21:10:52] Bexgasm~<STEAM_0:1:63382511> used the tool material on maps/rp_downtown_tits_v2.bsp
+[21:10:52] Bexgasm~<STEAM_0:1:63382511> used the tool material on maps/rp_downtown_tits_v2.bsp
+[21:10:53] Bexgasm~<STEAM_0:1:63382511> used the tool material on maps/rp_downtown_tits_v2.bsp
+[21:10:53] Bexgasm~<STEAM_0:1:63382511> used the tool material on maps/rp_downtown_tits_v2.bsp
+[21:10:54] Bexgasm~<STEAM_0:1:63382511> used the tool material on maps/rp_downtown_tits_v2.bsp
+[21:10:54] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:10:55] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:11:02] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:11:02] Bexgasm~<STEAM_0:1:63382511> used the tool material on maps/rp_downtown_tits_v2.bsp
+[21:11:03] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:11:07] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/player/corpse1.mdl
+[21:11:14] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:11:15] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:11:19] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:11:19] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:11:21] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:11:22] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:11:44] Bexgasm~<STEAM_0:1:63382511> used the tool textscreen on maps/rp_downtown_tits_v2.bsp
+[21:11:54] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:11:55] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:11:57] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:11:57] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:11:59] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:12:00] Bexgasm~<STEAM_0:1:63382511> used the tool material on maps/rp_downtown_tits_v2.bsp
+[21:12:00] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:12:14] Dropped "b3ar" from server<STEAM_0:1:80896282>
+[21:12:21] Client "b3ar" connected.
+[21:12:34] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:12:34] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:12:36] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:12:36] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:12:38] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:12:39] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:12:40] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:12:40] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:12:41] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:12:41] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:12:43] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/player/corpse1.mdl
+[21:12:45] Bexgasm~<STEAM_0:1:63382511> used the tool material on maps/rp_downtown_tits_v2.bsp
+[21:12:45] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/player/corpse1.mdl
+[21:12:45] Bexgasm~<STEAM_0:1:63382511> used the tool material on maps/rp_downtown_tits_v2.bsp
+[21:12:46] Bexgasm~<STEAM_0:1:63382511> used the tool material on maps/rp_downtown_tits_v2.bsp
+[21:12:46] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:12:46] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:12:48] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:12:48] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:12:48] Client "b3ar" spawned in server <STEAM_0:1:80896282> (took 27 seconds).
+[21:12:49] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:12:49] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:12:51] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:12:51] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:12:55] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:12:55] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:12:56] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:12:56] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:12:59] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:12:59] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:12:59] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:13:01] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:13:02] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:13:03] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:13:03] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:13:09] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:13:09] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:13:12] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/player/corpse1.mdl
+[21:13:13] Bexgasm~<STEAM_0:1:63382511> used the tool material on maps/rp_downtown_tits_v2.bsp
+[21:13:14] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/player/corpse1.mdl
+[21:13:18] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:13:18] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:13:22] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:13:23] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:13:31] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:13:32] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:13:36] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:13:36] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:13:37] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:13:38] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:13:40] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:13:41] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:13:44] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:13:45] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:13:47] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:13:48] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:13:57] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:13:58] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:14:01] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:14:02] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:14:06] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/props_c17/door01_left.mdl
+[21:14:09] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/props_c17/door01_left.mdl
+[21:14:09] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/props_c17/door01_left.mdl
+[21:14:11] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/props_c17/door01_left.mdl
+[21:14:11] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/props_c17/door01_left.mdl
+[21:14:13] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/props_c17/door01_left.mdl
+[21:14:14] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/player/corpse1.mdl
+[21:14:16] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/props_c17/door01_left.mdl
+[21:14:17] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/props_c17/door01_left.mdl
+[21:14:21] Bexgasm~<STEAM_0:1:63382511> used the tool colour on maps/rp_downtown_tits_v2.bsp
+[21:14:21] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/props_c17/door01_left.mdl
+[21:14:22] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/props_c17/door01_left.mdl
+[21:14:24] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/props_c17/door01_left.mdl
+[21:14:25] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/props_c17/door01_left.mdl
+[21:14:26] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/player/corpse1.mdl
+[21:14:26] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/props_c17/door01_left.mdl
+[21:14:28] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/props_c17/door01_left.mdl
+[21:14:29] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/props_c17/door01_left.mdl
+[21:14:30] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/props_c17/door01_left.mdl
+[21:14:31] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/player/corpse1.mdl
+[21:14:31] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/player/corpse1.mdl
+[21:14:31] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/player/corpse1.mdl
+[21:14:33] Bexgasm~<STEAM_0:1:63382511> used the tool camera on maps/rp_downtown_tits_v2.bsp
+[21:14:45] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/player/corpse1.mdl
+[21:14:46] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/player/corpse1.mdl
+[21:14:48] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/player/corpse1.mdl
+[21:14:49] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/player/corpse1.mdl
+[21:14:52] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/player/corpse1.mdl
+[21:14:53] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/player/corpse1.mdl
+[21:14:58] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/player/corpse1.mdl
+[21:15:00] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/player/corpse1.mdl
+[21:15:00] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:15:01] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:15:04] Bexgasm~<STEAM_0:1:63382511> used the tool material on maps/rp_downtown_tits_v2.bsp
+[21:15:04] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/player/corpse1.mdl
+[21:15:10] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:15:10] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:15:15] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:15:16] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:15:21] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/props_c17/door01_left.mdl
+[21:15:22] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/props_c17/door01_left.mdl
+[21:15:25] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/props_c17/door01_left.mdl
+[21:15:25] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/props_c17/door01_left.mdl
+[21:15:33] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/props_c17/door01_left.mdl
+[21:15:33] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/props_c17/door01_left.mdl
+[21:15:38] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/props_c17/door01_left.mdl
+[21:15:39] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/props_c17/door01_left.mdl
+[21:15:46] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:15:47] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:15:48] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:15:49] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:15:50] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:15:51] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:15:52] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:15:53] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:15:54] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:15:55] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:15:56] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:15:57] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:16:01] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:16:02] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:16:03] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:16:04] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:16:05] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:16:06] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:16:07] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:16:09] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:16:10] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:16:11] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:16:12] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:16:15] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:16:17] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:16:19] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:16:19] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:16:20] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:16:20] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:16:25] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/props_c17/door01_left.mdl
+[21:16:25] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/props_c17/door01_left.mdl
+[21:16:25] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/props_c17/door01_left.mdl
+[21:16:26] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/props_c17/door01_left.mdl
+[21:16:27] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/props_c17/door01_left.mdl
+[21:16:28] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/props_c17/door01_left.mdl
+[21:16:30] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/props_c17/door01_left.mdl
+[21:16:30] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/props_c17/door01_left.mdl
+[21:16:51] Bexgasm~<STEAM_0:1:63382511> used the tool textscreen on maps/rp_downtown_tits_v2.bsp
+[21:16:54] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:16:55] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:16:56] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:16:58] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:16:59] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:17:00] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:17:01] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:17:03] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:17:04] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/player/corpse1.mdl
+[21:17:09] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/player/corpse1.mdl
+[21:17:10] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/player/corpse1.mdl
+[21:17:13] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/player/corpse1.mdl
+[21:17:16] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/player/corpse1.mdl
+[21:17:22] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/player/corpse1.mdl
+[21:17:25] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/player/corpse1.mdl
+[21:17:30] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/player/corpse1.mdl
+[21:17:33] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/player/corpse1.mdl
+[21:17:35] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/player/corpse1.mdl
+[21:17:38] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/player/corpse1.mdl
+[21:17:39] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/props_c17/door01_left.mdl
+[21:17:40] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/props_c17/door01_left.mdl
+[21:17:40] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/props_c17/door01_left.mdl
+[21:17:46] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/player/corpse1.mdl
+[21:17:51] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/player/corpse1.mdl
+[21:17:53] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/player/corpse1.mdl
+[21:17:55] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/player/corpse1.mdl
+[21:17:56] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/player/corpse1.mdl
+[21:17:57] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/player/corpse1.mdl
+[21:17:58] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/player/corpse1.mdl
+[21:17:59] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/player/corpse1.mdl
+[21:18:00] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/player/corpse1.mdl
+[21:18:03] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/player/corpse1.mdl
+[21:18:06] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/player/corpse1.mdl
+[21:18:08] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/player/corpse1.mdl
+[21:18:16] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/player/corpse1.mdl
+[21:18:18] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/player/corpse1.mdl
+[21:18:20] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/player/corpse1.mdl
+[21:18:21] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/player/corpse1.mdl
+[21:18:23] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/player/corpse1.mdl
+[21:18:25] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/player/corpse1.mdl
+[21:18:31] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:18:33] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:18:35] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/props_c17/door01_left.mdl
+[21:18:38] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:18:38] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:18:41] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:18:41] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:18:42] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:18:42] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:18:44] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:18:44] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:18:46] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:18:46] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:18:47] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:18:47] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:18:49] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:18:49] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:18:50] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:18:50] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:18:52] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:18:52] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:18:54] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:18:54] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:18:57] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:18:58] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:18:58] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:18:59] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:19:00] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:19:01] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:19:01] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:19:02] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:19:02] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:19:04] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:19:04] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:19:05] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:19:05] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:19:07] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:19:07] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:19:08] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:19:08] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:19:09] Bexgasm~<STEAM_0:1:63382511> used the tool material on maps/rp_downtown_tits_v2.bsp
+[21:19:10] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:19:10] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:19:11] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:19:12] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:19:13] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:19:13] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:19:14] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:19:14] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:19:15] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:19:16] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:19:18] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:19:18] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:19:19] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:19:19] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:19:20] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:19:21] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:19:24] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:19:24] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:19:37] Bexgasm~ killed carlton banks using weapon_fists
+[21:19:40] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:19:41] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:19:42] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:19:43] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:19:44] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:19:45] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:19:47] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:19:56] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:19:57] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:20:41] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:20:43] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:20:53] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/props_c17/door01_left.mdl
+[21:20:53] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/props_c17/door01_left.mdl
+[21:20:54] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/props_c17/door01_left.mdl
+[21:20:55] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/props_c17/door01_left.mdl
+[21:20:57] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/props_c17/door01_left.mdl
+[21:20:58] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/props_c17/door01_left.mdl
+[21:20:59] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/props_c17/door01_left.mdl
+[21:20:59] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/props_c17/door01_left.mdl
+[21:21:11] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:21:12] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:21:13] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:21:14] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:21:15] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:21:16] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:21:16] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:21:17] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:21:18] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:21:19] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:21:20] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:21:20] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:21:21] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:21:25] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:21:27] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:21:39] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:21:40] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:21:41] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:21:43] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:21:45] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:21:48] Bexgasm~<STEAM_0:1:63382511> used the tool colour on maps/rp_downtown_tits_v2.bsp
+[21:21:49] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/props_c17/door01_left.mdl
+[21:21:51] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/props_c17/door01_left.mdl
+[21:22:05] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:22:07] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:22:08] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:22:11] Bexgasm~<STEAM_0:1:63382511> used the tool material on maps/rp_downtown_tits_v2.bsp
+[21:22:11] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:22:12] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:22:13] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:22:15] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:22:18] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:22:22] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:22:23] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:22:25] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:22:30] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:22:31] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:22:35] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/props_c17/door01_left.mdl
+[21:22:36] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/props_c17/door01_left.mdl
+[21:22:36] b3ar: /ignite carl
+[21:22:37] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/props_c17/door01_left.mdl
+[21:22:38] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/props_c17/door01_left.mdl
+[21:22:40] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/props_c17/door01_left.mdl
+[21:22:41] Bexgasm~<STEAM_0:1:63382511> used the tool colour on models/props_c17/door01_left.mdl
+[21:22:52] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_junk/plasticcrate01a.mdl
+[21:22:58] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_junk/plasticcrate01a.mdl
+[21:23:05] b3ar: /jail car
+[21:23:18] b3ar: /unjail car
+[21:23:24] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_junk/plasticcrate01a.mdl
+[21:24:14] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_junk/trashdumpster01a.mdl
+[21:24:16] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_junk/trashdumpster02b.mdl
+[21:24:16] Dropped "b3ar" from server<STEAM_0:1:80896282>
+[21:24:23] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_lab/lockerdoorleft.mdl
+[21:24:30] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_lab/kennel_physics.mdl
+[21:25:09] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_trainstation/bench_indoor001a.mdl
+[21:25:20] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_trainstation/benchoutdoor01a.mdl
+[21:25:26] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_trainstation/tracksign02.mdl
+[21:26:07] Bexgasm~ killed carlton banks using player
+[21:26:30] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_junk/cinderblock01a.mdl
+[21:26:39] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_c17/oildrum001.mdl
+[21:26:45] Bexgasm~<STEAM_0:1:63382511> used the tool fading_door on models/props_c17/oildrum001.mdl
+[21:27:06] Bexgasm~ killed carlton banks using weapon_fists
+[21:27:10] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_combine/breenglobe.mdl
+[21:27:11] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_combine/combine_barricade_short02a.mdl
+[21:27:16] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_combine/combine_barricade_short02a.mdl
+[21:27:22] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_junk/cinderblock01a.mdl
+[21:27:25] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_junk/cinderblock01a.mdl
+[21:27:27] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_junk/cinderblock01a.mdl
+[21:27:29] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_junk/cinderblock01a.mdl
+[21:27:59] Bexgasm~<STEAM_0:1:63382511> spawned/gave himself swep weapon_gpee
+[21:28:11] Bexgasm~<STEAM_0:1:63382511> spawned/gave himself swep weapon_cuff_rope
+[21:28:14] Bexgasm~<STEAM_0:1:63382511> spawned/gave himself swep weapon_cuff_police
+[21:28:20] carlton banks killed Bexgasm~ using player
+[21:28:26] Bexgasm~ killed carlton banks using weapon_fists
+[21:30:35] Client "b3ar" connected.
+[21:30:39] Bexgasm~ killed carlton banks using player
+[21:30:55] Bexgasm~<STEAM_0:1:63382511> spawned model models/hunter/blocks/cube1x150x1.mdl
+[21:31:00] Bexgasm~: /spectate
+[21:31:04] Bexgasm~: /spectate
+[21:31:11] Bexgasm~: /spectate
+[21:31:24] Client "b3ar" spawned in server <STEAM_0:1:80896282> (took 49 seconds).
+[21:31:27] Bexgasm~<STEAM_0:1:63382511> used the tool stacker_improved on models/hunter/blocks/cube1x150x1.mdl
+[21:31:27] Bexgasm~<STEAM_0:1:63382511> spawned model models/hunter/blocks/cube1x150x1.mdl
+[21:31:27] Bexgasm~<STEAM_0:1:63382511> used the tool stacker_improved on models/hunter/blocks/cube1x150x1.mdl
+[21:31:28] Bexgasm~<STEAM_0:1:63382511> used the tool stacker_improved on models/hunter/blocks/cube1x150x1.mdl
+[21:31:28] Bexgasm~<STEAM_0:1:63382511> spawned model models/hunter/blocks/cube1x150x1.mdl
+[21:31:30] Bexgasm~<STEAM_0:1:63382511> used the tool stacker_improved on models/hunter/blocks/cube1x150x1.mdl
+[21:31:30] Bexgasm~<STEAM_0:1:63382511> spawned model models/hunter/blocks/cube1x150x1.mdl
+[21:31:37] Bexgasm~<STEAM_0:1:63382511> used the tool stacker_improved on models/hunter/blocks/cube1x150x1.mdl
+[21:31:37] Bexgasm~<STEAM_0:1:63382511> spawned model models/hunter/blocks/cube1x150x1.mdl
+[21:31:39] Bexgasm~: /spectate
+[21:31:48] carlton banks killed Bexgasm~ using player
+[21:31:55] Client "Fucking Bugger" connected.
+[21:31:56] Bexgasm~ killed carlton banks using player
+[21:32:02] Bexgasm~: /spectate
+[21:32:08] Bexgasm~: /spectate
+[21:32:21] Bexgasm~ killed carlton banks using player
+[21:32:33] Bexgasm~ killed carlton banks using player
+[21:32:38] Bexgasm~<STEAM_0:1:63382511> spawned model models/hunter/blocks/cube1x150x1.mdl
+[21:32:41] Bexgasm~ killed carlton banks using player
+[21:32:49] Bexgasm~ killed carlton banks using player
+[21:33:08] Bexgasm~ killed carlton banks using player
+[21:33:26] Bexgasm~ killed carlton banks using player
+[21:33:30] b3ar: /jail bex
+[21:33:39] b3ar<STEAM_0:1:80896282> spawned model models/props_lab/blastdoor001c.mdl
+[21:33:41] b3ar<STEAM_0:1:80896282> spawned model models/props_lab/blastdoor001c.mdl
+[21:33:55] Bexgasm~ killed carlton banks using player
+[21:34:04] Bexgasm~ killed carlton banks using player
+[21:34:14] b3ar: /goto mr
+[21:34:25] Bexgasm~: /spectate
+[21:34:30] Bexgasm~: /spectate
+[21:34:32] Bexgasm~ killed carlton banks using player
+[21:34:40] Bexgasm~: /spectate
+[21:34:49] Bexgasm~ killed carlton banks using player
+[21:34:56] Bexgasm~: !jail @ 0
+[21:34:57] Bexgasm~<STEAM_0:1:63382511> used the tool camera on maps/rp_downtown_tits_v2.bsp
+[21:35:00] Client "Fucking Bugger" spawned in server <STEAM_0:1:98908611> (took 185 seconds).
+[21:35:06] Bexgasm~<STEAM_0:1:63382511> used the tool camera on maps/rp_downtown_tits_v2.bsp
+[21:35:16] Bexgasm~: /spectate
+[21:35:21] Bexgasm~: /spectate
+[21:35:39] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:35:39] Bexgasm~<STEAM_0:1:63382511> used the tool material on models/props_c17/door01_left.mdl
+[21:35:39] carlton banks killed Bexgasm~ using player
+[21:35:48] Bexgasm~ killed carlton banks using player
+[21:35:59] Fucking Bugger: /me salutes
+[21:36:03] Fucking Bugger: !mennu
+[21:36:08] Fucking Bugger: !menu
+[21:36:29] Fucking Bugger to Bexgasm~: message
+[21:36:35] Bexgasm~: /pm fucking Yes?
+[21:36:45] b3ar: /goto mr
+[21:36:48] Fucking Bugger: misclick
+[21:36:51] Bexgasm~: // same
+[21:37:06] Bexgasm~<STEAM_0:1:63382511> spawned/gave himself swep weapon_gpee
+[21:37:11] Mr ethnic cleasing: /ooc ( ͡° ͜ʖ ͡°)
+[21:37:12] Mr ethnic cleasing: /advert  BACK OFF MY PRECIOUS BODY OR YOU GONNA GET SHOT (Warning 1/2/3)
+[21:37:13] Mr ethnic cleasing: /advert  BACK OFF MY PRECIOUS BODY OR YOU GONNA GET SHOT (Warning 1/2/3)
+[21:37:14] Mr ethnic cleasing: /advert  BACK OFF MY PRECIOUS BODY OR YOU GONNA GET SHOT (Warning 1/2/3)
+[21:37:23] carlton banks killed Bexgasm~ using player
+[21:37:26] Mr ethnic cleasing killed b3ar using player
+[21:37:37] Fucking Bugger: Why is this servers on my favorites XD
+[21:37:38] carlton banks killed Bexgasm~ using player
+[21:37:52] Fucking Bugger: Yea
+[21:37:54] Bexgasm~ killed carlton banks using player
+[21:37:56] Fucking Bugger: /me Strips of weapons and comms
+[21:38:02] Fucking Bugger: But I only have 25k
+[21:38:09] Bexgasm~: /spectate
+[21:38:17] Bexgasm~: /spectate
+[21:38:22] Bexgasm~: /spectate
+[21:38:25] carlton banks killed Bexgasm~ using player
+[21:38:39] Bexgasm~ killed carlton banks using player
+[21:38:51] Bexgasm~: /spectate
+[21:38:57] Fucking Bugger: // Holy shit I have alot of guns in my inv
+[21:39:01] Bexgasm~: // yuh
+[21:39:05] b3ar: /ooc lol
+[21:39:08] Bexgasm~ killed carlton banks using player
+[21:39:16] Bexgasm~: /spectate
+[21:39:37] Bexgasm~<STEAM_0:1:63382511> spawned model models/hunter/blocks/cube1x150x1.mdl
+[21:39:41] Bexgasm~ killed carlton banks using player
+[21:39:54] Bexgasm~: /spectate
+[21:39:58] Bexgasm~<STEAM_0:1:63382511> used the tool stacker_improved on models/hunter/blocks/cube1x150x1.mdl
+[21:39:58] Bexgasm~<STEAM_0:1:63382511> spawned model models/hunter/blocks/cube1x150x1.mdl
+[21:40:03] Bexgasm~: /spectate
+[21:40:18] Bexgasm~: /spectate
+[21:40:26] Bexgasm~ killed carlton banks using weapon_fists
+[21:40:34] Bexgasm~: /spectate
+[21:40:40] Bexgasm~: /spectate
+[21:40:49] Bexgasm~: /spectate
+[21:40:58] Bexgasm~: /spectate
+[21:41:15] carlton banks killed Bexgasm~ using player
+[21:41:22] Bexgasm~ killed carlton banks using player
+[21:41:22] b3ar<STEAM_0:1:80896282> spawned model models/props_junk/glassjug01.mdl
+[21:41:22] b3ar<STEAM_0:1:80896282> spawned model models/props_junk/glassjug01.mdl
+[21:41:22] b3ar<STEAM_0:1:80896282> spawned model models/props_junk/glassjug01.mdl
+[21:41:23] b3ar<STEAM_0:1:80896282> spawned model models/props_junk/glassjug01.mdl
+[21:41:23] b3ar<STEAM_0:1:80896282> spawned model models/props_junk/glassjug01.mdl
+[21:41:23] b3ar<STEAM_0:1:80896282> spawned model models/props_junk/glassjug01.mdl
+[21:41:23] b3ar<STEAM_0:1:80896282> spawned model models/props_junk/glassjug01.mdl
+[21:41:23] b3ar<STEAM_0:1:80896282> spawned model models/props_junk/glassjug01.mdl
+[21:41:24] b3ar<STEAM_0:1:80896282> spawned model models/props_junk/glassjug01.mdl
+[21:41:24] b3ar<STEAM_0:1:80896282> spawned model models/props_junk/glassjug01.mdl
+[21:41:24] b3ar<STEAM_0:1:80896282> spawned model models/props_junk/glassjug01.mdl
+[21:41:27] b3ar<STEAM_0:1:80896282> spawned model models/props_junk/glassjug01.mdl
+[21:41:27] b3ar<STEAM_0:1:80896282> spawned model models/props_junk/glassjug01.mdl
+[21:41:27] b3ar<STEAM_0:1:80896282> spawned model models/props_junk/glassjug01.mdl
+[21:41:27] b3ar<STEAM_0:1:80896282> spawned model models/props_junk/glassjug01.mdl
+[21:41:28] b3ar<STEAM_0:1:80896282> spawned model models/props_junk/glassjug01.mdl
+[21:41:28] b3ar<STEAM_0:1:80896282> spawned model models/props_junk/glassjug01.mdl
+[21:41:28] b3ar<STEAM_0:1:80896282> spawned model models/props_junk/glassjug01.mdl
+[21:41:28] b3ar<STEAM_0:1:80896282> spawned model models/props_junk/glassjug01.mdl
+[21:41:29] b3ar<STEAM_0:1:80896282> spawned model models/props_junk/glassjug01.mdl
+[21:41:29] b3ar<STEAM_0:1:80896282> spawned model models/props_junk/glassjug01.mdl
+[21:41:29] b3ar<STEAM_0:1:80896282> spawned model models/props_junk/glassjug01.mdl
+[21:41:29] b3ar<STEAM_0:1:80896282> spawned model models/props_junk/glassjug01.mdl
+[21:41:30] b3ar<STEAM_0:1:80896282> spawned model models/props_junk/glassjug01.mdl
+[21:41:30] b3ar<STEAM_0:1:80896282> spawned model models/props_junk/glassjug01.mdl
+[21:41:30] b3ar<STEAM_0:1:80896282> spawned model models/props_junk/glassjug01.mdl
+[21:41:30] b3ar<STEAM_0:1:80896282> spawned model models/props_junk/glassjug01.mdl
+[21:41:31] b3ar<STEAM_0:1:80896282> spawned model models/props_junk/glassjug01.mdl
+[21:41:31] b3ar<STEAM_0:1:80896282> spawned model models/props_junk/glassjug01.mdl
+[21:41:31] Bexgasm~<STEAM_0:1:63382511> used the tool precision on models/hunter/blocks/cube1x150x1.mdl
+[21:41:31] Bexgasm~<STEAM_0:1:63382511> used the tool precision on models/hunter/blocks/cube1x150x1.mdl
+[21:41:37] carlton banks<STEAM_0:0:61782673> used the tool textscreen on maps/rp_downtown_tits_v2.bsp
+[21:41:58] Bexgasm~<STEAM_0:1:63382511> used the tool stacker_improved on models/hunter/blocks/cube1x150x1.mdl
+[21:41:58] Bexgasm~<STEAM_0:1:63382511> spawned model models/hunter/blocks/cube1x150x1.mdl
+[21:42:03] Bexgasm~<STEAM_0:1:63382511> used the tool stacker_improved on models/hunter/blocks/cube1x150x1.mdl
+[21:42:03] Bexgasm~<STEAM_0:1:63382511> spawned model models/hunter/blocks/cube1x150x1.mdl
+[21:42:07] Bexgasm~<STEAM_0:1:63382511> used the tool precision on models/hunter/blocks/cube1x150x1.mdl
+[21:42:07] Bexgasm~<STEAM_0:1:63382511> used the tool precision on models/hunter/blocks/cube1x150x1.mdl
+[21:42:07] Bexgasm~<STEAM_0:1:63382511> used the tool precision on models/hunter/blocks/cube1x150x1.mdl
+[21:42:07] Bexgasm~<STEAM_0:1:63382511> used the tool precision on models/hunter/blocks/cube1x150x1.mdl
+[21:42:09] carlton banks killed Bexgasm~ using player
+[21:42:14] b3ar: /ooc there is not free space for my vehicel
+[21:42:23] Bexgasm~ killed carlton banks using weapon_fists
+[21:42:26] b3ar: /ooc b*tch !
+[21:42:28] Bexgasm~: !unbox
+[21:42:28] Bexgasm~ suicided!
+[21:42:30] Fucking Bugger: // I dont have money for my vehicle
+[21:42:35] Bexgasm~ killed carlton banks using player
+[21:42:41] Bexgasm~<STEAM_0:1:63382511> spawned model models/hunter/blocks/cube1x2x1.mdl
+[21:43:01] Bexgasm~ killed carlton banks using player
+[21:43:11] b3ar: /unchatmute mr
+[21:43:14] Bexgasm~: /spectate
+[21:43:23] carlton banks killed Bexgasm~ using player
+[21:43:29] Bexgasm~ killed carlton banks using player
+[21:43:36] b3ar: /bring be
+[21:45:02] Bexgasm~<STEAM_0:1:63382511> spawned vehicle models/sligwolf/motorbike/motorbike.mdl
+[21:45:41] Bexgasm~ killed carlton banks using player
+[21:45:43] Bexgasm~ suicided!
+[21:45:50] b3ar<STEAM_0:1:80896282> spawned vehicle models/sligwolf/tractor/tractor.mdl
+[21:46:09] b3ar: /goto mr
+[21:46:13] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_c17/playgroundslide01.mdl
+[21:46:46] Mr ethnic cleasing: T
+[21:46:54] Mr ethnic cleasing killed b3ar using player
+[21:46:59] Bexgasm~: /spectate
+[21:47:41] Bexgasm~<STEAM_0:1:63382511> spawned vehicle models/sligwolf/tractor/tractor_trailer.mdl
+[21:49:33] carlton banks: /agenda devL kos
+[21:49:46] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_c17/doll01.mdl
+[21:49:48] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_c17/doll01.mdl
+[21:49:49] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_c17/doll01.mdl
+[21:49:49] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_c17/doll01.mdl
+[21:49:50] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_c17/doll01.mdl
+[21:49:51] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_c17/doll01.mdl
+[21:49:51] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_c17/doll01.mdl
+[21:49:51] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_c17/doll01.mdl
+[21:49:52] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_c17/doll01.mdl
+[21:49:52] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_c17/doll01.mdl
+[21:49:52] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_c17/doll01.mdl
+[21:49:53] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_c17/doll01.mdl
+[21:49:53] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_c17/doll01.mdl
+[21:49:53] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_c17/doll01.mdl
+[21:50:16] b3ar: /goto fucking
+[21:50:34] b3ar killed Bexgasm~ using player
+[21:50:50] b3ar killed carlton banks using player
+[21:50:56] carlton banks: @rdm
+[21:50:56] carlton banks to admins: rdm
+[21:51:11] b3ar: /goto carlton
+[21:51:36] Bexgasm~<STEAM_0:1:63382511> spawned/gave himself swep gas_log_scanner
+[21:51:43] b3ar: /jail b3ar
+[21:51:53] Bexgasm~: /setteam carlton mayor
+[21:52:07] Fucking Bugger<STEAM_0:1:98908611> used the tool camera on maps/rp_downtown_tits_v2.bsp
+[21:52:18] carlton banks: // if i die this time youre all gay for real real
+[21:52:30] Bexgasm~: /advert raid
+[21:52:32] Bexgasm~ killed carlton banks using player
+[21:52:37] carlton banks: // well
+[21:52:43] Fucking Bugger: On who tf
+[21:52:44] carlton banks: // i guess youre all gay 
+[21:52:50] Bexgasm~: // no you no reflections
+[21:53:00] b3ar: /unjail
+[21:53:05] Fucking Bugger<STEAM_0:1:98908611> used the tool camera on maps/rp_downtown_tits_v2.bsp
+[21:53:06] (TEAM) b3ar: /unjail b3ar
+[21:53:46] b3ar suicided!
+[21:53:48] Bexgasm~: /advert over
+[21:54:41] Bexgasm~: /job Dentist
+[21:55:36] Bexgasm~: !menu
+[21:55:42] b3ar: /job owner
+[21:55:59] Bexgasm~: /setteam carl hobo
+[21:56:01] Fucking Bugger: /job The (Real) Owner On Duty
+[21:56:02] b3ar: /job Derp The Owner
+[21:56:07] Bexgasm~: // Stop
+[21:56:11] Bexgasm~: /setteam b3ar hobo
+[21:56:14] Bexgasm~: /setteam burger hobo
+[21:56:25] Bexgasm~: /setteam fucking hobo
+[21:56:28] b3ar: /job Joe M.
+[21:56:34] Fucking Bugger: // You need to refund all my guns now
+[21:56:34] Bexgasm~: // Don't set yo job to impersonate
+[21:56:43] Bexgasm~: // How much
+[21:56:58] Mr ethnic cleasing suicided!
+[21:56:59] Fucking Bugger: // Lemme check gun prices 
+[21:57:07] Bexgasm~: // I'm not refunding since you were impersonating staff.
+[21:57:20] b3ar: /ooc gay ^'
+[21:57:28] Fucking Bugger: // If only you could take a joke like u can take a dick
+[21:57:39] b3ar: /ooc 0_0
+[21:57:39] Bexgasm~: !mute fucking Direspect against staff
+[21:57:39] Bexgasm~ muted Fucking Bugger
+[21:57:46] Bexgasm~: // You're muted for 5 minutes for disrespect
+[21:57:52] b3ar: /ooc that doesnt deserve mute lmao
+[21:57:53] Fucking Bugger: !menu
+[21:57:56] Mr ethnic cleasing: /OOC THATS ADMIN DISRESPECT
+[21:57:57] Bexgasm~: // Derp told me to.
+[21:57:59] b3ar: /ooc dude come one 
+[21:58:04] Bexgasm~: // And yes, he broke two rules
+[21:58:05] b3ar: /ooc one dis ?
+[21:58:15] Fucking Bugger to admins: Weird flex but ok
+[21:58:16] b3ar: /ooc cant even warn him bro
+[21:58:17] Bexgasm~: // Its disrespect
+[21:58:22] Mr ethnic cleasing: /advert raid
+[21:58:22] b3ar: /ooc that drives away players
+[21:58:23] Mr ethnic cleasing: /advert raid
+[21:58:24] Mr ethnic cleasing: /advert  BACK OFF MY PRECIOUS BODY OR YOU GONNA GET SHOT (Warning 1/2/3)
+[21:58:26] Mr ethnic cleasing: /advert  BACK OFF MY PRECIOUS BODY OR YOU GONNA GET SHOT (Warning 1/2/3)
+[21:58:27] Mr ethnic cleasing: /advert  BACK OFF MY PRECIOUS BODY OR YOU GONNA GET SHOT (Warning 1/2/3)
+[21:58:29] Bexgasm~: // No, derp told me to mute, then kick, then ban 24 hours
+[21:58:32] b3ar: /goto fucking
+[21:58:46] b3ar: /unchatmute fucking
+[21:58:51] Fucking Bugger: neat
+[21:59:00] Bexgasm~: // B3ar please stop inferveining with punishments
+[21:59:04] Bexgasm~: !mute burger
+[21:59:07] Fucking Bugger: !menu
+[21:59:10] Bexgasm~: !mute bugger 
+[21:59:10] Bexgasm~ muted Fucking Bugger
+[21:59:15] b3ar: /ooc dude
+[21:59:24] Bexgasm~: // Bear its legit in the rules
+[21:59:25] Fucking Bugger to admins: Lmao one of you is using FAdmin and one of you is using ULX
+[21:59:41] b3ar: /ooc he didnt even say anything bad lmao
+[22:00:01] Bexgasm~: // If he wants to get a unmute within 5 minutes he can ask on the forum.
+[22:00:05] b3ar: /unchatmute fucking
+[22:00:09] Bexgasm~: !mute bugger
+[22:00:09] Bexgasm~ muted Fucking Bugger
+[22:00:11] b3ar: /ooc warn him
+[22:00:15] b3ar: /ooc verbally 
+[22:00:23] b3ar: /ooc stop being dumb
+[22:00:26] Bexgasm~: // B3ar if you intervein with the punishment again im going to have to kick you.
+[22:00:31] Bexgasm~: // Just leave him alone and let him take his warn
+[22:00:36] Bexgasm~: // People usually complain when they get warns
+[22:00:39] Fucking Bugger: @Again bear is using FAdmin, and bex is using ULX, so bear isnt intevening 
+[22:00:39] Fucking Bugger to admins: Again bear is using FAdmin, and bex is using ULX, so bear isnt intevening
+[22:00:48] b3ar: /ooc you havent warned him lmao
+[22:00:54] b3ar: /ooc verbally warn him 
+[22:01:06] b3ar: /ooc he didnt say anything bad lmao
+[22:01:13] Fucking Bugger: @ by the time you two stop bickering, the mute will be over anyways
+[22:01:13] Fucking Bugger to admins: by the time you two stop bickering, the mute will be over anyways
+[22:01:17] Bexgasm~: // You can check logs, it was admin disrepsect.
+[22:01:28] Bexgasm~: // as well as player disrespect
+[22:01:29] b3ar: /ooc if thats whats gonna make you punish someone then you have a short fuse
+[22:01:36] Client "Delightful" connected.
+[22:01:36] Client "The Hitman" connected.
+[22:01:37] b3ar: /ooc shits gay af
+[22:01:39] Fucking Bugger: !menu
+[22:01:42] Bexgasm~: // If he wants to appeal his mute then he can go on the forums
+[22:01:48] b3ar: /goto fucking
+[22:01:58] Bexgasm~: /spectate
+[22:02:12] Fucking Bugger to admins: Yes 
+[22:02:14] Fucking Bugger to admins: Yes 
+[22:02:20] Fucking Bugger to admins: Yes  I will register for the forms and create an appeal in 5m
+[22:02:26] Bexgasm~: // Alright
+[22:02:33] Fucking Bugger: @Of cours possible
+[22:02:33] Fucking Bugger to admins: Of cours possible
+[22:02:46] Fucking Bugger: @Tell him to do stopsound in console
+[22:02:46] Fucking Bugger to admins: Tell him to do stopsound in console
+[22:03:01] Client "The Hitman" spawned in server <STEAM_0:1:83383015> (took 85 seconds).
+[22:03:03] Fucking Bugger<STEAM_0:1:98908611> used the tool textscreen on maps/rp_downtown_tits_v2.bsp
+[22:03:12] Fucking Bugger<STEAM_0:1:98908611> used the tool textscreen on maps/rp_downtown_tits_v2.bsp
+[22:03:19] Bexgasm~: !unmute bugger
+[22:03:19] Bexgasm~ unmuted Fucking Bugger
+[22:03:35] Fucking Bugger: I gotchu fam
+[22:03:59] Bexgasm~: !unbox
+[22:04:01] Bexgasm~ suicided!
+[22:04:07] Client "Delightful" spawned in server <STEAM_0:0:69143418> (took 151 seconds).
+[22:04:36] Fucking Bugger: come
+[22:04:38] b3ar: /job Joe M.
+[22:04:47] Bexgasm~<STEAM_0:1:63382511> spawned/gave himself swep climb_swep2
+[22:05:35] Fucking Bugger<STEAM_0:1:98908611> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[22:05:35] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/misc/stair1x1.mdl
+[22:05:35] Fucking Bugger<STEAM_0:1:98908611> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[22:05:35] Fucking Bugger<STEAM_0:1:98908611> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[22:05:35] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/misc/stair1x1.mdl
+[22:05:35] Fucking Bugger<STEAM_0:1:98908611> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[22:05:35] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/blocks/cube1x150x1.mdl
+[22:05:35] Fucking Bugger<STEAM_0:1:98908611> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[22:05:35] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/blocks/cube1x150x1.mdl
+[22:05:35] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/blocks/cube1x150x1.mdl
+[22:05:35] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/blocks/cube1x150x1.mdl
+[22:05:35] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/blocks/cube075x3x1.mdl
+[22:05:35] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/misc/stair1x1.mdl
+[22:05:35] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate3x5.mdl
+[22:05:35] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate3x5.mdl
+[22:05:35] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/misc/stair1x1.mdl
+[22:05:35] Fucking Bugger<STEAM_0:1:98908611> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[22:05:35] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate3x5.mdl
+[22:05:35] Fucking Bugger<STEAM_0:1:98908611> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[22:05:35] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate2x4.mdl
+[22:05:35] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate3x5.mdl
+[22:05:35] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/misc/stair1x1.mdl
+[22:05:35] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/blocks/cube1x150x1.mdl
+[22:05:35] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/blocks/cube1x150x1.mdl
+[22:05:35] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/blocks/cube1x150x1.mdl
+[22:05:35] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/blocks/cube1x150x1.mdl
+[22:05:35] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/misc/stair1x1.mdl
+[22:05:35] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/misc/stair1x1.mdl
+[22:05:35] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/misc/stair1x1.mdl
+[22:05:35] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/blocks/cube075x3x1.mdl
+[22:05:35] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/blocks/cube075x3x1.mdl
+[22:05:35] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/blocks/cube075x3x1.mdl
+[22:05:35] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/blocks/cube1x150x1.mdl
+[22:05:35] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/misc/stair1x1.mdl
+[22:05:35] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate2x4.mdl
+[22:05:35] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate3x5.mdl
+[22:05:35] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate3x5.mdl
+[22:05:35] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/misc/stair1x1.mdl
+[22:05:35] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/misc/stair1x1.mdl
+[22:05:35] Fucking Bugger<STEAM_0:1:98908611> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[22:05:35] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate3x5.mdl
+[22:05:35] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/blocks/cube075x3x1.mdl
+[22:05:35] Fucking Bugger<STEAM_0:1:98908611> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[22:05:35] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate3x5.mdl
+[22:05:35] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/blocks/cube1x150x1.mdl
+[22:05:35] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/blocks/cube075x3x1.mdl
+[22:05:35] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate3x5.mdl
+[22:05:35] Fucking Bugger<STEAM_0:1:98908611> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[22:05:35] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/blocks/cube1x150x1.mdl
+[22:05:35] Fucking Bugger<STEAM_0:1:98908611> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[22:05:35] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate3x5.mdl
+[22:05:50] Fucking Bugger: Fucking hell its backwords
+[22:06:10] Fucking Bugger<STEAM_0:1:98908611> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[22:06:10] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/misc/stair1x1.mdl
+[22:06:10] Fucking Bugger<STEAM_0:1:98908611> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[22:06:10] Fucking Bugger<STEAM_0:1:98908611> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[22:06:10] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/misc/stair1x1.mdl
+[22:06:10] Fucking Bugger<STEAM_0:1:98908611> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[22:06:10] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/blocks/cube1x150x1.mdl
+[22:06:10] Fucking Bugger<STEAM_0:1:98908611> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[22:06:10] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/blocks/cube1x150x1.mdl
+[22:06:10] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/blocks/cube1x150x1.mdl
+[22:06:10] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/blocks/cube1x150x1.mdl
+[22:06:10] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/blocks/cube075x3x1.mdl
+[22:06:10] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/misc/stair1x1.mdl
+[22:06:10] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate3x5.mdl
+[22:06:10] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate3x5.mdl
+[22:06:10] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/misc/stair1x1.mdl
+[22:06:10] Fucking Bugger<STEAM_0:1:98908611> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[22:06:10] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate3x5.mdl
+[22:06:10] Fucking Bugger<STEAM_0:1:98908611> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[22:06:10] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate2x4.mdl
+[22:06:10] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate3x5.mdl
+[22:06:10] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/misc/stair1x1.mdl
+[22:06:10] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/blocks/cube1x150x1.mdl
+[22:06:10] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/blocks/cube1x150x1.mdl
+[22:06:10] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/blocks/cube1x150x1.mdl
+[22:06:10] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/blocks/cube1x150x1.mdl
+[22:06:10] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/misc/stair1x1.mdl
+[22:06:10] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/misc/stair1x1.mdl
+[22:06:10] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/misc/stair1x1.mdl
+[22:06:10] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/blocks/cube075x3x1.mdl
+[22:06:10] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/blocks/cube075x3x1.mdl
+[22:06:10] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/blocks/cube075x3x1.mdl
+[22:06:10] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/blocks/cube1x150x1.mdl
+[22:06:10] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/misc/stair1x1.mdl
+[22:06:10] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate2x4.mdl
+[22:06:10] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate3x5.mdl
+[22:06:10] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate3x5.mdl
+[22:06:10] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/misc/stair1x1.mdl
+[22:06:10] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/misc/stair1x1.mdl
+[22:06:10] Fucking Bugger<STEAM_0:1:98908611> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[22:06:10] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate3x5.mdl
+[22:06:10] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/blocks/cube075x3x1.mdl
+[22:06:10] Fucking Bugger<STEAM_0:1:98908611> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[22:06:10] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate3x5.mdl
+[22:06:10] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/blocks/cube1x150x1.mdl
+[22:06:10] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/blocks/cube075x3x1.mdl
+[22:06:10] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate3x5.mdl
+[22:06:10] Fucking Bugger<STEAM_0:1:98908611> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[22:06:11] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/blocks/cube1x150x1.mdl
+[22:06:11] Fucking Bugger<STEAM_0:1:98908611> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[22:06:11] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate3x5.mdl
+[22:06:22] Fucking Bugger: Oh 50 prop limit
+[22:06:34] Fucking Bugger: No idea
+[22:06:45] Fucking Bugger: Its fine
+[22:06:51] Fucking Bugger<STEAM_0:1:98908611> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[22:06:51] Fucking Bugger<STEAM_0:1:98908611> spawned model models/props_phx/construct/metal_wire1x2x2b.mdl
+[22:06:51] Fucking Bugger<STEAM_0:1:98908611> spawned model models/props_phx/construct/metal_plate1x2.mdl
+[22:06:51] Fucking Bugger<STEAM_0:1:98908611> spawned model models/props_phx/construct/metal_plate1x2.mdl
+[22:06:51] Fucking Bugger<STEAM_0:1:98908611> spawned model models/props_phx/construct/metal_plate1x2.mdl
+[22:06:51] Fucking Bugger<STEAM_0:1:98908611> spawned model models/props_phx/construct/metal_plate1x2.mdl
+[22:06:51] Fucking Bugger<STEAM_0:1:98908611> spawned model models/props_phx/construct/metal_plate1x2.mdl
+[22:06:51] Fucking Bugger<STEAM_0:1:98908611> spawned model models/props_phx/construct/metal_wire1x2x2b.mdl
+[22:06:51] Fucking Bugger<STEAM_0:1:98908611> spawned model models/props_phx/construct/metal_plate1x2.mdl
+[22:06:51] Fucking Bugger<STEAM_0:1:98908611> spawned model models/props_phx/construct/metal_plate1x2.mdl
+[22:06:51] Fucking Bugger<STEAM_0:1:98908611> spawned model models/props_phx/construct/metal_plate1x2.mdl
+[22:06:51] Fucking Bugger<STEAM_0:1:98908611> spawned model models/props_phx/construct/metal_plate2x2.mdl
+[22:06:56] Fucking Bugger: gottem
+[22:07:31] Fucking Bugger: its fine
+[22:07:37] Bexgasm~: /spectate
+[22:07:44] Fucking Bugger: I have another base that I hope is under 50
+[22:07:48] Bexgasm~ killed carlton banks using player
+[22:08:28] Bexgasm~: !goto carl
+[22:08:28] Bexgasm~ teleported to carlton banks
+[22:08:47] Fucking Bugger<STEAM_0:1:98908611> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[22:08:47] Fucking Bugger<STEAM_0:1:98908611> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[22:08:47] Fucking Bugger<STEAM_0:1:98908611> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[22:08:47] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/misc/stair1x1.mdl
+[22:08:47] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/blocks/cube075x3x075.mdl
+[22:08:47] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/blocks/cube075x3x075.mdl
+[22:08:47] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/misc/stair1x1.mdl
+[22:08:47] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/blocks/cube075x1x075.mdl
+[22:08:47] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/blocks/cube075x3x075.mdl
+[22:08:47] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate2x4.mdl
+[22:08:47] Fucking Bugger<STEAM_0:1:98908611> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[22:08:47] Fucking Bugger<STEAM_0:1:98908611> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[22:08:47] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/blocks/cube075x3x075.mdl
+[22:08:47] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/blocks/cube075x2x075.mdl
+[22:08:47] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/blocks/cube075x2x075.mdl
+[22:08:47] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/blocks/cube075x2x075.mdl
+[22:08:47] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/blocks/cube075x3x075.mdl
+[22:08:47] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/blocks/cube075x3x075.mdl
+[22:08:47] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/blocks/cube1x2x05.mdl
+[22:08:47] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/blocks/cube075x2x075.mdl
+[22:08:47] Fucking Bugger<STEAM_0:1:98908611> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[22:08:47] Fucking Bugger<STEAM_0:1:98908611> spawned model models/props_c17/concrete_barrier001a.mdl
+[22:08:47] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/blocks/cube075x1x075.mdl
+[22:08:47] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/blocks/cube075x2x075.mdl
+[22:08:47] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/blocks/cube075x2x075.mdl
+[22:08:48] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/blocks/cube075x2x075.mdl
+[22:08:48] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate1x2.mdl
+[22:08:48] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/blocks/cube075x2x075.mdl
+[22:08:48] Fucking Bugger<STEAM_0:1:98908611> spawned model models/props_lab/blastdoor001b.mdl
+[22:08:48] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/blocks/cube1x2x05.mdl
+[22:08:48] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate2x4.mdl
+[22:08:48] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/blocks/cube025x4x025.mdl
+[22:08:48] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/blocks/cube075x2x075.mdl
+[22:08:48] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/blocks/cube075x3x075.mdl
+[22:09:01] Fucking Bugger: :(
+[22:09:25] Fucking Bugger<STEAM_0:1:98908611> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[22:09:25] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/blocks/cube075x3x1.mdl
+[22:09:25] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/blocks/cube075x3x1.mdl
+[22:09:25] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/blocks/cube4x8x025.mdl
+[22:09:25] Fucking Bugger<STEAM_0:1:98908611> spawned model models/props_c17/concrete_barrier001a.mdl
+[22:09:25] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/blocks/cube4x8x025.mdl
+[22:09:25] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/blocks/cube4x8x025.mdl
+[22:09:25] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/blocks/cube075x3x1.mdl
+[22:09:25] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/blocks/cube075x3x1.mdl
+[22:09:25] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/blocks/cube4x8x025.mdl
+[22:09:25] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/blocks/cube075x3x1.mdl
+[22:09:25] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/blocks/cube075x3x1.mdl
+[22:09:25] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/blocks/cube075x3x1.mdl
+[22:09:25] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/blocks/cube075x3x1.mdl
+[22:09:25] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/blocks/cube075x3x1.mdl
+[22:09:26] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/blocks/cube075x3x1.mdl
+[22:09:26] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/blocks/cube4x8x025.mdl
+[22:09:26] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/blocks/cube4x8x025.mdl
+[22:09:26] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/blocks/cube075x3x1.mdl
+[22:09:26] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/blocks/cube4x8x025.mdl
+[22:09:26] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/blocks/cube4x8x025.mdl
+[22:09:26] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/blocks/cube075x3x1.mdl
+[22:09:26] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/blocks/cube4x8x025.mdl
+[22:09:26] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/blocks/cube075x3x1.mdl
+[22:09:26] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/blocks/cube075x3x1.mdl
+[22:09:26] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/blocks/cube075x3x1.mdl
+[22:09:26] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/blocks/cube075x3x1.mdl
+[22:09:26] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/blocks/cube075x3x1.mdl
+[22:09:26] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/blocks/cube075x3x1.mdl
+[22:09:26] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/blocks/cube025x4x025.mdl
+[22:09:32] carlton banks<STEAM_0:0:61782673> used the tool textscreen on maps/rp_downtown_tits_v2.bsp
+[22:09:34] Fucking Bugger<STEAM_0:1:98908611> used the tool precision on models/hunter/blocks/cube4x8x025.mdl
+[22:09:36] Fucking Bugger<STEAM_0:1:98908611> used the tool precision on models/hunter/blocks/cube4x8x025.mdl
+[22:09:37] Fucking Bugger<STEAM_0:1:98908611> used the tool precision on models/hunter/blocks/cube4x8x025.mdl
+[22:09:38] Fucking Bugger<STEAM_0:1:98908611> used the tool precision on models/hunter/blocks/cube4x8x025.mdl
+[22:09:56] The Hitman<STEAM_0:1:83383015> spawned model models/props_c17/fence03a.mdl
+[22:09:59] Fucking Bugger: Only 50 prop base I have
+[22:10:07] b3ar<STEAM_0:1:80896282> spawned model models/props_lab/blastdoor001c.mdl
+[22:10:10] b3ar<STEAM_0:1:80896282> spawned model models/props_lab/blastdoor001c.mdl
+[22:10:21] b3ar<STEAM_0:1:80896282> spawned model models/hunter/blocks/cube3x8x025.mdl
+[22:10:24] b3ar<STEAM_0:1:80896282> spawned model models/hunter/blocks/cube3x8x025.mdl
+[22:10:27] The Hitman<STEAM_0:1:83383015> used the tool material on models/props_c17/fence03a.mdl
+[22:10:34] The Hitman<STEAM_0:1:83383015> spawned model models/props_c17/fence01a.mdl
+[22:10:38] Fucking Bugger: You cant do the 1-way on this server
+[22:10:40] The Hitman<STEAM_0:1:83383015> used the tool material on models/props_c17/fence01a.mdl
+[22:10:48] b3ar<STEAM_0:1:80896282> spawned model models/hunter/blocks/cube3x8x025.mdl
+[22:11:10] Fucking Bugger: Yea the color tool doesnt have the option for world glow
+[22:11:25] Fucking Bugger: Now Im really wondering why this is on my favorites
+[22:11:31] Fucking Bugger<STEAM_0:1:98908611> used the tool colour on models/hunter/blocks/cube075x3x1.mdl
+[22:11:32] Fucking Bugger<STEAM_0:1:98908611> used the tool colour on models/hunter/blocks/cube075x3x1.mdl
+[22:11:33] Fucking Bugger<STEAM_0:1:98908611> used the tool colour on models/hunter/blocks/cube075x3x1.mdl
+[22:11:33] Fucking Bugger<STEAM_0:1:98908611> used the tool colour on models/hunter/blocks/cube075x3x1.mdl
+[22:11:33] Fucking Bugger<STEAM_0:1:98908611> used the tool colour on models/hunter/blocks/cube075x3x1.mdl
+[22:11:34] Fucking Bugger<STEAM_0:1:98908611> used the tool colour on models/hunter/blocks/cube075x3x1.mdl
+[22:11:37] Fucking Bugger<STEAM_0:1:98908611> used the tool material on models/hunter/blocks/cube075x3x1.mdl
+[22:11:37] Fucking Bugger<STEAM_0:1:98908611> used the tool material on models/hunter/blocks/cube075x3x1.mdl
+[22:12:01] b3ar<STEAM_0:1:80896282> spawned model models/hunter/blocks/cube2x2x1.mdl
+[22:12:40] Fucking Bugger: I might have another less than 50
+[22:12:49] Fucking Bugger<STEAM_0:1:98908611> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[22:12:49] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate1x4.mdl
+[22:12:49] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate1x4.mdl
+[22:12:49] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate1x6.mdl
+[22:12:49] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate1x6.mdl
+[22:12:49] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate1x3.mdl
+[22:12:49] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate1x3.mdl
+[22:12:49] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate2x4.mdl
+[22:12:49] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate1x3.mdl
+[22:12:49] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate1x3.mdl
+[22:12:49] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate1x3.mdl
+[22:12:49] Fucking Bugger<STEAM_0:1:98908611> spawned model models/props_phx/construct/metal_plate_curve180x2.mdl
+[22:12:49] Fucking Bugger<STEAM_0:1:98908611> spawned model models/props_phx/construct/metal_plate_curve180x2.mdl
+[22:12:49] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate2x4.mdl
+[22:12:49] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate1x6.mdl
+[22:12:49] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate2x4.mdl
+[22:12:49] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate2x4.mdl
+[22:12:49] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate2x4.mdl
+[22:12:49] Fucking Bugger<STEAM_0:1:98908611> spawned model models/props_phx/construct/metal_plate_curve180x2.mdl
+[22:12:49] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate1x3.mdl
+[22:12:49] Fucking Bugger<STEAM_0:1:98908611> spawned model models/props_phx/construct/metal_plate_curve180x2.mdl
+[22:12:49] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate1x6.mdl
+[22:12:49] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate1x3.mdl
+[22:12:49] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate1x3.mdl
+[22:12:49] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate2x4.mdl
+[22:12:49] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate2x4.mdl
+[22:12:49] Fucking Bugger<STEAM_0:1:98908611> spawned model models/props_phx/construct/metal_angle180.mdl
+[22:12:49] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate2x4.mdl
+[22:12:56] Delightful was killed by prop_vehicle_jeep
+[22:13:08] Fucking Bugger: its the door
+[22:13:16] Fucking Bugger: Ill show u where it goes
+[22:13:18] carlton banks: @out of map
+[22:13:18] carlton banks to admins: out of map
+[22:13:28] Fucking Bugger: Its in industrial
+[22:13:52] b3ar: /ADVERT AFK
+[22:14:11] b3ar: /advert afk
+[22:14:45] Bexgasm~: !goto carl
+[22:14:45] Bexgasm~ teleported to carlton banks
+[22:14:46] Fucking Bugger<STEAM_0:1:98908611> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[22:14:46] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate1x4.mdl
+[22:14:46] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate1x4.mdl
+[22:14:46] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate1x6.mdl
+[22:14:46] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate1x6.mdl
+[22:14:46] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate1x3.mdl
+[22:14:46] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate1x3.mdl
+[22:14:46] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate2x4.mdl
+[22:14:46] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate1x3.mdl
+[22:14:46] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate1x3.mdl
+[22:14:46] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate1x3.mdl
+[22:14:46] Fucking Bugger<STEAM_0:1:98908611> spawned model models/props_phx/construct/metal_plate_curve180x2.mdl
+[22:14:46] Fucking Bugger<STEAM_0:1:98908611> spawned model models/props_phx/construct/metal_plate_curve180x2.mdl
+[22:14:46] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate2x4.mdl
+[22:14:46] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate1x6.mdl
+[22:14:46] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate2x4.mdl
+[22:14:46] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate2x4.mdl
+[22:14:46] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate2x4.mdl
+[22:14:46] Fucking Bugger<STEAM_0:1:98908611> spawned model models/props_phx/construct/metal_plate_curve180x2.mdl
+[22:14:46] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate1x3.mdl
+[22:14:46] Fucking Bugger<STEAM_0:1:98908611> spawned model models/props_phx/construct/metal_plate_curve180x2.mdl
+[22:14:46] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate1x6.mdl
+[22:14:46] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate1x3.mdl
+[22:14:47] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate1x3.mdl
+[22:14:47] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate2x4.mdl
+[22:14:47] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate2x4.mdl
+[22:14:47] Fucking Bugger<STEAM_0:1:98908611> spawned model models/props_phx/construct/metal_angle180.mdl
+[22:14:47] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate2x4.mdl
+[22:15:01] Client "Doof" connected.
+[22:15:10] Fucking Bugger<STEAM_0:1:98908611> used the tool colour on models/props_phx/construct/metal_plate_curve180x2.mdl
+[22:15:11] Fucking Bugger<STEAM_0:1:98908611> used the tool colour on models/props_phx/construct/metal_plate_curve180x2.mdl
+[22:15:17] Fucking Bugger<STEAM_0:1:98908611> used the tool material on models/props_phx/construct/metal_plate_curve180x2.mdl
+[22:15:18] Fucking Bugger<STEAM_0:1:98908611> used the tool material on models/props_phx/construct/metal_plate_curve180x2.mdl
+[22:15:19] Fucking Bugger<STEAM_0:1:98908611> used the tool material on models/hunter/plates/plate2x4.mdl
+[22:15:20] Fucking Bugger<STEAM_0:1:98908611> used the tool material on models/hunter/plates/plate1x4.mdl
+[22:15:20] Fucking Bugger<STEAM_0:1:98908611> used the tool material on models/hunter/plates/plate1x4.mdl
+[22:15:20] Fucking Bugger<STEAM_0:1:98908611> used the tool material on models/hunter/plates/plate1x4.mdl
+[22:15:20] Fucking Bugger<STEAM_0:1:98908611> used the tool material on models/hunter/plates/plate1x4.mdl
+[22:15:21] Fucking Bugger<STEAM_0:1:98908611> used the tool material on models/hunter/plates/plate2x4.mdl
+[22:15:21] Fucking Bugger<STEAM_0:1:98908611> used the tool material on models/hunter/plates/plate2x4.mdl
+[22:15:29] Fucking Bugger<STEAM_0:1:98908611> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[22:15:29] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate1x4.mdl
+[22:15:29] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate1x4.mdl
+[22:15:29] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate1x6.mdl
+[22:15:29] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate1x6.mdl
+[22:15:29] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate1x3.mdl
+[22:15:29] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate1x3.mdl
+[22:15:29] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate2x4.mdl
+[22:15:29] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate1x3.mdl
+[22:15:29] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate1x3.mdl
+[22:15:29] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate1x3.mdl
+[22:15:29] Fucking Bugger<STEAM_0:1:98908611> spawned model models/props_phx/construct/metal_plate_curve180x2.mdl
+[22:15:29] Fucking Bugger<STEAM_0:1:98908611> spawned model models/props_phx/construct/metal_plate_curve180x2.mdl
+[22:15:29] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate2x4.mdl
+[22:15:29] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate1x6.mdl
+[22:15:29] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate2x4.mdl
+[22:15:29] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate2x4.mdl
+[22:15:29] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate2x4.mdl
+[22:15:29] Fucking Bugger<STEAM_0:1:98908611> spawned model models/props_phx/construct/metal_plate_curve180x2.mdl
+[22:15:29] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate1x3.mdl
+[22:15:29] Fucking Bugger<STEAM_0:1:98908611> spawned model models/props_phx/construct/metal_plate_curve180x2.mdl
+[22:15:29] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate1x6.mdl
+[22:15:29] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate1x3.mdl
+[22:15:29] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate1x3.mdl
+[22:15:29] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate2x4.mdl
+[22:15:29] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate2x4.mdl
+[22:15:29] Fucking Bugger<STEAM_0:1:98908611> spawned model models/props_phx/construct/metal_angle180.mdl
+[22:15:29] Fucking Bugger<STEAM_0:1:98908611> spawned model models/hunter/plates/plate2x4.mdl
+[22:15:32] Fucking Bugger<STEAM_0:1:98908611> used the tool material on models/hunter/plates/plate2x4.mdl
+[22:15:33] Fucking Bugger<STEAM_0:1:98908611> used the tool material on models/hunter/plates/plate2x4.mdl
+[22:15:33] Fucking Bugger<STEAM_0:1:98908611> used the tool material on models/hunter/plates/plate2x4.mdl
+[22:15:33] Fucking Bugger<STEAM_0:1:98908611> used the tool material on models/hunter/plates/plate2x4.mdl
+[22:15:34] Fucking Bugger<STEAM_0:1:98908611> used the tool material on models/hunter/plates/plate2x4.mdl
+[22:15:34] Fucking Bugger<STEAM_0:1:98908611> used the tool material on models/hunter/plates/plate2x4.mdl
+[22:15:34] Fucking Bugger<STEAM_0:1:98908611> used the tool material on models/hunter/plates/plate2x4.mdl
+[22:15:34] Fucking Bugger<STEAM_0:1:98908611> used the tool material on models/hunter/plates/plate2x4.mdl
+[22:15:34] Fucking Bugger<STEAM_0:1:98908611> used the tool material on models/hunter/plates/plate2x4.mdl
+[22:15:34] Fucking Bugger<STEAM_0:1:98908611> used the tool material on models/hunter/plates/plate2x4.mdl
+[22:15:35] Fucking Bugger<STEAM_0:1:98908611> used the tool material on models/hunter/plates/plate2x4.mdl
+[22:15:35] Fucking Bugger<STEAM_0:1:98908611> used the tool material on models/hunter/plates/plate2x4.mdl
+[22:15:35] Fucking Bugger<STEAM_0:1:98908611> used the tool material on models/hunter/plates/plate2x4.mdl
+[22:15:35] Fucking Bugger<STEAM_0:1:98908611> used the tool material on models/hunter/plates/plate2x4.mdl
+[22:15:35] Fucking Bugger<STEAM_0:1:98908611> used the tool material on models/hunter/plates/plate2x4.mdl
+[22:15:37] Fucking Bugger<STEAM_0:1:98908611> used the tool material on models/props_phx/construct/metal_angle180.mdl
+[22:15:38] Fucking Bugger<STEAM_0:1:98908611> used the tool material on maps/rp_downtown_tits_v2.bsp
+[22:15:38] Fucking Bugger<STEAM_0:1:98908611> used the tool material on models/hunter/plates/plate1x3.mdl
+[22:15:38] Fucking Bugger<STEAM_0:1:98908611> used the tool material on models/props_phx/construct/metal_plate_curve180x2.mdl
+[22:15:39] Fucking Bugger<STEAM_0:1:98908611> used the tool material on models/props_phx/construct/metal_plate_curve180x2.mdl
+[22:15:40] Fucking Bugger<STEAM_0:1:98908611> used the tool material on models/props_phx/construct/metal_plate_curve180x2.mdl
+[22:15:40] Fucking Bugger<STEAM_0:1:98908611> used the tool material on models/props_phx/construct/metal_plate_curve180x2.mdl
+[22:15:40] Fucking Bugger<STEAM_0:1:98908611> used the tool material on models/props_phx/construct/metal_plate_curve180x2.mdl
+[22:15:40] Fucking Bugger<STEAM_0:1:98908611> used the tool material on models/hunter/plates/plate2x4.mdl
+[22:15:40] Fucking Bugger<STEAM_0:1:98908611> used the tool material on models/hunter/plates/plate2x4.mdl
+[22:15:41] Fucking Bugger<STEAM_0:1:98908611> used the tool material on models/hunter/plates/plate2x4.mdl
+[22:15:41] Fucking Bugger<STEAM_0:1:98908611> used the tool material on models/hunter/plates/plate2x4.mdl
+[22:15:41] Fucking Bugger<STEAM_0:1:98908611> used the tool material on models/hunter/plates/plate2x4.mdl
+[22:15:41] Fucking Bugger<STEAM_0:1:98908611> used the tool material on models/hunter/plates/plate2x4.mdl
+[22:15:41] Fucking Bugger<STEAM_0:1:98908611> used the tool material on models/hunter/plates/plate2x4.mdl
+[22:15:42] Fucking Bugger<STEAM_0:1:98908611> used the tool material on models/hunter/plates/plate2x4.mdl
+[22:15:42] Fucking Bugger<STEAM_0:1:98908611> used the tool material on models/hunter/plates/plate2x4.mdl
+[22:15:42] Fucking Bugger<STEAM_0:1:98908611> used the tool material on maps/rp_downtown_tits_v2.bsp
+[22:15:42] Fucking Bugger<STEAM_0:1:98908611> used the tool material on models/hunter/plates/plate2x4.mdl
+[22:15:42] Fucking Bugger<STEAM_0:1:98908611> used the tool material on models/hunter/plates/plate2x4.mdl
+[22:15:43] Fucking Bugger<STEAM_0:1:98908611> used the tool material on models/props_phx/construct/metal_plate_curve180x2.mdl
+[22:15:44] Fucking Bugger<STEAM_0:1:98908611> used the tool material on models/hunter/plates/plate2x4.mdl
+[22:15:44] Fucking Bugger<STEAM_0:1:98908611> used the tool material on models/hunter/plates/plate2x4.mdl
+[22:15:44] Fucking Bugger<STEAM_0:1:98908611> used the tool material on models/hunter/plates/plate1x3.mdl
+[22:15:45] Fucking Bugger<STEAM_0:1:98908611> used the tool material on models/hunter/plates/plate1x3.mdl
+[22:15:47] Fucking Bugger<STEAM_0:1:98908611> used the tool material on models/hunter/plates/plate1x3.mdl
+[22:15:47] Fucking Bugger<STEAM_0:1:98908611> used the tool material on models/hunter/plates/plate1x3.mdl
+[22:15:47] Fucking Bugger<STEAM_0:1:98908611> used the tool material on models/hunter/plates/plate1x4.mdl
+[22:15:47] Fucking Bugger<STEAM_0:1:98908611> used the tool material on models/hunter/plates/plate1x4.mdl
+[22:15:51] Fucking Bugger<STEAM_0:1:98908611> used the tool material on models/hunter/plates/plate2x4.mdl
+[22:15:51] Fucking Bugger<STEAM_0:1:98908611> used the tool material on models/hunter/plates/plate1x3.mdl
+[22:15:52] Fucking Bugger<STEAM_0:1:98908611> used the tool material on models/hunter/plates/plate1x3.mdl
+[22:15:53] Fucking Bugger<STEAM_0:1:98908611> used the tool material on models/hunter/plates/plate1x3.mdl
+[22:15:54] Fucking Bugger<STEAM_0:1:98908611> used the tool material on models/hunter/plates/plate1x3.mdl
+[22:16:34] Bexgasm~<STEAM_0:1:63382511> used the tool precision on maps/rp_downtown_tits_v2.bsp
+[22:17:01] Client "Doof" spawned in server <STEAM_0:1:426762407> (took 120 seconds).
+[22:17:20] Delightful killed carlton banks using player
+[22:17:22] Fucking Bugger<STEAM_0:1:98908611> used the tool button on models/maxofs2d/button_06.mdl
+[22:17:23] Bexgasm~: // L
+[22:17:25] carlton banks: @RDM
+[22:17:25] carlton banks to admins: RDM
+[22:17:27] Fucking Bugger<STEAM_0:1:98908611> used the tool button on models/maxofs2d/button_06.mdl
+[22:17:36] Bexgasm~: !bring carl
+[22:17:36] Bexgasm~ brought carlton banks
+[22:17:38] Fucking Bugger: // Hey bear I found a base that works with the 50 prop limit
+[22:17:41] Bexgasm~: !bring delight
+[22:17:41] Bexgasm~ brought Delightful
+[22:17:49] Bexgasm~<STEAM_0:1:63382511> spawned/gave himself swep gas_log_scanner
+[22:18:21] Bexgasm~: !return @
+[22:18:21] Bexgasm~ returned carlton banks to their original position
+[22:18:24] Bexgasm~: !return @
+[22:18:27] Bexgasm~: // dont vote yes
+[22:18:32] Bexgasm~: !return delight
+[22:18:32] Bexgasm~ returned Delightful to their original position
+[22:18:34] carlton banks: // if vbote no gay
+[22:18:42] carlton banks: // vote*
+[22:18:45] Bexgasm~: // good thing im not vboting now
+[22:18:59] Fucking Bugger<STEAM_0:1:98908611> used the tool precision on models/hunter/plates/plate1x3.mdl
+[22:19:01] Fucking Bugger<STEAM_0:1:98908611> used the tool precision on models/hunter/plates/plate1x3.mdl
+[22:19:04] Fucking Bugger<STEAM_0:1:98908611> used the tool precision on models/hunter/plates/plate1x3.mdl
+[22:19:05] Dropped "Delightful" from server<STEAM_0:0:69143418>
+[22:19:07] Fucking Bugger<STEAM_0:1:98908611> used the tool precision on models/hunter/plates/plate1x3.mdl
+[22:19:08] Fucking Bugger<STEAM_0:1:98908611> used the tool precision on models/hunter/plates/plate1x3.mdl
+[22:19:12] Fucking Bugger<STEAM_0:1:98908611> used the tool precision on models/hunter/plates/plate1x3.mdl
+[22:20:36] Bexgasm~: !goto carl
+[22:20:36] Bexgasm~ teleported to carlton banks
+[22:22:15] Fucking Bugger: // F I cant affor pistol ammo
+[22:22:21] Bexgasm~: // L
+[22:22:46] Bexgasm~: !goto doof
+[22:22:46] Bexgasm~ teleported to Doof
+[22:23:18] Fucking Bugger: !discord
+[22:23:19] Fucking Bugger: !donate
+[22:23:33] Bexgasm~: !bring carl
+[22:23:33] Bexgasm~ brought carlton banks
+[22:23:54] Fucking Bugger: // Ok nobody raid my base im going afk
+[22:24:08] Bexgasm~: /warrent doof printer
+[22:24:15] Bexgasm~: /warent doof printer
+[22:24:19] Mr ethnic cleasing: /ooc where is he i want to raid him
+[22:24:27] carlton banks killed Doof using player
+[22:24:31] Bexgasm~: // L
+[22:25:13] carlton banks<STEAM_0:0:61782673> spawned model models/props_interiors/refrigerator01a.mdl
+[22:25:15] Bexgasm~: !goto doof
+[22:25:15] Bexgasm~ teleported to Doof
+[22:25:16] carlton banks<STEAM_0:0:61782673> spawned model models/props_docks/dock01_cleat01a.mdl
+[22:25:18] carlton banks<STEAM_0:0:61782673> spawned model models/props_c17/lockers001a.mdl
+[22:25:22] carlton banks<STEAM_0:0:61782673> spawned model models/props_c17/gravestone003a.mdl
+[22:25:22] Bexgasm~: !return bex
+[22:25:22] Bexgasm~ returned Themself to their original position
+[22:25:27] carlton banks<STEAM_0:0:61782673> spawned model models/props_c17/concrete_barrier001a.mdl
+[22:25:30] carlton banks<STEAM_0:0:61782673> spawned model models/props_c17/concrete_barrier001a.mdl
+[22:25:32] carlton banks<STEAM_0:0:61782673> spawned model models/props_c17/concrete_barrier001a.mdl
+[22:25:36] Bexgasm~: !bring carl
+[22:25:36] Bexgasm~ brought carlton banks
+[22:25:37] carlton banks<STEAM_0:0:61782673> spawned model models/props_c17/concrete_barrier001a.mdl
+[22:26:50] Bexgasm~: !bring doof
+[22:26:50] Bexgasm~ brought Doof
+[22:27:03] Bexgasm~: !return doof
+[22:27:03] Bexgasm~ returned Doof to their original position
+[22:29:13] Dropped "Fucking Bugger" from server<STEAM_0:1:98908611>
+[22:29:44] Doof<STEAM_0:1:426762407> spawned vehicle models/sligwolf/tractor/tractor_trailer.mdl
+[22:30:00] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_c17/metalpot001a.mdl
+[22:30:18] Doof<STEAM_0:1:426762407> spawned vehicle models/sligwolf/motorbike/motorbike.mdl
+[22:30:22] Bexgasm~: /spectate
+[22:31:48] Doof<STEAM_0:1:426762407> spawned vehicle models/sligwolf/motorbike/motorbike.mdl
+[22:32:08] carlton banks killed Doof using player
+[22:32:14] Bexgasm~: /bring doof
+[22:32:25] Doof<STEAM_0:1:426762407> spawned vehicle models/sligwolf/motorbike/motorbike.mdl
+[22:32:28] Bexgasm~<STEAM_0:1:63382511> spawned vehicle models/sligwolf/snowmobile/snowmobile.mdl
+[22:32:53] Bexgasm~: !ungag doof
+[22:32:53] Bexgasm~ ungagged Doof
+[22:33:21] Doof<STEAM_0:1:426762407> spawned vehicle models/sligwolf/tractor/tractor.mdl
+[22:33:39] Doof<STEAM_0:1:426762407> spawned vehicle models/sligwolf/tractor/tractor.mdl
+[22:33:50] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_c17/concrete_barrier001a.mdl
+[22:33:56] carlton banks<STEAM_0:0:61782673> spawned model models/props_c17/concrete_barrier001a.mdl
+[22:33:57] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_c17/concrete_barrier001a.mdl
+[22:34:00] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_c17/fence03a.mdl
+[22:34:07] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_c17/concrete_barrier001a.mdl
+[22:34:43] Bexgasm~: !hp doof 101
+[22:34:43] Bexgasm~ set the hp for Doof to 101
+[22:35:19] carlton banks killed Doof using player
+[22:35:22] Bexgasm~ suicided!
+[22:35:22] Bexgasm~: !log
+[22:35:30] Bexgasm~ killed carlton banks using player
+[22:35:54] Bexgasm~: /spectate
+[22:36:14] Doof suicided!
+[22:36:31] Bexgasm~ suicided!
+[22:36:36] carlton banks suicided!
+[22:36:51] Bexgasm~ killed carlton banks using player
+[22:36:52] Bexgasm~ suicided!
+[22:38:11] Doof suicided!
+[22:38:16] Bexgasm~: /bring doof
+[22:38:22] Bexgasm~: /advert L
+[22:38:26] Bexgasm~: /unarrest doof
+[22:38:29] Doof suicided!
+[22:39:04] Bexgasm~: /spectate
+[22:39:11] Bexgasm~: /bring doof
+[22:39:14] Doof: busy
+[22:39:14] Doof suicided!
+[22:39:16] Bexgasm~: /bring carl
+[22:39:17] Bexgasm~: /bring doof
+[22:39:21] Doof suicided!
+[22:39:23] Bexgasm~: /bring doof
+[22:39:28] Doof suicided!
+[22:39:29] Bexgasm~: /bring doof
+[22:39:35] Doof suicided!
+[22:39:38] Bexgasm~: /bring doof
+[22:40:03] Bexgasm~ killed Doof using player
+[22:40:06] Bexgasm~: /bring doof
+[22:40:13] carlton banks killed Doof using player
+[22:40:15] Bexgasm~: /bring doof
+[22:40:18] Bexgasm~ killed carlton banks using player
+[22:40:21] Bexgasm~ suicided!
+[22:40:40] Client "DrDerpenstein sups.gg" connected.
+[22:40:54] Doof<STEAM_0:1:426762407> spawned vehicle models/buggy.mdl
+[22:41:03] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_c17/concrete_barrier001a.mdl
+[22:41:07] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_c17/fence03a.mdl
+[22:41:13] carlton banks<STEAM_0:0:61782673> spawned model models/props_c17/concrete_barrier001a.mdl
+[22:41:15] carlton banks<STEAM_0:0:61782673> spawned model models/props_c17/concrete_barrier001a.mdl
+[22:41:16] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_c17/fence03a.mdl
+[22:41:16] Client "DrDerpenstein sups.gg" spawned in server <STEAM_0:0:13562763> (took 36 seconds).
+[22:41:22] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_c17/fence03a.mdl
+[22:41:26] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_c17/fence03a.mdl
+[22:41:28] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_c17/fence03a.mdl
+[22:41:39] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_wasteland/interior_fence002d.mdl
+[22:41:41] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_wasteland/interior_fence002d.mdl
+[22:41:46] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_wasteland/interior_fence002d.mdl
+[22:41:52] Bexgasm~ killed Doof using player
+[22:41:55] Bexgasm~: /bring doof
+[22:42:03] carlton banks killed Doof using player
+[22:42:08] carlton banks suicided!
+[22:42:08] Bexgasm~: /bring doof
+[22:42:42] Doof<STEAM_0:1:426762407> spawned vehicle models/swmodels/swbuggy.mdl
+[22:42:46] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_wasteland/interior_fence002d.mdl
+[22:42:51] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_wasteland/interior_fence002d.mdl
+[22:42:56] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_wasteland/interior_fence002d.mdl
+[22:42:59] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_wasteland/interior_fence002d.mdl
+[22:43:00] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_wasteland/interior_fence002d.mdl
+[22:43:22] Bexgasm~ killed Doof using player
+[22:43:26] Bexgasm~: /bring doof
+[22:43:55] Dropped "DrDerpenstein" from server<STEAM_0:0:13562763>
+[22:43:56] Doof<STEAM_0:1:426762407> spawned vehicle models/swmodels/swbuggy_02.mdl
+[22:44:15] Bexgasm~ killed carlton banks using player
+[22:44:17] Bexgasm~ suicided!
+[22:44:17] Bexgasm~: !log
+[22:44:23] Bexgasm~: // Doof you're mom
+[22:44:48] Bexgasm~<STEAM_0:1:63382511> spawned/gave himself swep gas_log_scanner
+[22:44:58] Doof<STEAM_0:1:426762407> spawned vehicle models/sligwolf/gokart/sw_gokart.mdl
+[22:45:09] carlton banks<STEAM_0:0:61782673> spawned model models/props_c17/concrete_barrier001a.mdl
+[22:45:09] Bexgasm~: !goto carl
+[22:45:09] Bexgasm~ teleported to carlton banks
+[22:45:12] carlton banks<STEAM_0:0:61782673> spawned model models/props_c17/concrete_barrier001a.mdl
+[22:45:13] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_wasteland/interior_fence002d.mdl
+[22:45:14] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_wasteland/interior_fence002d.mdl
+[22:45:18] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_wasteland/interior_fence002d.mdl
+[22:45:21] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_wasteland/interior_fence002d.mdl
+[22:45:28] carlton banks killed Doof using player
+[22:45:30] carlton banks suicided!
+[22:45:33] Bexgasm~: /bring doof
+[22:45:35] Doof suicided!
+[22:45:36] Bexgasm~: /bring doof
+[22:45:40] Bexgasm~: /bring doof
+[22:45:40] Doof suicided!
+[22:45:40] Bexgasm~: /bring doof
+[22:45:41] Bexgasm~: /bring doof
+[22:45:41] Bexgasm~: /bring doof
+[22:45:41] Bexgasm~: /bring doof
+[22:45:42] Bexgasm~: /bring doof
+[22:45:45] Doof suicided!
+[22:45:47] Bexgasm~: /bring doof
+[22:45:50] Bexgasm~ suicided!
+[22:45:55] Doof suicided!
+[22:46:26] Bexgasm~: !bring carly
+[22:46:29] Bexgasm~: /bring carl
+[22:46:30] Client "DrDerpenstein sups.gg" connected.
+[22:46:30] Bexgasm~: /bring doof
+[22:46:42] Bexgasm~<STEAM_0:1:63382511> spawned/gave himself swep gas_log_scanner
+[22:46:55] Client "DrDerpenstein sups.gg" spawned in server <STEAM_0:0:13562763> (took 25 seconds).
+[22:47:15] Doof suicided!
+[22:47:19] Bexgasm~: /bring doof
+[22:47:26] Doof suicided!
+[22:47:45] Dropped "carlton banks" from server<STEAM_0:0:61782673>
+[22:48:21] Bexgasm~ killed Doof using stunstick
+[22:48:24] Bexgasm~: /bring doof
+[22:48:32] Bexgasm~: /bring doof
+[22:49:01] Doof<STEAM_0:1:426762407> spawned vehicle models/sligwolf/trabant/trabant.mdl
+[22:49:03] The Hitman<STEAM_0:1:83383015> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[22:49:15] The Hitman<STEAM_0:1:83383015> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[22:49:21] Bexgasm~: !goto drderp
+[22:49:21] Bexgasm~ teleported to DrDerpenstein
+[22:49:32] The Hitman<STEAM_0:1:83383015> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[22:49:44] Doof<STEAM_0:1:426762407> spawned vehicle models/sligwolf/hotrod/old_hotrod.mdl
+[22:49:56] Doof<STEAM_0:1:426762407> spawned vehicle models/sligwolf/hotrod/old_hotrod.mdl
+[22:49:56] Bexgasm~<STEAM_0:1:63382511> spawned/gave himself swep gas_log_scanner
+[22:50:14] Bexgasm~<STEAM_0:1:63382511> spawned/gave himself swep gas_log_scanner
+[22:50:29] Bexgasm~: // derp you're banned
+[22:50:49] The Hitman<STEAM_0:1:83383015> spawned model models/props_c17/fence01b.mdl
+[22:51:05] DrDerpenstein: // for what?
+[22:51:13] Bexgasm~: // for joe
+[22:51:19] DrDerpenstein: // ...not again
+[22:51:21] The Hitman<STEAM_0:1:83383015> used the tool material on models/props_building_details/storefront_template001a_bars.mdl
+[22:51:22] The Hitman<STEAM_0:1:83383015> used the tool material on models/props_building_details/storefront_template001a_bars.mdl
+[22:51:24] The Hitman<STEAM_0:1:83383015> used the tool material on models/props_building_details/storefront_template001a_bars.mdl
+[22:51:25] DrDerpenstein: !menu
+[22:51:36] DrDerpenstein: !warn
+[22:51:38] Bexgasm~: /spectate
+[22:51:39] Doof<STEAM_0:1:426762407> spawned vehicle models/sligwolf/limousine/swglimonew.mdl
+[22:52:23] Doof suicided!
+[22:53:12] Doof<STEAM_0:1:426762407> spawned vehicle models/sligwolf/blue-x13/blue-x13.mdl
+[22:53:22] Client "mosesvalde73" connected.
+[22:53:52] The Hitman<STEAM_0:1:83383015> used the tool material on models/props_c17/fence01b.mdl
+[22:54:12] Doof<STEAM_0:1:426762407> spawned vehicle models/sligwolf/hovercraft/hovercraft.mdl
+[22:54:21] Client "mosesvalde73" spawned in server <STEAM_0:1:190369996> (took 59 seconds).
+[22:54:44] Doof<STEAM_0:1:426762407> spawned vehicle models/sligwolf/blue-x14/blue-x14.mdl
+[22:54:56] Bexgasm~: !kick bexgasm Das ich nicht den gut, dich und kartofflesack
+[22:54:56] Bexgasm~ kicked Themself (Das ich nicht den gut, dich und kartofflesack)
+[22:54:56] Dropped "Bexgasm~" from server<STEAM_0:1:63382511>
+[22:55:36] The Hitman<STEAM_0:1:83383015> used the tool fading_door on models/props_building_details/storefront_template001a_bars.mdl
+[22:55:51] The Hitman<STEAM_0:1:83383015> used the tool fading_door on models/props_building_details/storefront_template001a_bars.mdl
+[22:56:05] The Hitman<STEAM_0:1:83383015> used the tool keypad_willox on models/props_building_details/storefront_template001a_bars.mdl
+[22:56:12] The Hitman<STEAM_0:1:83383015> used the tool keypad_willox on models/props_building_details/storefront_template001a_bars.mdl
+[22:56:51] Mr ethnic cleasing: /ooc derp pls tp to me
+[22:57:28] b3ar suicided!
+[22:57:30] Mr ethnic cleasing: /ooc derp
+[22:57:30] DrDerpenstein: /goto mr
+[22:58:15] Client "Katana2424" connected.
+[22:59:07] Client "Katana2424" spawned in server <STEAM_0:0:495987419> (took 52 seconds).
+[23:01:45] mosesvalde73<STEAM_0:1:190369996> spawned model models/props_c17/furnituretable002a.mdl
+[23:05:48] The Hitman suicided!
+[23:06:35] mosesvalde73<STEAM_0:1:190369996> spawned model models/props_c17/furnituretable003a.mdl
+[23:06:36] DrDerpenstein: /y This is a mug drop 1k in 10sec or I paint the sidewalk with your brains...unless I can't mug- 10sec to GTFO or you all die
+[23:06:41] The Hitman: hol up
+[23:06:44] Doof killed DrDerpenstein using player
+[23:07:31] DrDerpenstein: /y This is a mug drop 1k in 10sec or I paint the sidewalk with your brains...unless I can't mug- 10sec to GTFO or you all die
+[23:07:35] DrDerpenstein killed Doof using player
+[23:08:32] DrDerpenstein: /advert raid
+[23:08:53] Doof: hello?
+[23:12:14] Client "Bandit Man" connected.
+[23:13:55] DrDerpenstein killed Doof using player
+[23:14:03] Client "Bandit Man" spawned in server <STEAM_0:0:79596724> (took 109 seconds).
+[23:14:28] DrDerpenstein killed Doof using player
+[23:15:04] Bandit Man: //niigeers
+[23:15:18] DrDerpenstein killed Doof using player
+[23:15:21] Dropped "Bandit Man" from server<STEAM_0:0:79596724>
+[23:18:14] mosesvalde73: yeah
+[23:18:24] DrDerpenstein: /dropmoney 100000
+[23:18:26] mosesvalde73: make an offer
+[23:18:35] mosesvalde73: thanks
+[23:18:45] mosesvalde73: alright
+[23:19:20] DrDerpenstein: /advert raid
+[23:19:37] DrDerpenstein killed The Hitman using player
+[23:20:33] Doof killed DrDerpenstein using weapon_fists
+[23:20:45] DrDerpenstein: // btw we dont have nlr for returnign to raid
+[23:21:00] DrDerpenstein: // you can go back and defend ur base
+[23:21:00] The Hitman killed Doof using player
+[23:21:18] DrDerpenstein: // but i raided and am dead so cant return
+[23:21:29] Doof: /ooc hitman i was fucking helping you and you kill me
+[23:21:48] DrDerpenstein: // karmas a bitch aint she?
+[23:21:52] mosesvalde73<STEAM_0:1:190369996> used the tool fading_door on maps/rp_downtown_tits_v2.bsp
+[23:21:56] Doof: /ooc your a bitch shut the fuck up derp
+[23:22:14] The Hitman: /ooc doof come back i havee a present
+[23:22:38] DrDerpenstein: // 
+[23:22:48] The Hitman: /dropmoney 75000
+[23:23:54] The Hitman<STEAM_0:1:83383015> spawned model models/props_c17/fence03a.mdl
+[23:23:58] The Hitman<STEAM_0:1:83383015> spawned model models/props_c17/fence02a.mdl
+[23:24:03] The Hitman<STEAM_0:1:83383015> spawned model models/props_c17/fence02a.mdl
+[23:24:26] The Hitman<STEAM_0:1:83383015> used the tool material on models/props_c17/fence02a.mdl
+[23:24:27] The Hitman<STEAM_0:1:83383015> used the tool material on models/props_c17/fence02a.mdl
+[23:24:30] The Hitman<STEAM_0:1:83383015> spawned model models/props_c17/concrete_barrier001a.mdl
+[23:24:37] The Hitman<STEAM_0:1:83383015> used the tool material on models/props_c17/concrete_barrier001a.mdl
+[23:24:37] The Hitman<STEAM_0:1:83383015> used the tool material on models/props_c17/concrete_barrier001a.mdl
+[23:24:38] The Hitman<STEAM_0:1:83383015> spawned model models/props_c17/concrete_barrier001a.mdl
+[23:24:46] The Hitman<STEAM_0:1:83383015> used the tool material on models/props_c17/concrete_barrier001a.mdl
+[23:24:48] The Hitman<STEAM_0:1:83383015> spawned model models/props_c17/furnituredrawer003a.mdl
+[23:24:50] The Hitman<STEAM_0:1:83383015> spawned model models/props_c17/furnituredrawer003a.mdl
+[23:24:59] The Hitman<STEAM_0:1:83383015> spawned model models/props_c17/furnituredrawer003a.mdl
+[23:25:00] The Hitman<STEAM_0:1:83383015> used the tool material on models/props_c17/furnituredrawer003a.mdl
+[23:25:06] The Hitman<STEAM_0:1:83383015> used the tool material on models/props_c17/furnituredrawer003a.mdl
+[23:25:13] The Hitman<STEAM_0:1:83383015> spawned model models/props_c17/concrete_barrier001a.mdl
+[23:25:16] The Hitman<STEAM_0:1:83383015> used the tool material on models/props_c17/concrete_barrier001a.mdl
+[23:25:21] The Hitman<STEAM_0:1:83383015> spawned model models/props_c17/fence01a.mdl
+[23:25:32] The Hitman<STEAM_0:1:83383015> used the tool material on models/props_c17/fence01a.mdl
+[23:25:34] The Hitman<STEAM_0:1:83383015> spawned model models/props_c17/fence01a.mdl
+[23:25:36] DrDerpenstein: /dropmoney 100000
+[23:25:40] The Hitman<STEAM_0:1:83383015> used the tool material on models/props_c17/fence01a.mdl
+[23:25:48] DrDerpenstein: /y This is a mug drop 1k in 10sec or I paint the sidewalk with your brains...unless I can't mug- 10sec to GTFO or you all die
+[23:25:53] DrDerpenstein killed Doof using player
+[23:26:08] Dropped "mosesvalde73" from server<STEAM_0:1:190369996>
+[23:26:41] Client "mosesvalde73" connected.
+[23:26:44] DrDerpenstein: // what was moseveld?
+[23:26:51] DrDerpenstein: // who*
+[23:27:02] b3ar: /ooc how did i suicide if afk lol
+[23:27:10] DrDerpenstein: // type kill in console
+[23:27:19] b3ar: /ooc but i was afk
+[23:27:26] DrDerpenstein: // hunger?
+[23:27:35] Client "mosesvalde73" spawned in server <STEAM_0:1:190369996> (took 54 seconds).
+[23:27:37] b3ar: /ooc oh
+[23:27:42] DrDerpenstein: // eat a snickers fatty
+[23:28:04] b3ar: /goto dr
+[23:28:19] b3ar: /goto doof
+[23:28:30] DrDerpenstein: /pm b3ar please dont tp around so much
+[23:28:46] b3ar: /ooc how do i
+[23:29:10] b3ar: /message drderp i cant fly im just checking on everyone lol
+[23:29:20] DrDerpenstein: /pm b3ar cant what?
+[23:29:25] Dropped "Katana2424" from server<STEAM_0:0:495987419>
+[23:29:30] Client "Katana2424" connected.
+[23:29:48] b3ar: /message drderp fly,just,checking,on,everyone
+[23:29:57] b3ar: /message drderp
+[23:30:01] Client "Katana2424" spawned in server <STEAM_0:0:495987419> (took 31 seconds).
+[23:30:02] b3ar: /ooc how do i pm
+[23:30:11] DrDerpenstein: // type /pm name message
+[23:30:18] b3ar: /ooc i said "cant fly and im just checking on veryone"
+[23:30:36] b3ar: /pm drderp so idk what to do lol
+[23:30:38] Doof<STEAM_0:1:426762407> spawned vehicle models/sligwolf/tractor/tractor_trailer.mdl
+[23:30:40] Katana2424<STEAM_0:0:495987419> spawned model models/props_c17/furnituredrawer001a.mdl
+[23:30:53] Katana2424<STEAM_0:0:495987419> spawned model models/props_c17/furniturebathtub001a.mdl
+[23:31:01] Katana2424<STEAM_0:0:495987419> spawned model models/props_c17/furnituredrawer001a_chunk03.mdl
+[23:31:02] Katana2424<STEAM_0:0:495987419> spawned model models/props_c17/furnituredrawer001a_chunk02.mdl
+[23:31:04] Katana2424<STEAM_0:0:495987419> spawned model models/props_c17/furnituredrawer001a_chunk01.mdl
+[23:31:06] Katana2424<STEAM_0:0:495987419> spawned model models/props_c17/furniturecupboard001a.mdl
+[23:31:09] Katana2424<STEAM_0:0:495987419> spawned model models/props_c17/furniturestove001a.mdl
+[23:31:12] Katana2424<STEAM_0:0:495987419> spawned model models/props_junk/plasticcrate01a.mdl
+[23:31:14] Katana2424<STEAM_0:0:495987419> spawned model models/props_junk/plasticcrate01a.mdl
+[23:31:16] Doof<STEAM_0:1:426762407> spawned vehicle models/sligwolf/tractor/tractor_trailer.mdl
+[23:31:32] Doof<STEAM_0:1:426762407> spawned vehicle models/sligwolf/tractor/tractor_trailer.mdl
+[23:31:49] mosesvalde73<STEAM_0:1:190369996> used the tool fading_door on maps/rp_downtown_tits_v2.bsp
+[23:31:53] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep wcd_admin
+[23:32:17] mosesvalde73<STEAM_0:1:190369996> used the tool keypad_willox on maps/rp_downtown_tits_v2.bsp
+[23:32:19] DrDerpenstein<STEAM_0:0:13562763> spawned vehicle models/sligwolf/fcc/flying_crawler_car.mdl
+[23:32:20] mosesvalde73<STEAM_0:1:190369996> used the tool keypad_willox on models/props_lab/keypad.mdl
+[23:32:21] mosesvalde73<STEAM_0:1:190369996> used the tool keypad_willox on models/props_lab/keypad.mdl
+[23:32:43] b3ar<STEAM_0:1:80896282> spawned vehicle models/sligwolf/blue-x11/blue-x11.mdl
+[23:32:46] Client "21 Cabbage" connected.
+[23:32:46] Doof<STEAM_0:1:426762407> spawned vehicle models/sligwolf/blue-x14/blue-x14.mdl
+[23:33:44] Doof suicided!
+[23:33:54] mosesvalde73<STEAM_0:1:190369996> used the tool fading_door on maps/rp_downtown_tits_v2.bsp
+[23:33:57] mosesvalde73<STEAM_0:1:190369996> used the tool fading_door on maps/rp_downtown_tits_v2.bsp
+[23:33:57] mosesvalde73<STEAM_0:1:190369996> used the tool fading_door on maps/rp_downtown_tits_v2.bsp
+[23:33:59] mosesvalde73<STEAM_0:1:190369996> used the tool fading_door on maps/rp_downtown_tits_v2.bsp
+[23:34:04] mosesvalde73<STEAM_0:1:190369996> used the tool fading_door on maps/rp_downtown_tits_v2.bsp
+[23:34:04] mosesvalde73<STEAM_0:1:190369996> used the tool fading_door on maps/rp_downtown_tits_v2.bsp
+[23:34:04] mosesvalde73<STEAM_0:1:190369996> used the tool fading_door on maps/rp_downtown_tits_v2.bsp
+[23:34:04] mosesvalde73<STEAM_0:1:190369996> used the tool fading_door on maps/rp_downtown_tits_v2.bsp
+[23:34:05] mosesvalde73<STEAM_0:1:190369996> used the tool fading_door on maps/rp_downtown_tits_v2.bsp
+[23:34:05] mosesvalde73<STEAM_0:1:190369996> used the tool fading_door on maps/rp_downtown_tits_v2.bsp
+[23:34:05] mosesvalde73<STEAM_0:1:190369996> used the tool fading_door on maps/rp_downtown_tits_v2.bsp
+[23:34:06] mosesvalde73<STEAM_0:1:190369996> used the tool fading_door on maps/rp_downtown_tits_v2.bsp
+[23:34:06] mosesvalde73<STEAM_0:1:190369996> used the tool fading_door on maps/rp_downtown_tits_v2.bsp
+[23:34:06] mosesvalde73<STEAM_0:1:190369996> used the tool fading_door on maps/rp_downtown_tits_v2.bsp
+[23:34:07] mosesvalde73<STEAM_0:1:190369996> used the tool fading_door on maps/rp_downtown_tits_v2.bsp
+[23:34:07] mosesvalde73<STEAM_0:1:190369996> used the tool fading_door on maps/rp_downtown_tits_v2.bsp
+[23:34:07] mosesvalde73<STEAM_0:1:190369996> used the tool fading_door on maps/rp_downtown_tits_v2.bsp
+[23:34:19] The Hitman<STEAM_0:1:83383015> spawned model models/props_c17/concrete_barrier001a.mdl
+[23:34:30] The Hitman<STEAM_0:1:83383015> spawned model models/props_c17/concrete_barrier001a.mdl
+[23:34:41] mosesvalde73<STEAM_0:1:190369996> used the tool fading_door on maps/rp_downtown_tits_v2.bsp
+[23:34:41] b3ar<STEAM_0:1:80896282> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[23:34:46] The Hitman<STEAM_0:1:83383015> spawned model models/props_c17/concrete_barrier001a.mdl
+[23:34:52] The Hitman<STEAM_0:1:83383015> spawned model models/props_c17/concrete_barrier001a.mdl
+[23:35:02] b3ar<STEAM_0:1:80896282> used the tool material on models/props_building_details/storefront_template001a_bars.mdl
+[23:35:08] b3ar<STEAM_0:1:80896282> used the tool material on maps/rp_downtown_tits_v2.bsp
+[23:35:09] b3ar<STEAM_0:1:80896282> used the tool material on models/props_building_details/storefront_template001a_bars.mdl
+[23:35:11] b3ar<STEAM_0:1:80896282> used the tool material on models/props_building_details/storefront_template001a_bars.mdl
+[23:35:13] b3ar<STEAM_0:1:80896282> used the tool material on models/props_building_details/storefront_template001a_bars.mdl
+[23:35:14] b3ar<STEAM_0:1:80896282> used the tool material on models/props_building_details/storefront_template001a_bars.mdl
+[23:35:15] b3ar<STEAM_0:1:80896282> used the tool material on models/props_building_details/storefront_template001a_bars.mdl
+[23:35:17] b3ar<STEAM_0:1:80896282> used the tool material on models/props_building_details/storefront_template001a_bars.mdl
+[23:35:21] b3ar<STEAM_0:1:80896282> used the tool material on models/props_building_details/storefront_template001a_bars.mdl
+[23:35:23] b3ar<STEAM_0:1:80896282> used the tool material on models/props_building_details/storefront_template001a_bars.mdl
+[23:35:25] b3ar<STEAM_0:1:80896282> used the tool material on models/props_building_details/storefront_template001a_bars.mdl
+[23:35:32] b3ar<STEAM_0:1:80896282> used the tool material on models/props_building_details/storefront_template001a_bars.mdl
+[23:35:34] b3ar<STEAM_0:1:80896282> used the tool material on models/props_building_details/storefront_template001a_bars.mdl
+[23:35:37] b3ar<STEAM_0:1:80896282> used the tool material on models/props_building_details/storefront_template001a_bars.mdl
+[23:35:39] b3ar<STEAM_0:1:80896282> used the tool material on models/props_building_details/storefront_template001a_bars.mdl
+[23:35:42] b3ar<STEAM_0:1:80896282> used the tool material on models/props_building_details/storefront_template001a_bars.mdl
+[23:35:46] mosesvalde73<STEAM_0:1:190369996> used the tool fading_door on maps/rp_downtown_tits_v2.bsp
+[23:36:04] Katana2424<STEAM_0:0:495987419> spawned model models/props_debris/metal_panel02a.mdl
+[23:36:06] b3ar<STEAM_0:1:80896282> spawned model models/props_c17/fence03a.mdl
+[23:36:10] b3ar<STEAM_0:1:80896282> spawned model models/props_c17/fence01a.mdl
+[23:36:33] Client "N1ggeru F4ggimus" connected.
+[23:36:51] b3ar<STEAM_0:1:80896282> used the tool material on models/props_c17/fence01a.mdl
+[23:36:54] Katana2424<STEAM_0:0:495987419> spawned model models/props_lab/blastdoor001c.mdl
+[23:36:55] b3ar<STEAM_0:1:80896282> used the tool material on models/props_c17/fence01a.mdl
+[23:36:56] b3ar<STEAM_0:1:80896282> used the tool material on models/props_c17/fence01a.mdl
+[23:36:59] b3ar<STEAM_0:1:80896282> used the tool material on models/props_c17/fence01a.mdl
+[23:37:01] b3ar<STEAM_0:1:80896282> used the tool material on models/props_c17/fence01a.mdl
+[23:37:03] b3ar<STEAM_0:1:80896282> used the tool material on models/props_c17/fence01a.mdl
+[23:37:05] b3ar<STEAM_0:1:80896282> used the tool material on models/props_c17/fence01a.mdl
+[23:37:12] b3ar<STEAM_0:1:80896282> used the tool material on models/props_c17/fence01a.mdl
+[23:37:13] b3ar<STEAM_0:1:80896282> used the tool material on models/props_c17/fence01a.mdl
+[23:37:14] Client "21 Cabbage" spawned in server <STEAM_0:1:481873656> (took 268 seconds).
+[23:37:15] b3ar<STEAM_0:1:80896282> used the tool material on models/props_c17/fence01a.mdl
+[23:37:18] b3ar<STEAM_0:1:80896282> used the tool material on models/props_c17/fence01a.mdl
+[23:37:19] b3ar<STEAM_0:1:80896282> used the tool material on models/props_c17/fence01a.mdl
+[23:37:21] b3ar<STEAM_0:1:80896282> used the tool material on models/props_c17/fence01a.mdl
+[23:37:23] Doof: /ooc i found it, my asshole friends drove it into the ocean and i cant get it out
+[23:37:24] b3ar<STEAM_0:1:80896282> used the tool material on models/props_c17/fence01a.mdl
+[23:37:28] b3ar<STEAM_0:1:80896282> used the tool material on models/props_c17/fence01a.mdl
+[23:37:31] b3ar<STEAM_0:1:80896282> used the tool material on models/props_c17/fence01a.mdl
+[23:37:31] DrDerpenstein: /goto doof
+[23:37:33] b3ar<STEAM_0:1:80896282> used the tool material on models/props_c17/fence01a.mdl
+[23:37:39] b3ar<STEAM_0:1:80896282> spawned model models/props_c17/fence02b.mdl
+[23:38:00] Katana2424<STEAM_0:0:495987419> spawned model models/props_lab/blastdoor001b.mdl
+[23:38:11] b3ar<STEAM_0:1:80896282> used the tool material on models/props_c17/fence02b.mdl
+[23:38:21] b3ar<STEAM_0:1:80896282> used the tool remover on models/props_c17/fence01a.mdl
+[23:38:31] b3ar<STEAM_0:1:80896282> used the tool fading_door on models/props_building_details/storefront_template001a_bars.mdl
+[23:38:45] Katana2424<STEAM_0:0:495987419> spawned model models/props_lab/blastdoor001c.mdl
+[23:38:49] b3ar<STEAM_0:1:80896282> used the tool stacker_improved on models/props_building_details/storefront_template001a_bars.mdl
+[23:38:49] b3ar<STEAM_0:1:80896282> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[23:39:04] b3ar<STEAM_0:1:80896282> used the tool fading_door on models/props_building_details/storefront_template001a_bars.mdl
+[23:39:12] Doof was killed by prop_vehicle_jeep
+[23:39:12] b3ar<STEAM_0:1:80896282> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[23:39:16] b3ar<STEAM_0:1:80896282> used the tool fading_door on maps/rp_downtown_tits_v2.bsp
+[23:39:16] b3ar<STEAM_0:1:80896282> used the tool fading_door on models/props_building_details/storefront_template001a_bars.mdl
+[23:39:22] b3ar<STEAM_0:1:80896282> used the tool material on maps/rp_downtown_tits_v2.bsp
+[23:39:23] b3ar<STEAM_0:1:80896282> used the tool material on models/props_building_details/storefront_template001a_bars.mdl
+[23:39:29] b3ar<STEAM_0:1:80896282> used the tool material on models/props_building_details/storefront_template001a_bars.mdl
+[23:39:31] b3ar<STEAM_0:1:80896282> used the tool material on models/props_building_details/storefront_template001a_bars.mdl
+[23:39:34] b3ar<STEAM_0:1:80896282> used the tool material on models/props_building_details/storefront_template001a_bars.mdl
+[23:39:36] b3ar<STEAM_0:1:80896282> used the tool material on models/props_building_details/storefront_template001a_bars.mdl
+[23:39:39] b3ar<STEAM_0:1:80896282> used the tool material on models/props_building_details/storefront_template001a_bars.mdl
+[23:39:41] b3ar<STEAM_0:1:80896282> used the tool material on models/props_building_details/storefront_template001a_bars.mdl
+[23:39:55] b3ar<STEAM_0:1:80896282> used the tool material on models/props_building_details/storefront_template001a_bars.mdl
+[23:39:59] b3ar<STEAM_0:1:80896282> used the tool material on models/props_building_details/storefront_template001a_bars.mdl
+[23:40:01] b3ar<STEAM_0:1:80896282> used the tool material on maps/rp_downtown_tits_v2.bsp
+[23:40:02] b3ar<STEAM_0:1:80896282> used the tool material on models/props_building_details/storefront_template001a_bars.mdl
+[23:40:05] b3ar<STEAM_0:1:80896282> used the tool material on models/props_building_details/storefront_template001a_bars.mdl
+[23:40:07] b3ar<STEAM_0:1:80896282> used the tool material on models/props_building_details/storefront_template001a_bars.mdl
+[23:40:12] b3ar<STEAM_0:1:80896282> used the tool material on models/props_building_details/storefront_template001a_bars.mdl
+[23:40:23] b3ar<STEAM_0:1:80896282> used the tool material on maps/rp_downtown_tits_v2.bsp
+[23:40:24] b3ar<STEAM_0:1:80896282> used the tool material on models/props_building_details/storefront_template001a_bars.mdl
+[23:40:27] b3ar<STEAM_0:1:80896282> used the tool material on models/props_building_details/storefront_template001a_bars.mdl
+[23:40:30] Client "N1ggeru F4ggimus" spawned in server <STEAM_0:1:80865050> (took 237 seconds).
+[23:40:51] b3ar<STEAM_0:1:80896282> used the tool fading_door on models/props_c17/fence02b.mdl
+[23:40:55] b3ar<STEAM_0:1:80896282> used the tool stacker_improved on models/props_c17/fence02b.mdl
+[23:40:55] b3ar<STEAM_0:1:80896282> spawned model models/props_c17/fence02b.mdl
+[23:41:10] b3ar<STEAM_0:1:80896282> used the tool fading_door on models/props_c17/fence02b.mdl
+[23:41:21] b3ar<STEAM_0:1:80896282> used the tool stacker_improved on models/props_building_details/storefront_template001a_bars.mdl
+[23:41:21] b3ar<STEAM_0:1:80896282> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[23:41:22] b3ar<STEAM_0:1:80896282> used the tool stacker_improved on models/props_building_details/storefront_template001a_bars.mdl
+[23:41:36] b3ar<STEAM_0:1:80896282> used the tool stacker_improved on models/props_building_details/storefront_template001a_bars.mdl
+[23:41:36] b3ar<STEAM_0:1:80896282> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[23:41:47] b3ar<STEAM_0:1:80896282> used the tool camera on maps/rp_downtown_tits_v2.bsp
+[23:42:16] Dropped "21 Cabbage" from server<STEAM_0:1:481873656>
+[23:42:30] DrDerpenstein killed Doof using player
+[23:43:28] b3ar<STEAM_0:1:80896282> used the tool keypad_willox on maps/rp_downtown_tits_v2.bsp
+[23:43:34] b3ar<STEAM_0:1:80896282> used the tool keypad_willox on maps/rp_downtown_tits_v2.bsp
+[23:43:34] b3ar<STEAM_0:1:80896282> used the tool keypad_willox on maps/rp_downtown_tits_v2.bsp
+[23:43:34] b3ar<STEAM_0:1:80896282> used the tool keypad_willox on maps/rp_downtown_tits_v2.bsp
+[23:43:34] b3ar<STEAM_0:1:80896282> used the tool keypad_willox on maps/rp_downtown_tits_v2.bsp
+[23:43:35] b3ar<STEAM_0:1:80896282> used the tool keypad_willox on maps/rp_downtown_tits_v2.bsp
+[23:43:36] b3ar<STEAM_0:1:80896282> used the tool keypad_willox on maps/rp_downtown_tits_v2.bsp
+[23:43:37] b3ar<STEAM_0:1:80896282> used the tool keypad_willox on maps/rp_downtown_tits_v2.bsp
+[23:43:37] b3ar<STEAM_0:1:80896282> used the tool keypad_willox on maps/rp_downtown_tits_v2.bsp
+[23:43:38] b3ar<STEAM_0:1:80896282> used the tool keypad_willox on maps/rp_downtown_tits_v2.bsp
+[23:43:51] b3ar<STEAM_0:1:80896282> used the tool keypad_willox on maps/rp_downtown_tits_v2.bsp
+[23:43:53] b3ar<STEAM_0:1:80896282> used the tool keypad_willox on maps/rp_downtown_tits_v2.bsp
+[23:43:58] Client "21 Cabbage" connected.
+[23:44:11] b3ar<STEAM_0:1:80896282> used the tool light on maps/rp_downtown_tits_v2.bsp
+[23:44:12] b3ar<STEAM_0:1:80896282> used the tool light on maps/rp_downtown_tits_v2.bsp
+[23:44:13] b3ar<STEAM_0:1:80896282> used the tool light on maps/rp_downtown_tits_v2.bsp
+[23:44:14] b3ar<STEAM_0:1:80896282> used the tool light on maps/rp_downtown_tits_v2.bsp
+[23:44:19] b3ar<STEAM_0:1:80896282> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[23:44:23] b3ar<STEAM_0:1:80896282> used the tool material on models/props_building_details/storefront_template001a_bars.mdl
+[23:44:29] b3ar<STEAM_0:1:80896282> used the tool material on models/props_building_details/storefront_template001a_bars.mdl
+[23:44:35] DrDerpenstein: type /dropmoney 10000
+[23:45:08] b3ar<STEAM_0:1:80896282> used the tool button on maps/rp_downtown_tits_v2.bsp
+[23:45:12] b3ar<STEAM_0:1:80896282> used the tool button on maps/rp_downtown_tits_v2.bsp
+[23:45:29] Client "21 Cabbage" connected.
+[23:45:31] The Hitman: /invholster8
+[23:45:43] The Hitman: /invholster
+[23:45:44] b3ar<STEAM_0:1:80896282> used the tool textscreen on maps/rp_downtown_tits_v2.bsp
+[23:45:53] DrDerpenstein: type /dropmoney 10000
+[23:46:04] b3ar<STEAM_0:1:80896282> used the tool camera on maps/rp_downtown_tits_v2.bsp
+[23:46:11] DrDerpenstein: /dropmoney 10000
+[23:46:14] b3ar<STEAM_0:1:80896282> used the tool camera on maps/rp_downtown_tits_v2.bsp
+[23:46:30] b3ar<STEAM_0:1:80896282> used the tool material on models/dav0r/camera.mdl
+[23:46:35] b3ar<STEAM_0:1:80896282> used the tool material on models/dav0r/camera.mdl
+[23:46:39] DrDerpenstein: like hello
+[23:46:42] b3ar<STEAM_0:1:80896282> used the tool material on maps/rp_downtown_tits_v2.bsp
+[23:46:42] b3ar<STEAM_0:1:80896282> used the tool material on models/dav0r/camera.mdl
+[23:46:45] b3ar<STEAM_0:1:80896282> used the tool material on maps/rp_downtown_tits_v2.bsp
+[23:46:45] b3ar<STEAM_0:1:80896282> used the tool material on models/dav0r/camera.mdl
+[23:46:48] b3ar<STEAM_0:1:80896282> used the tool material on models/dav0r/camera.mdl
+[23:46:48] b3ar<STEAM_0:1:80896282> used the tool material on models/dav0r/camera.mdl
+[23:46:50] b3ar<STEAM_0:1:80896282> used the tool material on models/dav0r/camera.mdl
+[23:46:52] b3ar<STEAM_0:1:80896282> used the tool material on models/dav0r/camera.mdl
+[23:46:57] b3ar<STEAM_0:1:80896282> used the tool material on models/dav0r/camera.mdl
+[23:47:02] b3ar<STEAM_0:1:80896282> used the tool material on models/dav0r/camera.mdl
+[23:47:02] Doof: /drop money 1
+[23:47:07] b3ar<STEAM_0:1:80896282> used the tool material on models/dav0r/camera.mdl
+[23:47:09] b3ar<STEAM_0:1:80896282> used the tool material on models/dav0r/camera.mdl
+[23:47:11] b3ar<STEAM_0:1:80896282> used the tool material on models/dav0r/camera.mdl
+[23:47:14] b3ar<STEAM_0:1:80896282> used the tool material on models/dav0r/camera.mdl
+[23:47:39] Client "21 Cabbage" spawned in server <STEAM_0:1:481873656> (took 130 seconds).
+[23:48:56] Doof: /advert raid
+[23:49:00] DrDerpenstein: /pm 21 hello
+[23:49:08] Doof killed Katana2424 using player
+[23:49:10] Doof killed mosesvalde73 using player
+[23:49:13] Doof killed N1ggeru F4ggimus using player
+[23:50:46] DrDerpenstein: // GUN DEALERS CANNOT RAID!
+[23:51:11] 21 Cabbage: // hello dr
+[23:51:16] DrDerpenstein: // hola
+[23:51:20] 21 Cabbage: // i got grounded XD
+[23:51:31] 21 Cabbage: // and i cant talk rn cause of that lol
+[23:51:32] DrDerpenstein: // grounded? for the phoe thing?
+[23:51:38] 21 Cabbage: no
+[23:51:41] b3ar: /cloak b3ar
+[23:51:42] 21 Cabbage: // no
+[23:52:09] DrDerpenstein: /dropmoney 10000.
+[23:52:12] Doof: /ooc derp where is my car you said it was outside spawn and it wasnt
+[23:52:23] 21 Cabbage: // i quit my fire fighter program cause i didnt want to do it anymore after a year
+[23:52:26] b3ar: /ooc someone should become a cop
+[23:52:42] 21 Cabbage: // brb my cat is legit eating my toes and im bleeding, she is only a kitten
+[23:52:49] b3ar: /ooc so i can chase the bag 
+[23:52:50] DrDerpenstein: // at least you didnt find it not for you after 20 years on the job
+[23:53:19] b3ar: /advert someone raid my i have 2 diamond printers
+[23:53:30] DrDerpenstein: /advert wya?
+[23:53:39] b3ar<STEAM_0:1:80896282> used the tool camera on maps/rp_downtown_tits_v2.bsp
+[23:53:55] 21 Cabbage: // im back
+[23:54:05] b3ar: /ooc the little house by spawn
+[23:54:16] Doof<STEAM_0:1:426762407> spawned vehicle models/swmodels/swbuggy.mdl
+[23:54:25] b3ar: /ooc there is a big ass k0s sign
+[23:54:32] 21 Cabbage: // cant talk lol sorry dr
+[23:54:38] DrDerpenstein: // its k
+[23:54:46] b3ar: /ooc raid me for my printers 
+[23:55:00] b3ar: /advert raid me for 2 diamond printers
+[23:55:02] 21 Cabbage: / / wwwooow
+[23:55:07] DrDerpenstein: /advert what lil house?
+[23:55:12] Doof<STEAM_0:1:426762407> spawned vehicle models/swmodels/swoldbuggy.mdl
+[23:55:16] 21 Cabbage: /pm derp wanna raid him?
+[23:55:20] b3ar: /advert there is a kos sign on it
+[23:55:27] DrDerpenstein: /pm 21 hes litterally asking for it
+[23:55:29] b3ar: /advert by fountain
+[23:55:48] b3ar: /advert and or vending machines
+[23:55:57] 21 Cabbage: /pm  derp mk
+[23:56:02] 21 Cabbage: /pm dr k
+[23:56:13] DrDerpenstein: /pm 21 hes by vending machines
+[23:56:16] DrDerpenstein: /pm 21 im in
+[23:56:26] 21 Cabbage: /pm dr where his base at?
+[23:56:35] DrDerpenstein: /pm 21 vending machines 
+[23:56:38] DrDerpenstein: /pm 21 kos sign
+[23:56:41] 21 Cabbage: /pm dr your in?
+[23:56:49] Doof: /advert raid
+[23:56:58] DrDerpenstein killed Doof using player
+[23:57:05] b3ar: /ooc wtf
+[23:57:06] 21 Cabbage: lol
+[23:57:09] 21 Cabbage: /advert assist
+[23:57:09] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_breachingcharge
+[23:57:14] Doof: /occ bruh
+[23:57:18] Doof: /ooc bruh
+[23:57:32] 21 Cabbage: that wasnt 5 seconds
+[23:57:35] 21 Cabbage: lol
+[23:57:37] 21 Cabbage: oh nvm
+[23:57:42] 21 Cabbage: yea facts
+[23:57:44] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_breachingcharge
+[23:57:49] 21 Cabbage: dont think you can have those keypads there xD
+[23:58:12] b3ar killed 21 Cabbage using player
+[23:58:17] 21 Cabbage: // rip xD
+[23:58:22] 21 Cabbage: // i should have taken meth
+[23:58:29] DrDerpenstein killed b3ar using player
+[23:58:39] Doof killed DrDerpenstein using player
+[23:58:54] DrDerpenstein: // rip
+[23:58:56] b3ar: /goto doof
+[23:58:58] 21 Cabbage: // dr ima put my base down from last time xD
+[23:59:05] b3ar: /bring doof
+[23:59:06] DrDerpenstein: // ... the game is on!
+[23:59:11] 21 Cabbage: // dr base with me
+[23:59:12] DrDerpenstein: // im on ur team tho
+[23:59:24] 21 Cabbage: // on mine?
+[23:59:34] 21 Cabbage: // yea base with me
+<Logging continued in "data/ulx_logs/09-20-19.txt">

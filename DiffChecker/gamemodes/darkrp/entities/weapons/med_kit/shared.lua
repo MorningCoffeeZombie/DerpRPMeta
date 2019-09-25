@@ -4,7 +4,7 @@ end
 
 SWEP.PrintName = "Medic Kit"
 SWEP.Author = "DarkRP Developers"
-SWEP.Slot = 2
+SWEP.Slot = 4
 SWEP.SlotPos = 0
 SWEP.Description = "Heals the wounded."
 SWEP.Contact = ""
@@ -24,14 +24,14 @@ SWEP.Primary.Recoil = 0
 SWEP.Primary.ClipSize  = -1
 SWEP.Primary.DefaultClip = 1
 SWEP.Primary.Automatic  = true
-SWEP.Primary.Delay = 0.05
+SWEP.Primary.Delay = 0.1
 SWEP.Primary.Ammo = "none"
 
 SWEP.Secondary.Recoil = 0
 SWEP.Secondary.ClipSize = -1
 SWEP.Secondary.DefaultClip = 1
 SWEP.Secondary.Automatic = true
-SWEP.Secondary.Delay = 0.15
+SWEP.Secondary.Delay = 0.3
 SWEP.Secondary.Ammo = "none"
 
 function SWEP:PrimaryAttack()
@@ -61,7 +61,7 @@ function SWEP:PrimaryAttack()
     self:GetOwner():LagCompensation(false)
 
     if found then
-        found:SetHealth(found:Health() + 2)
+        found:SetHealth(found:Health() + 1)
         self:EmitSound("hl1/fvox/boop.wav", 150, found:Health() / found:GetMaxHealth() * 100, 1, CHAN_AUTO)
     end
 end
@@ -71,8 +71,7 @@ function SWEP:SecondaryAttack()
     local ply = self:GetOwner()
     local maxhealth = self:GetOwner():GetMaxHealth() or 100
     if ply:Health() < maxhealth then
-        ply:SetHealth(ply:Health() + 2)
+        ply:SetHealth(ply:Health() + 1)
         self:EmitSound("hl1/fvox/boop.wav", 150, ply:Health() / ply:GetMaxHealth() * 100, 1, CHAN_AUTO)
     end
 end
-

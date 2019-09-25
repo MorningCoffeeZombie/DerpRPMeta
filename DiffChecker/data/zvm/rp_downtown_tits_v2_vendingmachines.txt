@@ -16,24 +16,15 @@
 				"rankid": -1.0,
 				"price": 1000.0,
 				"jobid": -1.0,
-				"class": "spawned_food",
+				"model": "models/food/hotdog.mdl",
 				"amount": 1.0,
 				"bg_color": {
 					"r": 255.0,
-					"b": 255.0,
+					"b": 0.0,
 					"a": 255.0,
 					"g": 255.0
 				},
-				"extraData": {
-					"foodItem": {
-						"energy": 100.0,
-						"price": 500.0,
-						"CustomCheckFailMsg": "\"8 inches, can ya handle that?\"",
-						"model": "models/food/hotdog.mdl",
-						"name": "Wiener",
-						"delay": 0.8
-					}
-				},
+				"class": "spawned_food",
 				"entData": {
 					"SID": 8.0,
 					"Skin": 0.0,
@@ -43,12 +34,12 @@
 					"FoodName": "Wiener",
 					"PhysicsObjects": {
 						"0": {
-							"Pos": "[-2137.1924 -2409.5728 -161.1998]",
 							"Frozen": false,
+							"Pos": "[-2137.1924 -2409.5728 -161.1998]",
 							"Angle": "{28.7487 64.198 -14.7438}"
 						}
 					},
-					"RenderGroup": 7.0,
+					"IsSpawnedFood": true,
 					"FlexScale": 1.0,
 					"Maxs": "[6.7856 2.7627 16.647]",
 					"Author": "Rickster",
@@ -63,21 +54,32 @@
 					"Contact": "",
 					"FoodPrice": 500.0,
 					"FoodEnergy": 100.0,
-					"FPPCanTouch": [],
+					"Angle": "{27.2554 59.3675 345.3453}",
 					"Purpose": "",
 					"AdminOnly": false,
 					"Class": "spawned_food",
 					"dt": [],
-					"Mins": "[-6.7856 -2.5374 11.7542]",
-					"ColGroup": 0.0,
+					"zvm_CollisionCooldown": true,
+					"foodItem": {
+						"energy": 100.0,
+						"price": 500.0,
+						"CustomCheckFailMsg": "\"8 inches, can ya handle that?\"",
+						"model": "models/food/hotdog.mdl",
+						"name": "Wiener",
+						"delay": 0.8
+					},
 					"FPPCanTouchWhy": [],
 					"Instructions": "",
 					"Pos": "[-2141.5994 -2405.5957 -163.0466]",
-					"IsSpawnedFood": true,
-					"Angle": "{27.2554 59.3675 345.3453}",
-					"zvm_CollisionCooldown": true,
+					"Mins": "[-6.7856 -2.5374 11.7542]",
+					"FPPCanTouch": [],
+					"ColGroup": 0.0,
 					"onlyremover": true,
 					"Model": "models/food/hotdog.mdl",
+					"RenderGroup": 7.0
+				},
+				"name": "Wiener",
+				"extraData": {
 					"foodItem": {
 						"energy": 100.0,
 						"price": 500.0,
@@ -86,32 +88,21 @@
 						"name": "Wiener",
 						"delay": 0.8
 					}
-				},
-				"name": "Wiener",
-				"model": "models/food/hotdog.mdl"
+				}
 			},
 			"530021269": {
 				"rankid": -1.0,
 				"price": 1000.0,
 				"jobid": -1.0,
-				"class": "spawned_food",
+				"model": "models/food/burger.mdl",
 				"amount": 1.0,
 				"bg_color": {
 					"r": 255.0,
-					"b": 255.0,
+					"b": 0.0,
 					"a": 255.0,
 					"g": 255.0
 				},
-				"extraData": {
-					"foodItem": {
-						"energy": 100.0,
-						"price": 500.0,
-						"CustomCheckFailMsg": "",
-						"model": "models/food/burger.mdl",
-						"name": "Krabby Patty",
-						"delay": 0.8
-					}
-				},
+				"class": "spawned_food",
 				"entData": {
 					"SID": 8.0,
 					"Skin": 0.0,
@@ -121,12 +112,12 @@
 					"FoodName": "Krabby Patty",
 					"PhysicsObjects": {
 						"0": {
-							"Pos": "[-2080.6111 -2378.1624 -177.5403]",
 							"Frozen": false,
+							"Pos": "[-2080.6111 -2378.1624 -177.5403]",
 							"Angle": "{18.858 132.3529 -0.7257}"
 						}
 					},
-					"RenderGroup": 7.0,
+					"IsSpawnedFood": true,
 					"FlexScale": 1.0,
 					"Maxs": "[3.4682 3.4726 16.6863]",
 					"Author": "Rickster",
@@ -141,21 +132,32 @@
 					"Contact": "",
 					"FoodPrice": 500.0,
 					"FoodEnergy": 100.0,
-					"FPPCanTouch": [],
+					"Angle": "{16.3401 135.2889 359.1379}",
 					"Purpose": "",
 					"AdminOnly": false,
 					"Class": "spawned_food",
 					"dt": [],
-					"Mins": "[-3.4979 -3.4935 11.8308]",
-					"ColGroup": 0.0,
+					"zvm_CollisionCooldown": true,
+					"foodItem": {
+						"energy": 100.0,
+						"price": 500.0,
+						"CustomCheckFailMsg": "",
+						"model": "models/food/burger.mdl",
+						"name": "Krabby Patty",
+						"delay": 0.8
+					},
 					"FPPCanTouchWhy": [],
 					"Instructions": "",
 					"Pos": "[-2080.0264 -2374.0818 -180.1538]",
-					"IsSpawnedFood": true,
-					"Angle": "{16.3401 135.2889 359.1379}",
-					"zvm_CollisionCooldown": true,
+					"Mins": "[-3.4979 -3.4935 11.8308]",
+					"FPPCanTouch": [],
+					"ColGroup": 0.0,
 					"onlyremover": true,
 					"Model": "models/food/burger.mdl",
+					"RenderGroup": 7.0
+				},
+				"name": "Krabby Patty",
+				"extraData": {
 					"foodItem": {
 						"energy": 100.0,
 						"price": 500.0,
@@ -164,32 +166,21 @@
 						"name": "Krabby Patty",
 						"delay": 0.8
 					}
-				},
-				"name": "Krabby Patty",
-				"model": "models/food/burger.mdl"
+				}
 			},
 			"134479277": {
 				"rankid": -1.0,
 				"price": 1000.0,
 				"jobid": -1.0,
-				"class": "spawned_food",
+				"model": "models/props_junk/garbage_bag001a.mdl",
 				"amount": 1.0,
 				"bg_color": {
 					"r": 255.0,
-					"b": 255.0,
+					"b": 0.0,
 					"a": 255.0,
 					"g": 255.0
 				},
-				"extraData": {
-					"foodItem": {
-						"energy": 100.0,
-						"price": 500.0,
-						"CustomCheckFailMsg": "Fatty",
-						"model": "models/props_junk/garbage_bag001a.mdl",
-						"name": "Junk Food",
-						"delay": 0.8
-					}
-				},
+				"class": "spawned_food",
 				"entData": {
 					"SID": 8.0,
 					"Skin": 0.0,
@@ -199,12 +190,12 @@
 					"FoodName": "Junk Food",
 					"PhysicsObjects": {
 						"0": {
-							"Pos": "[-2084.7776 -2372.4919 -158.9531]",
 							"Frozen": false,
+							"Pos": "[-2084.7776 -2372.4919 -158.9531]",
 							"Angle": "{22.6614 133.0696 -0.3014}"
 						}
 					},
-					"RenderGroup": 7.0,
+					"IsSpawnedFood": true,
 					"FlexScale": 1.0,
 					"Maxs": "[9.3926 7.2414 5.5922]",
 					"Author": "Rickster",
@@ -219,21 +210,32 @@
 					"Contact": "",
 					"FoodPrice": 500.0,
 					"FoodEnergy": 100.0,
-					"FPPCanTouch": [],
+					"Angle": "{19.5599 136.5531 359.4934}",
 					"Purpose": "",
 					"AdminOnly": false,
 					"Class": "spawned_food",
 					"dt": [],
-					"Mins": "[-8.9302 -6.8883 -5.5105]",
-					"ColGroup": 0.0,
+					"zvm_CollisionCooldown": true,
+					"foodItem": {
+						"energy": 100.0,
+						"price": 500.0,
+						"CustomCheckFailMsg": "Fatty",
+						"model": "models/props_junk/garbage_bag001a.mdl",
+						"name": "Junk Food",
+						"delay": 0.8
+					},
 					"FPPCanTouchWhy": [],
 					"Instructions": "",
 					"Pos": "[-2083.3284 -2369.3928 -161.7369]",
-					"IsSpawnedFood": true,
-					"Angle": "{19.5599 136.5531 359.4934}",
-					"zvm_CollisionCooldown": true,
+					"Mins": "[-8.9302 -6.8883 -5.5105]",
+					"FPPCanTouch": [],
+					"ColGroup": 0.0,
 					"onlyremover": true,
 					"Model": "models/props_junk/garbage_bag001a.mdl",
+					"RenderGroup": 7.0
+				},
+				"name": "Junk Food",
+				"extraData": {
 					"foodItem": {
 						"energy": 100.0,
 						"price": 500.0,
@@ -242,9 +244,7 @@
 						"name": "Junk Food",
 						"delay": 0.8
 					}
-				},
-				"name": "Junk Food",
-				"model": "models/props_junk/garbage_bag001a.mdl"
+				}
 			}
 		}
 	},
@@ -265,24 +265,15 @@
 				"rankid": -1.0,
 				"price": 1000.0,
 				"jobid": -1.0,
-				"class": "spawned_food",
+				"model": "models/food/hotdog.mdl",
 				"amount": 1.0,
 				"bg_color": {
 					"r": 255.0,
-					"b": 255.0,
+					"b": 0.0,
 					"a": 255.0,
 					"g": 255.0
 				},
-				"extraData": {
-					"foodItem": {
-						"energy": 100.0,
-						"price": 500.0,
-						"CustomCheckFailMsg": "\"8 inches, can ya handle that?\"",
-						"model": "models/food/hotdog.mdl",
-						"name": "Wiener",
-						"delay": 0.8
-					}
-				},
+				"class": "spawned_food",
 				"entData": {
 					"SID": 8.0,
 					"Skin": 0.0,
@@ -290,13 +281,7 @@
 					"Spawnable": false,
 					"PrintName": "Spawned Food",
 					"FoodName": "Wiener",
-					"PhysicsObjects": {
-						"0": {
-							"Frozen": false,
-							"Pos": "[-2137.1924 -2409.5728 -161.1998]",
-							"Angle": "{28.7487 64.198 -14.7438}"
-						}
-					},
+					"Instructions": "",
 					"IsSpawnedFood": true,
 					"FlexScale": 1.0,
 					"Maxs": "[6.7856 2.7627 16.647]",
@@ -312,21 +297,38 @@
 					"Contact": "",
 					"FoodPrice": 500.0,
 					"FoodEnergy": 100.0,
-					"Angle": "{27.2554 59.3675 345.3453}",
+					"FPPCanTouch": [],
 					"Purpose": "",
 					"AdminOnly": false,
 					"Class": "spawned_food",
 					"dt": [],
-					"zvm_CollisionCooldown": true,
-					"ColGroup": 0.0,
+					"Mins": "[-6.7856 -2.5374 11.7542]",
+					"foodItem": {
+						"energy": 100.0,
+						"price": 500.0,
+						"CustomCheckFailMsg": "\"8 inches, can ya handle that?\"",
+						"model": "models/food/hotdog.mdl",
+						"name": "Wiener",
+						"delay": 0.8
+					},
 					"FPPCanTouchWhy": [],
 					"RenderGroup": 7.0,
 					"Pos": "[-2141.5994 -2405.5957 -163.0466]",
-					"Instructions": "",
-					"FPPCanTouch": [],
-					"Mins": "[-6.7856 -2.5374 11.7542]",
+					"zvm_CollisionCooldown": true,
+					"Angle": "{27.2554 59.3675 345.3453}",
+					"ColGroup": 0.0,
 					"onlyremover": true,
 					"Model": "models/food/hotdog.mdl",
+					"PhysicsObjects": {
+						"0": {
+							"Pos": "[-2137.1924 -2409.5728 -161.1998]",
+							"Frozen": false,
+							"Angle": "{28.7487 64.198 -14.7438}"
+						}
+					}
+				},
+				"name": "Wiener",
+				"extraData": {
 					"foodItem": {
 						"energy": 100.0,
 						"price": 500.0,
@@ -335,32 +337,21 @@
 						"name": "Wiener",
 						"delay": 0.8
 					}
-				},
-				"name": "Wiener",
-				"model": "models/food/hotdog.mdl"
+				}
 			},
 			"530021269": {
 				"rankid": -1.0,
 				"price": 1000.0,
 				"jobid": -1.0,
-				"class": "spawned_food",
+				"model": "models/food/burger.mdl",
 				"amount": 1.0,
 				"bg_color": {
 					"r": 255.0,
-					"b": 255.0,
+					"b": 0.0,
 					"a": 255.0,
 					"g": 255.0
 				},
-				"extraData": {
-					"foodItem": {
-						"energy": 100.0,
-						"price": 500.0,
-						"CustomCheckFailMsg": "",
-						"model": "models/food/burger.mdl",
-						"name": "Krabby Patty",
-						"delay": 0.8
-					}
-				},
+				"class": "spawned_food",
 				"entData": {
 					"SID": 8.0,
 					"Skin": 0.0,
@@ -368,13 +359,7 @@
 					"Spawnable": false,
 					"PrintName": "Spawned Food",
 					"FoodName": "Krabby Patty",
-					"PhysicsObjects": {
-						"0": {
-							"Frozen": false,
-							"Pos": "[-2080.6111 -2378.1624 -177.5403]",
-							"Angle": "{18.858 132.3529 -0.7257}"
-						}
-					},
+					"Instructions": "",
 					"IsSpawnedFood": true,
 					"FlexScale": 1.0,
 					"Maxs": "[3.4682 3.4726 16.6863]",
@@ -390,21 +375,38 @@
 					"Contact": "",
 					"FoodPrice": 500.0,
 					"FoodEnergy": 100.0,
-					"Angle": "{16.3401 135.2889 359.1379}",
+					"FPPCanTouch": [],
 					"Purpose": "",
 					"AdminOnly": false,
 					"Class": "spawned_food",
 					"dt": [],
-					"zvm_CollisionCooldown": true,
-					"ColGroup": 0.0,
+					"Mins": "[-3.4979 -3.4935 11.8308]",
+					"foodItem": {
+						"energy": 100.0,
+						"price": 500.0,
+						"CustomCheckFailMsg": "",
+						"model": "models/food/burger.mdl",
+						"name": "Krabby Patty",
+						"delay": 0.8
+					},
 					"FPPCanTouchWhy": [],
 					"RenderGroup": 7.0,
 					"Pos": "[-2080.0264 -2374.0818 -180.1538]",
-					"Instructions": "",
-					"FPPCanTouch": [],
-					"Mins": "[-3.4979 -3.4935 11.8308]",
+					"zvm_CollisionCooldown": true,
+					"Angle": "{16.3401 135.2889 359.1379}",
+					"ColGroup": 0.0,
 					"onlyremover": true,
 					"Model": "models/food/burger.mdl",
+					"PhysicsObjects": {
+						"0": {
+							"Pos": "[-2080.6111 -2378.1624 -177.5403]",
+							"Frozen": false,
+							"Angle": "{18.858 132.3529 -0.7257}"
+						}
+					}
+				},
+				"name": "Krabby Patty",
+				"extraData": {
 					"foodItem": {
 						"energy": 100.0,
 						"price": 500.0,
@@ -413,32 +415,21 @@
 						"name": "Krabby Patty",
 						"delay": 0.8
 					}
-				},
-				"name": "Krabby Patty",
-				"model": "models/food/burger.mdl"
+				}
 			},
 			"134479277": {
 				"rankid": -1.0,
 				"price": 1000.0,
 				"jobid": -1.0,
-				"class": "spawned_food",
+				"model": "models/props_junk/garbage_bag001a.mdl",
 				"amount": 1.0,
 				"bg_color": {
 					"r": 255.0,
-					"b": 255.0,
+					"b": 0.0,
 					"a": 255.0,
 					"g": 255.0
 				},
-				"extraData": {
-					"foodItem": {
-						"energy": 100.0,
-						"price": 500.0,
-						"CustomCheckFailMsg": "Fatty",
-						"model": "models/props_junk/garbage_bag001a.mdl",
-						"name": "Junk Food",
-						"delay": 0.8
-					}
-				},
+				"class": "spawned_food",
 				"entData": {
 					"SID": 8.0,
 					"Skin": 0.0,
@@ -446,13 +437,7 @@
 					"Spawnable": false,
 					"PrintName": "Spawned Food",
 					"FoodName": "Junk Food",
-					"PhysicsObjects": {
-						"0": {
-							"Frozen": false,
-							"Pos": "[-2084.7776 -2372.4919 -158.9531]",
-							"Angle": "{22.6614 133.0696 -0.3014}"
-						}
-					},
+					"Instructions": "",
 					"IsSpawnedFood": true,
 					"FlexScale": 1.0,
 					"Maxs": "[9.3926 7.2414 5.5922]",
@@ -468,21 +453,38 @@
 					"Contact": "",
 					"FoodPrice": 500.0,
 					"FoodEnergy": 100.0,
-					"Angle": "{19.5599 136.5531 359.4934}",
+					"FPPCanTouch": [],
 					"Purpose": "",
 					"AdminOnly": false,
 					"Class": "spawned_food",
 					"dt": [],
-					"zvm_CollisionCooldown": true,
-					"ColGroup": 0.0,
+					"Mins": "[-8.9302 -6.8883 -5.5105]",
+					"foodItem": {
+						"energy": 100.0,
+						"price": 500.0,
+						"CustomCheckFailMsg": "Fatty",
+						"model": "models/props_junk/garbage_bag001a.mdl",
+						"name": "Junk Food",
+						"delay": 0.8
+					},
 					"FPPCanTouchWhy": [],
 					"RenderGroup": 7.0,
 					"Pos": "[-2083.3284 -2369.3928 -161.7369]",
-					"Instructions": "",
-					"FPPCanTouch": [],
-					"Mins": "[-8.9302 -6.8883 -5.5105]",
+					"zvm_CollisionCooldown": true,
+					"Angle": "{19.5599 136.5531 359.4934}",
+					"ColGroup": 0.0,
 					"onlyremover": true,
 					"Model": "models/props_junk/garbage_bag001a.mdl",
+					"PhysicsObjects": {
+						"0": {
+							"Pos": "[-2084.7776 -2372.4919 -158.9531]",
+							"Frozen": false,
+							"Angle": "{22.6614 133.0696 -0.3014}"
+						}
+					}
+				},
+				"name": "Junk Food",
+				"extraData": {
 					"foodItem": {
 						"energy": 100.0,
 						"price": 500.0,
@@ -491,9 +493,7 @@
 						"name": "Junk Food",
 						"delay": 0.8
 					}
-				},
-				"name": "Junk Food",
-				"model": "models/props_junk/garbage_bag001a.mdl"
+				}
 			}
 		}
 	},
@@ -514,24 +514,15 @@
 				"rankid": -1.0,
 				"price": 1000.0,
 				"jobid": -1.0,
-				"class": "spawned_food",
+				"model": "models/food/hotdog.mdl",
 				"amount": 1.0,
 				"bg_color": {
 					"r": 255.0,
-					"b": 255.0,
+					"b": 0.0,
 					"a": 255.0,
 					"g": 255.0
 				},
-				"extraData": {
-					"foodItem": {
-						"energy": 100.0,
-						"price": 500.0,
-						"CustomCheckFailMsg": "\"8 inches, can ya handle that?\"",
-						"model": "models/food/hotdog.mdl",
-						"name": "Wiener",
-						"delay": 0.8
-					}
-				},
+				"class": "spawned_food",
 				"entData": {
 					"SID": 8.0,
 					"Skin": 0.0,
@@ -539,13 +530,7 @@
 					"Spawnable": false,
 					"PrintName": "Spawned Food",
 					"FoodName": "Wiener",
-					"PhysicsObjects": {
-						"0": {
-							"Frozen": false,
-							"Pos": "[-2137.1924 -2409.5728 -161.1998]",
-							"Angle": "{28.7487 64.198 -14.7438}"
-						}
-					},
+					"Instructions": "",
 					"IsSpawnedFood": true,
 					"FlexScale": 1.0,
 					"Maxs": "[6.7856 2.7627 16.647]",
@@ -561,21 +546,38 @@
 					"Contact": "",
 					"FoodPrice": 500.0,
 					"FoodEnergy": 100.0,
-					"Angle": "{27.2554 59.3675 345.3453}",
+					"FPPCanTouch": [],
 					"Purpose": "",
 					"AdminOnly": false,
 					"Class": "spawned_food",
 					"dt": [],
-					"zvm_CollisionCooldown": true,
-					"ColGroup": 0.0,
+					"Mins": "[-6.7856 -2.5374 11.7542]",
+					"foodItem": {
+						"energy": 100.0,
+						"price": 500.0,
+						"CustomCheckFailMsg": "\"8 inches, can ya handle that?\"",
+						"model": "models/food/hotdog.mdl",
+						"name": "Wiener",
+						"delay": 0.8
+					},
 					"FPPCanTouchWhy": [],
 					"RenderGroup": 7.0,
 					"Pos": "[-2141.5994 -2405.5957 -163.0466]",
-					"Instructions": "",
-					"FPPCanTouch": [],
-					"Mins": "[-6.7856 -2.5374 11.7542]",
+					"zvm_CollisionCooldown": true,
+					"Angle": "{27.2554 59.3675 345.3453}",
+					"ColGroup": 0.0,
 					"onlyremover": true,
 					"Model": "models/food/hotdog.mdl",
+					"PhysicsObjects": {
+						"0": {
+							"Pos": "[-2137.1924 -2409.5728 -161.1998]",
+							"Frozen": false,
+							"Angle": "{28.7487 64.198 -14.7438}"
+						}
+					}
+				},
+				"name": "Wiener",
+				"extraData": {
 					"foodItem": {
 						"energy": 100.0,
 						"price": 500.0,
@@ -584,32 +586,21 @@
 						"name": "Wiener",
 						"delay": 0.8
 					}
-				},
-				"name": "Wiener",
-				"model": "models/food/hotdog.mdl"
+				}
 			},
 			"530021269": {
 				"rankid": -1.0,
 				"price": 1000.0,
 				"jobid": -1.0,
-				"class": "spawned_food",
+				"model": "models/food/burger.mdl",
 				"amount": 1.0,
 				"bg_color": {
 					"r": 255.0,
-					"b": 255.0,
+					"b": 0.0,
 					"a": 255.0,
 					"g": 255.0
 				},
-				"extraData": {
-					"foodItem": {
-						"energy": 100.0,
-						"price": 500.0,
-						"CustomCheckFailMsg": "",
-						"model": "models/food/burger.mdl",
-						"name": "Krabby Patty",
-						"delay": 0.8
-					}
-				},
+				"class": "spawned_food",
 				"entData": {
 					"SID": 8.0,
 					"Skin": 0.0,
@@ -617,13 +608,7 @@
 					"Spawnable": false,
 					"PrintName": "Spawned Food",
 					"FoodName": "Krabby Patty",
-					"PhysicsObjects": {
-						"0": {
-							"Frozen": false,
-							"Pos": "[-2080.6111 -2378.1624 -177.5403]",
-							"Angle": "{18.858 132.3529 -0.7257}"
-						}
-					},
+					"Instructions": "",
 					"IsSpawnedFood": true,
 					"FlexScale": 1.0,
 					"Maxs": "[3.4682 3.4726 16.6863]",
@@ -639,21 +624,38 @@
 					"Contact": "",
 					"FoodPrice": 500.0,
 					"FoodEnergy": 100.0,
-					"Angle": "{16.3401 135.2889 359.1379}",
+					"FPPCanTouch": [],
 					"Purpose": "",
 					"AdminOnly": false,
 					"Class": "spawned_food",
 					"dt": [],
-					"zvm_CollisionCooldown": true,
-					"ColGroup": 0.0,
+					"Mins": "[-3.4979 -3.4935 11.8308]",
+					"foodItem": {
+						"energy": 100.0,
+						"price": 500.0,
+						"CustomCheckFailMsg": "",
+						"model": "models/food/burger.mdl",
+						"name": "Krabby Patty",
+						"delay": 0.8
+					},
 					"FPPCanTouchWhy": [],
 					"RenderGroup": 7.0,
 					"Pos": "[-2080.0264 -2374.0818 -180.1538]",
-					"Instructions": "",
-					"FPPCanTouch": [],
-					"Mins": "[-3.4979 -3.4935 11.8308]",
+					"zvm_CollisionCooldown": true,
+					"Angle": "{16.3401 135.2889 359.1379}",
+					"ColGroup": 0.0,
 					"onlyremover": true,
 					"Model": "models/food/burger.mdl",
+					"PhysicsObjects": {
+						"0": {
+							"Pos": "[-2080.6111 -2378.1624 -177.5403]",
+							"Frozen": false,
+							"Angle": "{18.858 132.3529 -0.7257}"
+						}
+					}
+				},
+				"name": "Krabby Patty",
+				"extraData": {
 					"foodItem": {
 						"energy": 100.0,
 						"price": 500.0,
@@ -662,32 +664,21 @@
 						"name": "Krabby Patty",
 						"delay": 0.8
 					}
-				},
-				"name": "Krabby Patty",
-				"model": "models/food/burger.mdl"
+				}
 			},
 			"134479277": {
 				"rankid": -1.0,
 				"price": 1000.0,
 				"jobid": -1.0,
-				"class": "spawned_food",
+				"model": "models/props_junk/garbage_bag001a.mdl",
 				"amount": 1.0,
 				"bg_color": {
 					"r": 255.0,
-					"b": 255.0,
+					"b": 0.0,
 					"a": 255.0,
 					"g": 255.0
 				},
-				"extraData": {
-					"foodItem": {
-						"energy": 100.0,
-						"price": 500.0,
-						"CustomCheckFailMsg": "Fatty",
-						"model": "models/props_junk/garbage_bag001a.mdl",
-						"name": "Junk Food",
-						"delay": 0.8
-					}
-				},
+				"class": "spawned_food",
 				"entData": {
 					"SID": 8.0,
 					"Skin": 0.0,
@@ -695,13 +686,7 @@
 					"Spawnable": false,
 					"PrintName": "Spawned Food",
 					"FoodName": "Junk Food",
-					"PhysicsObjects": {
-						"0": {
-							"Frozen": false,
-							"Pos": "[-2084.7776 -2372.4919 -158.9531]",
-							"Angle": "{22.6614 133.0696 -0.3014}"
-						}
-					},
+					"Instructions": "",
 					"IsSpawnedFood": true,
 					"FlexScale": 1.0,
 					"Maxs": "[9.3926 7.2414 5.5922]",
@@ -717,21 +702,38 @@
 					"Contact": "",
 					"FoodPrice": 500.0,
 					"FoodEnergy": 100.0,
-					"Angle": "{19.5599 136.5531 359.4934}",
+					"FPPCanTouch": [],
 					"Purpose": "",
 					"AdminOnly": false,
 					"Class": "spawned_food",
 					"dt": [],
-					"zvm_CollisionCooldown": true,
-					"ColGroup": 0.0,
+					"Mins": "[-8.9302 -6.8883 -5.5105]",
+					"foodItem": {
+						"energy": 100.0,
+						"price": 500.0,
+						"CustomCheckFailMsg": "Fatty",
+						"model": "models/props_junk/garbage_bag001a.mdl",
+						"name": "Junk Food",
+						"delay": 0.8
+					},
 					"FPPCanTouchWhy": [],
 					"RenderGroup": 7.0,
 					"Pos": "[-2083.3284 -2369.3928 -161.7369]",
-					"Instructions": "",
-					"FPPCanTouch": [],
-					"Mins": "[-8.9302 -6.8883 -5.5105]",
+					"zvm_CollisionCooldown": true,
+					"Angle": "{19.5599 136.5531 359.4934}",
+					"ColGroup": 0.0,
 					"onlyremover": true,
 					"Model": "models/props_junk/garbage_bag001a.mdl",
+					"PhysicsObjects": {
+						"0": {
+							"Pos": "[-2084.7776 -2372.4919 -158.9531]",
+							"Frozen": false,
+							"Angle": "{22.6614 133.0696 -0.3014}"
+						}
+					}
+				},
+				"name": "Junk Food",
+				"extraData": {
 					"foodItem": {
 						"energy": 100.0,
 						"price": 500.0,
@@ -740,9 +742,7 @@
 						"name": "Junk Food",
 						"delay": 0.8
 					}
-				},
-				"name": "Junk Food",
-				"model": "models/props_junk/garbage_bag001a.mdl"
+				}
 			}
 		}
 	},
@@ -766,54 +766,54 @@
 				"model": "models/cw2/pistols/w_makarov.mdl",
 				"amount": 1.0,
 				"bg_color": {
-					"r": 255.0,
-					"b": 255.0,
+					"r": 0.0,
+					"b": 0.0,
 					"a": 255.0,
 					"g": 255.0
 				},
 				"class": "spawned_weapon",
 				"entData": {
+					"RenderGroup": 7.0,
+					"Skin": 0.0,
+					"IsSpawnedWeapon": true,
+					"Pos": "[-2200.4436 -2369.3086 -158.864]",
 					"Base": "base_gmodentity",
-					"PrintName": "Spawned Weapon",
-					"PhysicsObjects": {
-						"0": {
-							"Pos": "[-2202.1753 -2374.0684 -155.2996]",
-							"Frozen": false,
-							"Angle": "{88.191 -88.8806 -116.2478}"
-						}
-					},
-					"clip1": 8.0,
-					"nodupe": true,
-					"Contact": "",
 					"AdminOnly": false,
 					"DT": {
 						"amount": 1.0,
 						"WeaponClass": "cw_makarov"
 					},
-					"Class": "spawned_weapon",
-					"dt": [],
-					"FPPCanTouchWhy": [],
-					"Model": "models/cw2/pistols/w_makarov.mdl",
-					"Spawnable": false,
-					"Instructions": "",
-					"FlexScale": 1.0,
-					"Folder": "entities/spawned_weapon",
-					"Type": "anim",
-					"ammoadd": 8.0,
-					"Name": "",
-					"ClassName": "spawned_weapon",
-					"ColGroup": 0.0,
-					"FPPCanTouch": [],
-					"Mins": "[-2.4824 -4.962 -0.4188]",
-					"Maxs": "[2.4413 6.6966 5.7374]",
-					"IsSpawnedWeapon": true,
-					"Skin": 0.0,
-					"Purpose": "",
-					"Angle": "{85.5694 109.5046 77.5271}",
-					"Author": "Rickster",
+					"PrintName": "Spawned Weapon",
 					"zvm_CollisionCooldown": true,
-					"Pos": "[-2200.4436 -2369.3086 -158.864]",
-					"RenderGroup": 7.0
+					"Angle": "{85.5694 109.5046 77.5271}",
+					"Instructions": "",
+					"Class": "spawned_weapon",
+					"FlexScale": 1.0,
+					"Maxs": "[2.4413 6.6966 5.7374]",
+					"dt": [],
+					"Author": "Rickster",
+					"Folder": "entities/spawned_weapon",
+					"Purpose": "",
+					"clip1": 8.0,
+					"Mins": "[-2.4824 -4.962 -0.4188]",
+					"Type": "anim",
+					"nodupe": true,
+					"Name": "",
+					"FPPCanTouchWhy": [],
+					"Spawnable": false,
+					"ClassName": "spawned_weapon",
+					"Contact": "",
+					"ColGroup": 0.0,
+					"ammoadd": 8.0,
+					"PhysicsObjects": {
+						"0": {
+							"Frozen": false,
+							"Pos": "[-2202.1753 -2374.0684 -155.2996]",
+							"Angle": "{88.191 -88.8806 -116.2478}"
+						}
+					},
+					"Model": "models/cw2/pistols/w_makarov.mdl",
+					"FPPCanTouch": []
 				},
 				"name": "Makarov",
 				"extraData": []
@@ -825,116 +825,57 @@
 				"model": "models/weapons/w_smg_mp5.mdl",
 				"amount": 1.0,
 				"bg_color": {
-					"r": 255.0,
+					"r": 220.0,
 					"b": 255.0,
 					"a": 255.0,
-					"g": 255.0
+					"g": 0.0
 				},
 				"class": "spawned_weapon",
 				"entData": {
+					"Skin": 0.0,
 					"Base": "base_gmodentity",
+					"Spawnable": false,
 					"PrintName": "Spawned Weapon",
-					"PhysicsObjects": {
-						"0": {
-							"Pos": "[-2201.3796 -2362.8379 -196.2798]",
-							"Frozen": false,
-							"Angle": "{-9.326 67.7061 -0.4598}"
-						}
-					},
-					"clip2": -1.0,
+					"Instructions": "",
+					"RenderGroup": 7.0,
+					"FlexScale": 1.0,
+					"Maxs": "[20.7879 1.8516 17.4218]",
+					"Author": "Rickster",
+					"Folder": "entities/spawned_weapon",
 					"clip1": 0.0,
+					"Type": "anim",
+					"ammoadd": 40.0,
+					"Name": "",
+					"ClassName": "spawned_weapon",
 					"Contact": "",
+					"FPPCanTouch": [],
+					"IsSpawnedWeapon": true,
+					"Purpose": "",
 					"AdminOnly": false,
 					"DT": {
 						"amount": 1.0,
 						"WeaponClass": "cw_mp5"
 					},
 					"Class": "spawned_weapon",
-					"FPPCanTouchWhy": [],
-					"Model": "models/weapons/w_smg_mp5.mdl",
-					"Spawnable": false,
-					"Instructions": "",
-					"RenderGroup": 7.0,
-					"FlexScale": 1.0,
-					"Folder": "entities/spawned_weapon",
-					"Type": "anim",
-					"ammoadd": 40.0,
-					"Name": "",
-					"ClassName": "spawned_weapon",
-					"ColGroup": 0.0,
-					"Mins": "[-16.2312 -2.6421 -2.389]",
-					"Maxs": "[20.7879 1.8516 17.4218]",
-					"IsSpawnedWeapon": true,
-					"Skin": 0.0,
-					"Purpose": "",
-					"Angle": "{-0 67.5964 -0}",
 					"dt": [],
-					"Author": "Rickster",
-					"FPPCanTouch": [],
 					"zvm_CollisionCooldown": true,
+					"FPPCanTouchWhy": [],
+					"nodupe": true,
 					"Pos": "[-2201.5806 -2363.2231 -194.5558]",
-					"nodupe": true
-				},
-				"name": "MP5",
-				"extraData": []
-			},
-			"159822541": {
-				"rankid": -1.0,
-				"price": 6000.0,
-				"jobid": -1.0,
-				"model": "models/weapons/w_smg_ump45.mdl",
-				"amount": 1.0,
-				"bg_color": {
-					"r": 255.0,
-					"b": 255.0,
-					"a": 255.0,
-					"g": 255.0
-				},
-				"class": "spawned_weapon",
-				"entData": {
-					"Base": "base_gmodentity",
-					"PrintName": "Spawned Weapon",
+					"Angle": "{-0 67.5964 -0}",
+					"ColGroup": 0.0,
+					"clip2": -1.0,
 					"PhysicsObjects": {
 						"0": {
-							"Pos": "[-2201.7395 -2367.7002 -170.259]",
 							"Frozen": false,
-							"Angle": "{-4.9557 -2.7425 71.3476}"
+							"Pos": "[-2201.3796 -2362.8379 -196.2798]",
+							"Angle": "{-9.326 67.7061 -0.4598}"
 						}
 					},
-					"clip1": 25.0,
-					"nodupe": true,
-					"Contact": "",
-					"AdminOnly": false,
-					"DT": {
-						"amount": 1.0,
-						"WeaponClass": "cw_ump45"
-					},
-					"Class": "spawned_weapon",
-					"dt": [],
-					"FPPCanTouchWhy": [],
-					"Model": "models/weapons/w_smg_ump45.mdl",
-					"Spawnable": false,
-					"Instructions": "",
-					"FlexScale": 1.0,
-					"Folder": "entities/spawned_weapon",
-					"Type": "anim",
-					"ammoadd": 25.0,
-					"Name": "",
-					"ClassName": "spawned_weapon",
-					"ColGroup": 0.0,
-					"FPPCanTouch": [],
-					"Mins": "[-17.7648 -0.6783 -3.6322]",
-					"Maxs": "[12.7745 1.0488 15.3449]",
-					"IsSpawnedWeapon": true,
-					"Skin": 0.0,
-					"Purpose": "",
-					"Angle": "{-3.9942 -2.2635 75.0537}",
-					"Author": "Rickster",
-					"zvm_CollisionCooldown": true,
-					"Pos": "[-2202.0852 -2364.4629 -172.1049]",
-					"RenderGroup": 7.0
+					"Model": "models/weapons/w_smg_mp5.mdl",
+					"Mins": "[-16.2312 -2.6421 -2.389]"
 				},
-				"name": "UMP45",
+				"name": "MP5",
 				"extraData": []
 			},
 			"453968748": {
@@ -944,57 +885,116 @@
 				"model": "models/weapons/w_pist_p228.mdl",
 				"amount": 1.0,
 				"bg_color": {
-					"r": 255.0,
+					"r": 0.0,
 					"b": 255.0,
 					"a": 255.0,
-					"g": 255.0
+					"g": 0.0
 				},
 				"class": "spawned_weapon",
 				"entData": {
+					"Skin": 0.0,
 					"Base": "base_gmodentity",
+					"Spawnable": false,
 					"PrintName": "Spawned Weapon",
-					"PhysicsObjects": {
-						"0": {
-							"Pos": "[-2203.6069 -2374.7717 -122.7766]",
-							"Frozen": false,
-							"Angle": "{2.3668 145.7247 -26.6474}"
-						}
-					},
-					"clip2": -1.0,
+					"Instructions": "",
+					"RenderGroup": 7.0,
+					"FlexScale": 1.0,
+					"Maxs": "[6.643 1.407 7.3734]",
+					"Author": "Rickster",
+					"Folder": "entities/spawned_weapon",
 					"clip1": 0.0,
+					"Type": "anim",
+					"ammoadd": 38.0,
+					"Name": "",
+					"ClassName": "spawned_weapon",
 					"Contact": "",
+					"FPPCanTouch": [],
+					"IsSpawnedWeapon": true,
+					"Purpose": "",
 					"AdminOnly": false,
 					"DT": {
 						"amount": 1.0,
 						"WeaponClass": "cw_p99"
 					},
 					"Class": "spawned_weapon",
-					"FPPCanTouchWhy": [],
-					"Model": "models/weapons/w_pist_p228.mdl",
-					"Spawnable": false,
-					"Instructions": "",
-					"RenderGroup": 7.0,
-					"FlexScale": 1.0,
-					"Folder": "entities/spawned_weapon",
-					"Type": "anim",
-					"ammoadd": 38.0,
-					"Name": "",
-					"ClassName": "spawned_weapon",
-					"ColGroup": 0.0,
-					"Mins": "[-3.7522 -2.0552 -0.0083]",
-					"Maxs": "[6.643 1.407 7.3734]",
-					"IsSpawnedWeapon": true,
-					"Skin": 0.0,
-					"Purpose": "",
-					"Angle": "{2.3987 144.8083 -25.7706}",
 					"dt": [],
-					"Author": "Rickster",
-					"FPPCanTouch": [],
 					"zvm_CollisionCooldown": true,
+					"FPPCanTouchWhy": [],
+					"nodupe": true,
 					"Pos": "[-2204.1709 -2374.3628 -122.1384]",
-					"nodupe": true
+					"Angle": "{2.3987 144.8083 -25.7706}",
+					"ColGroup": 0.0,
+					"clip2": -1.0,
+					"PhysicsObjects": {
+						"0": {
+							"Frozen": false,
+							"Pos": "[-2203.6069 -2374.7717 -122.7766]",
+							"Angle": "{2.3668 145.7247 -26.6474}"
+						}
+					},
+					"Model": "models/weapons/w_pist_p228.mdl",
+					"Mins": "[-3.7522 -2.0552 -0.0083]"
 				},
 				"name": "P99",
+				"extraData": []
+			},
+			"159822541": {
+				"rankid": -1.0,
+				"price": 6000.0,
+				"jobid": -1.0,
+				"model": "models/weapons/w_smg_ump45.mdl",
+				"amount": 1.0,
+				"bg_color": {
+					"r": 220.0,
+					"b": 255.0,
+					"a": 255.0,
+					"g": 0.0
+				},
+				"class": "spawned_weapon",
+				"entData": {
+					"RenderGroup": 7.0,
+					"Skin": 0.0,
+					"IsSpawnedWeapon": true,
+					"Pos": "[-2202.0852 -2364.4629 -172.1049]",
+					"Base": "base_gmodentity",
+					"AdminOnly": false,
+					"DT": {
+						"amount": 1.0,
+						"WeaponClass": "cw_ump45"
+					},
+					"PrintName": "Spawned Weapon",
+					"zvm_CollisionCooldown": true,
+					"Angle": "{-3.9942 -2.2635 75.0537}",
+					"Instructions": "",
+					"Class": "spawned_weapon",
+					"FlexScale": 1.0,
+					"Maxs": "[12.7745 1.0488 15.3449]",
+					"dt": [],
+					"Author": "Rickster",
+					"Folder": "entities/spawned_weapon",
+					"Purpose": "",
+					"clip1": 25.0,
+					"Mins": "[-17.7648 -0.6783 -3.6322]",
+					"Type": "anim",
+					"nodupe": true,
+					"Name": "",
+					"FPPCanTouchWhy": [],
+					"Spawnable": false,
+					"ClassName": "spawned_weapon",
+					"Contact": "",
+					"ColGroup": 0.0,
+					"ammoadd": 25.0,
+					"PhysicsObjects": {
+						"0": {
+							"Frozen": false,
+							"Pos": "[-2201.7395 -2367.7002 -170.259]",
+							"Angle": "{-4.9557 -2.7425 71.3476}"
+						}
+					},
+					"Model": "models/weapons/w_smg_ump45.mdl",
+					"FPPCanTouch": []
+				},
+				"name": "UMP45",
 				"extraData": []
 			}
 		}
@@ -1016,82 +1016,88 @@
 				"rankid": -1.0,
 				"price": 1250.0,
 				"jobid": -1.0,
-				"class": "spawned_weapon",
+				"model": "models/cw2/pistols/w_makarov.mdl",
 				"amount": 1.0,
 				"bg_color": {
-					"r": 255.0,
-					"b": 255.0,
+					"r": 0.0,
+					"b": 0.0,
 					"a": 255.0,
 					"g": 255.0
 				},
-				"extraData": [],
+				"class": "spawned_weapon",
 				"entData": {
+					"Mins": "[-2.4824 -4.962 -0.4188]",
 					"Skin": 0.0,
-					"Base": "base_gmodentity",
-					"Spawnable": false,
-					"PrintName": "Spawned Weapon",
-					"Instructions": "",
-					"RenderGroup": 7.0,
-					"FlexScale": 1.0,
-					"Maxs": "[2.4413 6.6966 5.7374]",
-					"Author": "Rickster",
-					"Folder": "entities/spawned_weapon",
-					"clip1": 8.0,
-					"Type": "anim",
-					"nodupe": true,
-					"Name": "",
-					"ClassName": "spawned_weapon",
-					"Contact": "",
-					"Angle": "{85.5694 109.5046 77.5271}",
 					"IsSpawnedWeapon": true,
 					"Purpose": "",
-					"AdminOnly": false,
+					"Base": "base_gmodentity",
+					"Spawnable": false,
 					"DT": {
 						"amount": 1.0,
 						"WeaponClass": "cw_makarov"
 					},
-					"Class": "spawned_weapon",
+					"PrintName": "Spawned Weapon",
+					"ColGroup": 0.0,
+					"ammoadd": 8.0,
+					"Instructions": "",
+					"RenderGroup": 7.0,
+					"FlexScale": 1.0,
+					"Maxs": "[2.4413 6.6966 5.7374]",
 					"dt": [],
-					"zvm_CollisionCooldown": true,
-					"FPPCanTouchWhy": [],
-					"FPPCanTouch": [],
-					"Pos": "[-2200.4436 -2369.3086 -158.864]",
+					"Author": "Rickster",
+					"Folder": "entities/spawned_weapon",
 					"PhysicsObjects": {
 						"0": {
-							"Frozen": false,
 							"Pos": "[-2202.1753 -2374.0684 -155.2996]",
+							"Frozen": false,
 							"Angle": "{88.191 -88.8806 -116.2478}"
 						}
 					},
-					"ammoadd": 8.0,
-					"ColGroup": 0.0,
+					"clip1": 8.0,
+					"Pos": "[-2200.4436 -2369.3086 -158.864]",
+					"Type": "anim",
+					"nodupe": true,
+					"Name": "",
+					"FPPCanTouchWhy": [],
+					"FPPCanTouch": [],
+					"ClassName": "spawned_weapon",
+					"Contact": "",
+					"zvm_CollisionCooldown": true,
+					"Class": "spawned_weapon",
+					"AdminOnly": false,
 					"Model": "models/cw2/pistols/w_makarov.mdl",
-					"Mins": "[-2.4824 -4.962 -0.4188]"
+					"Angle": "{85.5694 109.5046 77.5271}"
 				},
 				"name": "Makarov",
-				"model": "models/cw2/pistols/w_makarov.mdl"
+				"extraData": []
 			},
 			"928596452": {
 				"rankid": -1.0,
 				"price": 5000.0,
 				"jobid": -1.0,
-				"class": "spawned_weapon",
+				"model": "models/weapons/w_smg_mp5.mdl",
 				"amount": 1.0,
 				"bg_color": {
-					"r": 255.0,
+					"r": 220.0,
 					"b": 255.0,
 					"a": 255.0,
-					"g": 255.0
+					"g": 0.0
 				},
-				"extraData": [],
+				"class": "spawned_weapon",
 				"entData": {
 					"Skin": 0.0,
-					"Base": "base_gmodentity",
+					"ColGroup": 0.0,
 					"Spawnable": false,
 					"PrintName": "Spawned Weapon",
-					"Instructions": "",
+					"PhysicsObjects": {
+						"0": {
+							"Pos": "[-2201.3796 -2362.8379 -196.2798]",
+							"Frozen": false,
+							"Angle": "{-9.326 67.7061 -0.4598}"
+						}
+					},
 					"RenderGroup": 7.0,
-					"FlexScale": 1.0,
+					"clip2": -1.0,
 					"Maxs": "[20.7879 1.8516 17.4218]",
 					"Author": "Rickster",
 					"Folder": "entities/spawned_weapon",
@@ -1101,7 +1107,7 @@
 					"Name": "",
 					"ClassName": "spawned_weapon",
 					"Contact": "",
-					"FPPCanTouch": [],
+					"Angle": "{-0 67.5964 -0}",
 					"IsSpawnedWeapon": true,
 					"Purpose": "",
 					"AdminOnly": false,
@@ -1111,106 +1117,47 @@
 					},
 					"Class": "spawned_weapon",
 					"dt": [],
+					"Mins": "[-16.2312 -2.6421 -2.389]",
+					"FPPCanTouchWhy": [],
+					"Instructions": "",
+					"Pos": "[-2201.5806 -2363.2231 -194.5558]",
+					"FPPCanTouch": [],
 					"zvm_CollisionCooldown": true,
 					"nodupe": true,
-					"FPPCanTouchWhy": [],
-					"Angle": "{-0 67.5964 -0}",
-					"Pos": "[-2201.5806 -2363.2231 -194.5558]",
-					"Mins": "[-16.2312 -2.6421 -2.389]",
-					"clip2": -1.0,
-					"PhysicsObjects": {
-						"0": {
-							"Frozen": false,
-							"Pos": "[-2201.3796 -2362.8379 -196.2798]",
-							"Angle": "{-9.326 67.7061 -0.4598}"
-						}
-					},
-					"ColGroup": 0.0,
-					"Model": "models/weapons/w_smg_mp5.mdl"
+					"FlexScale": 1.0,
+					"Model": "models/weapons/w_smg_mp5.mdl",
+					"Base": "base_gmodentity"
 				},
 				"name": "MP5",
-				"model": "models/weapons/w_smg_mp5.mdl"
-			},
-			"159822541": {
-				"rankid": -1.0,
-				"price": 6000.0,
-				"jobid": -1.0,
-				"class": "spawned_weapon",
-				"amount": 1.0,
-				"bg_color": {
-					"r": 255.0,
-					"b": 255.0,
-					"a": 255.0,
-					"g": 255.0
-				},
-				"extraData": [],
-				"entData": {
-					"Skin": 0.0,
-					"Base": "base_gmodentity",
-					"Spawnable": false,
-					"PrintName": "Spawned Weapon",
-					"Instructions": "",
-					"RenderGroup": 7.0,
-					"FlexScale": 1.0,
-					"Maxs": "[12.7745 1.0488 15.3449]",
-					"Author": "Rickster",
-					"Folder": "entities/spawned_weapon",
-					"clip1": 25.0,
-					"Type": "anim",
-					"nodupe": true,
-					"Name": "",
-					"ClassName": "spawned_weapon",
-					"Contact": "",
-					"Angle": "{-3.9942 -2.2635 75.0537}",
-					"IsSpawnedWeapon": true,
-					"Purpose": "",
-					"AdminOnly": false,
-					"DT": {
-						"amount": 1.0,
-						"WeaponClass": "cw_ump45"
-					},
-					"Class": "spawned_weapon",
-					"dt": [],
-					"zvm_CollisionCooldown": true,
-					"FPPCanTouchWhy": [],
-					"FPPCanTouch": [],
-					"Pos": "[-2202.0852 -2364.4629 -172.1049]",
-					"PhysicsObjects": {
-						"0": {
-							"Frozen": false,
-							"Pos": "[-2201.7395 -2367.7002 -170.259]",
-							"Angle": "{-4.9557 -2.7425 71.3476}"
-						}
-					},
-					"ammoadd": 25.0,
-					"ColGroup": 0.0,
-					"Model": "models/weapons/w_smg_ump45.mdl",
-					"Mins": "[-17.7648 -0.6783 -3.6322]"
-				},
-				"name": "UMP45",
-				"model": "models/weapons/w_smg_ump45.mdl"
+				"extraData": []
 			},
 			"453968748": {
 				"rankid": -1.0,
 				"price": 2000.0,
 				"jobid": -1.0,
-				"class": "spawned_weapon",
+				"model": "models/weapons/w_pist_p228.mdl",
 				"amount": 1.0,
 				"bg_color": {
-					"r": 255.0,
+					"r": 0.0,
 					"b": 255.0,
 					"a": 255.0,
-					"g": 255.0
+					"g": 0.0
 				},
-				"extraData": [],
+				"class": "spawned_weapon",
 				"entData": {
 					"Skin": 0.0,
-					"Base": "base_gmodentity",
+					"ColGroup": 0.0,
 					"Spawnable": false,
 					"PrintName": "Spawned Weapon",
-					"Instructions": "",
+					"PhysicsObjects": {
+						"0": {
+							"Pos": "[-2203.6069 -2374.7717 -122.7766]",
+							"Frozen": false,
+							"Angle": "{2.3668 145.7247 -26.6474}"
+						}
+					},
 					"RenderGroup": 7.0,
-					"FlexScale": 1.0,
+					"clip2": -1.0,
 					"Maxs": "[6.643 1.407 7.3734]",
 					"Author": "Rickster",
 					"Folder": "entities/spawned_weapon",
@@ -1220,7 +1167,7 @@
 					"Name": "",
 					"ClassName": "spawned_weapon",
 					"Contact": "",
-					"FPPCanTouch": [],
+					"Angle": "{2.3987 144.8083 -25.7706}",
 					"IsSpawnedWeapon": true,
 					"Purpose": "",
 					"AdminOnly": false,
@@ -1230,25 +1177,78 @@
 					},
 					"Class": "spawned_weapon",
 					"dt": [],
+					"Mins": "[-3.7522 -2.0552 -0.0083]",
+					"FPPCanTouchWhy": [],
+					"Instructions": "",
+					"Pos": "[-2204.1709 -2374.3628 -122.1384]",
+					"FPPCanTouch": [],
 					"zvm_CollisionCooldown": true,
 					"nodupe": true,
-					"FPPCanTouchWhy": [],
-					"Angle": "{2.3987 144.8083 -25.7706}",
-					"Pos": "[-2204.1709 -2374.3628 -122.1384]",
-					"Mins": "[-3.7522 -2.0552 -0.0083]",
-					"clip2": -1.0,
-					"PhysicsObjects": {
-						"0": {
-							"Frozen": false,
-							"Pos": "[-2203.6069 -2374.7717 -122.7766]",
-							"Angle": "{2.3668 145.7247 -26.6474}"
-						}
-					},
-					"ColGroup": 0.0,
-					"Model": "models/weapons/w_pist_p228.mdl"
+					"FlexScale": 1.0,
+					"Model": "models/weapons/w_pist_p228.mdl",
+					"Base": "base_gmodentity"
 				},
 				"name": "P99",
-				"model": "models/weapons/w_pist_p228.mdl"
+				"extraData": []
+			},
+			"159822541": {
+				"rankid": -1.0,
+				"price": 6000.0,
+				"jobid": -1.0,
+				"model": "models/weapons/w_smg_ump45.mdl",
+				"amount": 1.0,
+				"bg_color": {
+					"r": 220.0,
+					"b": 255.0,
+					"a": 255.0,
+					"g": 0.0
+				},
+				"class": "spawned_weapon",
+				"entData": {
+					"Mins": "[-17.7648 -0.6783 -3.6322]",
+					"Skin": 0.0,
+					"IsSpawnedWeapon": true,
+					"Purpose": "",
+					"Base": "base_gmodentity",
+					"Spawnable": false,
+					"DT": {
+						"amount": 1.0,
+						"WeaponClass": "cw_ump45"
+					},
+					"PrintName": "Spawned Weapon",
+					"ColGroup": 0.0,
+					"ammoadd": 25.0,
+					"Instructions": "",
+					"RenderGroup": 7.0,
+					"FlexScale": 1.0,
+					"Maxs": "[12.7745 1.0488 15.3449]",
+					"dt": [],
+					"Author": "Rickster",
+					"Folder": "entities/spawned_weapon",
+					"PhysicsObjects": {
+						"0": {
+							"Pos": "[-2201.7395 -2367.7002 -170.259]",
+							"Frozen": false,
+							"Angle": "{-4.9557 -2.7425 71.3476}"
+						}
+					},
+					"clip1": 25.0,
+					"Pos": "[-2202.0852 -2364.4629 -172.1049]",
+					"Type": "anim",
+					"nodupe": true,
+					"Name": "",
+					"FPPCanTouchWhy": [],
+					"FPPCanTouch": [],
+					"ClassName": "spawned_weapon",
+					"Contact": "",
+					"zvm_CollisionCooldown": true,
+					"Class": "spawned_weapon",
+					"AdminOnly": false,
+					"Model": "models/weapons/w_smg_ump45.mdl",
+					"Angle": "{-3.9942 -2.2635 75.0537}"
+				},
+				"name": "UMP45",
+				"extraData": []
 			}
 		}
 	}

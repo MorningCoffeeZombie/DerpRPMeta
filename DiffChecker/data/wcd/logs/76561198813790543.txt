@@ -1,3 +1,78 @@
+15:36:46 - 23/09/2019:
+ BOUGHT DESIGN for vehicle '928461', cost: $$160,000.
+
+15:35:47 - 23/09/2019:
+ BOUGHT DESIGN for vehicle '885038', cost: $$160,000.
+
+23:40:30 - 22/09/2019:
+ BOUGHT DESIGN for vehicle '369625', cost: $$0.
+
+18:58:29 - 22/09/2019:
+ BOUGHT DESIGN for vehicle '369625', cost: $$85,000.
+
+23:24:28 - 21/09/2019:
+BOUGHT vehicle '369625' for $7,500,000.
+
+23:23:47 - 20/09/2019:
+ BOUGHT DESIGN for vehicle '349726', cost: $$165,000.
+
+23:22:54 - 20/09/2019:
+ BOUGHT DESIGN for vehicle '287402', cost: $$35,000.
+
+23:21:59 - 20/09/2019:
+ BOUGHT DESIGN for vehicle '287402', cost: $$35,000.
+
+23:21:25 - 20/09/2019:
+ BOUGHT DESIGN for vehicle '899126', cost: $$160,000.
+
+23:18:34 - 20/09/2019:
+ BOUGHT DESIGN for vehicle '287402', cost: $$163,500.
+
+23:54:55 - 19/09/2019:
+ BOUGHT DESIGN for vehicle '527901', cost: $$168,500.
+
+23:31:49 - 19/09/2019:
+ BOUGHT DESIGN for vehicle '902978', cost: $$168,500.
+
+23:31:01 - 19/09/2019:
+ BOUGHT DESIGN for vehicle '921848', cost: $$168,500.
+
+22:56:50 - 19/09/2019:
+ BOUGHT DESIGN for vehicle '634488', cost: $$178,500.
+
+22:54:35 - 19/09/2019:
+ BOUGHT DESIGN for vehicle '837578', cost: $$168,500.
+
+22:54:02 - 19/09/2019:
+ BOUGHT DESIGN for vehicle '583479', cost: $$173,500.
+
+22:52:02 - 19/09/2019:
+ BOUGHT DESIGN for vehicle '517307', cost: $$168,500.
+
+22:50:50 - 19/09/2019:
+ BOUGHT DESIGN for vehicle '382139', cost: $$168,500.
+
+22:49:26 - 19/09/2019:
+ BOUGHT DESIGN for vehicle '664138', cost: $$163,500.
+
+22:45:22 - 19/09/2019:
+ BOUGHT DESIGN for vehicle '948434', cost: $$160,000.
+
+22:44:36 - 19/09/2019:
+ BOUGHT DESIGN for vehicle '589712', cost: $$168,500.
+
+22:41:42 - 19/09/2019:
+ BOUGHT DESIGN for vehicle '463900', cost: $$165,000.
+
+22:34:06 - 19/09/2019:
+ BOUGHT DESIGN for vehicle '794217', cost: $$168,500.
+
+22:32:55 - 19/09/2019:
+ BOUGHT DESIGN for vehicle '315701', cost: $$163,500.
+
+22:30:52 - 19/09/2019:
+ BOUGHT DESIGN for vehicle '886665', cost: $$163,500.
+
 21:49:44 - 17/09/2019:
  BOUGHT DESIGN for vehicle '443369', cost: $$178,500.
 

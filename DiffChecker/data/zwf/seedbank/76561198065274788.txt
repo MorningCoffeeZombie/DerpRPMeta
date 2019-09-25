@@ -1,1 +1,1 @@
-[]
+[{"Weed_ID":1.0,"Weed_Name":"Lemon Man","Perf_Amount":111.0,"Perf_Time":104.0,"SeedCount":5.0,"Perf_THC":108.0}]

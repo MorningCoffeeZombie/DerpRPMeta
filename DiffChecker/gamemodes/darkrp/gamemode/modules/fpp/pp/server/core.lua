@@ -118,10 +118,6 @@ if undo then
     end
 end
 
-hook.Add("PlayerSpawnedSWEP", "FPP.Spawn.SWEP", function(ply, ent)
-    ent:CPPISetOwner(ply)
-end)
-
 --------------------------------------------------------------------------------------
 --The protecting itself
 --------------------------------------------------------------------------------------

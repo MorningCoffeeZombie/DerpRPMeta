@@ -1,0 +1,1 @@
+[{"Data":{"Amount":9.0,"Contents":25.0,"Class":"cw_nen_berettapx4"},"Class":"spawned_shipment"},{"Data":{"Amount":9.0,"Contents":11.0,"Class":"cw_mp5"},"Class":"spawned_shipment"},{"Data":{"Amount":8.0,"Contents":2.0,"Class":"cw_fiveseven"},"Class":"spawned_shipment"},{"Data":{"Amount":8.0,"Contents":9.0,"Class":"cw_ump45"},"Class":"spawned_shipment"}]

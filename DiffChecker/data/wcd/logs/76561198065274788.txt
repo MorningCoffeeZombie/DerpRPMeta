@@ -1,3 +1,9 @@
+16:41:46 - 22/09/2019:
+ BOUGHT DESIGN for vehicle '794217', cost: $$163,500.
+
+16:41:17 - 22/09/2019:
+BOUGHT vehicle '794217' for $52,500.
+
 19:14:04 - 10/09/2019:
 BOUGHT vehicle '517307' for $100,000.
 
