@@ -1,0 +1,1 @@
+This module is not for Garry's Mod. It's for other source games like TF2, CSGO, CS:S, etc

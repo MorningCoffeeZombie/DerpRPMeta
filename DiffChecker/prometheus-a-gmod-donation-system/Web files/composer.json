@@ -1,0 +1,9 @@
+{
+  "require": {
+    "symfony/dom-crawler": "2.6.4",
+    "masterminds/html5": "2.*",
+    "stripe/stripe-php": "^7.0.0",
+    "ext-json": "*",
+    "ext-zip": "*"
+  }
+}
