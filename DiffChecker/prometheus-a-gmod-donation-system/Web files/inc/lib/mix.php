@@ -15,7 +15,6 @@ function mix($path, $manifestDirectory = '')
 
     $publicFolder = '/';
 
-
     $rootPath = $_SERVER['DOCUMENT_ROOT'];
 
     if ($manifestDirectory && ! \substr($manifestDirectory, 0) == '/') {

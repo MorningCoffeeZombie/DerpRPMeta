@@ -13,27 +13,25 @@
 	Prometheus.DropPermaWeaponOnDeath = false -- Should a permanent weapon given by Prometheus drop when a person dies
 	Prometheus.CanDropPermaWeapon = false -- Can a perma weapon be dropped? If set to false weapon will be destroyed when dropped(Except on DarkRP where it simply cannot be dropped).
 
-	Prometheus.Access.AdminMenu = {"owner", "coowner"} -- Groups that can access the admin menu. Examples: {"admin"}  {"admin", "superadmin", "owner"}     For AssMod use the number of the rank like: {1, 2}
+	Prometheus.Access.AdminMenu = {"admin", "superadmin"} -- Groups that can access the admin menu. Examples: {"admin"}  {"admin", "superadmin", "owner"}     For AssMod use the number of the rank like: {1, 2}
 
 	Prometheus.NotifyEveryone = true -- If true, it will send a notification to everyone that a person on server has gotten a package
 
 	Prometheus.RefreshTime = 40 -- How often should it check for new actions (In seconds)
 
-	Prometheus.PlayerPackageCooldown = 5 -- How many seconds a person needs to wait before they can refresh their active packages(In menu).	--	 Default 10
+	Prometheus.PlayerPackageCooldown = 10 -- How many seconds a person needs to wait before they can refresh their active packages(In menu)
 
 	Prometheus.ServerID = 1 -- ID of this server, will be given to you when you create it on your web side of prometheus
-		-- 1 = DerpCorp Prod
-		-- 2 = DerpCorp Dev
 
 	Prometheus.DebugInfo = false -- If enabled, will show debug info of actions, actions and other things in server console
 
 	Prometheus.LoadSettingsFromDB = true -- If false, will always use the FallBackSettings, useful if you want different servers to have different text in the notifications(Different language servers)
 
-	Prometheus.Mysql.Host = "derpdarkrp.nn.pe"
+	Prometheus.Mysql.Host = "hostname"
 	Prometheus.Mysql.Port = 3306
-	Prometheus.Mysql.Username = "derpdark_prometheus_admin_user"
-	Prometheus.Mysql.Password = "ahmcslrsm7Panda5554"
-	Prometheus.Mysql.DBName = "derpdark_prometheus_donations"
+	Prometheus.Mysql.Username = "username"
+	Prometheus.Mysql.Password = "password"
+	Prometheus.Mysql.DBName = "databasename"
 
 --[[ End of Config ]]--
 

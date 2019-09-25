@@ -1,8 +1,8 @@
 --[[ Client Config ]]--
 
-	Prometheus.WebsiteUrl = "http://derpdarkrp.nn.pe/prometheus_donations" -- Your websites URL that will open when they click on the donation button in the menu, has to start with http:// or https://
+	Prometheus.WebsiteUrl = "http://prometheusipn.com/" -- Your websites URL that will open when they click on the donation button in the menu, has to start with http:// or https://
 
-	Prometheus.Notify.Header = "Credit Shop"
+	Prometheus.Notify.Header = "PROMETHEUS"
 
 	Prometheus.Notify.BGColor = Color(33, 35, 35, 255)
 
@@ -17,7 +17,7 @@
 	Prometheus.Notify.ShowTime = 5 -- Time in seconds, how long should the notification stay on screen
 
 
-	Prometheus.Menu.Header = "Credit Shop"
+	Prometheus.Menu.Header = "PROMETHEUS"
 
 	Prometheus.Menu.BGColor = Color(33, 35, 35, 255)
 

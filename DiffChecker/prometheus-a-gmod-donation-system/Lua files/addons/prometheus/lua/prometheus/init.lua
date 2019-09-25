@@ -146,8 +146,7 @@ hook.Add( "PlayerSay", "PrometheusChatHook", function (Ply, Text, Public)
 	local Cmd
 	if Prometheus.WebsiteEnabled || Prometheus.WebsiteEnabled == nil then
 		Cmd = (Prometheus.WebsiteCmd or "!donatemenu") .. " "
-		--if (string.sub(Text:lower() .. " ", 1, Cmd:len() ) == Cmd) then
-		if (string.sub(Text:lower() .. " ", 1, Cmd:len() ) == Cmd) or (string.lower( Text ) == "/donate") or (string.lower( Text ) == "/shop") or (string.lower( Text ) == "/credit") or (string.lower( Text ) == "/credits") or (string.lower( Text ) == "/store") or (string.lower( Text ) == "!shop") or (string.lower( Text ) == "!credit") or (string.lower( Text ) == "!credits") or (string.lower( Text ) == "!store") then	-- MorningCoffeeZombie adding additional phrases
+		if (string.sub(Text:lower() .. " ", 1, Cmd:len() ) == Cmd) then
 			Ply:ConCommand("Prometheus")
 			return false
 		end

@@ -2,7 +2,7 @@
 
 // Set all the global statements and includes
 // Rev 86647730
-$version = '1.7.1';
+$version = '1.7.2';
 
 // This is ONLY enabled in the Prometheus demo
 $demo = false;
@@ -1774,8 +1774,8 @@ end
  */
 
 /**
- * addAction
- * @param Array $p args
+ * @param $p
+ * @throws Exception
  */
 function addAction($p)
 {
@@ -1806,6 +1806,7 @@ function addAction($p)
         $perm = $package['permanent'];
         $servers = $package['servers'];
         $title = $package['title'];
+        $expire = '1000-01-01 00:00:00';
 
         $actions_a = json_decode($actions, true);
         $servers = str_replace('{', '[', $servers);
