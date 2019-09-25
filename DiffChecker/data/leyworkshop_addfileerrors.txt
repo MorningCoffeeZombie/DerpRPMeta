@@ -1,0 +1,7 @@
+Resource not found on server: materials/swb/bullet.vmt		(LUA [addons/cw20_base/lua/weapons/cw_base/sv_filestodownload.lua - resource.AddFile])
+Resource not found on server: materials/swb/clumpspread_ring.vmt		(LUA [addons/cw20_base/lua/weapons/cw_base/sv_filestodownload.lua - resource.AddFile])
+Resource not found on server: materials/swb/scope_rifle.vmt		(LUA [addons/cw20_base/lua/weapons/cw_base/sv_filestodownload.lua - resource.AddFile])
+Resource not found on server: materials/swb_muzzle/flash.vmt		(LUA [addons/cw20_base/lua/weapons/cw_base/sv_filestodownload.lua - resource.AddFile])
+Resource not found on server: materials/swb_muzzle/flash_rif.vmt		(LUA [addons/cw20_base/lua/weapons/cw_base/sv_filestodownload.lua - resource.AddFile])
+Resource not found on server: materials/swb_muzzle/flash_spark.vmt		(LUA [addons/cw20_base/lua/weapons/cw_base/sv_filestodownload.lua - resource.AddFile])
+Resource not found on server: particles/swb_muzzle.pcf		(LUA [addons/cw20_base/lua/weapons/cw_base/sv_filestodownload.lua - resource.AddFile])

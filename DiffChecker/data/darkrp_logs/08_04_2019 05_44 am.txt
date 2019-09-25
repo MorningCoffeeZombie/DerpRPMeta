@@ -1,0 +1,797 @@
+Sun Aug  4 05:44:02 2019	Derp (STEAM_0:0:52504530) has joined the game
+Sun Aug  4 05:44:03 2019	William (STEAM_0:0:52504530) spawned
+Sun Aug  4 05:46:08 2019	William (STEAM_0:0:52504530) disconnected
+Sun Aug  4 07:04:49 2019	I Am Cheating (STEAM_0:0:94296198) has joined the game
+Sun Aug  4 07:04:49 2019	The Companion Cube (STEAM_0:0:94296198) spawned
+Sun Aug  4 08:51:02 2019	The Companion Cube (STEAM_0:0:94296198) disconnected
+Sun Aug  4 09:08:28 2019	Griffinton (STEAM_0:0:168227573) has joined the game
+Sun Aug  4 09:08:28 2019	Griffinton (STEAM_0:0:168227573) spawned
+Sun Aug  4 09:09:01 2019	Dr.arielpro (STEAM_0:0:49890816) has joined the game
+Sun Aug  4 09:09:01 2019	Dr.arielpro (STEAM_0:0:49890816) spawned
+Sun Aug  4 09:11:07 2019	Griffinton was killed by Himself with a suicide trick
+Sun Aug  4 09:11:11 2019	Griffinton (STEAM_0:0:168227573) spawned
+Sun Aug  4 09:14:03 2019	Dr.arielpro was killed by Griffinton with a fas2_glock20
+Sun Aug  4 09:14:06 2019	Dr.arielpro (STEAM_0:0:49890816) spawned
+Sun Aug  4 09:14:41 2019	Dr.arielpro (STEAM_0:0:49890816) disconnected
+Sun Aug  4 09:15:05 2019	Griffinton (STEAM_0:0:168227573) disconnected
+Sun Aug  4 10:31:28 2019	Parrasky (STEAM_0:1:195542352) has joined the game
+Sun Aug  4 10:31:28 2019	Parrasky (STEAM_0:1:195542352) spawned
+Sun Aug  4 10:40:58 2019	Parrasky (STEAM_0:1:195542352): /jobname afk
+Sun Aug  4 10:41:26 2019	Parrasky (STEAM_0:1:195542352): 
+Sun Aug  4 10:57:39 2019	I Am Cheating (STEAM_0:0:94296198) has joined the game
+Sun Aug  4 10:57:39 2019	The Companion Cube (STEAM_0:0:94296198) spawned
+Sun Aug  4 10:59:44 2019	(͠≖ ͜ʖ͠≖) (STEAM_0:1:95023662) has joined the game
+Sun Aug  4 10:59:44 2019	NUT (STEAM_0:1:95023662) spawned
+Sun Aug  4 11:23:30 2019	NUT (STEAM_0:1:95023662): /pro
+Sun Aug  4 11:32:35 2019	NUT (STEAM_0:1:95023662): 
+Sun Aug  4 11:39:27 2019	The Companion Cube (STEAM_0:0:94296198): /ooc BRuH MoMeNT
+Sun Aug  4 11:39:29 2019	The Companion Cube (STEAM_0:0:94296198): /ooc BRuH MoMeNT
+Sun Aug  4 12:02:52 2019	NUT (STEAM_0:1:95023662): !unbox
+Sun Aug  4 12:06:37 2019	The Companion Cube was killed by NUT with a fas2_ak12
+Sun Aug  4 12:06:41 2019	The Companion Cube (STEAM_0:0:94296198) spawned
+Sun Aug  4 12:08:20 2019	NUT (STEAM_0:1:95023662): !unbox
+Sun Aug  4 12:08:25 2019	NUT (STEAM_0:1:95023662): 
+Sun Aug  4 12:30:08 2019	DevL (STEAM_0:0:97157625) has joined the game
+Sun Aug  4 12:30:08 2019	DevL (STEAM_0:0:97157625) spawned
+Sun Aug  4 12:33:03 2019	The Companion Cube (STEAM_0:0:94296198): /a holy shit some 1 is here
+Sun Aug  4 12:33:08 2019	DevL (STEAM_0:0:97157625): // hi lol
+Sun Aug  4 12:33:25 2019	The Companion Cube (STEAM_0:0:94296198): /a making meth makes u lose money
+Sun Aug  4 12:33:29 2019	The Companion Cube (STEAM_0:0:94296198): /a rn
+Sun Aug  4 12:33:34 2019	DevL (STEAM_0:0:97157625): // oof same with weed rip
+Sun Aug  4 12:33:49 2019	DevL (STEAM_0:0:97157625): // im just use printers rip
+Sun Aug  4 12:33:57 2019	The Companion Cube (STEAM_0:0:94296198): /a yah that why im trying to make over powered weed seed instead of trying to get money
+Sun Aug  4 12:34:02 2019	The Companion Cube (STEAM_0:0:94296198): /a so when they buff weed
+Sun Aug  4 12:34:13 2019	The Companion Cube (STEAM_0:0:94296198): /a im gonna get so much $ idk wot i would do with it
+Sun Aug  4 12:34:22 2019	DevL (STEAM_0:0:97157625): // will said he was gonna buff it today
+Sun Aug  4 12:34:30 2019	The Companion Cube (STEAM_0:0:94296198): /a YES 
+Sun Aug  4 12:34:38 2019	DevL (STEAM_0:0:97157625): // reduce the cost of seeds and double the sell price
+Sun Aug  4 12:34:43 2019	The Companion Cube (STEAM_0:0:94296198): /a weed weed weed weed weed weed weed
+Sun Aug  4 12:34:48 2019	DevL (STEAM_0:0:97157625): // so id wait in buying seeds lol
+Sun Aug  4 12:34:56 2019	The Companion Cube (STEAM_0:0:94296198): /a bro just make the seeds feck each other
+Sun Aug  4 12:35:02 2019	The Companion Cube (STEAM_0:0:94296198): /a and make better seed
+Sun Aug  4 12:35:09 2019	DevL (STEAM_0:0:97157625): // oof i havnt tryed that yet
+Sun Aug  4 12:35:15 2019	DevL (STEAM_0:0:97157625): // wanna base togetjer?
+Sun Aug  4 12:35:25 2019	DevL (STEAM_0:0:97157625): // after purge\
+Sun Aug  4 12:35:38 2019	The Companion Cube (STEAM_0:0:94296198): /a yah i got the og kush to make 14% thc and 750g
+Sun Aug  4 12:35:54 2019	DevL (STEAM_0:0:97157625): damn lol
+Sun Aug  4 12:37:13 2019	The Companion Cube (STEAM_0:0:94296198): /a if the purge was real tbh ill just
+Sun Aug  4 12:37:24 2019	The Companion Cube (STEAM_0:0:94296198): /a rob a weed shop and smoke all the weed
+Sun Aug  4 12:37:45 2019	DevL (STEAM_0:0:97157625): /invholster
+Sun Aug  4 12:38:54 2019	The Companion Cube (STEAM_0:0:94296198): /a tbh maybe x2 money from weed is still not worth?
+Sun Aug  4 12:38:57 2019	The Companion Cube (STEAM_0:0:94296198): /a idk
+Sun Aug  4 12:39:08 2019	DevL (STEAM_0:0:97157625): // nah cause hes gonna lower the seeds by 25%
+Sun Aug  4 12:39:17 2019	The Companion Cube (STEAM_0:0:94296198): /a DONT BUY SEEDS
+Sun Aug  4 12:39:20 2019	The Companion Cube (STEAM_0:0:94296198): /A MAKE THEM
+Sun Aug  4 12:39:34 2019	DevL (STEAM_0:0:97157625): // you can just  straight up make them
+Sun Aug  4 12:39:36 2019	DevL (STEAM_0:0:97157625): // ?
+Sun Aug  4 12:39:43 2019	The Companion Cube (STEAM_0:0:94296198): /a seed lab
+Sun Aug  4 12:39:57 2019	The Companion Cube (STEAM_0:0:94296198): /a sure u need some seeds to startbut after that dont buy seeds
+Sun Aug  4 12:39:59 2019	DevL (STEAM_0:0:97157625): // shit i thought youd have to buy 2 to make one
+Sun Aug  4 12:40:03 2019	DevL (STEAM_0:0:97157625): // oh yea
+Sun Aug  4 12:40:14 2019	DevL (STEAM_0:0:97157625): // that makes sense
+Sun Aug  4 12:43:25 2019	The Companion Cube (STEAM_0:0:94296198): /a devl how much money u got
+Sun Aug  4 12:43:29 2019	DevL (STEAM_0:0:97157625): // 600k
+Sun Aug  4 12:43:49 2019	The Companion Cube (STEAM_0:0:94296198): /a 8m
+Sun Aug  4 12:44:06 2019	DevL (STEAM_0:0:97157625): // damn
+Sun Aug  4 12:44:17 2019	DevL (STEAM_0:0:97157625): // then again i joined last night lol
+Sun Aug  4 12:45:19 2019	The Companion Cube (STEAM_0:0:94296198): /a i heard gravity gun noises
+Sun Aug  4 12:46:59 2019	NUT (STEAM_0:1:95023662): /a dev where are u
+Sun Aug  4 12:47:02 2019	BOT Hank (STEAM_0:0:174639883) has joined the game
+Sun Aug  4 12:47:02 2019	BOT Hank (STEAM_0:0:174639883) spawned
+Sun Aug  4 12:47:12 2019	DevL (STEAM_0:0:97157625): // that warehouse near pd
+Sun Aug  4 12:47:19 2019	DevL (STEAM_0:0:97157625): it says oasis dispensray on it
+Sun Aug  4 12:47:55 2019	DevL (STEAM_0:0:97157625): hi lol
+Sun Aug  4 12:48:12 2019	DevL (STEAM_0:0:97157625): first time i was on was last night
+Sun Aug  4 12:48:16 2019	DevL (STEAM_0:0:97157625): i think
+Sun Aug  4 12:48:23 2019	DevL (STEAM_0:0:97157625): i mightve been on before idk\
+Sun Aug  4 12:48:34 2019	DevL (STEAM_0:0:97157625): // nah im good
+Sun Aug  4 12:48:41 2019	DevL (STEAM_0:0:97157625): thx for the offer tho
+Sun Aug  4 12:48:50 2019	DevL (STEAM_0:0:97157625): sure?
+Sun Aug  4 12:49:00 2019	The Companion Cube (STEAM_0:0:94296198): !unbox
+Sun Aug  4 12:49:03 2019	DevL (STEAM_0:0:97157625): damnnn
+Sun Aug  4 12:49:10 2019	DevL (STEAM_0:0:97157625): noice
+Sun Aug  4 12:50:37 2019	NUT was killed by Himself with a suicide trick
+Sun Aug  4 12:50:42 2019	NUT (STEAM_0:1:95023662) spawned
+Sun Aug  4 12:51:06 2019	NUT (STEAM_0:1:95023662): /a UG where are u
+Sun Aug  4 12:51:09 2019	NUT (STEAM_0:1:95023662): /a ?
+Sun Aug  4 12:51:25 2019	DrDerpenstein sups.gg (STEAM_0:0:13562763) has joined the game
+Sun Aug  4 12:51:25 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Sun Aug  4 12:51:39 2019	NUT (STEAM_0:1:95023662): /a he left i think unless he's Bot Hank
+Sun Aug  4 12:53:35 2019	NUT (STEAM_0:1:95023662): /dropmoney 1000000
+Sun Aug  4 12:53:36 2019	NUT (STEAM_0:1:95023662) has dropped $1,000,000
+Sun Aug  4 12:53:51 2019	UG | M A S T E R (STEAM_0:1:180622613) has joined the game
+Sun Aug  4 12:53:51 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Sun Aug  4 12:55:29 2019	DevL (STEAM_0:0:97157625): /sell
+Sun Aug  4 12:56:03 2019	UG | M A S T E R (STEAM_0:1:180622613): hello?
+Sun Aug  4 12:56:10 2019	UG | M A S T E R (STEAM_0:1:180622613): dead
+Sun Aug  4 12:56:13 2019	UG | M A S T E R was killed by Himself with a suicide trick
+Sun Aug  4 12:56:16 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Sun Aug  4 12:57:07 2019	UG | M A S T E R (STEAM_0:1:180622613): /dropmoney 2352
+Sun Aug  4 12:57:08 2019	UG | M A S T E R (STEAM_0:1:180622613) has dropped $2,352
+Sun Aug  4 12:57:23 2019	DrDerpenstein (STEAM_0:0:13562763): /pm UG | M A S T E R hey have you been doing any dev work here too
+Sun Aug  4 12:57:24 2019	The Companion Cube (STEAM_0:0:94296198) disconnected
+Sun Aug  4 12:57:39 2019	NUT (STEAM_0:1:95023662): 
+Sun Aug  4 12:57:45 2019	UG | M A S T E R (STEAM_0:1:180622613): I have not been doing any dev work here. Since the server is already completed.
+Sun Aug  4 12:57:56 2019	UG | M A S T E R was killed by Himself with a suicide trick
+Sun Aug  4 12:57:58 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Sun Aug  4 12:58:35 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT npc_accessory_vendor
+Sun Aug  4 12:58:39 2019	BOT Hank was killed by Entity [0][worldspawn] with a unknown
+Sun Aug  4 12:58:41 2019	BOT Hank (STEAM_0:0:174639883) spawned
+Sun Aug  4 12:58:42 2019	I Am Cheating (STEAM_0:0:94296198) has joined the game
+Sun Aug  4 12:58:42 2019	The Companion Cube (STEAM_0:0:94296198) spawned
+Sun Aug  4 13:02:27 2019	UG | M A S T E R (STEAM_0:1:180622613): /dropmoney 1500
+Sun Aug  4 13:02:28 2019	UG | M A S T E R (STEAM_0:1:180622613) has dropped $1,500
+Sun Aug  4 13:05:06 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT bm2_fuel
+Sun Aug  4 13:05:11 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT bm2_fuel
+Sun Aug  4 13:05:21 2019	The Companion Cube (STEAM_0:0:94296198): /a loads super shotgun with harmful intent
+Sun Aug  4 13:05:45 2019	The Companion Cube (STEAM_0:0:94296198): /a i beat doom 2016 yesterda
+Sun Aug  4 13:05:51 2019	The Companion Cube (STEAM_0:0:94296198): /a i beat doom 2016 yesterday*
+Sun Aug  4 13:06:09 2019	BOT Hank (STEAM_0:0:174639883): rdm
+Sun Aug  4 13:06:11 2019	BOT Hank (STEAM_0:0:174639883): rdm
+Sun Aug  4 13:10:12 2019	UG | M A S T E R (STEAM_0:1:180622613): I'ma touch it
+Sun Aug  4 13:10:49 2019	UG | M A S T E R was killed by Himself with a suicide trick
+Sun Aug  4 13:10:52 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Sun Aug  4 13:11:00 2019	UG | M A S T E R (STEAM_0:1:180622613) disconnected
+Sun Aug  4 13:14:15 2019	The Companion Cube (STEAM_0:0:94296198): /a what are u guys doing
+Sun Aug  4 13:14:36 2019	The Companion Cube (STEAM_0:0:94296198): /a great talk
+Sun Aug  4 13:14:46 2019	DevL (STEAM_0:0:97157625): // oof im just makeing pot
+Sun Aug  4 13:14:50 2019	The Companion Cube (STEAM_0:0:94296198): /a ah
+Sun Aug  4 13:23:41 2019	DevL (STEAM_0:0:97157625): // i just realised if weed became a big thing you would litteraly have ppl raiding others to steal their seeds
+Sun Aug  4 13:23:53 2019	DevL (STEAM_0:0:97157625): // like corprate trade secrets lol
+Sun Aug  4 13:23:56 2019	The Companion Cube (STEAM_0:0:94296198): /a nah people can use other peoples seeds
+Sun Aug  4 13:24:02 2019	DevL (STEAM_0:0:97157625): // exactly
+Sun Aug  4 13:24:10 2019	DevL (STEAM_0:0:97157625): // and some would prob sell good seeds
+Sun Aug  4 13:29:32 2019	DrDerpenstein (STEAM_0:0:13562763): /drop
+Sun Aug  4 13:32:13 2019	BOT Hank (STEAM_0:0:174639883): /drop
+Sun Aug  4 13:32:25 2019	DevL (STEAM_0:0:97157625): /y can i help?
+Sun Aug  4 13:33:54 2019	BOT Hank (STEAM_0:0:174639883) disconnected
+Sun Aug  4 13:34:37 2019	The Companion Cube (STEAM_0:0:94296198): /a drderp are u brothers with derp?
+Sun Aug  4 13:39:17 2019	Coriolis (STEAM_0:0:43953689) has joined the game
+Sun Aug  4 13:39:17 2019	Coriolis (STEAM_0:0:43953689) spawned
+Sun Aug  4 13:42:27 2019	Bobbicus (STEAM_0:0:86269452) has joined the game
+Sun Aug  4 13:42:27 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Sun Aug  4 13:44:26 2019	Coriolis (STEAM_0:0:43953689) disconnected
+Sun Aug  4 13:44:49 2019	The Companion Cube (STEAM_0:0:94296198): /a hello?
+Sun Aug  4 13:44:56 2019	Bobbicus (STEAM_0:0:86269452): /ooc hello
+Sun Aug  4 13:44:59 2019	The Companion Cube (STEAM_0:0:94296198): /a hey
+Sun Aug  4 13:45:03 2019	Bobbicus (STEAM_0:0:86269452): /ooc hey
+Sun Aug  4 13:45:12 2019	The Companion Cube (STEAM_0:0:94296198): /a sup
+Sun Aug  4 13:45:18 2019	Bobbicus (STEAM_0:0:86269452): /ooc not much, you?
+Sun Aug  4 13:45:41 2019	The Companion Cube (STEAM_0:0:94296198): /a just making weed
+Sun Aug  4 13:45:45 2019	NUT (STEAM_0:1:95023662): /a hey Bobbicus
+Sun Aug  4 13:45:47 2019	Bobbicus (STEAM_0:0:86269452): /ooc cool
+Sun Aug  4 13:45:53 2019	Bobbicus (STEAM_0:0:86269452): /ooc hey nut
+Sun Aug  4 13:45:55 2019	The Companion Cube (STEAM_0:0:94296198): /a they need to buff weed
+Sun Aug  4 13:46:00 2019	The Companion Cube (STEAM_0:0:94296198): /a like x3 profit
+Sun Aug  4 13:46:55 2019	DevL (STEAM_0:0:97157625): sure
+Sun Aug  4 13:47:05 2019	DevL (STEAM_0:0:97157625): whatcha want? blunt? muffin?
+Sun Aug  4 13:47:16 2019	DevL (STEAM_0:0:97157625): idk lol
+Sun Aug  4 13:47:27 2019	NUT (STEAM_0:1:95023662): /dropmoney 1000000
+Sun Aug  4 13:47:27 2019	NUT (STEAM_0:1:95023662) has dropped $1,000,000
+Sun Aug  4 13:47:31 2019	DevL (STEAM_0:0:97157625): oh shit
+Sun Aug  4 13:47:33 2019	DevL (STEAM_0:0:97157625): thx
+Sun Aug  4 13:47:38 2019	DevL (STEAM_0:0:97157625): have a nice day lol
+Sun Aug  4 13:58:13 2019	NUT (STEAM_0:1:95023662): 
+Sun Aug  4 14:19:00 2019	ElPelelas (STEAM_0:0:237108608) has joined the game
+Sun Aug  4 14:19:00 2019	ElPelelas (STEAM_0:0:237108608) spawned
+Sun Aug  4 14:21:27 2019	ElPelelas (STEAM_0:0:237108608) disconnected
+Sun Aug  4 14:21:41 2019	DevL (STEAM_0:0:97157625): sure
+Sun Aug  4 14:21:48 2019	DevL (STEAM_0:0:97157625): S1 or Buba
+Sun Aug  4 14:21:53 2019	DevL (STEAM_0:0:97157625): O.G*
+Sun Aug  4 14:22:00 2019	DevL (STEAM_0:0:97157625): S1 is 12% THC 
+Sun Aug  4 14:22:06 2019	DevL (STEAM_0:0:97157625): ok 2k
+Sun Aug  4 14:22:21 2019	DevL (STEAM_0:0:97157625): 10k for 5 oof
+Sun Aug  4 14:22:30 2019	DrDerpenstein (STEAM_0:0:13562763): /dropmoney 10000
+Sun Aug  4 14:22:31 2019	DrDerpenstein (STEAM_0:0:13562763) has dropped $10,000
+Sun Aug  4 14:22:52 2019	DevL (STEAM_0:0:97157625): no prob
+Sun Aug  4 14:23:01 2019	DevL (STEAM_0:0:97157625): ok
+Sun Aug  4 14:30:12 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth
+Sun Aug  4 14:30:13 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth
+Sun Aug  4 14:34:59 2019	DevL (STEAM_0:0:97157625): /y ye 1 sec
+Sun Aug  4 14:36:56 2019	Bobbicus was killed by DrDerpenstein with a fas2_ak12
+Sun Aug  4 14:37:01 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Sun Aug  4 14:38:16 2019	DrDerpenstein was killed by Bobbicus with a fas2_sks
+Sun Aug  4 14:38:26 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Sun Aug  4 14:44:43 2019	NUT (STEAM_0:1:95023662): 
+Sun Aug  4 14:52:13 2019	NUT (STEAM_0:1:95023662): 
+Sun Aug  4 14:52:34 2019	NUT (STEAM_0:1:95023662): 
+Sun Aug  4 14:53:14 2019	NUT (STEAM_0:1:95023662): 
+Sun Aug  4 14:56:28 2019	NUT (STEAM_0:1:95023662) spawned Vehicle prop_vehicle_jeep (fer_lafertdm)
+Sun Aug  4 14:57:22 2019	NUT (STEAM_0:1:95023662): /a derp where are u?
+Sun Aug  4 14:57:37 2019	DrDerpenstein (STEAM_0:0:13562763): // trying to figure out wweeed
+Sun Aug  4 14:57:41 2019	NUT (STEAM_0:1:95023662): /a where
+Sun Aug  4 15:00:22 2019	NUT (STEAM_0:1:95023662): 
+Sun Aug  4 15:01:49 2019	The Companion Cube (STEAM_0:0:94296198) disconnected
+Sun Aug  4 15:03:58 2019	NUT (STEAM_0:1:95023662) disconnected
+Sun Aug  4 15:06:11 2019	Bobbicus (STEAM_0:0:86269452) disconnected
+Sun Aug  4 15:21:43 2019	DevL (STEAM_0:0:97157625): /invholster
+Sun Aug  4 15:22:27 2019	DevL (STEAM_0:0:97157625): im hopping off in a few mins
+Sun Aug  4 15:22:36 2019	DevL (STEAM_0:0:97157625): ill be on later tho
+Sun Aug  4 15:22:38 2019	DrDerpenstein (STEAM_0:0:13562763): kk
+Sun Aug  4 15:23:17 2019	(͠≖ ͜ʖ͠≖) (STEAM_0:1:95023662) has joined the game
+Sun Aug  4 15:23:17 2019	NUT (STEAM_0:1:95023662) spawned
+Sun Aug  4 15:23:53 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_pot_hydro
+Sun Aug  4 15:24:01 2019	NUT (STEAM_0:1:95023662): /pro
+Sun Aug  4 15:24:07 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_soil
+Sun Aug  4 15:26:09 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Sun Aug  4 15:26:48 2019	NUT (STEAM_0:1:95023662): 
+Sun Aug  4 15:29:04 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_pot_hydro
+Sun Aug  4 15:29:09 2019	NUT (STEAM_0:1:95023662): /pro
+Sun Aug  4 15:29:11 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_pot_hydro
+Sun Aug  4 15:31:11 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_fuel
+Sun Aug  4 15:31:11 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_fuel
+Sun Aug  4 15:31:11 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_fuel
+Sun Aug  4 15:31:11 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_fuel
+Sun Aug  4 15:32:32 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_weedstick
+Sun Aug  4 15:32:38 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_soil
+Sun Aug  4 15:32:56 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_weedblock
+Sun Aug  4 15:33:48 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_soil
+Sun Aug  4 15:33:48 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_soil
+Sun Aug  4 15:33:48 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_soil
+Sun Aug  4 15:34:41 2019	Derp (STEAM_0:0:52504530) has joined the game
+Sun Aug  4 15:34:41 2019	William (STEAM_0:0:52504530) spawned
+Sun Aug  4 15:35:24 2019	William (STEAM_0:0:52504530): devl is a great guy
+Sun Aug  4 15:35:28 2019	William (STEAM_0:0:52504530): he was the dude i was talking to last night
+Sun Aug  4 15:36:35 2019	William (STEAM_0:0:52504530): what offer
+Sun Aug  4 15:36:46 2019	William (STEAM_0:0:52504530): and u said no
+Sun Aug  4 15:37:03 2019	William (STEAM_0:0:52504530): you said you dont have to
+Sun Aug  4 15:37:03 2019	DevL (STEAM_0:0:97157625) disconnected
+Sun Aug  4 15:37:17 2019	William (STEAM_0:0:52504530): well thats just a polite way of saying no
+Sun Aug  4 15:37:26 2019	William (STEAM_0:0:52504530): anyways what do u want
+Sun Aug  4 15:37:46 2019	William (STEAM_0:0:52504530): hes fucking dead
+Sun Aug  4 15:37:56 2019	William (STEAM_0:0:52504530): lmao the light just fell 
+Sun Aug  4 15:39:40 2019	Dio (STEAM_0:0:497465680) has joined the game
+Sun Aug  4 15:39:40 2019	Dio (STEAM_0:0:497465680) spawned
+Sun Aug  4 15:40:05 2019	shobert inu (STEAM_0:1:421393204) has joined the game
+Sun Aug  4 15:40:05 2019	shobert inu (STEAM_0:1:421393204) spawned
+Sun Aug  4 15:40:21 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_soil
+Sun Aug  4 15:40:22 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_soil
+Sun Aug  4 15:40:22 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_soil
+Sun Aug  4 15:40:22 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_soil
+Sun Aug  4 15:40:22 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_soil
+Sun Aug  4 15:40:52 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_drystation
+Sun Aug  4 15:42:15 2019	I Am Cheating (STEAM_0:0:94296198) has joined the game
+Sun Aug  4 15:42:15 2019	The Companion Cube (STEAM_0:0:94296198) spawned
+Sun Aug  4 15:45:34 2019	Dio (STEAM_0:0:497465680): 
+Sun Aug  4 15:46:19 2019	shobert inu (STEAM_0:1:421393204): /a how do i give myself a rp name
+Sun Aug  4 15:46:35 2019	William (STEAM_0:0:52504530): /ooc /rpname
+Sun Aug  4 15:52:02 2019	shobert inu (STEAM_0:1:421393204): /rpname just your everyday SCP-049
+Sun Aug  4 15:52:18 2019	shobert inu (STEAM_0:1:421393204): /rpname a regular SCP 049
+Sun Aug  4 15:53:04 2019	a regular SCP 049 (STEAM_0:1:421393204): hi
+Sun Aug  4 15:53:40 2019	a regular SCP 049 (STEAM_0:1:421393204): .
+Sun Aug  4 15:53:47 2019	a regular SCP 049 (STEAM_0:1:421393204): well thx
+Sun Aug  4 15:55:06 2019	William (STEAM_0:0:52504530): what the fuck
+Sun Aug  4 15:55:16 2019	William (STEAM_0:0:52504530): thats probably the most random thing ive ever seen
+Sun Aug  4 15:55:25 2019	William (STEAM_0:0:52504530): thanos just comes flying out of nowhere 
+Sun Aug  4 15:55:30 2019	William (STEAM_0:0:52504530): chanting im thanos
+Sun Aug  4 15:55:44 2019	William (STEAM_0:0:52504530): its already on ur hand
+Sun Aug  4 15:55:50 2019	William (STEAM_0:0:52504530): lmao
+Sun Aug  4 15:55:56 2019	Dio was killed by Himself with a suicide trick
+Sun Aug  4 15:56:03 2019	William (STEAM_0:0:52504530): /pm dio thanos has bad circulation
+Sun Aug  4 15:56:13 2019	Dio (STEAM_0:0:497465680) spawned
+Sun Aug  4 15:56:20 2019	a regular SCP 049 (STEAM_0:1:421393204): /a how in the heck do i move tip jars?
+Sun Aug  4 15:56:37 2019	a regular SCP 049 (STEAM_0:1:421393204): O
+Sun Aug  4 15:56:40 2019	William (STEAM_0:0:52504530): lol
+Sun Aug  4 15:56:57 2019	Dio was killed by Himself with a suicide trick
+Sun Aug  4 15:57:16 2019	a regular SCP 049 (STEAM_0:1:421393204): WRYYYYYYYYYYY
+Sun Aug  4 15:57:18 2019	Dio (STEAM_0:0:497465680) spawned
+Sun Aug  4 15:57:20 2019	Dio was killed by Himself with a suicide trick
+Sun Aug  4 15:57:22 2019	Dio (STEAM_0:0:497465680) spawned
+Sun Aug  4 15:57:47 2019	Dio (STEAM_0:0:497465680) spawned
+Sun Aug  4 15:58:39 2019	Dio was killed by Himself with a suicide trick
+Sun Aug  4 15:58:46 2019	Dio (STEAM_0:0:497465680) spawned
+Sun Aug  4 15:58:50 2019	Dio was killed by Himself with a suicide trick
+Sun Aug  4 15:58:53 2019	Dio (STEAM_0:0:497465680) spawned
+Sun Aug  4 15:59:50 2019	Dio (STEAM_0:0:497465680) spawned
+Sun Aug  4 16:03:58 2019	Dio (STEAM_0:0:497465680): 
+Sun Aug  4 16:04:20 2019	DrDerpenstein was killed by Dio with a fas2_deagle
+Sun Aug  4 16:04:22 2019	NUT was killed by Dio with a fas2_deagle
+Sun Aug  4 16:04:25 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Sun Aug  4 16:04:36 2019	Dio (STEAM_0:0:497465680): 
+Sun Aug  4 16:05:10 2019	Dio (STEAM_0:0:497465680): 
+Sun Aug  4 16:06:25 2019	a regular SCP 049 was killed by Dio with a fas2_deagle
+Sun Aug  4 16:06:29 2019	a regular SCP 049 (STEAM_0:1:421393204): oof
+Sun Aug  4 16:06:30 2019	a regular SCP 049 (STEAM_0:1:421393204) spawned
+Sun Aug  4 16:06:44 2019	Bobbicus (STEAM_0:0:86269452) has joined the game
+Sun Aug  4 16:06:44 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Sun Aug  4 16:07:09 2019	William was killed by Dio with a fas2_deagle
+Sun Aug  4 16:07:13 2019	William (STEAM_0:0:52504530) spawned
+Sun Aug  4 16:07:49 2019	Bobbicus was killed by Dio with a fas2_deagle
+Sun Aug  4 16:07:55 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Sun Aug  4 16:08:44 2019	The Companion Cube was killed by Dio with a fas2_deagle
+Sun Aug  4 16:08:46 2019	The Companion Cube (STEAM_0:0:94296198) spawned
+Sun Aug  4 16:09:27 2019	William (STEAM_0:0:52504530): good job
+Sun Aug  4 16:10:10 2019	a regular SCP 049 (STEAM_0:1:421393204): ye
+Sun Aug  4 16:10:36 2019	a regular SCP 049 (STEAM_0:1:421393204): glock 20?
+Sun Aug  4 16:11:12 2019	a regular SCP 049 (STEAM_0:1:421393204): what ammo does desert eagle use
+Sun Aug  4 16:11:31 2019	a regular SCP 049 (STEAM_0:1:421393204): K
+Sun Aug  4 16:14:16 2019	Bobbicus was killed by Himself with a suicide trick
+Sun Aug  4 16:14:28 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Sun Aug  4 16:14:43 2019	Dio (STEAM_0:0:497465680): /buybitminerfuel
+Sun Aug  4 16:14:44 2019	Dio (STEAM_0:0:497465680): /buybitminerfuel
+Sun Aug  4 16:14:52 2019	a regular SCP 049 (STEAM_0:1:421393204): /rpname a meme loving idiot
+Sun Aug  4 16:16:47 2019	Dio (STEAM_0:0:497465680): /buybitminerfuel
+Sun Aug  4 16:16:56 2019	Dio (STEAM_0:0:497465680): !casino
+Sun Aug  4 16:17:02 2019	Dio (STEAM_0:0:497465680): !casino
+Sun Aug  4 16:17:23 2019	William (STEAM_0:0:52504530): pretty sure its disabled for now
+Sun Aug  4 16:17:29 2019	William (STEAM_0:0:52504530): lol
+Sun Aug  4 16:17:31 2019	a meme loving idiot (STEAM_0:1:421393204): uuuuh
+Sun Aug  4 16:17:36 2019	a meme loving idiot (STEAM_0:1:421393204): you ok up there
+Sun Aug  4 16:17:37 2019	William (STEAM_0:0:52504530): GOOD LUCK WITH THAT BOY
+Sun Aug  4 16:17:40 2019	a meme loving idiot (STEAM_0:1:421393204): .
+Sun Aug  4 16:17:41 2019	William (STEAM_0:0:52504530): 
+Sun Aug  4 16:17:53 2019	Dio (STEAM_0:0:497465680): /buybitminerfuel
+Sun Aug  4 16:18:07 2019	a meme loving idiot (STEAM_0:1:421393204): back off
+Sun Aug  4 16:18:13 2019	a meme loving idiot (STEAM_0:1:421393204): i need personal space
+Sun Aug  4 16:18:49 2019	The Companion Cube (STEAM_0:0:94296198): /a william can you please make the hydro pot non vip?
+Sun Aug  4 16:18:59 2019	a meme loving idiot (STEAM_0:1:421393204): i said back off
+Sun Aug  4 16:19:19 2019	a meme loving idiot (STEAM_0:1:421393204): O
+Sun Aug  4 16:19:24 2019	Parrasky (STEAM_0:1:195542352): /ooc hiya everyone
+Sun Aug  4 16:19:29 2019	Bobbicus (STEAM_0:0:86269452): /ooc hi
+Sun Aug  4 16:20:06 2019	a meme loving idiot (STEAM_0:1:421393204): idk how stuff works
+Sun Aug  4 16:20:11 2019	Dio (STEAM_0:0:497465680): /buybitminerfuel
+Sun Aug  4 16:20:26 2019	Dio (STEAM_0:0:497465680): /buybitminerfuel
+Sun Aug  4 16:20:43 2019	Parrasky (STEAM_0:1:195542352): /ooc my left nut hurts a little
+Sun Aug  4 16:20:44 2019	a meme loving idiot (STEAM_0:1:421393204): th for tutorial
+Sun Aug  4 16:20:50 2019	Parrasky (STEAM_0:1:195542352): /ooc dont ask
+Sun Aug  4 16:20:55 2019	Dio (STEAM_0:0:497465680): /buybitminerfuel
+Sun Aug  4 16:20:55 2019	a meme loving idiot (STEAM_0:1:421393204): /a i was about to
+Sun Aug  4 16:20:56 2019	William (STEAM_0:0:52504530): /ooc how old are you again?
+Sun Aug  4 16:21:03 2019	Bobbicus (STEAM_0:0:86269452): /ooc we didnt need to know that
+Sun Aug  4 16:21:04 2019	Parrasky (STEAM_0:1:195542352): /ooc 12
+Sun Aug  4 16:21:07 2019	Dio (STEAM_0:0:497465680): /buybitminerfuel
+Sun Aug  4 16:21:08 2019	Dio (STEAM_0:0:497465680): /buybitminerfuel
+Sun Aug  4 16:21:10 2019	William (STEAM_0:0:52504530): /ooc probably puberty then
+Sun Aug  4 16:21:10 2019	Dio (STEAM_0:0:497465680): /buybitminerfuel
+Sun Aug  4 16:21:20 2019	William (STEAM_0:0:52504530): /ooc ur nuts are preparing the seed so u can impregnate a girl at the age of 15
+Sun Aug  4 16:21:30 2019	Parrasky (STEAM_0:1:195542352): /ooc no i mean so girl kicked me in my balls cause i slapped her ass
+Sun Aug  4 16:21:36 2019	William (STEAM_0:0:52504530): /ooc um
+Sun Aug  4 16:21:38 2019	Dio (STEAM_0:0:497465680): /buybitminerfuel
+Sun Aug  4 16:21:40 2019	Bobbicus (STEAM_0:0:86269452): /ooc UH
+Sun Aug  4 16:21:45 2019	Parrasky (STEAM_0:1:195542352): /ooc yea
+Sun Aug  4 16:21:46 2019	Bobbicus (STEAM_0:0:86269452): /ooc SIR
+Sun Aug  4 16:21:47 2019	The Companion Cube (STEAM_0:0:94296198): /a u deserved that
+Sun Aug  4 16:21:48 2019	William (STEAM_0:0:52504530): /ooc why would you slap someone's ass
+Sun Aug  4 16:21:50 2019	a meme loving idiot (STEAM_0:1:421393204): /ad how do i make a kill bind in real life
+Sun Aug  4 16:21:57 2019	Parrasky (STEAM_0:1:195542352): // it was a dare
+Sun Aug  4 16:21:57 2019	Bobbicus (STEAM_0:0:86269452): /ooc yeah, the fuck is wrong with you
+Sun Aug  4 16:21:59 2019	a meme loving idiot (STEAM_0:1:421393204): /a how do i kill bind in real life
+Sun Aug  4 16:22:06 2019	Parrasky (STEAM_0:1:195542352): // like 5 dollars
+Sun Aug  4 16:22:24 2019	Bobbicus (STEAM_0:0:86269452): /ooc 5 bucks aint worth a sexual assault case
+Sun Aug  4 16:22:33 2019	Parrasky (STEAM_0:1:195542352): /ooc xd
+Sun Aug  4 16:22:59 2019	a meme loving idiot (STEAM_0:1:421393204) spawned Vehicle prop_vehicle_jeep (chargersrt8poltdm)
+Sun Aug  4 16:23:22 2019	The Companion Cube (STEAM_0:0:94296198) disconnected
+Sun Aug  4 16:23:23 2019	a meme loving idiot (STEAM_0:1:421393204): /unownalldoors
+Sun Aug  4 16:23:26 2019	a meme loving idiot (STEAM_0:1:421393204): /requestlicense
+Sun Aug  4 16:23:27 2019	William (STEAM_0:0:52504530): u doo doo
+Sun Aug  4 16:23:41 2019	Dio (STEAM_0:0:497465680): /buybitminerfuel
+Sun Aug  4 16:23:45 2019	Dio (STEAM_0:0:497465680): /buybitminerfuel
+Sun Aug  4 16:24:06 2019	Dio (STEAM_0:0:497465680): /buybitminerfuel
+Sun Aug  4 16:24:23 2019	Dio (STEAM_0:0:497465680): /buybitminerfuel
+Sun Aug  4 16:24:26 2019	a meme loving idiot (STEAM_0:1:421393204): the cops r watching
+Sun Aug  4 16:24:31 2019	Dio (STEAM_0:0:497465680): /buybitminerfuel
+Sun Aug  4 16:24:45 2019	Dio (STEAM_0:0:497465680): /buybitminerfuel
+Sun Aug  4 16:25:51 2019	Dio was killed by Himself with a suicide trick
+Sun Aug  4 16:25:51 2019	Dio (STEAM_0:0:497465680): !slay Dio explode
+Sun Aug  4 16:26:03 2019	Dio (STEAM_0:0:497465680) spawned
+Sun Aug  4 16:26:21 2019	Bobbicus (STEAM_0:0:86269452): /ooc do i have to advert to rob the bank?
+Sun Aug  4 16:26:28 2019	Parrasky (STEAM_0:1:195542352): /ooc no..
+Sun Aug  4 16:26:43 2019	Parrasky (STEAM_0:1:195542352): /ooc do you have to tell people im going to rob a bank irl
+Sun Aug  4 16:26:51 2019	Parrasky (STEAM_0:1:195542352): /ooc random citzens
+Sun Aug  4 16:27:41 2019	a meme loving idiot was killed by Bobbicus with a fas2_ak12
+Sun Aug  4 16:27:43 2019	a meme loving idiot (STEAM_0:1:421393204): oof
+Sun Aug  4 16:27:49 2019	a meme loving idiot (STEAM_0:1:421393204) spawned
+Sun Aug  4 16:28:27 2019	a meme loving idiot was killed by Bobbicus with a fas2_ak12
+Sun Aug  4 16:28:30 2019	a meme loving idiot (STEAM_0:1:421393204): oof
+Sun Aug  4 16:28:34 2019	a meme loving idiot (STEAM_0:1:421393204) spawned
+Sun Aug  4 16:29:48 2019	a meme loving idiot (STEAM_0:1:421393204): /pro
+Sun Aug  4 16:29:51 2019	a meme loving idiot (STEAM_0:1:421393204): /pro
+Sun Aug  4 16:30:09 2019	Parrasky (STEAM_0:1:195542352): /ooc so i could get sued for slapping a girl's ass???
+Sun Aug  4 16:30:14 2019	Bobbicus was killed by Himself with a suicide trick
+Sun Aug  4 16:30:16 2019	a meme loving idiot (STEAM_0:1:421393204): /a yes
+Sun Aug  4 16:30:23 2019	Bobbicus (STEAM_0:0:86269452): /ooc and arrested
+Sun Aug  4 16:30:23 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Sun Aug  4 16:30:41 2019	Parrasky (STEAM_0:1:195542352): /ooc oh
+Sun Aug  4 16:30:45 2019	Bobbicus (STEAM_0:0:86269452): /ooc yea
+Sun Aug  4 16:30:51 2019	Bobbicus (STEAM_0:0:86269452): /ooc you didnt know that?
+Sun Aug  4 16:31:09 2019	Parrasky (STEAM_0:1:195542352): /ooc i thought i would get detention
+Sun Aug  4 16:31:16 2019	DrDerpenstein was killed by Dio with a fas2_deagle
+Sun Aug  4 16:31:24 2019	Bobbicus (STEAM_0:0:86269452): /ooc if youre lucky
+Sun Aug  4 16:31:27 2019	a meme loving idiot was killed by Dio with a fas2_deagle
+Sun Aug  4 16:31:27 2019	Parrasky (STEAM_0:1:195542352): /ooc i go to a private school
+Sun Aug  4 16:31:29 2019	a meme loving idiot (STEAM_0:1:421393204) spawned
+Sun Aug  4 16:31:37 2019	Parrasky (STEAM_0:1:195542352): /ooc o' right
+Sun Aug  4 16:31:46 2019	Bobbicus (STEAM_0:0:86269452): /ooc maybe not arrested, but if the parents really want to, they probably could
+Sun Aug  4 16:31:52 2019	Bobbicus (STEAM_0:0:86269452): /ooc dont quote me on that tho
+Sun Aug  4 16:31:54 2019	Dio (STEAM_0:0:497465680): !unbox
+Sun Aug  4 16:31:57 2019	Bobbicus (STEAM_0:0:86269452): /ooc not fully sure
+Sun Aug  4 16:32:13 2019	Bobbicus (STEAM_0:0:86269452): /ooc still, dont do it
+Sun Aug  4 16:32:39 2019	Bobbicus was killed by Dio with a fas2_deagle
+Sun Aug  4 16:32:41 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Sun Aug  4 16:33:18 2019	William (STEAM_0:0:52504530): hi
+Sun Aug  4 16:34:04 2019	a meme loving idiot was killed by Bobbicus with a fas2_ak12
+Sun Aug  4 16:34:07 2019	a meme loving idiot (STEAM_0:1:421393204) spawned
+Sun Aug  4 16:34:17 2019	Bobbicus was killed by Dio with a fas2_deagle
+Sun Aug  4 16:34:19 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Sun Aug  4 16:35:44 2019	Dio was killed by Bobbicus with a fas2_ak12
+Sun Aug  4 16:35:46 2019	Dio (STEAM_0:0:497465680) spawned
+Sun Aug  4 16:36:16 2019	a meme loving idiot (STEAM_0:1:421393204) disconnected
+Sun Aug  4 16:36:38 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Sun Aug  4 16:37:22 2019	Parrasky was killed by Bobbicus with a fas2_ak12
+Sun Aug  4 16:37:31 2019	Parrasky (STEAM_0:1:195542352) spawned
+Sun Aug  4 16:37:38 2019	Dio was killed by Bobbicus with a fas2_ak12
+Sun Aug  4 16:37:40 2019	Dio (STEAM_0:0:497465680) spawned
+Sun Aug  4 16:38:00 2019	Bobbicus was killed by Dio with a fas2_deagle
+Sun Aug  4 16:38:02 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Sun Aug  4 16:38:14 2019	Dio was killed by Bobbicus with a fas2_ak12
+Sun Aug  4 16:38:17 2019	Dio (STEAM_0:0:497465680) spawned
+Sun Aug  4 16:38:25 2019	Parrasky was killed by Dio with a fas2_deagle
+Sun Aug  4 16:38:28 2019	Dio was killed by Bobbicus with a fas2_ak12
+Sun Aug  4 16:38:31 2019	Dio (STEAM_0:0:497465680) spawned
+Sun Aug  4 16:38:31 2019	Parrasky (STEAM_0:1:195542352) spawned
+Sun Aug  4 16:38:39 2019	Dio was killed by Bobbicus with a fas2_ak12
+Sun Aug  4 16:38:40 2019	Parrasky (STEAM_0:1:195542352): /ooc bobbicus you fuckin dickhead
+Sun Aug  4 16:38:42 2019	Dio (STEAM_0:0:497465680) spawned
+Sun Aug  4 16:38:49 2019	Dio was killed by Bobbicus with a fas2_ak12
+Sun Aug  4 16:38:51 2019	Dio (STEAM_0:0:497465680) spawned
+Sun Aug  4 16:38:54 2019	Parrasky was killed by Bobbicus with a fas2_ak12
+Sun Aug  4 16:38:57 2019	Parrasky (STEAM_0:1:195542352) spawned
+Sun Aug  4 16:39:24 2019	Bobbicus (STEAM_0:0:86269452): /ooc hey man, its my right to purge
+Sun Aug  4 16:39:39 2019	Parrasky (STEAM_0:1:195542352): /ooc we were friend su nonce
+Sun Aug  4 16:39:46 2019	Bobbicus (STEAM_0:0:86269452): /ooc eeeeeeeeeeeeeeeeeeeeeeeeeeeeeh
+Sun Aug  4 16:39:56 2019	Bobbicus (STEAM_0:0:86269452) disconnected
+Sun Aug  4 16:40:09 2019	Parrasky (STEAM_0:1:195542352): /ooc on god im going to hunt him down
+Sun Aug  4 16:40:25 2019	Parrasky was killed by Dio with a fas2_deagle
+Sun Aug  4 16:40:46 2019	Parrasky (STEAM_0:1:195542352) spawned
+Sun Aug  4 16:40:59 2019	Bobbicus (STEAM_0:0:86269452) has joined the game
+Sun Aug  4 16:40:59 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Sun Aug  4 16:41:01 2019	Parrasky (STEAM_0:1:195542352): /ooc fukcin aye
+Sun Aug  4 16:41:05 2019	qwertyugfdsaaa (STEAM_0:0:104031665) has joined the game
+Sun Aug  4 16:41:05 2019	qwertyugfdsaaa (STEAM_0:0:104031665) spawned
+Sun Aug  4 16:41:11 2019	Parrasky (STEAM_0:1:195542352): /ooc nocliped into my base to kill me
+Sun Aug  4 16:41:33 2019	Bobbicus (STEAM_0:0:86269452): /ooc sorry about that
+Sun Aug  4 16:41:38 2019	Bobbicus (STEAM_0:0:86269452): /ooc misclicked
+Sun Aug  4 16:41:51 2019	Bobbicus (STEAM_0:0:86269452): /ooc anyway, i didnt noclip in your base, if thats what you think
+Sun Aug  4 16:42:27 2019	Parrasky (STEAM_0:1:195542352): /ooc these guns are kinda ass tbh
+Sun Aug  4 16:42:37 2019	qwertyugfdsaaa (STEAM_0:0:104031665): !unbox
+Sun Aug  4 16:42:42 2019	Parrasky (STEAM_0:1:195542352): /ooc no not you
+Sun Aug  4 16:42:50 2019	Parrasky (STEAM_0:1:195542352): /ooc bob
+Sun Aug  4 16:42:53 2019	Bobbicus (STEAM_0:0:86269452): /ooc oh
+Sun Aug  4 16:42:57 2019	Parrasky (STEAM_0:1:195542352): /ooc dio
+Sun Aug  4 16:42:59 2019	Bobbicus (STEAM_0:0:86269452): /ooc just checking
+Sun Aug  4 16:43:10 2019	Bobbicus (STEAM_0:0:86269452): /ooc i doubt that
+Sun Aug  4 16:45:11 2019	Dio (STEAM_0:0:497465680): 
+Sun Aug  4 16:45:29 2019	William was killed by Himself with a suicide trick
+Sun Aug  4 16:45:30 2019	qwertyugfdsaaa was killed by Himself with a suicide trick
+Sun Aug  4 16:45:32 2019	William (STEAM_0:0:52504530) spawned
+Sun Aug  4 16:45:33 2019	qwertyugfdsaaa (STEAM_0:0:104031665) spawned
+Sun Aug  4 16:45:57 2019	William (STEAM_0:0:52504530): hello
+Sun Aug  4 16:45:58 2019	qwertyugfdsaaa (STEAM_0:0:104031665): hi
+Sun Aug  4 16:46:08 2019	Parrasky (STEAM_0:1:195542352): /ooc william you gon use m9k for the server
+Sun Aug  4 16:46:10 2019	William (STEAM_0:0:52504530): welcome to my epic arcade where we only have like 4 machines
+Sun Aug  4 16:46:31 2019	qwertyugfdsaaa (STEAM_0:0:104031665): they are eror
+Sun Aug  4 16:46:39 2019	William (STEAM_0:0:52504530): u probably need to download the collection
+Sun Aug  4 16:46:39 2019	qwertyugfdsaaa (STEAM_0:0:104031665): for mw
+Sun Aug  4 16:46:41 2019	Dio (STEAM_0:0:497465680): /buybitminerfuel
+Sun Aug  4 16:46:45 2019	qwertyugfdsaaa (STEAM_0:0:104031665): for me\
+Sun Aug  4 16:46:46 2019	Dio (STEAM_0:0:497465680): /buybitminerfuel
+Sun Aug  4 16:46:52 2019	William (STEAM_0:0:52504530): i can send u the collection if u want
+Sun Aug  4 16:47:09 2019	qwertyugfdsaaa (STEAM_0:0:104031665): sure
+Sun Aug  4 16:47:13 2019	William (STEAM_0:0:52504530): https://steamcommunity.com/sharedfiles/filedetails/?id=1797327391
+Sun Aug  4 16:47:30 2019	qwertyugfdsaaa (STEAM_0:0:104031665): thx
+Sun Aug  4 16:47:33 2019	William (STEAM_0:0:52504530): no problem
+Sun Aug  4 16:47:50 2019	William (STEAM_0:0:52504530): if you need anything just /pm me
+Sun Aug  4 16:47:54 2019	qwertyugfdsaaa (STEAM_0:0:104031665): ok
+Sun Aug  4 16:48:35 2019	William (STEAM_0:0:52504530): 
+Sun Aug  4 16:49:21 2019	William (STEAM_0:0:52504530): /dropweapon
+Sun Aug  4 16:49:30 2019	William (STEAM_0:0:52504530): /dropweapon
+Sun Aug  4 16:49:33 2019	Dio (STEAM_0:0:497465680): 
+Sun Aug  4 16:49:52 2019	Parrasky (STEAM_0:1:195542352): 
+Sun Aug  4 16:50:08 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Sun Aug  4 16:50:29 2019	William (STEAM_0:0:52504530): 
+Sun Aug  4 16:51:04 2019	William (STEAM_0:0:52504530): 
+Sun Aug  4 16:51:35 2019	William (STEAM_0:0:52504530): /gun
+Sun Aug  4 16:53:14 2019	Dio (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_jeep (300ctdm)
+Sun Aug  4 16:53:36 2019	qwertyugfdsaaa (STEAM_0:0:104031665): /pm wi can i get like 5k so i can make some weed
+Sun Aug  4 16:53:52 2019	Dio (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_jeep (crownvic_taxitdm)
+Sun Aug  4 16:54:18 2019	William was killed by Dio with a prop_vehicle_jeep
+Sun Aug  4 16:54:21 2019	William (STEAM_0:0:52504530) spawned
+Sun Aug  4 16:54:32 2019	William was killed by Dio with a prop_vehicle_jeep
+Sun Aug  4 16:54:34 2019	William (STEAM_0:0:52504530) spawned
+Sun Aug  4 16:54:57 2019	qwertyugfdsaaa (STEAM_0:0:104031665): /pm wi can i get like 5k so i can make some weed
+Sun Aug  4 16:55:11 2019	William was killed by Himself with a suicide trick
+Sun Aug  4 16:55:14 2019	William (STEAM_0:0:52504530) spawned
+Sun Aug  4 16:55:16 2019	Dio (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_jeep (beetle68tdm)
+Sun Aug  4 16:56:16 2019	NUT (STEAM_0:1:95023662) spawned
+Sun Aug  4 16:57:09 2019	Dio (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_airboat (Airboat)
+Sun Aug  4 16:57:11 2019	Dio (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_airboat (Airboat)
+Sun Aug  4 16:57:18 2019	Dio (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_airboat (Airboat)
+Sun Aug  4 16:57:27 2019	Dio (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_airboat (Airboat)
+Sun Aug  4 16:57:32 2019	qwertyugfdsaaa (STEAM_0:0:104031665): /name qblue
+Sun Aug  4 16:58:02 2019	qblue (STEAM_0:0:104031665): /pm wi can i get like 5k so i can make some weed
+Sun Aug  4 16:58:45 2019	qblue (STEAM_0:0:104031665): hi
+Sun Aug  4 16:58:46 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Sun Aug  4 16:58:46 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Sun Aug  4 16:58:46 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Sun Aug  4 16:58:46 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Sun Aug  4 16:58:47 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Sun Aug  4 16:58:47 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_healthkit
+Sun Aug  4 16:58:47 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_healthkit
+Sun Aug  4 16:58:47 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_healthkit
+Sun Aug  4 16:58:48 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Sun Aug  4 16:58:48 2019	William was killed by Parrasky with a fas2_rem870
+Sun Aug  4 16:58:49 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Sun Aug  4 16:58:52 2019	William (STEAM_0:0:52504530) spawned
+Sun Aug  4 16:59:04 2019	Dio was killed by Himself with a suicide trick
+Sun Aug  4 16:59:07 2019	Bobbicus was killed by Himself with a suicide trick
+Sun Aug  4 16:59:22 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Sun Aug  4 16:59:25 2019	Dio (STEAM_0:0:497465680) spawned
+Sun Aug  4 17:00:12 2019	qblue (STEAM_0:0:104031665): /pm wi can i get like 5k pls
+Sun Aug  4 17:00:17 2019	DevL (STEAM_0:0:97157625) has joined the game
+Sun Aug  4 17:00:17 2019	DevL (STEAM_0:0:97157625) spawned
+Sun Aug  4 17:00:56 2019	NUT (STEAM_0:1:95023662): /pro
+Sun Aug  4 17:01:03 2019	Bobbicus was killed by Parrasky with a fas2_rem870
+Sun Aug  4 17:01:05 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Sun Aug  4 17:01:11 2019	NUT (STEAM_0:1:95023662): /a anybody want to fight
+Sun Aug  4 17:01:20 2019	Parrasky was killed by Entity [192][zmlab_combiner] with a zmlab_combiner
+Sun Aug  4 17:01:22 2019	Parrasky (STEAM_0:1:195542352) spawned
+Sun Aug  4 17:01:35 2019	Dio was killed by Parrasky with a fas2_rem870
+Sun Aug  4 17:01:38 2019	Dio (STEAM_0:0:497465680) spawned
+Sun Aug  4 17:01:38 2019	William was killed by NUT with a fas2_ak12
+Sun Aug  4 17:01:40 2019	Parrasky was killed by Bobbicus with a fas2_glock20
+Sun Aug  4 17:01:42 2019	Parrasky (STEAM_0:1:195542352) spawned
+Sun Aug  4 17:02:01 2019	Parrasky was killed by Bobbicus with a fas2_ak12
+Sun Aug  4 17:02:03 2019	Parrasky (STEAM_0:1:195542352) spawned
+Sun Aug  4 17:02:22 2019	qblue was killed by Himself with a suicide trick
+Sun Aug  4 17:02:24 2019	qblue (STEAM_0:0:104031665) spawned
+Sun Aug  4 17:02:31 2019	qblue (STEAM_0:0:104031665): hi
+Sun Aug  4 17:02:37 2019	NUT was killed by DevL with a fas2_sks
+Sun Aug  4 17:02:39 2019	NUT (STEAM_0:1:95023662) spawned
+Sun Aug  4 17:02:43 2019	Parrasky was killed by DevL with a fas2_sks
+Sun Aug  4 17:02:50 2019	Parrasky (STEAM_0:1:195542352) spawned
+Sun Aug  4 17:02:51 2019	DevL was killed by Dio with a fas2_deagle
+Sun Aug  4 17:02:53 2019	Dio was killed by NUT with a fas2_ak12
+Sun Aug  4 17:02:53 2019	DevL (STEAM_0:0:97157625) spawned
+Sun Aug  4 17:02:56 2019	William (STEAM_0:0:52504530) spawned
+Sun Aug  4 17:02:56 2019	Dio (STEAM_0:0:497465680) spawned
+Sun Aug  4 17:03:00 2019	Parrasky was killed by Dio with a fas2_deagle
+Sun Aug  4 17:03:05 2019	Dio was killed by NUT with a fas2_ak12
+Sun Aug  4 17:03:07 2019	Parrasky (STEAM_0:1:195542352) spawned
+Sun Aug  4 17:03:07 2019	Dio (STEAM_0:0:497465680) spawned
+Sun Aug  4 17:03:14 2019	Bobbicus was killed by NUT with a fas2_ak12
+Sun Aug  4 17:03:16 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Sun Aug  4 17:03:18 2019	Parrasky was killed by NUT with a fas2_ak12
+Sun Aug  4 17:03:21 2019	Parrasky (STEAM_0:1:195542352) spawned
+Sun Aug  4 17:03:24 2019	qblue (STEAM_0:0:104031665): // can someone donate me some money
+Sun Aug  4 17:03:28 2019	Parrasky (STEAM_0:1:195542352): /ooc i hate purge
+Sun Aug  4 17:03:29 2019	NUT was killed by Dio with a fas2_deagle
+Sun Aug  4 17:03:31 2019	Dio was killed by Bobbicus with a fas2_ak12
+Sun Aug  4 17:03:31 2019	NUT (STEAM_0:1:95023662) spawned
+Sun Aug  4 17:03:42 2019	Dio (STEAM_0:0:497465680) spawned
+Sun Aug  4 17:03:53 2019	NUT was killed by Bobbicus with a fas2_ak12
+Sun Aug  4 17:03:55 2019	NUT (STEAM_0:1:95023662) spawned
+Sun Aug  4 17:04:05 2019	Bobbicus was killed by NUT with a fas2_ak12
+Sun Aug  4 17:04:07 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Sun Aug  4 17:04:29 2019	DevL was killed by NUT with a fas2_ak12
+Sun Aug  4 17:04:31 2019	DevL (STEAM_0:0:97157625) spawned
+Sun Aug  4 17:04:53 2019	Dio (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_airboat (Airboat)
+Sun Aug  4 17:05:19 2019	DrDerpenstein was killed by DevL with a fas2_sks
+Sun Aug  4 17:06:59 2019	qblue (STEAM_0:0:104031665): /pm pa i need money i only have 1k
+Sun Aug  4 17:07:11 2019	Parrasky (STEAM_0:1:195542352): /dropmoney 1000000
+Sun Aug  4 17:07:12 2019	Parrasky (STEAM_0:1:195542352) has dropped $1,000,000
+Sun Aug  4 17:08:18 2019	Bobbicus was killed by Entity [0][worldspawn] with a unknown
+Sun Aug  4 17:08:38 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Sun Aug  4 17:08:42 2019	NUT was killed by DevL with a fas2_sks
+Sun Aug  4 17:08:44 2019	NUT (STEAM_0:1:95023662) spawned
+Sun Aug  4 17:08:53 2019	Dio was killed by DevL with a fas2_sks
+Sun Aug  4 17:08:57 2019	DevL was killed by Bobbicus with a fas2_ak12
+Sun Aug  4 17:08:58 2019	Dio (STEAM_0:0:497465680) spawned
+Sun Aug  4 17:09:10 2019	William (STEAM_0:0:52504530): no i have to do some stuff rn
+Sun Aug  4 17:09:15 2019	DevL (STEAM_0:0:97157625) spawned
+Sun Aug  4 17:09:24 2019	Bobbicus (STEAM_0:0:86269452): /ooc road trip
+Sun Aug  4 17:09:30 2019	DevL (STEAM_0:0:97157625): // no road trip for you 
+Sun Aug  4 17:10:29 2019	DevL (STEAM_0:0:97157625): /invholster
+Sun Aug  4 17:12:54 2019	Dio (STEAM_0:0:497465680) disconnected
+Sun Aug  4 17:14:26 2019	I Am Cheating (STEAM_0:0:94296198) has joined the game
+Sun Aug  4 17:14:26 2019	The Companion Cube (STEAM_0:0:94296198) spawned
+Sun Aug  4 17:16:29 2019	William (STEAM_0:0:52504530): ITS GONE I DESTROYED IT AHAHHAAHA
+Sun Aug  4 17:16:31 2019	William was killed by DevL with a fas2_rk95
+Sun Aug  4 17:16:36 2019	William (STEAM_0:0:52504530) spawned
+Sun Aug  4 17:16:56 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Sun Aug  4 17:17:50 2019	DrDerpenstein was killed by DevL with a fas2_rk95
+Sun Aug  4 17:18:05 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Sun Aug  4 17:18:30 2019	DevL (STEAM_0:0:97157625): cheese
+Sun Aug  4 17:19:02 2019	* (STEAM_0:1:419870346) has joined the game
+Sun Aug  4 17:19:02 2019	* (STEAM_0:1:419870346) spawned
+Sun Aug  4 17:19:38 2019	William was killed by NUT with a fas2_ak12
+Sun Aug  4 17:19:41 2019	William (STEAM_0:0:52504530) spawned
+Sun Aug  4 17:20:08 2019	Bobbicus was killed by William with a unknown
+Sun Aug  4 17:20:21 2019	DrDerpenstein was killed by William with a unknown
+Sun Aug  4 17:20:30 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Sun Aug  4 17:21:00 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Sun Aug  4 17:24:53 2019	William (STEAM_0:0:52504530) disconnected
+Sun Aug  4 17:27:23 2019	Parrasky (STEAM_0:1:195542352): /invholster
+Sun Aug  4 17:27:31 2019	Parrasky was killed by Himself with a suicide trick
+Sun Aug  4 17:27:35 2019	Parrasky (STEAM_0:1:195542352) spawned
+Sun Aug  4 17:29:17 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Sun Aug  4 17:29:17 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Sun Aug  4 17:29:18 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Sun Aug  4 17:29:18 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Sun Aug  4 17:29:18 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Sun Aug  4 17:29:18 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Sun Aug  4 17:29:18 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Sun Aug  4 17:29:38 2019	DevL (STEAM_0:0:97157625): nice
+Sun Aug  4 17:30:05 2019	NUT was killed by The Companion Cube with a fas2_ks23
+Sun Aug  4 17:30:09 2019	NUT (STEAM_0:1:95023662) spawned
+Sun Aug  4 17:30:10 2019	Parrasky was killed by Himself with a suicide trick
+Sun Aug  4 17:30:12 2019	Parrasky (STEAM_0:1:195542352) spawned
+Sun Aug  4 17:30:13 2019	The Companion Cube was killed by Bobbicus with a fas2_ak12
+Sun Aug  4 17:30:17 2019	The Companion Cube (STEAM_0:0:94296198) spawned
+Sun Aug  4 17:31:02 2019	DrDerpenstein (STEAM_0:0:13562763) spawned Vehicle prop_vehicle_jeep (dod_ram_1500tdm)
+Sun Aug  4 17:31:28 2019	NUT was killed by DrDerpenstein with a prop_vehicle_jeep
+Sun Aug  4 17:31:31 2019	NUT (STEAM_0:1:95023662) spawned
+Sun Aug  4 17:32:17 2019	NUT (STEAM_0:1:95023662): are u giving a blowjob?
+Sun Aug  4 17:33:27 2019	DrDerpenstein was killed by NUT with a fas2_ak12
+Sun Aug  4 17:33:30 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Sun Aug  4 17:34:04 2019	NUT was killed by DrDerpenstein with a fas2_ak12
+Sun Aug  4 17:34:14 2019	NUT (STEAM_0:1:95023662) spawned
+Sun Aug  4 17:35:27 2019	DrDerpenstein was killed by The Companion Cube with a fas2_ks23
+Sun Aug  4 17:35:31 2019	The Companion Cube was killed by Bobbicus with a fas2_ak12
+Sun Aug  4 17:35:37 2019	The Companion Cube (STEAM_0:0:94296198) spawned
+Sun Aug  4 17:35:39 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Sun Aug  4 17:38:27 2019	DevL (STEAM_0:0:97157625): /invholster
+Sun Aug  4 17:38:34 2019	NUT was killed by Himself with a suicide trick
+Sun Aug  4 17:38:38 2019	qblue (STEAM_0:0:104031665): /zmlab_MethCook
+Sun Aug  4 17:38:40 2019	Bobbicus was killed by Himself with a suicide trick
+Sun Aug  4 17:38:41 2019	NUT (STEAM_0:1:95023662) spawned
+Sun Aug  4 17:38:52 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Sun Aug  4 17:39:24 2019	DevL was killed by NUT with a fas2_ak12
+Sun Aug  4 17:39:26 2019	DevL (STEAM_0:0:97157625) spawned
+Sun Aug  4 17:39:34 2019	Bobbicus was killed by NUT with a fas2_ak12
+Sun Aug  4 17:39:38 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Sun Aug  4 17:39:50 2019	NUT was killed by DevL with a fas2_rk95
+Sun Aug  4 17:39:51 2019	Bobbicus was killed by DevL with a fas2_rk95
+Sun Aug  4 17:39:52 2019	NUT (STEAM_0:1:95023662) spawned
+Sun Aug  4 17:39:54 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Sun Aug  4 17:40:07 2019	DevL (STEAM_0:0:97157625): /invholster
+Sun Aug  4 17:41:21 2019	qblue was killed by Himself with a suicide trick
+Sun Aug  4 17:41:23 2019	qblue (STEAM_0:0:104031665) spawned
+Sun Aug  4 17:43:28 2019	The Companion Cube (STEAM_0:0:94296198) disconnected
+Sun Aug  4 17:44:24 2019	DevL (STEAM_0:0:97157625): 
+Sun Aug  4 17:44:26 2019	Bobbicus was killed by Himself with a suicide trick
+Sun Aug  4 17:44:30 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Sun Aug  4 17:47:46 2019	NUT (STEAM_0:1:95023662): /a welp gtg
+Sun Aug  4 17:47:58 2019	NUT (STEAM_0:1:95023662): /a have a  good day veryone
+Sun Aug  4 17:48:05 2019	DevL (STEAM_0:0:97157625): // you to
+Sun Aug  4 17:48:07 2019	NUT (STEAM_0:1:95023662) disconnected
+Sun Aug  4 17:48:16 2019	* (STEAM_0:1:419870346): // o
+Sun Aug  4 17:48:19 2019	* (STEAM_0:1:419870346): // too
+Sun Aug  4 17:48:30 2019	DevL (STEAM_0:0:97157625): // now i get your name
+Sun Aug  4 17:48:36 2019	DevL (STEAM_0:0:97157625): // lol
+Sun Aug  4 17:48:50 2019	* (STEAM_0:1:419870346): // yeah dude cause im a star
+Sun Aug  4 17:49:06 2019	DevL (STEAM_0:0:97157625): .*
+Sun Aug  4 17:49:16 2019	DevL (STEAM_0:0:97157625): Yeah*
+Sun Aug  4 17:49:40 2019	Parrasky was killed by Himself with a suicide trick
+Sun Aug  4 17:49:42 2019	Parrasky (STEAM_0:1:195542352) spawned
+Sun Aug  4 17:49:44 2019	Parrasky (STEAM_0:1:195542352): 
+Sun Aug  4 17:50:38 2019	* (STEAM_0:1:419870346): tf you doing nigga keep strolling
+Sun Aug  4 17:50:50 2019	* (STEAM_0:1:419870346): linux
+Sun Aug  4 17:51:10 2019	* (STEAM_0:1:419870346): bruh im on ubuntu rn
+Sun Aug  4 17:51:30 2019	* (STEAM_0:1:419870346): not many games support it :(
+Sun Aug  4 17:51:51 2019	Bobbicus (STEAM_0:0:86269452): /ooc imma go
+Sun Aug  4 17:51:55 2019	* (STEAM_0:1:419870346): // bye!
+Sun Aug  4 17:51:56 2019	Bobbicus (STEAM_0:0:86269452): /ooc have a good time yall
+Sun Aug  4 17:51:57 2019	DrDerpenstein (STEAM_0:0:13562763): // laters!
+Sun Aug  4 17:51:58 2019	Bobbicus (STEAM_0:0:86269452) disconnected
+Sun Aug  4 17:52:06 2019	Parrasky (STEAM_0:1:195542352): /ooc die in hell
+Sun Aug  4 17:52:08 2019	Parrasky (STEAM_0:1:195542352): /ooc jk
+Sun Aug  4 17:52:13 2019	Parrasky (STEAM_0:1:195542352): /ooc wove you :)
+Sun Aug  4 17:52:20 2019	Parrasky (STEAM_0:1:195542352): /ooc no homo
+Sun Aug  4 17:52:35 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_smg1_grenade
+Sun Aug  4 17:52:36 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_healthvial
+Sun Aug  4 17:52:37 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_healthkit
+Sun Aug  4 17:52:37 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_healthkit
+Sun Aug  4 17:52:37 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_healthkit
+Sun Aug  4 17:52:38 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Sun Aug  4 17:52:38 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Sun Aug  4 17:52:38 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Sun Aug  4 17:52:38 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Sun Aug  4 17:52:38 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Sun Aug  4 17:52:38 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Sun Aug  4 17:52:39 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Sun Aug  4 17:53:39 2019	Parrasky was killed by Himself with a suicide trick
+Sun Aug  4 17:53:41 2019	Parrasky (STEAM_0:1:195542352) spawned
+Sun Aug  4 17:54:28 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_healthkit
+Sun Aug  4 17:54:28 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_healthkit
+Sun Aug  4 17:54:31 2019	Parrasky (STEAM_0:1:195542352): /ooc if u dont give mey 20 mil ill leave
+Sun Aug  4 17:54:40 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Sun Aug  4 17:54:40 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Sun Aug  4 17:54:40 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Sun Aug  4 17:54:40 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Sun Aug  4 17:54:40 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Sun Aug  4 17:54:49 2019	Parrasky (STEAM_0:1:195542352): // bye
+Sun Aug  4 17:55:09 2019	Parrasky (STEAM_0:1:195542352): // lol jk i actually have to go though be back in 3hrs
+Sun Aug  4 17:55:13 2019	Parrasky (STEAM_0:1:195542352): /ooc wove u
+Sun Aug  4 17:55:17 2019	Parrasky (STEAM_0:1:195542352): /ooc all
+Sun Aug  4 17:55:25 2019	Parrasky (STEAM_0:1:195542352): /ooc no homo of course
+Sun Aug  4 17:55:32 2019	Parrasky (STEAM_0:1:195542352): /ooc admin kick me please
+Sun Aug  4 17:55:44 2019	Parrasky (STEAM_0:1:195542352): 
+Sun Aug  4 17:55:49 2019	Parrasky (STEAM_0:1:195542352): 
+Sun Aug  4 17:56:36 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_suitcharger
+Sun Aug  4 17:56:38 2019	Parrasky (STEAM_0:1:195542352) disconnected
+Sun Aug  4 17:56:40 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT prop_thumper
+Sun Aug  4 17:56:43 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT npc_grenade_frag
+Sun Aug  4 17:56:46 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT npc_grenade_frag
+Sun Aug  4 17:56:54 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_suitcharger
+Sun Aug  4 17:57:10 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Sun Aug  4 17:57:10 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Sun Aug  4 17:57:10 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Sun Aug  4 17:57:10 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Sun Aug  4 17:57:11 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_healthkit
+Sun Aug  4 17:57:11 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_healthkit
+Sun Aug  4 17:57:11 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_healthkit
+Sun Aug  4 17:57:11 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_healthkit
+Sun Aug  4 17:57:13 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Sun Aug  4 17:57:14 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Sun Aug  4 17:57:37 2019	DrDerpenstein (STEAM_0:0:13562763) disconnected
+Sun Aug  4 17:59:37 2019	qblue (STEAM_0:0:104031665) disconnected
+Sun Aug  4 18:06:11 2019	DevL (STEAM_0:0:97157625): 
+Sun Aug  4 18:06:13 2019	DevL (STEAM_0:0:97157625): 
+Sun Aug  4 18:23:57 2019	* (STEAM_0:1:419870346) disconnected
+Sun Aug  4 18:44:34 2019	DevL (STEAM_0:0:97157625): 
+Sun Aug  4 18:46:10 2019	Derp (STEAM_0:0:52504530) has joined the game
+Sun Aug  4 18:46:10 2019	William (STEAM_0:0:52504530) spawned
+Sun Aug  4 18:46:49 2019	William (STEAM_0:0:52504530): lmao
+Sun Aug  4 18:47:07 2019	William (STEAM_0:0:52504530): damn bro u playing on my server even though no one online
+Sun Aug  4 18:47:23 2019	William (STEAM_0:0:52504530): holy fuck
+Sun Aug  4 18:48:01 2019	William (STEAM_0:0:52504530): custom seeds
+Sun Aug  4 18:48:40 2019	William (STEAM_0:0:52504530): ur a pretty chill dude
+Sun Aug  4 18:48:59 2019	William (STEAM_0:0:52504530): ill give u free vip because u seem like a good guy
+Sun Aug  4 18:49:09 2019	William (STEAM_0:0:52504530): now u can buy the hydro pots
+Sun Aug  4 18:49:40 2019	William (STEAM_0:0:52504530): i didnt even see the lights
+Sun Aug  4 18:50:41 2019	William (STEAM_0:0:52504530): that shit takes a long ass time to grow
+Sun Aug  4 18:51:01 2019	William (STEAM_0:0:52504530): should i lower the time it takes?
+Sun Aug  4 18:53:46 2019	William (STEAM_0:0:52504530): is it worth buying fertilizers
+Sun Aug  4 18:54:30 2019	William (STEAM_0:0:52504530): u just have it here on a shelf?
+Sun Aug  4 18:55:19 2019	William (STEAM_0:0:52504530): are u fucking retiring or some shit
+Sun Aug  4 18:55:34 2019	William (STEAM_0:0:52504530): oh
+Sun Aug  4 18:55:47 2019	William (STEAM_0:0:52504530): damn u already have 1 mil
+Sun Aug  4 18:55:48 2019	William (STEAM_0:0:52504530): nice
+Sun Aug  4 18:56:06 2019	William (STEAM_0:0:52504530): dio im guessing
+Sun Aug  4 18:56:13 2019	William (STEAM_0:0:52504530): 
+Sun Aug  4 18:57:36 2019	William (STEAM_0:0:52504530): aight
+Sun Aug  4 18:57:45 2019	DevL (STEAM_0:0:97157625) disconnected
+Sun Aug  4 18:59:08 2019	DevL (STEAM_0:0:97157625) has joined the game
+Sun Aug  4 18:59:08 2019	DevL (STEAM_0:0:97157625) spawned
+Sun Aug  4 19:01:07 2019	William (STEAM_0:0:52504530): 
+Sun Aug  4 19:01:31 2019	William (STEAM_0:0:52504530): 
+Sun Aug  4 19:02:43 2019	William (STEAM_0:0:52504530): 
+Sun Aug  4 19:03:54 2019	William (STEAM_0:0:52504530): 
+Sun Aug  4 19:06:56 2019	DrDerpenstein sups.gg (STEAM_0:0:13562763) has joined the game
+Sun Aug  4 19:06:56 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Sun Aug  4 19:07:04 2019	William (STEAM_0:0:52504530): 
+Sun Aug  4 19:07:20 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Sun Aug  4 19:07:37 2019	William (STEAM_0:0:52504530): im pretty sure thats an eagle
+Sun Aug  4 19:07:43 2019	William (STEAM_0:0:52504530): lol
+Sun Aug  4 19:07:47 2019	William (STEAM_0:0:52504530): whats zuthar
+Sun Aug  4 19:07:53 2019	William (STEAM_0:0:52504530): oh
+Sun Aug  4 19:07:54 2019	William (STEAM_0:0:52504530): that guy
+Sun Aug  4 19:07:58 2019	William (STEAM_0:0:52504530): i used to watch that guy
+Sun Aug  4 19:08:12 2019	William (STEAM_0:0:52504530): tbh hes kind of a dickhead
+Sun Aug  4 19:08:33 2019	William (STEAM_0:0:52504530): yeah but imagine making money from being an asshole
+Sun Aug  4 19:08:37 2019	William (STEAM_0:0:52504530): not something i would want on my resume
+Sun Aug  4 19:08:44 2019	William (STEAM_0:0:52504530): lol
+Sun Aug  4 19:08:54 2019	William (STEAM_0:0:52504530): yeah i just need to add some stuff
+Sun Aug  4 19:09:30 2019	William (STEAM_0:0:52504530): should i install a new addon now or after we are done pushing the new update
+Sun Aug  4 19:09:44 2019	William (STEAM_0:0:52504530): the ticket thing
+Sun Aug  4 19:09:49 2019	William (STEAM_0:0:52504530): lol
+Sun Aug  4 19:09:57 2019	William (STEAM_0:0:52504530): we are gonna turn this into the UK
+Sun Aug  4 19:10:07 2019	William (STEAM_0:0:52504530): do you have a walking license?
+Sun Aug  4 19:10:14 2019	William (STEAM_0:0:52504530): 1500 DOLLAR FINE
+Sun Aug  4 19:10:27 2019	William (STEAM_0:0:52504530): oh yeah i also might get a new F4 menu but idk
+Sun Aug  4 19:10:48 2019	William (STEAM_0:0:52504530): well it looks a lot better and probably has better features
+Sun Aug  4 19:10:58 2019	William (STEAM_0:0:52504530): aight
+Sun Aug  4 19:29:20 2019	I Am Cheating (STEAM_0:0:94296198) has joined the game
+Sun Aug  4 19:29:20 2019	The Companion Cube (STEAM_0:0:94296198) spawned
+Sun Aug  4 19:30:05 2019	The Companion Cube (STEAM_0:0:94296198): /a william did u buff the weed yet?
+Sun Aug  4 19:30:23 2019	William (STEAM_0:0:52504530): // next restart weed will be buffed

@@ -1,0 +1,98 @@
+[23:50:40] New map: rp_downtown_v4c_v2
+[23:51:11] Client "Derp" connected.
+[23:51:33] Client "Derp" spawned in server <STEAM_0:0:52504530> (took 22 seconds).
+[23:53:19] (Console) added Derp to group superadmin
+[23:54:05] Derp revoked access "ulx votemap" to group user
+[23:54:23] Derp granted access "ulx csay" to group superadmin
+[23:54:26] Derp granted access "ulx asay" to group superadmin
+[23:54:35] Derp granted access "ulx gag" to group superadmin
+[23:54:36] Derp granted access "ulx gimp" to group superadmin
+[23:54:37] Derp granted access "ulx mute" to group superadmin
+[23:54:40] Derp granted access "ulx psay" to group superadmin
+[23:54:47] Derp granted access "ulx tsay" to group superadmin
+[23:54:51] Derp granted access "ulx thetime" to group superadmin
+[23:54:58] Derp granted access "ulx ungag" to group superadmin
+[23:55:00] Derp granted access "ulx ungimp" to group superadmin
+[23:55:01] Derp granted access "ulx unmute" to group superadmin
+[23:55:06] Derp granted access "ulx armor" to group superadmin
+[23:55:06] Derp granted access "ulx blind" to group superadmin
+[23:55:07] Derp granted access "ulx cloak" to group superadmin
+[23:55:08] Derp granted access "ulx freeze" to group superadmin
+[23:55:10] Derp granted access "ulx god" to group superadmin
+[23:55:10] Derp granted access "ulx hp" to group superadmin
+[23:55:11] Derp granted access "ulx ignite" to group superadmin
+[23:55:12] Derp granted access "ulx jail" to group superadmin
+[23:55:12] Derp granted access "ulx jailtp" to group superadmin
+[23:55:13] Derp granted access "ulx playsound" to group superadmin
+[23:55:14] Derp granted access "ulx ragdoll" to group superadmin
+[23:55:15] Derp granted access "ulx slap" to group superadmin
+[23:55:16] Derp granted access "ulx slay" to group superadmin
+[23:55:17] Derp granted access "ulx sslay" to group superadmin
+[23:55:18] Derp granted access "ulx strip" to group superadmin
+[23:55:18] Derp granted access "ulx unblind" to group superadmin
+[23:55:19] Derp granted access "ulx uncloak" to group superadmin
+[23:55:19] Derp granted access "ulx ungod" to group superadmin
+[23:55:20] Derp granted access "ulx unfreeze" to group superadmin
+[23:55:20] Derp granted access "ulx unignite" to group superadmin
+[23:55:21] Derp granted access "ulx unigniteall" to group superadmin
+[23:55:22] Derp granted access "ulx unjail" to group superadmin
+[23:55:23] Derp granted access "ulx unragdoll" to group superadmin
+[23:55:23] Derp granted access "ulx whip" to group superadmin
+[23:55:25] Derp granted access "ulx motd" to group superadmin
+[23:55:28] Derp granted access "ulx bring" to group superadmin
+[23:55:28] Derp granted access "ulx goto" to group superadmin
+[23:55:29] Derp granted access "ulx return" to group superadmin
+[23:55:29] Derp granted access "ulx send" to group superadmin
+[23:55:30] Derp granted access "ulx teleport" to group superadmin
+[23:55:32] Derp granted access "ulx usermanagementhelp" to group superadmin
+[23:55:34] Derp granted access "ulx ban" to group superadmin
+[23:55:35] Derp granted access "ulx help" to group superadmin
+[23:55:35] Derp granted access "ulx kick" to group superadmin
+[23:55:36] Derp granted access "ulx map" to group superadmin
+[23:55:36] Derp granted access "ulx noclip" to group superadmin
+[23:55:37] Derp granted access "ulx spectate" to group superadmin
+[23:55:39] Derp granted access "ulx unban" to group superadmin
+[23:55:39] Derp granted access "ulx version" to group superadmin
+[23:55:40] Derp granted access "ulx who" to group superadmin
+[23:55:41] Derp granted access "ulx veto" to group superadmin
+[23:55:42] Derp granted access "ulx vote" to group superadmin
+[23:55:42] Derp granted access "ulx voteban" to group superadmin
+[23:55:43] Derp granted access "ulx votekick" to group superadmin
+[23:55:45] Derp granted access "ulx votemap" to group superadmin
+[23:55:46] Derp granted access "ulx votemap2" to group superadmin
+[23:55:50] Derp granted access "ulx chattime" to group superadmin
+[23:55:51] Derp granted access "ulx kickafternamechanges" to group superadmin
+[23:55:51] Derp granted access "ulx kickafternamechangescooldown" to group superadmin
+[23:55:52] Derp granted access "ulx kickafternamechangeswarning" to group superadmin
+[23:55:53] Derp granted access "ulx mechatenabled" to group superadmin
+[23:55:54] Derp granted access "ulx motdfile" to group superadmin
+[23:55:54] Derp granted access "ulx motdurl" to group superadmin
+[23:55:55] Derp granted access "ulx rslots" to group superadmin
+[23:55:56] Derp granted access "ulx rslotsmode" to group superadmin
+[23:55:57] Derp granted access "ulx rslotsvisible" to group superadmin
+[23:55:58] Derp granted access "ulx showmotd" to group superadmin
+[23:55:58] Derp granted access "ulx votebanminvotes" to group superadmin
+[23:55:59] Derp granted access "ulx votebansuccessratio" to group superadmin
+[23:56:03] Derp granted access "ulx votekickminvotes" to group superadmin
+[23:56:03] Derp granted access "ulx votekicksuccessratio" to group superadmin
+[23:56:04] Derp granted access "ulx votemap2minvotes" to group superadmin
+[23:56:04] Derp granted access "ulx votemap2successratio" to group superadmin
+[23:56:05] Derp granted access "ulx votemapenabled" to group superadmin
+[23:56:05] Derp granted access "ulx votemapmapmode" to group superadmin
+[23:56:06] Derp granted access "ulx votemapmintime" to group superadmin
+[23:56:06] Derp granted access "ulx votemapminvotes" to group superadmin
+[23:56:07] Derp granted access "ulx votemapsuccessratio" to group superadmin
+[23:56:07] Derp granted access "ulx votemapvetotime" to group superadmin
+[23:56:08] Derp granted access "ulx votemapwaittime" to group superadmin
+[23:56:10] Derp granted access "ulx welcomemessage" to group superadmin
+[23:56:12] Derp granted access "ulx physgunplayer" to group superadmin
+[23:56:14] Derp granted access "ulx reservedslots" to group superadmin
+[23:56:15] Derp granted access "ulx seeanonymousechoes" to group superadmin
+[23:56:15] Derp granted access "ulx seeasay" to group superadmin
+[23:56:16] Derp granted access "ulx spawnecho" to group superadmin
+[23:56:44] Derp granted access "ulx motd" to group admin
+[23:59:17] Derp<STEAM_0:0:52504530> spawned model models/props_c17/furniturewashingmachine001a.mdl
+[23:59:31] Derp<STEAM_0:0:52504530> spawned model models/props_c17/furniturewashingmachine001a.mdl
+[23:59:40] Derp<STEAM_0:0:52504530> spawned model models/props_junk/trashdumpster01a.mdl
+[23:59:56] Derp<STEAM_0:0:52504530> spawned model models/props_combine/weaponstripper.mdl
+<Logging continued in "data/ulx_logs/07-13-19.txt">

@@ -1,0 +1,1259 @@
+Thu Aug 29 20:36:40 2019	DrDerpenstein sups.gg (STEAM_0:0:13562763) has joined the game
+Thu Aug 29 20:36:40 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Thu Aug 29 20:37:19 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Thu Aug 29 20:37:39 2019	DrDerpenstein (STEAM_0:0:13562763) spawned Vehicle prop_vehicle_jeep (mitsuevoxpoltdm)
+Thu Aug 29 20:38:16 2019	DrDerpenstein (STEAM_0:0:13562763) spawned Vehicle prop_vehicle_jeep (hsvw427poltdm)
+Thu Aug 29 20:42:21 2019	DrDerpenstein (STEAM_0:0:13562763) spawned Vehicle prop_vehicle_jeep (priustdm)
+Thu Aug 29 20:43:45 2019	DrDerpenstein (STEAM_0:0:13562763) spawned Vehicle prop_vehicle_jeep (lex_is300tdm)
+Thu Aug 29 20:44:08 2019	DrDerpenstein (STEAM_0:0:13562763) spawned Vehicle prop_vehicle_jeep (507tdm)
+Thu Aug 29 21:00:39 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Thu Aug 29 21:01:04 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Thu Aug 29 21:09:05 2019	DrDerpenstein was killed by Himself with a suicide trick
+Thu Aug 29 21:09:08 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Thu Aug 29 21:19:06 2019	DrDerpenstein (STEAM_0:0:13562763): /drop
+Thu Aug 29 21:19:14 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Thu Aug 29 21:30:35 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_healthkit
+Thu Aug 29 21:30:35 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_healthkit
+Thu Aug 29 21:30:35 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Thu Aug 29 21:30:35 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Thu Aug 29 21:30:36 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Thu Aug 29 21:30:36 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Thu Aug 29 21:30:36 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Thu Aug 29 21:30:36 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Thu Aug 29 21:30:36 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Thu Aug 29 21:30:37 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_pistol_large
+Thu Aug 29 21:30:37 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_pistol_large
+Thu Aug 29 21:30:37 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_pistol_large
+Thu Aug 29 21:30:37 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_altfire
+Thu Aug 29 21:30:37 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_altfire
+Thu Aug 29 21:30:38 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Thu Aug 29 21:30:38 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Thu Aug 29 21:30:38 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_357_large
+Thu Aug 29 21:30:39 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_357_large
+Thu Aug 29 21:30:39 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_smg1_large
+Thu Aug 29 21:30:40 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_smg1_grenade
+Thu Aug 29 21:30:41 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Thu Aug 29 21:30:41 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_rpg_round
+Thu Aug 29 21:30:41 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_rpg_round
+Thu Aug 29 21:30:41 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_rpg_round
+Thu Aug 29 21:30:42 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_crossbow
+Thu Aug 29 21:30:42 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_crossbow
+Thu Aug 29 21:30:42 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_box_buckshot
+Thu Aug 29 21:30:42 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_box_buckshot
+Thu Aug 29 21:30:43 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_box_buckshot
+Thu Aug 29 21:30:54 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_healthkit
+Thu Aug 29 21:30:55 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_healthkit
+Thu Aug 29 21:33:12 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Thu Aug 29 21:34:21 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_healthkit
+Thu Aug 29 21:34:22 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_healthkit
+Thu Aug 29 21:35:13 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth
+Thu Aug 29 21:35:17 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth
+Thu Aug 29 21:35:17 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth
+Thu Aug 29 21:35:17 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth
+Thu Aug 29 21:35:17 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth
+Thu Aug 29 21:35:17 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth
+Thu Aug 29 21:35:17 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth
+Thu Aug 29 21:35:18 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth
+Thu Aug 29 21:35:18 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth
+Thu Aug 29 21:35:18 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth
+Thu Aug 29 21:35:34 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_collectcrate
+Thu Aug 29 21:35:35 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth
+Thu Aug 29 21:35:36 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth
+Thu Aug 29 21:35:37 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth
+Thu Aug 29 21:35:37 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth
+Thu Aug 29 21:35:37 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth
+Thu Aug 29 21:35:37 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth
+Thu Aug 29 21:35:37 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth
+Thu Aug 29 21:35:37 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth
+Thu Aug 29 21:35:38 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth
+Thu Aug 29 21:35:38 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth
+Thu Aug 29 21:35:38 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth
+Thu Aug 29 21:35:38 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth
+Thu Aug 29 21:35:38 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth
+Thu Aug 29 21:35:38 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth
+Thu Aug 29 21:35:38 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth
+Thu Aug 29 21:35:39 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth
+Thu Aug 29 21:35:39 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth
+Thu Aug 29 21:35:39 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth
+Thu Aug 29 21:35:45 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_collectcrate
+Thu Aug 29 21:43:16 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_healthkit
+Thu Aug 29 21:43:16 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_healthkit
+Thu Aug 29 21:44:51 2019	DrDerpenstein (STEAM_0:0:13562763): cw_vss
+Thu Aug 29 21:46:55 2019	mast3rmlg1 (STEAM_0:1:452173513) has joined the game
+Thu Aug 29 21:46:55 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Thu Aug 29 21:47:21 2019	DrDerpenstein (STEAM_0:0:13562763) spawned Vehicle prop_vehicle_jeep (m1tdm)
+Thu Aug 29 21:47:58 2019	DrDerpenstein (STEAM_0:0:13562763) spawned Vehicle prop_vehicle_jeep (challenger70tdm)
+Thu Aug 29 21:48:02 2019	DrDerpenstein (STEAM_0:0:13562763) spawned Vehicle prop_vehicle_jeep (m1tdm)
+Thu Aug 29 21:48:29 2019	Stalledgold1 (STEAM_0:1:148804017) has joined the game
+Thu Aug 29 21:48:29 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Thu Aug 29 21:49:07 2019	mast3rmlg1 (STEAM_0:1:452173513): oMG
+Thu Aug 29 21:49:10 2019	mast3rmlg1 (STEAM_0:1:452173513): i need
+Thu Aug 29 21:49:13 2019	mast3rmlg1 (STEAM_0:1:452173513): CSGO source
+Thu Aug 29 21:49:15 2019	mast3rmlg1 (STEAM_0:1:452173513): to see it
+Thu Aug 29 21:49:16 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Thu Aug 29 21:49:23 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Thu Aug 29 21:49:27 2019	mast3rmlg1 (STEAM_0:1:452173513): were new
+Thu Aug 29 21:49:29 2019	mast3rmlg1 (STEAM_0:1:452173513): yep
+Thu Aug 29 21:49:34 2019	mast3rmlg1 (STEAM_0:1:452173513): you got guns for us
+Thu Aug 29 21:49:42 2019	Stalledgold1 (STEAM_0:1:148804017): !workshop
+Thu Aug 29 21:49:44 2019	mast3rmlg1 (STEAM_0:1:452173513): yep
+Thu Aug 29 21:49:56 2019	DrDerpenstein (STEAM_0:0:13562763): https://steamcommunity.com/sharedfiles/filedetails/?id=1797327391
+Thu Aug 29 21:50:27 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Thu Aug 29 21:50:42 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Thu Aug 29 21:50:55 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Thu Aug 29 21:51:11 2019	mast3rmlg1 (STEAM_0:1:452173513): xD
+Thu Aug 29 21:51:18 2019	mast3rmlg1 (STEAM_0:1:452173513): its error
+Thu Aug 29 21:52:31 2019	mast3rmlg1 (STEAM_0:1:452173513): yo
+Thu Aug 29 21:52:34 2019	mast3rmlg1 (STEAM_0:1:452173513): whats the proplimit
+Thu Aug 29 21:53:54 2019	Stalledgold1 (STEAM_0:1:148804017): !ip
+Thu Aug 29 21:54:29 2019	DrDerpenstein (STEAM_0:0:13562763): // 131.153.31.254:27035
+Thu Aug 29 22:00:55 2019	Stalledgold1 (STEAM_0:1:148804017): !discord
+Thu Aug 29 22:01:15 2019	DrDerpenstein (STEAM_0:0:13562763): // https://discord.gg/j68rVE
+Thu Aug 29 22:04:01 2019	mast3rmlg1 (STEAM_0:1:452173513): how much money are you makinhg
+Thu Aug 29 22:04:05 2019	mast3rmlg1 (STEAM_0:1:452173513): with weed
+Thu Aug 29 22:04:28 2019	mast3rmlg1 (STEAM_0:1:452173513): are you the owner xD
+Thu Aug 29 22:04:39 2019	mast3rmlg1 (STEAM_0:1:452173513): oh
+Thu Aug 29 22:04:40 2019	mast3rmlg1 (STEAM_0:1:452173513): ok
+Thu Aug 29 22:05:32 2019	mast3rmlg1 (STEAM_0:1:452173513): great
+Thu Aug 29 22:06:02 2019	mast3rmlg1 (STEAM_0:1:452173513): yo
+Thu Aug 29 22:06:09 2019	mast3rmlg1 (STEAM_0:1:452173513): i only got 50$left
+Thu Aug 29 22:07:53 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC jeez proplimit fast
+Thu Aug 29 22:09:10 2019	Devon A (STEAM_0:1:220860116) has joined the game
+Thu Aug 29 22:09:10 2019	Devon A (STEAM_0:1:220860116) spawned
+Thu Aug 29 22:09:15 2019	mast3rmlg1 (STEAM_0:1:452173513): dude
+Thu Aug 29 22:09:17 2019	mast3rmlg1 (STEAM_0:1:452173513): stalled i only
+Thu Aug 29 22:09:20 2019	mast3rmlg1 (STEAM_0:1:452173513): /y i only got
+Thu Aug 29 22:10:05 2019	Devon A (STEAM_0:1:220860116) spawned
+Thu Aug 29 22:10:09 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Thu Aug 29 22:12:22 2019	Devon A (STEAM_0:1:220860116): STALLLLLED
+Thu Aug 29 22:12:28 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC sorry back
+Thu Aug 29 22:12:33 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC wher are the weed dealer
+Thu Aug 29 22:12:52 2019	DrDerpenstein (STEAM_0:0:13562763): // main areas like the fountain and area near beach
+Thu Aug 29 22:13:04 2019	Devon A (STEAM_0:1:220860116): Where is stalled
+Thu Aug 29 22:13:44 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned Vehicle prop_vehicle_airboat (Airboat)
+Thu Aug 29 22:13:47 2019	Devon A (STEAM_0:1:220860116): STALLLLLLLLLED
+Thu Aug 29 22:14:32 2019	mast3rmlg1 was killed by Himself with a suicide trick
+Thu Aug 29 22:14:33 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Thu Aug 29 22:14:51 2019	Devon A (STEAM_0:1:220860116): STALLLLLLLED
+Thu Aug 29 22:15:00 2019	mast3rmlg1 was killed by Himself with a suicide trick
+Thu Aug 29 22:15:01 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Thu Aug 29 22:15:36 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC i got 13k
+Thu Aug 29 22:15:41 2019	Stalledgold1 (STEAM_0:1:148804017): /ooc come back master
+Thu Aug 29 22:15:47 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC wher
+Thu Aug 29 22:15:50 2019	DrDerpenstein (STEAM_0:0:13562763): // that's the shittiest weed in the game
+Thu Aug 29 22:15:51 2019	Stalledgold1 (STEAM_0:1:148804017): /ooc base
+Thu Aug 29 22:15:58 2019	Stalledgold1 (STEAM_0:1:148804017): Stalledgold1#9452
+Thu Aug 29 22:15:59 2019	DrDerpenstein (STEAM_0:0:13562763): DrDerpenstein#0834
+Thu Aug 29 22:16:03 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC stalled his CO-Owner
+Thu Aug 29 22:16:16 2019	mast3rmlg1 (STEAM_0:1:452173513): /OC no
+Thu Aug 29 22:16:18 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC no
+Thu Aug 29 22:16:24 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC the person he was talking about
+Thu Aug 29 22:16:49 2019	mast3rmlg1 (STEAM_0:1:452173513): /y open
+Thu Aug 29 22:16:51 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC open
+Thu Aug 29 22:17:05 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC you know the miner
+Thu Aug 29 22:17:11 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC their is 
+Thu Aug 29 22:17:14 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC a 
+Thu Aug 29 22:17:37 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC the factory beside mine
+Thu Aug 29 22:17:45 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC no
+Thu Aug 29 22:17:50 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC DYnamiics base
+Thu Aug 29 22:17:55 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC the DVY dynamiics base
+Thu Aug 29 22:18:25 2019	Stalledgold1 was killed by Himself with a suicide trick
+Thu Aug 29 22:18:27 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Thu Aug 29 22:18:27 2019	Devon A was killed by Himself with a suicide trick
+Thu Aug 29 22:18:28 2019	Devon A (STEAM_0:1:220860116) spawned
+Thu Aug 29 22:19:18 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC stalled you dont remeber
+Thu Aug 29 22:19:30 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC elite had vending machine
+Thu Aug 29 22:19:35 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC but he deleted
+Thu Aug 29 22:20:04 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC bruh i which Elite has meth
+Thu Aug 29 22:20:07 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC lean
+Thu Aug 29 22:20:59 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC duh
+Thu Aug 29 22:21:46 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC how do i upgrade my printer
+Thu Aug 29 22:22:55 2019	mast3rmlg1 (STEAM_0:1:452173513): hey derp
+Thu Aug 29 22:23:54 2019	Derp (STEAM_0:0:52504530) has joined the game
+Thu Aug 29 22:23:54 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Aug 29 22:24:49 2019	mast3rmlg1 (STEAM_0:1:452173513): /y i do
+Thu Aug 29 22:24:52 2019	mast3rmlg1 (STEAM_0:1:452173513): /y you clown
+Thu Aug 29 22:25:09 2019	mast3rmlg1 (STEAM_0:1:452173513): xD
+Thu Aug 29 22:25:12 2019	mast3rmlg1 (STEAM_0:1:452173513): how
+Thu Aug 29 22:25:20 2019	mast3rmlg1 (STEAM_0:1:452173513): lol
+Thu Aug 29 22:25:42 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Aug 29 22:25:45 2019	mast3rmlg1 (STEAM_0:1:452173513): wtf
+Thu Aug 29 22:25:47 2019	mast3rmlg1 (STEAM_0:1:452173513): how
+Thu Aug 29 22:25:47 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Thu Aug 29 22:26:19 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Aug 29 22:26:58 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Thu Aug 29 22:27:27 2019	mast3rmlg1 (STEAM_0:1:452173513): xD
+Thu Aug 29 22:29:42 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC his here
+Thu Aug 29 22:30:20 2019	Stalledgold1 (STEAM_0:1:148804017): !party
+Thu Aug 29 22:31:30 2019	mast3rmlg1 (STEAM_0:1:452173513): /pms talled 6532
+Thu Aug 29 22:32:03 2019	Devon A was killed by Himself with a suicide trick
+Thu Aug 29 22:32:05 2019	Devon A (STEAM_0:1:220860116) spawned
+Thu Aug 29 22:32:10 2019	Daniel (STEAM_0:0:55667004) has joined the game
+Thu Aug 29 22:32:10 2019	Daniel (STEAM_0:0:55667004) spawned
+Thu Aug 29 22:32:46 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_fuel
+Thu Aug 29 22:32:46 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_fuel
+Thu Aug 29 22:32:46 2019	mast3rmlg1 (STEAM_0:1:452173513): 
+Thu Aug 29 22:32:47 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_fuel
+Thu Aug 29 22:32:49 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_fuel
+Thu Aug 29 22:32:49 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_fuel
+Thu Aug 29 22:32:50 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_fuel
+Thu Aug 29 22:32:52 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Thu Aug 29 22:32:57 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC wtf
+Thu Aug 29 22:33:21 2019	Devon A (STEAM_0:1:220860116) spawned
+Thu Aug 29 22:33:27 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_palette
+Thu Aug 29 22:33:31 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC FUCK RUN
+Thu Aug 29 22:33:33 2019	Devon A (STEAM_0:1:220860116) spawned
+Thu Aug 29 22:33:51 2019	Stalledgold1 (STEAM_0:1:148804017): /invholster
+Thu Aug 29 22:33:56 2019	Stalledgold1 (STEAM_0:1:148804017): /invholster
+Thu Aug 29 22:34:02 2019	Stalledgold1 (STEAM_0:1:148804017): /invholster
+Thu Aug 29 22:34:06 2019	Stalledgold1 (STEAM_0:1:148804017): /invholster
+Thu Aug 29 22:34:08 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Thu Aug 29 22:34:15 2019	Stalledgold1 was killed by mast3rmlg1 with a cw_mr96
+Thu Aug 29 22:34:19 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Thu Aug 29 22:34:23 2019	Daniel (STEAM_0:0:55667004): /ooc can the opium be programmed to be smokeable
+Thu Aug 29 22:34:24 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC purge right
+Thu Aug 29 22:34:32 2019	mast3rmlg1 was killed by Stalledgold1 with a cw_g36c
+Thu Aug 29 22:34:33 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Thu Aug 29 22:34:45 2019	Stalledgold1 was killed by mast3rmlg1 with a cw_mr96
+Thu Aug 29 22:34:47 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Thu Aug 29 22:34:57 2019	Stalledgold1 was killed by mast3rmlg1 with a cw_mr96
+Thu Aug 29 22:35:05 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Thu Aug 29 22:35:15 2019	Devon A was killed by Stalledgold1 with a cw_dpe_glock17
+Thu Aug 29 22:35:20 2019	Devon A (STEAM_0:1:220860116) spawned
+Thu Aug 29 22:35:26 2019	Devon A (STEAM_0:1:220860116) spawned
+Thu Aug 29 22:35:29 2019	Daniel was killed by mast3rmlg1 with a cw_mr96
+Thu Aug 29 22:35:30 2019	Daniel (STEAM_0:0:55667004) spawned
+Thu Aug 29 22:35:38 2019	Daniel was killed by mast3rmlg1 with a cw_mr96
+Thu Aug 29 22:35:39 2019	Daniel (STEAM_0:0:55667004) spawned
+Thu Aug 29 22:35:42 2019	Stalledgold1 was killed by mast3rmlg1 with a cw_mr96
+Thu Aug 29 22:35:43 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Thu Aug 29 22:35:44 2019	Devon A was killed by mast3rmlg1 with a cw_mr96
+Thu Aug 29 22:35:46 2019	Devon A (STEAM_0:1:220860116) spawned
+Thu Aug 29 22:35:50 2019	Daniel was killed by Devon A with a cw_deagle
+Thu Aug 29 22:35:51 2019	Daniel (STEAM_0:0:55667004) spawned
+Thu Aug 29 22:35:52 2019	Stalledgold1 was killed by mast3rmlg1 with a cw_mr96
+Thu Aug 29 22:35:53 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Thu Aug 29 22:36:01 2019	Stalledgold1 was killed by mast3rmlg1 with a cw_mr96
+Thu Aug 29 22:36:06 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Thu Aug 29 22:36:18 2019	Devon A was killed by mast3rmlg1 with a cw_mr96
+Thu Aug 29 22:36:20 2019	Devon A (STEAM_0:1:220860116) spawned
+Thu Aug 29 22:36:21 2019	mast3rmlg1 was killed by Daniel with a cw_ump45
+Thu Aug 29 22:36:22 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Thu Aug 29 22:36:25 2019	Daniel was killed by Stalledgold1 with a cw_g36c
+Thu Aug 29 22:36:27 2019	Daniel (STEAM_0:0:55667004) spawned
+Thu Aug 29 22:36:29 2019	Stalledgold1 was killed by mast3rmlg1 with a cw_mr96
+Thu Aug 29 22:36:31 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Thu Aug 29 22:36:40 2019	Daniel (STEAM_0:0:55667004) spawned
+Thu Aug 29 22:36:42 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Thu Aug 29 22:36:49 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Thu Aug 29 22:36:58 2019	Devon A was killed by mast3rmlg1 with a cw_mr96
+Thu Aug 29 22:37:00 2019	Devon A (STEAM_0:1:220860116) spawned
+Thu Aug 29 22:37:05 2019	Stalledgold1 was killed by mast3rmlg1 with a cw_mr96
+Thu Aug 29 22:37:07 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Thu Aug 29 22:37:13 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_soil
+Thu Aug 29 22:37:13 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_soil
+Thu Aug 29 22:37:13 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_soil
+Thu Aug 29 22:37:14 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_soil
+Thu Aug 29 22:37:14 2019	Devon A (STEAM_0:1:220860116) spawned
+Thu Aug 29 22:37:14 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_soil
+Thu Aug 29 22:37:14 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_soil
+Thu Aug 29 22:37:14 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_soil
+Thu Aug 29 22:37:15 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_soil
+Thu Aug 29 22:37:15 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_soil
+Thu Aug 29 22:37:18 2019	mast3rmlg1 was killed by Stalledgold1 with a weapon_fists
+Thu Aug 29 22:37:19 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Thu Aug 29 22:37:29 2019	Stalledgold1 was killed by Daniel with a cw_deagle
+Thu Aug 29 22:37:30 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Thu Aug 29 22:37:31 2019	Daniel was killed by mast3rmlg1 with a cw_mr96
+Thu Aug 29 22:37:33 2019	Daniel (STEAM_0:0:55667004) spawned
+Thu Aug 29 22:37:35 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_soil
+Thu Aug 29 22:37:51 2019	mast3rmlg1 (STEAM_0:1:452173513): 
+Thu Aug 29 22:37:57 2019	mast3rmlg1 was killed by Stalledgold1 with a cw_ak74
+Thu Aug 29 22:37:58 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Thu Aug 29 22:38:01 2019	Stalledgold1 was killed by Devon A with a cw_m3super90
+Thu Aug 29 22:38:02 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Thu Aug 29 22:38:08 2019	Devon A was killed by mast3rmlg1 with a cw_mr96
+Thu Aug 29 22:38:09 2019	Devon A (STEAM_0:1:220860116) spawned
+Thu Aug 29 22:38:12 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Thu Aug 29 22:38:18 2019	Devon A was killed by Stalledgold1 with a cw_p99
+Thu Aug 29 22:38:22 2019	Devon A (STEAM_0:1:220860116) spawned
+Thu Aug 29 22:38:38 2019	mast3rmlg1 was killed by Daniel with a cw_dpe_glock17
+Thu Aug 29 22:38:39 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Thu Aug 29 22:38:46 2019	Daniel was killed by Stalledgold1 with a cw_p99
+Thu Aug 29 22:38:47 2019	Daniel (STEAM_0:0:55667004) spawned
+Thu Aug 29 22:38:50 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_jar
+Thu Aug 29 22:38:50 2019	Devon A was killed by mast3rmlg1 with a cw_mr96
+Thu Aug 29 22:38:55 2019	Devon A (STEAM_0:1:220860116) spawned
+Thu Aug 29 22:38:55 2019	mast3rmlg1 was killed by Daniel with a cw_dpe_glock17
+Thu Aug 29 22:38:57 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Thu Aug 29 22:38:57 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_jar
+Thu Aug 29 22:38:57 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_jar
+Thu Aug 29 22:38:57 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_jar
+Thu Aug 29 22:39:02 2019	Daniel was killed by Stalledgold1 with a cw_p99
+Thu Aug 29 22:39:04 2019	Daniel (STEAM_0:0:55667004) spawned
+Thu Aug 29 22:39:07 2019	Devon A (STEAM_0:1:220860116) spawned Vehicle prop_vehicle_jeep (chargersrt8poltdm)
+Thu Aug 29 22:39:40 2019	mast3rmlg1 was killed by Daniel with a cw_fiveseven
+Thu Aug 29 22:39:41 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Thu Aug 29 22:39:50 2019	Stalledgold1 was killed by Daniel with a cw_fiveseven
+Thu Aug 29 22:39:52 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Thu Aug 29 22:40:12 2019	Stalledgold1 was killed by Daniel with a cw_fiveseven
+Thu Aug 29 22:40:13 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Thu Aug 29 22:40:20 2019	Stalledgold1 was killed by Daniel with a cw_fiveseven
+Thu Aug 29 22:40:21 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Thu Aug 29 22:40:28 2019	Daniel was killed by Stalledgold1 with a cw_p99
+Thu Aug 29 22:40:29 2019	Daniel (STEAM_0:0:55667004) spawned
+Thu Aug 29 22:40:48 2019	Devon A was killed by mast3rmlg1 with a cw_l115
+Thu Aug 29 22:40:49 2019	Devon A (STEAM_0:1:220860116) spawned
+Thu Aug 29 22:40:53 2019	Stalledgold1 was killed by Daniel with a cw_m1911
+Thu Aug 29 22:40:54 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Thu Aug 29 22:41:09 2019	Daniel was killed by mast3rmlg1 with a cw_l115
+Thu Aug 29 22:41:10 2019	Daniel (STEAM_0:0:55667004) spawned
+Thu Aug 29 22:41:28 2019	Daniel was killed by mast3rmlg1 with a cw_m3super90
+Thu Aug 29 22:41:29 2019	Daniel (STEAM_0:0:55667004) spawned
+Thu Aug 29 22:41:30 2019	mast3rmlg1 was killed by Stalledgold1 with a cw_p99
+Thu Aug 29 22:41:31 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Thu Aug 29 22:41:39 2019	Derp was killed by mast3rmlg1 with a cw_mr96
+Thu Aug 29 22:41:40 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Aug 29 22:41:44 2019	Stalledgold1 was killed by Derp with a weapon_fists
+Thu Aug 29 22:41:46 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Thu Aug 29 22:41:51 2019	Devon A was killed by Derp with a prop_vehicle_jeep
+Thu Aug 29 22:41:55 2019	Devon A (STEAM_0:1:220860116) spawned
+Thu Aug 29 22:42:08 2019	mast3rmlg1 was killed by Derp with a weapon_fists
+Thu Aug 29 22:42:09 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Thu Aug 29 22:42:14 2019	Daniel was killed by Derp with a weapon_fists
+Thu Aug 29 22:42:18 2019	Daniel (STEAM_0:0:55667004) spawned
+Thu Aug 29 22:42:21 2019	Derp was killed by Stalledgold1 with a cw_p99
+Thu Aug 29 22:42:23 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Aug 29 22:42:28 2019	Devon A was killed by DrDerpenstein with a prop_vehicle_jeep
+Thu Aug 29 22:42:31 2019	Devon A (STEAM_0:1:220860116) spawned
+Thu Aug 29 22:42:35 2019	mast3rmlg1 was killed by Derp with a weapon_fists
+Thu Aug 29 22:42:36 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Thu Aug 29 22:42:36 2019	Stalledgold1 was killed by DrDerpenstein with a prop_vehicle_jeep
+Thu Aug 29 22:42:38 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Thu Aug 29 22:42:44 2019	Derp was killed by Daniel with a cw_dpe_glock17
+Thu Aug 29 22:42:45 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Aug 29 22:42:50 2019	Daniel was killed by DrDerpenstein with a prop_vehicle_jeep
+Thu Aug 29 22:42:52 2019	Daniel (STEAM_0:0:55667004) spawned
+Thu Aug 29 22:43:01 2019	Devon A was killed by Stalledgold1 with a cw_p99
+Thu Aug 29 22:43:02 2019	Devon A (STEAM_0:1:220860116) spawned
+Thu Aug 29 22:43:05 2019	mast3rmlg1 was killed by DrDerpenstein with a cw_vss
+Thu Aug 29 22:43:06 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Thu Aug 29 22:43:11 2019	mast3rmlg1 was killed by Daniel with a cw_dp_mp5
+Thu Aug 29 22:43:11 2019	DrDerpenstein was killed by Daniel with a cw_dp_mp5
+Thu Aug 29 22:43:12 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Thu Aug 29 22:43:15 2019	Derp was killed by mast3rmlg1 with a cw_mr96
+Thu Aug 29 22:43:16 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Aug 29 22:43:17 2019	Stalledgold1 was killed by Devon A with a cw_m3super90
+Thu Aug 29 22:43:20 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Thu Aug 29 22:43:23 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Thu Aug 29 22:43:31 2019	DrDerpenstein was killed by Daniel with a cw_dp_mp5
+Thu Aug 29 22:43:31 2019	mast3rmlg1 was killed by Derp with a weapon_fists
+Thu Aug 29 22:43:32 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Thu Aug 29 22:43:32 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Thu Aug 29 22:43:38 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Thu Aug 29 22:43:40 2019	Derp was killed by mast3rmlg1 with a cw_mr96
+Thu Aug 29 22:43:42 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Aug 29 22:43:46 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Thu Aug 29 22:43:54 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Thu Aug 29 22:44:17 2019	Daniel was killed by mast3rmlg1 with a prop_vehicle_jeep
+Thu Aug 29 22:44:21 2019	Daniel (STEAM_0:0:55667004) spawned
+Thu Aug 29 22:44:23 2019	Derp was killed by mast3rmlg1 with a prop_vehicle_jeep
+Thu Aug 29 22:44:26 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Aug 29 22:44:27 2019	Devon A was killed by mast3rmlg1 with a prop_vehicle_jeep
+Thu Aug 29 22:44:30 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Thu Aug 29 22:44:37 2019	DrDerpenstein was killed by mast3rmlg1 with a prop_vehicle_jeep
+Thu Aug 29 22:44:37 2019	Daniel was killed by mast3rmlg1 with a prop_vehicle_jeep
+Thu Aug 29 22:44:39 2019	Daniel (STEAM_0:0:55667004) spawned
+Thu Aug 29 22:44:44 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Thu Aug 29 22:44:54 2019	Stalledgold1 was killed by mast3rmlg1 with a prop_vehicle_jeep
+Thu Aug 29 22:44:56 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Thu Aug 29 22:45:04 2019	mast3rmlg1 (STEAM_0:1:452173513): 
+Thu Aug 29 22:45:10 2019	Daniel was killed by mast3rmlg1 with a prop_vehicle_jeep
+Thu Aug 29 22:45:10 2019	DrDerpenstein was killed by mast3rmlg1 with a prop_vehicle_jeep
+Thu Aug 29 22:45:10 2019	Stalledgold1 was killed by mast3rmlg1 with a prop_vehicle_jeep
+Thu Aug 29 22:45:11 2019	Daniel (STEAM_0:0:55667004) spawned
+Thu Aug 29 22:45:20 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Thu Aug 29 22:45:24 2019	Derp was killed by mast3rmlg1 with a prop_vehicle_jeep
+Thu Aug 29 22:45:26 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Aug 29 22:45:43 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Thu Aug 29 22:45:51 2019	DrDerpenstein was killed by mast3rmlg1 with a prop_vehicle_jeep
+Thu Aug 29 22:45:57 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Thu Aug 29 22:46:04 2019	Devon A (STEAM_0:1:220860116) disconnected
+Thu Aug 29 22:46:07 2019	mast3rmlg1 was killed by Daniel with a cw_ump45
+Thu Aug 29 22:46:08 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Thu Aug 29 22:46:15 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Thu Aug 29 22:46:17 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Thu Aug 29 22:46:26 2019	Stalledgold1 (STEAM_0:1:148804017) spawned Vehicle prop_vehicle_jeep (mitsuevoxpoltdm)
+Thu Aug 29 22:46:28 2019	Daniel was killed by mast3rmlg1 with a cw_l115
+Thu Aug 29 22:46:30 2019	Daniel (STEAM_0:0:55667004) spawned
+Thu Aug 29 22:46:48 2019	DrDerpenstein was killed by mast3rmlg1 with a cw_mr96
+Thu Aug 29 22:46:53 2019	Stalledgold1 was killed by Daniel with a cw_deagle
+Thu Aug 29 22:46:54 2019	mast3rmlg1 was killed by Daniel with a cw_deagle
+Thu Aug 29 22:46:55 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Thu Aug 29 22:46:55 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Thu Aug 29 22:47:17 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Thu Aug 29 22:47:21 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Thu Aug 29 22:47:26 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Thu Aug 29 22:47:36 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC try unfreezing him
+Thu Aug 29 22:47:49 2019	Daniel was killed by mast3rmlg1 with a cw_mr96
+Thu Aug 29 22:47:52 2019	Daniel (STEAM_0:0:55667004) spawned
+Thu Aug 29 22:48:02 2019	Daniel was killed by mast3rmlg1 with a cw_mr96
+Thu Aug 29 22:48:04 2019	Daniel (STEAM_0:0:55667004) spawned
+Thu Aug 29 22:48:11 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC wait brb
+Thu Aug 29 22:48:12 2019	Daniel (STEAM_0:0:55667004): /demote mlg rdming dick
+Thu Aug 29 22:48:12 2019	Daniel(STEAM_0:0:55667004)[Gangster] has started a vote for the demotion of mast3rmlg1(STEAM_0:1:452173513)[Hitman] for rdming dick
+Thu Aug 29 22:48:16 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC should i do same
+Thu Aug 29 22:48:23 2019	Derp was killed by mast3rmlg1 with a cw_l115
+Thu Aug 29 22:48:26 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Aug 29 22:48:34 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Thu Aug 29 22:48:48 2019	mast3rmlg1 (STEAM_0:1:452173513): 
+Thu Aug 29 22:49:14 2019	mast3rmlg1 (STEAM_0:1:452173513): xD
+Thu Aug 29 22:49:20 2019	mast3rmlg1 (STEAM_0:1:452173513): am in a discord call with him
+Thu Aug 29 22:49:23 2019	mast3rmlg1 (STEAM_0:1:452173513): and the owner
+Thu Aug 29 22:49:27 2019	mast3rmlg1 was killed by Daniel with a cw_deagle
+Thu Aug 29 22:49:29 2019	mast3rmlg1 (STEAM_0:1:452173513): 
+Thu Aug 29 22:49:32 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Thu Aug 29 22:49:35 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC he RDM
+Thu Aug 29 22:49:40 2019	DrDerpenstein (STEAM_0:0:13562763): // you stole
+Thu Aug 29 22:49:47 2019	Daniel (STEAM_0:0:55667004): /ooc you stole even though your not a thief
+Thu Aug 29 22:49:52 2019	mast3rmlg1 was killed by Daniel with a cw_deagle
+Thu Aug 29 22:49:53 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Thu Aug 29 22:49:58 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC say pleas
+Thu Aug 29 22:50:04 2019	mast3rmlg1 (STEAM_0:1:452173513): first
+Thu Aug 29 22:50:08 2019	mast3rmlg1 (STEAM_0:1:452173513): you got to say please
+Thu Aug 29 22:50:09 2019	Daniel (STEAM_0:0:55667004): /ooc give me back my lemon hase Please
+Thu Aug 29 22:50:30 2019	mast3rmlg1 (STEAM_0:1:452173513): xD
+Thu Aug 29 22:51:45 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC Xeono?
+Thu Aug 29 22:51:53 2019	mast3rmlg1 (STEAM_0:1:452173513): say cheese
+Thu Aug 29 22:52:34 2019	DrDerpenstein (STEAM_0:0:13562763): /pm danie over here
+Thu Aug 29 22:52:48 2019	Stalledgold1 (STEAM_0:1:148804017) disconnected
+Thu Aug 29 22:53:32 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Thu Aug 29 22:53:38 2019	mast3rmlg1 (STEAM_0:1:452173513): 
+Thu Aug 29 22:53:48 2019	Derp (STEAM_0:0:52504530): its like every 15 minutes
+Thu Aug 29 22:53:57 2019	mast3rmlg1 (STEAM_0:1:452173513): place hit
+Thu Aug 29 22:54:03 2019	Hitman mast3rmlg1 accepted a hit on Daniel, ordered by Derp for $2,500
+Thu Aug 29 22:54:23 2019	mast3rmlg1 (STEAM_0:1:452173513): 
+Thu Aug 29 22:54:27 2019	mast3rmlg1 (STEAM_0:1:452173513): 
+Thu Aug 29 22:54:37 2019	DrDerpenstein (STEAM_0:0:13562763): // back at weed lab
+Thu Aug 29 22:54:59 2019	Hitman mast3rmlg1 finished a hit on Daniel, ordered by Derp for $2,500
+Thu Aug 29 22:54:59 2019	Daniel was killed by mast3rmlg1 with a cw_mr96
+Thu Aug 29 22:55:02 2019	Daniel (STEAM_0:0:55667004) spawned
+Thu Aug 29 22:56:14 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC get blackmesa addon xD
+Thu Aug 29 22:56:35 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Thu Aug 29 22:59:01 2019	Daniel (STEAM_0:0:55667004): /drop
+Thu Aug 29 22:59:23 2019	Daniel (STEAM_0:0:55667004): /ooc shit we need peeps
+Thu Aug 29 22:59:35 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_soil
+Thu Aug 29 22:59:35 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_soil
+Thu Aug 29 22:59:35 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_soil
+Thu Aug 29 22:59:35 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_soil
+Thu Aug 29 22:59:35 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_soil
+Thu Aug 29 22:59:35 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_soil
+Thu Aug 29 23:00:36 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Thu Aug 29 23:00:39 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_soil
+Thu Aug 29 23:00:39 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_soil
+Thu Aug 29 23:00:45 2019	DrDerpenstein (STEAM_0:0:13562763): >test
+Thu Aug 29 23:00:48 2019	DrDerpenstein (STEAM_0:0:13562763): > test
+Thu Aug 29 23:01:07 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Thu Aug 29 23:01:16 2019	Stalledgold1 (STEAM_0:1:148804017) has joined the game
+Thu Aug 29 23:01:16 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Thu Aug 29 23:01:30 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC does this sevrer have anti cheat xD
+Thu Aug 29 23:01:35 2019	Derp (STEAM_0:0:52504530): // yes
+Thu Aug 29 23:01:36 2019	DrDerpenstein (STEAM_0:0:13562763): // wanna find out
+Thu Aug 29 23:01:43 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC can i try my hacks xD
+Thu Aug 29 23:01:46 2019	Derp (STEAM_0:0:52504530): // go ahead
+Thu Aug 29 23:01:50 2019	DrDerpenstein (STEAM_0:0:13562763): // youll get autobanned
+Thu Aug 29 23:01:54 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC fuck
+Thu Aug 29 23:01:56 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Thu Aug 29 23:02:24 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC elties server doesnt xD
+Thu Aug 29 23:03:04 2019	Stalledgold1 was killed by mast3rmlg1 with a cw_vss
+Thu Aug 29 23:03:07 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Thu Aug 29 23:03:18 2019	Stalledgold1 (STEAM_0:1:148804017): /invholster
+Thu Aug 29 23:03:30 2019	mast3rmlg1 was killed by Derp with a weapon_fists
+Thu Aug 29 23:03:32 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Thu Aug 29 23:03:45 2019	mast3rmlg1 (STEAM_0:1:452173513): 
+Thu Aug 29 23:03:46 2019	mast3rmlg1 (STEAM_0:1:452173513): 
+Thu Aug 29 23:03:47 2019	mast3rmlg1 (STEAM_0:1:452173513): 
+Thu Aug 29 23:03:48 2019	mast3rmlg1 (STEAM_0:1:452173513): 
+Thu Aug 29 23:03:51 2019	mast3rmlg1 (STEAM_0:1:452173513): 
+Thu Aug 29 23:03:57 2019	mast3rmlg1 (STEAM_0:1:452173513): xD
+Thu Aug 29 23:04:07 2019	Stalledgold1 was killed by mast3rmlg1 with a weapon_fists
+Thu Aug 29 23:04:14 2019	Stalledgold1 (STEAM_0:1:148804017): 
+Thu Aug 29 23:04:15 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Thu Aug 29 23:04:44 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC imagine going to another server MRDM
+Thu Aug 29 23:04:45 2019	Stalledgold1 was killed by mast3rmlg1 with a cw_vss
+Thu Aug 29 23:04:47 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Thu Aug 29 23:04:48 2019	mast3rmlg1 was killed by Derp with a cw_vss
+Thu Aug 29 23:04:48 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Thu Aug 29 23:04:52 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC his ahcking
+Thu Aug 29 23:04:55 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC hacking
+Thu Aug 29 23:05:02 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC wher is this autoban
+Thu Aug 29 23:05:05 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC xD
+Thu Aug 29 23:05:36 2019	Stalledgold1 (STEAM_0:1:148804017): /drop
+Thu Aug 29 23:06:04 2019	mast3rmlg1 was killed by Daniel with a cw_vss
+Thu Aug 29 23:06:06 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Thu Aug 29 23:06:11 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC cant
+Thu Aug 29 23:06:15 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC am at 1k
+Thu Aug 29 23:06:48 2019	mast3rmlg1 (STEAM_0:1:452173513): 
+Thu Aug 29 23:06:51 2019	DrDerpenstein was killed by mast3rmlg1 with a cw_deagle
+Thu Aug 29 23:06:54 2019	mast3rmlg1 was killed by Daniel with a cw_vss
+Thu Aug 29 23:06:54 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Thu Aug 29 23:06:55 2019	Stalledgold1 (STEAM_0:1:148804017): 
+Thu Aug 29 23:06:55 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Thu Aug 29 23:06:56 2019	Stalledgold1 (STEAM_0:1:148804017): 
+Thu Aug 29 23:06:59 2019	Stalledgold1 (STEAM_0:1:148804017): 
+Thu Aug 29 23:06:59 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC he stole my 
+Thu Aug 29 23:07:00 2019	DrDerpenstein (STEAM_0:0:13562763): /y This is a mug drop 1k in 10sec or I paint the sidewalk with your brains...unless I can't mug- 10sec to GTFO or you all die
+Thu Aug 29 23:07:01 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC my
+Thu Aug 29 23:07:03 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC my
+Thu Aug 29 23:07:06 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC gun
+Thu Aug 29 23:07:11 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Thu Aug 29 23:07:13 2019	mast3rmlg1 (STEAM_0:1:452173513): 
+Thu Aug 29 23:07:13 2019	mast3rmlg1 (STEAM_0:1:452173513): 
+Thu Aug 29 23:07:14 2019	mast3rmlg1 (STEAM_0:1:452173513): 
+Thu Aug 29 23:07:15 2019	mast3rmlg1 (STEAM_0:1:452173513): 
+Thu Aug 29 23:07:15 2019	mast3rmlg1 (STEAM_0:1:452173513): 
+Thu Aug 29 23:07:16 2019	mast3rmlg1 (STEAM_0:1:452173513): 
+Thu Aug 29 23:07:17 2019	mast3rmlg1 (STEAM_0:1:452173513): 
+Thu Aug 29 23:07:29 2019	mast3rmlg1 (STEAM_0:1:452173513): 
+Thu Aug 29 23:07:49 2019	DrDerpenstein was killed by mast3rmlg1 with a cw_deagle
+Thu Aug 29 23:07:51 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Thu Aug 29 23:09:07 2019	mast3rmlg1 (STEAM_0:1:452173513): 
+Thu Aug 29 23:09:13 2019	mast3rmlg1 was killed by Derp with a cw_vss
+Thu Aug 29 23:09:14 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Thu Aug 29 23:10:53 2019	mast3rmlg1 was killed by Daniel with a cw_vss
+Thu Aug 29 23:10:54 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Thu Aug 29 23:11:35 2019	Daniel was killed by mast3rmlg1 with a cw_mr96
+Thu Aug 29 23:11:39 2019	Daniel (STEAM_0:0:55667004) spawned
+Thu Aug 29 23:11:47 2019	Daniel (STEAM_0:0:55667004): /OOC CAN YOU PLEASE JUST KICK THIS GUY
+Thu Aug 29 23:11:49 2019	mast3rmlg1 (STEAM_0:1:452173513): /y put purge xD
+Thu Aug 29 23:11:56 2019	mast3rmlg1 (STEAM_0:1:452173513): /y i want to MRDM
+Thu Aug 29 23:11:58 2019	mast3rmlg1 (STEAM_0:1:452173513): /y him
+Thu Aug 29 23:12:03 2019	mast3rmlg1 (STEAM_0:1:452173513): 
+Thu Aug 29 23:12:38 2019	Stalledgold1 (STEAM_0:1:148804017): /drop
+Thu Aug 29 23:12:43 2019	Daniel (STEAM_0:0:55667004): /DROP
+Thu Aug 29 23:12:51 2019	Daniel (STEAM_0:0:55667004): /DROP
+Thu Aug 29 23:12:53 2019	Daniel was killed by mast3rmlg1 with a cw_mr96
+Thu Aug 29 23:12:55 2019	Daniel (STEAM_0:0:55667004) spawned
+Thu Aug 29 23:13:01 2019	Derp was killed by mast3rmlg1 with a cw_mr96
+Thu Aug 29 23:13:02 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Aug 29 23:13:03 2019	Daniel (STEAM_0:0:55667004): /OOC TELL THIS GUY TO FUCKING STOP NOW
+Thu Aug 29 23:13:30 2019	mast3rmlg1 (STEAM_0:1:452173513): xD
+Thu Aug 29 23:13:38 2019	DrDerpenstein was killed by mast3rmlg1 with a cw_mr96
+Thu Aug 29 23:13:43 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Thu Aug 29 23:13:44 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC i cant hear you
+Thu Aug 29 23:13:50 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC my screen help
+Thu Aug 29 23:13:53 2019	Stalledgold1 was killed by mast3rmlg1 with a cw_mr96
+Thu Aug 29 23:13:55 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Thu Aug 29 23:14:06 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC help
+Thu Aug 29 23:14:09 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC my screen
+Thu Aug 29 23:14:16 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC i cant see anything
+Thu Aug 29 23:14:16 2019	mast3rmlg1 was killed by Derp with a cw_mr96
+Thu Aug 29 23:14:17 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Thu Aug 29 23:14:20 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC finallty
+Thu Aug 29 23:14:31 2019	mast3rmlg1 (STEAM_0:1:452173513): 
+Thu Aug 29 23:14:48 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC can we get purge
+Thu Aug 29 23:14:55 2019	DrDerpenstein (STEAM_0:0:13562763): // its on a timer
+Thu Aug 29 23:15:00 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC ok
+Thu Aug 29 23:15:01 2019	DrDerpenstein (STEAM_0:0:13562763): // we dont choose when it goes
+Thu Aug 29 23:15:14 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC random
+Thu Aug 29 23:15:21 2019	mast3rmlg1 (STEAM_0:1:452173513): my gun
+Thu Aug 29 23:15:23 2019	mast3rmlg1 (STEAM_0:1:452173513): is error
+Thu Aug 29 23:15:26 2019	Derp was killed by mast3rmlg1 with a cw_dpe_m98b
+Thu Aug 29 23:15:27 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Aug 29 23:15:49 2019	mast3rmlg1 was killed by DrDerpenstein with a cw_vss
+Thu Aug 29 23:15:51 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Thu Aug 29 23:15:57 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC my gun is ereor
+Thu Aug 29 23:16:02 2019	DrDerpenstein (STEAM_0:0:13562763): // LIES
+Thu Aug 29 23:16:05 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC no lies
+Thu Aug 29 23:16:06 2019	Daniel (STEAM_0:0:55667004) disconnected
+Thu Aug 29 23:16:10 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC want me to screen sahre
+Thu Aug 29 23:16:43 2019	DrDerpenstein (STEAM_0:0:13562763): // what gun is it?
+Thu Aug 29 23:16:51 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC bravo
+Thu Aug 29 23:16:56 2019	mast3rmlg1 was killed by Stalledgold1 with a cw_mr96
+Thu Aug 29 23:16:57 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Thu Aug 29 23:17:02 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC retard
+Thu Aug 29 23:17:11 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC my mom gae
+Thu Aug 29 23:17:30 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC ya
+Thu Aug 29 23:17:35 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Thu Aug 29 23:17:38 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Thu Aug 29 23:17:43 2019	mast3rmlg1 (STEAM_0:1:452173513): ya
+Thu Aug 29 23:18:05 2019	Derp was killed by Stalledgold1 with a cw_mr96
+Thu Aug 29 23:18:06 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Aug 29 23:18:10 2019	mast3rmlg1 (STEAM_0:1:452173513): /y am at call
+Thu Aug 29 23:18:37 2019	DrDerpenstein was killed by mast3rmlg1 with a cw_dpe_m98b
+Thu Aug 29 23:18:38 2019	Derp was killed by Stalledgold1 with a cw_mr96
+Thu Aug 29 23:18:39 2019	Stalledgold1 was killed by Himself with a suicide trick
+Thu Aug 29 23:18:40 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Thu Aug 29 23:18:40 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Thu Aug 29 23:18:41 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Aug 29 23:19:13 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Thu Aug 29 23:19:14 2019	Stalledgold1 was killed by mast3rmlg1 with a weapon_fists
+Thu Aug 29 23:19:15 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Thu Aug 29 23:20:13 2019	mast3rmlg1 (STEAM_0:1:452173513): /drop
+Thu Aug 29 23:20:27 2019	DrDerpenstein (STEAM_0:0:13562763): /drop
+Thu Aug 29 23:20:39 2019	mast3rmlg1 (STEAM_0:1:452173513): /drop
+Thu Aug 29 23:20:43 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC my mom
+Thu Aug 29 23:21:42 2019	mast3rmlg1 was killed by Himself with a suicide trick
+Thu Aug 29 23:21:43 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Thu Aug 29 23:22:11 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC i cant put my shipment in my inventory
+Thu Aug 29 23:22:22 2019	DrDerpenstein (STEAM_0:0:13562763): // nope
+Thu Aug 29 23:22:26 2019	DrDerpenstein (STEAM_0:0:13562763): // cuz youre a dealer
+Thu Aug 29 23:23:08 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Thu Aug 29 23:24:02 2019	Stalledgold1 was killed by Entity [1638][zmlab_combiner] with a zmlab_combiner
+Thu Aug 29 23:24:08 2019	mast3rmlg1 (STEAM_0:1:452173513): am in discord xD
+Thu Aug 29 23:24:47 2019	mast3rmlg1 was killed by DrDerpenstein with a weapon_fists
+Thu Aug 29 23:24:48 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Thu Aug 29 23:25:11 2019	mast3rmlg1 (STEAM_0:1:452173513): /invholster
+Thu Aug 29 23:25:14 2019	MR.ORANGE (STEAM_0:0:169148475) has joined the game
+Thu Aug 29 23:25:14 2019	MR.ORANGE (STEAM_0:0:169148475) spawned
+Thu Aug 29 23:25:27 2019	mast3rmlg1 (STEAM_0:1:452173513): /invholster
+Thu Aug 29 23:25:38 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Thu Aug 29 23:25:45 2019	mast3rmlg1 (STEAM_0:1:452173513): /invholster
+Thu Aug 29 23:27:03 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Thu Aug 29 23:27:03 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Thu Aug 29 23:27:12 2019	MR.ORANGE (STEAM_0:0:169148475) disconnected
+Thu Aug 29 23:27:14 2019	TTVNinjaCake25 (STEAM_0:0:111036063) has joined the game
+Thu Aug 29 23:27:14 2019	TTVNinjaCake25 (STEAM_0:0:111036063) spawned
+Thu Aug 29 23:27:40 2019	DrDerpenstein was killed by mast3rmlg1 with a cw_dpe_an94
+Thu Aug 29 23:27:42 2019	mast3rmlg1 (STEAM_0:1:452173513): /invholster
+Thu Aug 29 23:27:54 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Thu Aug 29 23:27:56 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC how i join predator
+Thu Aug 29 23:28:01 2019	DrDerpenstein (STEAM_0:0:13562763): // VIP
+Thu Aug 29 23:28:13 2019	mast3rmlg1 (STEAM_0:1:452173513): /invholster
+Thu Aug 29 23:28:19 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC can you give me VIP xD
+Thu Aug 29 23:28:21 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Thu Aug 29 23:28:21 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Thu Aug 29 23:28:23 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC then take it off
+Thu Aug 29 23:28:34 2019	DrDerpenstein was killed by mast3rmlg1 with a cw_dpe_an94
+Thu Aug 29 23:28:35 2019	mast3rmlg1 (STEAM_0:1:452173513): /invholster
+Thu Aug 29 23:28:40 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Thu Aug 29 23:28:44 2019	TTVNinjaCake25 (STEAM_0:0:111036063) spawned
+Thu Aug 29 23:29:05 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Thu Aug 29 23:29:10 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Thu Aug 29 23:29:18 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Thu Aug 29 23:29:47 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Thu Aug 29 23:29:47 2019	TTVNinjaCake25 (STEAM_0:0:111036063) spawned
+Thu Aug 29 23:29:51 2019	DrDerpenstein was killed by mast3rmlg1 with a cw_l115
+Thu Aug 29 23:29:55 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Thu Aug 29 23:30:20 2019	TTVNinjaCake25 was killed by mast3rmlg1 with a cw_mr96
+Thu Aug 29 23:30:22 2019	TTVNinjaCake25 (STEAM_0:0:111036063) spawned
+Thu Aug 29 23:31:07 2019	TTVNinjaCake25 was killed by mast3rmlg1 with a cw_l115
+Thu Aug 29 23:31:09 2019	TTVNinjaCake25 (STEAM_0:0:111036063) spawned
+Thu Aug 29 23:31:10 2019	DrDerpenstein was killed by mast3rmlg1 with a cw_l115
+Thu Aug 29 23:31:13 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Thu Aug 29 23:31:21 2019	mast3rmlg1 (STEAM_0:1:452173513): do it
+Thu Aug 29 23:31:25 2019	mast3rmlg1 (STEAM_0:1:452173513): predator 
+Thu Aug 29 23:31:27 2019	mast3rmlg1 (STEAM_0:1:452173513): do it
+Thu Aug 29 23:31:38 2019	mast3rmlg1 (STEAM_0:1:452173513): xD
+Thu Aug 29 23:31:42 2019	mast3rmlg1 (STEAM_0:1:452173513): can you do that
+Thu Aug 29 23:31:43 2019	mast3rmlg1 (STEAM_0:1:452173513): again
+Thu Aug 29 23:31:53 2019	mast3rmlg1 (STEAM_0:1:452173513): predator
+Thu Aug 29 23:32:15 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Thu Aug 29 23:32:15 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Thu Aug 29 23:32:28 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Thu Aug 29 23:33:40 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Thu Aug 29 23:34:22 2019	TTVNinjaCake25 (STEAM_0:0:111036063): How do I exit the f4 menu
+Thu Aug 29 23:34:39 2019	Derp was killed by Entity [0][worldspawn] with a unknown
+Thu Aug 29 23:34:40 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Aug 29 23:34:47 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC any of you want to try and join another server and MRDM?
+Thu Aug 29 23:34:56 2019	DrDerpenstein (STEAM_0:0:13562763): // lol nope
+Thu Aug 29 23:36:24 2019	mast3rmlg1 (STEAM_0:1:452173513) disconnected
+Thu Aug 29 23:37:31 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Thu Aug 29 23:37:38 2019	TTVNinjaCake25 (STEAM_0:0:111036063) disconnected
+Thu Aug 29 23:39:15 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Thu Aug 29 23:39:15 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Thu Aug 29 23:39:31 2019	DrDerpenstein was killed by Stalledgold1 with a weapon_fists
+Thu Aug 29 23:39:42 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Thu Aug 29 23:40:16 2019	Stalledgold1 (STEAM_0:1:148804017): /me Strips Weapons and comms
+Thu Aug 29 23:40:16 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Thu Aug 29 23:40:38 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Thu Aug 29 23:41:07 2019	Hitman Stalledgold1 accepted a hit on DrDerpenstein, ordered by Derp for $2,500
+Thu Aug 29 23:42:14 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Thu Aug 29 23:42:14 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Thu Aug 29 23:42:32 2019	Hit on DrDerpenstein failed. Reason: The hitman changed team!
+Thu Aug 29 23:42:35 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Thu Aug 29 23:42:39 2019	Stalledgold1 (STEAM_0:1:148804017) spawned Vehicle prop_vehicle_jeep (chargersrt8poltdm)
+Thu Aug 29 23:42:50 2019	DrDerpenstein was killed by Stalledgold1 with a cw_m3super90
+Thu Aug 29 23:42:56 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Thu Aug 29 23:43:00 2019	Derp was killed by Stalledgold1 with a cw_m3super90
+Thu Aug 29 23:43:02 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Aug 29 23:43:04 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Thu Aug 29 23:43:14 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Thu Aug 29 23:43:14 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Thu Aug 29 23:43:14 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Thu Aug 29 23:43:14 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Thu Aug 29 23:43:15 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Thu Aug 29 23:43:15 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Thu Aug 29 23:43:15 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Thu Aug 29 23:43:22 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_box_buckshot
+Thu Aug 29 23:43:22 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_box_buckshot
+Thu Aug 29 23:43:22 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_box_buckshot
+Thu Aug 29 23:43:23 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_box_buckshot
+Thu Aug 29 23:43:23 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_box_buckshot
+Thu Aug 29 23:43:25 2019	Stalledgold1 was killed by Himself with a suicide trick
+Thu Aug 29 23:43:27 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Thu Aug 29 23:43:50 2019	Stalledgold1 was killed by DrDerpenstein with a cw_m3super90
+Thu Aug 29 23:43:51 2019	Derp was killed by DrDerpenstein with a cw_m3super90
+Thu Aug 29 23:43:52 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Aug 29 23:43:59 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Thu Aug 29 23:44:09 2019	Stalledgold1 was killed by DrDerpenstein with a cw_ar15
+Thu Aug 29 23:44:10 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Thu Aug 29 23:44:16 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Thu Aug 29 23:44:20 2019	DrDerpenstein was killed by Stalledgold1 with a cw_m3super90
+Thu Aug 29 23:44:26 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Thu Aug 29 23:44:50 2019	Derp was killed by Stalledgold1 with a cw_m3super90
+Thu Aug 29 23:44:52 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Aug 29 23:45:43 2019	Derp was killed by Stalledgold1 with a cw_m3super90
+Thu Aug 29 23:45:48 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Aug 29 23:45:51 2019	DrDerpenstein was killed by Stalledgold1 with a cw_m3super90
+Thu Aug 29 23:45:59 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Thu Aug 29 23:46:27 2019	Stalledgold1 was killed by Vehicle [1488][prop_vehicle_jeep] with a prop_vehicle_jeep
+Thu Aug 29 23:46:30 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Thu Aug 29 23:46:47 2019	Derp was killed by Stalledgold1 with a cw_m3super90
+Thu Aug 29 23:46:49 2019	DrDerpenstein was killed by Stalledgold1 with a cw_m3super90
+Thu Aug 29 23:46:49 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Aug 29 23:46:51 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Thu Aug 29 23:46:59 2019	Stalledgold1 (STEAM_0:1:148804017): /agenda gas ze jews!
+Thu Aug 29 23:47:34 2019	DrDerpenstein was killed by Stalledgold1 with a cw_m3super90
+Thu Aug 29 23:47:36 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Thu Aug 29 23:48:00 2019	Derp was killed by Stalledgold1 with a cw_m3super90
+Thu Aug 29 23:48:02 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Aug 29 23:48:10 2019	DrDerpenstein was killed by Stalledgold1 with a cw_m3super90
+Thu Aug 29 23:48:11 2019	mast3rmlg1 (STEAM_0:1:452173513) has joined the game
+Thu Aug 29 23:48:11 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Thu Aug 29 23:48:17 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Thu Aug 29 23:48:17 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Thu Aug 29 23:48:39 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Thu Aug 29 23:48:39 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Thu Aug 29 23:48:58 2019	Stalledgold1 (STEAM_0:1:148804017): /wanted Derp Rape
+Thu Aug 29 23:49:03 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Aug 29 23:49:11 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Thu Aug 29 23:49:11 2019	Stalledgold1 (STEAM_0:1:148804017) arrested DrDerpenstein
+Thu Aug 29 23:49:26 2019	DrDerpenstein was killed by Stalledgold1 with a cw_m3super90
+Thu Aug 29 23:49:28 2019	mast3rmlg1 (STEAM_0:1:452173513): 
+Thu Aug 29 23:49:28 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Thu Aug 29 23:49:32 2019	DrDerpenstein was killed by Stalledgold1 with a cw_m3super90
+Thu Aug 29 23:49:34 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Thu Aug 29 23:49:55 2019	Derp was killed by mast3rmlg1 with a cw_mr96
+Thu Aug 29 23:49:56 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Aug 29 23:50:02 2019	DrDerpenstein was killed by Stalledgold1 with a cw_p99
+Thu Aug 29 23:50:10 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Thu Aug 29 23:50:12 2019	Stalledgold1 (STEAM_0:1:148804017) unarrested DrDerpenstein
+Thu Aug 29 23:50:24 2019	Derp was killed by mast3rmlg1 with a cw_l115
+Thu Aug 29 23:50:25 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Aug 29 23:50:34 2019	mast3rmlg1 was killed by Stalledgold1 with a cw_m3super90
+Thu Aug 29 23:50:35 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Thu Aug 29 23:50:36 2019	Stalledgold1 was killed by Himself with a suicide trick
+Thu Aug 29 23:50:42 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Thu Aug 29 23:50:48 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Thu Aug 29 23:50:58 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Thu Aug 29 23:51:07 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Thu Aug 29 23:51:29 2019	Stalledgold1 was killed by mast3rmlg1 with a cw_dpe_an94
+Thu Aug 29 23:51:31 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Thu Aug 29 23:51:42 2019	mast3rmlg1 (STEAM_0:1:452173513): /ooc can i have
+Thu Aug 29 23:51:44 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Thu Aug 29 23:51:44 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC VIP try out
+Thu Aug 29 23:51:51 2019	mast3rmlg1 (STEAM_0:1:452173513): /invholster
+Thu Aug 29 23:51:54 2019	mast3rmlg1 (STEAM_0:1:452173513): wasnt me
+Thu Aug 29 23:51:55 2019	mast3rmlg1 was killed by DrDerpenstein with a cw_ar15
+Thu Aug 29 23:51:58 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC wasnt me xD
+Thu Aug 29 23:51:58 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Thu Aug 29 23:52:02 2019	Stalledgold1 (STEAM_0:1:148804017) disconnected
+Thu Aug 29 23:52:06 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Thu Aug 29 23:52:21 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC RDM<s
+Thu Aug 29 23:52:29 2019	DrDerpenstein was killed by mast3rmlg1 with a cw_mr96
+Thu Aug 29 23:52:36 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Thu Aug 29 23:52:40 2019	DrDerpenstein (STEAM_0:0:13562763): // brb
+Thu Aug 29 23:52:53 2019	mast3rmlg1 (STEAM_0:1:452173513): 
+Thu Aug 29 23:53:21 2019	mast3rmlg1 was killed by Himself with a suicide trick
+Thu Aug 29 23:53:22 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Thu Aug 29 23:53:27 2019	mast3rmlg1 (STEAM_0:1:452173513): hey
+Thu Aug 29 23:53:35 2019	mast3rmlg1 (STEAM_0:1:452173513): 1v1 me if i iwn i get a VIP tryout out of 3?
+Thu Aug 29 23:53:48 2019	mast3rmlg1 (STEAM_0:1:452173513): i dont got hacks
+Thu Aug 29 23:53:52 2019	mast3rmlg1 (STEAM_0:1:452173513): ok
+Thu Aug 29 23:54:13 2019	Stalledgold1 (STEAM_0:1:148804017) has joined the game
+Thu Aug 29 23:54:13 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Thu Aug 29 23:55:19 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Thu Aug 29 23:55:27 2019	mast3rmlg1 (STEAM_0:1:452173513): /y stalled
+Thu Aug 29 23:55:49 2019	mast3rmlg1 (STEAM_0:1:452173513): /invholster
+Thu Aug 29 23:56:14 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC bruh
+Thu Aug 29 23:56:27 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC derp
+Thu Aug 29 23:56:36 2019	Derp (STEAM_0:0:52504530): // which derp
+Thu Aug 29 23:56:37 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC derp can you turn off Drderps god mode xD
+Thu Aug 29 23:56:43 2019	DrDerpenstein (STEAM_0:0:13562763): // lol no
+Thu Aug 29 23:56:45 2019	mast3rmlg1 (STEAM_0:1:452173513): fuck you
+Thu Aug 29 23:56:49 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC turn off
+Thu Aug 29 23:56:50 2019	Derp (STEAM_0:0:52504530): // oops
+Thu Aug 29 23:57:03 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_healthkit
+Thu Aug 29 23:57:03 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_healthkit
+Thu Aug 29 23:57:05 2019	Stalledgold1 (STEAM_0:1:148804017): /ooc nig
+Thu Aug 29 23:57:10 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Thu Aug 29 23:57:10 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Thu Aug 29 23:57:10 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Thu Aug 29 23:57:10 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Thu Aug 29 23:57:18 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC aa
+Thu Aug 29 23:57:32 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Thu Aug 29 23:57:32 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Thu Aug 29 23:57:34 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Thu Aug 29 23:57:34 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Thu Aug 29 23:57:34 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Thu Aug 29 23:57:58 2019	Derp (STEAM_0:0:52504530): 
+Thu Aug 29 23:58:01 2019	Derp (STEAM_0:0:52504530): 
+Thu Aug 29 23:58:04 2019	Stalledgold1 (STEAM_0:1:148804017): /ooc cya bbg
+Thu Aug 29 23:58:08 2019	Stalledgold1 (STEAM_0:1:148804017): /ooc :kiss:
+Thu Aug 29 23:58:10 2019	mast3rmlg1 (STEAM_0:1:452173513): /invholster
+Thu Aug 29 23:58:13 2019	Derp (STEAM_0:0:52504530) disconnected
+Thu Aug 29 23:58:15 2019	mast3rmlg1 was killed by DrDerpenstein with a cw_dp_g3a3
+Thu Aug 29 23:58:16 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Thu Aug 29 23:58:25 2019	DrDerpenstein was killed by mast3rmlg1 with a cw_mr96
+Thu Aug 29 23:58:33 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Thu Aug 29 23:58:40 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Thu Aug 29 23:58:40 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Thu Aug 29 23:58:40 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Thu Aug 29 23:58:40 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Thu Aug 29 23:58:40 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Thu Aug 29 23:58:42 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Thu Aug 29 23:58:44 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Thu Aug 29 23:59:13 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Thu Aug 29 23:59:14 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Thu Aug 29 23:59:14 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Thu Aug 29 23:59:16 2019	mast3rmlg1 was killed by DrDerpenstein with a cw_dp_ak74
+Thu Aug 29 23:59:17 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Thu Aug 29 23:59:47 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Thu Aug 29 23:59:51 2019	mast3rmlg1 (STEAM_0:1:452173513): /invholster
+Fri Aug 30 00:00:03 2019	mast3rmlg1 was killed by Himself with a suicide trick
+Fri Aug 30 00:00:04 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Fri Aug 30 00:00:17 2019	mast3rmlg1 (STEAM_0:1:452173513): you dint kill me xD
+Fri Aug 30 00:00:27 2019	mast3rmlg1 was killed by DrDerpenstein with a cw_dp_ak74
+Fri Aug 30 00:00:28 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Fri Aug 30 00:00:30 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC aimbot
+Fri Aug 30 00:00:38 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC can we get an admin here
+Fri Aug 30 00:00:45 2019	mast3rmlg1 (STEAM_0:1:452173513): rematch x
+Fri Aug 30 00:00:47 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Fri Aug 30 00:01:01 2019	mast3rmlg1 (STEAM_0:1:452173513): 
+Fri Aug 30 00:01:06 2019	Stalledgold1 was killed by mast3rmlg1 with a cw_dpe_an94
+Fri Aug 30 00:01:10 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Fri Aug 30 00:01:11 2019	DrDerpenstein was killed by mast3rmlg1 with a cw_dpe_an94
+Fri Aug 30 00:01:13 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Fri Aug 30 00:01:17 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Fri Aug 30 00:01:18 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Fri Aug 30 00:01:18 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Fri Aug 30 00:01:19 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Fri Aug 30 00:01:19 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Fri Aug 30 00:01:19 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Fri Aug 30 00:01:19 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Fri Aug 30 00:01:19 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Fri Aug 30 00:01:21 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_box_buckshot
+Fri Aug 30 00:01:21 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_box_buckshot
+Fri Aug 30 00:01:28 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC but your body
+Fri Aug 30 00:02:12 2019	mast3rmlg1 was killed by DrDerpenstein with a cw_dp_ar15
+Fri Aug 30 00:02:13 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Fri Aug 30 00:02:28 2019	mast3rmlg1 was killed by DrDerpenstein with a cw_dp_ar15
+Fri Aug 30 00:02:29 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Fri Aug 30 00:02:41 2019	Stalledgold1 was killed by DrDerpenstein with a cw_dp_ar15
+Fri Aug 30 00:02:43 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Fri Aug 30 00:02:51 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Fri Aug 30 00:02:53 2019	DrDerpenstein was killed by mast3rmlg1 with a cw_dpe_an94
+Fri Aug 30 00:02:55 2019	mast3rmlg1 (STEAM_0:1:452173513): /invholster
+Fri Aug 30 00:03:02 2019	mast3rmlg1 (STEAM_0:1:452173513): /unbox
+Fri Aug 30 00:03:05 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Fri Aug 30 00:03:16 2019	mast3rmlg1 was killed by Stalledgold1 with a cw_m3super90
+Fri Aug 30 00:03:16 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Fri Aug 30 00:03:16 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Fri Aug 30 00:03:17 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Fri Aug 30 00:03:17 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Fri Aug 30 00:03:17 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Fri Aug 30 00:03:17 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Fri Aug 30 00:03:17 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Fri Aug 30 00:03:21 2019	mast3rmlg1 (STEAM_0:1:452173513): /OIOC my sniper glitch
+Fri Aug 30 00:03:37 2019	mast3rmlg1 was killed by DrDerpenstein with a cw_dp_ar15
+Fri Aug 30 00:03:38 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Fri Aug 30 00:03:47 2019	Stalledgold1 was killed by DrDerpenstein with a cw_dp_ar15
+Fri Aug 30 00:03:49 2019	Stalledgold1 (STEAM_0:1:148804017): /roll
+Fri Aug 30 00:03:49 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Fri Aug 30 00:03:53 2019	DrDerpenstein (STEAM_0:0:13562763): /roll
+Fri Aug 30 00:04:00 2019	mast3rmlg1 was killed by DrDerpenstein with a cw_dp_ar15
+Fri Aug 30 00:04:01 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Fri Aug 30 00:04:21 2019	mast3rmlg1 was killed by DrDerpenstein with a cw_dp_ar15
+Fri Aug 30 00:04:22 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Fri Aug 30 00:04:29 2019	DrDerpenstein was killed by Stalledgold1 with a cw_m3super90
+Fri Aug 30 00:04:37 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Fri Aug 30 00:04:39 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Fri Aug 30 00:04:41 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Fri Aug 30 00:04:41 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Fri Aug 30 00:04:41 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Fri Aug 30 00:04:41 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Fri Aug 30 00:04:42 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Fri Aug 30 00:04:44 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC no
+Fri Aug 30 00:04:47 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC the next one
+Fri Aug 30 00:04:54 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Fri Aug 30 00:04:54 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Fri Aug 30 00:04:54 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC next fight is for VIP
+Fri Aug 30 00:04:54 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Fri Aug 30 00:04:54 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Fri Aug 30 00:04:57 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_rpg_round
+Fri Aug 30 00:04:57 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_rpg_round
+Fri Aug 30 00:04:58 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_box_buckshot
+Fri Aug 30 00:04:58 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_box_buckshot
+Fri Aug 30 00:04:58 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_box_buckshot
+Fri Aug 30 00:05:00 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Fri Aug 30 00:05:01 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Fri Aug 30 00:05:01 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Fri Aug 30 00:05:01 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Fri Aug 30 00:05:12 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Fri Aug 30 00:05:26 2019	Stalledgold1 was killed by DrDerpenstein with a cw_dp_ar15
+Fri Aug 30 00:05:28 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Fri Aug 30 00:05:36 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC ok
+Fri Aug 30 00:05:41 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Fri Aug 30 00:05:49 2019	mast3rmlg1 was killed by DrDerpenstein with a cw_dp_ar15
+Fri Aug 30 00:05:50 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Fri Aug 30 00:05:52 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC how
+Fri Aug 30 00:06:00 2019	mast3rmlg1 was killed by DrDerpenstein with a cw_dp_ar15
+Fri Aug 30 00:06:02 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Fri Aug 30 00:06:05 2019	DrDerpenstein was killed by mast3rmlg1 with a cw_l115
+Fri Aug 30 00:06:08 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC ok
+Fri Aug 30 00:06:10 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC wait
+Fri Aug 30 00:06:16 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Fri Aug 30 00:06:17 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC we got to be ready first
+Fri Aug 30 00:06:20 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Fri Aug 30 00:06:22 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Fri Aug 30 00:06:22 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Fri Aug 30 00:06:22 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Fri Aug 30 00:06:22 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Fri Aug 30 00:06:22 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Fri Aug 30 00:06:22 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Fri Aug 30 00:06:23 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Fri Aug 30 00:06:23 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Fri Aug 30 00:06:27 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_box_buckshot
+Fri Aug 30 00:06:27 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_box_buckshot
+Fri Aug 30 00:06:27 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_box_buckshot
+Fri Aug 30 00:06:27 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Fri Aug 30 00:06:28 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Fri Aug 30 00:06:28 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Fri Aug 30 00:06:28 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Fri Aug 30 00:06:30 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC no
+Fri Aug 30 00:06:30 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Fri Aug 30 00:07:02 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Fri Aug 30 00:07:23 2019	Stalledgold1 was killed by DrDerpenstein with a cw_dp_ar15
+Fri Aug 30 00:07:25 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Fri Aug 30 00:07:34 2019	mast3rmlg1 was killed by DrDerpenstein with a cw_dp_ar15
+Fri Aug 30 00:07:35 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Fri Aug 30 00:07:49 2019	mast3rmlg1 (STEAM_0:1:452173513): no
+Fri Aug 30 00:07:53 2019	DrDerpenstein was killed by mast3rmlg1 with a cw_ak74
+Fri Aug 30 00:07:55 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Fri Aug 30 00:08:00 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Fri Aug 30 00:08:00 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Fri Aug 30 00:08:00 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Fri Aug 30 00:08:00 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Fri Aug 30 00:08:00 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Fri Aug 30 00:08:00 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Fri Aug 30 00:08:00 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Fri Aug 30 00:08:01 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Fri Aug 30 00:08:03 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Fri Aug 30 00:08:03 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Fri Aug 30 00:08:03 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Fri Aug 30 00:08:03 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Fri Aug 30 00:08:04 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_box_buckshot
+Fri Aug 30 00:08:04 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_box_buckshot
+Fri Aug 30 00:08:04 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_box_buckshot
+Fri Aug 30 00:08:05 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_357_large
+Fri Aug 30 00:08:05 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_357_large
+Fri Aug 30 00:08:05 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_smg1_large
+Fri Aug 30 00:08:06 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_pistol_large
+Fri Aug 30 00:08:30 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_healthkit
+Fri Aug 30 00:08:31 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Fri Aug 30 00:08:31 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Fri Aug 30 00:08:32 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Fri Aug 30 00:08:32 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Fri Aug 30 00:08:32 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Fri Aug 30 00:08:48 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC 1v1v1
+Fri Aug 30 00:08:56 2019	DrDerpenstein (STEAM_0:0:13562763): // not yet
+Fri Aug 30 00:09:00 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC next round
+Fri Aug 30 00:09:03 2019	DrDerpenstein (STEAM_0:0:13562763): // stalled still has 1 life left
+Fri Aug 30 00:09:48 2019	Stalledgold1 was killed by DrDerpenstein with a cw_dp_ar15
+Fri Aug 30 00:09:50 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Fri Aug 30 00:10:59 2019	mast3rmlg1 was killed by Stalledgold1 with a cw_dp_ar15
+Fri Aug 30 00:11:02 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC IDIOT
+Fri Aug 30 00:11:02 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Fri Aug 30 00:11:08 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Fri Aug 30 00:11:48 2019	DrDerpenstein (STEAM_0:0:13562763): cw_dp_ar15
+Fri Aug 30 00:12:23 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC can i help?
+Fri Aug 30 00:12:26 2019	DrDerpenstein (STEAM_0:0:13562763): // sure
+Fri Aug 30 00:12:29 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC lol ok
+Fri Aug 30 00:12:37 2019	mast3rmlg1 (STEAM_0:1:452173513): /invholster
+Fri Aug 30 00:12:40 2019	mast3rmlg1 (STEAM_0:1:452173513): yo stalled
+Fri Aug 30 00:12:42 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Fri Aug 30 00:12:42 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Fri Aug 30 00:12:43 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Fri Aug 30 00:12:43 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Fri Aug 30 00:12:43 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Fri Aug 30 00:12:43 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Fri Aug 30 00:12:43 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Fri Aug 30 00:12:43 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Fri Aug 30 00:12:44 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Fri Aug 30 00:12:44 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Fri Aug 30 00:12:44 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_smg1_large
+Fri Aug 30 00:12:44 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_smg1_large
+Fri Aug 30 00:12:45 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_smg1_large
+Fri Aug 30 00:12:45 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_pistol_large
+Fri Aug 30 00:12:45 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_pistol_large
+Fri Aug 30 00:12:45 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_pistol_large
+Fri Aug 30 00:12:46 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_box_buckshot
+Fri Aug 30 00:12:46 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_box_buckshot
+Fri Aug 30 00:12:46 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_box_buckshot
+Fri Aug 30 00:12:46 2019	mast3rmlg1 (STEAM_0:1:452173513): we ready
+Fri Aug 30 00:13:06 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC can i have breaching also
+Fri Aug 30 00:13:10 2019	mast3rmlg1 (STEAM_0:1:452173513): can i also
+Fri Aug 30 00:13:22 2019	Stalledgold1 (STEAM_0:1:148804017): /drop
+Fri Aug 30 00:13:27 2019	mast3rmlg1 (STEAM_0:1:452173513): /invholster
+Fri Aug 30 00:13:28 2019	mast3rmlg1 (STEAM_0:1:452173513): /invholster
+Fri Aug 30 00:13:33 2019	mast3rmlg1 (STEAM_0:1:452173513): stalled
+Fri Aug 30 00:13:34 2019	mast3rmlg1 (STEAM_0:1:452173513): get back
+Fri Aug 30 00:13:41 2019	mast3rmlg1 (STEAM_0:1:452173513): wtf
+Fri Aug 30 00:14:12 2019	mast3rmlg1 was killed by DrDerpenstein with a cw_dp_ar15
+Fri Aug 30 00:14:13 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Fri Aug 30 00:14:19 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Fri Aug 30 00:14:21 2019	DrDerpenstein was killed by Stalledgold1 with a cw_dp_ar15
+Fri Aug 30 00:14:40 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC retry?
+Fri Aug 30 00:14:45 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC this time
+Fri Aug 30 00:14:47 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Fri Aug 30 00:14:47 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Fri Aug 30 00:14:50 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC stalled has to defend
+Fri Aug 30 00:14:54 2019	Stalledgold1 (STEAM_0:1:148804017): /drop
+Fri Aug 30 00:15:25 2019	mast3rmlg1 (STEAM_0:1:452173513): what was it
+Fri Aug 30 00:15:36 2019	Stalledgold1 (STEAM_0:1:148804017): 
+Fri Aug 30 00:15:39 2019	mast3rmlg1 (STEAM_0:1:452173513): bruh
+Fri Aug 30 00:15:39 2019	DrDerpenstein was killed by Stalledgold1 with a cw_ar15
+Fri Aug 30 00:15:41 2019	mast3rmlg1 was killed by Stalledgold1 with a cw_ar15
+Fri Aug 30 00:15:42 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Fri Aug 30 00:15:45 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Fri Aug 30 00:15:55 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned Vehicle prop_vehicle_jeep (chargersrt8poltdm)
+Fri Aug 30 00:16:38 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Fri Aug 30 00:16:38 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Fri Aug 30 00:16:38 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Fri Aug 30 00:16:38 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Fri Aug 30 00:16:38 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Fri Aug 30 00:16:38 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Fri Aug 30 00:16:40 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Fri Aug 30 00:16:57 2019	mast3rmlg1 (STEAM_0:1:452173513): no
+Fri Aug 30 00:17:01 2019	mast3rmlg1 (STEAM_0:1:452173513): were breaching
+Fri Aug 30 00:17:46 2019	mast3rmlg1 was killed by Stalledgold1 with a cw_ar15
+Fri Aug 30 00:17:48 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Fri Aug 30 00:17:56 2019	Stalledgold1 was killed by DrDerpenstein with a cw_ar15
+Fri Aug 30 00:17:59 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Fri Aug 30 00:18:33 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC my turn
+Fri Aug 30 00:19:00 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC wait am not ready
+Fri Aug 30 00:19:23 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC can i have ammo
+Fri Aug 30 00:19:28 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Fri Aug 30 00:19:28 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Fri Aug 30 00:19:28 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Fri Aug 30 00:19:28 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Fri Aug 30 00:19:28 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Fri Aug 30 00:19:28 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Fri Aug 30 00:19:29 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Fri Aug 30 00:20:13 2019	mast3rmlg1 (STEAM_0:1:452173513): shh
+Fri Aug 30 00:21:31 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC wait 1min
+Fri Aug 30 00:21:51 2019	Stalledgold1 (STEAM_0:1:148804017): /invholster
+Fri Aug 30 00:22:00 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC 20sec
+Fri Aug 30 00:22:34 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC wait
+Fri Aug 30 00:22:37 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC i need ammo
+Fri Aug 30 00:22:52 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC yep
+Fri Aug 30 00:23:07 2019	mast3rmlg1 was killed by Stalledgold1 with a cw_ar15
+Fri Aug 30 00:23:10 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC wtf
+Fri Aug 30 00:23:10 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Fri Aug 30 00:23:13 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC how 
+Fri Aug 30 00:23:18 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC can we retry?
+Fri Aug 30 00:23:29 2019	Stalledgold1 (STEAM_0:1:148804017): /invholster
+Fri Aug 30 00:23:36 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC can weretry
+Fri Aug 30 00:24:21 2019	mast3rmlg1 (STEAM_0:1:452173513): give us
+Fri Aug 30 00:24:23 2019	mast3rmlg1 (STEAM_0:1:452173513): SUpreme
+Fri Aug 30 00:24:25 2019	mast3rmlg1 (STEAM_0:1:452173513): GASTER BLASTER
+Fri Aug 30 00:26:01 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Fri Aug 30 00:26:02 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_healthkit
+Fri Aug 30 00:26:25 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_muffin
+Fri Aug 30 00:26:27 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_muffin
+Fri Aug 30 00:26:27 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_muffin
+Fri Aug 30 00:26:27 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_muffin
+Fri Aug 30 00:26:27 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_muffin
+Fri Aug 30 00:26:28 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_muffin
+Fri Aug 30 00:26:28 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_muffin
+Fri Aug 30 00:26:28 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_muffin
+Fri Aug 30 00:26:28 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_muffin
+Fri Aug 30 00:26:28 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_muffin
+Fri Aug 30 00:26:28 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_muffin
+Fri Aug 30 00:26:28 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_muffin
+Fri Aug 30 00:26:29 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_muffin
+Fri Aug 30 00:26:29 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_muffin
+Fri Aug 30 00:26:37 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT sent_ball
+Fri Aug 30 00:26:43 2019	mast3rmlg1 (STEAM_0:1:452173513): shhh
+Fri Aug 30 00:27:21 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Fri Aug 30 00:27:21 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Fri Aug 30 00:27:21 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Fri Aug 30 00:28:00 2019	DrDerpenstein was killed by Stalledgold1 with a cw_ar15
+Fri Aug 30 00:28:07 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Fri Aug 30 00:28:10 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Fri Aug 30 00:28:10 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Fri Aug 30 00:28:10 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Fri Aug 30 00:28:10 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Fri Aug 30 00:28:10 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Fri Aug 30 00:28:11 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Fri Aug 30 00:28:11 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Fri Aug 30 00:28:11 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Fri Aug 30 00:28:22 2019	mast3rmlg1 (STEAM_0:1:452173513): i got 42
+Fri Aug 30 00:28:23 2019	mast3rmlg1 (STEAM_0:1:452173513): health
+Fri Aug 30 00:28:27 2019	mast3rmlg1 (STEAM_0:1:452173513): i laser him
+Fri Aug 30 00:28:51 2019	mast3rmlg1 (STEAM_0:1:452173513): sir
+Fri Aug 30 00:28:59 2019	mast3rmlg1 (STEAM_0:1:452173513): am pooping
+Fri Aug 30 00:29:00 2019	mast3rmlg1 (STEAM_0:1:452173513): go away
+Fri Aug 30 00:29:01 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_healthkit
+Fri Aug 30 00:29:02 2019	mast3rmlg1 (STEAM_0:1:452173513): privacy
+Fri Aug 30 00:29:03 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_healthkit
+Fri Aug 30 00:29:05 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_healthkit
+Fri Aug 30 00:31:12 2019	mast3rmlg1 (STEAM_0:1:452173513): wait
+Fri Aug 30 00:32:28 2019	mast3rmlg1 (STEAM_0:1:452173513): hurry
+Fri Aug 30 00:33:51 2019	mast3rmlg1 (STEAM_0:1:452173513): dude
+Fri Aug 30 00:33:54 2019	mast3rmlg1 (STEAM_0:1:452173513): use the glitch
+Fri Aug 30 00:33:59 2019	mast3rmlg1 (STEAM_0:1:452173513): use the gltich
+Fri Aug 30 00:34:02 2019	mast3rmlg1 (STEAM_0:1:452173513): 3rd person
+Fri Aug 30 00:35:27 2019	mast3rmlg1 was killed by DrDerpenstein with a cw_ar15
+Fri Aug 30 00:35:29 2019	mast3rmlg1 (STEAM_0:1:452173513): bruh hacks
+Fri Aug 30 00:35:30 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Fri Aug 30 00:35:31 2019	Stalledgold1 was killed by DrDerpenstein with a prop_sh_doorcharge
+Fri Aug 30 00:35:34 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Fri Aug 30 00:35:37 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned Vehicle prop_vehicle_jeep (chargersrt8poltdm)
+Fri Aug 30 00:36:02 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC give us donator jobsd
+Fri Aug 30 00:36:04 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Fri Aug 30 00:36:22 2019	mast3rmlg1 (STEAM_0:1:452173513): yep same i gtg
+Fri Aug 30 00:36:24 2019	mast3rmlg1 (STEAM_0:1:452173513): /invholster
+Fri Aug 30 00:36:28 2019	DrDerpenstein (STEAM_0:0:13562763): cw_vss
+Fri Aug 30 00:36:33 2019	mast3rmlg1 was killed by Stalledgold1 with a cw_ar15
+Fri Aug 30 00:36:34 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Fri Aug 30 00:36:38 2019	Stalledgold1 (STEAM_0:1:148804017): /invholster
+Fri Aug 30 00:36:39 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned Vehicle prop_vehicle_jeep (chargersrt8poltdm)
+Fri Aug 30 00:36:44 2019	Stalledgold1 (STEAM_0:1:148804017): 
+Fri Aug 30 00:36:44 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Fri Aug 30 00:36:45 2019	Stalledgold1 (STEAM_0:1:148804017): /invholster
+Fri Aug 30 00:36:45 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC bye i gtg
+Fri Aug 30 00:36:52 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC then give me
+Fri Aug 30 00:36:55 2019	DrDerpenstein (STEAM_0:0:13562763): cw_deagle
+Fri Aug 30 00:36:59 2019	Stalledgold1 (STEAM_0:1:148804017): /invholster
+Fri Aug 30 00:37:08 2019	DrDerpenstein (STEAM_0:0:13562763): cw_scarh
+Fri Aug 30 00:37:15 2019	Stalledgold1 was killed by mast3rmlg1 with a prop_vehicle_jeep
+Fri Aug 30 00:37:17 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Fri Aug 30 00:37:21 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Fri Aug 30 00:37:24 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned Vehicle prop_vehicle_jeep (chargersrt8poltdm)
+Fri Aug 30 00:37:24 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Fri Aug 30 00:37:29 2019	Stalledgold1 (STEAM_0:1:148804017): /invholster
+Fri Aug 30 00:37:37 2019	Stalledgold1 (STEAM_0:1:148804017): /invholster
+Fri Aug 30 00:37:45 2019	mast3rmlg1 (STEAM_0:1:452173513): i have a bind
+Fri Aug 30 00:37:55 2019	DrDerpenstein (STEAM_0:0:13562763): cw_mr96
+Fri Aug 30 00:37:56 2019	mast3rmlg1 (STEAM_0:1:452173513): /invholster
+Fri Aug 30 00:37:58 2019	mast3rmlg1 (STEAM_0:1:452173513): /invholster
+Fri Aug 30 00:37:59 2019	mast3rmlg1 (STEAM_0:1:452173513): /invholster
+Fri Aug 30 00:38:04 2019	Stalledgold1 (STEAM_0:1:148804017): /invholster
+Fri Aug 30 00:38:06 2019	mast3rmlg1 (STEAM_0:1:452173513): /invholster
+Fri Aug 30 00:38:08 2019	mast3rmlg1 (STEAM_0:1:452173513): /invholster
+Fri Aug 30 00:38:09 2019	mast3rmlg1 (STEAM_0:1:452173513): /invholster
+Fri Aug 30 00:38:20 2019	mast3rmlg1 (STEAM_0:1:452173513): /invholster
+Fri Aug 30 00:38:27 2019	mast3rmlg1 (STEAM_0:1:452173513): /invholster
+Fri Aug 30 00:38:29 2019	mast3rmlg1 (STEAM_0:1:452173513): /invholster
+Fri Aug 30 00:38:32 2019	mast3rmlg1 (STEAM_0:1:452173513): is that all
+Fri Aug 30 00:38:41 2019	Stalledgold1 (STEAM_0:1:148804017): /invholster
+Fri Aug 30 00:38:43 2019	mast3rmlg1 (STEAM_0:1:452173513): dude
+Fri Aug 30 00:38:46 2019	mast3rmlg1 (STEAM_0:1:452173513): this one took my X*
+Fri Aug 30 00:38:57 2019	Stalledgold1 was killed by Entity [1548][zvm_machine] with a zvm_machine
+Fri Aug 30 00:38:59 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Fri Aug 30 00:39:03 2019	Stalledgold1 (STEAM_0:1:148804017): /invholster
+Fri Aug 30 00:39:06 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Fri Aug 30 00:39:23 2019	mast3rmlg1 (STEAM_0:1:452173513): xD
+Fri Aug 30 00:39:31 2019	mast3rmlg1 (STEAM_0:1:452173513): i cant
+Fri Aug 30 00:39:34 2019	mast3rmlg1 (STEAM_0:1:452173513): i need to go afk mining
+Fri Aug 30 00:39:35 2019	mast3rmlg1 (STEAM_0:1:452173513): /invholster
+Fri Aug 30 00:39:37 2019	Stalledgold1 (STEAM_0:1:148804017): /invholster
+Fri Aug 30 00:39:39 2019	Stalledgold1 (STEAM_0:1:148804017): /invholster
+Fri Aug 30 00:39:40 2019	Stalledgold1 (STEAM_0:1:148804017): /invholster
+Fri Aug 30 00:39:41 2019	DrDerpenstein (STEAM_0:0:13562763) disconnected
+Fri Aug 30 00:40:09 2019	mast3rmlg1 (STEAM_0:1:452173513): /invholster
+Fri Aug 30 00:40:12 2019	mast3rmlg1 (STEAM_0:1:452173513): alright
+Fri Aug 30 00:40:14 2019	Stalledgold1 (STEAM_0:1:148804017) disconnected
+Fri Aug 30 00:40:20 2019	mast3rmlg1 (STEAM_0:1:452173513) disconnected
+Fri Aug 30 11:25:50 2019	Stalledgold1 (STEAM_0:1:148804017) has joined the game
+Fri Aug 30 11:25:50 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Fri Aug 30 11:27:22 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Fri Aug 30 11:29:04 2019	snowballeater787 (STEAM_0:0:243646349) has joined the game
+Fri Aug 30 11:29:04 2019	snowballeater787 (STEAM_0:0:243646349) spawned
+Fri Aug 30 11:31:06 2019	snowballeater787 (STEAM_0:0:243646349) disconnected
+Fri Aug 30 11:33:52 2019	Stalledgold1 (STEAM_0:1:148804017): /invholster
+Fri Aug 30 11:51:19 2019	Stalledgold1 (STEAM_0:1:148804017): /invholster
+Fri Aug 30 12:08:59 2019	Stalledgold1 was killed by Himself with a suicide trick
+Fri Aug 30 12:09:00 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Fri Aug 30 12:40:19 2019	Stalledgold1 was killed by Himself with a suicide trick
+Fri Aug 30 12:40:21 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Fri Aug 30 12:44:24 2019	Stalledgold1 was killed by Himself with a suicide trick
+Fri Aug 30 12:44:29 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Fri Aug 30 12:44:54 2019	Stalledgold1 (STEAM_0:1:148804017): 
+Fri Aug 30 12:48:37 2019	Stalledgold1 was killed by Himself with a suicide trick
+Fri Aug 30 12:48:39 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Fri Aug 30 13:35:25 2019	Stalledgold1 (STEAM_0:1:148804017) disconnected
+Fri Aug 30 15:39:42 2019	mast3rmlg1 (STEAM_0:1:452173513) has joined the game
+Fri Aug 30 15:39:42 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Fri Aug 30 15:40:27 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Fri Aug 30 15:40:56 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Fri Aug 30 15:41:04 2019	mast3rmlg1 (STEAM_0:1:452173513): /invholster
+Fri Aug 30 15:41:16 2019	Stalledgold1 (STEAM_0:1:148804017) has joined the game
+Fri Aug 30 15:41:16 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Fri Aug 30 15:41:24 2019	mast3rmlg1 (STEAM_0:1:452173513): /invholster
+Fri Aug 30 15:41:33 2019	mast3rmlg1 (STEAM_0:1:452173513): /invholster
+Fri Aug 30 15:43:05 2019	mast3rmlg1 (STEAM_0:1:452173513): /invholster
+Fri Aug 30 15:47:12 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Fri Aug 30 15:47:38 2019	Stalledgold1 (STEAM_0:1:148804017): 
+Fri Aug 30 15:47:42 2019	mast3rmlg1 was killed by Stalledgold1 with a cw_ak74
+Fri Aug 30 15:47:43 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Fri Aug 30 15:47:55 2019	mast3rmlg1 (STEAM_0:1:452173513): fuck OFF
+Fri Aug 30 15:48:27 2019	Stalledgold1 was killed by mast3rmlg1 with a cw_ar15
+Fri Aug 30 15:48:28 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Fri Aug 30 15:48:35 2019	Stalledgold1 (STEAM_0:1:148804017) disconnected
+Fri Aug 30 15:50:58 2019	Stalledgold1 (STEAM_0:1:148804017) has joined the game
+Fri Aug 30 15:50:58 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Fri Aug 30 15:52:13 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Fri Aug 30 15:52:53 2019	Stalledgold1 was killed by mast3rmlg1 with a cw_ar15
+Fri Aug 30 15:52:55 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Fri Aug 30 15:53:09 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC you downloaded to much addons
+Fri Aug 30 15:54:13 2019	Stalledgold1 was killed by mast3rmlg1 with a cw_ar15
+Fri Aug 30 15:54:14 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Fri Aug 30 15:54:29 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned Vehicle prop_vehicle_jeep (dod_challenger15tdm)
+Fri Aug 30 15:54:58 2019	mast3rmlg1 (STEAM_0:1:452173513): /buyuniammo
+Fri Aug 30 15:55:01 2019	mast3rmlg1 (STEAM_0:1:452173513): 
+Fri Aug 30 15:55:44 2019	Stalledgold1 was killed by mast3rmlg1 with a cw_ar15
+Fri Aug 30 15:55:46 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Fri Aug 30 15:56:41 2019	Stalledgold1 (STEAM_0:1:148804017): 
+Fri Aug 30 15:57:10 2019	mast3rmlg1 (STEAM_0:1:452173513): /invholster
+Fri Aug 30 15:57:18 2019	Stalledgold1 was killed by mast3rmlg1 with a cw_ar15
+Fri Aug 30 15:57:19 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Fri Aug 30 15:57:25 2019	Stalledgold1 (STEAM_0:1:148804017) disconnected
+Fri Aug 30 15:59:51 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned Vehicle prop_vehicle_jeep (dod_challenger15tdm)
+Fri Aug 30 16:01:41 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned Vehicle prop_vehicle_jeep (dod_challenger15tdm)
+Fri Aug 30 16:03:49 2019	Stalledgold1 (STEAM_0:1:148804017) has joined the game
+Fri Aug 30 16:03:49 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Fri Aug 30 16:11:13 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned Vehicle prop_vehicle_jeep (dod_challenger15tdm)
+Fri Aug 30 16:11:25 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Fri Aug 30 16:11:39 2019	mast3rmlg1 (STEAM_0:1:452173513): get in
+Fri Aug 30 16:12:24 2019	mast3rmlg1 was killed by Stalledgold1 with a cw_mr96
+Fri Aug 30 16:12:25 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Fri Aug 30 16:13:24 2019	Stalledgold1 (STEAM_0:1:148804017): /invholster
+Fri Aug 30 16:13:24 2019	Stalledgold1 was killed by mast3rmlg1 with a cw_vss
+Fri Aug 30 16:13:25 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Fri Aug 30 16:14:29 2019	Stalledgold1 was killed by mast3rmlg1 with a cw_vss
+Fri Aug 30 16:14:30 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Fri Aug 30 16:14:40 2019	mast3rmlg1 (STEAM_0:1:452173513): /OOC my turn
+Fri Aug 30 16:16:10 2019	Stalledgold1 was killed by mast3rmlg1 with a cw_vss
+Fri Aug 30 16:16:11 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Fri Aug 30 16:16:20 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Fri Aug 30 16:18:45 2019	mast3rmlg1 was killed by Stalledgold1 with a cw_mr96
+Fri Aug 30 16:26:06 2019	mast3rmlg1 (STEAM_0:1:452173513) spawned
+Fri Aug 30 16:30:37 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Fri Aug 30 17:28:18 2019	Stalledgold1 was killed by Himself with a suicide trick
+Fri Aug 30 17:28:19 2019	Stalledgold1 (STEAM_0:1:148804017) spawned
+Fri Aug 30 17:30:01 2019	Stalledgold1 (STEAM_0:1:148804017): 
+Fri Aug 30 18:00:57 2019	Stalledgold1 (STEAM_0:1:148804017) disconnected
+Fri Aug 30 18:14:05 2019	mast3rmlg1 (STEAM_0:1:452173513) disconnected

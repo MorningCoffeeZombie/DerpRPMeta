@@ -1,0 +1,364 @@
+Mon Aug 26 21:51:34 2019	DrDerpenstein sups.gg (STEAM_0:0:13562763) has joined the game
+Mon Aug 26 21:51:34 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Mon Aug 26 21:52:16 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Mon Aug 26 21:52:38 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_generator
+Mon Aug 26 21:52:48 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT bm2_fuel
+Mon Aug 26 21:52:58 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Mon Aug 26 21:53:05 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT bm2_generator
+Mon Aug 26 21:53:26 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT bm2_generator
+Mon Aug 26 21:54:10 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_jar
+Mon Aug 26 21:56:34 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Mon Aug 26 22:01:02 2019	DrDerpenstein (STEAM_0:0:13562763) disconnected
+Mon Aug 26 22:57:16 2019	Derp (STEAM_0:0:52504530) has joined the game
+Mon Aug 26 22:57:16 2019	Derp (STEAM_0:0:52504530) spawned
+Mon Aug 26 22:58:18 2019	Derp (STEAM_0:0:52504530) disconnected
+Mon Aug 26 22:58:57 2019	DrDerpenstein sups.gg (STEAM_0:0:13562763) has joined the game
+Mon Aug 26 22:58:57 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Mon Aug 26 22:59:48 2019	DrDerpenstein (STEAM_0:0:13562763) disconnected
+Tue Aug 27 21:14:49 2019	Derp (STEAM_0:0:52504530) has joined the game
+Tue Aug 27 21:14:49 2019	Derp (STEAM_0:0:52504530) spawned
+Tue Aug 27 21:15:29 2019	Derp (STEAM_0:0:52504530) disconnected
+Tue Aug 27 21:16:32 2019	Turtleluck (STEAM_0:0:4113812) has joined the game
+Tue Aug 27 21:16:32 2019	Turtleluck (STEAM_0:0:4113812) spawned
+Tue Aug 27 21:21:33 2019	Turtleluck (STEAM_0:0:4113812) spawned
+Tue Aug 27 21:23:35 2019	Turtleluck (STEAM_0:0:4113812) disconnected
+Tue Aug 27 21:23:42 2019	theresamaston (STEAM_0:1:442389183) has joined the game
+Tue Aug 27 21:23:42 2019	CJC (STEAM_0:1:442389183) spawned
+Tue Aug 27 21:24:42 2019	CJC (STEAM_0:1:442389183) spawned
+Tue Aug 27 21:24:50 2019	CJC (STEAM_0:1:442389183) spawned
+Tue Aug 27 21:27:07 2019	Turtleluck (STEAM_0:0:4113812) has joined the game
+Tue Aug 27 21:27:07 2019	Turtleluck (STEAM_0:0:4113812) spawned
+Tue Aug 27 21:29:49 2019	Turtleluck (STEAM_0:0:4113812) spawned
+Tue Aug 27 21:33:16 2019	Turtleluck (STEAM_0:0:4113812) disconnected
+Tue Aug 27 21:34:58 2019	CJC (STEAM_0:1:442389183): /invholster
+Tue Aug 27 21:35:07 2019	CJC (STEAM_0:1:442389183) spawned
+Tue Aug 27 21:38:57 2019	CJC (STEAM_0:1:442389183): /invholster
+Tue Aug 27 21:41:47 2019	CJC (STEAM_0:1:442389183) disconnected
+Tue Aug 27 21:43:45 2019	theresamaston (STEAM_0:1:442389183) has joined the game
+Tue Aug 27 21:43:45 2019	CJC (STEAM_0:1:442389183) spawned
+Tue Aug 27 21:45:47 2019	CJC (STEAM_0:1:442389183) spawned
+Tue Aug 27 21:47:03 2019	Turtleluck (STEAM_0:0:4113812) has joined the game
+Tue Aug 27 21:47:03 2019	Turtleluck (STEAM_0:0:4113812) spawned
+Tue Aug 27 21:49:56 2019	Turtleluck (STEAM_0:0:4113812) spawned
+Tue Aug 27 21:50:22 2019	CJC (STEAM_0:1:442389183): hello derp
+Tue Aug 27 21:50:25 2019	Derp (STEAM_0:0:52504530) has joined the game
+Tue Aug 27 21:50:25 2019	Derp (STEAM_0:0:52504530) spawned
+Tue Aug 27 21:50:45 2019	Turtleluck (STEAM_0:0:4113812) disconnected
+Tue Aug 27 21:51:10 2019	CJC (STEAM_0:1:442389183): /
+Tue Aug 27 21:51:16 2019	CJC (STEAM_0:1:442389183): /pm derp hi
+Tue Aug 27 21:52:01 2019	Derp (STEAM_0:0:52504530): hello
+Tue Aug 27 21:52:07 2019	Derp (STEAM_0:0:52504530): just hopping on to say hello
+Tue Aug 27 21:52:21 2019	Derp (STEAM_0:0:52504530): im not good at growing weed
+Tue Aug 27 21:52:24 2019	bert simson (STEAM_0:1:179345279) has joined the game
+Tue Aug 27 21:52:24 2019	bobbicus has a wonderful voice (STEAM_0:1:179345279) spawned
+Tue Aug 27 21:52:51 2019	Derp (STEAM_0:0:52504530): if u put time and effort u can make quite a bit of money
+Tue Aug 27 21:53:45 2019	Derp (STEAM_0:0:52504530): hi
+Tue Aug 27 21:53:59 2019	Derp (STEAM_0:0:52504530): why are u in that corner
+Tue Aug 27 21:54:11 2019	Derp (STEAM_0:0:52504530): um
+Tue Aug 27 21:55:14 2019	Derp (STEAM_0:0:52504530): sup
+Tue Aug 27 21:55:19 2019	bobbicus has a wonderful voice (STEAM_0:1:179345279): why is the toolbar jacked up
+Tue Aug 27 21:55:27 2019	bobbicus has a wonderful voice (STEAM_0:1:179345279): smh everything is out of place
+Tue Aug 27 21:55:49 2019	Derp (STEAM_0:0:52504530): its to put things in places that make more sense
+Tue Aug 27 21:55:49 2019	bobbicus has a wonderful voice (STEAM_0:1:179345279): oh that one worked
+Tue Aug 27 21:55:59 2019	Derp (STEAM_0:0:52504530): um
+Tue Aug 27 21:56:04 2019	Derp (STEAM_0:0:52504530): what the hell am i looking at
+Tue Aug 27 21:57:02 2019	bobbicus has a wonderful voice (STEAM_0:1:179345279): is that anticheat actually custom?
+Tue Aug 27 21:57:13 2019	Derp (STEAM_0:0:52504530): as far as i know yes
+Tue Aug 27 21:57:24 2019	Derp (STEAM_0:0:52504530): he talked to me about it and he showed me the code
+Tue Aug 27 21:57:35 2019	bobbicus has a wonderful voice (STEAM_0:1:179345279): I seen a couple other servers with that same thing, might just be coinsidence :^)
+Tue Aug 27 21:57:45 2019	bobbicus has a wonderful voice (STEAM_0:1:179345279): uhhh
+Tue Aug 27 21:57:46 2019	Derp (STEAM_0:0:52504530): he probably uses other anticheats as a base
+Tue Aug 27 21:57:53 2019	bobbicus has a wonderful voice (STEAM_0:1:179345279) disconnected
+Tue Aug 27 21:59:07 2019	Derp (STEAM_0:0:52504530): it automatically packs ur weed
+Tue Aug 27 21:59:29 2019	Derp (STEAM_0:0:52504530): i mean yeah
+Tue Aug 27 21:59:42 2019	Derp (STEAM_0:0:52504530): i think its VIP only
+Tue Aug 27 22:00:23 2019	Derp (STEAM_0:0:52504530): buy the muffin mix
+Tue Aug 27 22:01:09 2019	CJC (STEAM_0:1:442389183): /invholster
+Tue Aug 27 22:01:50 2019	Derp (STEAM_0:0:52504530): idk
+Tue Aug 27 22:01:56 2019	CJC was killed by Himself with a suicide trick
+Tue Aug 27 22:02:03 2019	CJC (STEAM_0:1:442389183) spawned
+Tue Aug 27 22:02:32 2019	CJC (STEAM_0:1:442389183): /invholster
+Tue Aug 27 22:05:13 2019	CJC (STEAM_0:1:442389183): /invholster
+Tue Aug 27 22:07:55 2019	CJC (STEAM_0:1:442389183) disconnected
+Tue Aug 27 22:09:45 2019	Derp was killed by Himself with a suicide trick
+Tue Aug 27 22:09:48 2019	Derp (STEAM_0:0:52504530) spawned
+Tue Aug 27 22:11:07 2019	bert simson (STEAM_0:1:179345279) has joined the game
+Tue Aug 27 22:11:07 2019	bobbicus has a wonderful voice (STEAM_0:1:179345279) spawned
+Tue Aug 27 22:11:22 2019	DrDerpenstein sups.gg (STEAM_0:0:13562763) has joined the game
+Tue Aug 27 22:11:22 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Tue Aug 27 22:11:47 2019	DrDerpenstein (STEAM_0:0:13562763) disconnected
+Tue Aug 27 22:11:53 2019	bobbicus has a wonderful voice (STEAM_0:1:179345279): // dUde
+Tue Aug 27 22:11:56 2019	Derp (STEAM_0:0:52504530): // yesh
+Tue Aug 27 22:12:04 2019	bobbicus has a wonderful voice (STEAM_0:1:179345279): // i didnt crash
+Tue Aug 27 22:12:08 2019	Derp (STEAM_0:0:52504530): noice
+Tue Aug 27 22:12:45 2019	bobbicus has a wonderful voice (STEAM_0:1:179345279): is the anticheat just the checks for lua being ran or does it have other things
+Tue Aug 27 22:12:55 2019	bobbicus has a wonderful voice (STEAM_0:1:179345279): you said like 20 people got banned from just "invalid lua executed"
+Tue Aug 27 22:13:14 2019	Derp (STEAM_0:0:52504530): i mean thats probably just the message it outputs but im sure its doing a lot of things
+Tue Aug 27 22:13:22 2019	Derp (STEAM_0:0:52504530): i could change the message if i wanted to i think
+Tue Aug 27 22:14:01 2019	bobbicus has a wonderful voice (STEAM_0:1:179345279): how big is the anticheat script?
+Tue Aug 27 22:14:11 2019	Derp (STEAM_0:0:52504530): i have no clue let me check it out and ill let u know
+Tue Aug 27 22:18:06 2019	Derp (STEAM_0:0:52504530): ok so uh i cant seem to find the anti cheat
+Tue Aug 27 22:18:15 2019	bobbicus has a wonderful voice (STEAM_0:1:179345279): /shrug
+Tue Aug 27 22:18:17 2019	bobbicus has a wonderful voice (STEAM_0:1:179345279): doesnt matter
+Tue Aug 27 22:18:42 2019	Derp (STEAM_0:0:52504530): i found one of them tho
+Tue Aug 27 22:18:45 2019	Derp (STEAM_0:0:52504530): we have like 2 or 3
+Tue Aug 27 22:18:55 2019	bobbicus has a wonderful voice (STEAM_0:1:179345279): which ones do you have
+Tue Aug 27 22:19:02 2019	Derp (STEAM_0:0:52504530): the one i found is called modern anti cheat
+Tue Aug 27 22:19:11 2019	bobbicus has a wonderful voice (STEAM_0:1:179345279): oh lol
+Tue Aug 27 22:19:18 2019	Derp (STEAM_0:0:52504530): but i know there is another one that he made
+Tue Aug 27 22:19:22 2019	Derp (STEAM_0:0:52504530): but i have no idea what its called
+Tue Aug 27 22:20:32 2019	Derp (STEAM_0:0:52504530): is that a dupe?
+Tue Aug 27 22:20:46 2019	bobbicus has a wonderful voice (STEAM_0:1:179345279): yes sir
+Tue Aug 27 22:20:52 2019	Derp (STEAM_0:0:52504530): what is the combine error made out of
+Tue Aug 27 22:20:54 2019	Derp (STEAM_0:0:52504530): is that like rope
+Tue Aug 27 22:20:57 2019	bobbicus has a wonderful voice (STEAM_0:1:179345279): mhm
+Tue Aug 27 22:21:14 2019	bobbicus has a wonderful voice (STEAM_0:1:179345279): i made 2 of them man
+Tue Aug 27 22:21:30 2019	Derp (STEAM_0:0:52504530): uh
+Tue Aug 27 22:21:39 2019	bobbicus has a wonderful voice (STEAM_0:1:179345279): that one is just extendable
+Tue Aug 27 22:22:04 2019	bobbicus has a wonderful voice (STEAM_0:1:179345279) disconnected
+Tue Aug 27 22:24:05 2019	AK Brother K (STEAM_0:0:6415518) has joined the game
+Tue Aug 27 22:24:05 2019	AK Brother K (STEAM_0:0:6415518) spawned
+Tue Aug 27 22:24:46 2019	Derp (STEAM_0:0:52504530): hi
+Tue Aug 27 22:27:46 2019	Derp (STEAM_0:0:52504530): is this your first time playing darkrp?
+Tue Aug 27 22:28:01 2019	Derp (STEAM_0:0:52504530): press Y to type
+Tue Aug 27 22:28:07 2019	AK Brother K (STEAM_0:0:6415518): oh
+Tue Aug 27 22:28:50 2019	DrDerpenstein sups.gg (STEAM_0:0:13562763) has joined the game
+Tue Aug 27 22:28:50 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Tue Aug 27 22:29:28 2019	Derp (STEAM_0:0:52504530): hes really new
+Tue Aug 27 22:29:30 2019	Derp (STEAM_0:0:52504530): he didnt even know how to type
+Tue Aug 27 22:29:41 2019	Derp (STEAM_0:0:52504530): he didnt even know how to type
+Tue Aug 27 22:29:46 2019	Derp (STEAM_0:0:52504530): he didnt even know how to type
+Tue Aug 27 22:29:46 2019	Derp (STEAM_0:0:52504530): he didnt even know how to type
+Tue Aug 27 22:29:47 2019	Derp (STEAM_0:0:52504530): he didnt even know how to type
+Tue Aug 27 22:29:56 2019	Derp (STEAM_0:0:52504530): that is fucking insane
+Tue Aug 27 22:30:34 2019	AK Brother K (STEAM_0:0:6415518): im in the sewer
+Tue Aug 27 22:30:41 2019	Derp (STEAM_0:0:52504530): if i had a dollar for every tear thats hit the ground since i started this server i would be richer than jeff bezos
+Tue Aug 27 22:30:46 2019	AK Brother K (STEAM_0:0:6415518): hiding
+Tue Aug 27 22:31:31 2019	Derp (STEAM_0:0:52504530): i think we need to finish up with the cars and vending machines and we should be good to go
+Tue Aug 27 22:31:43 2019	Derp (STEAM_0:0:52504530): sure
+Tue Aug 27 22:31:48 2019	Derp (STEAM_0:0:52504530): no one even cares anyways
+Tue Aug 27 22:31:54 2019	Derp (STEAM_0:0:52504530): i doubt anyone is even gonna realize that someone has one or not
+Tue Aug 27 22:31:58 2019	AK Brother K (STEAM_0:0:6415518) disconnected
+Tue Aug 27 22:32:24 2019	Derp (STEAM_0:0:52504530): well we dont even have 7 people on at a time so
+Tue Aug 27 22:32:57 2019	Derp (STEAM_0:0:52504530): we really need to fucking get TDM out of here
+Tue Aug 27 22:33:07 2019	Derp (STEAM_0:0:52504530): that shit is too damn big and every server has TDM
+Tue Aug 27 22:33:10 2019	Derp (STEAM_0:0:52504530): too generic
+Tue Aug 27 22:33:16 2019	Derp (STEAM_0:0:52504530): i dont think we have
+Tue Aug 27 22:33:21 2019	Derp (STEAM_0:0:52504530): anyways VCMOD doesnt work for me right now so
+Tue Aug 27 22:33:32 2019	Derp (STEAM_0:0:52504530): yeah thats what happens when u have DRM 
+Tue Aug 27 22:33:36 2019	Derp (STEAM_0:0:52504530): sometimes it fails to load
+Tue Aug 27 22:33:43 2019	Derp (STEAM_0:0:52504530): dude bert has joined like 4 times
+Tue Aug 27 22:33:45 2019	Derp (STEAM_0:0:52504530): he keeps crashing
+Tue Aug 27 22:34:04 2019	Derp (STEAM_0:0:52504530): first time he crashed he said it was windows media player
+Tue Aug 27 22:34:04 2019	Derp (STEAM_0:0:52504530): lol
+Tue Aug 27 22:34:12 2019	Derp (STEAM_0:0:52504530): i dont know man
+Tue Aug 27 22:36:03 2019	Derp (STEAM_0:0:52504530): im doing it just in case someone finds a way to use them anyways
+Tue Aug 27 22:36:12 2019	bert simson (STEAM_0:1:179345279) has joined the game
+Tue Aug 27 22:36:12 2019	bobbicus has a wonderful voice (STEAM_0:1:179345279) spawned
+Tue Aug 27 22:36:26 2019	Derp (STEAM_0:0:52504530): its always confusing when bert joins because his name is different in game
+Tue Aug 27 22:36:35 2019	Derp (STEAM_0:0:52504530): oh my god
+Tue Aug 27 22:36:37 2019	Derp (STEAM_0:0:52504530): my fucking body
+Tue Aug 27 22:36:55 2019	Derp (STEAM_0:0:52504530): ah yes ive always wanted to become a piece of wood
+Tue Aug 27 22:37:16 2019	bobbicus has a wonderful voice (STEAM_0:1:179345279): hmm
+Tue Aug 27 22:37:36 2019	Derp (STEAM_0:0:52504530): wat
+Tue Aug 27 22:37:38 2019	bobbicus has a wonderful voice (STEAM_0:1:179345279): do !menu then ban tab i think
+Tue Aug 27 22:37:39 2019	Derp (STEAM_0:0:52504530): repeat that again
+Tue Aug 27 22:37:40 2019	bobbicus has a wonderful voice (STEAM_0:1:179345279): maybe?
+Tue Aug 27 22:37:56 2019	Derp (STEAM_0:0:52504530): who did the admin ban
+Tue Aug 27 22:38:01 2019	DrDerpenstein (STEAM_0:0:13562763): !menu
+Tue Aug 27 22:38:34 2019	Derp (STEAM_0:0:52504530): i think its cuz ur SA
+Tue Aug 27 22:38:35 2019	bobbicus has a wonderful voice (STEAM_0:1:179345279): it should be near the settings tab at the top
+Tue Aug 27 22:38:40 2019	bobbicus has a wonderful voice (STEAM_0:1:179345279): idk if its still a thing
+Tue Aug 27 22:38:48 2019	bobbicus has a wonderful voice (STEAM_0:1:179345279): can he see it?
+Tue Aug 27 22:38:54 2019	Derp (STEAM_0:0:52504530): i believe right now its an owner only thing
+Tue Aug 27 22:39:02 2019	Derp (STEAM_0:0:52504530): ill change it
+Tue Aug 27 22:39:14 2019	Derp (STEAM_0:0:52504530): there
+Tue Aug 27 22:39:29 2019	bobbicus has a wonderful voice (STEAM_0:1:179345279): im crashing again
+Tue Aug 27 22:39:32 2019	bobbicus has a wonderful voice (STEAM_0:1:179345279): nevermind
+Tue Aug 27 22:39:38 2019	Derp (STEAM_0:0:52504530): why do u keep crashing
+Tue Aug 27 22:39:45 2019	bobbicus has a wonderful voice (STEAM_0:1:179345279): I dont know!
+Tue Aug 27 22:39:56 2019	Derp (STEAM_0:0:52504530): its probably because of all of ur hacks
+Tue Aug 27 22:39:59 2019	Derp (STEAM_0:0:52504530): lol
+Tue Aug 27 22:40:13 2019	DrDerpenstein (STEAM_0:0:13562763): !menu
+Tue Aug 27 22:40:26 2019	bobbicus has a wonderful voice (STEAM_0:1:179345279): dude the code that banned me yesterday was just the clientside simplethirdperson code
+Tue Aug 27 22:40:33 2019	bobbicus has a wonderful voice (STEAM_0:1:179345279): i had it in autorun
+Tue Aug 27 22:40:59 2019	bobbicus has a wonderful voice (STEAM_0:1:179345279): i had no detours for it either at the time
+Tue Aug 27 22:41:05 2019	Derp (STEAM_0:0:52504530): u had a thirdperson command in autorun for ur game?
+Tue Aug 27 22:41:05 2019	bobbicus has a wonderful voice (STEAM_0:1:179345279): and i just disabled it entirely 
+Tue Aug 27 22:41:39 2019	DrDerpenstein (STEAM_0:0:13562763): !menu
+Tue Aug 27 22:41:45 2019	Derp (STEAM_0:0:52504530): i only did that once and it was with poor bert here
+Tue Aug 27 22:41:47 2019	bobbicus has a wonderful voice (STEAM_0:1:179345279): i think my ban message was more professional
+Tue Aug 27 22:42:17 2019	Derp (STEAM_0:0:52504530): hes gay which makes it funny to me
+Tue Aug 27 22:42:22 2019	Derp (STEAM_0:0:52504530): yes
+Tue Aug 27 22:42:57 2019	DrDerpenstein (STEAM_0:0:13562763): !menu
+Tue Aug 27 22:43:23 2019	Derp (STEAM_0:0:52504530): i can change people's groups
+Tue Aug 27 22:43:49 2019	bobbicus has a wonderful voice (STEAM_0:1:179345279): oh and derp i never bought cheats smh
+Tue Aug 27 22:44:12 2019	Derp (STEAM_0:0:52504530): dont unban the people with Steam IDS
+Tue Aug 27 22:44:23 2019	Derp (STEAM_0:0:52504530): most of those are people who were absolutely trying to fucking break every rule in existence with no regret
+Tue Aug 27 22:44:38 2019	Derp (STEAM_0:0:52504530): the reason we used their ids was because they tried leaving to escape punishment
+Tue Aug 27 22:45:17 2019	Derp (STEAM_0:0:52504530): wtf are these 2 bans
+Tue Aug 27 22:45:21 2019	Derp (STEAM_0:0:52504530): Server Precaution
+Tue Aug 27 22:45:40 2019	Derp (STEAM_0:0:52504530): i think those were 2 guys that came on and we like using basic mods
+Tue Aug 27 22:45:50 2019	Derp (STEAM_0:0:52504530): were*
+Tue Aug 27 22:46:02 2019	bobbicus has a wonderful voice (STEAM_0:1:179345279) spawned
+Tue Aug 27 22:46:06 2019	Derp (STEAM_0:0:52504530): i mean i guess
+Tue Aug 27 22:46:19 2019	Derp (STEAM_0:0:52504530): lets just change all weird bans to 1 week
+Tue Aug 27 22:46:43 2019	Derp (STEAM_0:0:52504530) spawned
+Tue Aug 27 22:46:45 2019	bobbicus has a wonderful voice (STEAM_0:1:179345279): drderp
+Tue Aug 27 22:46:49 2019	bobbicus has a wonderful voice (STEAM_0:1:179345279): wanna see my moonwalking abilities
+Tue Aug 27 22:47:24 2019	Derp (STEAM_0:0:52504530): is that ur moonwalk
+Tue Aug 27 22:47:35 2019	bobbicus has a wonderful voice (STEAM_0:1:179345279): big moonwalk
+Tue Aug 27 22:47:40 2019	Derp (STEAM_0:0:52504530): big boi walk
+Tue Aug 27 22:47:51 2019	bobbicus has a wonderful voice (STEAM_0:1:179345279): Is it faster?
+Tue Aug 27 22:47:58 2019	Derp (STEAM_0:0:52504530): is what faster?
+Tue Aug 27 22:48:00 2019	Derp (STEAM_0:0:52504530): ur moonwalk?
+Tue Aug 27 22:48:03 2019	bobbicus has a wonderful voice (STEAM_0:1:179345279): than normal walking yeah
+Tue Aug 27 22:49:19 2019	Derp (STEAM_0:0:52504530): his steam name is Sukebena-Chan
+Tue Aug 27 22:49:26 2019	Derp (STEAM_0:0:52504530): hes like a fucking gay weeb
+Tue Aug 27 22:50:14 2019	Derp (STEAM_0:0:52504530): the people he banned deserved to be banned but i think all of his bans were permabans
+Tue Aug 27 22:50:42 2019	Derp (STEAM_0:0:52504530): trust me if i banned someone they definitely deserved it
+Tue Aug 27 22:50:45 2019	Derp (STEAM_0:0:52504530): i give people a lot of chances
+Tue Aug 27 22:51:06 2019	bobbicus has a wonderful voice (STEAM_0:1:179345279): derp
+Tue Aug 27 22:51:08 2019	bobbicus has a wonderful voice (STEAM_0:1:179345279): come over here
+Tue Aug 27 22:51:09 2019	bobbicus has a wonderful voice (STEAM_0:1:179345279): OH
+Tue Aug 27 22:51:11 2019	bobbicus has a wonderful voice (STEAM_0:1:179345279): OKAY 
+Tue Aug 27 22:51:36 2019	bobbicus has a wonderful voice (STEAM_0:1:179345279): /y what does my spray look like
+Tue Aug 27 22:51:40 2019	DrDerpenstein (STEAM_0:0:13562763): !menu
+Tue Aug 27 22:51:44 2019	Derp (STEAM_0:0:52504530): i dont see anything
+Tue Aug 27 22:51:58 2019	Derp (STEAM_0:0:52504530): oh
+Tue Aug 27 22:52:01 2019	Derp (STEAM_0:0:52504530): zombie dog
+Tue Aug 27 22:52:05 2019	bobbicus has a wonderful voice (STEAM_0:1:179345279): now back up
+Tue Aug 27 22:52:16 2019	Derp (STEAM_0:0:52504530): oh
+Tue Aug 27 22:52:22 2019	Derp (STEAM_0:0:52504530): how the hell
+Tue Aug 27 22:52:31 2019	bobbicus has a wonderful voice (STEAM_0:1:179345279): thats a big r_cleardecals moment
+Tue Aug 27 22:52:51 2019	Derp (STEAM_0:0:52504530): i mean shit i aint complaining if u know what i mean
+Tue Aug 27 22:52:51 2019	bobbicus has a wonderful voice (STEAM_0:1:179345279): HOW
+Tue Aug 27 22:53:04 2019	Derp (STEAM_0:0:52504530): seriously tho how did u do that
+Tue Aug 27 22:53:08 2019	bobbicus has a wonderful voice (STEAM_0:1:179345279): right dude me neither people were mad on ttt about that
+Tue Aug 27 22:53:23 2019	Derp (STEAM_0:0:52504530): show me ur ways
+Tue Aug 27 22:53:31 2019	bobbicus has a wonderful voice (STEAM_0:1:179345279): its just a spray 4head
+Tue Aug 27 22:53:38 2019	Derp (STEAM_0:0:52504530): yeah but thats not a normal spray
+Tue Aug 27 22:53:42 2019	bobbicus has a wonderful voice (STEAM_0:1:179345279): yeah sure it is
+Tue Aug 27 22:53:53 2019	Derp (STEAM_0:0:52504530): is it a gif or something or a straight up png/jpg
+Tue Aug 27 22:54:04 2019	bobbicus has a wonderful voice (STEAM_0:1:179345279): vtf
+Tue Aug 27 22:54:09 2019	Derp (STEAM_0:0:52504530): ah
+Tue Aug 27 22:54:23 2019	Derp (STEAM_0:0:52504530): look at this shit man
+Tue Aug 27 22:54:37 2019	Derp (STEAM_0:0:52504530): back up now
+Tue Aug 27 22:54:52 2019	Derp (STEAM_0:0:52504530): i fucking triple approve
+Tue Aug 27 22:55:16 2019	bobbicus has a wonderful voice (STEAM_0:1:179345279): /y it was meant for a jailbreak server
+Tue Aug 27 22:55:21 2019	bobbicus has a wonderful voice (STEAM_0:1:179345279): a while ago
+Tue Aug 27 22:55:34 2019	Derp (STEAM_0:0:52504530): just wish the girl had a more pretty looking face rn she looks like she wants to stab me
+Tue Aug 27 22:56:04 2019	bobbicus has a wonderful voice (STEAM_0:1:179345279): didnt spend much time looking for some content dude got the first thing i found
+Tue Aug 27 22:56:10 2019	bobbicus has a wonderful voice (STEAM_0:1:179345279): i didnt want to load it up in photoshop and resize it
+Tue Aug 27 22:56:41 2019	Derp (STEAM_0:0:52504530): thats kinda creepy lmao
+Tue Aug 27 22:56:52 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Tue Aug 27 22:56:53 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Tue Aug 27 22:56:53 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Tue Aug 27 22:56:53 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Tue Aug 27 22:56:53 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Tue Aug 27 22:56:55 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_pistol_large
+Tue Aug 27 22:56:55 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_pistol_large
+Tue Aug 27 22:56:55 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_pistol_large
+Tue Aug 27 22:56:55 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_pistol_large
+Tue Aug 27 22:56:56 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_smg1_large
+Tue Aug 27 22:56:56 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_smg1_large
+Tue Aug 27 22:56:56 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_smg1_large
+Tue Aug 27 22:56:56 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_smg1_large
+Tue Aug 27 22:56:56 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_smg1_large
+Tue Aug 27 22:56:57 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_smg1_large
+Tue Aug 27 22:56:58 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_357_large
+Tue Aug 27 22:56:58 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_357_large
+Tue Aug 27 22:56:58 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_357_large
+Tue Aug 27 22:56:59 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_box_buckshot
+Tue Aug 27 22:56:59 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_box_buckshot
+Tue Aug 27 22:57:00 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_crossbow
+Tue Aug 27 22:57:00 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_crossbow
+Tue Aug 27 22:57:00 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_rpg_round
+Tue Aug 27 22:57:00 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_rpg_round
+Tue Aug 27 22:57:00 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_rpg_round
+Tue Aug 27 22:57:01 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_smg1_grenade
+Tue Aug 27 22:57:01 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_smg1_grenade
+Tue Aug 27 22:57:01 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_smg1_grenade
+Tue Aug 27 22:57:02 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_altfire
+Tue Aug 27 22:57:02 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_altfire
+Tue Aug 27 22:57:02 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_altfire
+Tue Aug 27 22:57:02 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Tue Aug 27 22:57:02 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Tue Aug 27 22:57:03 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Tue Aug 27 22:57:03 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Tue Aug 27 22:57:03 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Tue Aug 27 22:57:03 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Tue Aug 27 22:57:05 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Tue Aug 27 22:57:09 2019	bobbicus has a wonderful voice (STEAM_0:1:179345279): // I MCRASHING
+Tue Aug 27 22:57:12 2019	bobbicus has a wonderful voice (STEAM_0:1:179345279): // nvm
+Tue Aug 27 22:57:26 2019	Derp was killed by DrDerpenstein with a cw_makarov
+Tue Aug 27 22:57:29 2019	Derp (STEAM_0:0:52504530) spawned
+Tue Aug 27 22:57:30 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_healthkit
+Tue Aug 27 22:57:30 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Tue Aug 27 22:57:31 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Tue Aug 27 22:57:31 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Tue Aug 27 22:57:31 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Tue Aug 27 22:57:31 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Tue Aug 27 22:57:31 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Tue Aug 27 22:57:34 2019	Derp (STEAM_0:0:52504530): that gun tickles people
+Tue Aug 27 22:57:43 2019	Derp (STEAM_0:0:52504530): well i had like 20 health
+Tue Aug 27 22:57:46 2019	bobbicus has a wonderful voice (STEAM_0:1:179345279): wait fly to the other side of the map right there
+Tue Aug 27 22:58:04 2019	bobbicus has a wonderful voice (STEAM_0:1:179345279): // i meant so I can still see you but far away
+Tue Aug 27 22:58:15 2019	DrDerpenstein (STEAM_0:0:13562763): // what about it
+Tue Aug 27 22:58:19 2019	DrDerpenstein (STEAM_0:0:13562763): // its the naked chick
+Tue Aug 27 22:58:25 2019	bobbicus has a wonderful voice (STEAM_0:1:179345279): // oh
+Tue Aug 27 22:58:27 2019	bobbicus has a wonderful voice (STEAM_0:1:179345279): // its clientside then
+Tue Aug 27 22:58:33 2019	bobbicus has a wonderful voice was killed by DrDerpenstein with a cw_mp5
+Tue Aug 27 22:58:34 2019	bobbicus has a wonderful voice (STEAM_0:1:179345279) spawned
+Tue Aug 27 22:58:39 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Tue Aug 27 22:58:40 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Tue Aug 27 22:58:40 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Tue Aug 27 22:58:40 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Tue Aug 27 22:58:40 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Tue Aug 27 22:58:41 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_healthkit
+Tue Aug 27 22:58:41 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_healthkit
+Tue Aug 27 22:58:41 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_healthkit
+Tue Aug 27 22:58:41 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_healthkit
+Tue Aug 27 22:58:41 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_healthkit
+Tue Aug 27 22:58:41 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_healthkit
+Tue Aug 27 22:58:45 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Tue Aug 27 22:58:45 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Tue Aug 27 22:59:17 2019	bobbicus has a wonderful voice (STEAM_0:1:179345279): // well im off
+Tue Aug 27 22:59:21 2019	DrDerpenstein (STEAM_0:0:13562763): // c ya
+Tue Aug 27 22:59:22 2019	bobbicus has a wonderful voice (STEAM_0:1:179345279) disconnected
+Tue Aug 27 22:59:37 2019	Derp (STEAM_0:0:52504530): i gotta get off too lmao
+Tue Aug 27 22:59:49 2019	Derp (STEAM_0:0:52504530): oh yeah ur still a staff guy
+Tue Aug 27 23:00:14 2019	Derp (STEAM_0:0:52504530): tomorrow im getting rid of VCMOD and TDM
+Tue Aug 27 23:00:17 2019	Derp (STEAM_0:0:52504530): i dont want it
+Tue Aug 27 23:00:32 2019	Derp (STEAM_0:0:52504530): ill get other vehicles and stuff
+Tue Aug 27 23:00:34 2019	Derp (STEAM_0:0:52504530): so dont worry
+Tue Aug 27 23:00:45 2019	Derp (STEAM_0:0:52504530): i just dont want to have a generic ass server
+Tue Aug 27 23:00:48 2019	Derp (STEAM_0:0:52504530): especially with this fucking map
+Tue Aug 27 23:01:02 2019	Derp (STEAM_0:0:52504530): aight sounds good
+Tue Aug 27 23:01:13 2019	Derp (STEAM_0:0:52504530): let me know what happens with prometheus
+Tue Aug 27 23:01:49 2019	Derp (STEAM_0:0:52504530): cool ill talk to u tomorrow
+Tue Aug 27 23:01:57 2019	Derp (STEAM_0:0:52504530): have a goodnight brother
+Tue Aug 27 23:02:06 2019	DrDerpenstein (STEAM_0:0:13562763) disconnected
+Tue Aug 27 23:02:13 2019	Derp (STEAM_0:0:52504530) disconnected
+Wed Aug 28 18:49:22 2019	theresamaston (STEAM_0:1:442389183) has joined the game
+Wed Aug 28 18:49:22 2019	CJC (STEAM_0:1:442389183) spawned
+Wed Aug 28 18:51:09 2019	CJC (STEAM_0:1:442389183) spawned
+Wed Aug 28 18:51:24 2019	CJC (STEAM_0:1:442389183) spawned
+Wed Aug 28 18:52:14 2019	CJC (STEAM_0:1:442389183): /invholster
+Wed Aug 28 18:56:51 2019	CJC (STEAM_0:1:442389183): /invholster
+Wed Aug 28 18:57:01 2019	CJC (STEAM_0:1:442389183) disconnected
+Wed Aug 28 18:58:45 2019	theresamaston (STEAM_0:1:442389183) has joined the game
+Wed Aug 28 18:58:45 2019	CJC (STEAM_0:1:442389183) spawned
+Wed Aug 28 18:59:22 2019	CJC (STEAM_0:1:442389183) spawned
+Wed Aug 28 19:01:41 2019	CJC (STEAM_0:1:442389183) spawned
+Wed Aug 28 19:07:24 2019	CJC (STEAM_0:1:442389183): /invholster
+Wed Aug 28 19:12:25 2019	CJC (STEAM_0:1:442389183): /invholster
+Wed Aug 28 19:17:00 2019	CJC (STEAM_0:1:442389183):  
+Wed Aug 28 19:41:55 2019	CJC (STEAM_0:1:442389183): /invholster
+Wed Aug 28 19:41:57 2019	CJC was killed by Himself with a suicide trick
+Wed Aug 28 19:41:58 2019	CJC (STEAM_0:1:442389183) spawned
+Wed Aug 28 19:58:03 2019	CJC (STEAM_0:1:442389183) disconnected
+Wed Aug 28 20:45:47 2019	ebony (STEAM_0:1:51588261) has joined the game
+Wed Aug 28 20:45:47 2019	ebony (STEAM_0:1:51588261) spawned
+Wed Aug 28 20:47:17 2019	ebony (STEAM_0:1:51588261) spawned
+Wed Aug 28 20:48:18 2019	ebony (STEAM_0:1:51588261) disconnected

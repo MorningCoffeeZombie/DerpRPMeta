@@ -1,0 +1,994 @@
+<Logging continued from "data/ulx_logs/09-11-19.txt">
+[00:11:45] Dropped "Bexgasm~" from server<STEAM_0:1:63382511>
+[18:53:01] Client "Derp" connected.
+[18:53:54] Client "Derp" spawned in server <STEAM_0:0:52504530> (took 53 seconds).
+[18:54:15] Derp<STEAM_0:0:52504530> spawned model models/props_borealis/bluebarrel001.mdl
+[18:54:16] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[18:54:17] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[18:54:18] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[18:54:19] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[18:54:21] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[18:54:22] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[18:54:35] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[18:54:36] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[18:54:36] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[18:54:36] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[18:54:36] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[18:54:37] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[18:54:37] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[18:54:37] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[18:54:37] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[18:54:37] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[18:54:37] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[18:54:37] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[18:54:37] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[18:54:43] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[18:54:43] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[18:54:44] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[18:54:45] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[18:55:28] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[18:55:30] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[18:57:00] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[18:57:06] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[18:57:08] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[18:57:16] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[18:57:22] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[18:57:37] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[18:57:39] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[18:57:40] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[18:57:52] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[18:58:04] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[18:58:12] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[18:58:22] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[18:58:34] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[18:58:47] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[18:59:02] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[18:59:03] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[18:59:04] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[18:59:15] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[18:59:34] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[18:59:37] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[18:59:43] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[18:59:44] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[18:59:46] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[18:59:49] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[19:00:09] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[19:00:20] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[19:00:23] Derp<STEAM_0:0:52504530> used the tool material on maps/rp_downtown_tits_v2.bsp
+[19:00:23] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[19:00:25] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[19:00:27] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[19:00:28] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[19:00:36] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[19:00:49] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[19:01:01] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[19:01:14] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[19:01:26] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[19:01:36] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[19:01:59] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[19:02:00] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[19:02:02] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[19:02:07] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[19:02:26] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[19:02:27] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[19:02:28] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[19:02:28] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[19:02:29] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[19:02:34] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[19:02:44] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[19:02:46] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[19:03:02] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[19:03:06] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[19:03:07] Client "DevL" connected.
+[19:03:09] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[19:03:12] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[19:03:13] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[19:03:14] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[19:03:16] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[19:03:18] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[19:03:29] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[19:03:46] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[19:03:49] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[19:03:55] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[19:04:05] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[19:04:06] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[19:04:06] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[19:04:07] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[19:04:09] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[19:04:19] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[19:04:20] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[19:04:22] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[19:04:24] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[19:04:28] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[19:04:34] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[19:04:36] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[19:04:37] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[19:04:37] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[19:04:40] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[19:04:41] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[19:04:47] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[19:04:49] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[19:06:18] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[19:06:22] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[19:06:24] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[19:06:25] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[19:06:32] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[19:06:35] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[19:06:36] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[19:06:37] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[19:06:39] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[19:06:46] Client "DevL" spawned in server <STEAM_0:0:97157625> (took 219 seconds).
+[19:07:27] Derp: hello
+[19:07:40] DevL suicided!
+[19:07:43] Derp suicided!
+[19:07:58] Derp: ik
+[19:08:01] Derp: i have a task for u
+[19:08:03] Derp: if u dont mind
+[19:08:07] Derp: its fucking tedious
+[19:08:25] Derp: can u spawn a single prop and test out the materials and copy to clipboard every material that can be seen through
+[19:08:35] Derp: put it in a text file
+[19:08:37] Derp: and then send it to me
+[19:08:39] Derp: when ur done
+[19:08:47] Derp: idk 
+[19:08:56] Derp: both ways i suppose
+[19:08:59] Derp: one ways should be fine
+[19:09:10] Derp: i think there are like 20 or so of these materials that i need u to copy
+[19:09:28] Derp: if u dont wanna do it thats fine just msg me on discord
+[19:09:34] Derp<STEAM_0:0:52504530> spawned model models/props_borealis/bluebarrel001.mdl
+[19:09:37] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[19:09:44] Derp: materials that u can see through like this
+[19:09:52] Derp: not one ways
+[19:09:58] Derp: // thanks man
+[19:10:04] DevL: // no prob
+[19:10:04] Derp: // ill be back on later in like 40 minutes
+[19:10:09] DevL: // k
+[19:10:12] Dropped "Derp" from server<STEAM_0:0:52504530>
+[19:10:15] DevL<STEAM_0:0:97157625> spawned model models/hunter/blocks/cube2x4x025.mdl
+[19:10:29] DevL<STEAM_0:0:97157625> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:10:32] DevL<STEAM_0:0:97157625> spawned model models/hunter/blocks/cube05x05x025.mdl
+[19:10:37] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x4x025.mdl
+[19:10:51] DevL<STEAM_0:0:97157625> used the tool precision on models/hunter/blocks/cube05x05x025.mdl
+[19:10:53] DevL<STEAM_0:0:97157625> used the tool precision on models/hunter/blocks/cube05x05x025.mdl
+[19:10:55] DevL<STEAM_0:0:97157625> used the tool precision on models/hunter/blocks/cube05x05x025.mdl
+[19:11:02] DevL<STEAM_0:0:97157625> used the tool precision on models/hunter/blocks/cube2x4x025.mdl
+[19:11:03] DevL<STEAM_0:0:97157625> used the tool precision on models/hunter/blocks/cube05x05x025.mdl
+[19:11:23] DevL<STEAM_0:0:97157625> used the tool stacker_improved on models/hunter/blocks/cube05x05x025.mdl
+[19:11:23] DevL<STEAM_0:0:97157625> spawned model models/hunter/blocks/cube05x05x025.mdl
+[19:11:28] DevL<STEAM_0:0:97157625> used the tool stacker_improved on models/hunter/blocks/cube05x05x025.mdl
+[19:11:28] DevL<STEAM_0:0:97157625> spawned model models/hunter/blocks/cube05x05x025.mdl
+[19:11:30] DevL<STEAM_0:0:97157625> used the tool stacker_improved on models/hunter/blocks/cube05x05x025.mdl
+[19:11:30] DevL<STEAM_0:0:97157625> spawned model models/hunter/blocks/cube05x05x025.mdl
+[19:11:31] DevL<STEAM_0:0:97157625> used the tool stacker_improved on models/hunter/blocks/cube05x05x025.mdl
+[19:11:31] DevL<STEAM_0:0:97157625> spawned model models/hunter/blocks/cube05x05x025.mdl
+[19:11:32] DevL<STEAM_0:0:97157625> used the tool stacker_improved on models/hunter/blocks/cube05x05x025.mdl
+[19:11:32] DevL<STEAM_0:0:97157625> spawned model models/hunter/blocks/cube05x05x025.mdl
+[19:11:44] DevL<STEAM_0:0:97157625> spawned model models/hunter/blocks/cube05x05x025.mdl
+[19:11:52] DevL<STEAM_0:0:97157625> used the tool precision on models/hunter/blocks/cube05x05x025.mdl
+[19:11:53] DevL<STEAM_0:0:97157625> used the tool precision on models/hunter/blocks/cube2x4x025.mdl
+[19:11:54] DevL<STEAM_0:0:97157625> used the tool precision on models/hunter/blocks/cube05x05x025.mdl
+[19:11:59] DevL<STEAM_0:0:97157625> used the tool stacker_improved on models/hunter/blocks/cube05x05x025.mdl
+[19:11:59] DevL<STEAM_0:0:97157625> spawned model models/hunter/blocks/cube05x05x025.mdl
+[19:12:00] DevL<STEAM_0:0:97157625> used the tool stacker_improved on models/hunter/blocks/cube05x05x025.mdl
+[19:12:00] DevL<STEAM_0:0:97157625> spawned model models/hunter/blocks/cube05x05x025.mdl
+[19:12:01] DevL<STEAM_0:0:97157625> used the tool stacker_improved on models/hunter/blocks/cube05x05x025.mdl
+[19:12:01] DevL<STEAM_0:0:97157625> spawned model models/hunter/blocks/cube05x05x025.mdl
+[19:12:01] DevL<STEAM_0:0:97157625> used the tool stacker_improved on models/hunter/blocks/cube05x05x025.mdl
+[19:12:01] DevL<STEAM_0:0:97157625> spawned model models/hunter/blocks/cube05x05x025.mdl
+[19:12:05] DevL<STEAM_0:0:97157625> used the tool precision on models/hunter/blocks/cube05x05x025.mdl
+[19:12:13] DevL<STEAM_0:0:97157625> used the tool precision on models/hunter/blocks/cube05x05x025.mdl
+[19:12:15] DevL<STEAM_0:0:97157625> used the tool precision on models/hunter/blocks/cube05x05x025.mdl
+[19:12:16] DevL<STEAM_0:0:97157625> used the tool precision on models/hunter/blocks/cube05x05x025.mdl
+[19:12:17] DevL<STEAM_0:0:97157625> used the tool precision on models/hunter/blocks/cube05x05x025.mdl
+[19:12:17] DevL<STEAM_0:0:97157625> used the tool precision on models/hunter/blocks/cube05x05x025.mdl
+[19:12:18] DevL<STEAM_0:0:97157625> used the tool precision on models/hunter/blocks/cube05x05x025.mdl
+[19:12:18] DevL<STEAM_0:0:97157625> used the tool precision on models/hunter/blocks/cube05x05x025.mdl
+[19:12:19] DevL<STEAM_0:0:97157625> used the tool precision on models/hunter/blocks/cube05x05x025.mdl
+[19:12:19] DevL<STEAM_0:0:97157625> used the tool precision on models/hunter/blocks/cube05x05x025.mdl
+[19:12:20] DevL<STEAM_0:0:97157625> used the tool precision on models/hunter/blocks/cube05x05x025.mdl
+[19:12:23] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube05x05x025.mdl
+[19:12:25] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube05x05x025.mdl
+[19:12:27] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube05x05x025.mdl
+[19:12:32] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube05x05x025.mdl
+[19:12:34] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x4x025.mdl
+[19:12:35] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x4x025.mdl
+[19:12:38] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube05x05x025.mdl
+[19:12:40] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube05x05x025.mdl
+[19:12:41] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube05x05x025.mdl
+[19:12:49] DevL<STEAM_0:0:97157625> spawned model models/hunter/blocks/cube2x2x2.mdl
+[19:12:58] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:13:00] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:13:01] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:13:11] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:13:20] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:13:33] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:13:39] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:13:42] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:13:46] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:13:53] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:13:53] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:14:02] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:14:14] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:14:21] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:14:30] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:14:33] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:14:44] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:14:50] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:14:57] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:15:05] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:15:16] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:15:24] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:15:31] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:15:32] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:15:35] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:15:39] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:15:41] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:15:54] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:16:04] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:16:06] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:16:07] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:16:08] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:16:14] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:16:16] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:16:22] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:16:23] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:16:24] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:16:31] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:16:36] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:16:44] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:16:51] Dropped "DevL" from server<STEAM_0:0:97157625>
+[19:16:57] Client "DevL" connected.
+[19:18:25] Client "DevL" spawned in server <STEAM_0:0:97157625> (took 88 seconds).
+[19:18:56] DevL<STEAM_0:0:97157625> spawned model models/hunter/blocks/cube2x2x2.mdl
+[19:19:13] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:19:20] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:19:24] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:19:32] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:19:33] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:19:34] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:19:35] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:19:37] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:19:38] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:19:39] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:19:40] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:19:41] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:19:43] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:19:43] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:19:44] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:19:46] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:19:47] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:19:59] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:20:00] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:20:02] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:20:03] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:20:04] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:20:05] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:20:06] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:20:07] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:20:08] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:20:09] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:20:15] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:21:13] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:21:14] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:21:15] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:21:23] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:21:28] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:21:31] Client "Doof" connected.
+[19:21:50] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:21:52] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:21:59] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:22:06] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:22:11] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:22:52] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:22:53] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:22:55] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:22:56] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:22:57] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:22:58] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:23:12] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:23:21] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:23:22] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:23:27] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:23:35] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:23:54] Client "Doof" spawned in server <STEAM_0:1:426762407> (took 143 seconds).
+[19:24:55] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:24:56] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:25:04] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:25:12] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:25:19] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:25:20] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:25:23] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:25:24] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:25:35] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:25:36] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:25:37] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:25:38] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:25:39] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:25:40] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:25:41] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:25:42] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:25:43] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:25:50] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:25:51] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:25:52] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:25:56] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:25:57] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:26:02] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:26:11] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:26:13] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:26:15] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:26:19] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube2x2x2.mdl
+[19:28:12] Dropped "Doof" from server<STEAM_0:1:426762407>
+[19:33:04] DevL<STEAM_0:0:97157625> spawned vehicle models/sligwolf/fcc/flying_crawler_car.mdl
+[19:35:06] DevL suicided!
+[19:36:32] DevL<STEAM_0:0:97157625> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[19:36:32] DevL<STEAM_0:0:97157625> spawned model models/hunter/plates/plate2x2.mdl
+[19:36:32] DevL<STEAM_0:0:97157625> spawned model models/hunter/plates/plate3x5.mdl
+[19:36:32] DevL<STEAM_0:0:97157625> spawned model models/hunter/plates/plate3x5.mdl
+[19:36:32] DevL<STEAM_0:0:97157625> spawned model models/props_phx/construct/metal_plate2x2.mdl
+[19:36:32] DevL<STEAM_0:0:97157625> spawned model models/hunter/plates/plate3x5.mdl
+[19:36:32] DevL<STEAM_0:0:97157625> spawned model models/props_wasteland/interior_fence001g.mdl
+[19:36:32] DevL<STEAM_0:0:97157625> spawned model models/hunter/plates/plate2x4.mdl
+[19:36:32] DevL<STEAM_0:0:97157625> spawned model models/hunter/plates/plate3x5.mdl
+[19:36:32] DevL<STEAM_0:0:97157625> spawned model models/hunter/plates/plate2x5.mdl
+[19:36:32] DevL<STEAM_0:0:97157625> spawned model models/hunter/plates/plate2x4.mdl
+[19:36:32] DevL<STEAM_0:0:97157625> spawned model models/hunter/plates/plate3x5.mdl
+[19:36:32] DevL<STEAM_0:0:97157625> spawned model models/hunter/plates/plate2x5.mdl
+[19:36:32] DevL<STEAM_0:0:97157625> spawned model models/hunter/plates/plate3x5.mdl
+[19:36:32] DevL<STEAM_0:0:97157625> spawned model models/hunter/plates/plate2x4.mdl
+[19:36:33] DevL<STEAM_0:0:97157625> spawned model models/hunter/plates/plate3x5.mdl
+[19:36:33] DevL<STEAM_0:0:97157625> spawned model models/hunter/plates/plate2x4.mdl
+[19:36:33] DevL<STEAM_0:0:97157625> spawned model models/hunter/plates/plate2x2.mdl
+[19:36:33] DevL<STEAM_0:0:97157625> spawned model models/props_phx/construct/metal_plate2x2.mdl
+[19:36:33] DevL<STEAM_0:0:97157625> spawned model models/hunter/plates/plate2x4.mdl
+[19:36:33] DevL<STEAM_0:0:97157625> spawned model models/hunter/plates/plate3x5.mdl
+[19:36:33] DevL<STEAM_0:0:97157625> spawned model models/hunter/plates/plate3x5.mdl
+[19:36:33] DevL<STEAM_0:0:97157625> spawned model models/hunter/plates/plate2x5.mdl
+[19:36:33] DevL<STEAM_0:0:97157625> spawned model models/props_wasteland/interior_fence002e.mdl
+[19:36:33] DevL<STEAM_0:0:97157625> spawned model models/props_wasteland/controlroom_desk001a.mdl
+[19:36:33] DevL<STEAM_0:0:97157625> spawned model models/hunter/plates/plate2x5.mdl
+[19:36:33] DevL<STEAM_0:0:97157625> spawned model models/props_wasteland/controlroom_desk001a.mdl
+[19:37:06] Client "Wescyde" connected.
+[19:38:18] DevL: /sell all doors
+[19:38:23] DevL: /sellalldoors
+[19:38:51] DevL<STEAM_0:0:97157625> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[19:38:51] DevL<STEAM_0:0:97157625> spawned model models/props_wasteland/kitchen_shelf001a.mdl
+[19:38:51] DevL<STEAM_0:0:97157625> spawned model models/props_wasteland/kitchen_shelf001a.mdl
+[19:38:51] DevL<STEAM_0:0:97157625> spawned model models/props_wasteland/kitchen_counter001d.mdl
+[19:38:51] DevL<STEAM_0:0:97157625> spawned model models/hunter/plates/plate1x1.mdl
+[19:38:51] DevL<STEAM_0:0:97157625> spawned model models/hunter/blocks/cube1x3x1.mdl
+[19:38:51] DevL<STEAM_0:0:97157625> spawned model models/hunter/blocks/cube1x3x1.mdl
+[19:38:51] DevL<STEAM_0:0:97157625> spawned model models/hunter/blocks/cube1x3x1.mdl
+[19:38:51] DevL<STEAM_0:0:97157625> spawned model models/hunter/plates/plate1x1.mdl
+[19:38:51] DevL<STEAM_0:0:97157625> spawned model models/hunter/blocks/cube1x6x1.mdl
+[19:38:51] DevL<STEAM_0:0:97157625> spawned model models/hunter/blocks/cube1x4x1.mdl
+[19:38:51] DevL<STEAM_0:0:97157625> spawned model models/hunter/blocks/cube1x2x1.mdl
+[19:38:51] DevL<STEAM_0:0:97157625> spawned model models/hunter/blocks/cube1x3x1.mdl
+[19:38:51] DevL<STEAM_0:0:97157625> spawned model models/hunter/plates/plate1x1.mdl
+[19:38:51] DevL<STEAM_0:0:97157625> spawned model models/hunter/triangles/1x05x1.mdl
+[19:38:51] DevL<STEAM_0:0:97157625> spawned model models/hunter/triangles/1x05x1.mdl
+[19:38:51] DevL<STEAM_0:0:97157625> spawned model models/props_c17/fence01b.mdl
+[19:38:51] DevL<STEAM_0:0:97157625> spawned model models/props_wasteland/controlroom_desk001a.mdl
+[19:38:51] DevL<STEAM_0:0:97157625> spawned model models/hunter/blocks/cube1x3x1.mdl
+[19:38:51] DevL<STEAM_0:0:97157625> spawned model models/props_wasteland/controlroom_desk001a.mdl
+[19:38:51] DevL<STEAM_0:0:97157625> spawned model models/hunter/blocks/cube1x4x1.mdl
+[19:38:51] DevL<STEAM_0:0:97157625> spawned model models/hunter/triangles/1x05x1.mdl
+[19:38:51] DevL<STEAM_0:0:97157625> spawned model models/hunter/blocks/cube1x2x1.mdl
+[19:38:51] DevL<STEAM_0:0:97157625> spawned model models/hunter/blocks/cube1x3x1.mdl
+[19:38:51] DevL<STEAM_0:0:97157625> spawned model models/hunter/blocks/cube1x6x1.mdl
+[19:38:51] DevL<STEAM_0:0:97157625> spawned model models/props_wasteland/kitchen_shelf001a.mdl
+[19:38:51] DevL<STEAM_0:0:97157625> spawned model models/hunter/blocks/cube1x3x1.mdl
+[19:38:51] DevL<STEAM_0:0:97157625> spawned model models/hunter/blocks/cube1x3x1.mdl
+[19:38:51] DevL<STEAM_0:0:97157625> spawned model models/props_wasteland/kitchen_shelf001a.mdl
+[19:38:51] DevL<STEAM_0:0:97157625> spawned model models/props_wasteland/kitchen_counter001d.mdl
+[19:38:51] DevL<STEAM_0:0:97157625> spawned model models/hunter/plates/plate05x1.mdl
+[19:38:51] DevL<STEAM_0:0:97157625> spawned model models/hunter/blocks/cube1x1x05.mdl
+[19:38:51] DevL<STEAM_0:0:97157625> spawned model models/props_wasteland/controlroom_desk001a.mdl
+[19:38:51] DevL<STEAM_0:0:97157625> spawned model models/hunter/blocks/cube1x1x1.mdl
+[19:38:51] DevL<STEAM_0:0:97157625> spawned model models/hunter/plates/plate2x4.mdl
+[19:38:51] DevL<STEAM_0:0:97157625> spawned model models/hunter/plates/plate1x1.mdl
+[19:38:51] DevL<STEAM_0:0:97157625> spawned model models/props_wasteland/kitchen_shelf001a.mdl
+[19:38:51] DevL<STEAM_0:0:97157625> spawned model models/hunter/blocks/cube1x1x1.mdl
+[19:38:51] DevL<STEAM_0:0:97157625> spawned model models/hunter/plates/plate05x1.mdl
+[19:38:51] DevL<STEAM_0:0:97157625> spawned model models/hunter/plates/plate1x1.mdl
+[19:38:51] DevL<STEAM_0:0:97157625> spawned model models/hunter/blocks/cube1x6x1.mdl
+[19:38:51] DevL<STEAM_0:0:97157625> spawned model models/hunter/blocks/cube1x1x1.mdl
+[19:38:51] DevL<STEAM_0:0:97157625> spawned model models/hunter/blocks/cube1x2x1.mdl
+[19:38:51] DevL<STEAM_0:0:97157625> spawned model models/hunter/blocks/cube1x3x1.mdl
+[19:38:51] DevL<STEAM_0:0:97157625> spawned model models/hunter/blocks/cube1x1x1.mdl
+[19:38:51] DevL<STEAM_0:0:97157625> spawned model models/props_wasteland/kitchen_shelf001a.mdl
+[19:38:51] DevL<STEAM_0:0:97157625> spawned model models/props_wasteland/controlroom_desk001a.mdl
+[19:38:51] DevL<STEAM_0:0:97157625> spawned model models/props_c17/fence01b.mdl
+[19:38:51] DevL<STEAM_0:0:97157625> spawned model models/props_wasteland/kitchen_counter001b.mdl
+[19:38:57] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube1x6x1.mdl
+[19:38:57] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube1x1x1.mdl
+[19:38:58] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube1x1x1.mdl
+[19:38:58] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube1x4x1.mdl
+[19:38:59] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube1x4x1.mdl
+[19:39:00] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube1x4x1.mdl
+[19:39:00] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube1x6x1.mdl
+[19:39:01] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube1x4x1.mdl
+[19:39:01] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube1x6x1.mdl
+[19:39:02] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/plates/plate1x1.mdl
+[19:39:03] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/plates/plate1x1.mdl
+[19:39:03] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/plates/plate1x1.mdl
+[19:39:03] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/plates/plate1x1.mdl
+[19:39:04] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/plates/plate05x1.mdl
+[19:39:05] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/plates/plate05x1.mdl
+[19:39:06] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/plates/plate1x1.mdl
+[19:39:06] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/plates/plate1x1.mdl
+[19:39:08] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/plates/plate1x1.mdl
+[19:39:11] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube1x2x1.mdl
+[19:39:12] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/plates/plate1x1.mdl
+[19:39:16] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube1x2x1.mdl
+[19:39:17] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube1x3x1.mdl
+[19:39:19] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube1x2x1.mdl
+[19:39:19] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube1x1x1.mdl
+[19:39:19] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube1x1x1.mdl
+[19:39:25] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube1x2x1.mdl
+[19:39:26] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube1x1x05.mdl
+[19:39:31] DevL<STEAM_0:0:97157625> used the tool colour on models/hunter/blocks/cube1x2x1.mdl
+[19:39:32] DevL<STEAM_0:0:97157625> used the tool colour on models/hunter/blocks/cube1x2x1.mdl
+[19:39:46] DevL<STEAM_0:0:97157625> used the tool colour on models/hunter/blocks/cube1x3x1.mdl
+[19:39:48] DevL<STEAM_0:0:97157625> used the tool colour on models/hunter/blocks/cube1x1x1.mdl
+[19:39:48] DevL<STEAM_0:0:97157625> used the tool colour on models/hunter/blocks/cube1x1x1.mdl
+[19:39:54] DevL<STEAM_0:0:97157625> used the tool keypad_willox on models/hunter/blocks/cube1x1x1.mdl
+[19:39:56] DevL<STEAM_0:0:97157625> used the tool keypad_willox on models/hunter/blocks/cube1x1x1.mdl
+[19:40:02] DevL<STEAM_0:0:97157625> used the tool colour on models/hunter/blocks/cube1x2x1.mdl
+[19:40:02] DevL<STEAM_0:0:97157625> used the tool colour on models/hunter/blocks/cube1x1x1.mdl
+[19:40:03] DevL<STEAM_0:0:97157625> used the tool colour on models/hunter/blocks/cube1x1x1.mdl
+[19:40:04] DevL<STEAM_0:0:97157625> used the tool colour on models/hunter/blocks/cube1x3x1.mdl
+[19:40:08] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/plates/plate2x4.mdl
+[19:40:09] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube1x3x1.mdl
+[19:40:09] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/plates/plate2x4.mdl
+[19:40:50] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube1x6x1.mdl
+[19:40:51] DevL<STEAM_0:0:97157625> used the tool material on models/props_c17/fence01b.mdl
+[19:40:53] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube1x3x1.mdl
+[19:40:53] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube1x3x1.mdl
+[19:40:54] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube1x3x1.mdl
+[19:40:54] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube1x3x1.mdl
+[19:40:54] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube1x3x1.mdl
+[19:40:55] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube1x3x1.mdl
+[19:40:55] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube1x3x1.mdl
+[19:40:56] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube1x3x1.mdl
+[19:40:56] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube1x3x1.mdl
+[19:41:08] Client "Derp" connected.
+[19:41:36] DevL<STEAM_0:0:97157625> used the tool material on models/props_c17/fence01b.mdl
+[19:41:39] DevL<STEAM_0:0:97157625> used the tool material on models/props_c17/fence01b.mdl
+[19:41:40] DevL<STEAM_0:0:97157625> used the tool material on models/props_c17/fence01b.mdl
+[19:41:42] DevL<STEAM_0:0:97157625> used the tool material on models/props_c17/fence01b.mdl
+[19:41:56] Client "Derp" spawned in server <STEAM_0:0:52504530> (took 48 seconds).
+[19:42:03] Client "Wescyde" spawned in server <STEAM_0:0:29310582> (took 297 seconds).
+[19:42:04] DevL<STEAM_0:0:97157625> used the tool material on models/props_c17/fence01b.mdl
+[19:42:06] DevL<STEAM_0:0:97157625> used the tool material on models/props_c17/fence01b.mdl
+[19:42:11] DevL<STEAM_0:0:97157625> used the tool material on models/props_c17/fence01b.mdl
+[19:42:12] DevL<STEAM_0:0:97157625> used the tool material on models/props_c17/fence01b.mdl
+[19:42:19] DevL<STEAM_0:0:97157625> used the tool material on models/props_c17/fence01b.mdl
+[19:42:20] DevL<STEAM_0:0:97157625> used the tool material on models/props_c17/fence01b.mdl
+[19:42:31] Derp<STEAM_0:0:52504530> spawned/gave himself swep weapon_empty_hands
+[19:43:23] DevL<STEAM_0:0:97157625> spawned model models/hunter/blocks/cube2x8x1.mdl
+[19:43:26] DevL<STEAM_0:0:97157625> spawned model models/hunter/blocks/cube1x3x025.mdl
+[19:43:29] DevL<STEAM_0:0:97157625> spawned model models/hunter/blocks/cube1x4x025.mdl
+[19:43:37] DevL<STEAM_0:0:97157625> spawned model models/hunter/blocks/cube1x4x025.mdl
+[19:43:44] DevL<STEAM_0:0:97157625> spawned model models/hunter/blocks/cube1x5x025.mdl
+[19:43:50] DevL<STEAM_0:0:97157625> used the tool precision on models/hunter/blocks/cube1x5x025.mdl
+[19:43:53] DevL<STEAM_0:0:97157625> used the tool precision on models/hunter/blocks/cube1x1x1.mdl
+[19:43:53] DevL<STEAM_0:0:97157625> used the tool precision on models/hunter/blocks/cube1x5x025.mdl
+[19:44:04] DevL<STEAM_0:0:97157625> spawned model models/hunter/plates/plate1x5.mdl
+[19:44:11] DevL<STEAM_0:0:97157625> used the tool precision on models/hunter/plates/plate1x5.mdl
+[19:44:12] DevL<STEAM_0:0:97157625> used the tool precision on models/hunter/blocks/cube1x5x025.mdl
+[19:44:13] DevL<STEAM_0:0:97157625> used the tool precision on models/hunter/plates/plate1x5.mdl
+[19:44:16] DevL<STEAM_0:0:97157625> used the tool material on maps/rp_downtown_tits_v2.bsp
+[19:44:16] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube1x5x025.mdl
+[19:44:18] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube1x1x1.mdl
+[19:44:18] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube1x5x025.mdl
+[19:44:21] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/plates/plate1x5.mdl
+[19:44:25] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/plates/plate1x5.mdl
+[19:44:26] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/plates/plate1x5.mdl
+[19:44:28] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/plates/plate1x5.mdl
+[19:44:29] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/plates/plate1x5.mdl
+[19:44:57] DevL<STEAM_0:0:97157625> used the tool light on maps/rp_downtown_tits_v2.bsp
+[19:45:03] DevL<STEAM_0:0:97157625> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[19:45:10] DevL<STEAM_0:0:97157625> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[19:45:11] DevL<STEAM_0:0:97157625> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[19:45:17] DevL<STEAM_0:0:97157625> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[19:45:17] DevL<STEAM_0:0:97157625> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[19:45:17] DevL<STEAM_0:0:97157625> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[19:45:18] DevL<STEAM_0:0:97157625> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[19:45:18] DevL<STEAM_0:0:97157625> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[19:45:18] DevL<STEAM_0:0:97157625> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[19:45:44] DevL<STEAM_0:0:97157625> used the tool light on maps/rp_downtown_tits_v2.bsp
+[19:45:46] DevL<STEAM_0:0:97157625> used the tool light on maps/rp_downtown_tits_v2.bsp
+[19:45:59] DevL<STEAM_0:0:97157625> spawned model models/hunter/plates/plate2x5.mdl
+[19:46:02] Dropped "Wescyde" from server<STEAM_0:0:29310582>
+[19:46:06] DevL<STEAM_0:0:97157625> used the tool precision on models/hunter/plates/plate2x5.mdl
+[19:46:15] DevL<STEAM_0:0:97157625> used the tool precision on models/hunter/blocks/cube1x5x025.mdl
+[19:46:39] DevL<STEAM_0:0:97157625> used the tool precision on models/hunter/plates/plate2x5.mdl
+[19:46:41] DevL<STEAM_0:0:97157625> used the tool precision on models/hunter/blocks/cube1x5x025.mdl
+[19:46:42] DevL<STEAM_0:0:97157625> used the tool precision on models/hunter/plates/plate2x5.mdl
+[19:46:45] DevL<STEAM_0:0:97157625> used the tool precision on models/hunter/plates/plate2x5.mdl
+[19:46:46] DevL<STEAM_0:0:97157625> used the tool precision on models/hunter/plates/plate2x5.mdl
+[19:46:46] DevL<STEAM_0:0:97157625> used the tool precision on models/hunter/plates/plate2x5.mdl
+[19:46:47] DevL<STEAM_0:0:97157625> used the tool precision on models/hunter/plates/plate2x5.mdl
+[19:46:50] DevL<STEAM_0:0:97157625> used the tool precision on models/hunter/plates/plate2x5.mdl
+[19:46:54] DevL<STEAM_0:0:97157625> used the tool precision on models/hunter/plates/plate2x5.mdl
+[19:46:58] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube1x5x025.mdl
+[19:46:58] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/plates/plate2x5.mdl
+[19:47:01] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube1x2x1.mdl
+[19:47:01] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube1x5x025.mdl
+[19:47:02] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/plates/plate2x5.mdl
+[19:47:08] DevL<STEAM_0:0:97157625> used the tool stacker_improved on models/hunter/plates/plate2x5.mdl
+[19:47:08] DevL<STEAM_0:0:97157625> spawned model models/hunter/plates/plate2x5.mdl
+[19:47:16] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/plates/plate2x5.mdl
+[19:47:21] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/plates/plate2x5.mdl
+[19:47:24] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/plates/plate2x5.mdl
+[19:47:25] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/plates/plate2x5.mdl
+[19:47:34] DevL<STEAM_0:0:97157625> used the tool precision on models/hunter/plates/plate2x5.mdl
+[19:47:37] DevL<STEAM_0:0:97157625> used the tool precision on models/hunter/plates/plate2x5.mdl
+[19:47:41] DevL<STEAM_0:0:97157625> used the tool precision on models/hunter/plates/plate2x5.mdl
+[19:47:43] DevL<STEAM_0:0:97157625> used the tool precision on models/hunter/plates/plate2x5.mdl
+[19:47:48] DevL<STEAM_0:0:97157625> used the tool precision on models/hunter/plates/plate1x5.mdl
+[19:47:49] DevL<STEAM_0:0:97157625> used the tool precision on models/hunter/blocks/cube1x5x025.mdl
+[19:47:50] DevL<STEAM_0:0:97157625> used the tool precision on models/hunter/plates/plate1x5.mdl
+[19:47:52] DevL<STEAM_0:0:97157625> used the tool precision on models/hunter/plates/plate1x5.mdl
+[19:48:04] DevL<STEAM_0:0:97157625> spawned model models/hunter/blocks/cube025x5x025.mdl
+[19:48:10] DevL<STEAM_0:0:97157625> used the tool precision on models/hunter/blocks/cube025x5x025.mdl
+[19:48:15] DevL<STEAM_0:0:97157625> used the tool precision on models/hunter/blocks/cube1x5x025.mdl
+[19:48:15] DevL<STEAM_0:0:97157625> used the tool precision on models/hunter/blocks/cube025x5x025.mdl
+[19:48:26] DevL<STEAM_0:0:97157625> used the tool precision on models/hunter/blocks/cube025x5x025.mdl
+[19:49:09] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube025x5x025.mdl
+[19:49:13] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube025x5x025.mdl
+[19:49:15] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube025x5x025.mdl
+[19:49:21] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube025x5x025.mdl
+[19:49:46] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube025x5x025.mdl
+[19:49:47] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube025x5x025.mdl
+[19:50:08] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube025x5x025.mdl
+[19:50:10] Derp<STEAM_0:0:52504530> spawned model models/props_borealis/bluebarrel001.mdl
+[19:50:11] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[19:50:16] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube025x5x025.mdl
+[19:50:23] DevL<STEAM_0:0:97157625> used the tool precision on models/hunter/plates/plate1x5.mdl
+[19:50:24] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[19:50:26] DevL<STEAM_0:0:97157625> used the tool precision on models/hunter/blocks/cube1x5x025.mdl
+[19:50:26] DevL<STEAM_0:0:97157625> used the tool precision on models/hunter/plates/plate1x5.mdl
+[19:50:27] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[19:50:33] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[19:50:34] DevL<STEAM_0:0:97157625> used the tool precision on models/hunter/blocks/cube025x5x025.mdl
+[19:50:35] DevL<STEAM_0:0:97157625> used the tool precision on models/hunter/blocks/cube025x5x025.mdl
+[19:50:36] DevL<STEAM_0:0:97157625> used the tool precision on models/hunter/blocks/cube025x5x025.mdl
+[19:50:37] DevL<STEAM_0:0:97157625> used the tool precision on models/hunter/plates/plate1x5.mdl
+[19:50:37] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[19:50:38] DevL<STEAM_0:0:97157625> used the tool precision on models/hunter/blocks/cube025x5x025.mdl
+[19:50:41] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[19:50:45] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[19:50:48] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[19:50:49] DevL<STEAM_0:0:97157625> spawned model models/hunter/blocks/cube05x5x025.mdl
+[19:50:50] Derp<STEAM_0:0:52504530> used the tool material on models/props_borealis/bluebarrel001.mdl
+[19:51:03] DevL<STEAM_0:0:97157625> used the tool precision on models/hunter/blocks/cube05x5x025.mdl
+[19:51:05] DevL<STEAM_0:0:97157625> used the tool precision on models/hunter/plates/plate2x5.mdl
+[19:51:06] DevL<STEAM_0:0:97157625> used the tool precision on models/hunter/blocks/cube05x5x025.mdl
+[19:51:09] DevL<STEAM_0:0:97157625> used the tool precision on models/hunter/blocks/cube05x5x025.mdl
+[19:51:09] DevL<STEAM_0:0:97157625> used the tool precision on models/hunter/blocks/cube05x5x025.mdl
+[19:51:10] DevL<STEAM_0:0:97157625> used the tool precision on models/hunter/blocks/cube05x5x025.mdl
+[19:51:10] DevL<STEAM_0:0:97157625> used the tool precision on models/hunter/blocks/cube05x5x025.mdl
+[19:51:10] DevL<STEAM_0:0:97157625> used the tool precision on models/hunter/blocks/cube05x5x025.mdl
+[19:51:10] DevL<STEAM_0:0:97157625> used the tool precision on models/hunter/blocks/cube05x5x025.mdl
+[19:51:11] DevL<STEAM_0:0:97157625> used the tool precision on models/hunter/blocks/cube05x5x025.mdl
+[19:51:13] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube1x4x1.mdl
+[19:51:13] DevL<STEAM_0:0:97157625> used the tool material on models/hunter/blocks/cube05x5x025.mdl
+[19:51:22] DevL<STEAM_0:0:97157625> used the tool precision on models/hunter/blocks/cube05x5x025.mdl
+[19:51:30] DevL<STEAM_0:0:97157625> used the tool precision on models/hunter/blocks/cube05x5x025.mdl
+[19:51:30] DevL<STEAM_0:0:97157625> used the tool precision on models/hunter/blocks/cube05x5x025.mdl
+[19:51:31] DevL<STEAM_0:0:97157625> used the tool precision on models/hunter/blocks/cube05x5x025.mdl
+[19:51:31] DevL<STEAM_0:0:97157625> used the tool precision on models/hunter/blocks/cube05x5x025.mdl
+[19:51:32] DevL<STEAM_0:0:97157625> used the tool precision on models/hunter/blocks/cube05x5x025.mdl
+[19:51:40] DevL<STEAM_0:0:97157625> used the tool stacker_improved on models/hunter/blocks/cube05x5x025.mdl
+[19:51:40] DevL<STEAM_0:0:97157625> spawned model models/hunter/blocks/cube05x5x025.mdl
+[19:51:41] DevL<STEAM_0:0:97157625> used the tool stacker_improved on models/hunter/blocks/cube05x5x025.mdl
+[19:51:41] DevL<STEAM_0:0:97157625> spawned model models/hunter/blocks/cube05x5x025.mdl
+[19:51:55] DevL suicided!
+[19:52:15] DevL: /advert warn 1/2/3
+[19:53:42] Client "Bobbicus" connected.
+[19:53:53] DevL killed Derp using player
+[19:54:35] DevL killed Derp using player
+[19:55:11] DevL: /invholster
+[19:55:14] DevL suicided!
+[19:55:27] DevL<STEAM_0:0:97157625> used the tool stacker_improved on models/hunter/blocks/cube05x5x025.mdl
+[19:55:27] DevL<STEAM_0:0:97157625> spawned model models/hunter/blocks/cube05x5x025.mdl
+[19:55:57] DevL<STEAM_0:0:97157625> used the tool precision on models/hunter/blocks/cube1x5x025.mdl
+[19:56:00] DevL<STEAM_0:0:97157625> used the tool precision on models/hunter/blocks/cube025x5x025.mdl
+[19:56:02] DevL<STEAM_0:0:97157625> used the tool precision on models/hunter/plates/plate1x5.mdl
+[19:56:16] DevL<STEAM_0:0:97157625> used the tool precision on models/hunter/blocks/cube1x5x025.mdl
+[19:56:16] DevL<STEAM_0:0:97157625> used the tool precision on models/hunter/blocks/cube025x5x025.mdl
+[19:56:17] Derp<STEAM_0:0:52504530> spawned/gave himself swep weapon_breachingcharge
+[19:56:18] DevL<STEAM_0:0:97157625> used the tool precision on models/hunter/plates/plate1x5.mdl
+[19:56:39] DevL suicided!
+[19:56:48] Derp<STEAM_0:0:52504530> spawned/gave himself swep weapon_ticketbook
+[19:58:45] Client "Bobbicus" spawned in server <STEAM_0:0:86269452> (took 303 seconds).
+[19:59:34] Derp<STEAM_0:0:52504530> spawned/gave himself swep weapon_empty_hands
+[19:59:47] Bobbicus: /ooc A
+[20:00:40] DevL suicided!
+[20:01:05] Derp killed Bobbicus using player
+[20:01:34] Derp killed Bobbicus using player
+[20:02:33] Derp<STEAM_0:0:52504530> spawned model models/props_c17/fence01a.mdl
+[20:02:36] Derp<STEAM_0:0:52504530> spawned model models/props_c17/fence01a.mdl
+[20:02:41] Derp<STEAM_0:0:52504530> spawned model models/props_c17/fence01a.mdl
+[20:02:44] Derp<STEAM_0:0:52504530> spawned model models/props_c17/fence01a.mdl
+[20:02:50] DevL<STEAM_0:0:97157625> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[20:03:05] DevL suicided!
+[20:03:28] DevL suicided!
+[20:03:50] Bobbicus: /ooc i actually fucking spit on myself
+[20:03:57] DevL: // lol
+[20:03:58] Derp: // good job u fucking inbred sack of shit
+[20:04:03] Bobbicus: /ooc excuse me, *spat
+[20:04:18] Bobbicus: /ooc pls help
+[20:06:32] Derp killed Bobbicus using player
+[20:06:59] Derp killed Bobbicus using player
+[20:07:03] Derp: // XD
+[20:07:11] Derp: AAAAAAAAAAAAAAA
+[20:07:28] Derp killed Bobbicus using player
+[20:09:41] Derp killed Bobbicus using player
+[20:10:42] Derp killed Bobbicus using player
+[20:11:26] Bobbicus killed Derp using player
+[20:12:04] Derp<STEAM_0:0:52504530> spawned/gave himself swep weapon_fists
+[20:12:13] Derp killed Bobbicus using weapon_fists
+[20:12:28] Bobbicus killed Derp using player
+[20:14:25] Bobbicus killed Derp using player
+[20:15:30] Bobbicus<STEAM_0:0:86269452> spawned sent item_healthkit
+[20:15:31] Bobbicus<STEAM_0:0:86269452> spawned sent item_healthkit
+[20:16:09] Derp killed Bobbicus using weapon_fists
+[20:16:29] Bobbicus killed Derp using player
+[20:16:56] Bobbicus killed Derp using player
+[20:17:19] Bobbicus killed Derp using player
+[20:17:45] Bobbicus killed Derp using player
+[20:17:59] Derp<STEAM_0:0:52504530> spawned/gave himself swep weapon_breachingcharge
+[20:18:06] Bobbicus killed Derp using player
+[20:18:13] Derp killed Bobbicus using weapon_fists
+[20:19:11] Client "bert simson" connected.
+[20:19:38] Bobbicus killed Derp using player
+[20:20:07] Bobbicus killed Derp using player
+[20:20:23] DevL<STEAM_0:0:97157625> spawned vehicle models/sligwolf/blue-x11/blue-x11.mdl
+[20:20:24] Derp<STEAM_0:0:52504530> spawned/gave himself swep weapon_breachingcharge
+[20:20:30] Bobbicus killed Derp using player
+[20:20:32] Derp<STEAM_0:0:52504530> spawned/gave himself swep weapon_breachingcharge
+[20:20:49] Derp killed Bobbicus using weapon_fists
+[20:21:33] Derp was killed by prop_vehicle_jeep
+[20:22:26] Bobbicus killed Derp using player
+[20:22:26] Bobbicus killed DevL using player
+[20:22:47] Bobbicus killed Derp using player
+[20:23:03] Bobbicus killed DevL using player
+[20:24:05] Client "bert simson" spawned in server <STEAM_0:1:179345279> (took 294 seconds).
+[20:24:08] Bobbicus killed Derp using player
+[20:24:20] Bobbicus killed Derp using player
+[20:24:39] Bobbicus killed DevL using player
+[20:24:40] Bobbicus was killed by prop_vehicle_jeep
+[20:25:26] Derp<STEAM_0:0:52504530> spawned/gave himself swep weapon_breachingcharge
+[20:25:30] Derp was killed by sent_breachingcharge
+[20:25:30] DevL was killed by sent_breachingcharge
+[20:25:30] Derp was killed by sent_breachingcharge
+[20:25:35] Derp<STEAM_0:0:52504530> spawned/gave himself swep weapon_breachingcharge
+[20:25:40] bert simson: // bobbicussss
+[20:25:47] Bobbicus: /ooc hello
+[20:26:11] Derp: permabanned
+[20:26:13] bert simson: // im about to crash ngl
+[20:26:26] Derp: !menu
+[20:26:31] bert simson killed DevL using player
+[20:26:35] Derp ragdolled DevL
+[20:26:47] Derp unragdolled DevL
+[20:26:51] bert simson: bobbicus has a wonderful voice
+[20:26:55] Bobbicus killed bert simson using player
+[20:27:03] Bobbicus killed DevL using player
+[20:27:34] bert simson killed DevL using player
+[20:27:40] Bobbicus killed bert simson using player
+[20:27:45] Bobbicus killed Derp using player
+[20:28:01] Bobbicus killed DevL using player
+[20:28:05] Bobbicus killed Derp using player
+[20:28:18] bert simson killed DevL using player
+[20:28:20] Bobbicus killed Derp using player
+[20:28:34] bert simson killed Bobbicus using player
+[20:28:41] bert simson killed Derp using player
+[20:28:51] bert simson killed Derp using player
+[20:29:01] bert simson killed DevL using player
+[20:29:19] bert simson killed Derp using player
+[20:30:00] DevL: /invholster
+[20:30:01] DevL: /invholster
+[20:30:15] Bobbicus killed bert simson using player
+[20:30:36] bert simson killed Bobbicus using player
+[20:30:46] bert simson killed Derp using player
+[20:31:14] bert simson: /drop
+[20:31:24] Derp<STEAM_0:0:52504530> spawned/gave himself swep weapon_empty_hands
+[20:31:26] DevL: // i heard you like choking derp?
+[20:32:03] Bobbicus suicided!
+[20:32:36] bert simson killed Derp using player
+[20:33:03] bert simson killed Derp using player
+[20:33:18] Bobbicus killed Derp using player
+[20:33:18] Bobbicus killed bert simson using player
+[20:33:31] bert simson killed Derp using player
+[20:33:46] DevL<STEAM_0:0:97157625> used the tool precision on models/zerochain/props_weedfarm/zwf_watertank.mdl
+[20:33:46] DevL<STEAM_0:0:97157625> used the tool precision on models/zerochain/props_weedfarm/zwf_watertank.mdl
+[20:33:46] DevL<STEAM_0:0:97157625> used the tool precision on models/zerochain/props_weedfarm/zwf_watertank.mdl
+[20:33:47] DevL<STEAM_0:0:97157625> used the tool precision on models/zerochain/props_weedfarm/zwf_watertank.mdl
+[20:33:51] DevL<STEAM_0:0:97157625> used the tool precision on models/zerochain/props_weedfarm/zwf_watertank.mdl
+[20:33:52] DevL<STEAM_0:0:97157625> used the tool precision on models/zerochain/props_weedfarm/zwf_watertank.mdl
+[20:33:52] DevL<STEAM_0:0:97157625> used the tool precision on models/zerochain/props_weedfarm/zwf_watertank.mdl
+[20:33:52] DevL<STEAM_0:0:97157625> used the tool precision on models/zerochain/props_weedfarm/zwf_watertank.mdl
+[20:33:53] bert simson killed Bobbicus using player
+[20:33:53] DevL<STEAM_0:0:97157625> used the tool precision on models/zerochain/props_weedfarm/zwf_watertank.mdl
+[20:33:53] DevL<STEAM_0:0:97157625> used the tool precision on models/zerochain/props_weedfarm/zwf_watertank.mdl
+[20:33:54] DevL<STEAM_0:0:97157625> used the tool precision on models/zerochain/props_weedfarm/zwf_watertank.mdl
+[20:33:54] DevL<STEAM_0:0:97157625> used the tool precision on models/zerochain/props_weedfarm/zwf_watertank.mdl
+[20:33:54] DevL<STEAM_0:0:97157625> used the tool precision on models/zerochain/props_weedfarm/zwf_watertank.mdl
+[20:33:54] DevL<STEAM_0:0:97157625> used the tool precision on models/zerochain/props_weedfarm/zwf_watertank.mdl
+[20:33:55] DevL<STEAM_0:0:97157625> used the tool precision on models/zerochain/props_weedfarm/zwf_watertank.mdl
+[20:33:55] DevL<STEAM_0:0:97157625> used the tool precision on models/zerochain/props_weedfarm/zwf_watertank.mdl
+[20:33:58] DevL<STEAM_0:0:97157625> used the tool precision on models/zerochain/props_weedfarm/zwf_watertank.mdl
+[20:33:58] Dropped "Bobbicus" from server<STEAM_0:0:86269452>
+[20:33:58] DevL<STEAM_0:0:97157625> used the tool precision on models/zerochain/props_weedfarm/zwf_watertank.mdl
+[20:33:58] DevL<STEAM_0:0:97157625> used the tool precision on models/zerochain/props_weedfarm/zwf_watertank.mdl
+[20:33:58] DevL<STEAM_0:0:97157625> used the tool precision on models/zerochain/props_weedfarm/zwf_watertank.mdl
+[20:33:58] DevL<STEAM_0:0:97157625> used the tool precision on models/zerochain/props_weedfarm/zwf_watertank.mdl
+[20:34:00] DevL<STEAM_0:0:97157625> used the tool precision on models/zerochain/props_weedfarm/zwf_watertank.mdl
+[20:34:00] DevL<STEAM_0:0:97157625> used the tool precision on models/zerochain/props_weedfarm/zwf_watertank.mdl
+[20:34:00] DevL<STEAM_0:0:97157625> used the tool precision on models/zerochain/props_weedfarm/zwf_watertank.mdl
+[20:34:01] DevL<STEAM_0:0:97157625> used the tool precision on models/zerochain/props_weedfarm/zwf_watertank.mdl
+[20:34:01] DevL<STEAM_0:0:97157625> used the tool precision on models/zerochain/props_weedfarm/zwf_watertank.mdl
+[20:34:01] DevL<STEAM_0:0:97157625> used the tool precision on models/zerochain/props_weedfarm/zwf_watertank.mdl
+[20:34:01] DevL<STEAM_0:0:97157625> used the tool precision on models/zerochain/props_weedfarm/zwf_watertank.mdl
+[20:34:19] Derp<STEAM_0:0:52504530> spawned/gave himself swep weapon_breachingcharge
+[20:34:32] bert simson killed Derp using player
+[20:34:36] Derp<STEAM_0:0:52504530> spawned/gave himself swep weapon_breachingcharge
+[20:34:59] DevL: /me salute
+[20:35:31] bert simson killed Derp using player
+[20:35:41] bert simson killed DevL using player
+[20:36:18] DevL: /advert warn 1/2/3
+[20:38:48] bert simson: type a minus sign for me and put it in chat
+[20:38:56] DevL: -
+[20:39:01] bert simson: thanks dude
+[20:39:32] Derp<STEAM_0:0:52504530> spawned/gave himself swep weapon_breachingcharge
+[20:40:16] Derp<STEAM_0:0:52504530> spawned/gave himself swep cw_scorpin_evo3
+[20:40:40] Derp suicided!
+[20:40:44] DevL<STEAM_0:0:97157625> used the tool precision on models/zerochain/props_weedfarm/zwf_outlets.mdl
+[20:43:57] Derp<STEAM_0:0:52504530> spawned/gave himself swep cw_nen_beretta92fs
+[20:45:26] bert simson suicided!
+[20:45:30] Derp<STEAM_0:0:52504530> spawned/gave himself swep cw_nen_berettapx4
+[20:46:28] Derp: oops
+[20:46:37] Derp<STEAM_0:0:52504530> spawned vehicle models/nova/airboat_seat.mdl
+[20:46:39] Derp<STEAM_0:0:52504530> spawned vehicle models/nova/chair_wood01.mdl
+[20:46:40] Derp<STEAM_0:0:52504530> spawned vehicle models/nova/chair_plastic01.mdl
+[20:46:44] Derp<STEAM_0:0:52504530> spawned vehicle models/nova/chair_office01.mdl
+[20:46:44] Derp<STEAM_0:0:52504530> spawned vehicle models/nova/jeep_seat.mdl
+[20:46:44] Derp<STEAM_0:0:52504530> spawned vehicle models/nova/chair_plastic01.mdl
+[20:49:49] Derp: /advert AFK for like 20 minutes
+[20:57:53] DevL<STEAM_0:0:97157625> used the tool precision on models/zerochain/props_weedfarm/zwf_seedbank.mdl
+[20:57:54] DevL<STEAM_0:0:97157625> used the tool precision on models/zerochain/props_weedfarm/zwf_seedbank.mdl
+[20:57:54] DevL<STEAM_0:0:97157625> used the tool precision on models/zerochain/props_weedfarm/zwf_seedbank.mdl
+[20:57:54] DevL<STEAM_0:0:97157625> used the tool precision on models/zerochain/props_weedfarm/zwf_seedbank.mdl
+[20:57:54] DevL<STEAM_0:0:97157625> used the tool precision on models/zerochain/props_weedfarm/zwf_seedbank.mdl
+[20:57:54] DevL<STEAM_0:0:97157625> used the tool precision on models/zerochain/props_weedfarm/zwf_seedbank.mdl
+[20:57:54] DevL<STEAM_0:0:97157625> used the tool precision on models/zerochain/props_weedfarm/zwf_seedbank.mdl
+[20:57:55] DevL<STEAM_0:0:97157625> used the tool precision on models/zerochain/props_weedfarm/zwf_seedbank.mdl
+[20:57:55] DevL<STEAM_0:0:97157625> used the tool precision on models/zerochain/props_weedfarm/zwf_seedbank.mdl
+[20:57:55] DevL<STEAM_0:0:97157625> used the tool precision on models/zerochain/props_weedfarm/zwf_seedbank.mdl
+[20:57:55] DevL<STEAM_0:0:97157625> used the tool precision on models/zerochain/props_weedfarm/zwf_seedbank.mdl
+[20:57:55] DevL<STEAM_0:0:97157625> used the tool precision on models/zerochain/props_weedfarm/zwf_seedbank.mdl
+[20:57:55] DevL<STEAM_0:0:97157625> used the tool precision on models/zerochain/props_weedfarm/zwf_seedbank.mdl
+[21:01:32] Client "Doof" connected.
+[21:03:30] Derp: you are one dedicated weed man
+[21:03:32] Client "Doof" spawned in server <STEAM_0:1:426762407> (took 120 seconds).
+[21:03:36] Derp: you are one dedicated weed man
+[21:08:50] Derp: lol
+[21:08:55] Doof: idk about you
+[21:08:59] Doof: but i dont like fortnite
+[21:09:04] Doof: plz dont destroy me
+[21:09:10] Derp: fortnite sucks fucking balls
+[21:09:13] Doof: thank you
+[21:09:22] Doof: but
+[21:09:27] Doof: it does attract people
+[21:09:28] Doof: who suck balls
+[21:09:30] Doof: lol
+[21:09:35] Doof: so +respect
+[21:10:26] Doof: lol
+[21:12:14] Doof: how do i get products?
+[21:12:27] Derp: if u wanna add products drop a gun for example and then smash it into the machine
+[21:12:40] Doof: i do not have a gun
+[21:12:48] Derp: AAAAAAAA
+[21:13:08] Doof: im gonna go play the wii with my mom
+[21:13:17] Doof: can you uh cover up the sewers entrance?
+[21:14:04] DevL: /// ahhhhhh help
+[21:15:58] Derp<STEAM_0:0:52504530> spawned/gave himself swep weapon_empty_hands
+[21:19:59] bert simson<STEAM_0:1:179345279> spawned vehicle models/sligwolf/gokart/sw_gokart.mdl
+[21:20:43] bert simson<STEAM_0:1:179345279> spawned vehicle models/sligwolf/gokart/sw_gokart.mdl
+[21:21:28] bert simson: // go kart best car
+[21:21:52] Derp<STEAM_0:0:52504530> spawned vehicle models/sligwolf/fcc/flying_crawler_car.mdl
+[21:22:14] bert simson was killed by prop_vehicle_jeep
+[21:23:03] Derp was killed by prop_vehicle_jeep
+[21:24:32] bert simson<STEAM_0:1:179345279> spawned vehicle models/sligwolf/blue-x13/blue-x13.mdl
+[21:25:04] bert simson: // bruh these cars get stuck on every curb
+[21:25:17] Derp: // i know
+[21:25:26] Derp was killed by prop_vehicle_jeep
+[21:26:03] Derp: // once we change the map we are gonna replace the vehicles
+[21:26:13] bert simson: // bruh i just spent like 200k on them
+[21:26:22] DevL: /casino
+[21:26:31] Derp: /addmoney bert 200000
+[21:26:40] Derp: // there now u have ur 200k again
+[21:27:00] DevL: /casino
+[21:27:03] bert simson: // where is a free spot for my vehicle
+[21:27:08] bert simson: // this makes no sense smh
+[21:27:28] DevL: // derp the casinos fucking broking lmfao
+[21:27:34] Derp: /casino
+[21:27:35] DevL: // roulete just hit green twice
+[21:27:39] DevL: // bacl to back
+[21:27:41] DevL: /acsino
+[21:27:43] DevL: /casino
+[21:27:48] Derp<STEAM_0:0:52504530> spawned/gave himself swep wcd_admin
+[21:28:06] Derp: // god damn it
+[21:28:10] DevL: // damn it
+[21:28:16] DevL: // it almost hit it a third time
+[21:28:18] DevL: // rip
+[21:28:39] DevL: /casino
+[21:29:48] bert simson: 3 fps
+[21:31:14] Client "iFreshFruit" connected.
+[21:32:09] DevL: // when wieners give 1 food rip
+[21:32:13] Derp: // yeah ik
+[21:32:18] Derp: // will be fixed next update
+[21:32:23] DevL: // noice
+[21:33:11] bert simson<STEAM_0:1:179345279> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[21:33:39] Derp<STEAM_0:0:52504530> spawned/gave himself swep cw_nen_glock17
+[21:34:12] bert simson killed Derp using player
+[21:34:14] Derp: HACKER
+[21:34:25] Derp: STOP USING YOUR JTAGGED XBOX 360
+[21:34:40] bert simson: want a ghost camo
+[21:34:49] Derp: i want fall camo for all of my guns in mw2
+[21:34:51] Derp: and i want 10th prestige
+[21:34:55] Client "iFreshFruit" spawned in server <STEAM_0:1:187793822> (took 221 seconds).
+[21:34:57] bert simson: fall camo trash
+[21:35:00] bert simson: ill reset your rank
+[21:35:03] Derp: FAMMMMMMMMMMMMM
+[21:35:08] bert simson: reset
+[21:35:14] bert simson: enjoy getting booted offline dude
+[21:35:18] Derp: AAAAAAAAAAAAAAAAAAA
+[21:35:27] Derp: MY UNCLE WORKS AT MICHAEL SOFT
+[21:35:34] DevL suicided!
+[21:35:42] Derp: my uncle works at minclesoft
+[21:35:47] bert simson: dUde
+[21:35:58] bert simson: ay dude
+[21:36:08] Dropped "iFreshFruit" from server<STEAM_0:1:187793822>
+[21:36:09] Derp: what do we have here
+[21:36:10] Derp: ok
+[21:36:17] Client "iFreshFruit" connected.
+[21:36:29] DevL: /invholster
+[21:36:49] DevL: /advert PD raid
+[21:37:16] DevL killed Derp using player
+[21:37:20] DevL killed bert simson using player
+[21:37:37] Dropped "bert simson" from server<STEAM_0:1:179345279>
+[21:37:41] DevL killed Derp using player
+[21:37:48] Client "iFreshFruit" spawned in server <STEAM_0:1:187793822> (took 91 seconds).
+[21:38:04] DevL killed Derp using player
+[21:38:33] DevL killed Derp using player
+[21:38:49] DevL killed Derp using player
+[21:38:57] DevL killed Derp using player
+[21:39:08] DevL killed Derp using player
+[21:39:11] Dropped "iFreshFruit" from server<STEAM_0:1:187793822>
+[21:39:21] Derp killed DevL using player
+[21:39:58] Derp killed DevL using player
+[21:40:41] DevL: /invholster
+[21:40:49] DevL suicided!
+[21:40:52] Derp: lmao
+[21:51:08] Dropped "DevL" from server<STEAM_0:0:97157625>
+[21:51:55] Dropped "Derp" from server<STEAM_0:0:52504530>
+[22:04:39] Doof suicided!
+[22:27:43] Client "DrDerpenstein sups.gg" connected.
+[22:28:18] Client "DrDerpenstein sups.gg" spawned in server <STEAM_0:0:13562763> (took 35 seconds).
+[22:28:42] Dropped "DrDerpenstein" from server<STEAM_0:0:13562763>
+[22:40:26] Doof<STEAM_0:1:426762407> spawned vehicle models/sligwolf/motorbike/motorbike.mdl
+[22:44:53] Doof<STEAM_0:1:426762407> spawned vehicle models/sligwolf/blue-x13/blue-x13.mdl
+[22:55:29] Client "DrDerpenstein sups.gg" connected.
+[22:55:54] Client "DrDerpenstein sups.gg" spawned in server <STEAM_0:0:13562763> (took 25 seconds).
+[22:56:05] Doof: aye
+[22:57:18] Doof: /ooc wait will i lose my money
+[22:59:57] Doof<STEAM_0:1:426762407> spawned vehicle models/sligwolf/hovercraft/hovercraft.mdl
+[23:00:32] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_breachingcharge
+[23:00:49] DrDerpenstein<STEAM_0:0:13562763> spawned sent sent_breachingchargeammo
+[23:00:54] DrDerpenstein<STEAM_0:0:13562763> spawned sent sent_breachingchargeammo
+[23:01:03] DrDerpenstein<STEAM_0:0:13562763> spawned sent sent_breachingchargeammo
+[23:01:03] DrDerpenstein<STEAM_0:0:13562763> spawned sent sent_breachingchargeammo
+[23:01:03] DrDerpenstein<STEAM_0:0:13562763> spawned sent sent_breachingchargeammo
+[23:01:03] DrDerpenstein<STEAM_0:0:13562763> spawned sent sent_breachingchargeammo
+[23:01:03] DrDerpenstein<STEAM_0:0:13562763> spawned sent sent_breachingchargeammo
+[23:01:03] DrDerpenstein<STEAM_0:0:13562763> spawned sent sent_breachingchargeammo
+[23:01:03] DrDerpenstein<STEAM_0:0:13562763> spawned sent sent_breachingchargeammo
+[23:03:45] DrDerpenstein<STEAM_0:0:13562763> spawned sent sent_breachingchargeammo
+[23:03:46] DrDerpenstein<STEAM_0:0:13562763> spawned sent sent_breachingchargeammo
+[23:03:51] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_breachingcharge
+[23:03:51] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_breachingcharge
+[23:03:51] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_breachingcharge
+[23:03:51] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_breachingcharge
+[23:03:52] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_breachingcharge
+[23:03:52] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_breachingcharge
+[23:03:52] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_breachingcharge
+[23:04:02] DrDerpenstein<STEAM_0:0:13562763> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[23:04:02] DrDerpenstein<STEAM_0:0:13562763> used the tool remover on models/minic23/csgo/breach_charge_detonator.mdl
+[23:04:02] DrDerpenstein<STEAM_0:0:13562763> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[23:04:03] DrDerpenstein<STEAM_0:0:13562763> used the tool remover on models/minic23/csgo/breach_charge_detonator.mdl
+[23:04:03] DrDerpenstein<STEAM_0:0:13562763> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[23:04:03] DrDerpenstein<STEAM_0:0:13562763> used the tool remover on models/minic23/csgo/breach_charge_detonator.mdl
+[23:04:03] DrDerpenstein<STEAM_0:0:13562763> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[23:04:04] DrDerpenstein<STEAM_0:0:13562763> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[23:04:04] DrDerpenstein<STEAM_0:0:13562763> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[23:04:04] DrDerpenstein<STEAM_0:0:13562763> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[23:04:04] DrDerpenstein<STEAM_0:0:13562763> used the tool remover on models/minic23/csgo/breach_charge_detonator.mdl
+[23:04:05] DrDerpenstein<STEAM_0:0:13562763> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[23:04:05] DrDerpenstein<STEAM_0:0:13562763> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[23:04:05] DrDerpenstein<STEAM_0:0:13562763> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[23:04:05] DrDerpenstein<STEAM_0:0:13562763> used the tool remover on models/minic23/csgo/breach_charge_detonator.mdl
+[23:04:05] DrDerpenstein<STEAM_0:0:13562763> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[23:04:06] DrDerpenstein<STEAM_0:0:13562763> used the tool remover on models/minic23/csgo/breach_charge_detonator.mdl
+[23:04:07] DrDerpenstein<STEAM_0:0:13562763> used the tool remover on models/minic23/csgo/breach_charge_detonator.mdl
+[23:13:16] DrDerpenstein<STEAM_0:0:13562763> spawned sent pvault_moneybag
+[23:13:35] DrDerpenstein<STEAM_0:0:13562763> spawned sent pvault_moneybag
+[23:13:55] DrDerpenstein<STEAM_0:0:13562763> spawned sent pvault_moneybag
+[23:14:03] DrDerpenstein<STEAM_0:0:13562763> spawned sent pvault_moneybag
+[23:14:17] DrDerpenstein<STEAM_0:0:13562763> spawned sent pvault_moneybag
+[23:15:47] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep wcd_admin
+[23:16:51] DrDerpenstein<STEAM_0:0:13562763> spawned vehicle models/airboat.mdl
+[23:16:58] Doof<STEAM_0:1:426762407> spawned vehicle models/airboat.mdl
+[23:17:25] Doof<STEAM_0:1:426762407> spawned vehicle models/sligwolf/powerboat/powerboat.mdl
+[23:17:32] DrDerpenstein<STEAM_0:0:13562763> spawned model models/hunter/plates/plate.mdl
+[23:17:59] DrDerpenstein<STEAM_0:0:13562763> spawned vehicle models/airboat.mdl
+[23:18:17] DrDerpenstein<STEAM_0:0:13562763> spawned vehicle models/sligwolf/powerboat/speedboat.mdl
+[23:18:52] DrDerpenstein<STEAM_0:0:13562763> spawned vehicle models/sligwolf/powerboat/speedboat.mdl
+[23:19:27] DrDerpenstein<STEAM_0:0:13562763> used the tool material on models/hunter/plates/plate3x7.mdl
+[23:19:28] DrDerpenstein<STEAM_0:0:13562763> used the tool material on models/hunter/plates/plate3x7.mdl
+[23:19:29] DrDerpenstein<STEAM_0:0:13562763> used the tool material on models/hunter/plates/plate3x7.mdl
+[23:19:31] DrDerpenstein<STEAM_0:0:13562763> used the tool material on models/hunter/plates/plate3x7.mdl
+[23:19:34] DrDerpenstein<STEAM_0:0:13562763> used the tool material on models/hunter/plates/plate3x7.mdl
+[23:19:34] DrDerpenstein<STEAM_0:0:13562763> used the tool material on models/hunter/plates/plate3x7.mdl
+[23:19:34] DrDerpenstein<STEAM_0:0:13562763> used the tool material on models/hunter/plates/plate3x7.mdl
+[23:19:35] DrDerpenstein<STEAM_0:0:13562763> used the tool material on models/hunter/plates/plate3x7.mdl
+[23:19:35] DrDerpenstein<STEAM_0:0:13562763> used the tool material on models/hunter/plates/plate3x7.mdl
+[23:19:35] DrDerpenstein<STEAM_0:0:13562763> used the tool material on models/hunter/plates/plate3x7.mdl
+[23:19:38] DrDerpenstein<STEAM_0:0:13562763> used the tool material on models/hunter/plates/plate3x7.mdl
+[23:19:38] DrDerpenstein<STEAM_0:0:13562763> used the tool material on models/hunter/plates/plate3x7.mdl
+[23:19:42] DrDerpenstein<STEAM_0:0:13562763> used the tool material on models/hunter/plates/plate3x7.mdl
+[23:19:45] DrDerpenstein<STEAM_0:0:13562763> used the tool nocollide on models/hunter/plates/plate3x7.mdl
+[23:19:49] DrDerpenstein<STEAM_0:0:13562763> used the tool nocollide on models/hunter/plates/plate3x7.mdl
+[23:19:51] DrDerpenstein<STEAM_0:0:13562763> used the tool nocollide on models/hunter/plates/plate3x7.mdl
+[23:20:15] DrDerpenstein<STEAM_0:0:13562763> used the tool nocollide on models/hunter/plates/plate3x7.mdl
+[23:21:04] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep unarrest_stick
+[23:21:28] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:21:28] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_breachingcharge
+[23:21:33] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:21:33] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_breachingcharge
+[23:21:34] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:21:34] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_breachingcharge
+[23:21:41] DrDerpenstein<STEAM_0:0:13562763> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[23:21:42] DrDerpenstein<STEAM_0:0:13562763> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[23:21:42] DrDerpenstein<STEAM_0:0:13562763> used the tool remover on models/minic23/csgo/breach_charge_detonator.mdl
+[23:21:42] DrDerpenstein<STEAM_0:0:13562763> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[23:21:42] DrDerpenstein<STEAM_0:0:13562763> used the tool remover on models/player/group01/female_01.mdl
+[23:21:42] DrDerpenstein<STEAM_0:0:13562763> used the tool remover on models/minic23/csgo/breach_charge_detonator.mdl
+[23:21:45] DrDerpenstein<STEAM_0:0:13562763> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[23:21:45] DrDerpenstein<STEAM_0:0:13562763> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[23:21:47] DrDerpenstein was killed by sent_breachingcharge
+[23:22:16] Doof suicided!
+[23:23:21] Doof suicided!
+[23:25:43] DrDerpenstein: /drop
+[23:32:51] DrDerpenstein: !wcd
+[23:38:56] DrDerpenstein<STEAM_0:0:13562763> used the tool remover on *72
+[23:44:26] DrDerpenstein: /dropmoney 1
+[23:45:54] DrDerpenstein: /dropmoney 1000
+[23:47:12] DrDerpenstein<STEAM_0:0:13562763> spawned vehicle models/sligwolf/blue-x14/blue-x14.mdl
+[23:48:42] DrDerpenstein: /dropmoney 20000
+[23:50:11] DrDerpenstein: /drop
+[23:50:16] DrDerpenstein: /drop
+[23:50:20] DrDerpenstein: /drop
+[23:50:24] DrDerpenstein: /drop
+[23:50:28] DrDerpenstein: /drop
+[23:55:20] Doof killed DrDerpenstein using weapon_fists
+[23:55:34] Doof suicided!
+[23:56:37] Doof killed DrDerpenstein using weapon_fists
+[23:56:56] DrDerpenstein: /dropmoney 10000
+[23:57:17] Doof suicided!
+[23:58:14] Doof killed DrDerpenstein using weapon_fists
+[23:58:28] DrDerpenstein: /y This is a mug drop 1k in 10sec or I paint the sidewalk with your brains...unless I can't mug- 10sec to GTFO or you all die
+[23:59:00] Dropped "Doof" from server<STEAM_0:1:426762407>
+[23:59:00] DrDerpenstein: /dropmoney 1000
+[23:59:21] Dropped "DrDerpenstein" from server<STEAM_0:0:13562763>

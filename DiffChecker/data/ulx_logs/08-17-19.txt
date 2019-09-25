@@ -1,0 +1,316 @@
+<Logging continued from "data/ulx_logs/08-16-19.txt">
+[00:00:09] Client "Derp" connected.
+[00:00:59] Client "Bastixx" connected.
+[00:01:10] Client "Derp" spawned in server <STEAM_0:0:52504530> (took 61 seconds).
+[00:03:45] Client "Bastixx" spawned in server <STEAM_0:1:91231746> (took 166 seconds).
+[00:03:46] William: hello
+[00:03:49] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�: hello
+[00:04:02] William: making lean in the middle of the road huh
+[00:04:45] William: you dont seem to give a shit about being stealthy
+[00:04:51] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�: nope
+[00:05:03] William: the best hiding spot is the one out in the open
+[00:05:06] Bastixx killed 𝐸𝓉𝑒𝓇𝓃𝒾𝓉� using player
+[00:05:06] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�: its low pop for now so i just do i for fun
+[00:05:19] Bastixx: // dude my guns have been
+[00:05:20] Bastixx: // fucking
+[00:05:23] Bastixx: // taken away
+[00:05:31] Bastixx: // my ks 23
+[00:05:34] Bastixx: // my slams
+[00:05:41] Bastixx: // all of em but my 2 scar h's
+[00:05:47] Bastixx: // because you removed the weaposn from server
+[00:05:48] Bastixx: // big sad
+[00:06:05] William: // sorry about that
+[00:06:21] Bastixx: // its ok ill only torture you butt tonight babe
+[00:06:24] Bastixx: /drop
+[00:06:26] William: // um
+[00:06:39] William: i can hear u
+[00:07:15] William: VCMod sometimes doesnt load in properly and i think the only way to fix that is by rejoining
+[00:07:34] William: i cant open it either 
+[00:07:37] William: thats just VCMod
+[00:07:46] William: i literally cant fix that because thats just the mod itself
+[00:07:57] Bastixx: // ./BAN WILLIAM BAD PERSON AND OWNER WAAAA
+[00:08:00] Bastixx: // oops
+[00:08:03] William: it uses a DRM system to prevent people from getting the mod for free and it causes a lot of issues
+[00:08:28] William: ill see if later down the road i can get a version that works better
+[00:08:47] William: im gonna rejoin and see if that fixes it for me
+[00:08:53] Dropped "William" from server<STEAM_0:0:52504530>
+[00:08:55] Client "Derp" connected.
+[00:09:25] Client "Derp" spawned in server <STEAM_0:0:52504530> (took 30 seconds).
+[00:09:56] William: /casino
+[00:09:58] William: /casino
+[00:09:59] William: /casino
+[00:10:00] William: /casino
+[00:10:00] William: /casino
+[00:10:01] William: /casino
+[00:10:01] William: /casino
+[00:10:02] William: /casino
+[00:10:13] William: !gas
+[00:10:24] William: !gas
+[00:10:30] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�: hey gamer
+[00:10:33] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�: can no kill me?
+[00:12:53] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> spawned model models/squad/sf_plates/sf_plate1x1.mdl
+[00:12:56] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> spawned model models/squad/sf_plates/sf_plate3x3.mdl
+[00:12:59] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> spawned model models/squad/sf_plates/sf_plate6x7.mdl
+[00:13:01] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> spawned model models/squad/sf_plates/sf_plate6x7.mdl
+[00:13:03] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> spawned model models/squad/sf_plates/sf_plate6x7.mdl
+[00:14:39] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> spawned model models/hunter/blocks/cube4x6x05.mdl
+[00:14:41] William: u need to buy fucking soil
+[00:14:52] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> spawned model models/hunter/blocks/cube1x4x025.mdl
+[00:14:52] William: and u need a lamp
+[00:14:56] William: sunlight wont work
+[00:15:25] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> spawned model models/hunter/blocks/cube05x7x05.mdl
+[00:16:05] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> spawned model models/hunter/blocks/cube1x4x05.mdl
+[00:17:10] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> used the tool precision on models/hunter/blocks/cube1x4x05.mdl
+[00:17:11] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> used the tool precision on models/hunter/blocks/cube1x4x05.mdl
+[00:17:12] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> used the tool precision on models/hunter/blocks/cube1x4x05.mdl
+[00:17:14] William: look
+[00:17:15] William: over here
+[00:17:20] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> used the tool precision on models/hunter/blocks/cube1x4x05.mdl
+[00:17:20] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> used the tool precision on models/hunter/blocks/cube1x4x05.mdl
+[00:17:20] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> used the tool precision on models/hunter/blocks/cube1x4x05.mdl
+[00:17:21] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> used the tool precision on models/hunter/blocks/cube1x4x05.mdl
+[00:17:26] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> used the tool precision on models/hunter/blocks/cube1x4x05.mdl
+[00:17:28] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> used the tool precision on models/hunter/blocks/cube1x4x05.mdl
+[00:17:29] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> used the tool precision on models/hunter/blocks/cube1x4x05.mdl
+[00:17:29] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> used the tool precision on models/hunter/blocks/cube1x4x05.mdl
+[00:17:32] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> used the tool precision on models/hunter/blocks/cube1x4x05.mdl
+[00:17:37] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> spawned model models/hunter/blocks/cube6x6x025.mdl
+[00:17:50] William: sometimes the weed and generator start fucking up
+[00:17:52] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> spawned model models/hunter/blocks/cube150x150x025.mdl
+[00:17:54] William: so if they do just press E on them
+[00:17:55] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> spawned model models/hunter/blocks/cube125x125x025.mdl
+[00:17:58] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> spawned model models/hunter/blocks/cube2x2x05.mdl
+[00:18:03] William: aight
+[00:18:30] William: thats like the hardest seed to grow
+[00:18:45] Bastixx suicided!
+[00:18:51] Dropped "Bastixx" from server<STEAM_0:1:91231746>
+[00:19:37] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> used the tool textscreen on models/hunter/blocks/cube1x4x05.mdl
+[00:19:43] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> used the tool textscreen on models/hunter/blocks/cube1x4x05.mdl
+[00:19:51] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> spawned model models/hunter/blocks/cube025x2x025.mdl
+[00:20:44] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> spawned model models/hunter/blocks/cube3x4x025.mdl
+[00:22:09] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> spawned model models/props_c17/gate_door01a.mdl
+[00:22:53] William: ur gonna sell muffins to make money?
+[00:23:30] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�: how get door?
+[00:23:39] William<STEAM_0:0:52504530> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[00:23:42] William: like this?
+[00:23:53] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�: ok
+[00:24:01] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> spawned model models/props_wasteland/interior_fence001g.mdl
+[00:24:16] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> used the tool nocollide on models/props_wasteland/interior_fence001g.mdl
+[00:24:18] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> used the tool nocollide on models/props_wasteland/interior_fence001g.mdl
+[00:24:29] William<STEAM_0:0:52504530> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[00:24:35] William<STEAM_0:0:52504530> used the tool fading_door on models/props_building_details/storefront_template001a_bars.mdl
+[00:24:59] William<STEAM_0:0:52504530> spawned model models/props_wasteland/interior_fence001g.mdl
+[00:25:00] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> used the tool fading_door on models/props_wasteland/interior_fence001g.mdl
+[00:25:09] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> spawned model models/props_trainstation/bench_indoor001a.mdl
+[00:25:39] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> used the tool fading_door on models/props_trainstation/bench_indoor001a.mdl
+[00:25:43] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> used the tool fading_door on models/props_trainstation/bench_indoor001a.mdl
+[00:25:57] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�: bench door
+[00:26:05] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> used the tool keypad_willox on models/props_trainstation/bench_indoor001a.mdl
+[00:26:05] William: interesting choice
+[00:26:30] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> used the tool fading_door on models/props_trainstation/bench_indoor001a.mdl
+[00:27:06] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�: how do i make it door?
+[00:27:10] William<STEAM_0:0:52504530> spawned/gave himself swep cw_dp_g3a3
+[00:27:17] William: just making sure it wont break
+[00:27:28] William: u need to use the fading door tool and set the key to anything u want
+[00:27:33] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> used the tool button on models/props_trainstation/bench_indoor001a.mdl
+[00:27:40] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> used the tool button on models/props_trainstation/bench_indoor001a.mdl
+[00:27:42] William: then with the keypad tool u set the access granted key to the same key u used for the fading door
+[00:28:22] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> spawned model models/hunter/blocks/cube05x4x05.mdl
+[00:28:56] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�: you seeing this?
+[00:29:02] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> used the tool keypad_willox on maps/rp_downtown_tits_v2.bsp
+[00:29:03] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> used the tool keypad_willox on models/props_trainstation/bench_indoor001a.mdl
+[00:29:04] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> used the tool keypad_willox on models/props_lab/keypad.mdl
+[00:29:05] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> used the tool keypad_willox on models/props_trainstation/bench_indoor001a.mdl
+[00:29:24] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> used the tool material on models/props_trainstation/bench_indoor001a.mdl
+[00:29:47] William: make ur fading door open with the letter O on your keyboard and make the keypad access granted key O as well
+[00:30:20] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> spawned model models/hunter/blocks/cube075x7x075.mdl
+[00:30:21] William<STEAM_0:0:52504530> spawned model models/props_borealis/borealis_door001a.mdl
+[00:30:33] William<STEAM_0:0:52504530> used the tool fading_door on models/props_borealis/borealis_door001a.mdl
+[00:30:39] William<STEAM_0:0:52504530> used the tool fading_door on models/props_borealis/borealis_door001a.mdl
+[00:30:47] William<STEAM_0:0:52504530> used the tool fading_door on models/props_borealis/borealis_door001a.mdl
+[00:31:01] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> used the tool keypad_willox on models/hunter/blocks/cube3x4x025.mdl
+[00:31:23] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> used the tool keypad_willox_wire on models/props_lab/keypad.mdl
+[00:31:24] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> used the tool keypad_willox_wire on models/props_lab/keypad.mdl
+[00:31:24] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> used the tool keypad_willox_wire on models/props_lab/keypad.mdl
+[00:31:25] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> used the tool keypad_willox_wire on models/props_lab/keypad.mdl
+[00:31:25] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> used the tool keypad_willox_wire on models/props_lab/keypad.mdl
+[00:31:25] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> used the tool keypad_willox_wire on models/props_lab/keypad.mdl
+[00:31:25] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> used the tool keypad_willox_wire on models/hunter/blocks/cube3x4x025.mdl
+[00:31:26] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> used the tool keypad_willox_wire on models/props_lab/keypad.mdl
+[00:31:26] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> used the tool keypad_willox_wire on models/props_lab/keypad.mdl
+[00:31:26] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> used the tool keypad_willox_wire on models/props_lab/keypad.mdl
+[00:31:26] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> used the tool keypad_willox_wire on models/hunter/blocks/cube3x4x025.mdl
+[00:31:27] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> used the tool keypad_willox_wire on models/props_trainstation/bench_indoor001a.mdl
+[00:31:27] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> used the tool keypad_willox_wire on models/props_trainstation/bench_indoor001a.mdl
+[00:31:27] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> used the tool keypad_willox_wire on models/props_trainstation/bench_indoor001a.mdl
+[00:31:27] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> used the tool keypad_willox_wire on models/props_trainstation/bench_indoor001a.mdl
+[00:31:28] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> used the tool keypad_willox_wire on models/props_trainstation/bench_indoor001a.mdl
+[00:31:28] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> used the tool keypad_willox_wire on models/props_trainstation/bench_indoor001a.mdl
+[00:31:28] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> used the tool keypad_willox_wire on models/props_trainstation/bench_indoor001a.mdl
+[00:31:28] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> used the tool keypad_willox_wire on models/props_trainstation/bench_indoor001a.mdl
+[00:31:28] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> used the tool keypad_willox_wire on models/props_trainstation/bench_indoor001a.mdl
+[00:31:28] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> used the tool keypad_willox_wire on models/props_trainstation/bench_indoor001a.mdl
+[00:31:28] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> used the tool keypad_willox_wire on models/props_trainstation/bench_indoor001a.mdl
+[00:31:29] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> used the tool keypad_willox_wire on models/props_trainstation/bench_indoor001a.mdl
+[00:31:29] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> used the tool keypad_willox_wire on models/hunter/blocks/cube3x4x025.mdl
+[00:31:29] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> used the tool keypad_willox_wire on models/hunter/blocks/cube3x4x025.mdl
+[00:31:29] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> used the tool keypad_willox_wire on models/props_lab/keypad.mdl
+[00:31:29] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> used the tool keypad_willox_wire on models/props_lab/keypad.mdl
+[00:31:29] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> used the tool keypad_willox_wire on models/props_lab/keypad.mdl
+[00:31:29] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> used the tool keypad_willox_wire on models/props_lab/keypad.mdl
+[00:31:32] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> used the tool keypad_willox_wire on models/props_trainstation/bench_indoor001a.mdl
+[00:31:33] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> used the tool keypad_willox_wire on models/props_trainstation/bench_indoor001a.mdl
+[00:31:33] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> used the tool keypad_willox_wire on models/props_trainstation/bench_indoor001a.mdl
+[00:31:33] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> used the tool keypad_willox_wire on models/props_trainstation/bench_indoor001a.mdl
+[00:31:33] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> used the tool keypad_willox_wire on models/props_trainstation/bench_indoor001a.mdl
+[00:31:33] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> used the tool keypad_willox_wire on models/props_trainstation/bench_indoor001a.mdl
+[00:31:34] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> used the tool keypad_willox_wire on maps/rp_downtown_tits_v2.bsp
+[00:31:34] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> used the tool keypad_willox_wire on maps/rp_downtown_tits_v2.bsp
+[00:31:34] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> used the tool keypad_willox_wire on maps/rp_downtown_tits_v2.bsp
+[00:31:43] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> used the tool nocollide on models/props_trainstation/bench_indoor001a.mdl
+[00:31:46] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> used the tool nocollide on models/props_trainstation/bench_indoor001a.mdl
+[00:31:57] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�: who needs security?
+[00:32:00] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> spawned model models/hunter/blocks/cube4x8x1.mdl
+[00:32:43] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> spawned model models/hunter/blocks/cube4x8x05.mdl
+[00:33:21] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�: good wall
+[00:34:45] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�: Do i have to be weed dealer from brownie?
+[00:35:06] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�: muffin*
+[00:36:48] William<STEAM_0:0:52504530> spawned/gave himself swep cw_dpe_glock17
+[00:39:32] William<STEAM_0:0:52504530> spawned/gave himself swep cw_dpe_m98b
+[00:39:36] William<STEAM_0:0:52504530> spawned/gave himself swep cw_dpe_magpul_masada
+[00:39:39] William<STEAM_0:0:52504530> spawned/gave himself swep cw_dpe_masada_acr
+[00:39:44] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�<STEAM_0:0:437581052> used the tool textscreen on models/hunter/blocks/cube025x2x025.mdl
+[00:39:55] William<STEAM_0:0:52504530> spawned/gave himself swep cw_dpe_xm8
+[00:40:04] William<STEAM_0:0:52504530> spawned/gave himself swep cw_dpe_awm
+[00:42:24] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�: muffin for sale
+[00:44:32] William: /dropmoney 30000
+[00:44:41] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�: O:
+[00:44:54] William: very nice muffins
+[00:45:00] William: /dropmoney 30000
+[00:45:19] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�: why give me so much money?
+[00:45:25] William: because u made muffins
+[00:45:31] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�: Oh okay
+[00:45:54] 𝐸𝓉𝑒𝓇𝓃𝒾𝓉�: since bastixx killed me ima put soething extra in his muffin ill give hime
+[00:46:02] William: fair enough
+[00:46:18] William: i gotta go to bed because its almost 1 AM for me
+[00:46:28] William: you have a goodnight man
+[00:46:49] Dropped "William" from server<STEAM_0:0:52504530>
+[00:47:54] Dropped "𝐸𝓉𝑒𝓇𝓃𝒾𝓉�" from server<STEAM_0:0:437581052>
+[02:03:14] Client "apatterson" connected.
+[02:09:21] Client "apatterson" spawned in server <STEAM_0:1:237604763> (took 367 seconds).
+[02:11:33] Dropped "apatterson" from server<STEAM_0:1:237604763>
+[07:30:41] Client "eddv247" connected.
+[07:32:04] Client "eddv247" spawned in server <STEAM_0:0:47351013> (took 83 seconds).
+[08:08:42] Client "DevL" connected.
+[08:11:17] Client "DevL" spawned in server <STEAM_0:0:97157625> (took 155 seconds).
+[08:12:27] you: /casino
+[08:13:36] you: /name DevL
+[08:13:40] DevL: /casino
+[08:33:25] DevL: /casino
+[08:34:00] eddv247 suicided!
+[08:35:44] Dropped "DevL" from server<STEAM_0:0:97157625>
+[11:01:13] eddv247<STEAM_0:0:47351013> used the tool fading_door on maps/rp_downtown_tits_v2.bsp
+[11:01:14] eddv247<STEAM_0:0:47351013> used the tool fading_door on maps/rp_downtown_tits_v2.bsp
+[15:25:44] Client "Captain Salt Shaker" connected.
+[15:26:24] Client "DrDerpenstein sups.gg" connected.
+[15:27:57] Client "DrDerpenstein sups.gg" spawned in server <STEAM_0:0:13562763> (took 93 seconds).
+[15:30:43] Client "Captain Salt Shaker" spawned in server <STEAM_0:1:71319023> (took 299 seconds).
+[15:31:14] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_dp_vss
+[15:31:30] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_large
+[15:31:31] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_large
+[15:31:31] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_large
+[15:31:31] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_large
+[15:31:31] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_large
+[15:31:31] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_large
+[15:31:37] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[15:31:42] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_357_large
+[15:31:43] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_box_buckshot
+[15:32:00] Meth Man: Not much man
+[15:32:20] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[15:32:20] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[15:32:21] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[15:32:21] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[15:32:21] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[15:32:24] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1
+[15:32:24] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1
+[15:32:26] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_large
+[15:36:29] DrDerpenstein: /casino
+[15:37:14] Dan The Meme Man: Can the Mafia rob the bank?
+[15:39:58] DrDerpenstein<STEAM_0:0:13562763> spawned vehicle models/tdmcars/pon_fierogt.mdl
+[15:40:05] DrDerpenstein<STEAM_0:0:13562763> used the tool colour on models/tdmcars/pon_fierogt.mdl
+[15:40:08] DrDerpenstein<STEAM_0:0:13562763> used the tool colour on models/tdmcars/pon_fierogt.mdl
+[15:40:12] DrDerpenstein<STEAM_0:0:13562763> used the tool colour on models/tdmcars/pon_fierogt.mdl
+[15:40:16] DrDerpenstein<STEAM_0:0:13562763> used the tool colour on models/tdmcars/pon_fierogt.mdl
+[15:40:26] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_pistol_large
+[15:40:26] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_pistol_large
+[15:43:18] Dropped "Dan The Meme Man" from server<STEAM_0:1:71319023>
+[15:44:24] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_phx/wheels/metal_wheel1.mdl
+[15:44:27] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_phx/wheels/metal_wheel1.mdl
+[15:44:30] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_phx/wheels/metal_wheel1.mdl
+[15:44:38] DrDerpenstein<STEAM_0:0:13562763> used the tool nocollide on models/props_phx/wheels/metal_wheel1.mdl
+[15:44:39] DrDerpenstein<STEAM_0:0:13562763> used the tool nocollide on models/props_phx/wheels/metal_wheel1.mdl
+[15:44:41] DrDerpenstein<STEAM_0:0:13562763> used the tool nocollide on models/props_phx/wheels/metal_wheel1.mdl
+[15:44:42] DrDerpenstein<STEAM_0:0:13562763> used the tool nocollide on models/props_phx/wheels/metal_wheel1.mdl
+[15:44:48] DrDerpenstein<STEAM_0:0:13562763> used the tool nocollide on models/props_phx/wheels/metal_wheel1.mdl
+[15:44:49] DrDerpenstein<STEAM_0:0:13562763> used the tool nocollide on models/props_phx/wheels/metal_wheel1.mdl
+[15:45:00] DrDerpenstein<STEAM_0:0:13562763> used the tool nocollide on models/props_phx/wheels/metal_wheel1.mdl
+[15:45:01] DrDerpenstein<STEAM_0:0:13562763> used the tool nocollide on maps/rp_downtown_tits_v2.bsp
+[15:45:01] DrDerpenstein<STEAM_0:0:13562763> used the tool nocollide on models/props_phx/wheels/metal_wheel1.mdl
+[15:45:07] DrDerpenstein<STEAM_0:0:13562763> used the tool nocollide on models/props_phx/wheels/metal_wheel1.mdl
+[15:45:08] DrDerpenstein<STEAM_0:0:13562763> used the tool nocollide on models/props_phx/wheels/metal_wheel1.mdl
+[15:55:29] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_pistol
+[15:55:58] DrDerpenstein suicided!
+[15:56:03] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_pistol
+[15:56:57] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_ar2
+[16:01:48] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_large
+[16:01:49] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_large
+[16:01:49] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_large
+[16:01:49] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_large
+[16:01:49] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_357_large
+[16:01:49] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_357_large
+[16:01:50] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_357_large
+[16:01:50] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_357_large
+[16:01:50] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[16:01:50] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[16:01:50] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[16:01:50] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[16:01:51] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[16:01:51] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_altfire
+[16:01:51] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_altfire
+[16:01:51] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_altfire
+[16:01:52] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_pistol_large
+[16:01:52] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_pistol_large
+[16:01:52] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_pistol_large
+[16:01:52] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_pistol_large
+[16:01:52] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[16:01:53] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[16:01:53] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[16:01:53] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_box_buckshot
+[16:01:54] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_box_buckshot
+[16:01:54] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_box_buckshot
+[16:01:54] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_crossbow
+[16:01:54] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_crossbow
+[16:01:54] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_crossbow
+[16:01:55] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_crossbow
+[16:01:55] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[16:01:55] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[16:01:55] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[16:01:56] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[16:01:56] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[16:01:56] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_grenade
+[16:01:56] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_grenade
+[16:01:56] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_grenade
+[16:01:57] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[16:01:59] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[16:02:59] DrDerpenstein: !purge
+[16:03:39] DrDerpenstein<STEAM_0:0:13562763> used the tool remover on models/craphead_scripts/adv_keys/props/alarm.mdl
+[16:04:11] DrDerpenstein: gmod_tool
+[16:17:38] Dropped "DrDerpenstein" from server<STEAM_0:0:13562763>
+[18:02:52] Client "♛Lyvio♛" connected.
+[18:20:21] Dropped "eddv247" from server<STEAM_0:0:47351013>
+[18:20:54] Client "♛Lyvio♛" spawned in server <STEAM_0:1:180550644> (took 1082 seconds).
+[18:22:39] Dropped "♛Lyvio♛" from server<STEAM_0:1:180550644>
+[19:10:33] Client "Doof" connected.
+[19:13:06] Client "Doof" spawned in server <STEAM_0:1:426762407> (took 153 seconds).
+[19:14:35] Dropped "Doof" from server<STEAM_0:1:426762407>
+<Logging continued in "data/ulx_logs/08-18-19.txt">

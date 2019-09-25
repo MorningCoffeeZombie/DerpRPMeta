@@ -1,0 +1,27 @@
+Tue Jul 16 01:25:12 2019	Derp (STEAM_0:0:52504530) has joined the game
+Tue Jul 16 01:25:12 2019	Derp (STEAM_0:0:52504530) spawned
+Tue Jul 16 01:25:18 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) has joined the game
+Tue Jul 16 01:25:18 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned
+Tue Jul 16 01:25:30 2019	Kaderator (STEAM_0:1:422793312) has joined the game
+Tue Jul 16 01:25:30 2019	Kaderator (STEAM_0:1:422793312) spawned
+Tue Jul 16 01:25:54 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // derp
+Tue Jul 16 01:25:58 2019	Derp (STEAM_0:0:52504530): /ooc yes
+Tue Jul 16 01:26:00 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // it says lockdown
+Tue Jul 16 01:26:03 2019	Derp (STEAM_0:0:52504530): /ooc i know
+Tue Jul 16 01:26:04 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // and wanted by police
+Tue Jul 16 01:26:06 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // reason :nil
+Tue Jul 16 01:26:15 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // and SOMETHING is creating errors
+Tue Jul 16 01:26:40 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): whats broke :c
+Tue Jul 16 01:26:47 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // whats broke :c
+Tue Jul 16 01:26:55 2019	Derp (STEAM_0:0:52504530): /ooc nothing that i did
+Tue Jul 16 01:26:59 2019	Derp (STEAM_0:0:52504530): /ooc thats something that UG did
+Tue Jul 16 01:27:06 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): ill try to rejoin >~>
+Tue Jul 16 01:27:08 2019	Derp (STEAM_0:0:52504530): /ooc ill fix it now by deleting it and then talking to him later about this incident
+Tue Jul 16 01:27:17 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // oki oki
+Tue Jul 16 01:27:23 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // ill try to rejoin
+Tue Jul 16 01:27:27 2019	Derp (STEAM_0:0:52504530): no dont
+Tue Jul 16 01:27:28 2019	Derp (STEAM_0:0:52504530): /ooc no
+Tue Jul 16 01:27:32 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // :c
+Tue Jul 16 01:27:33 2019	Derp (STEAM_0:0:52504530): /ooc this is gonna require a restart
+Tue Jul 16 01:27:39 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // o oki
+Tue Jul 16 01:27:48 2019	Kaderator (STEAM_0:1:422793312): /pm Derp can i apply?

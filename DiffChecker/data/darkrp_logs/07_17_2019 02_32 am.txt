@@ -1,0 +1,315 @@
+Wed Jul 17 02:32:40 2019	Derp (STEAM_0:0:52504530) has joined the game
+Wed Jul 17 02:32:40 2019	William (STEAM_0:0:52504530) spawned
+Wed Jul 17 02:33:29 2019	William (STEAM_0:0:52504530) spawned Vehicle prop_vehicle_jeep (dod_ram_1500tdm)
+Wed Jul 17 02:33:53 2019	Parrasky (STEAM_0:1:195542352) has joined the game
+Wed Jul 17 02:33:53 2019	Parrasky (STEAM_0:1:195542352) spawned
+Wed Jul 17 02:34:01 2019	UG | M A S T E R (STEAM_0:1:180622613) has joined the game
+Wed Jul 17 02:34:01 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Wed Jul 17 02:34:14 2019	William (STEAM_0:0:52504530): hi
+Wed Jul 17 02:34:16 2019	William (STEAM_0:0:52504530): hi
+Wed Jul 17 02:34:17 2019	William (STEAM_0:0:52504530): hi
+Wed Jul 17 02:34:18 2019	William (STEAM_0:0:52504530): hi
+Wed Jul 17 02:34:39 2019	UG | M A S T E R (STEAM_0:1:180622613): hi
+Wed Jul 17 02:34:40 2019	UG | M A S T E R (STEAM_0:1:180622613): hi
+Wed Jul 17 02:34:41 2019	UG | M A S T E R (STEAM_0:1:180622613): hi
+Wed Jul 17 02:36:01 2019	William (STEAM_0:0:52504530) disconnected
+Wed Jul 17 02:36:39 2019	UG | M A S T E R (STEAM_0:1:180622613): hi``
+Wed Jul 17 02:36:42 2019	UG | M A S T E R (STEAM_0:1:180622613): // there
+Wed Jul 17 02:37:04 2019	UG | M A S T E R (STEAM_0:1:180622613) disconnected
+Wed Jul 17 05:29:49 2019	Rain (STEAM_0:1:222924840) has joined the game
+Wed Jul 17 05:29:49 2019	Rain (STEAM_0:1:222924840) spawned
+Wed Jul 17 05:31:04 2019	Rain (STEAM_0:1:222924840): /me strips weapons and comms and binds to me
+Wed Jul 17 05:31:13 2019	Rain (STEAM_0:1:222924840): !menu
+Wed Jul 17 05:33:18 2019	Rain (STEAM_0:1:222924840): !motf
+Wed Jul 17 05:33:21 2019	Rain (STEAM_0:1:222924840): !Motd
+Wed Jul 17 05:39:28 2019	Parrasky (STEAM_0:1:195542352): /ooc hey rain are you new to the server
+Wed Jul 17 05:39:35 2019	Rain (STEAM_0:1:222924840): // yeah
+Wed Jul 17 05:39:41 2019	Parrasky (STEAM_0:1:195542352): /ooc epicccc
+Wed Jul 17 05:40:16 2019	Parrasky (STEAM_0:1:195542352): /ooc btw the server was made like 6-7 days ago
+Wed Jul 17 05:40:30 2019	Rain (STEAM_0:1:222924840): // ok
+Wed Jul 17 05:40:34 2019	Parrasky (STEAM_0:1:195542352): /ooc where u basin
+Wed Jul 17 05:41:06 2019	Rain (STEAM_0:1:222924840): // i will to u
+Wed Jul 17 05:41:13 2019	Rain (STEAM_0:1:222924840): // i will come to u
+Wed Jul 17 05:41:23 2019	Parrasky (STEAM_0:1:195542352): /ooc ok come to the fountin
+Wed Jul 17 05:41:30 2019	Rain (STEAM_0:1:222924840): // k
+Wed Jul 17 05:41:35 2019	Parrasky (STEAM_0:1:195542352): /ooc near pd
+Wed Jul 17 05:41:48 2019	Rain (STEAM_0:1:222924840): // is the big white base yours?
+Wed Jul 17 05:41:55 2019	Parrasky (STEAM_0:1:195542352): /ooc yeah
+Wed Jul 17 05:41:58 2019	Rain (STEAM_0:1:222924840): // ok
+Wed Jul 17 05:42:18 2019	Rain (STEAM_0:1:222924840): good
+Wed Jul 17 05:42:27 2019	Rain (STEAM_0:1:222924840): no
+Wed Jul 17 05:43:02 2019	Rain (STEAM_0:1:222924840): that is cool
+Wed Jul 17 05:43:09 2019	Rain (STEAM_0:1:222924840): nice base
+Wed Jul 17 05:43:45 2019	Rain (STEAM_0:1:222924840): what type of printer
+Wed Jul 17 05:43:55 2019	Rain (STEAM_0:1:222924840): ok
+Wed Jul 17 05:44:17 2019	Rain (STEAM_0:1:222924840): is the fuel refiner a good way to make money without printers
+Wed Jul 17 05:44:33 2019	Rain (STEAM_0:1:222924840): writing?
+Wed Jul 17 05:44:42 2019	Rain (STEAM_0:1:222924840): oh grinding yeah
+Wed Jul 17 05:45:17 2019	Rain (STEAM_0:1:222924840): how do the printers work cuz i don't know those printer and yes
+Wed Jul 17 05:46:10 2019	Rain (STEAM_0:1:222924840): ok i get it
+Wed Jul 17 05:46:49 2019	Rain (STEAM_0:1:222924840): e
+Wed Jul 17 05:46:54 2019	Rain (STEAM_0:1:222924840): !printers
+Wed Jul 17 05:47:04 2019	Rain (STEAM_0:1:222924840): .!pritners
+Wed Jul 17 05:47:11 2019	Rain (STEAM_0:1:222924840): .!printers
+Wed Jul 17 05:47:17 2019	Rain (STEAM_0:1:222924840): oh
+Wed Jul 17 05:52:41 2019	Rain (STEAM_0:1:222924840): ok thanks
+Wed Jul 17 05:52:47 2019	Parrasky (STEAM_0:1:195542352): /dropmoney 2000000
+Wed Jul 17 05:52:48 2019	Parrasky (STEAM_0:1:195542352) has dropped $2,000,000
+Wed Jul 17 05:52:58 2019	Rain (STEAM_0:1:222924840): // ok you too
+Wed Jul 17 06:08:38 2019	keenster80 (STEAM_0:1:502175699) has joined the game
+Wed Jul 17 06:08:38 2019	keenster80 (STEAM_0:1:502175699) spawned
+Wed Jul 17 06:11:13 2019	keenster80 (STEAM_0:1:502175699) disconnected
+Wed Jul 17 06:16:31 2019	keenster80 (STEAM_0:1:502175699) has joined the game
+Wed Jul 17 06:16:31 2019	keenster80 (STEAM_0:1:502175699) spawned
+Wed Jul 17 06:19:02 2019	keenster80 (STEAM_0:1:502175699) disconnected
+Wed Jul 17 06:42:19 2019	Rain (STEAM_0:1:222924840): // how much money are you at?
+Wed Jul 17 06:53:45 2019	Rain (STEAM_0:1:222924840) disconnected
+Wed Jul 17 07:27:43 2019	Parrasky (STEAM_0:1:195542352): /bee
+Wed Jul 17 07:27:44 2019	Parrasky (STEAM_0:1:195542352): /bee
+Wed Jul 17 07:36:59 2019	Parrasky (STEAM_0:1:195542352): /admin
+Wed Jul 17 07:37:32 2019	Parrasky (STEAM_0:1:195542352): /ooc u there
+Wed Jul 17 07:47:59 2019	litnig mqcueen (STEAM_0:1:5145584) has joined the game
+Wed Jul 17 07:47:59 2019	litnig mqueen (STEAM_0:1:5145584) spawned
+Wed Jul 17 07:48:51 2019	litnig mqueen (STEAM_0:1:5145584): !warn
+Wed Jul 17 07:51:26 2019	litnig mqueen (STEAM_0:1:5145584): 
+Wed Jul 17 07:51:54 2019	Parrasky was killed by litnig mqueen with a fas2_deagle
+Wed Jul 17 07:52:02 2019	Parrasky (STEAM_0:1:195542352) spawned
+Wed Jul 17 07:53:38 2019	litnig mqueen was killed by Himself with a suicide trick
+Wed Jul 17 07:53:40 2019	litnig mqueen (STEAM_0:1:5145584) spawned
+Wed Jul 17 08:03:38 2019	litnig mqueen (STEAM_0:1:5145584): /drop
+Wed Jul 17 08:03:41 2019	litnig mqueen was killed by Himself with a suicide trick
+Wed Jul 17 08:03:43 2019	litnig mqueen (STEAM_0:1:5145584) spawned
+Wed Jul 17 08:11:13 2019	Parrasky was killed by Himself with a suicide trick
+Wed Jul 17 08:11:16 2019	Parrasky (STEAM_0:1:195542352) spawned
+Wed Jul 17 08:13:21 2019	litnig mqueen was killed by Parrasky with a gmod_wire_explosive
+Wed Jul 17 08:13:21 2019	Parrasky was killed by Himself with a suicide trick
+Wed Jul 17 08:13:23 2019	Parrasky (STEAM_0:1:195542352) spawned
+Wed Jul 17 08:13:23 2019	litnig mqueen (STEAM_0:1:5145584) spawned
+Wed Jul 17 08:14:12 2019	Parrasky was killed by Himself with a suicide trick
+Wed Jul 17 08:14:15 2019	Parrasky (STEAM_0:1:195542352) spawned
+Wed Jul 17 08:14:53 2019	Parrasky was killed by Himself with a suicide trick
+Wed Jul 17 08:14:56 2019	Parrasky (STEAM_0:1:195542352) spawned
+Wed Jul 17 08:16:57 2019	litnig mqueen was killed by Parrasky with a gmod_wire_explosive
+Wed Jul 17 08:16:57 2019	Parrasky was killed by Himself with a suicide trick
+Wed Jul 17 08:16:59 2019	litnig mqueen (STEAM_0:1:5145584) spawned
+Wed Jul 17 08:17:00 2019	Parrasky (STEAM_0:1:195542352) spawned
+Wed Jul 17 08:19:04 2019	Parrasky was killed by Himself with a suicide trick
+Wed Jul 17 08:19:07 2019	Parrasky (STEAM_0:1:195542352) spawned
+Wed Jul 17 08:19:36 2019	Parrasky was killed by Himself with a suicide trick
+Wed Jul 17 08:19:41 2019	Parrasky (STEAM_0:1:195542352) spawned
+Wed Jul 17 08:21:19 2019	litnig mqueen was killed by Entity [0][worldspawn] with a unknown
+Wed Jul 17 08:21:21 2019	litnig mqueen (STEAM_0:1:5145584) spawned
+Wed Jul 17 08:24:24 2019	Parrasky was killed by Himself with a suicide trick
+Wed Jul 17 08:24:26 2019	Parrasky (STEAM_0:1:195542352) spawned
+Wed Jul 17 08:27:04 2019	Parrasky (STEAM_0:1:195542352) disconnected
+Wed Jul 17 09:28:17 2019	Parrasky (STEAM_0:1:195542352) has joined the game
+Wed Jul 17 09:28:17 2019	Parrasky (STEAM_0:1:195542352) spawned
+Wed Jul 17 09:41:51 2019	litnig mqueen (STEAM_0:1:5145584): 
+Wed Jul 17 09:41:54 2019	litnig mqueen (STEAM_0:1:5145584): 
+Wed Jul 17 09:41:56 2019	litnig mqueen (STEAM_0:1:5145584): 
+Wed Jul 17 09:42:30 2019	Parrasky (STEAM_0:1:195542352): /ADVERT RAID KOS EVERYONE
+Wed Jul 17 09:42:33 2019	litnig mqueen was killed by Parrasky with a fas2_rem870
+Wed Jul 17 09:42:37 2019	litnig mqueen (STEAM_0:1:5145584) spawned
+Wed Jul 17 09:42:48 2019	Parrasky (STEAM_0:1:195542352): 
+Wed Jul 17 09:43:04 2019	Parrasky was killed by litnig mqueen with a fas2_p226
+Wed Jul 17 09:43:13 2019	Parrasky (STEAM_0:1:195542352) spawned
+Wed Jul 17 09:43:38 2019	Parrasky (STEAM_0:1:195542352): /ooc nice nlr
+Wed Jul 17 09:43:44 2019	Parrasky (STEAM_0:1:195542352): /ooc i was recording too
+Wed Jul 17 09:50:51 2019	litnig mqueen (STEAM_0:1:5145584): /drop
+Wed Jul 17 09:51:08 2019	litnig mqueen (STEAM_0:1:5145584): /ooc are you afk
+Wed Jul 17 09:53:51 2019	Parrasky (STEAM_0:1:195542352): 
+Wed Jul 17 09:55:41 2019	litnig mqueen was killed by Parrasky with a fas2_rem870
+Wed Jul 17 09:55:47 2019	litnig mqueen (STEAM_0:1:5145584) spawned
+Wed Jul 17 09:59:46 2019	litnig mqueen (STEAM_0:1:5145584): 
+Wed Jul 17 10:01:52 2019	litnig mqueen (STEAM_0:1:5145584) disconnected
+Wed Jul 17 10:02:52 2019	litnig mqcueen (STEAM_0:1:5145584) has joined the game
+Wed Jul 17 10:02:52 2019	litnig mqueen (STEAM_0:1:5145584) spawned
+Wed Jul 17 10:03:13 2019	Parrasky (STEAM_0:1:195542352): /OOC WOW
+Wed Jul 17 10:03:17 2019	Parrasky (STEAM_0:1:195542352): /ooc clever
+Wed Jul 17 10:03:26 2019	litnig mqueen (STEAM_0:1:5145584): /ooc i crashed
+Wed Jul 17 10:03:32 2019	Parrasky (STEAM_0:1:195542352): no you didn't
+Wed Jul 17 10:03:32 2019	litnig mqueen (STEAM_0:1:5145584): /ooc lol
+Wed Jul 17 10:03:40 2019	litnig mqueen (STEAM_0:1:5145584): /ooc stupid game 
+Wed Jul 17 10:04:13 2019	Parrasky (STEAM_0:1:195542352): /ooc im not stupid if u crashed it would say (Urname) has disconnected
+Wed Jul 17 10:04:41 2019	litnig mqueen (STEAM_0:1:5145584): /ooc well i did crash
+Wed Jul 17 10:05:37 2019	iWolfz -ERP- (STEAM_0:0:443923189) has joined the game
+Wed Jul 17 10:05:37 2019	iWolfz -ERP- (STEAM_0:0:443923189) spawned
+Wed Jul 17 10:05:54 2019	litnig mqueen was killed by Himself with a suicide trick
+Wed Jul 17 10:05:57 2019	litnig mqueen (STEAM_0:1:5145584) spawned
+Wed Jul 17 10:06:16 2019	Parrasky (STEAM_0:1:195542352): /ooc richest player = me
+Wed Jul 17 10:06:29 2019	raging anger (STEAM_0:1:173596079) has joined the game
+Wed Jul 17 10:06:29 2019	Sahid_Plays_Game.ttv (STEAM_0:1:173596079) spawned
+Wed Jul 17 10:06:29 2019	litnig mqueen (STEAM_0:1:5145584): /ooc no one cares
+Wed Jul 17 10:06:29 2019	iWolfz -ERP- (STEAM_0:0:443923189): // how much u have
+Wed Jul 17 10:06:35 2019	Parrasky (STEAM_0:1:195542352): /ooc 59m
+Wed Jul 17 10:06:39 2019	iWolfz -ERP- (STEAM_0:0:443923189): // Can  Iget
+Wed Jul 17 10:06:41 2019	iWolfz -ERP- (STEAM_0:0:443923189): // xD
+Wed Jul 17 10:08:00 2019	crybaby (STEAM_0:0:508625699) has joined the game
+Wed Jul 17 10:08:00 2019	crybaby (STEAM_0:0:508625699) spawned
+Wed Jul 17 10:09:10 2019	crybaby (STEAM_0:0:508625699) disconnected
+Wed Jul 17 10:09:32 2019	iWolfz -ERP- was killed by litnig mqueen with a fas2_p226
+Wed Jul 17 10:09:34 2019	iWolfz -ERP- (STEAM_0:0:443923189) spawned
+Wed Jul 17 10:10:52 2019	litnig mqueen (STEAM_0:1:5145584): 
+Wed Jul 17 10:11:17 2019	Parrasky was killed by Sahid_Plays_Game.ttv with a fas2_deagle
+Wed Jul 17 10:11:23 2019	Parrasky (STEAM_0:1:195542352) spawned
+Wed Jul 17 10:11:26 2019	Sahid_Plays_Game.ttv (STEAM_0:1:173596079): it was an accident
+Wed Jul 17 10:11:27 2019	Sahid_Plays_Game.ttv (STEAM_0:1:173596079): sorr
+Wed Jul 17 10:11:27 2019	Parrasky (STEAM_0:1:195542352): /ooc permban
+Wed Jul 17 10:11:30 2019	Sahid_Plays_Game.ttv (STEAM_0:1:173596079): i missclicked
+Wed Jul 17 10:11:32 2019	Sahid_Plays_Game.ttv (STEAM_0:1:173596079): please
+Wed Jul 17 10:11:32 2019	iWolfz -ERP- (STEAM_0:0:443923189): !warb 
+Wed Jul 17 10:11:36 2019	iWolfz -ERP- (STEAM_0:0:443923189): !warn
+Wed Jul 17 10:12:04 2019	Parrasky (STEAM_0:1:195542352): 
+Wed Jul 17 10:12:10 2019	Parrasky was killed by Sahid_Plays_Game.ttv with a fas2_deagle
+Wed Jul 17 10:12:12 2019	Parrasky (STEAM_0:1:195542352) spawned
+Wed Jul 17 10:12:19 2019	sanguinemphyxia (STEAM_0:1:179491585) has joined the game
+Wed Jul 17 10:12:19 2019	sanguinemphyxia (STEAM_0:1:179491585) spawned
+Wed Jul 17 10:13:18 2019	iWolfz -ERP- was killed by Himself with a suicide trick
+Wed Jul 17 10:13:22 2019	iWolfz -ERP- (STEAM_0:0:443923189) spawned
+Wed Jul 17 10:13:39 2019	Sahid_Plays_Game.ttv (STEAM_0:1:173596079): :D
+Wed Jul 17 10:13:51 2019	sanguinemphyxia (STEAM_0:1:179491585): ok
+Wed Jul 17 10:15:04 2019	crybaby (STEAM_0:0:508625699) has joined the game
+Wed Jul 17 10:15:04 2019	crybaby (STEAM_0:0:508625699) spawned
+Wed Jul 17 10:15:37 2019	Dio (STEAM_0:0:497465680) has joined the game
+Wed Jul 17 10:15:37 2019	Dio (STEAM_0:0:497465680) spawned
+Wed Jul 17 10:15:52 2019	litnig mqueen (STEAM_0:1:5145584): /warrant Parrasky big gey
+Wed Jul 17 10:15:56 2019	iWolfz -ERP- (STEAM_0:0:443923189): 
+Wed Jul 17 10:16:05 2019	litnig mqueen was killed by Parrasky with a fas2_galil
+Wed Jul 17 10:16:11 2019	litnig mqueen (STEAM_0:1:5145584) spawned
+Wed Jul 17 10:16:34 2019	iWolfz -ERP- was killed by Parrasky with a fas2_galil
+Wed Jul 17 10:16:37 2019	iWolfz -ERP- (STEAM_0:0:443923189) spawned
+Wed Jul 17 10:16:49 2019	iWolfz -ERP- (STEAM_0:0:443923189): // Dont disrespect
+Wed Jul 17 10:16:57 2019	crybaby (STEAM_0:0:508625699) disconnected
+Wed Jul 17 10:17:00 2019	Parrasky (STEAM_0:1:195542352): /ooc this guy called me a fag lol
+Wed Jul 17 10:17:02 2019	iWolfz -ERP- was killed by Sahid_Plays_Game.ttv with a fas2_deagle
+Wed Jul 17 10:17:04 2019	iWolfz -ERP- (STEAM_0:0:443923189) spawned
+Wed Jul 17 10:17:08 2019	Parrasky (STEAM_0:1:195542352): /ooc i wasn't disrespectin
+Wed Jul 17 10:17:10 2019	litnig mqueen was killed by Himself with a suicide trick
+Wed Jul 17 10:17:15 2019	Parrasky (STEAM_0:1:195542352): /ooc u mad u got clapped
+Wed Jul 17 10:17:17 2019	iWolfz -ERP- (STEAM_0:0:443923189): // You disrespected me lol
+Wed Jul 17 10:17:25 2019	Parrasky (STEAM_0:1:195542352): /ooc i said ur garbage
+Wed Jul 17 10:17:25 2019	litnig mqueen (STEAM_0:1:5145584): /ooc you said we sucked ass lol
+Wed Jul 17 10:17:26 2019	litnig mqueen (STEAM_0:1:5145584) spawned
+Wed Jul 17 10:17:34 2019	iWolfz -ERP- (STEAM_0:0:443923189): // Yes, disrespect
+Wed Jul 17 10:17:35 2019	Parrasky (STEAM_0:1:195542352): /ooc lol that
+Wed Jul 17 10:17:40 2019	Parrasky (STEAM_0:1:195542352): /ooc idc
+Wed Jul 17 10:17:42 2019	Dio was killed by sanguinemphyxia with a fas2_p226
+Wed Jul 17 10:17:42 2019	litnig mqueen (STEAM_0:1:5145584): /ooc you said we sucked ass lol
+Wed Jul 17 10:17:45 2019	sanguinemphyxia was killed by Sahid_Plays_Game.ttv with a fas2_deagle
+Wed Jul 17 10:17:46 2019	Dio (STEAM_0:0:497465680) spawned
+Wed Jul 17 10:17:48 2019	sanguinemphyxia (STEAM_0:1:179491585) spawned
+Wed Jul 17 10:17:51 2019	iWolfz -ERP- (STEAM_0:0:443923189): // If you don't care, want a mute then?
+Wed Jul 17 10:17:56 2019	Parrasky (STEAM_0:1:195542352): /ooc ok
+Wed Jul 17 10:17:59 2019	Parrasky (STEAM_0:1:195542352): /ooc cool
+Wed Jul 17 10:18:08 2019	Dio was killed by sanguinemphyxia with a fas2_p226
+Wed Jul 17 10:18:10 2019	Dio (STEAM_0:0:497465680) spawned
+Wed Jul 17 10:18:13 2019	iWolfz -ERP- (STEAM_0:0:443923189): 
+Wed Jul 17 10:18:15 2019	iWolfz -ERP- (STEAM_0:0:443923189): /mute
+Wed Jul 17 10:18:18 2019	iWolfz -ERP- (STEAM_0:0:443923189): 
+Wed Jul 17 10:18:22 2019	iWolfz -ERP- (STEAM_0:0:443923189): // I can't mute...
+Wed Jul 17 10:18:28 2019	iWolfz -ERP- (STEAM_0:0:443923189): // I guess I will warn you then
+Wed Jul 17 10:18:32 2019	Parrasky (STEAM_0:1:195542352): /ooc ok
+Wed Jul 17 10:18:35 2019	Parrasky (STEAM_0:1:195542352): /ooc sure
+Wed Jul 17 10:18:39 2019	Dio (STEAM_0:0:497465680): stop rdming
+Wed Jul 17 10:18:39 2019	iWolfz -ERP- (STEAM_0:0:443923189): !warn  Parrasky Staff Disrespect
+Wed Jul 17 10:18:44 2019	iWolfz -ERP- (STEAM_0:0:443923189): !warn Parrasky Staff Disrespect
+Wed Jul 17 10:18:54 2019	Sahid_Plays_Game.ttv was killed by Himself with a suicide trick
+Wed Jul 17 10:18:56 2019	Sahid_Plays_Game.ttv (STEAM_0:1:173596079) spawned
+Wed Jul 17 10:18:59 2019	sanguinemphyxia (STEAM_0:1:179491585): suk my dic admen
+Wed Jul 17 10:19:01 2019	Parrasky (STEAM_0:1:195542352): /OOC wow nice try ur ok at raiding
+Wed Jul 17 10:19:04 2019	Parrasky was killed by Himself with a suicide trick
+Wed Jul 17 10:19:06 2019	sanguinemphyxia (STEAM_0:1:179491585) spawned
+Wed Jul 17 10:19:06 2019	litnig mqueen (STEAM_0:1:5145584) arrested sanguinemphyxia
+Wed Jul 17 10:19:07 2019	Parrasky (STEAM_0:1:195542352) spawned
+Wed Jul 17 10:19:13 2019	Sahid_Plays_Game.ttv (STEAM_0:1:173596079): hello
+Wed Jul 17 10:19:28 2019	iWolfz -ERP- (STEAM_0:0:443923189): // Lol
+Wed Jul 17 10:19:52 2019	Sahid_Plays_Game.ttv (STEAM_0:1:173596079): parrasky has a very gummy voice
+Wed Jul 17 10:20:03 2019	Parrasky (STEAM_0:1:195542352): 
+Wed Jul 17 10:20:07 2019	Parrasky was killed by litnig mqueen with a fas2_glock20
+Wed Jul 17 10:20:10 2019	crybaby (STEAM_0:0:508625699) has joined the game
+Wed Jul 17 10:20:10 2019	crybaby (STEAM_0:0:508625699) spawned
+Wed Jul 17 10:20:11 2019	Sahid_Plays_Game.ttv (STEAM_0:1:173596079): thank you
+Wed Jul 17 10:20:14 2019	Parrasky (STEAM_0:1:195542352) spawned
+Wed Jul 17 10:20:25 2019	UG | M A S T E R (STEAM_0:1:180622613) has joined the game
+Wed Jul 17 10:20:25 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Wed Jul 17 10:20:46 2019	Sahid_Plays_Game.ttv (STEAM_0:1:173596079) spawned
+Wed Jul 17 10:20:46 2019	litnig mqueen (STEAM_0:1:5145584) arrested Sahid_Plays_Game.ttv
+Wed Jul 17 10:21:15 2019	UG | M A S T E R (STEAM_0:1:180622613): hey
+Wed Jul 17 10:21:54 2019	UG | M A S T E R (STEAM_0:1:180622613): wire
+Wed Jul 17 10:22:10 2019	iWolfz -ERP- (STEAM_0:0:443923189): // ug
+Wed Jul 17 10:22:29 2019	iWolfz -ERP- (STEAM_0:0:443923189): /pm ug Can mods get !gag and !mute
+Wed Jul 17 10:23:03 2019	crybaby (STEAM_0:0:508625699) disconnected
+Wed Jul 17 10:23:19 2019	UG | M A S T E R (STEAM_0:1:180622613): !gag san
+Wed Jul 17 10:23:35 2019	UG | M A S T E R (STEAM_0:1:180622613): nice
+Wed Jul 17 10:23:45 2019	UG | M A S T E R (STEAM_0:1:180622613): thanks
+Wed Jul 17 10:23:58 2019	UG | M A S T E R (STEAM_0:1:180622613): Mine some oil
+Wed Jul 17 10:24:28 2019	Sahid_Plays_Game.ttv (STEAM_0:1:173596079): mhm
+Wed Jul 17 10:25:03 2019	iWolfz -ERP- (STEAM_0:0:443923189): // CAn anyone be a gun dealer
+Wed Jul 17 10:25:43 2019	UG | M A S T E R (STEAM_0:1:180622613): !unbox
+Wed Jul 17 10:26:23 2019	UG | M A S T E R (STEAM_0:1:180622613): !unbox
+Wed Jul 17 10:26:24 2019	iWolfz -ERP- (STEAM_0:0:443923189): !unbox
+Wed Jul 17 10:26:49 2019	iWolfz -ERP- (STEAM_0:0:443923189): // brah I can't even afford to buy weed
+Wed Jul 17 10:27:00 2019	sanguinemphyxia was killed by UG | M A S T E R with a fas2_ots33
+Wed Jul 17 10:27:02 2019	Parrasky (STEAM_0:1:195542352): /OOC i can help...
+Wed Jul 17 10:27:03 2019	sanguinemphyxia (STEAM_0:1:179491585) spawned
+Wed Jul 17 10:27:11 2019	sanguinemphyxia (STEAM_0:1:179491585): wtf rdm
+Wed Jul 17 10:27:14 2019	Parrasky (STEAM_0:1:195542352): /ooc where u at
+Wed Jul 17 10:27:17 2019	iWolfz -ERP- (STEAM_0:0:443923189): //behind u
+Wed Jul 17 10:27:19 2019	iWolfz -ERP- (STEAM_0:0:443923189): // xD
+Wed Jul 17 10:27:29 2019	UG | M A S T E R (STEAM_0:1:180622613): no
+Wed Jul 17 10:27:30 2019	Parrasky (STEAM_0:1:195542352): /dropmoney 2000000
+Wed Jul 17 10:27:31 2019	Parrasky (STEAM_0:1:195542352) has dropped $2,000,000
+Wed Jul 17 10:27:33 2019	Sahid_Plays_Game.ttv (STEAM_0:1:173596079): yes
+Wed Jul 17 10:27:37 2019	iWolfz -ERP- was killed by Himself with a suicide trick
+Wed Jul 17 10:27:40 2019	iWolfz -ERP- (STEAM_0:0:443923189) spawned
+Wed Jul 17 10:27:41 2019	iWolfz -ERP- (STEAM_0:0:443923189): // BRAH
+Wed Jul 17 10:27:48 2019	crybaby (STEAM_0:0:508625699) has joined the game
+Wed Jul 17 10:27:48 2019	crybaby (STEAM_0:0:508625699) spawned
+Wed Jul 17 10:27:55 2019	iWolfz -ERP- (STEAM_0:0:443923189): // I thought u would give me prob 5k
+Wed Jul 17 10:28:03 2019	iWolfz -ERP- (STEAM_0:0:443923189): // max 20k
+Wed Jul 17 10:28:05 2019	iWolfz -ERP- (STEAM_0:0:443923189): // But
+Wed Jul 17 10:28:12 2019	iWolfz -ERP- (STEAM_0:0:443923189): // u give me 2 mil
+Wed Jul 17 10:28:15 2019	iWolfz -ERP- (STEAM_0:0:443923189): !unbx
+Wed Jul 17 10:28:16 2019	iWolfz -ERP- (STEAM_0:0:443923189): !unbox
+Wed Jul 17 10:28:24 2019	sanguinemphyxia was killed by Himself with a suicide trick
+Wed Jul 17 10:28:26 2019	sanguinemphyxia (STEAM_0:1:179491585) spawned
+Wed Jul 17 10:28:48 2019	iWolfz -ERP- (STEAM_0:0:443923189): // MONEY CRATE SCAM
+Wed Jul 17 10:28:48 2019	Parrasky (STEAM_0:1:195542352): /unbox
+Wed Jul 17 10:28:54 2019	iWolfz -ERP- (STEAM_0:0:443923189): // brah
+Wed Jul 17 10:29:15 2019	iWolfz -ERP- (STEAM_0:0:443923189): /pm ug yo
+Wed Jul 17 10:29:24 2019	iWolfz -ERP- (STEAM_0:0:443923189): /pm ug Can u give vip perms to mod xD ?
+Wed Jul 17 10:29:29 2019	Parrasky (STEAM_0:1:195542352): /ooc im unboxing money crates
+Wed Jul 17 10:29:35 2019	iWolfz -ERP- (STEAM_0:0:443923189): // its scam
+Wed Jul 17 10:29:40 2019	Sahid_Plays_Game.ttv (STEAM_0:1:173596079): let me out
+Wed Jul 17 10:29:53 2019	Parrasky (STEAM_0:1:195542352): /unbox
+Wed Jul 17 10:30:00 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zrush_fuelbuyer_npc
+Wed Jul 17 10:30:13 2019	litnig mqueen (STEAM_0:1:5145584): 
+Wed Jul 17 10:30:15 2019	Parrasky (STEAM_0:1:195542352): /ooc SCAMMMM
+Wed Jul 17 10:30:17 2019	litnig mqueen (STEAM_0:1:5145584): 
+Wed Jul 17 10:30:19 2019	iWolfz -ERP- (STEAM_0:0:443923189): // told u xD
+Wed Jul 17 10:30:22 2019	Grand Slam (STEAM_0:0:68512971) has joined the game
+Wed Jul 17 10:30:22 2019	Grand Slam (STEAM_0:0:68512971) spawned
+Wed Jul 17 10:30:25 2019	litnig mqueen (STEAM_0:1:5145584): 
+Wed Jul 17 10:30:27 2019	sanguinemphyxia was killed by litnig mqueen with a fas2_deagle
+Wed Jul 17 10:30:33 2019	sanguinemphyxia (STEAM_0:1:179491585) spawned
+Wed Jul 17 10:30:38 2019	Sahid_Plays_Game.ttv was killed by Himself with a suicide trick
+Wed Jul 17 10:30:43 2019	Sahid_Plays_Game.ttv (STEAM_0:1:173596079) spawned
+Wed Jul 17 10:31:28 2019	Parrasky (STEAM_0:1:195542352): /UNBOX
+Wed Jul 17 10:31:32 2019	Sahid_Plays_Game.ttv was killed by Himself with a suicide trick
+Wed Jul 17 10:31:35 2019	Sahid_Plays_Game.ttv (STEAM_0:1:173596079) spawned
+Wed Jul 17 10:31:46 2019	Parrasky (STEAM_0:1:195542352): /ooc how u get perm case
+Wed Jul 17 10:31:50 2019	iWolfz -ERP- (STEAM_0:0:443923189): // ALT f4
+Wed Jul 17 10:31:56 2019	Parrasky (STEAM_0:1:195542352): /ooc ok
+Wed Jul 17 10:32:09 2019	Parrasky (STEAM_0:1:195542352): /ooc bro
+Wed Jul 17 10:32:12 2019	iWolfz -ERP- (STEAM_0:0:443923189): // ?
+Wed Jul 17 10:32:20 2019	Parrasky (STEAM_0:1:195542352): /ooc u made porn pop up on my screen
+Wed Jul 17 10:32:24 2019	iWolfz -ERP- (STEAM_0:0:443923189): // lol
+Wed Jul 17 10:32:30 2019	Parrasky (STEAM_0:1:195542352): /ooc that was my bind
+Wed Jul 17 10:32:37 2019	iWolfz -ERP- (STEAM_0:0:443923189): // lol
+Wed Jul 17 10:32:41 2019	FunFuse (STEAM_0:0:508928365) has joined the game
+Wed Jul 17 10:32:41 2019	FunFuse (STEAM_0:0:508928365) spawned
+Wed Jul 17 10:32:55 2019	Parrasky (STEAM_0:1:195542352): /ooc i only like young girls
+Wed Jul 17 10:32:56 2019	Grand Slam (STEAM_0:0:68512971) disconnected
+Wed Jul 17 10:33:07 2019	Parrasky (STEAM_0:1:195542352): /ooc thats what was on my screen
+Wed Jul 17 10:33:11 2019	Parrasky (STEAM_0:1:195542352): /ooc bruh
+Wed Jul 17 10:33:49 2019	iWolfz -ERP- (STEAM_0:0:443923189) disconnected

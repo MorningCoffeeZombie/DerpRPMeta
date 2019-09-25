@@ -1,0 +1,1 @@
+{"20":{"Data":{"Amount":1.0,"Clip1":-1.0,"Ammo":0.0,"Class":"jewelry_robbery_cellphone","Model":"models/sterling/ajr_phone_w.mdl","Clip2":-1.0},"Class":"spawned_weapon"},"19":{"Data":{"Amount":1.0,"Clip1":-1.0,"Ammo":0.0,"Class":"jewelry_robbery_hammer","Model":"models/sterling/ajr_hammer_w.mdl","Clip2":-1.0},"Class":"spawned_weapon"}}

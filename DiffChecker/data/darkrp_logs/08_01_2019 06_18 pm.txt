@@ -1,0 +1,29 @@
+Thu Aug  1 18:18:11 2019	[DS]KingTurtle (STEAM_0:0:110347521) has joined the game
+Thu Aug  1 18:18:11 2019	Turtle (STEAM_0:0:110347521) spawned
+Thu Aug  1 18:19:11 2019	Turtle (STEAM_0:0:110347521): 
+Thu Aug  1 18:27:47 2019	Turtle (STEAM_0:0:110347521): /admin
+Thu Aug  1 18:37:41 2019	Turtle (STEAM_0:0:110347521) disconnected
+Thu Aug  1 18:53:14 2019	Dio (STEAM_0:0:497465680) has joined the game
+Thu Aug  1 18:53:14 2019	Dio (STEAM_0:0:497465680) spawned
+Thu Aug  1 18:53:56 2019	Dio (STEAM_0:0:497465680) disconnected
+Thu Aug  1 18:55:06 2019	[DS]KingTurtle (STEAM_0:0:110347521) has joined the game
+Thu Aug  1 18:55:06 2019	Turtle (STEAM_0:0:110347521) spawned
+Thu Aug  1 18:59:25 2019	Derp (STEAM_0:0:52504530) has joined the game
+Thu Aug  1 18:59:26 2019	William (STEAM_0:0:52504530) spawned
+Thu Aug  1 19:01:28 2019	Turtle (STEAM_0:0:110347521) disconnected
+Thu Aug  1 19:02:24 2019	DrDerpenstein sups.gg (STEAM_0:0:13562763) has joined the game
+Thu Aug  1 19:02:24 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Thu Aug  1 19:03:01 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Thu Aug  1 19:03:13 2019	William (STEAM_0:0:52504530): can u do anything with fadmin?
+Thu Aug  1 19:03:15 2019	William (STEAM_0:0:52504530): noclip?
+Thu Aug  1 19:03:29 2019	DrDerpenstein (STEAM_0:0:13562763): no
+Thu Aug  1 19:03:33 2019	William (STEAM_0:0:52504530): what the hell is going on
+Thu Aug  1 19:03:38 2019	William (STEAM_0:0:52504530): 
+Thu Aug  1 19:03:46 2019	William (STEAM_0:0:52504530): also now i can access the casino
+Thu Aug  1 19:03:50 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Thu Aug  1 19:04:00 2019	DrDerpenstein (STEAM_0:0:13562763): nice
+Thu Aug  1 19:04:14 2019	DrDerpenstein (STEAM_0:0:13562763): phys works
+Thu Aug  1 19:04:17 2019	William (STEAM_0:0:52504530): im gonna restart the server and see if it fixes it
+Thu Aug  1 19:04:20 2019	DrDerpenstein (STEAM_0:0:13562763): /fadmin
+Thu Aug  1 19:04:24 2019	DrDerpenstein (STEAM_0:0:13562763): !fadmin
+Thu Aug  1 19:04:25 2019	DrDerpenstein (STEAM_0:0:13562763): kk

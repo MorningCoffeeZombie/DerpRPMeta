@@ -1,0 +1,443 @@
+2019-08-08 02.13.03: <General> Logging started, map: rp_downtown_tits_v2.
+2019-08-08 02.13.03: <General> Welcome to VCMod Auto-Updater version 9.61.
+2019-08-08 02.13.03: <General> Pre-initialization complete, preparing to load addon data.
+2019-08-08 02.13.03: <General> Addons found: VCMod ELS, VCMod Main.
+2019-08-08 02.13.18: <General> Preparations started. Server needs to have atleast one player on it for preparations to continue.
+2019-08-08 02.13.22: <General> Preparations are complete, handshaking API.
+2019-08-08 02.13.24: <General> Handshake successful.
+2019-08-08 02.13.24: <General> Handshake finished.
+2019-08-08 02.13.25: <General> Contacting preload API.
+2019-08-08 02.13.26: <General> Initializing preload.
+2019-08-08 02.13.26: <General> Preload finished. Initializing addons.
+2019-08-08 02.13.26: <General> Started loading serverside.
+2019-08-08 02.13.26: <General> Loaded Main v1.737 serverside.
+2019-08-08 02.13.26: <General> Loaded ELS v1.1426 serverside.
+2019-08-08 02.13.26: <General> Finished loading serverside.
+2019-08-08 02.13.26: <General> Vehicle data "Airboat" loaded.
+2019-08-08 02.13.27: <General> All repair man NPC's have been placed on the map.
+2019-08-08 02.13.27: <Repair man> all Repair men have been placed on the map.
+2019-08-08 02.13.31: <General> Scanning for potentially incompatible hooks.
+2019-08-08 02.13.31: <General> No incompatibilities found.
+2019-08-08 02.13.31: <General> General vehicle data is up to date.
+2019-08-08 02.13.31: <Fuel> All fuel stations have been respawned.
+2019-08-08 02.38.51: <General> Player DevL has loaded and is waiting for a temp-key.
+2019-08-08 02.38.52: <General> Sent API key to player DevL. 99 keys left.
+2019-08-08 02.38.52: <General> Initializing player DevL.
+2019-08-08 03.01.17: <General> Player AuzzieMan008 has loaded and is waiting for a temp-key.
+2019-08-08 03.01.17: <General> Sent API key to player AuzzieMan008. 98 keys left.
+2019-08-08 03.01.17: <General> Initializing player AuzzieMan008.
+2019-08-08 03.15.16: <Car dealer> Player: DevL(76561198154580978) has spawned a vehicle McLaren P1 (TDM Cars) from Car dealer called: "Tier 5 Cars".
+2019-08-08 03.15.17: <General> Vehicle data "McLaren P1" loaded.
+2019-08-08 03.18.37: <Car dealer> Player: DevL(76561198154580978) has spawned a vehicle Kenworth T800 (TDM Trucks) (for a test drive) from Car dealer called: "Tier 6 Cars".
+2019-08-08 03.18.38: <General> Vehicle data "Kenworth T800" loaded.
+2019-08-08 03.19.17: <Car dealer> Player: DevL(76561198154580978) test drive has just ended.
+2019-08-08 03.19.35: <Car dealer> Player: DevL(76561198154580978) has bought a vehicle Kenworth T800 (TDM Trucks) from Car dealer called: "Tier 6 Cars" for 3000000.
+2019-08-08 03.19.45: <Car dealer> Player: DevL(76561198154580978) has changed settings for Car dealer called: "Tier 6 Cars".
+2019-08-08 09.29.29: <General> Player Doof has loaded and is waiting for a temp-key.
+2019-08-08 09.29.30: <General> Sent API key to player Doof. 97 keys left.
+2019-08-08 09.29.30: <General> Initializing player Doof.
+2019-08-08 11.59.55: <General> Player No Chin Boy has loaded and is waiting for a temp-key.
+2019-08-08 11.59.55: <General> Sent API key to player No Chin Boy. 96 keys left.
+2019-08-08 11.59.55: <General> Initializing player No Chin Boy.
+2019-08-08 12.38.27: <General> Player Ggamer has loaded and is waiting for a temp-key.
+2019-08-08 12.38.29: <General> Sent API key to player Ggamer. 95 keys left.
+2019-08-08 12.38.29: <General> Initializing player Ggamer.
+2019-08-08 13.17.29: <General> Player acewinters has loaded and is waiting for a temp-key.
+2019-08-08 13.17.29: <General> Sent API key to player acewinters. 94 keys left.
+2019-08-08 13.17.29: <General> Initializing player acewinters.
+2019-08-08 13.19.07: <Car dealer> Player: acewinters(76561198037403356) has spawned a vehicle Zenvo ST1 (TDM Cars) from Car dealer called: "Tier 5 Cars".
+2019-08-08 13.19.08: <General> Vehicle data "Zenvo ST1" loaded.
+2019-08-08 13.23.33: <Car dealer> Player: acewinters(76561198037403356) has spawned a vehicle Zenvo ST1 (TDM Cars) from Car dealer called: "Tier 5 Cars".
+2019-08-08 13.24.06: <Car dealer> Player: acewinters(76561198037403356) has changed settings for Car dealer called: "Tier 5 Cars".
+2019-08-08 13.24.07: <Car dealer> Player: acewinters(76561198037403356) has spawned a vehicle Zenvo ST1 (TDM Cars) from Car dealer called: "Tier 5 Cars".
+2019-08-08 13.24.24: <Repair man> Player: acewinters(76561198037403356) has just been deducted 74 for repairs.
+2019-08-08 13.24.34: <Repair man> Player: acewinters(76561198037403356) has just completed the repairs by a Repair man "Zenvo ST1".
+2019-08-08 13.28.29: <General> Player Dio has loaded and is waiting for a temp-key.
+2019-08-08 13.28.30: <General> Sent API key to player Dio. 93 keys left.
+2019-08-08 13.28.30: <General> Initializing player Dio.
+2019-08-08 13.30.46: <Repair man> Player: acewinters(76561198037403356) has just been deducted 179 for repairs.
+2019-08-08 13.31.02: <Repair man> Player: acewinters(76561198037403356) has just completed the repairs by a Repair man "Zenvo ST1".
+2019-08-08 13.48.38: <General> Vehicle data "SUPER SECRET" loaded.
+2019-08-08 13.55.30: <Car dealer> Player: acewinters(76561198037403356) has changed settings for Car dealer called: "Tier 5 Cars".
+2019-08-08 13.55.30: <Car dealer> Player: acewinters(76561198037403356) has spawned a vehicle Zenvo ST1 (TDM Cars) from Car dealer called: "Tier 5 Cars".
+2019-08-08 14.02.41: <Repair man> Player: acewinters(76561198037403356) has just been deducted 114 for repairs.
+2019-08-08 14.02.51: <Repair man> Player: acewinters(76561198037403356) has just completed the repairs by a Repair man "Zenvo ST1".
+2019-08-08 14.09.17: <Car dealer> Player: acewinters(76561198037403356) has changed settings for Car dealer called: "Tier 5 Cars".
+2019-08-08 14.09.27: <Car dealer> Player: acewinters(76561198037403356) has spawned a vehicle Zenvo ST1 (TDM Cars) from Car dealer called: "Tier 5 Cars".
+2019-08-08 15.46.18: <General> Player acewinters has loaded and is waiting for a temp-key.
+2019-08-08 15.46.20: <General> Sent API key to player acewinters. 92 keys left.
+2019-08-08 15.46.20: <General> Initializing player acewinters.
+2019-08-08 15.57.10: <General> Player DevL has loaded and is waiting for a temp-key.
+2019-08-08 15.57.11: <General> Sent API key to player DevL. 91 keys left.
+2019-08-08 15.57.11: <General> Initializing player DevL.
+2019-08-08 16.07.02: <General> Player William has loaded and is waiting for a temp-key.
+2019-08-08 16.07.04: <General> Sent API key to player William. 90 keys left.
+2019-08-08 16.07.04: <General> Initializing player William.
+2019-08-08 16.10.10: <General> Vehicle data "Unknown" loaded.
+2019-08-08 16.11.41: <General> Vehicle data "Unknown" loaded.
+2019-08-08 16.12.19: <General> Vehicle data "Unknown" loaded.
+2019-08-08 16.52.29: <General> Player Dio has loaded and is waiting for a temp-key.
+2019-08-08 16.52.30: <General> Sent API key to player Dio. 89 keys left.
+2019-08-08 16.52.30: <General> Initializing player Dio.
+2019-08-08 17.13.53: <General> Player eddv247 has loaded and is waiting for a temp-key.
+2019-08-08 17.13.54: <General> Sent API key to player eddv247. 88 keys left.
+2019-08-08 17.13.54: <General> Initializing player eddv247.
+2019-08-08 17.13.56: <General> Player DevL has loaded and is waiting for a temp-key.
+2019-08-08 17.13.56: <General> Sent API key to player DevL. 87 keys left.
+2019-08-08 17.13.56: <General> Initializing player DevL.
+2019-08-08 17.16.28: <General> Player fwop.memes has loaded and is waiting for a temp-key.
+2019-08-08 17.16.29: <General> Sent API key to player fwop.memes. 86 keys left.
+2019-08-08 17.16.29: <General> Initializing player fwop.memes.
+2019-08-08 17.22.25: <Car dealer> Player: what are you doing step bro(76561198966738119) has bought a vehicle Lexus IS 300 (TDM Cars) from Car dealer called: "Tier 1 Cars" for 25000.
+2019-08-08 17.22.33: <Car dealer> Player: what are you doing step bro(76561198966738119) has bought a vehicle Pontiac Fiero GT (TDM Cars) from Car dealer called: "Tier 2 Cars" for 40000.
+2019-08-08 17.22.43: <Car dealer> Player: what are you doing step bro(76561198966738119) has bought a vehicle Dodge RAM 1500 (TDM Cars) from Car dealer called: "Tier 3 Cars" for 40000.
+2019-08-08 17.23.03: <Car dealer> Player: what are you doing step bro(76561198966738119) has bought a vehicle Tesla Model S (TDM Cars) from Car dealer called: "Tier 4 Cars" for 80000.
+2019-08-08 17.23.28: <Car dealer> Player: what are you doing step bro(76561198966738119) has bought a vehicle Kenworth T800 (TDM Trucks) from Car dealer called: "Tier 6 Cars" for 3000000.
+2019-08-08 17.23.29: <Car dealer> Player: what are you doing step bro(76561198966738119) has spawned a vehicle Kenworth T800 (TDM Trucks) from Car dealer called: "Tier 6 Cars".
+2019-08-08 17.24.23: <Car dealer> Player: what are you doing step bro(76561198966738119) has spawned a vehicle Jaguar F-Type (TDM Cars) from Car dealer called: "Tier 6 Cars".
+2019-08-08 17.24.25: <General> Vehicle data "Jaguar F-Type" loaded.
+2019-08-08 17.24.34: <Repair man> Player: what are you doing step bro(76561198966738119) has just been deducted 506 for repairs.
+2019-08-08 17.24.37: <Repair man> Player: what are you doing step bro(76561198966738119) has just completed the repairs by a Repair man "Jaguar F-Type".
+2019-08-08 17.24.52: <Car dealer> Player: DevL(76561198154580978) has spawned a vehicle Kenworth T800 (TDM Trucks) from Car dealer called: "Tier 6 Cars".
+2019-08-08 17.25.42: <Car dealer> Player: what are you doing step bro(76561198966738119) has spawned a vehicle Kenworth T800 (TDM Trucks) from Car dealer called: "Tier 6 Cars".
+2019-08-08 17.27.18: <Car dealer> Player: eddv247(76561198054967754) has spawned a vehicle Airboat (Half-Life 2) from Car dealer called: "AirBoat Dealer".
+2019-08-08 17.29.50: <Repair man> Player: DevL(76561198154580978) has just been deducted 141 for repairs.
+2019-08-08 17.30.06: <General> vehicle "Kenworth T800(TDM Trucks)" has exploded.
+2019-08-08 17.30.06: <Repair man> Player: DevL(76561198154580978) has just completed the repairs by a Repair man "Kenworth T800".
+2019-08-08 17.34.35: <General> vehicle "Kenworth T800(TDM Trucks)" has exploded.
+2019-08-08 17.35.44: <Car dealer> Player: eddv247(76561198054967754) has sold a vehicle Ferrari 458 Spider (TDM Cars) from Car dealer called: "Tier 5 Cars" for 90000.
+2019-08-08 17.35.51: <Car dealer> Player: eddv247(76561198054967754) has sold a vehicle Jeep Wrangler F&F (TDM Cars) from Car dealer called: "Tier 5 Cars" for 67500.
+2019-08-08 17.35.58: <Car dealer> Player: eddv247(76561198054967754) has sold a vehicle KTM X-BOW (TDM Cars) from Car dealer called: "Tier 5 Cars" for 187500.
+2019-08-08 17.36.00: <Car dealer> Player: eddv247(76561198054967754) has bought a vehicle KTM X-BOW (TDM Cars) from Car dealer called: "Tier 5 Cars" for 250000.
+2019-08-08 17.36.03: <Car dealer> Player: eddv247(76561198054967754) has sold a vehicle KTM X-BOW (TDM Cars) from Car dealer called: "Tier 5 Cars" for 187500.
+2019-08-08 17.36.09: <Car dealer> Player: eddv247(76561198054967754) has sold a vehicle Lamborghini Gallardo LP570-4 Spyder Performante (TDM Cars) from Car dealer called: "Tier 5 Cars" for 187500.
+2019-08-08 17.37.19: <Car dealer> Player: eddv247(76561198054967754) has disconnected removing vehicle "Airboat(Half-Life 2).
+2019-08-08 17.38.49: <Car dealer> Player: what are you doing step bro(76561198966738119) has spawned a vehicle Mazda Furai (TDM Cars) (for a test drive) from Car dealer called: "Tier 6 Cars".
+2019-08-08 17.38.49: <General> Vehicle data "Mazda Furai" loaded.
+2019-08-08 17.39.05: <Car dealer> Player: what are you doing step bro(76561198966738119) test drive has just ended.
+2019-08-08 17.39.24: <Car dealer> Player: what are you doing step bro(76561198966738119) has sold a vehicle Jeep Wrangler F&F (TDM Cars) from Car dealer called: "Tier 5 Cars" for 67500.
+2019-08-08 17.39.35: <Car dealer> Player: what are you doing step bro(76561198966738119) has sold a vehicle Tesla Model S (TDM Cars) from Car dealer called: "Tier 4 Cars" for 60000.
+2019-08-08 17.39.47: <Car dealer> Player: what are you doing step bro(76561198966738119) has changed settings for Car dealer called: "Tier 3 Cars".
+2019-08-08 17.39.52: <Car dealer> Player: what are you doing step bro(76561198966738119) has sold a vehicle Pontiac Fiero GT (TDM Cars) from Car dealer called: "Tier 2 Cars" for 30000.
+2019-08-08 17.42.05: <Car dealer> Player: what are you doing step bro(76561198966738119) has spawned a vehicle Mercedes-Benz SL65 AMG (TDM Cars) from Car dealer called: "Tier 6 Cars".
+2019-08-08 17.42.06: <General> Vehicle data "Mercedes-Benz SL65 AMG" loaded.
+2019-08-08 17.44.17: <Car dealer> Player: what are you doing step bro(76561198966738119) has spawned a vehicle Kenworth T800 (TDM Trucks) from Car dealer called: "Tier 6 Cars".
+2019-08-08 18.06.05: <Car dealer> Player: DevL(76561198154580978) has spawned a vehicle Dodge RAM SRT10 (TDM Cars) from Car dealer called: "Tier 4 Cars".
+2019-08-08 18.06.06: <General> Vehicle data "Dodge RAM SRT10" loaded.
+2019-08-08 18.06.11: <Car dealer> Player: what are you doing step bro(76561198966738119) has spawned a vehicle Dodge RAM 1500 (TDM Cars) from Car dealer called: "Tier 3 Cars".
+2019-08-08 18.06.12: <General> Vehicle data "Dodge RAM 1500" loaded.
+2019-08-08 18.07.44: <General> Player Bobbicus has loaded and is waiting for a temp-key.
+2019-08-08 18.07.44: <General> Sent API key to player Bobbicus. 85 keys left.
+2019-08-08 18.07.44: <General> Initializing player Bobbicus.
+2019-08-08 18.15.46: <Car dealer> Player: Bobbicus(76561198132804632) has spawned a vehicle Airboat (Half-Life 2) from Car dealer called: "AirBoat Dealer".
+2019-08-08 18.19.51: <General> vehicle "Airboat(Half-Life 2)" has exploded.
+2019-08-08 19.11.31: <General> Player acewinters has loaded and is waiting for a temp-key.
+2019-08-08 19.11.31: <General> Sent API key to player acewinters. 84 keys left.
+2019-08-08 19.11.31: <General> Initializing player acewinters.
+2019-08-08 19.13.24: <Car dealer> Player: acewinters(76561198037403356) has spawned a vehicle Zenvo ST1 (TDM Cars) from Car dealer called: "Tier 5 Cars".
+2019-08-08 19.14.49: <General> Player DrDerpenstein has loaded and is waiting for a temp-key.
+2019-08-08 19.14.50: <General> Sent API key to player DrDerpenstein. 83 keys left.
+2019-08-08 19.14.50: <General> Initializing player DrDerpenstein.
+2019-08-08 19.23.07: <General> Vehicle data "Ford Transit" loaded.
+2019-08-08 19.29.59: <General> vehicle "Ford Transit(TDM Cars)" has exploded.
+2019-08-08 19.51.10: <General> Player Dio has loaded and is waiting for a temp-key.
+2019-08-08 19.51.11: <General> Sent API key to player Dio. 82 keys left.
+2019-08-08 19.51.11: <General> Initializing player Dio.
+2019-08-08 20.03.00: <Car dealer> Player: DevL(76561198154580978) has sold a vehicle Honda CR-X SiR (TDM Cars) from Car dealer called: "Tier 1 Cars" for 18750.
+2019-08-08 20.03.02: <Car dealer> Player: DevL(76561198154580978) has sold a vehicle Lexus IS 300 (TDM Cars) from Car dealer called: "Tier 1 Cars" for 18750.
+2019-08-08 20.03.05: <Car dealer> Player: DevL(76561198154580978) has sold a vehicle Volkswagen Golf VR6 GTi (TDM Cars) from Car dealer called: "Tier 1 Cars" for 15000.
+2019-08-08 20.03.14: <Car dealer> Player: DevL(76561198154580978) has sold a vehicle Pontiac Fiero GT (TDM Cars) from Car dealer called: "Tier 2 Cars" for 30000.
+2019-08-08 20.03.17: <Car dealer> Player: DevL(76561198154580978) has sold a vehicle Toyota FJ Cruiser (TDM Cars) from Car dealer called: "Tier 2 Cars" for 26250.
+2019-08-08 20.03.20: <Car dealer> Player: DevL(76561198154580978) has sold a vehicle Volvo 850 R (TDM Cars) from Car dealer called: "Tier 2 Cars" for 22500.
+2019-08-08 20.03.34: <Car dealer> Player: DevL(76561198154580978) has sold a vehicle Dodge RAM 1500 (TDM Cars) from Car dealer called: "Tier 3 Cars" for 30000.
+2019-08-08 20.03.37: <Car dealer> Player: DevL(76561198154580978) has sold a vehicle GMC Vandura (TDM Cars) from Car dealer called: "Tier 3 Cars" for 30000.
+2019-08-08 20.03.40: <Car dealer> Player: DevL(76561198154580978) has sold a vehicle Jeep Willys (TDM Cars) from Car dealer called: "Tier 3 Cars" for 33750.
+2019-08-08 20.03.43: <Car dealer> Player: DevL(76561198154580978) has sold a vehicle Mitsubishi Colt Ralliart (TDM Cars) from Car dealer called: "Tier 3 Cars" for 26250.
+2019-08-08 20.03.46: <Car dealer> Player: DevL(76561198154580978) has sold a vehicle Morgan Aero SS (TDM Cars) from Car dealer called: "Tier 3 Cars" for 37500.
+2019-08-08 20.03.53: <Car dealer> Player: DevL(76561198154580978) has sold a vehicle Delorean DMC-12 (TDM Cars) from Car dealer called: "Tier 4 Cars" for 65250.
+2019-08-08 20.03.56: <Car dealer> Player: DevL(76561198154580978) has sold a vehicle Ford Crown Victoria Taxi (TDM Cars) from Car dealer called: "Tier 4 Cars" for 45000.
+2019-08-08 20.03.59: <Car dealer> Player: DevL(76561198154580978) has sold a vehicle Mini Cooper Clubman (TDM Cars) from Car dealer called: "Tier 4 Cars" for 37500.
+2019-08-08 20.04.04: <Car dealer> Player: DevL(76561198154580978) has sold a vehicle Nissan Leaf (TDM Cars) from Car dealer called: "Tier 4 Cars" for 33750.
+2019-08-08 20.04.07: <Car dealer> Player: DevL(76561198154580978) has sold a vehicle Tesla Model S (TDM Cars) from Car dealer called: "Tier 4 Cars" for 60000.
+2019-08-08 20.04.10: <Car dealer> Player: DevL(76561198154580978) has sold a vehicle Toyota Prius (TDM Cars) from Car dealer called: "Tier 4 Cars" for 750000.
+2019-08-08 20.04.21: <Car dealer> Player: DevL(76561198154580978) has sold a vehicle Jeep Wrangler F&F (TDM Cars) from Car dealer called: "Tier 5 Cars" for 67500.
+2019-08-08 20.36.42: <Car dealer> Player: acewinters(76561198037403356) has sold a vehicle Zenvo ST1 (TDM Cars) from Car dealer called: "Tier 5 Cars" for 195000.
+2019-08-08 20.39.24: <General> Player Kilobyte has loaded and is waiting for a temp-key.
+2019-08-08 20.39.26: <General> Sent API key to player Kilobyte. 81 keys left.
+2019-08-08 20.39.26: <General> Initializing player Kilobyte.
+2019-08-08 20.42.17: <General> Player Igor2009 has loaded and is waiting for a temp-key.
+2019-08-08 20.42.17: <General> Sent API key to player Igor2009. 80 keys left.
+2019-08-08 20.42.17: <General> Initializing player Igor2009.
+2019-08-08 20.46.58: <Car dealer> Player: Kilobyte(76561198108050891) has bought a vehicle Dodge Charger SRT8 Police (TDM Emergency) from Car dealer called: "Government Dealer" for 0.
+2019-08-08 20.47.01: <Car dealer> Player: Kilobyte(76561198108050891) has spawned a vehicle Dodge Charger SRT8 Police (TDM Emergency) from Car dealer called: "Government Dealer".
+2019-08-08 20.47.01: <General> Vehicle data "Dodge Charger SRT8 Police" loaded.
+2019-08-08 20.53.31: <General> Player William has loaded and is waiting for a temp-key.
+2019-08-08 20.53.33: <General> Sent API key to player William. 79 keys left.
+2019-08-08 20.53.33: <General> Initializing player William.
+2019-08-08 20.57.48: <General> player "Kilobyte" has changed jobs and can no longer have vehicle: "Dodge Charger SRT8 Police", removing it.
+2019-08-08 20.57.48: <Car dealer> Player: Kilobyte(76561198108050891) can not have vehicle "Unknown" ("Unknown") in job: "Gun Dealer".
+2019-08-08 22.26.48: <General> Player DevL has loaded and is waiting for a temp-key.
+2019-08-08 22.26.49: <General> Sent API key to player DevL. 78 keys left.
+2019-08-08 22.26.49: <General> Initializing player DevL.
+2019-08-08 23.23.13: <Car dealer> Player: DevL(76561198154580978) has spawned a vehicle McLaren P1 (TDM Cars) from Car dealer called: "Tier 5 Cars".
+2019-08-09 03.13.04: <General> One of the API keys have expired, removing.  77 keys left.
+2019-08-09 03.13.04: <General> One of the API keys have expired, removing.  76 keys left.
+2019-08-09 03.13.04: <General> One of the API keys have expired, removing.  75 keys left.
+2019-08-09 03.13.04: <General> One of the API keys have expired, removing.  74 keys left.
+2019-08-09 03.13.04: <General> One of the API keys have expired, removing.  73 keys left.
+2019-08-09 03.13.04: <General> One of the API keys have expired, removing.  72 keys left.
+2019-08-09 03.13.04: <General> One of the API keys have expired, removing.  71 keys left.
+2019-08-09 03.13.04: <General> One of the API keys have expired, removing.  70 keys left.
+2019-08-09 03.13.04: <General> One of the API keys have expired, removing.  69 keys left.
+2019-08-09 03.13.04: <General> One of the API keys have expired, removing.  68 keys left.
+2019-08-09 03.13.04: <General> One of the API keys have expired, removing.  67 keys left.
+2019-08-09 03.13.04: <General> One of the API keys have expired, removing.  66 keys left.
+2019-08-09 03.13.04: <General> One of the API keys have expired, removing.  65 keys left.
+2019-08-09 03.13.04: <General> One of the API keys have expired, removing.  64 keys left.
+2019-08-09 03.13.04: <General> One of the API keys have expired, removing.  63 keys left.
+2019-08-09 03.13.04: <General> One of the API keys have expired, removing.  62 keys left.
+2019-08-09 03.13.04: <General> One of the API keys have expired, removing.  61 keys left.
+2019-08-09 03.13.04: <General> One of the API keys have expired, removing.  60 keys left.
+2019-08-09 03.13.04: <General> One of the API keys have expired, removing.  59 keys left.
+2019-08-09 03.13.04: <General> One of the API keys have expired, removing.  58 keys left.
+2019-08-09 03.13.04: <General> One of the API keys have expired, removing.  57 keys left.
+2019-08-09 03.13.04: <General> One of the API keys have expired, removing.  56 keys left.
+2019-08-09 03.13.04: <General> One of the API keys have expired, removing.  55 keys left.
+2019-08-09 03.13.04: <General> One of the API keys have expired, removing.  54 keys left.
+2019-08-09 03.13.04: <General> One of the API keys have expired, removing.  53 keys left.
+2019-08-09 03.13.04: <General> One of the API keys have expired, removing.  52 keys left.
+2019-08-09 03.13.04: <General> One of the API keys have expired, removing.  51 keys left.
+2019-08-09 03.13.04: <General> One of the API keys have expired, removing.  50 keys left.
+2019-08-09 03.13.04: <General> One of the API keys have expired, removing.  49 keys left.
+2019-08-09 03.13.04: <General> One of the API keys have expired, removing.  48 keys left.
+2019-08-09 03.13.04: <General> One of the API keys have expired, removing.  47 keys left.
+2019-08-09 03.13.04: <General> One of the API keys have expired, removing.  46 keys left.
+2019-08-09 03.13.04: <General> One of the API keys have expired, removing.  45 keys left.
+2019-08-09 03.13.04: <General> One of the API keys have expired, removing.  44 keys left.
+2019-08-09 03.13.04: <General> One of the API keys have expired, removing.  43 keys left.
+2019-08-09 03.13.04: <General> One of the API keys have expired, removing.  42 keys left.
+2019-08-09 03.13.04: <General> One of the API keys have expired, removing.  41 keys left.
+2019-08-09 03.13.04: <General> One of the API keys have expired, removing.  40 keys left.
+2019-08-09 03.13.04: <General> One of the API keys have expired, removing.  39 keys left.
+2019-08-09 03.13.04: <General> One of the API keys have expired, removing.  38 keys left.
+2019-08-09 03.13.04: <General> One of the API keys have expired, removing.  37 keys left.
+2019-08-09 03.13.04: <General> One of the API keys have expired, removing.  36 keys left.
+2019-08-09 03.13.04: <General> One of the API keys have expired, removing.  35 keys left.
+2019-08-09 03.13.04: <General> One of the API keys have expired, removing.  34 keys left.
+2019-08-09 03.13.04: <General> One of the API keys have expired, removing.  33 keys left.
+2019-08-09 03.13.04: <General> One of the API keys have expired, removing.  32 keys left.
+2019-08-09 03.13.04: <General> One of the API keys have expired, removing.  31 keys left.
+2019-08-09 03.13.04: <General> One of the API keys have expired, removing.  30 keys left.
+2019-08-09 03.13.04: <General> One of the API keys have expired, removing.  29 keys left.
+2019-08-09 03.13.04: <General> One of the API keys have expired, removing.  28 keys left.
+2019-08-09 03.13.04: <General> One of the API keys have expired, removing.  27 keys left.
+2019-08-09 03.13.04: <General> One of the API keys have expired, removing.  26 keys left.
+2019-08-09 03.13.04: <General> One of the API keys have expired, removing.  25 keys left.
+2019-08-09 03.13.04: <General> One of the API keys have expired, removing.  24 keys left.
+2019-08-09 03.13.04: <General> One of the API keys have expired, removing.  23 keys left.
+2019-08-09 03.13.04: <General> One of the API keys have expired, removing.  22 keys left.
+2019-08-09 03.13.04: <General> One of the API keys have expired, removing.  21 keys left.
+2019-08-09 03.13.04: <General> One of the API keys have expired, removing.  20 keys left.
+2019-08-09 03.13.04: <General> One of the API keys have expired, removing.  19 keys left.
+2019-08-09 03.13.04: <General> One of the API keys have expired, removing.  18 keys left.
+2019-08-09 03.13.04: <General> One of the API keys have expired, removing.  17 keys left.
+2019-08-09 03.13.04: <General> One of the API keys have expired, removing.  16 keys left.
+2019-08-09 03.13.04: <General> One of the API keys have expired, removing.  15 keys left.
+2019-08-09 03.13.04: <General> One of the API keys have expired, removing.  14 keys left.
+2019-08-09 03.13.04: <General> One of the API keys have expired, removing.  13 keys left.
+2019-08-09 03.13.04: <General> One of the API keys have expired, removing.  12 keys left.
+2019-08-09 03.13.04: <General> One of the API keys have expired, removing.  11 keys left.
+2019-08-09 03.13.04: <General> One of the API keys have expired, removing.  10 keys left.
+2019-08-09 03.13.04: <General> One of the API keys have expired, removing.  9 keys left.
+2019-08-09 03.13.04: <General> One of the API keys have expired, removing.  8 keys left.
+2019-08-09 03.13.04: <General> One of the API keys have expired, removing.  7 keys left.
+2019-08-09 03.13.04: <General> One of the API keys have expired, removing.  6 keys left.
+2019-08-09 03.13.04: <General> One of the API keys have expired, removing.  5 keys left.
+2019-08-09 03.13.04: <General> One of the API keys have expired, removing.  4 keys left.
+2019-08-09 03.13.04: <General> One of the API keys have expired, removing.  3 keys left.
+2019-08-09 03.13.04: <General> One of the API keys have expired, removing.  2 keys left.
+2019-08-09 03.13.04: <General> One of the API keys have expired, removing.  1 keys left.
+2019-08-09 03.13.04: <General> One of the API keys have expired, removing.  0 keys left.
+2019-08-09 03.13.09: <General> API key amount too low, fetching new ones.
+2019-08-09 09.00.02: <General> Player Dio has loaded and is waiting for a temp-key.
+2019-08-09 09.00.03: <General> Sent API key to player Dio. 99 keys left.
+2019-08-09 09.00.03: <General> Initializing player Dio.
+2019-08-09 09.03.03: <General> Vehicle data "Chrysler 300c" loaded.
+2019-08-09 09.54.01: <General> Player acewinters has loaded and is waiting for a temp-key.
+2019-08-09 09.54.02: <General> Sent API key to player acewinters. 98 keys left.
+2019-08-09 09.54.02: <General> Initializing player acewinters.
+2019-08-09 10.39.54: <General> Player Dio has loaded and is waiting for a temp-key.
+2019-08-09 10.39.54: <General> Sent API key to player Dio. 97 keys left.
+2019-08-09 10.39.54: <General> Initializing player Dio.
+2019-08-09 10.43.26: <General> Player what are you doing step bro has loaded and is waiting for a temp-key.
+2019-08-09 10.43.27: <General> Sent API key to player what are you doing step bro. 96 keys left.
+2019-08-09 10.43.27: <General> Initializing player what are you doing step bro.
+2019-08-09 10.45.12: <Car dealer> Player: what are you doing step bro(76561198966738119) has sold a vehicle Mercedes-Benz SL65 AMG (TDM Cars) from Car dealer called: "Tier 6 Cars" for 3750000.
+2019-08-09 12.04.50: <General> Player William has loaded and is waiting for a temp-key.
+2019-08-09 12.04.50: <General> Sent API key to player William. 95 keys left.
+2019-08-09 12.04.50: <General> Initializing player William.
+2019-08-09 13.04.47: <General> Player DevL has loaded and is waiting for a temp-key.
+2019-08-09 13.04.48: <General> Sent API key to player DevL. 94 keys left.
+2019-08-09 13.04.48: <General> Initializing player DevL.
+2019-08-09 13.08.35: <Car dealer> Player: DevL(76561198154580978) has changed settings for Car dealer called: "Vip Dealer".
+2019-08-09 13.08.36: <Car dealer> Player: DevL(76561198154580978) has spawned a vehicle Mercedes McLaren SLR (TDM Cars) from Car dealer called: "Vip Dealer".
+2019-08-09 13.08.37: <General> Vehicle data "Mercedes McLaren SLR" loaded.
+2019-08-09 13.17.04: <General> Player leontkd426 has loaded and is waiting for a temp-key.
+2019-08-09 13.17.04: <General> Sent API key to player leontkd426. 93 keys left.
+2019-08-09 13.17.04: <General> Initializing player leontkd426.
+2019-08-09 13.25.34: <General> Player William has loaded and is waiting for a temp-key.
+2019-08-09 13.25.35: <General> Sent API key to player William. 92 keys left.
+2019-08-09 13.25.35: <General> Initializing player William.
+2019-08-09 13.28.37: <Car dealer> Player: DevL(76561198154580978) has spawned a vehicle Dodge RAM SRT10 (TDM Cars) from Car dealer called: "Tier 4 Cars".
+2019-08-09 13.30.36: <Car dealer> Player: DevL(76561198154580978) has spawned a vehicle Dodge RAM SRT10 (TDM Cars) from Car dealer called: "Tier 4 Cars".
+2019-08-09 13.37.19: <General> Player Bobbicus has loaded and is waiting for a temp-key.
+2019-08-09 13.37.21: <General> Sent API key to player Bobbicus. 91 keys left.
+2019-08-09 13.37.21: <General> Initializing player Bobbicus.
+2019-08-09 14.00.44: <General> Player Bastixx has loaded and is waiting for a temp-key.
+2019-08-09 14.00.45: <General> Sent API key to player Bastixx. 90 keys left.
+2019-08-09 14.00.45: <General> Initializing player Bastixx.
+2019-08-09 14.02.45: <Car dealer> Player: Bastixx(76561198142729221) has sold a vehicle Zenvo ST1 (TDM Cars) from Car dealer called: "Tier 5 Cars" for 195000.
+2019-08-09 14.02.56: <Car dealer> Player: Bastixx(76561198142729221) has spawned a vehicle Jaguar F-Type (TDM Cars) from Car dealer called: "Tier 6 Cars".
+2019-08-09 14.03.08: <Fuel> Player: Bastixx(76561198142729221) has bought fuel "Petrol" for: 65.
+2019-08-09 14.10.45: <Car dealer> Player: Bastixx(76561198142729221) has spawned a vehicle Porsche 918 Spyder (TDM Cars) from Car dealer called: "Tier 5 Cars".
+2019-08-09 14.10.49: <General> Vehicle data "Porsche 918 Spyder" loaded.
+2019-08-09 14.11.09: <Car dealer> Player: Bastixx(76561198142729221) has spawned a vehicle Jaguar F-Type (TDM Cars) from Car dealer called: "Tier 6 Cars".
+2019-08-09 14.21.12: <Car dealer> Player: Bastixx(76561198142729221) has bought a vehicle BMW Isetta 300 Export (TDM Cars) from Car dealer called: "Vip Dealer" for 0.
+2019-08-09 14.21.13: <Car dealer> Player: Bastixx(76561198142729221) has spawned a vehicle BMW Isetta 300 Export (TDM Cars) from Car dealer called: "Vip Dealer".
+2019-08-09 14.21.14: <General> Vehicle data "BMW Isetta 300 Export" loaded.
+2019-08-09 14.22.25: <Car dealer> Player: Bastixx(76561198142729221) has spawned a vehicle BMW Isetta 300 Export (TDM Cars) from Car dealer called: "Vip Dealer".
+2019-08-09 14.26.26: <General> Player Bagels, the Bagel [IanTay] has loaded and is waiting for a temp-key.
+2019-08-09 14.26.26: <General> Sent API key to player Bagels, the Bagel [IanTay]. 89 keys left.
+2019-08-09 14.26.26: <General> Initializing player Bagels, the Bagel [IanTay].
+2019-08-09 14.30.59: <General> Vehicle data "Orion VII NG" loaded.
+2019-08-09 14.36.02: <General> vehicle "BMW Isetta 300 Export(TDM Cars)" has exploded.
+2019-08-09 14.37.09: <General> Player Bagels, the Bagel [IanTay] has loaded and is waiting for a temp-key.
+2019-08-09 14.37.10: <General> Sent API key to player Bagels, the Bagel [IanTay]. 88 keys left.
+2019-08-09 14.37.10: <General> Initializing player Bagels, the Bagel [IanTay].
+2019-08-09 14.37.14: <Car dealer> Player: Bastixx(76561198142729221) has spawned a vehicle Jaguar F-Type (TDM Cars) from Car dealer called: "Tier 6 Cars".
+2019-08-09 14.37.25: <Car dealer> Player: Bastixx(76561198142729221) has spawned a vehicle Mercedes-Benz SL65 AMG (TDM Cars) from Car dealer called: "Tier 6 Cars".
+2019-08-09 14.37.43: <Car dealer> Player: Bastixx(76561198142729221) has sold a vehicle Mercedes-Benz SL65 AMG (TDM Cars) from Car dealer called: "Tier 6 Cars" for 3750000.
+2019-08-09 14.37.45: <Car dealer> Player: Bastixx(76561198142729221) has spawned a vehicle Jaguar F-Type (TDM Cars) from Car dealer called: "Tier 6 Cars".
+2019-08-09 14.47.48: <Car dealer> Player: acewinters(76561198037403356) has bought a vehicle Jeep Wrangler F&F (TDM Cars) from Car dealer called: "Tier 5 Cars" for 90000.
+2019-08-09 14.47.49: <Car dealer> Player: acewinters(76561198037403356) has changed settings for Car dealer called: "Tier 5 Cars".
+2019-08-09 14.47.52: <Car dealer> Player: acewinters(76561198037403356) has changed settings for Car dealer called: "Tier 5 Cars".
+2019-08-09 14.47.56: <Car dealer> Player: acewinters(76561198037403356) has spawned a vehicle Jeep Wrangler F&F (TDM Cars) from Car dealer called: "Tier 5 Cars".
+2019-08-09 14.47.57: <General> Vehicle data "Jeep Wrangler F&F" loaded.
+2019-08-09 14.56.44: <Car dealer> Player: acewinters(76561198037403356) has changed settings for Car dealer called: "Tier 5 Cars".
+2019-08-09 14.56.48: <Car dealer> Player: acewinters(76561198037403356) has changed settings for Car dealer called: "Tier 5 Cars".
+2019-08-09 14.56.48: <Car dealer> Player: acewinters(76561198037403356) has changed settings for Car dealer called: "Tier 5 Cars".
+2019-08-09 14.56.50: <Car dealer> Player: acewinters(76561198037403356) has spawned a vehicle Jeep Wrangler F&F (TDM Cars) from Car dealer called: "Tier 5 Cars".
+2019-08-09 14.57.10: <Repair man> Player: acewinters(76561198037403356) has just been deducted 9 for repairs.
+2019-08-09 14.57.16: <Repair man> Player: acewinters(76561198037403356) has just completed the repairs by a Repair man "Jeep Wrangler F&F".
+2019-08-09 15.02.24: <Car dealer> Player: DevL(76561198154580978) has spawned a vehicle Kenworth T800 (TDM Trucks) from Car dealer called: "Tier 6 Cars".
+2019-08-09 15.02.32: <Repair man> Player: DevL(76561198154580978) has just been deducted 10 for repairs.
+2019-08-09 15.02.38: <Repair man> Player: DevL(76561198154580978) has just completed the repairs by a Repair man "Kenworth T800".
+2019-08-09 15.02.41: <General> Player Bagels, the Bagel [IanTay] has loaded and is waiting for a temp-key.
+2019-08-09 15.02.42: <General> Sent API key to player Bagels, the Bagel [IanTay]. 87 keys left.
+2019-08-09 15.02.42: <General> Initializing player Bagels, the Bagel [IanTay].
+2019-08-09 15.03.43: <General> vehicle "Kenworth T800(TDM Trucks)" has exploded.
+2019-08-09 15.05.28: <Car dealer> Player: DevL(76561198154580978) has spawned a vehicle Kenworth T800 (TDM Trucks) from Car dealer called: "Tier 6 Cars".
+2019-08-09 15.05.36: <Repair man> Player: DevL(76561198154580978) has just been deducted 10 for repairs.
+2019-08-09 15.05.43: <Repair man> Player: DevL(76561198154580978) has just completed the repairs by a Repair man "Kenworth T800".
+2019-08-09 15.19.19: <General> Player Bagels, the Bagel [IanTay] has loaded and is waiting for a temp-key.
+2019-08-09 15.19.20: <General> Sent API key to player Bagels, the Bagel [IanTay]. 86 keys left.
+2019-08-09 15.19.20: <General> Initializing player Bagels, the Bagel [IanTay].
+2019-08-09 15.19.37: <Car dealer> Player: acewinters(76561198037403356) has spawned a vehicle Mitsubishi Evo X Police (TDM Emergency) (for a test drive) from Car dealer called: "Government Dealer".
+2019-08-09 15.19.37: <Car dealer> Player: acewinters(76561198037403356) has bought a vehicle Mitsubishi Evo X Police (TDM Emergency) from Car dealer called: "Government Dealer" for 0.
+2019-08-09 15.19.38: <General> Vehicle data "Mitsubishi Evo X Police" loaded.
+2019-08-09 15.19.48: <Car dealer> Player: acewinters(76561198037403356) test drive has just ended.
+2019-08-09 15.19.57: <Car dealer> Player: acewinters(76561198037403356) has sold a vehicle Mitsubishi Evo X Police (TDM Emergency) from Car dealer called: "Government Dealer" for 0.
+2019-08-09 15.19.58: <Car dealer> Player: acewinters(76561198037403356) has bought a vehicle Mitsubishi Evo X Police (TDM Emergency) from Car dealer called: "Government Dealer" for 0.
+2019-08-09 15.19.59: <Car dealer> Player: acewinters(76561198037403356) has changed settings for Car dealer called: "Government Dealer".
+2019-08-09 15.20.02: <Car dealer> Player: acewinters(76561198037403356) has spawned a vehicle Mitsubishi Evo X Police (TDM Emergency) from Car dealer called: "Government Dealer".
+2019-08-09 15.20.26: <Repair man> Player: you(76561198154580978) has just been deducted 51 for repairs.
+2019-08-09 15.20.34: <Repair man> Player: you(76561198154580978) has just completed the repairs by a Repair man "Kenworth T800".
+2019-08-09 15.25.35: <General> vehicle "Kenworth T800(TDM Trucks)" has exploded.
+2019-08-09 15.26.40: <General> Player: Dio(76561198955197088) has disconnected removing spikestrips.
+2019-08-09 15.28.07: <General> Player Dio has loaded and is waiting for a temp-key.
+2019-08-09 15.28.08: <General> Sent API key to player Dio. 85 keys left.
+2019-08-09 15.28.08: <General> Initializing player Dio.
+2019-08-09 15.32.51: <General> player "acewinters" has changed jobs and can no longer have vehicle: "Mitsubishi Evo X Police", removing it.
+2019-08-09 15.32.51: <Car dealer> Player: acewinters(76561198037403356) can not have vehicle "Unknown" ("Unknown") in job: "Lenin".
+2019-08-09 15.50.58: <Car dealer> Player: acewinters(76561198037403356) has spawned a vehicle Jeep Wrangler F&F (TDM Cars) from Car dealer called: "Tier 5 Cars".
+2019-08-09 15.51.02: <General> Player William has loaded and is waiting for a temp-key.
+2019-08-09 15.51.02: <General> Sent API key to player William. 84 keys left.
+2019-08-09 15.51.02: <General> Initializing player William.
+2019-08-09 15.58.21: <General> Player Dio has loaded and is waiting for a temp-key.
+2019-08-09 15.58.22: <General> Sent API key to player Dio. 83 keys left.
+2019-08-09 15.58.22: <General> Initializing player Dio.
+2019-08-09 16.01.53: <General> Player bananap00p has loaded and is waiting for a temp-key.
+2019-08-09 16.01.54: <General> Sent API key to player bananap00p. 82 keys left.
+2019-08-09 16.01.54: <General> Initializing player bananap00p.
+2019-08-09 16.14.44: <General> Player Bagels, the Bagel [IanTay] has loaded and is waiting for a temp-key.
+2019-08-09 16.14.44: <General> Sent API key to player Bagels, the Bagel [IanTay]. 81 keys left.
+2019-08-09 16.14.44: <General> Initializing player Bagels, the Bagel [IanTay].
+2019-08-09 16.23.44: <General> Player Сɾɑѕһ has loaded and is waiting for a temp-key.
+2019-08-09 16.23.44: <General> Sent API key to player Сɾɑѕһ. 80 keys left.
+2019-08-09 16.23.44: <General> Initializing player Сɾɑѕһ.
+2019-08-09 16.27.46: <Repair man> Player: acewinters(76561198037403356) has just been deducted 280 for repairs.
+2019-08-09 16.28.03: <Repair man> Player: acewinters(76561198037403356) has just completed the repairs by a Repair man "SUPER SECRET".
+2019-08-09 16.34.16: <General> Player jd_hickey4560 has loaded and is waiting for a temp-key.
+2019-08-09 16.34.16: <General> Sent API key to player jd_hickey4560. 79 keys left.
+2019-08-09 16.34.16: <General> Initializing player jd_hickey4560.
+2019-08-09 16.46.21: <General> Player turbine the fox has loaded and is waiting for a temp-key.
+2019-08-09 16.46.22: <General> Sent API key to player turbine the fox. 78 keys left.
+2019-08-09 16.46.22: <General> Initializing player turbine the fox.
+2019-08-09 16.57.18: <General> vehicle "SUPER SECRET(TDM Emergency)" has exploded.
+2019-08-09 16.57.56: <Car dealer> Player: Bagels, the Bagel [IanTay](76561198124100353) has spawned a vehicle Honda CR-X SiR (TDM Cars) (for a test drive) from Car dealer called: "Tier 1 Cars".
+2019-08-09 16.57.56: <General> Vehicle data "Honda CR-X SiR" loaded.
+2019-08-09 16.58.35: <Car dealer> Player: Bagels, the Bagel [IanTay](76561198124100353) test drive has just ended.
+2019-08-09 16.58.49: <Car dealer> Player: Bagels, the Bagel [IanTay](76561198124100353) has bought a vehicle Lexus IS 300 (TDM Cars) from Car dealer called: "Tier 1 Cars" for 25000.
+2019-08-09 16.58.51: <Car dealer> Player: Bagels, the Bagel [IanTay](76561198124100353) has spawned a vehicle Lexus IS 300 (TDM Cars) from Car dealer called: "Tier 1 Cars".
+2019-08-09 16.58.56: <General> Vehicle data "Lexus IS 300" loaded.
+2019-08-09 16.59.04: <General> Player DrDerpenstein has loaded and is waiting for a temp-key.
+2019-08-09 16.59.05: <General> Sent API key to player DrDerpenstein. 77 keys left.
+2019-08-09 16.59.05: <General> Initializing player DrDerpenstein.
+2019-08-09 17.01.38: <Car dealer> Player: turbine the fox(76561198904671631) has bought a vehicle Dodge Charger SRT8 Police (TDM Emergency) from Car dealer called: "Government Dealer" for 0.
+2019-08-09 17.01.42: <Car dealer> Player: turbine the fox(76561198904671631) has changed settings for Car dealer called: "Government Dealer".
+2019-08-09 17.01.53: <Car dealer> Player: turbine the fox(76561198904671631) has spawned a vehicle Dodge Charger SRT8 Police (TDM Emergency) from Car dealer called: "Government Dealer".
+2019-08-09 17.03.07: <Car dealer> Player: turbine the fox(76561198904671631) has disconnected removing vehicle "Dodge Charger SRT8 Police(TDM Emergency).
+2019-08-09 17.07.58: <General> Player: DrDerpenstein(76561197987391254) has altered VCMod administrative settings.
+2019-08-09 17.08.02: <General> vehicle "Lexus IS 300(TDM Cars)" has exploded.
+2019-08-09 17.09.13: <Car dealer> Player: acewinters(76561198037403356) has spawned a vehicle Jeep Wrangler F&F (TDM Cars) from Car dealer called: "Tier 5 Cars".
+2019-08-09 17.09.32: <Repair man> Player: acewinters(76561198037403356) has just been deducted 10 for repairs.
+2019-08-09 17.09.38: <Repair man> Player: acewinters(76561198037403356) has just completed the repairs by a Repair man "Jeep Wrangler F&F".
+2019-08-09 17.10.47: <General> Player: DrDerpenstein(76561197987391254) has altered VCMod administrative settings.
+2019-08-09 17.13.42: <General> Player: DrDerpenstein(76561197987391254) has altered VCMod administrative settings.
+2019-08-09 17.18.37: <General> Player: DrDerpenstein(76561197987391254) has altered VCMod administrative settings.
+2019-08-09 17.22.29: <General> Player Bobbicus has loaded and is waiting for a temp-key.
+2019-08-09 17.22.31: <General> Sent API key to player Bobbicus. 76 keys left.
+2019-08-09 17.22.31: <General> Initializing player Bobbicus.
+2019-08-09 17.23.46: <Car dealer> Player: Bobbicus(76561198132804632) has spawned a vehicle Jeep (Half-Life 2) from Car dealer called: "Vip Dealer".
+2019-08-09 17.23.47: <General> Vehicle data "Jeep" loaded.
+2019-08-09 17.25.35: <General> vehicle "Airboat(Half-Life 2)" has exploded.
+2019-08-09 17.27.21: <General> vehicle "Jeep(Half-Life 2)" has exploded.
+2019-08-09 18.01.20: <General> Player MangoTurt has loaded and is waiting for a temp-key.
+2019-08-09 18.01.21: <General> Sent API key to player MangoTurt. 75 keys left.
+2019-08-09 18.01.21: <General> Initializing player MangoTurt.
+2019-08-09 18.08.38: <Car dealer> Player: acewinters(76561198037403356) has spawned a vehicle Jeep Wrangler F&F (TDM Cars) from Car dealer called: "Tier 5 Cars".
+2019-08-09 18.08.52: <Repair man> Player: acewinters(76561198037403356) has just been deducted 10 for repairs.
+2019-08-09 18.08.58: <Repair man> Player: acewinters(76561198037403356) has just completed the repairs by a Repair man "Jeep Wrangler F&F".
+2019-08-09 18.10.37: <Repair man> Player: acewinters(76561198037403356) has just been deducted 11 for repairs.
+2019-08-09 18.10.44: <Repair man> Player: acewinters(76561198037403356) has just completed the repairs by a Repair man "Airboat".
+2019-08-09 18.13.01: <Repair man> Player: acewinters(76561198037403356) has just been deducted 11 for repairs.
+2019-08-09 18.13.07: <Repair man> Player: acewinters(76561198037403356) has just completed the repairs by a Repair man "Airboat".
+2019-08-09 18.13.11: <Car dealer> Player: Dio(76561198955197088) has spawned a vehicle Airboat (Half-Life 2) from Car dealer called: "AirBoat Dealer".
+2019-08-09 18.33.57: <General> Vehicle data "Aston Martin Rapide" loaded.
+2019-08-09 18.42.36: <Car dealer> Player: MangoTurt(76561198167377890) has bought a vehicle Dodge Challenger 2015 (TDM Cars) from Car dealer called: "Tier 5 Cars" for 85000.
+2019-08-09 18.42.37: <Car dealer> Player: MangoTurt(76561198167377890) has spawned a vehicle Dodge Challenger 2015 (TDM Cars) from Car dealer called: "Tier 5 Cars".
+2019-08-09 18.42.38: <General> Vehicle data "Dodge Challenger 2015" loaded.
+2019-08-09 18.42.53: <Car dealer> Player: MangoTurt(76561198167377890) has failed returning a vehicle Dodge Challenger 2015 (TDM Cars) from Car dealer called: "Tier 5 Cars", for price of: 5000, reason: can not afford.
+2019-08-09 18.42.55: <Car dealer> Player: MangoTurt(76561198167377890) has failed returning a vehicle Dodge Challenger 2015 (TDM Cars) from Car dealer called: "Tier 5 Cars", for price of: 5000, reason: can not afford.
+2019-08-09 18.42.57: <Car dealer> Player: MangoTurt(76561198167377890) has failed returning a vehicle Dodge Challenger 2015 (TDM Cars) from Car dealer called: "Tier 5 Cars", for price of: 5000, reason: can not afford.
+2019-08-09 18.43.01: <Car dealer> Player: MangoTurt(76561198167377890) has failed returning a vehicle Dodge Challenger 2015 (TDM Cars) from Car dealer called: "Tier 5 Cars", for price of: 5000, reason: can not afford.
+2019-08-09 18.43.26: <General> Player: Dio(76561198955197088) has altered VCMod administrative settings.
+2019-08-09 18.43.36: <Car dealer> Player: MangoTurt(76561198167377890) has spawned a vehicle Dodge Challenger 2015 (TDM Cars) from Car dealer called: "Tier 5 Cars".
+2019-08-09 18.56.53: <Car dealer> Player: MangoTurt(76561198167377890) has disconnected removing vehicle "Dodge Challenger 2015(TDM Cars).
+2019-08-09 19.05.36: <Car dealer> Player: Dio(76561198955197088) has disconnected removing vehicle "Airboat(Half-Life 2).
+2019-08-09 19.26.17: <General> Player DrDerpenstein has loaded and is waiting for a temp-key.
+2019-08-09 19.26.19: <General> Sent API key to player DrDerpenstein. 74 keys left.
+2019-08-09 19.26.19: <General> Initializing player DrDerpenstein.
+2019-08-09 19.56.05: <General> Player Dio has loaded and is waiting for a temp-key.
+2019-08-09 19.56.05: <General> Sent API key to player Dio. 73 keys left.
+2019-08-09 19.56.05: <General> Initializing player Dio.

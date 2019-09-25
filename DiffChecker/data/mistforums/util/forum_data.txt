@@ -1,0 +1,30 @@
+MistForum.server = MistForum.server or nil
+
+function MistForum:getServer()
+	if ( MistForum.server ) then
+		return MistForum.server
+	end
+
+	local ip = MistForum:getServerIp()
+
+	MistForum:post('gameserver', {['ipaddress'] = ip}, function(data)
+		MistForum.server = data
+		hook.Call("OnServerSynced", MistForum.server)
+	end)
+end
+
+function MistForum:getForum()
+    if ( MistForum.forum ) then
+		return MistForum.forum
+	end
+
+	MistForum:post('forum', {}, function(data)
+		MistForum.forum = data
+		hook.Call("OnForumSynced", MistForum.forum)
+	end)
+end
+
+hook.Add("OnServerIP", "mistforums.syncServer", function()
+	MistForum.getServer()
+	MistForum.getForum()
+end )

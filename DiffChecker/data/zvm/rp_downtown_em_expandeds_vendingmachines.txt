@@ -1,0 +1,733 @@
+[
+	{
+		"pos": "[-9868.0449 5506.2183 -14.6303]",
+		"skin": 1.0,
+		"color": {
+			"r": 255.0,
+			"b": 0.0,
+			"a": 255.0,
+			"g": 0.0
+		},
+		"ang": "{-0.0376 -90 -0.006}",
+		"moneytype": 1.0,
+		"name": "WEAPONS",
+		"content": {
+			"416797332": {
+				"rankid": -1.0,
+				"price": 7500.0,
+				"jobid": -1.0,
+				"model": "models/weapons/w_pist_glock18.mdl",
+				"amount": 1.0,
+				"bg_color": {
+					"r": 0.0,
+					"b": 255.0,
+					"a": 255.0,
+					"g": 21.0
+				},
+				"class": "spawned_weapon",
+				"entData": {
+					"Base": "base_gmodentity",
+					"PrintName": "Spawned Weapon",
+					"PhysicsObjects": {
+						"0": {
+							"Pos": "[-9839.2148 5507.5469 50.4017]",
+							"Frozen": false,
+							"Angle": "{38.4617 -24.6601 -101.3725}"
+						}
+					},
+					"clip1": 17.0,
+					"nodupe": true,
+					"Contact": "",
+					"AdminOnly": false,
+					"DT": {
+						"amount": 1.0,
+						"WeaponClass": "cw_nen_glock17"
+					},
+					"Class": "spawned_weapon",
+					"dt": [],
+					"FPPCanTouchWhy": [],
+					"Model": "models/weapons/w_pist_glock18.mdl",
+					"Spawnable": false,
+					"Instructions": "",
+					"FlexScale": 1.0,
+					"Folder": "entities/spawned_weapon",
+					"Type": "anim",
+					"ammoadd": 17.0,
+					"Name": "",
+					"ClassName": "spawned_weapon",
+					"ColGroup": 0.0,
+					"FPPCanTouch": [],
+					"Mins": "[-3.7549 -2.1068 -0.0957]",
+					"Maxs": "[7.1321 1.4801 7.1536]",
+					"IsSpawnedWeapon": true,
+					"Skin": 0.0,
+					"Purpose": "",
+					"Angle": "{38.1718 -24.6406 -101.2596}",
+					"Author": "Rickster",
+					"zvm_CollisionCooldown": true,
+					"Pos": "[-9837.3809 5505.4741 50.1022]",
+					"RenderGroup": 7.0
+				},
+				"name": "Glock 18",
+				"extraData": []
+			},
+			"842301053": {
+				"rankid": -1.0,
+				"price": 6500.0,
+				"jobid": -1.0,
+				"model": "models/cw2/pistols/w_makarov.mdl",
+				"amount": 1.0,
+				"bg_color": {
+					"r": 255.0,
+					"b": 255.0,
+					"a": 255.0,
+					"g": 255.0
+				},
+				"class": "spawned_weapon",
+				"entData": {
+					"Base": "base_gmodentity",
+					"PrintName": "Spawned Weapon",
+					"PhysicsObjects": {
+						"0": {
+							"Pos": "[-9836.6104 5501.8501 32.9223]",
+							"Frozen": false,
+							"Angle": "{-17.9943 -134.4858 -5.3017}"
+						}
+					},
+					"clip1": 8.0,
+					"nodupe": true,
+					"Contact": "",
+					"AdminOnly": false,
+					"DT": {
+						"amount": 1.0,
+						"WeaponClass": "cw_makarov"
+					},
+					"Class": "spawned_weapon",
+					"dt": [],
+					"FPPCanTouchWhy": [],
+					"Model": "models/cw2/pistols/w_makarov.mdl",
+					"Spawnable": false,
+					"Instructions": "",
+					"FlexScale": 1.0,
+					"Folder": "entities/spawned_weapon",
+					"Type": "anim",
+					"ammoadd": 8.0,
+					"Name": "",
+					"ClassName": "spawned_weapon",
+					"ColGroup": 0.0,
+					"FPPCanTouch": [],
+					"Mins": "[-2.4824 -4.962 -0.4188]",
+					"Maxs": "[2.4413 6.6966 5.7374]",
+					"IsSpawnedWeapon": true,
+					"Skin": 0.0,
+					"Purpose": "",
+					"Angle": "{-17.7283 -133.6979 -5.2172}",
+					"Author": "Rickster",
+					"zvm_CollisionCooldown": true,
+					"Pos": "[-9834.0449 5501.7295 32.6656]",
+					"RenderGroup": 7.0
+				},
+				"name": "Makarov",
+				"extraData": []
+			},
+			"972931928": {
+				"rankid": -1.0,
+				"price": 10000.0,
+				"jobid": -1.0,
+				"model": "models/weapons/w_smg_mp5.mdl",
+				"amount": 1.0,
+				"bg_color": {
+					"r": 161.0,
+					"b": 255.0,
+					"a": 255.0,
+					"g": 0.0
+				},
+				"class": "spawned_weapon",
+				"entData": {
+					"Base": "base_gmodentity",
+					"PrintName": "Spawned Weapon",
+					"PhysicsObjects": {
+						"0": {
+							"Pos": "[-9821.0801 5498.6177 18.812]",
+							"Frozen": false,
+							"Angle": "{-15.2571 132.7572 -82.5749}"
+						}
+					},
+					"clip2": 0.0,
+					"clip1": 15.0,
+					"Contact": "",
+					"AdminOnly": false,
+					"DT": {
+						"amount": 1.0,
+						"WeaponClass": "cw_mp5"
+					},
+					"Class": "spawned_weapon",
+					"FPPCanTouchWhy": [],
+					"Model": "models/weapons/w_smg_mp5.mdl",
+					"Spawnable": false,
+					"Instructions": "",
+					"RenderGroup": 7.0,
+					"FlexScale": 1.0,
+					"Folder": "entities/spawned_weapon",
+					"Type": "anim",
+					"ammoadd": 15.0,
+					"Name": "",
+					"ClassName": "spawned_weapon",
+					"ColGroup": 0.0,
+					"Mins": "[-16.2312 -2.6421 -2.389]",
+					"Maxs": "[20.7879 1.8516 17.4218]",
+					"IsSpawnedWeapon": true,
+					"Skin": 0.0,
+					"Purpose": "",
+					"Angle": "{-15.0797 135.8367 -83.8717}",
+					"dt": [],
+					"Author": "Rickster",
+					"FPPCanTouch": [],
+					"zvm_CollisionCooldown": true,
+					"Pos": "[-9819.7529 5497.9043 18.2071]",
+					"nodupe": true
+				},
+				"name": "MP5",
+				"extraData": []
+			},
+			"559340066": {
+				"rankid": -1.0,
+				"price": 40000.0,
+				"jobid": -1.0,
+				"model": "models/weapons/cw2_super_shorty.mdl",
+				"amount": 1.0,
+				"bg_color": {
+					"r": 255.0,
+					"b": 0.0,
+					"a": 255.0,
+					"g": 0.0
+				},
+				"class": "spawned_weapon",
+				"entData": {
+					"Base": "base_gmodentity",
+					"PrintName": "Spawned Weapon",
+					"PhysicsObjects": {
+						"0": {
+							"Pos": "[-9836.1416 5501.1851 12.2031]",
+							"Frozen": false,
+							"Angle": "{20.9138 86.2639 -75.0123}"
+						}
+					},
+					"clip1": 2.0,
+					"nodupe": true,
+					"Contact": "",
+					"AdminOnly": false,
+					"DT": {
+						"amount": 1.0,
+						"WeaponClass": "cw_shorty"
+					},
+					"Class": "spawned_weapon",
+					"dt": [],
+					"FPPCanTouchWhy": [],
+					"Model": "models/weapons/cw2_super_shorty.mdl",
+					"Spawnable": false,
+					"Instructions": "",
+					"FlexScale": 1.0,
+					"Folder": "entities/spawned_weapon",
+					"Type": "anim",
+					"ammoadd": 10.0,
+					"Name": "",
+					"ClassName": "spawned_weapon",
+					"ColGroup": 0.0,
+					"FPPCanTouch": [],
+					"Mins": "[-10.6471 -1.3045 -3.4216]",
+					"Maxs": "[27.7642 1.1104 6.4531]",
+					"IsSpawnedWeapon": true,
+					"Skin": 0.0,
+					"Purpose": "",
+					"Angle": "{18.1155 90.7875 -76.7918}",
+					"Author": "Rickster",
+					"zvm_CollisionCooldown": true,
+					"Pos": "[-9829.9492 5501.0669 9.3116]",
+					"RenderGroup": 7.0
+				},
+				"name": "Super Shorty",
+				"extraData": []
+			}
+		}
+	},
+	{
+		"pos": "[-9867.9287 5641.9448 -14.501]",
+		"skin": 0.0,
+		"color": {
+			"r": 33.0,
+			"b": 0.0,
+			"a": 255.0,
+			"g": 255.0
+		},
+		"ang": "{0.1352 -89.7531 0.1232}",
+		"moneytype": 1.0,
+		"name": "FOOD",
+		"content": {
+			"133559133": {
+				"rankid": -1.0,
+				"price": 10000.0,
+				"jobid": -1.0,
+				"model": "models/food/burger.mdl",
+				"amount": 1.0,
+				"bg_color": {
+					"r": 255.0,
+					"b": 255.0,
+					"a": 255.0,
+					"g": 255.0
+				},
+				"class": "spawned_food",
+				"entData": {
+					"Base": "base_gmodentity",
+					"PrintName": "Spawned Food",
+					"FoodName": "Krabby Patty",
+					"PhysicsObjects": {
+						"0": {
+							"Pos": "[-9863.1992 5667.9697 35.8647]",
+							"Frozen": false,
+							"Angle": "{39.5219 17.1449 2.5371}"
+						}
+					},
+					"Contact": "",
+					"foodItem": {
+						"energy": 100.0,
+						"price": 500.0,
+						"delay": 0.8,
+						"CustomCheckFailMsg": "",
+						"model": "models/food/burger.mdl",
+						"name": "Krabby Patty"
+					},
+					"AdminOnly": false,
+					"Class": "spawned_food",
+					"FPPCanTouchWhy": [],
+					"onlyremover": true,
+					"Model": "models/food/burger.mdl",
+					"Spawnable": false,
+					"Instructions": "",
+					"RenderGroup": 7.0,
+					"FlexScale": 1.0,
+					"Folder": "entities/spawned_food",
+					"Type": "anim",
+					"Name": "",
+					"ClassName": "spawned_food",
+					"FoodPrice": 500.0,
+					"FoodEnergy": 100.0,
+					"FPPCanTouch": [],
+					"ColGroup": 0.0,
+					"Mins": "[-3.4979 -3.4935 11.8308]",
+					"Maxs": "[3.4682 3.4726 16.6863]",
+					"Skin": 0.0,
+					"Purpose": "",
+					"Angle": "{39.5578 16.9308 2.5402}",
+					"SID": 5.0,
+					"DarkRPItem": {
+						"max": 20.0,
+						"cmd": "buyfood"
+					},
+					"Author": "Rickster",
+					"dt": [],
+					"zvm_CollisionCooldown": true,
+					"IsSpawnedFood": true,
+					"Pos": "[-9862.7432 5669.1885 35.9131]"
+				},
+				"name": "Krabby Patty",
+				"extraData": {
+					"foodItem": {
+						"energy": 100.0,
+						"price": 500.0,
+						"delay": 0.8,
+						"CustomCheckFailMsg": "",
+						"model": "models/food/burger.mdl",
+						"name": "Krabby Patty"
+					}
+				}
+			},
+			"426634301": {
+				"rankid": -1.0,
+				"price": 10000.0,
+				"jobid": -1.0,
+				"model": "models/food/hotdog.mdl",
+				"amount": 1.0,
+				"bg_color": {
+					"r": 255.0,
+					"b": 255.0,
+					"a": 255.0,
+					"g": 255.0
+				},
+				"class": "spawned_food",
+				"entData": {
+					"Base": "base_gmodentity",
+					"PrintName": "Spawned Food",
+					"FoodName": "Wiener",
+					"PhysicsObjects": {
+						"0": {
+							"Pos": "[-9841.8428 5645.3525 28.0479]",
+							"Frozen": false,
+							"Angle": "{20.1155 -61.9776 -13.3908}"
+						}
+					},
+					"Contact": "",
+					"foodItem": {
+						"energy": 100.0,
+						"price": 500.0,
+						"delay": 0.8,
+						"CustomCheckFailMsg": "\"8 inches, can ya handle that?\"",
+						"model": "models/food/hotdog.mdl",
+						"name": "Wiener"
+					},
+					"AdminOnly": false,
+					"Class": "spawned_food",
+					"FPPCanTouchWhy": [],
+					"onlyremover": true,
+					"Model": "models/food/hotdog.mdl",
+					"Spawnable": false,
+					"Instructions": "",
+					"RenderGroup": 7.0,
+					"FlexScale": 1.0,
+					"Folder": "entities/spawned_food",
+					"Type": "anim",
+					"Name": "",
+					"ClassName": "spawned_food",
+					"FoodPrice": 500.0,
+					"FoodEnergy": 100.0,
+					"FPPCanTouch": [],
+					"ColGroup": 0.0,
+					"Mins": "[-6.7856 -2.5374 11.7542]",
+					"Maxs": "[6.7856 2.7627 16.647]",
+					"Skin": 0.0,
+					"Purpose": "",
+					"Angle": "{12.4476 -60.7474 -2.8435}",
+					"SID": 5.0,
+					"DarkRPItem": {
+						"max": 20.0,
+						"cmd": "buyfood"
+					},
+					"Author": "Rickster",
+					"dt": [],
+					"zvm_CollisionCooldown": true,
+					"IsSpawnedFood": true,
+					"Pos": "[-9830.3369 5644.8237 14.1728]"
+				},
+				"name": "Wiener",
+				"extraData": {
+					"foodItem": {
+						"energy": 100.0,
+						"price": 500.0,
+						"delay": 0.8,
+						"CustomCheckFailMsg": "\"8 inches, can ya handle that?\"",
+						"model": "models/food/hotdog.mdl",
+						"name": "Wiener"
+					}
+				}
+			},
+			"807491263": {
+				"rankid": -1.0,
+				"price": 10000.0,
+				"jobid": -1.0,
+				"model": "models/props_junk/garbage_bag001a.mdl",
+				"amount": 1.0,
+				"bg_color": {
+					"r": 255.0,
+					"b": 255.0,
+					"a": 255.0,
+					"g": 255.0
+				},
+				"class": "spawned_food",
+				"entData": {
+					"Base": "base_gmodentity",
+					"PrintName": "Spawned Food",
+					"FoodName": "Junk Food",
+					"PhysicsObjects": {
+						"0": {
+							"Pos": "[-9834.4492 5663.5376 34.809]",
+							"Frozen": false,
+							"Angle": "{15.8533 -35.5075 -174.7852}"
+						}
+					},
+					"Contact": "",
+					"foodItem": {
+						"energy": 100.0,
+						"price": 500.0,
+						"delay": 0.8,
+						"CustomCheckFailMsg": "Fatty",
+						"model": "models/props_junk/garbage_bag001a.mdl",
+						"name": "Junk Food"
+					},
+					"AdminOnly": false,
+					"Class": "spawned_food",
+					"FPPCanTouchWhy": [],
+					"onlyremover": true,
+					"Model": "models/props_junk/garbage_bag001a.mdl",
+					"Spawnable": false,
+					"Instructions": "",
+					"RenderGroup": 7.0,
+					"FlexScale": 1.0,
+					"Folder": "entities/spawned_food",
+					"Type": "anim",
+					"Name": "",
+					"ClassName": "spawned_food",
+					"FoodPrice": 500.0,
+					"FoodEnergy": 100.0,
+					"FPPCanTouch": [],
+					"ColGroup": 0.0,
+					"Mins": "[-8.9302 -6.8883 -5.5105]",
+					"Maxs": "[9.3926 7.2414 5.5922]",
+					"Skin": 0.0,
+					"Purpose": "",
+					"Angle": "{14.9401 -35.4474 -174.3777}",
+					"SID": 5.0,
+					"DarkRPItem": {
+						"max": 20.0,
+						"cmd": "buyfood"
+					},
+					"Author": "Rickster",
+					"dt": [],
+					"zvm_CollisionCooldown": true,
+					"IsSpawnedFood": true,
+					"Pos": "[-9832.6563 5662.8467 33.7853]"
+				},
+				"name": "Junk Food",
+				"extraData": {
+					"foodItem": {
+						"energy": 100.0,
+						"price": 500.0,
+						"delay": 0.8,
+						"CustomCheckFailMsg": "Fatty",
+						"model": "models/props_junk/garbage_bag001a.mdl",
+						"name": "Junk Food"
+					}
+				}
+			},
+			"322015205": {
+				"rankid": -1.0,
+				"price": 10000.0,
+				"jobid": -1.0,
+				"model": "models/noesis/donut.mdl",
+				"amount": 1.0,
+				"bg_color": {
+					"r": 255.0,
+					"b": 255.0,
+					"a": 255.0,
+					"g": 255.0
+				},
+				"class": "spawned_food",
+				"entData": {
+					"Base": "base_gmodentity",
+					"PrintName": "Spawned Food",
+					"FoodName": "Donut",
+					"PhysicsObjects": {
+						"0": {
+							"Pos": "[-9831.4258 5663.8076 20.6903]",
+							"Frozen": false,
+							"Angle": "{8.8274 -45.4363 1.537}"
+						}
+					},
+					"Contact": "",
+					"foodItem": {
+						"energy": 100.0,
+						"price": 500.0,
+						"delay": 0.8,
+						"CustomCheckFailMsg": "",
+						"model": "models/noesis/donut.mdl",
+						"name": "Donut"
+					},
+					"AdminOnly": false,
+					"Class": "spawned_food",
+					"FPPCanTouchWhy": [],
+					"onlyremover": true,
+					"Model": "models/noesis/donut.mdl",
+					"Spawnable": false,
+					"Instructions": "",
+					"RenderGroup": 7.0,
+					"FlexScale": 1.0,
+					"Folder": "entities/spawned_food",
+					"Type": "anim",
+					"Name": "",
+					"ClassName": "spawned_food",
+					"FoodPrice": 500.0,
+					"FoodEnergy": 100.0,
+					"FPPCanTouch": [],
+					"ColGroup": 0.0,
+					"Mins": "[-10.25 -10.25 -5.25]",
+					"Maxs": "[10.25 10.25 5.25]",
+					"Skin": 0.0,
+					"Purpose": "",
+					"Angle": "{8.4049 -45.8542 1.5307}",
+					"SID": 5.0,
+					"DarkRPItem": {
+						"max": 20.0,
+						"cmd": "buyfood"
+					},
+					"Author": "Rickster",
+					"dt": [],
+					"zvm_CollisionCooldown": true,
+					"IsSpawnedFood": true,
+					"Pos": "[-9829.666 5665.2456 19.0164]"
+				},
+				"name": "Donut",
+				"extraData": {
+					"foodItem": {
+						"energy": 100.0,
+						"price": 500.0,
+						"delay": 0.8,
+						"CustomCheckFailMsg": "",
+						"model": "models/noesis/donut.mdl",
+						"name": "Donut"
+					}
+				}
+			},
+			"851848242": {
+				"rankid": -1.0,
+				"price": 10000.0,
+				"jobid": -1.0,
+				"model": "models/props_junk/popcan01a.mdl",
+				"amount": 1.0,
+				"bg_color": {
+					"r": 255.0,
+					"b": 255.0,
+					"a": 255.0,
+					"g": 255.0
+				},
+				"class": "spawned_food",
+				"entData": {
+					"Base": "base_gmodentity",
+					"PrintName": "Spawned Food",
+					"FoodName": "Soda",
+					"PhysicsObjects": {
+						"0": {
+							"Pos": "[-9838.0391 5660.6123 32.8248]",
+							"Frozen": false,
+							"Angle": "{33.1611 -20.3583 1.1276}"
+						}
+					},
+					"Contact": "",
+					"foodItem": {
+						"energy": 25.0,
+						"price": 2000.0,
+						"delay": 0.8,
+						"model": "models/props_junk/PopCan01a.mdl",
+						"name": "Soda"
+					},
+					"AdminOnly": false,
+					"Class": "spawned_food",
+					"FPPCanTouchWhy": [],
+					"onlyremover": true,
+					"Model": "models/props_junk/popcan01a.mdl",
+					"Spawnable": false,
+					"Instructions": "",
+					"RenderGroup": 7.0,
+					"FlexScale": 1.0,
+					"Folder": "entities/spawned_food",
+					"Type": "anim",
+					"Name": "",
+					"ClassName": "spawned_food",
+					"FoodPrice": 2000.0,
+					"FoodEnergy": 25.0,
+					"FPPCanTouch": [],
+					"ColGroup": 0.0,
+					"Mins": "[-1.9244 -2.1775 -3.6883]",
+					"Maxs": "[1.9174 2.1716 3.6727]",
+					"Skin": 0.0,
+					"Purpose": "",
+					"Angle": "{32.8728 -20.6552 1.1302}",
+					"SID": 5.0,
+					"DarkRPItem": {
+						"max": 20.0,
+						"cmd": "buyfood"
+					},
+					"Author": "Rickster",
+					"dt": [],
+					"zvm_CollisionCooldown": true,
+					"IsSpawnedFood": true,
+					"Pos": "[-9837.9385 5660.813 32.6127]"
+				},
+				"name": "Soda",
+				"extraData": {
+					"foodItem": {
+						"energy": 25.0,
+						"price": 2000.0,
+						"delay": 0.8,
+						"model": "models/props_junk/PopCan01a.mdl",
+						"name": "Soda"
+					}
+				}
+			},
+			"709154651": {
+				"rankid": -1.0,
+				"price": 10000.0,
+				"jobid": -1.0,
+				"model": "models/props_junk/watermelon01.mdl",
+				"amount": 1.0,
+				"bg_color": {
+					"r": 255.0,
+					"b": 255.0,
+					"a": 255.0,
+					"g": 255.0
+				},
+				"class": "spawned_food",
+				"entData": {
+					"Base": "base_gmodentity",
+					"PrintName": "Spawned Food",
+					"FoodName": "Watermelon",
+					"PhysicsObjects": {
+						"0": {
+							"Pos": "[-9833.0771 5658.0991 33.7537]",
+							"Frozen": false,
+							"Angle": "{-47.3564 53.5164 169.3198}"
+						}
+					},
+					"Contact": "",
+					"foodItem": {
+						"energy": 100.0,
+						"CustomCheckFailMsg": "",
+						"model": "models/props_junk/watermelon01.mdl",
+						"name": "Watermelon",
+						"price": 500.0
+					},
+					"AdminOnly": false,
+					"Class": "spawned_food",
+					"FPPCanTouchWhy": [],
+					"onlyremover": true,
+					"Model": "models/props_junk/watermelon01.mdl",
+					"Spawnable": false,
+					"Instructions": "",
+					"RenderGroup": 7.0,
+					"FlexScale": 1.0,
+					"Folder": "entities/spawned_food",
+					"Type": "anim",
+					"Name": "",
+					"ClassName": "spawned_food",
+					"FoodPrice": 500.0,
+					"FoodEnergy": 100.0,
+					"FPPCanTouch": [],
+					"ColGroup": 0.0,
+					"Mins": "[-7.6958 -8.9577 -7.831]",
+					"Maxs": "[7.6958 8.9577 7.831]",
+					"Skin": 0.0,
+					"Purpose": "",
+					"Angle": "{-47.3555 53.5582 169.2281}",
+					"SID": 5.0,
+					"DarkRPItem": {
+						"max": 20.0,
+						"cmd": "buyfood"
+					},
+					"Author": "Rickster",
+					"dt": [],
+					"zvm_CollisionCooldown": true,
+					"IsSpawnedFood": true,
+					"Pos": "[-9833.0107 5658.1025 33.6951]"
+				},
+				"name": "Watermelon",
+				"extraData": {
+					"foodItem": {
+						"energy": 100.0,
+						"CustomCheckFailMsg": "",
+						"model": "models/props_junk/watermelon01.mdl",
+						"name": "Watermelon",
+						"price": 500.0
+					}
+				}
+			}
+		}
+	}
+]

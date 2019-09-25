@@ -1,0 +1,26 @@
+Thu Jul 18 17:27:16 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): 
+Thu Jul 18 17:27:25 2019	RICARDO (STEAM_0:1:125273257) has joined the game
+Thu Jul 18 17:27:25 2019	RICARDO (STEAM_0:1:125273257) spawned
+Thu Jul 18 17:27:27 2019	BexGasm (STEAM_0:1:63382511): // we know
+Thu Jul 18 17:27:50 2019	UG | M A S T E R (STEAM_0:1:180622613): So, restart is most likely needed.
+Thu Jul 18 17:28:08 2019	UG | M A S T E R (STEAM_0:1:180622613): /pm Will I wasn't able to edit core fadmin. So I put it back to normal
+Thu Jul 18 17:28:09 2019	Bobbicus (STEAM_0:0:86269452) spawned SENT item_healthkit
+Thu Jul 18 17:28:09 2019	Bobbicus (STEAM_0:0:86269452) spawned SENT item_healthkit
+Thu Jul 18 17:28:22 2019	UG | M A S T E R (STEAM_0:1:180622613): /pm Will We could disable fadmin?
+Thu Jul 18 17:28:27 2019	LV (STEAM_0:0:460419170): /pm will hey my f4 is not pulling up the menu but all the others work
+Thu Jul 18 17:28:37 2019	UG | M A S T E R (STEAM_0:1:180622613): /pm Will Should we disable fadmin?
+Thu Jul 18 17:28:46 2019	jtroll1942 (STEAM_0:1:119864290): 
+Thu Jul 18 17:28:51 2019	BexGasm (STEAM_0:1:63382511): !slay jtrll
+Thu Jul 18 17:28:53 2019	jtroll1942 was killed by Himself with a suicide trick
+Thu Jul 18 17:28:53 2019	BexGasm (STEAM_0:1:63382511): !slay jtroll
+Thu Jul 18 17:28:56 2019	jtroll1942 (STEAM_0:1:119864290) spawned
+Thu Jul 18 17:29:02 2019	LV (STEAM_0:0:460419170) disconnected
+Thu Jul 18 17:29:20 2019	BexGasm (STEAM_0:1:63382511): /pm will why did you just walk away in the middle of the convo
+Thu Jul 18 17:29:56 2019	jtroll1942 (STEAM_0:1:119864290): WHAT HAPPEN TO MY BASE
+Thu Jul 18 17:29:59 2019	UG | M A S T E R (STEAM_0:1:180622613): /pm Will We can have  ulx darkrp commands.  Instead of using fadmin, but I am going to disable fadmin.
+Thu Jul 18 17:30:02 2019	William (STEAM_0:0:52504530): /citizen
+Thu Jul 18 17:30:12 2019	RICARDO (STEAM_0:1:125273257) spawned Vehicle prop_vehicle_jeep (civic97tdm)
+Thu Jul 18 17:30:21 2019	LV (STEAM_0:0:460419170) has joined the game
+Thu Jul 18 17:30:21 2019	LV (STEAM_0:0:460419170) spawned
+Thu Jul 18 17:30:40 2019	William was killed by RICARDO with a prop_vehicle_jeep
+Thu Jul 18 17:30:42 2019	William (STEAM_0:0:52504530) spawned

@@ -1,0 +1,1 @@
+[{"1":"weapon_crowbar","2":"weapon_physcannon","title":"SLOT","3":"weapon_physgun"},{"1":"weapon_357","2":"weapon_357","title":"SLOT"},{"title":"SLOT","1":"weapon_smg2"},{"title":"SLOT","1":"weapon_pistol"},{"1":"weapon_frag","2":"weapon_rpg","3":"weapon_shotgun","4":"weapon_crossbow","title":"SLOT","5":"weapon_ar2"}]

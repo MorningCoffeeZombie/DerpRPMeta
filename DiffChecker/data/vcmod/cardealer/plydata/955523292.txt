@@ -1,0 +1,8 @@
+{
+	"Vehicles": {
+		"models/tdmcars/emergency/chargersrt8.mdl$$$_VC_$$$Dodge Charger SRT8 Police$$$_VC_$$$1": {
+			"Health": 100.0,
+			"Fuel": 99.0
+		}
+	}
+}

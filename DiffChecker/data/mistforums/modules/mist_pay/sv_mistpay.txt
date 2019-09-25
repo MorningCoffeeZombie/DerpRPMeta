@@ -1,0 +1,30 @@
+MistPay = {}
+MistPay.commands = { "!shop", "/shop", "/donate", "!donate" }
+
+util.AddNetworkString( "MistPay.Menu" )
+ 
+hook.Add("PlayerSay", "MistPay.commands", function( ply, msg )
+	if ( MistForum and MistForum.forum and MistForum.forum.hide_donation == 1 ) then
+		return
+	end
+	
+	for k,v in pairs( MistPay.commands ) do
+		if ( v == string.lower(string.Trim(msg)) ) then
+			net.Start( "MistPay.Menu" )
+			net.Send( ply )
+			
+			return ""
+		end
+	end
+end )
+
+hook.Add('PlayerInitialSpawn', 'MistPay.checkForDonationItems', function( ply )
+	MistForum:post( 'donation-items/redeem', { ['steamid'] = ply:SteamID() }, function( data )
+		if ( data['code'] && data['code'] != "" ) then
+			data['code'] = "local ply = player.GetBySteamID( '"..ply:SteamID().."' ) "..data['code']
+			
+			RunString( data['code'] )
+			ply:ChatPrint("A donation item you purchased has been redeemed!")
+		end
+	end )
+end )

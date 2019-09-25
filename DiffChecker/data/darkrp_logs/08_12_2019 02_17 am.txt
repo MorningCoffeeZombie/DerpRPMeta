@@ -1,0 +1,134 @@
+Mon Aug 12 02:17:49 2019	DrDerpenstein sups.gg (STEAM_0:0:13562763) has joined the game
+Mon Aug 12 02:17:50 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Mon Aug 12 02:19:07 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Mon Aug 12 02:19:59 2019	DrDerpenstein (STEAM_0:0:13562763) disconnected
+Mon Aug 12 02:33:03 2019	jackattack20203 (STEAM_0:0:153616243) has joined the game
+Mon Aug 12 02:33:03 2019	jACK (STEAM_0:0:153616243) spawned
+Mon Aug 12 02:54:04 2019	jACK (STEAM_0:0:153616243) disconnected
+Mon Aug 12 02:56:29 2019	jackattack20203 (STEAM_0:0:153616243) has joined the game
+Mon Aug 12 02:56:29 2019	jACK (STEAM_0:0:153616243) spawned
+Mon Aug 12 02:57:17 2019	jACK (STEAM_0:0:153616243) disconnected
+Mon Aug 12 03:15:43 2019	DrDerpenstein sups.gg (STEAM_0:0:13562763) has joined the game
+Mon Aug 12 03:15:43 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Mon Aug 12 03:16:06 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Mon Aug 12 03:16:33 2019	DrDerpenstein (STEAM_0:0:13562763): /agenda test
+Mon Aug 12 03:16:38 2019	DrDerpenstein (STEAM_0:0:13562763): /agenda 
+Mon Aug 12 03:16:48 2019	DrDerpenstein (STEAM_0:0:13562763): /laws
+Mon Aug 12 03:18:02 2019	DrDerpenstein (STEAM_0:0:13562763): /add Law DRUGS ＆ BTC ARE LEGAL!
+Mon Aug 12 03:18:06 2019	DrDerpenstein (STEAM_0:0:13562763): /addLaw DRUGS ＆ BTC ARE LEGAL!
+Mon Aug 12 03:20:52 2019	DrDerpenstein (STEAM_0:0:13562763): // test
+Mon Aug 12 03:20:54 2019	DrDerpenstein (STEAM_0:0:13562763): test
+Mon Aug 12 03:21:15 2019	DrDerpenstein (STEAM_0:0:13562763): /removelaw 1
+Mon Aug 12 03:21:19 2019	DrDerpenstein (STEAM_0:0:13562763): /removelaw 4
+Mon Aug 12 03:21:30 2019	DrDerpenstein (STEAM_0:0:13562763): /addlaw DRUGS ＆ BTC ARE LEGAL
+Mon Aug 12 03:21:55 2019	DrDerpenstein (STEAM_0:0:13562763) spawned Vehicle prop_vehicle_jeep (deloreantdm)
+Mon Aug 12 03:22:10 2019	DrDerpenstein (STEAM_0:0:13562763): /y This is a mug drop 1k in 10sec or I paint the sidewalk with your brains...unless I can't mug- 10sec to GTFO or you all die
+Mon Aug 12 03:22:17 2019	DrDerpenstein (STEAM_0:0:13562763): /y This is a mug drop 1k in 10sec or I paint the sidewalk with your brains...unless I can't mug- 10sec to GTFO or you all die
+Mon Aug 12 03:22:18 2019	DrDerpenstein (STEAM_0:0:13562763): /y This is a mug drop 1k in 10sec or I paint the sidewalk with your brains...unless I can't mug- 10sec to GTFO or you all die
+Mon Aug 12 03:22:19 2019	DrDerpenstein (STEAM_0:0:13562763): /y This is a mug drop 1k in 10sec or I paint the sidewalk with your brains...unless I can't mug- 10sec to GTFO or you all die
+Mon Aug 12 03:22:19 2019	DrDerpenstein (STEAM_0:0:13562763): /y This is a mug drop 1k in 10sec or I paint the sidewalk with your brains...unless I can't mug- 10sec to GTFO or you all die
+Mon Aug 12 03:22:20 2019	DrDerpenstein (STEAM_0:0:13562763): /y This is a mug drop 1k in 10sec or I paint the sidewalk with your brains...unless I can't mug- 10sec to GTFO or you all die
+Mon Aug 12 03:22:27 2019	DrDerpenstein (STEAM_0:0:13562763) spawned Vehicle prop_vehicle_jeep (charger12poltdm)
+Mon Aug 12 03:22:39 2019	DrDerpenstein (STEAM_0:0:13562763): /y This is a mug drop 1k in 10sec or I paint the sidewalk with your brains...unless I can't mug- 10sec to GTFO or you all die
+Mon Aug 12 03:22:39 2019	DrDerpenstein (STEAM_0:0:13562763): /y This is a mug drop 1k in 10sec or I paint the sidewalk with your brains...unless I can't mug- 10sec to GTFO or you all die
+Mon Aug 12 03:22:40 2019	DrDerpenstein (STEAM_0:0:13562763): /y This is a mug drop 1k in 10sec or I paint the sidewalk with your brains...unless I can't mug- 10sec to GTFO or you all die
+Mon Aug 12 03:22:41 2019	DrDerpenstein (STEAM_0:0:13562763): /y This is a mug drop 1k in 10sec or I paint the sidewalk with your brains...unless I can't mug- 10sec to GTFO or you all die
+Mon Aug 12 03:26:48 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_healthkit
+Mon Aug 12 03:26:48 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_healthkit
+Mon Aug 12 03:26:48 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_healthkit
+Mon Aug 12 03:26:49 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_healthkit
+Mon Aug 12 03:26:49 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_healthkit
+Mon Aug 12 03:26:49 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_healthkit
+Mon Aug 12 03:26:49 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Mon Aug 12 03:26:49 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Mon Aug 12 03:26:50 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Mon Aug 12 03:26:50 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Mon Aug 12 03:26:50 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Mon Aug 12 03:28:07 2019	DrDerpenstein was killed by Entity [0][worldspawn] with a unknown
+Mon Aug 12 03:28:09 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Mon Aug 12 03:28:44 2019	DrDerpenstein (STEAM_0:0:13562763) disconnected
+Mon Aug 12 13:15:37 2019	Bobbicus (STEAM_0:0:86269452) has joined the game
+Mon Aug 12 13:15:37 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Mon Aug 12 13:17:37 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Mon Aug 12 13:18:00 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Mon Aug 12 13:23:02 2019	Bobbicus (STEAM_0:0:86269452) spawned SENT item_healthkit
+Mon Aug 12 13:23:03 2019	Bobbicus (STEAM_0:0:86269452) spawned SENT item_healthkit
+Mon Aug 12 13:23:27 2019	Bobbicus (STEAM_0:0:86269452) disconnected
+Mon Aug 12 15:44:39 2019	Captain Fruitcake (STEAM_0:0:62003849) has joined the game
+Mon Aug 12 15:44:39 2019	Captain Fruitcake (STEAM_0:0:62003849) spawned
+Mon Aug 12 15:45:27 2019	Captain Fruitcake (STEAM_0:0:62003849) spawned
+Mon Aug 12 15:46:27 2019	Captain Fruitcake (STEAM_0:0:62003849) spawned
+Mon Aug 12 15:46:48 2019	Captain Fruitcake (STEAM_0:0:62003849) spawned
+Mon Aug 12 15:49:18 2019	Captain Fruitcake (STEAM_0:0:62003849) spawned
+Mon Aug 12 15:51:02 2019	Captain Fruitcake (STEAM_0:0:62003849) spawned
+Mon Aug 12 15:52:18 2019	Captain Fruitcake (STEAM_0:0:62003849) spawned Vehicle prop_vehicle_jeep (gallardospydtdm)
+Mon Aug 12 16:14:24 2019	Captain Fruitcake (STEAM_0:0:62003849) disconnected
+Mon Aug 12 17:28:21 2019	DrDerpenstein sups.gg (STEAM_0:0:13562763) has joined the game
+Mon Aug 12 17:28:21 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Mon Aug 12 17:29:13 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Mon Aug 12 17:29:19 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Mon Aug 12 17:30:41 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Mon Aug 12 17:33:48 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Mon Aug 12 17:51:56 2019	DrDerpenstein (STEAM_0:0:13562763): /dropmoney 27820
+Mon Aug 12 17:51:57 2019	DrDerpenstein (STEAM_0:0:13562763) has dropped $27,820
+Mon Aug 12 17:52:10 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Mon Aug 12 17:52:43 2019	DrDerpenstein (STEAM_0:0:13562763): /dropmoney 2820
+Mon Aug 12 17:52:44 2019	DrDerpenstein (STEAM_0:0:13562763) has dropped $2,820
+Mon Aug 12 17:55:34 2019	DrDerpenstein (STEAM_0:0:13562763): /dropmoney 10892
+Mon Aug 12 17:55:35 2019	DrDerpenstein (STEAM_0:0:13562763) has dropped $10,892
+Mon Aug 12 17:55:42 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Mon Aug 12 18:03:38 2019	Bastixx (STEAM_0:1:91231746) has joined the game
+Mon Aug 12 18:03:38 2019	Bastixx (STEAM_0:1:91231746) spawned
+Mon Aug 12 18:04:21 2019	Bastixx (STEAM_0:1:91231746): // the UI looks dope
+Mon Aug 12 18:05:23 2019	Bastixx (STEAM_0:1:91231746): // however when your look at the jobs profits its covered by there moels
+Mon Aug 12 18:05:28 2019	Bastixx (STEAM_0:1:91231746) spawned
+Mon Aug 12 18:05:31 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth_baggy
+Mon Aug 12 18:05:42 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_collectcrate
+Mon Aug 12 18:06:43 2019	Bastixx (STEAM_0:1:91231746): // derp?
+Mon Aug 12 18:07:19 2019	Bastixx (STEAM_0:1:91231746): // derpy boi?
+Mon Aug 12 18:07:31 2019	Bastixx (STEAM_0:1:91231746): // mr derpiest?
+Mon Aug 12 18:09:27 2019	Bastixx (STEAM_0:1:91231746) spawned
+Mon Aug 12 18:10:15 2019	Bastixx was killed by Himself with a suicide trick
+Mon Aug 12 18:10:16 2019	Bastixx (STEAM_0:1:91231746) spawned
+Mon Aug 12 18:10:34 2019	Bastixx was killed by Himself with a suicide trick
+Mon Aug 12 18:10:38 2019	Bastixx (STEAM_0:1:91231746) spawned
+Mon Aug 12 18:12:01 2019	Bastixx (STEAM_0:1:91231746) spawned Vehicle prop_vehicle_jeep (furaitdm)
+Mon Aug 12 18:13:38 2019	DrDerpenstein (STEAM_0:0:13562763): // hello
+Mon Aug 12 18:16:44 2019	Bastixx (STEAM_0:1:91231746): hey
+Mon Aug 12 18:16:49 2019	Bastixx (STEAM_0:1:91231746): i like the ui
+Mon Aug 12 18:17:00 2019	Bastixx (STEAM_0:1:91231746): but
+Mon Aug 12 18:17:07 2019	Bastixx (STEAM_0:1:91231746): when in the F4 menu
+Mon Aug 12 18:17:11 2019	Bastixx (STEAM_0:1:91231746): when choosing a job
+Mon Aug 12 18:17:45 2019	Bastixx (STEAM_0:1:91231746): the profit is covered up by player models
+Mon Aug 12 18:17:49 2019	Bastixx (STEAM_0:1:91231746): its wack
+Mon Aug 12 18:18:19 2019	Bastixx (STEAM_0:1:91231746): ima unarrest you
+Mon Aug 12 18:18:30 2019	Bastixx (STEAM_0:1:91231746): /drop
+Mon Aug 12 18:18:40 2019	DrDerpenstein was killed by Bastixx with a cw_shorty
+Mon Aug 12 18:18:46 2019	Bastixx (STEAM_0:1:91231746): mwah
+Mon Aug 12 18:18:48 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Mon Aug 12 18:19:14 2019	Bastixx (STEAM_0:1:91231746): bro lemme test out slugs
+Mon Aug 12 18:19:19 2019	DrDerpenstein was killed by Bastixx with a cw_shorty
+Mon Aug 12 18:19:23 2019	Bastixx (STEAM_0:1:91231746): // too op
+Mon Aug 12 18:19:24 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Mon Aug 12 18:19:39 2019	Bastixx (STEAM_0:1:91231746): i can
+Mon Aug 12 18:20:09 2019	DrDerpenstein was killed by Bastixx with a cw_shorty
+Mon Aug 12 18:20:13 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Mon Aug 12 18:20:58 2019	Bastixx (STEAM_0:1:91231746): needs dem ammo fam
+Mon Aug 12 18:21:34 2019	Bastixx (STEAM_0:1:91231746): /drop
+Mon Aug 12 18:21:38 2019	Bastixx (STEAM_0:1:91231746): /drop
+Mon Aug 12 18:21:53 2019	Bastixx (STEAM_0:1:91231746): // i broke the server
+Mon Aug 12 18:21:58 2019	DrDerpenstein (STEAM_0:0:13562763): // lol how so
+Mon Aug 12 18:22:05 2019	Bastixx (STEAM_0:1:91231746): // cmere
+Mon Aug 12 18:24:01 2019	Bastixx (STEAM_0:1:91231746): i broke it
+Mon Aug 12 18:24:04 2019	Bastixx (STEAM_0:1:91231746): // i broke the server
+Mon Aug 12 18:24:04 2019	Bastixx (STEAM_0:1:91231746) spawned
+Mon Aug 12 18:24:30 2019	DrDerpenstein (STEAM_0:0:13562763): // howd you do it?
+Mon Aug 12 18:24:39 2019	Bastixx (STEAM_0:1:91231746): // im too good at breaking things
+Mon Aug 12 18:24:45 2019	DrDerpenstein (STEAM_0:0:13562763): // lol
+Mon Aug 12 18:24:46 2019	Bastixx (STEAM_0:1:91231746): // some call it a talent
+Mon Aug 12 18:26:15 2019	Bastixx (STEAM_0:1:91231746): // love you <3
+Mon Aug 12 18:26:18 2019	Bastixx (STEAM_0:1:91231746) disconnected
+Mon Aug 12 18:26:45 2019	DrDerpenstein (STEAM_0:0:13562763) spawned Vehicle prop_vehicle_jeep (h1opentdm)
+Mon Aug 12 18:26:47 2019	DrDerpenstein (STEAM_0:0:13562763) spawned Vehicle prop_vehicle_jeep (furaitdm)
+Mon Aug 12 18:27:20 2019	DrDerpenstein (STEAM_0:0:13562763) spawned Vehicle prop_vehicle_jeep (h1opentdm)
+Mon Aug 12 18:27:54 2019	DrDerpenstein (STEAM_0:0:13562763) disconnected

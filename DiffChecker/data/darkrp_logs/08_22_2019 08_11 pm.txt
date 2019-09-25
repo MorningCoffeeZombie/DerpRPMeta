@@ -1,0 +1,130 @@
+Thu Aug 22 20:11:52 2019	DrDerpenstein sups.gg (STEAM_0:0:13562763) has joined the game
+Thu Aug 22 20:11:52 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Thu Aug 22 20:12:46 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Thu Aug 22 20:13:34 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Thu Aug 22 20:13:51 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Thu Aug 22 20:15:23 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Thu Aug 22 20:15:23 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Thu Aug 22 20:15:23 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Thu Aug 22 20:15:23 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Thu Aug 22 20:17:28 2019	DrDerpenstein (STEAM_0:0:13562763): cw_dp_ak74
+Thu Aug 22 20:17:51 2019	DrDerpenstein (STEAM_0:0:13562763): cw_dp_ak74
+Thu Aug 22 20:18:33 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Thu Aug 22 20:19:01 2019	DrDerpenstein (STEAM_0:0:13562763): cw_dp_m14
+Thu Aug 22 20:19:03 2019	DrDerpenstein (STEAM_0:0:13562763): cw_m14
+Thu Aug 22 20:19:20 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Thu Aug 22 20:19:20 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Thu Aug 22 20:19:20 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Thu Aug 22 20:19:20 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Thu Aug 22 20:19:20 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Thu Aug 22 20:19:21 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Thu Aug 22 20:19:21 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Thu Aug 22 20:19:21 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Thu Aug 22 20:19:21 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Thu Aug 22 20:19:21 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Thu Aug 22 20:19:21 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Thu Aug 22 20:19:46 2019	DrDerpenstein (STEAM_0:0:13562763): /drop
+Thu Aug 22 20:19:54 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Thu Aug 22 20:21:08 2019	Bot01 (BOT) has joined the game
+Thu Aug 22 20:21:08 2019	Bot01 (BOT) spawned
+Thu Aug 22 20:21:13 2019	Bot02 (BOT) has joined the game
+Thu Aug 22 20:21:13 2019	Bot02 (BOT) spawned
+Thu Aug 22 20:21:23 2019	Bot01 (BOT) spawned
+Thu Aug 22 20:21:29 2019	Bot02 (BOT) spawned
+Thu Aug 22 20:24:38 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Thu Aug 22 20:30:15 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_pistol_large
+Thu Aug 22 20:30:15 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_pistol_large
+Thu Aug 22 20:30:15 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_smg1_large
+Thu Aug 22 20:30:16 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_smg1_large
+Thu Aug 22 20:30:16 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_smg1_large
+Thu Aug 22 20:30:16 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_357_large
+Thu Aug 22 20:30:16 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_357_large
+Thu Aug 22 20:30:17 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Thu Aug 22 20:30:17 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Thu Aug 22 20:30:17 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_altfire
+Thu Aug 22 20:30:17 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_altfire
+Thu Aug 22 20:30:18 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_crossbow
+Thu Aug 22 20:30:18 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_crossbow
+Thu Aug 22 20:30:18 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_rpg_round
+Thu Aug 22 20:30:18 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_rpg_round
+Thu Aug 22 20:30:19 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_box_buckshot
+Thu Aug 22 20:30:19 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_box_buckshot
+Thu Aug 22 20:30:19 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_box_buckshot
+Thu Aug 22 20:30:20 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Thu Aug 22 20:30:20 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Thu Aug 22 20:30:20 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Thu Aug 22 20:30:20 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Thu Aug 22 20:30:20 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Thu Aug 22 20:30:20 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Thu Aug 22 20:36:46 2019	DrDerpenstein (STEAM_0:0:13562763) spawned Vehicle prop_vehicle_jeep (sublegrs90tdm)
+Thu Aug 22 20:36:48 2019	DrDerpenstein (STEAM_0:0:13562763) spawned Vehicle prop_vehicle_jeep (toytundratdm)
+Thu Aug 22 20:36:51 2019	DrDerpenstein (STEAM_0:0:13562763) spawned Vehicle prop_vehicle_jeep (toyrav4tdm)
+Thu Aug 22 20:37:45 2019	DrDerpenstein (STEAM_0:0:13562763) spawned Vehicle prop_vehicle_jeep (mr2gttdm)
+Thu Aug 22 20:37:52 2019	DrDerpenstein (STEAM_0:0:13562763) spawned Vehicle prop_vehicle_jeep (toytundratdm)
+Thu Aug 22 20:38:18 2019	DrDerpenstein (STEAM_0:0:13562763) spawned Vehicle prop_vehicle_jeep (toyrav4tdm)
+Thu Aug 22 20:38:59 2019	DrDerpenstein (STEAM_0:0:13562763) spawned Vehicle prop_vehicle_jeep (supratdm)
+Thu Aug 22 20:39:05 2019	DrDerpenstein (STEAM_0:0:13562763) spawned Vehicle prop_vehicle_jeep (subimpreza08tdm)
+Thu Aug 22 20:40:12 2019	DrDerpenstein (STEAM_0:0:13562763) spawned Vehicle prop_vehicle_jeep (st1tdm)
+Thu Aug 22 20:40:46 2019	DrDerpenstein (STEAM_0:0:13562763) spawned Vehicle prop_vehicle_jeep (cayennetdm)
+Thu Aug 22 20:43:18 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_healthkit
+Thu Aug 22 20:43:19 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Thu Aug 22 20:43:21 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Thu Aug 22 20:43:28 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT itemstore_box
+Thu Aug 22 20:43:38 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT itemstore_box_huge
+Thu Aug 22 20:43:40 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT itemstore_box_huge
+Thu Aug 22 20:43:44 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT itemstore_box_large
+Thu Aug 22 20:43:49 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT itemstore_box
+Thu Aug 22 20:43:54 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT itemstore_bank
+Thu Aug 22 20:44:31 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT itemstore_box
+Thu Aug 22 20:44:36 2019	DrDerpenstein (STEAM_0:0:13562763): /drop
+Thu Aug 22 20:44:41 2019	DrDerpenstein (STEAM_0:0:13562763): /drop
+Thu Aug 22 20:44:45 2019	DrDerpenstein (STEAM_0:0:13562763): /drop
+Thu Aug 22 20:46:05 2019	DrDerpenstein (STEAM_0:0:13562763): /ItemStoreAdminBank
+Thu Aug 22 20:48:29 2019	DrDerpenstein (STEAM_0:0:13562763): /invholster
+Thu Aug 22 20:50:47 2019	DrDerpenstein (STEAM_0:0:13562763): /drop
+Thu Aug 22 20:55:12 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Thu Aug 22 21:04:49 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Thu Aug 22 21:05:10 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_357_large
+Thu Aug 22 21:05:12 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_pistol_large
+Thu Aug 22 21:05:12 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_pistol_large
+Thu Aug 22 21:05:12 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_pistol_large
+Thu Aug 22 21:05:12 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_pistol_large
+Thu Aug 22 21:05:12 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_pistol_large
+Thu Aug 22 21:05:13 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_pistol_large
+Thu Aug 22 21:05:13 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_pistol_large
+Thu Aug 22 21:05:13 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_pistol_large
+Thu Aug 22 21:06:33 2019	DrDerpenstein (STEAM_0:0:13562763): gmod_tool
+Thu Aug 22 21:09:30 2019	DrDerpenstein was killed by Himself with a suicide trick
+Thu Aug 22 21:09:31 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Thu Aug 22 21:11:31 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Thu Aug 22 21:11:42 2019	DrDerpenstein (STEAM_0:0:13562763): /unbox
+Thu Aug 22 21:13:11 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Thu Aug 22 21:15:25 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Thu Aug 22 21:15:31 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Thu Aug 22 21:15:31 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Thu Aug 22 21:15:31 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Thu Aug 22 21:15:32 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_pistol_large
+Thu Aug 22 21:15:32 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_pistol_large
+Thu Aug 22 21:15:32 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_pistol_large
+Thu Aug 22 21:15:32 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_smg1_large
+Thu Aug 22 21:15:33 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_smg1_large
+Thu Aug 22 21:15:33 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_357_large
+Thu Aug 22 21:15:33 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_357_large
+Thu Aug 22 21:15:34 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_crossbow
+Thu Aug 22 21:15:34 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_rpg_round
+Thu Aug 22 21:15:34 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_rpg_round
+Thu Aug 22 21:15:35 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_box_buckshot
+Thu Aug 22 21:15:35 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_box_buckshot
+Thu Aug 22 21:15:35 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_crossbow
+Thu Aug 22 21:15:36 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_smg1_grenade
+Thu Aug 22 21:15:37 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Thu Aug 22 21:15:37 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Thu Aug 22 21:15:37 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Thu Aug 22 21:15:37 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Thu Aug 22 21:15:37 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Thu Aug 22 21:15:55 2019	DrDerpenstein (STEAM_0:0:13562763): /unbox
+Thu Aug 22 21:16:50 2019	DrDerpenstein (STEAM_0:0:13562763): weapon_rpg
+Thu Aug 22 21:16:55 2019	DrDerpenstein (STEAM_0:0:13562763): /unbox
+Thu Aug 22 21:18:46 2019	DrDerpenstein (STEAM_0:0:13562763) disconnected
+Thu Aug 22 21:18:46 2019	Bot01 (BOT) disconnected
+Thu Aug 22 21:18:46 2019	Bot02 (BOT) disconnected

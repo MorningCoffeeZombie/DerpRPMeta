@@ -1,0 +1,477 @@
+18/07/2019 - 05:32:44 PM	Derp(Joining/Connecting) connected from the server
+18/07/2019 - 05:32:52 PM	Bobbicus(Joining/Connecting) connected from the server
+18/07/2019 - 05:32:57 PM	RICARDO(Joining/Connecting) connected from the server
+18/07/2019 - 05:32:59 PM	Zookie 〈メイド〉(Joining/Connecting) connected from the server
+18/07/2019 - 05:33:01 PM	LV(Joining/Connecting) connected from the server
+18/07/2019 - 05:33:28 PM	(͠≖ ͜ʖ͠≖) (DC)(Joining/Connecting) connected from the server
+18/07/2019 - 05:33:32 PM	Bobbicus(Master Meth Cook) changed his team from 'Citizen' to 'Master Meth Cook'
+18/07/2019 - 05:33:33 PM	UG | M A S T E R(Joining/Connecting) connected from the server
+18/07/2019 - 05:33:34 PM	BexGasm(Citizen) said '// what just happened'
+18/07/2019 - 05:33:36 PM	LV(Moderator on Duty) changed his team from 'Citizen' to 'Moderator on Duty'
+18/07/2019 - 05:33:42 PM	BexGasm(Citizen) said '// why did the server restart'
+18/07/2019 - 05:33:46 PM	Bobbicus(Master Meth Cook) said 'it just did'
+18/07/2019 - 05:34:11 PM	[HURT] The world hurt BexGasm(Citizen) with 47 damage using fall damage
+18/07/2019 - 05:34:21 PM	LV(Moderator on Duty) disconnected from the server
+18/07/2019 - 05:34:45 PM	Bobbicus(Master Meth Cook) bought 'Frezzer' for $1500
+18/07/2019 - 05:34:47 PM	Bobbicus(Master Meth Cook) bought 'Transport Crate' for $250
+18/07/2019 - 05:34:56 PM	jtroll1942(Joining/Connecting) connected from the server
+18/07/2019 - 05:35:24 PM	Bobbicus(Master Meth Cook) spawned a 'models/props_borealis/borealis_door001a.mdl'
+18/07/2019 - 05:35:30 PM	LV(Joining/Connecting) connected from the server
+18/07/2019 - 05:35:47 PM	Bobbicus(Master Meth Cook) used 'stacker_improved'
+18/07/2019 - 05:35:47 PM	Bobbicus(Master Meth Cook) spawned a 'models/props_borealis/borealis_door001a.mdl'
+18/07/2019 - 05:35:48 PM	Bobbicus(Master Meth Cook) used 'stacker_improved'
+18/07/2019 - 05:35:48 PM	Bobbicus(Master Meth Cook) spawned a 'models/props_borealis/borealis_door001a.mdl'
+18/07/2019 - 05:35:48 PM	BexGasm(Citizen) spawned a 'models/props_c17/fence04a.mdl'
+18/07/2019 - 05:35:48 PM	Bobbicus(Master Meth Cook) used 'stacker_improved'
+18/07/2019 - 05:35:48 PM	Bobbicus(Master Meth Cook) spawned a 'models/props_borealis/borealis_door001a.mdl'
+18/07/2019 - 05:35:49 PM	Bobbicus(Master Meth Cook) used 'stacker_improved'
+18/07/2019 - 05:35:49 PM	Bobbicus(Master Meth Cook) spawned a 'models/props_borealis/borealis_door001a.mdl'
+18/07/2019 - 05:35:53 PM	BexGasm(Citizen) spawned a 'models/props_c17/fence04a.mdl'
+18/07/2019 - 05:35:53 PM	(͠≖ ͜ʖ͠≖) (DC)(Citizen) spawned a 'models/props_c17/fence04a.mdl'
+18/07/2019 - 05:35:55 PM	Bobbicus(Master Meth Cook) used 'weld'
+18/07/2019 - 05:35:55 PM	Bobbicus(Master Meth Cook) used 'weld'
+18/07/2019 - 05:35:57 PM	Bobbicus(Master Meth Cook) used 'weld'
+18/07/2019 - 05:35:57 PM	Bobbicus(Master Meth Cook) used 'weld'
+18/07/2019 - 05:35:57 PM	BexGasm(Citizen) spawned a 'models/props_c17/fence04a.mdl'
+18/07/2019 - 05:35:58 PM	Bobbicus(Master Meth Cook) used 'weld'
+18/07/2019 - 05:35:58 PM	Bobbicus(Master Meth Cook) used 'weld'
+18/07/2019 - 05:35:59 PM	Bobbicus(Master Meth Cook) used 'weld'
+18/07/2019 - 05:35:59 PM	Bobbicus(Master Meth Cook) used 'weld'
+18/07/2019 - 05:36:00 PM	Bobbicus(Master Meth Cook) used 'weld'
+18/07/2019 - 05:36:00 PM	Bobbicus(Master Meth Cook) used 'weld'
+18/07/2019 - 05:36:00 PM	LV(Lean Producer) changed his team from 'Citizen' to 'Lean Producer'
+18/07/2019 - 05:36:01 PM	Bobbicus(Master Meth Cook) used 'weld'
+18/07/2019 - 05:36:01 PM	Bobbicus(Master Meth Cook) used 'weld'
+18/07/2019 - 05:36:02 PM	Bobbicus(Master Meth Cook) used 'weld'
+18/07/2019 - 05:36:02 PM	Bobbicus(Master Meth Cook) used 'weld'
+18/07/2019 - 05:36:03 PM	Bobbicus(Master Meth Cook) used 'weld'
+18/07/2019 - 05:36:03 PM	Bobbicus(Master Meth Cook) used 'weld'
+18/07/2019 - 05:36:04 PM	Bobbicus(Master Meth Cook) used 'weld'
+18/07/2019 - 05:36:04 PM	Bobbicus(Master Meth Cook) used 'weld'
+18/07/2019 - 05:36:05 PM	Bobbicus(Master Meth Cook) used 'weld'
+18/07/2019 - 05:36:05 PM	Bobbicus(Master Meth Cook) used 'weld'
+18/07/2019 - 05:36:05 PM	(͠≖ ͜ʖ͠≖) (DC)(Citizen) spawned a 'models/props_phx/misc/egg.mdl'
+18/07/2019 - 05:36:13 PM	(͠≖ ͜ʖ͠≖) (DC)(Citizen) spawned a 'models/props_phx/misc/egg.mdl'
+18/07/2019 - 05:36:13 PM	Bobbicus(Master Meth Cook) spawned a 'models/props_interiors/VendingMachineSoda01a.mdl'
+18/07/2019 - 05:36:18 PM	Bobbicus(Master Meth Cook) spawned a 'models/props_interiors/VendingMachineSoda01a.mdl'
+18/07/2019 - 05:36:22 PM	(͠≖ ͜ʖ͠≖) (DC)(Citizen) spawned a 'models/props_phx/misc/egg.mdl'
+18/07/2019 - 05:36:23 PM	(͠≖ ͜ʖ͠≖) (DC)(Citizen) spawned a 'models/props_phx/misc/egg.mdl'
+18/07/2019 - 05:36:24 PM	(͠≖ ͜ʖ͠≖) (DC)(Citizen) spawned a 'models/props_phx/misc/egg.mdl'
+18/07/2019 - 05:36:34 PM	[HURT] The world hurt LV(Lean Producer) with 46 damage using fall damage
+18/07/2019 - 05:36:35 PM	BexGasm(Citizen) spawned a 'models/props_c17/FurnitureShelf001a.mdl'
+18/07/2019 - 05:36:37 PM	LV(Lean Producer) used 'textscreen'
+18/07/2019 - 05:36:39 PM	BexGasm(Citizen) spawned a 'models/props_c17/FurnitureShelf001a.mdl'
+18/07/2019 - 05:36:42 PM	BexGasm(Citizen) spawned a 'models/props_c17/FurnitureShelf001a.mdl'
+18/07/2019 - 05:36:47 PM	LV(Lean Producer) entered 'AdvDupe2_InitReceiveFile'
+18/07/2019 - 05:36:51 PM	LV(Lean Producer) used 'advdupe2'
+18/07/2019 - 05:36:51 PM	LV(Lean Producer) spawned a 'models/hunter/plates/plate4x8.mdl'
+18/07/2019 - 05:36:51 PM	LV(Lean Producer) spawned a 'models/props_building_details/storefront_template001a_bars.mdl'
+18/07/2019 - 05:36:51 PM	LV(Lean Producer) spawned a 'models/props_building_details/storefront_template001a_bars.mdl'
+18/07/2019 - 05:36:51 PM	LV(Lean Producer) spawned a 'models/hunter/blocks/cube1x8x1.mdl'
+18/07/2019 - 05:36:51 PM	LV(Lean Producer) spawned a 'models/hunter/blocks/cube1x4x1.mdl'
+18/07/2019 - 05:36:51 PM	LV(Lean Producer) spawned a 'models/hunter/blocks/cube1x8x1.mdl'
+18/07/2019 - 05:36:51 PM	LV(Lean Producer) spawned a 'models/hunter/blocks/cube025x8x025.mdl'
+18/07/2019 - 05:36:51 PM	LV(Lean Producer) spawned a 'models/hunter/blocks/cube025x8x025.mdl'
+18/07/2019 - 05:36:51 PM	LV(Lean Producer) spawned a 'models/hunter/blocks/cube025x8x025.mdl'
+18/07/2019 - 05:36:51 PM	LV(Lean Producer) spawned a 'models/hunter/blocks/cube025x1x025.mdl'
+18/07/2019 - 05:36:51 PM	LV(Lean Producer) spawned a 'models/hunter/blocks/cube1x8x1.mdl'
+18/07/2019 - 05:36:51 PM	LV(Lean Producer) spawned a 'models/props_c17/fence03a.mdl'
+18/07/2019 - 05:36:51 PM	LV(Lean Producer) spawned a 'models/props_c17/fence03a.mdl'
+18/07/2019 - 05:36:51 PM	LV(Lean Producer) spawned a 'models/hunter/blocks/cube025x1x025.mdl'
+18/07/2019 - 05:36:51 PM	LV(Lean Producer) spawned a 'models/hunter/blocks/cube025x1x025.mdl'
+18/07/2019 - 05:36:52 PM	LV(Lean Producer) spawned a 'models/hunter/blocks/cube025x8x025.mdl'
+18/07/2019 - 05:36:52 PM	LV(Lean Producer) spawned a 'models/hunter/blocks/cube1x1x1.mdl'
+18/07/2019 - 05:36:52 PM	LV(Lean Producer) spawned a 'models/props_building_details/storefront_template001a_bars.mdl'
+18/07/2019 - 05:36:52 PM	LV(Lean Producer) spawned a 'models/hunter/plates/plate2x3.mdl'
+18/07/2019 - 05:36:52 PM	LV(Lean Producer) spawned a 'models/hunter/plates/plate2x3.mdl'
+18/07/2019 - 05:36:52 PM	LV(Lean Producer) spawned a 'models/hunter/plates/plate1x2.mdl'
+18/07/2019 - 05:36:52 PM	LV(Lean Producer) spawned a 'models/props_c17/fence03a.mdl'
+18/07/2019 - 05:36:52 PM	LV(Lean Producer) spawned a 'models/props_building_details/storefront_template001a_bars.mdl'
+18/07/2019 - 05:36:52 PM	LV(Lean Producer) spawned a 'models/props_building_details/storefront_template001a_bars.mdl'
+18/07/2019 - 05:36:52 PM	LV(Lean Producer) spawned a 'models/props_building_details/storefront_template001a_bars.mdl'
+18/07/2019 - 05:36:52 PM	LV(Lean Producer) spawned a 'models/props_building_details/storefront_template001a_bars.mdl'
+18/07/2019 - 05:36:52 PM	LV(Lean Producer) spawned a 'models/props_building_details/storefront_template001a_bars.mdl'
+18/07/2019 - 05:36:52 PM	LV(Lean Producer) spawned a 'models/props_building_details/storefront_template001a_bars.mdl'
+18/07/2019 - 05:36:52 PM	LV(Lean Producer) spawned a 'models/hunter/blocks/cube1x8x1.mdl'
+18/07/2019 - 05:36:52 PM	LV(Lean Producer) spawned a 'models/hunter/blocks/cube1x4x1.mdl'
+18/07/2019 - 05:36:52 PM	LV(Lean Producer) spawned a 'models/hunter/blocks/cube025x8x025.mdl'
+18/07/2019 - 05:36:52 PM	LV(Lean Producer) spawned a 'models/hunter/plates/plate4x8.mdl'
+18/07/2019 - 05:36:52 PM	LV(Lean Producer) spawned a 'models/hunter/blocks/cube025x8x025.mdl'
+18/07/2019 - 05:36:52 PM	LV(Lean Producer) spawned a 'models/props_c17/fence03a.mdl'
+18/07/2019 - 05:36:52 PM	LV(Lean Producer) spawned a 'models/hunter/blocks/cube025x1x025.mdl'
+18/07/2019 - 05:36:52 PM	LV(Lean Producer) spawned a 'models/hunter/plates/plate2x2.mdl'
+18/07/2019 - 05:36:57 PM	BexGasm(Citizen) spawned a 'models/props_c17/FurnitureShelf001a.mdl'
+18/07/2019 - 05:36:59 PM	[KILL] (͠≖ ͜ʖ͠≖) (DC)(Citizen) killed BexGasm(Citizen) with 60 damage using fas2_ks23
+18/07/2019 - 05:36:59 PM	LV(Lean Producer) used 'keypad_willox'
+18/07/2019 - 05:37:00 PM	jtroll1942(Citizen) said '/drop wepon'
+18/07/2019 - 05:37:05 PM	LV(Lean Producer) used 'fading_door'
+18/07/2019 - 05:37:18 PM	LV(Lean Producer) used 'keypad_willox'
+18/07/2019 - 05:37:19 PM	jtroll1942(Hobo) changed his team from 'Citizen' to 'Hobo'
+18/07/2019 - 05:37:21 PM	LV(Lean Producer) used 'fading_door'
+18/07/2019 - 05:37:24 PM	TEAM Chat : BexGasm(Citizen) said '!warns'
+18/07/2019 - 05:37:31 PM	LV(Lean Producer) used 'fading_door'
+18/07/2019 - 05:37:33 PM	LV(Lean Producer) used 'fading_door'
+18/07/2019 - 05:37:35 PM	LV(Lean Producer) used 'fading_door'
+18/07/2019 - 05:37:38 PM	UG | M A S T E R(Citizen) used ULX command ' bring $3783830791'
+18/07/2019 - 05:37:43 PM	Bobbicus(Master Meth Cook) used 'keypad_willox'
+18/07/2019 - 05:37:44 PM	LV(Lean Producer) used 'keypad_willox'
+18/07/2019 - 05:37:44 PM	Bobbicus(Master Meth Cook) used 'keypad_willox'
+18/07/2019 - 05:37:44 PM	Bobbicus(Master Meth Cook) used 'keypad_willox'
+18/07/2019 - 05:37:50 PM	LV(Lean Producer) used 'remover'
+18/07/2019 - 05:37:54 PM	UG | M A S T E R(Citizen) used ULX command ' ragdoll $3783830791'
+18/07/2019 - 05:37:55 PM	UG | M A S T E R(Citizen) used ULX command ' ragdoll $3783830791'
+18/07/2019 - 05:37:56 PM	Bobbicus(Master Meth Cook) used 'fading_door'
+18/07/2019 - 05:38:00 PM	Bobbicus(Master Meth Cook) used 'keypad_willox'
+18/07/2019 - 05:38:00 PM	Bobbicus(Master Meth Cook) used 'keypad_willox'
+18/07/2019 - 05:38:01 PM	Bobbicus(Master Meth Cook) used 'keypad_willox'
+18/07/2019 - 05:38:02 PM	LV(Lean Producer) bought 'Lean Barrel' for $65000
+18/07/2019 - 05:38:02 PM	Bobbicus(Master Meth Cook) used 'keypad_willox'
+18/07/2019 - 05:38:02 PM	UG | M A S T E R(Citizen) used ULX command ' return $3783830791'
+18/07/2019 - 05:38:02 PM	BexGasm(Citizen) spawned a 'models/props_c17/FurnitureShelf001a.mdl'
+18/07/2019 - 05:38:06 PM	LV(Lean Producer) bought 'Lean Barrel' for $65000
+18/07/2019 - 05:38:10 PM	BexGasm(Citizen) spawned a 'models/props_c17/FurnitureShelf001a.mdl'
+18/07/2019 - 05:38:11 PM	LV(Lean Producer) bought 'Lean Crate' for $6000
+18/07/2019 - 05:38:15 PM	Bobbicus(Master Meth Cook) used 'keypad_willox'
+18/07/2019 - 05:38:16 PM	Bobbicus(Master Meth Cook) used 'keypad_willox'
+18/07/2019 - 05:38:16 PM	LV(Lean Producer) bought 'Small Lean Box' for $2000
+18/07/2019 - 05:38:16 PM	Bobbicus(Master Meth Cook) used 'keypad_willox'
+18/07/2019 - 05:38:16 PM	UG | M A S T E R(Citizen) said '!unragdoll Will'
+18/07/2019 - 05:38:16 PM	UG | M A S T E R(Citizen) used ULX command ' unragdoll Will'
+18/07/2019 - 05:38:20 PM	BexGasm(Citizen) used 'precision'
+18/07/2019 - 05:38:21 PM	BexGasm(Citizen) used 'precision'
+18/07/2019 - 05:38:21 PM	BexGasm(Citizen) used 'precision'
+18/07/2019 - 05:38:21 PM	UG | M A S T E R(Citizen) used ULX command ' return $3783830791'
+18/07/2019 - 05:38:22 PM	BexGasm(Citizen) used 'precision'
+18/07/2019 - 05:38:22 PM	BexGasm(Citizen) used 'precision'
+18/07/2019 - 05:38:22 PM	BexGasm(Citizen) used 'precision'
+18/07/2019 - 05:38:22 PM	BexGasm(Citizen) used 'precision'
+18/07/2019 - 05:38:22 PM	BexGasm(Citizen) used 'precision'
+18/07/2019 - 05:38:25 PM	BexGasm(Citizen) used 'precision'
+18/07/2019 - 05:38:25 PM	BexGasm(Citizen) used 'precision'
+18/07/2019 - 05:38:26 PM	BexGasm(Citizen) used 'precision'
+18/07/2019 - 05:38:26 PM	BexGasm(Citizen) used 'precision'
+18/07/2019 - 05:38:26 PM	BexGasm(Citizen) used 'precision'
+18/07/2019 - 05:38:27 PM	BexGasm(Citizen) used 'precision'
+18/07/2019 - 05:38:27 PM	UG | M A S T E R(Citizen) said '/goto will'
+18/07/2019 - 05:38:29 PM	BexGasm(Citizen) used 'precision'
+18/07/2019 - 05:38:29 PM	BexGasm(Citizen) used 'precision'
+18/07/2019 - 05:38:30 PM	BexGasm(Citizen) used 'precision'
+18/07/2019 - 05:38:30 PM	BexGasm(Citizen) used 'precision'
+18/07/2019 - 05:38:31 PM	BexGasm(Citizen) used 'precision'
+18/07/2019 - 05:38:31 PM	BexGasm(Citizen) used 'precision'
+18/07/2019 - 05:38:32 PM	BexGasm(Citizen) used 'precision'
+18/07/2019 - 05:38:33 PM	BexGasm(Citizen) used 'precision'
+18/07/2019 - 05:38:33 PM	BexGasm(Citizen) used 'precision'
+18/07/2019 - 05:38:33 PM	BexGasm(Citizen) used 'precision'
+18/07/2019 - 05:38:33 PM	BexGasm(Citizen) used 'precision'
+18/07/2019 - 05:38:33 PM	BexGasm(Citizen) used 'precision'
+18/07/2019 - 05:38:33 PM	BexGasm(Citizen) used 'precision'
+18/07/2019 - 05:38:33 PM	BexGasm(Citizen) used 'precision'
+18/07/2019 - 05:38:34 PM	BexGasm(Citizen) used 'precision'
+18/07/2019 - 05:38:35 PM	BexGasm(Citizen) used 'precision'
+18/07/2019 - 05:38:35 PM	BexGasm(Citizen) used 'precision'
+18/07/2019 - 05:38:35 PM	BexGasm(Citizen) used 'precision'
+18/07/2019 - 05:38:35 PM	BexGasm(Citizen) used 'precision'
+18/07/2019 - 05:38:35 PM	BexGasm(Citizen) used 'precision'
+18/07/2019 - 05:38:36 PM	BexGasm(Citizen) used 'precision'
+18/07/2019 - 05:38:36 PM	BexGasm(Citizen) used 'precision'
+18/07/2019 - 05:38:36 PM	BexGasm(Citizen) used 'precision'
+18/07/2019 - 05:38:36 PM	BexGasm(Citizen) used 'precision'
+18/07/2019 - 05:38:37 PM	BexGasm(Citizen) used 'precision'
+18/07/2019 - 05:38:38 PM	BexGasm(Citizen) used 'precision'
+18/07/2019 - 05:38:39 PM	BexGasm(Citizen) used 'precision'
+18/07/2019 - 05:38:40 PM	BexGasm(Citizen) used 'precision'
+18/07/2019 - 05:38:45 PM	UG | M A S T E R(Citizen) said 'Alright, one more restart and fadmin should be disabled fully'
+18/07/2019 - 05:39:10 PM	[HURT] The world hurt BexGasm(Citizen) with 48 damage using fall damage
+18/07/2019 - 05:39:53 PM	Bobbicus(Master Meth Cook) bought 'Combiner' for $5500
+18/07/2019 - 05:40:02 PM	RICARDO(Citizen) said '!goto will'
+18/07/2019 - 05:40:02 PM	RICARDO(Citizen) used ULX command ' goto will'
+18/07/2019 - 05:40:10 PM	LV(Lean Producer) bought 'Lean Cup' for $250
+18/07/2019 - 05:40:12 PM	[HURT] BexGasm(Citizen) hurt jtroll1942(Hobo) with 54 damage using fas2_galil
+18/07/2019 - 05:40:12 PM	[HURT] BexGasm(Citizen) hurt jtroll1942(Hobo) with 54 damage using fas2_galil
+18/07/2019 - 05:40:13 PM	LV(Lean Producer) bought 'Lean Cup' for $250
+18/07/2019 - 05:40:15 PM	LV(Lean Producer) bought 'Lean Cup' for $250
+18/07/2019 - 05:40:17 PM	[HURT] BexGasm(Citizen) hurt jtroll1942(Hobo) with 54 damage using fas2_galil
+18/07/2019 - 05:40:17 PM	[HURT] BexGasm(Citizen) hurt jtroll1942(Hobo) with 54 damage using fas2_galil
+18/07/2019 - 05:40:17 PM	LV(Lean Producer) bought 'Lean Cup' for $250
+18/07/2019 - 05:40:18 PM	[HURT] BexGasm(Citizen) hurt jtroll1942(Hobo) with 27 damage using fas2_galil
+18/07/2019 - 05:40:18 PM	[HURT] BexGasm(Citizen) hurt jtroll1942(Hobo) with 27 damage using fas2_galil
+18/07/2019 - 05:40:18 PM	[HURT] BexGasm(Citizen) hurt jtroll1942(Hobo) with 27 damage using fas2_galil
+18/07/2019 - 05:40:18 PM	[HURT] BexGasm(Citizen) hurt jtroll1942(Hobo) with 54 damage using fas2_galil
+18/07/2019 - 05:40:18 PM	[HURT] BexGasm(Citizen) hurt jtroll1942(Hobo) with 27 damage using fas2_galil
+18/07/2019 - 05:40:18 PM	[HURT] BexGasm(Citizen) hurt jtroll1942(Hobo) with 27 damage using fas2_galil
+18/07/2019 - 05:40:18 PM	[HURT] BexGasm(Citizen) hurt jtroll1942(Hobo) with 54 damage using fas2_galil
+18/07/2019 - 05:40:18 PM	[HURT] BexGasm(Citizen) hurt jtroll1942(Hobo) with 54 damage using fas2_galil
+18/07/2019 - 05:40:18 PM	[HURT] BexGasm(Citizen) hurt jtroll1942(Hobo) with 54 damage using fas2_galil
+18/07/2019 - 05:40:19 PM	[HURT] BexGasm(Citizen) hurt jtroll1942(Hobo) with 54 damage using fas2_galil
+18/07/2019 - 05:40:19 PM	[HURT] BexGasm(Citizen) hurt jtroll1942(Hobo) with 27 damage using fas2_galil
+18/07/2019 - 05:40:19 PM	[HURT] BexGasm(Citizen) hurt jtroll1942(Hobo) with 27 damage using fas2_galil
+18/07/2019 - 05:40:19 PM	[HURT] BexGasm(Citizen) hurt jtroll1942(Hobo) with 54 damage using fas2_galil
+18/07/2019 - 05:40:19 PM	[HURT] BexGasm(Citizen) hurt jtroll1942(Hobo) with 54 damage using fas2_galil
+18/07/2019 - 05:40:19 PM	[HURT] BexGasm(Citizen) hurt jtroll1942(Hobo) with 54 damage using fas2_galil
+18/07/2019 - 05:40:19 PM	[HURT] BexGasm(Citizen) hurt jtroll1942(Hobo) with 54 damage using fas2_galil
+18/07/2019 - 05:40:19 PM	[HURT] BexGasm(Citizen) hurt jtroll1942(Hobo) with 54 damage using fas2_galil
+18/07/2019 - 05:40:19 PM	[HURT] BexGasm(Citizen) hurt jtroll1942(Hobo) with 54 damage using fas2_galil
+18/07/2019 - 05:40:19 PM	[HURT] BexGasm(Citizen) hurt jtroll1942(Hobo) with 54 damage using fas2_galil
+18/07/2019 - 05:40:39 PM	BexGasm(Citizen) said '/pm will how do you check someones bank'
+18/07/2019 - 05:40:40 PM	Bobbicus(Master Meth Cook) bought 'Gas Filter' for $800
+18/07/2019 - 05:40:41 PM	RICARDO(Citizen) entered 'gm_giveswep'
+18/07/2019 - 05:40:48 PM	[HURT] The world hurt William(Citizen) with 36 damage using fall damage
+18/07/2019 - 05:40:49 PM	jtroll1942(Hobo) entered '_hobo_emitsound'
+18/07/2019 - 05:40:49 PM	jtroll1942(Hobo) entered '_hobo_emitsound'
+18/07/2019 - 05:40:51 PM	jtroll1942(Hobo) entered '_hobo_emitsound'
+18/07/2019 - 05:40:51 PM	jtroll1942(Hobo) entered '_hobo_emitsound'
+18/07/2019 - 05:40:52 PM	Bobbicus(Master Meth Cook) bought 'Methylamin' for $750
+18/07/2019 - 05:40:53 PM	jtroll1942(Hobo) entered '_hobo_emitsound'
+18/07/2019 - 05:40:54 PM	Bobbicus(Master Meth Cook) bought 'Aluminium' for $100
+18/07/2019 - 05:40:55 PM	jtroll1942(Hobo) entered '_hobo_emitsound'
+18/07/2019 - 05:40:56 PM	jtroll1942(Hobo) entered '_hobo_emitsound'
+18/07/2019 - 05:40:58 PM	jtroll1942(Hobo) entered '_hobo_emitsound'
+18/07/2019 - 05:40:59 PM	jtroll1942(Hobo) entered '_hobo_emitsound'
+18/07/2019 - 05:41:02 PM	LV(Lean Producer) bought 'Lean Cup' for $250
+18/07/2019 - 05:41:03 PM	jtroll1942(Hobo) entered '_hobo_emitsound'
+18/07/2019 - 05:41:04 PM	LV(Lean Producer) bought 'Lean Cup' for $250
+18/07/2019 - 05:41:05 PM	jtroll1942(Hobo) entered '_hobo_emitsound'
+18/07/2019 - 05:41:05 PM	Bobbicus(Master Meth Cook) bought 'Methylamin' for $750
+18/07/2019 - 05:41:08 PM	Bobbicus(Master Meth Cook) bought 'Methylamin' for $750
+18/07/2019 - 05:41:08 PM	LV(Lean Producer) bought 'Lean Cup' for $250
+18/07/2019 - 05:41:09 PM	jtroll1942(Hobo) entered '_hobo_emitsound'
+18/07/2019 - 05:41:12 PM	jtroll1942(Hobo) entered '_hobo_emitsound'
+18/07/2019 - 05:41:14 PM	LV(Lean Producer) bought 'Lean Cup' for $250
+18/07/2019 - 05:41:14 PM	jtroll1942(Hobo) entered '_hobo_emitsound'
+18/07/2019 - 05:41:14 PM	[HURT] RICARDO(Citizen) hurt RICARDO(Citizen) with 5 damage using keys
+18/07/2019 - 05:41:17 PM	[HURT] RICARDO(Citizen) hurt RICARDO(Citizen) with 5 damage using keys
+18/07/2019 - 05:41:22 PM	jtroll1942(Hobo) entered '_hobo_emitsound'
+18/07/2019 - 05:41:29 PM	jtroll1942(Hobo) entered '_hobo_emitsound'
+18/07/2019 - 05:41:32 PM	jtroll1942(Hobo) entered '_hobo_emitsound'
+18/07/2019 - 05:41:34 PM	jtroll1942(Hobo) entered '_hobo_emitsound'
+18/07/2019 - 05:41:36 PM	BexGasm(Citizen) spawned a 'models/props_c17/furnitureStove001a.mdl'
+18/07/2019 - 05:41:36 PM	jtroll1942(Hobo) entered '_hobo_emitsound'
+18/07/2019 - 05:41:40 PM	jtroll1942(Hobo) entered '_hobo_emitsound'
+18/07/2019 - 05:41:43 PM	BexGasm(Citizen) spawned a 'models/props_c17/concrete_barrier001a.mdl'
+18/07/2019 - 05:41:45 PM	jtroll1942(Hobo) entered '_hobo_emitsound'
+18/07/2019 - 05:41:46 PM	jtroll1942(Hobo) entered '_hobo_emitsound'
+18/07/2019 - 05:41:57 PM	BexGasm(Citizen) said '!cloak bex 255'
+18/07/2019 - 05:41:57 PM	BexGasm(Citizen) used ULX command ' cloak bex 255'
+18/07/2019 - 05:42:07 PM	LV(Lean Producer) used 'precision'
+18/07/2019 - 05:42:08 PM	LV(Lean Producer) used 'precision'
+18/07/2019 - 05:42:08 PM	LV(Lean Producer) used 'precision'
+18/07/2019 - 05:42:08 PM	LV(Lean Producer) used 'precision'
+18/07/2019 - 05:42:08 PM	LV(Lean Producer) used 'precision'
+18/07/2019 - 05:42:09 PM	LV(Lean Producer) used 'precision'
+18/07/2019 - 05:42:09 PM	LV(Lean Producer) used 'precision'
+18/07/2019 - 05:42:09 PM	LV(Lean Producer) used 'precision'
+18/07/2019 - 05:42:12 PM	jtroll1942(Hobo) entered '_hobo_emitsound'
+18/07/2019 - 05:42:12 PM	BexGasm(Citizen) said '/pm will f4 menu doesnt work'
+18/07/2019 - 05:42:14 PM	LV(Lean Producer) used 'precision'
+18/07/2019 - 05:42:15 PM	LV(Lean Producer) used 'precision'
+18/07/2019 - 05:42:15 PM	LV(Lean Producer) used 'precision'
+18/07/2019 - 05:42:15 PM	LV(Lean Producer) used 'precision'
+18/07/2019 - 05:42:15 PM	LV(Lean Producer) used 'precision'
+18/07/2019 - 05:42:15 PM	LV(Lean Producer) used 'precision'
+18/07/2019 - 05:42:16 PM	LV(Lean Producer) used 'precision'
+18/07/2019 - 05:42:16 PM	LV(Lean Producer) used 'precision'
+18/07/2019 - 05:42:17 PM	LV(Lean Producer) used 'precision'
+18/07/2019 - 05:42:18 PM	LV(Lean Producer) used 'precision'
+18/07/2019 - 05:42:18 PM	BexGasm(Citizen) entered 'gm_giveswep'
+18/07/2019 - 05:42:22 PM	jtroll1942(Hobo) entered '_hobo_emitsound'
+18/07/2019 - 05:42:25 PM	BexGasm(Citizen) entered 'gmod_spawnnpc'
+18/07/2019 - 05:42:28 PM	William(Citizen) used ULX command ' addgroup god superadmin'
+18/07/2019 - 05:42:28 PM	William(Citizen) used ULX command ' setgroupcantarget god !%god'
+18/07/2019 - 05:42:29 PM	jtroll1942(Hobo) entered '_hobo_emitsound'
+18/07/2019 - 05:42:32 PM	jtroll1942(Hobo) entered '_hobo_emitsound'
+18/07/2019 - 05:42:33 PM	jtroll1942(Hobo) entered '_hobo_emitsound'
+18/07/2019 - 05:42:34 PM	jtroll1942(Hobo) entered '_hobo_emitsound'
+18/07/2019 - 05:42:35 PM	Bobbicus(Master Meth Cook) bought 'Aluminium' for $100
+18/07/2019 - 05:42:35 PM	jtroll1942(Hobo) entered '_hobo_emitsound'
+18/07/2019 - 05:42:36 PM	jtroll1942(Hobo) entered '_hobo_emitsound'
+18/07/2019 - 05:42:37 PM	jtroll1942(Hobo) entered '_hobo_emitsound'
+18/07/2019 - 05:42:37 PM	jtroll1942(Hobo) entered '_hobo_emitsound'
+18/07/2019 - 05:42:37 PM	jtroll1942(Hobo) entered '_hobo_emitsound'
+18/07/2019 - 05:42:37 PM	Bobbicus(Master Meth Cook) bought 'Aluminium' for $100
+18/07/2019 - 05:42:38 PM	jtroll1942(Hobo) entered '_hobo_emitsound'
+18/07/2019 - 05:42:38 PM	jtroll1942(Hobo) entered '_hobo_emitsound'
+18/07/2019 - 05:42:40 PM	Bobbicus(Master Meth Cook) bought 'Aluminium' for $100
+18/07/2019 - 05:42:43 PM	TEAM Chat : BexGasm(Citizen) said '/pm will what'
+18/07/2019 - 05:42:47 PM	BexGasm(Citizen) entered 'gm_spawnsent'
+18/07/2019 - 05:42:54 PM	BexGasm(Citizen) entered 'gm_spawnsent'
+18/07/2019 - 05:42:58 PM	BexGasm(Citizen) said '!titles'
+18/07/2019 - 05:43:13 PM	BexGasm(Citizen) used 'camera'
+18/07/2019 - 05:43:25 PM	BexGasm(Citizen) entered 'gm_giveswep'
+18/07/2019 - 05:43:41 PM	BexGasm(Citizen) said '/spectate jtroll'
+18/07/2019 - 05:43:45 PM	jtroll1942(Hobo) entered '_hobo_emitsound'
+18/07/2019 - 05:43:47 PM	jtroll1942(Hobo) entered '_hobo_emitsound'
+18/07/2019 - 05:43:48 PM	jtroll1942(Hobo) entered '_hobo_emitsound'
+18/07/2019 - 05:43:48 PM	jtroll1942(Hobo) entered '_hobo_emitsound'
+18/07/2019 - 05:43:48 PM	jtroll1942(Hobo) entered '_hobo_emitsound'
+18/07/2019 - 05:43:49 PM	jtroll1942(Hobo) entered '_hobo_emitsound'
+18/07/2019 - 05:43:49 PM	jtroll1942(Hobo) entered '_hobo_emitsound'
+18/07/2019 - 05:43:50 PM	jtroll1942(Hobo) entered '_hobo_emitsound'
+18/07/2019 - 05:43:50 PM	jtroll1942(Hobo) entered '_hobo_emitsound'
+18/07/2019 - 05:43:51 PM	jtroll1942(Hobo) entered '_hobo_emitsound'
+18/07/2019 - 05:43:51 PM	jtroll1942(Hobo) entered '_hobo_emitsound'
+18/07/2019 - 05:43:52 PM	jtroll1942(Hobo) entered '_hobo_emitsound'
+18/07/2019 - 05:43:53 PM	jtroll1942(Hobo) entered '_hobo_emitsound'
+18/07/2019 - 05:43:54 PM	jtroll1942(Hobo) entered '_hobo_emitsound'
+18/07/2019 - 05:44:02 PM	LV(Lean Producer) bought 'Lean Cup' for $250
+18/07/2019 - 05:44:05 PM	LV(Lean Producer) bought 'Lean Cup' for $250
+18/07/2019 - 05:44:07 PM	LV(Lean Producer) bought 'Lean Cup' for $250
+18/07/2019 - 05:44:21 PM	LV(Lean Producer) bought 'Lean Cup' for $250
+18/07/2019 - 05:44:36 PM	BexGasm(Citizen) entered '_FSpectatePosUpdate'
+18/07/2019 - 05:44:36 PM	BexGasm(Citizen) entered '_FSpectatePosUpdate'
+18/07/2019 - 05:44:37 PM	BexGasm(Citizen) entered '_FSpectatePosUpdate'
+18/07/2019 - 05:44:37 PM	BexGasm(Citizen) entered '_FSpectatePosUpdate'
+18/07/2019 - 05:44:38 PM	BexGasm(Citizen) entered '_FSpectatePosUpdate'
+18/07/2019 - 05:44:38 PM	BexGasm(Citizen) entered '_FSpectatePosUpdate'
+18/07/2019 - 05:44:39 PM	BexGasm(Citizen) entered '_FSpectatePosUpdate'
+18/07/2019 - 05:44:39 PM	BexGasm(Citizen) entered '_FSpectatePosUpdate'
+18/07/2019 - 05:44:40 PM	BexGasm(Citizen) entered '_FSpectatePosUpdate'
+18/07/2019 - 05:44:40 PM	BexGasm(Citizen) entered '_FSpectatePosUpdate'
+18/07/2019 - 05:44:41 PM	BexGasm(Citizen) entered '_FSpectatePosUpdate'
+18/07/2019 - 05:44:41 PM	BexGasm(Citizen) entered '_FSpectatePosUpdate'
+18/07/2019 - 05:44:42 PM	BexGasm(Citizen) entered 'FSpectate_StopSpectating'
+18/07/2019 - 05:44:51 PM	BexGasm(Citizen) said '/spectate jtrll'
+18/07/2019 - 05:44:51 PM	BexGasm(Citizen) entered '_FSpectatePosUpdate'
+18/07/2019 - 05:44:52 PM	BexGasm(Citizen) entered '_FSpectatePosUpdate'
+18/07/2019 - 05:44:52 PM	BexGasm(Citizen) entered '_FSpectatePosUpdate'
+18/07/2019 - 05:44:53 PM	BexGasm(Citizen) entered '_FSpectatePosUpdate'
+18/07/2019 - 05:44:53 PM	BexGasm(Citizen) entered '_FSpectatePosUpdate'
+18/07/2019 - 05:45:02 PM	jtroll1942(Hobo) entered '_hobo_emitsound'
+18/07/2019 - 05:45:02 PM	jtroll1942(Hobo) entered '_hobo_emitsound'
+18/07/2019 - 05:45:03 PM	jtroll1942(Hobo) entered '_hobo_emitsound'
+18/07/2019 - 05:45:03 PM	jtroll1942(Hobo) entered '_hobo_emitsound'
+18/07/2019 - 05:45:04 PM	jtroll1942(Hobo) entered '_hobo_emitsound'
+18/07/2019 - 05:45:05 PM	jtroll1942(Hobo) entered '_hobo_emitsound'
+18/07/2019 - 05:45:06 PM	jtroll1942(Hobo) entered '_hobo_emitsound'
+18/07/2019 - 05:45:07 PM	jtroll1942(Hobo) entered '_hobo_emitsound'
+18/07/2019 - 05:45:08 PM	The Companion Cube(Joining/Connecting) connected from the server
+18/07/2019 - 05:45:08 PM	LV(Lean Producer) bought 'Lean Cup' for $250
+18/07/2019 - 05:45:11 PM	LV(Lean Producer) bought 'Lean Cup' for $250
+18/07/2019 - 05:45:13 PM	LV(Lean Producer) bought 'Lean Cup' for $250
+18/07/2019 - 05:45:13 PM	(͠≖ ͜ʖ͠≖) (DC)(Citizen) entered 'FPP_SetBuddy'
+18/07/2019 - 05:45:15 PM	LV(Lean Producer) bought 'Lean Cup' for $250
+18/07/2019 - 05:45:21 PM	LV(Lean Producer) bought 'Lean Crate' for $6000
+18/07/2019 - 05:45:23 PM	(͠≖ ͜ʖ͠≖) (DC)(Citizen) said '/drop'
+18/07/2019 - 05:45:31 PM	(͠≖ ͜ʖ͠≖) (DC)(Citizen) said '/drop'
+18/07/2019 - 05:45:37 PM	jtroll1942(Gangster) changed his team from 'Hobo' to 'Gangster'
+18/07/2019 - 05:45:58 PM	[HURT] The world hurt (͠≖ ͜ʖ͠≖) (DC)(Citizen) with 47 damage using fall damage
+18/07/2019 - 05:46:08 PM	LV(Lean Producer) bought 'Lean Cup' for $250
+18/07/2019 - 05:46:10 PM	LV(Lean Producer) bought 'Lean Cup' for $250
+18/07/2019 - 05:46:13 PM	LV(Lean Producer) bought 'Lean Cup' for $250
+18/07/2019 - 05:46:15 PM	LV(Lean Producer) bought 'Lean Cup' for $250
+18/07/2019 - 05:46:27 PM	BexGasm(Citizen) entered 'FTPToPos'
+18/07/2019 - 05:46:27 PM	BexGasm(Citizen) entered 'FSpectate_StopSpectating'
+18/07/2019 - 05:46:34 PM	BexGasm(Citizen) used 'camera'
+18/07/2019 - 05:46:37 PM	BexGasm(Citizen) entered 'gm_giveswep'
+18/07/2019 - 05:46:40 PM	The Companion Cube(Citizen) disconnected from the server
+18/07/2019 - 05:46:41 PM	LV(Lean Producer) used 'nocollide'
+18/07/2019 - 05:46:42 PM	LV(Lean Producer) used 'nocollide'
+18/07/2019 - 05:46:45 PM	BexGasm(Citizen) said '/spectate jtroll'
+18/07/2019 - 05:46:46 PM	BexGasm(Citizen) entered 'FTPToPos'
+18/07/2019 - 05:46:46 PM	BexGasm(Citizen) entered 'FSpectate_StopSpectating'
+18/07/2019 - 05:46:52 PM	BexGasm(Citizen) entered 'gm_giveswep'
+18/07/2019 - 05:47:27 PM	Bobbicus(Master Meth Cook) entered 'gm_giveswep'
+18/07/2019 - 05:47:42 PM	LV(Lean Producer) used 'nocollide'
+18/07/2019 - 05:47:43 PM	LV(Lean Producer) used 'nocollide'
+18/07/2019 - 05:47:48 PM	RICARDO(Citizen) entered 'gm_giveswep'
+18/07/2019 - 05:47:51 PM	LV(Lean Producer) used 'nocollide'
+18/07/2019 - 05:47:55 PM	RICARDO(Citizen) entered 'gm_giveswep'
+18/07/2019 - 05:48:01 PM	LV(Lean Producer) used 'nocollide'
+18/07/2019 - 05:48:04 PM	[HURT] RICARDO(Citizen) hurt UG | M A S T E R(Citizen) with 40 damage using csgo_butterfly_slaughter
+18/07/2019 - 05:48:31 PM	Bobbicus(Master Meth Cook) entered 'gm_giveswep'
+18/07/2019 - 05:48:36 PM	LV(Lean Producer) used 'nocollide'
+18/07/2019 - 05:48:37 PM	LV(Lean Producer) used 'nocollide'
+18/07/2019 - 05:49:02 PM	The Companion Cube(Joining/Connecting) connected from the server
+18/07/2019 - 05:49:08 PM	(͠≖ ͜ʖ͠≖) (DC)(Citizen) entered 'FPP_SetBuddy'
+18/07/2019 - 05:49:09 PM	(͠≖ ͜ʖ͠≖) (DC)(Citizen) said '/advert MUG (drop 5k or die)'
+18/07/2019 - 05:49:15 PM	BexGasm(Citizen) said '// Bobbicus please stop'
+18/07/2019 - 05:49:20 PM	Bobbicus(Master Meth Cook) said ':( ok'
+18/07/2019 - 05:49:20 PM	BexGasm(Citizen) said '// You're lagging the server'
+18/07/2019 - 05:49:36 PM	LV(Lean Producer) said '/pm bex hey bex can you come to me'
+18/07/2019 - 05:49:36 PM	jtroll1942(Gangster) said 'its not the vape its them editing the sever'
+18/07/2019 - 05:49:43 PM	BexGasm(Citizen) said '!uncloak bex'
+18/07/2019 - 05:49:43 PM	BexGasm(Citizen) used ULX command ' uncloak bex'
+18/07/2019 - 05:49:44 PM	BexGasm(Citizen) said '!goto lv'
+18/07/2019 - 05:49:44 PM	BexGasm(Citizen) used ULX command ' goto lv'
+18/07/2019 - 05:49:50 PM	LV(Lean Producer) said 'my f4 wont work'
+18/07/2019 - 05:49:54 PM	UG | M A S T E R(Citizen) said '// I'm restrict mega vape!'
+18/07/2019 - 05:50:05 PM	BexGasm(Citizen) said '// Please dont use the megavape.'
+18/07/2019 - 05:50:06 PM	LV(Lean Producer) said 'can you tell me the command to buy the lean cups'
+18/07/2019 - 05:50:07 PM	BexGasm(Citizen) said '// It lags.'
+18/07/2019 - 05:50:13 PM	The Companion Cube(Citizen) said '/ooc PLZ NO CRASH'
+18/07/2019 - 05:50:15 PM	BexGasm(Citizen) said '// It lags.'
+18/07/2019 - 05:50:17 PM	UG | M A S T E R(Citizen) used ULX command ' restrict swep weapon_vape_mega superadmin'
+18/07/2019 - 05:50:19 PM	William(Citizen) used ULX command ' goto $238791546'
+18/07/2019 - 05:50:22 PM	The Companion Cube(Citizen) disconnected from the server
+18/07/2019 - 05:50:26 PM	LV(Lean Producer) said '/buyleancup'
+18/07/2019 - 05:50:26 PM	LV(Lean Producer) bought 'Lean Cup' for $250
+18/07/2019 - 05:50:29 PM	LV(Lean Producer) said 'press f1'
+18/07/2019 - 05:50:30 PM	UG | M A S T E R(Citizen) used ULX command ' restrict swep weapon_vape_mega god'
+18/07/2019 - 05:50:32 PM	UG | M A S T E R(Citizen) used ULX command ' restrict swep weapon_vape_mega coowner'
+18/07/2019 - 05:50:34 PM	LV(Lean Producer) said 'there is commands'
+18/07/2019 - 05:50:35 PM	UG | M A S T E R(Citizen) used ULX command ' restrict swep weapon_vape_mega admin'
+18/07/2019 - 05:50:52 PM	LV(Lean Producer) said 'if any one needs help there are the commands'
+18/07/2019 - 05:51:00 PM	BexGasm(Citizen) said '!cloak bex 255'
+18/07/2019 - 05:51:00 PM	BexGasm(Citizen) used ULX command ' cloak bex 255'
+18/07/2019 - 05:51:00 PM	LV(Lean Producer) said '/buyleancup'
+18/07/2019 - 05:51:00 PM	LV(Lean Producer) bought 'Lean Cup' for $250
+18/07/2019 - 05:51:01 PM	LV(Lean Producer) said '/buyleancup'
+18/07/2019 - 05:51:08 PM	BexGasm(Citizen) said '/spectate'
+18/07/2019 - 05:51:08 PM	BexGasm(Citizen) entered '_FSpectatePosUpdate'
+18/07/2019 - 05:51:09 PM	BexGasm(Citizen) entered '_FSpectatePosUpdate'
+18/07/2019 - 05:51:09 PM	BexGasm(Citizen) entered '_FSpectatePosUpdate'
+18/07/2019 - 05:51:10 PM	BexGasm(Citizen) entered '_FSpectatePosUpdate'
+18/07/2019 - 05:51:10 PM	LV(Lean Producer) said '/buyleancup'
+18/07/2019 - 05:51:10 PM	LV(Lean Producer) bought 'Lean Cup' for $250
+18/07/2019 - 05:51:10 PM	BexGasm(Citizen) entered '_FSpectatePosUpdate'
+18/07/2019 - 05:51:11 PM	BexGasm(Citizen) entered '_FSpectatePosUpdate'
+18/07/2019 - 05:51:11 PM	BexGasm(Citizen) entered '_FSpectatePosUpdate'
+18/07/2019 - 05:51:12 PM	BexGasm(Citizen) entered '_FSpectatePosUpdate'
+18/07/2019 - 05:51:12 PM	BexGasm(Citizen) entered '_FSpectatePosUpdate'
+18/07/2019 - 05:51:12 PM	BexGasm(Citizen) entered 'FSpectate_StopSpectating'
+18/07/2019 - 05:51:15 PM	LV(Lean Producer) said '/buyleancup'
+18/07/2019 - 05:51:15 PM	LV(Lean Producer) bought 'Lean Cup' for $250
+18/07/2019 - 05:51:24 PM	LV(Lean Producer) used 'nocollide'
+18/07/2019 - 05:51:25 PM	BexGasm(Citizen) said '!spectate jtroll'
+18/07/2019 - 05:51:26 PM	LV(Lean Producer) used 'nocollide'
+18/07/2019 - 05:51:28 PM	[HURT] The world hurt jtroll1942(Gangster) with 44 damage using fall damage
+18/07/2019 - 05:51:31 PM	UG | M A S T E R(Citizen) said 'hi'
+18/07/2019 - 05:51:32 PM	LV(Lean Producer) used 'nocollide'
+18/07/2019 - 05:51:35 PM	BexGasm(Citizen) entered 'FTPToPos'
+18/07/2019 - 05:51:35 PM	BexGasm(Citizen) entered 'FSpectate_StopSpectating'
+18/07/2019 - 05:51:42 PM	[HURT] The world hurt RICARDO(Citizen) with 47 damage using fall damage
+18/07/2019 - 05:51:49 PM	RICARDO(Citizen) entered 'gm_giveswep'
+18/07/2019 - 05:52:02 PM	[HURT] RICARDO(Citizen) hurt UG | M A S T E R(Citizen) with 65 damage using csgo_huntsman_case
+18/07/2019 - 05:52:03 PM	[KILL] RICARDO(Citizen) killed UG | M A S T E R(Citizen) with 65 damage using csgo_huntsman_case
+18/07/2019 - 05:52:18 PM	LV(Lean Producer) used 'nocollide'
+18/07/2019 - 05:52:32 PM	RICARDO(Citizen) entered 'gm_giveswep'
+18/07/2019 - 05:52:34 PM	LV(Lean Producer) used 'nocollide'
+18/07/2019 - 05:52:39 PM	LV(Lean Producer) used 'nocollide'
+18/07/2019 - 05:53:31 PM	LV(Lean Producer) said '/pm bex do you know why i am lagging'
+18/07/2019 - 05:53:40 PM	BexGasm(Citizen) said '/pm lv Yes, addons are being added to the server.'
+18/07/2019 - 05:53:46 PM	LV(Lean Producer) used 'nocollide'
+18/07/2019 - 05:53:47 PM	LV(Lean Producer) used 'nocollide'
+18/07/2019 - 05:53:48 PM	jtroll1942(Gangster) said '/advert warn 1'
+18/07/2019 - 05:53:57 PM	jtroll1942(Gangster) said '/advert warn 2'
+18/07/2019 - 05:54:06 PM	jtroll1942(Gangster) said '/advert warn 3'
+18/07/2019 - 05:54:15 PM	LV(Lean Producer) said '/buyleancup'
+18/07/2019 - 05:54:15 PM	LV(Lean Producer) bought 'Lean Cup' for $250
+18/07/2019 - 05:54:17 PM	LV(Lean Producer) said '/buyleancup'
+18/07/2019 - 05:54:17 PM	LV(Lean Producer) bought 'Lean Cup' for $250
+18/07/2019 - 05:54:19 PM	LV(Lean Producer) said '/buyleancup'
+18/07/2019 - 05:54:20 PM	LV(Lean Producer) said '/buyleancup'
+18/07/2019 - 05:54:20 PM	LV(Lean Producer) bought 'Lean Cup' for $250
+18/07/2019 - 05:54:22 PM	LV(Lean Producer) said '/buyleancup'
+18/07/2019 - 05:54:24 PM	LV(Lean Producer) said '/buyleancup'
+18/07/2019 - 05:54:24 PM	LV(Lean Producer) bought 'Lean Cup' for $250
+18/07/2019 - 05:54:26 PM	LV(Lean Producer) said '/buyleancup'
+18/07/2019 - 05:54:26 PM	LV(Lean Producer) bought 'Lean Cup' for $250
+18/07/2019 - 05:54:28 PM	LV(Lean Producer) said '/buyleancup'
+18/07/2019 - 05:54:30 PM	BexGasm(Citizen) said '!god BexGasm'
+18/07/2019 - 05:54:30 PM	BexGasm(Citizen) used ULX command ' god BexGasm'
+18/07/2019 - 05:54:44 PM	[KILL] LV(Lean Producer) killed himself
+18/07/2019 - 05:54:52 PM	RICARDO(Citizen) entered 'gm_giveswep'
+18/07/2019 - 05:54:54 PM	TEAM Chat : LV(Lean Producer) said '/buyleancrate'
+18/07/2019 - 05:54:54 PM	LV(Lean Producer) bought 'Lean Crate' for $6000
+18/07/2019 - 05:55:02 PM	[HURT] RICARDO(Citizen) hurt jtroll1942(Gangster) with 8 damage using m9k_coltpython
+18/07/2019 - 05:55:03 PM	[KILL] jtroll1942(Gangster) killed RICARDO(Citizen) with 76 damage using fas2_sks

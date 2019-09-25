@@ -1,0 +1,56 @@
+2019-08-01 23.34.01: <General> Logging started, map: rp_downtown_tits_v2.
+2019-08-01 23.34.01: <General> Welcome to VCMod Auto-Updater version 9.61.
+2019-08-01 23.34.01: <General> Pre-initialization complete, preparing to load addon data.
+2019-08-01 23.34.01: <General> Addons found: VCMod ELS, VCMod Main.
+2019-08-01 23.34.17: <General> Preparations started. Server needs to have atleast one player on it for preparations to continue.
+2019-08-01 23.34.22: <General> Preparations are complete, handshaking API.
+2019-08-01 23.34.25: <General> Handshake successful.
+2019-08-01 23.34.25: <General> Handshake finished.
+2019-08-01 23.34.26: <General> Contacting preload API.
+2019-08-01 23.34.26: <General> Initializing preload.
+2019-08-01 23.34.26: <General> Preload finished. Initializing addons.
+2019-08-01 23.34.26: <General> Started loading serverside.
+2019-08-01 23.34.26: <General> Loaded Main v1.737 serverside.
+2019-08-01 23.34.26: <General> Loaded ELS v1.1426 serverside.
+2019-08-01 23.34.26: <General> Finished loading serverside.
+2019-08-01 23.34.27: <General> All repair man NPC's have been placed on the map.
+2019-08-01 23.34.27: <Repair man> all Repair men have been placed on the map.
+2019-08-01 23.34.31: <General> Scanning for potentially incompatible hooks.
+2019-08-01 23.34.31: <General> No incompatibilities found.
+2019-08-01 23.34.31: <General> General vehicle data is up to date.
+2019-08-01 23.34.31: <Fuel> All fuel stations have been respawned.
+2019-08-01 23.35.15: <General> Player DrDerpenstein has loaded and is waiting for a temp-key.
+2019-08-01 23.35.16: <General> Sent API key to player DrDerpenstein. 99 keys left.
+2019-08-01 23.35.16: <General> Initializing player DrDerpenstein.
+2019-08-01 23.35.20: <General> Player William has loaded and is waiting for a temp-key.
+2019-08-01 23.35.22: <General> Sent API key to player William. 98 keys left.
+2019-08-01 23.35.22: <General> Initializing player William.
+2019-08-01 23.35.29: <General> Player Dio has loaded and is waiting for a temp-key.
+2019-08-01 23.35.30: <General> Sent API key to player Dio. 97 keys left.
+2019-08-01 23.35.30: <General> Initializing player Dio.
+2019-08-01 23.35.41: <General> Player abrienc12 has loaded and is waiting for a temp-key.
+2019-08-01 23.35.42: <General> Sent API key to player abrienc12. 96 keys left.
+2019-08-01 23.35.42: <General> Initializing player abrienc12.
+2019-08-01 23.36.20: <General> Player The Companion Cube has loaded and is waiting for a temp-key.
+2019-08-01 23.36.22: <General> Sent API key to player The Companion Cube. 95 keys left.
+2019-08-01 23.36.22: <General> Initializing player The Companion Cube.
+2019-08-01 23.37.22: <General> Player Parrasky has loaded and is waiting for a temp-key.
+2019-08-01 23.37.22: <General> Sent API key to player Parrasky. 94 keys left.
+2019-08-01 23.37.22: <General> Initializing player Parrasky.
+2019-08-01 23.37.24: <General> Player NUT has loaded and is waiting for a temp-key.
+2019-08-01 23.37.24: <General> Sent API key to player NUT. 93 keys left.
+2019-08-01 23.37.24: <General> Initializing player NUT.
+2019-08-01 23.41.46: <General> Vehicle data "BMW Isetta 300 Export" loaded.
+2019-08-01 23.44.45: <General> Vehicle data "Orion VII NG" loaded.
+2019-08-01 23.46.44: <General> Vehicle data "Airboat" loaded.
+2019-08-01 23.48.05: <General> Vehicle data "Ford Crown Victoria Taxi" loaded.
+2019-08-01 23.48.11: <General> Player abrienc12 has loaded and is waiting for a temp-key.
+2019-08-01 23.48.12: <General> Sent API key to player abrienc12. 92 keys left.
+2019-08-01 23.48.12: <General> Initializing player abrienc12.
+2019-08-01 23.51.11: <General> Vehicle data "Bugatti Veyron SS" loaded.
+2019-08-01 23.54.30: <General> Vehicle data "GMC C5500" loaded.
+2019-08-01 23.56.09: <General> Vehicle data "BMW M1 1981" loaded.
+2019-08-01 23.56.34: <General> Vehicle data "Dodge Charger SRT8 2012 Police" loaded.
+2019-08-02 00.11.49: <General> Player 6'8 350lb black man has loaded and is waiting for a temp-key.
+2019-08-02 00.11.49: <General> Sent API key to player 6'8 350lb black man. 91 keys left.
+2019-08-02 00.11.49: <General> Initializing player 6'8 350lb black man.

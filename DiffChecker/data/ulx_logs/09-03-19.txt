@@ -1,0 +1,15 @@
+[13:59:25] New map: rp_downtown_tits_v2
+[14:00:59] Client "Derp" connected.
+[14:02:12] Client "Derp" spawned in server <STEAM_0:0:52504530> (took 73 seconds).
+[14:03:50] Derp<STEAM_0:0:52504530> spawned/gave himself swep cw_nen_beretta92fs
+[14:12:50] Derp<STEAM_0:0:52504530> spawned/gave himself swep cw_tr09_mp9
+[14:12:57] Derp<STEAM_0:0:52504530> used the tool camera on maps/rp_downtown_tits_v2.bsp
+[14:13:55] Dropped "Derp" from server<STEAM_0:0:52504530>
+[17:02:32] Client "Turtleluck" connected.
+[17:06:16] Client "Turtleluck" spawned in server <STEAM_0:0:4113812> (took 224 seconds).
+[17:10:56] Turtleluck<STEAM_0:0:4113812> spawned model models/props_c17/door01_left.mdl
+[17:11:35] Turtleluck<STEAM_0:0:4113812> spawned model models/props_lab/blastdoor001c.mdl
+[17:11:49] Turtleluck<STEAM_0:0:4113812> spawned model models/props_lab/blastdoor001a.mdl
+[17:12:00] Turtleluck<STEAM_0:0:4113812> spawned model models/props_wasteland/controlroom_storagecloset001b.mdl
+[17:12:30] Dropped "Turtleluck" from server<STEAM_0:0:4113812>
+<Logging continued in "data/ulx_logs/09-04-19.txt">

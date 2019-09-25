@@ -1,0 +1,5 @@
+Thu Sep  5 17:22:52 2019	Derp (STEAM_0:0:52504530) has joined the game
+Thu Sep  5 17:22:53 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Sep  5 17:24:19 2019	Derp (STEAM_0:0:52504530) spawned SENT emotes_hologram
+Thu Sep  5 17:25:23 2019	Derp (STEAM_0:0:52504530) spawned SENT emotes_npc
+Thu Sep  5 17:25:26 2019	Derp (STEAM_0:0:52504530) spawned SENT emotes_npc

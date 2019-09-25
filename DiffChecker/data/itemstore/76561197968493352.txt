@@ -1,0 +1,1 @@
+[{"Data":{"Amount":1.0,"Clip1":12.0,"Ammo":12.0,"Class":"cw_dpe_usp40","Model":"models/weapons/w_pist_usp.mdl"},"Class":"spawned_weapon"},{"Data":{"Amount":1.0,"Clip1":32.0,"Ammo":32.0,"Class":"cw_dp_mac11","Model":"models/weapons/w_smg_mac10.mdl"},"Class":"spawned_weapon"}]

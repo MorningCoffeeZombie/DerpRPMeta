@@ -1,0 +1,51 @@
+{
+	"Vehicles": {
+		"models/tdmcars/dod_challenger15.mdl$$$_VC_$$$Dodge Challenger 2015$$$_VC_$$$0": {
+			"DamagedObjects": {
+				"light": {
+					"9": [],
+					"10": [],
+					"11": [],
+					"14": [],
+					"15": []
+				}
+			},
+			"Spawned": 93.0,
+			"Color": {
+				"r": 234.0,
+				"b": 30.0,
+				"a": 255.0,
+				"g": 30.0
+			},
+			"Health": 95.0297,
+			"Fuel": 96.0,
+			"BGroups": {
+				"4": 1.0,
+				"5": 1.0,
+				"6": 1.0,
+				"7": 1.0,
+				"8": 1.0,
+				"9": 0.0,
+				"10": 1.0
+			}
+		},
+		"models/tdmcars/emergency/chargersrt8.mdl$$$_VC_$$$Dodge Charger SRT8 Police$$$_VC_$$$0": {
+			"Health": 98.422,
+			"Fuel": 98.0,
+			"DamagedObjects": {
+				"light": {
+					"39": [],
+					"31": [],
+					"258": [],
+					"16": [],
+					"4": [],
+					"40": [],
+					"259": []
+				},
+				"exhaust": {
+					"2": []
+				}
+			}
+		}
+	}
+}

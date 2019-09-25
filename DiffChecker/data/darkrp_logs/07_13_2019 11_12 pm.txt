@@ -1,0 +1,77 @@
+Sat Jul 13 23:12:57 2019	UG | M A S T E R (STEAM_0:1:180622613) has joined the game
+Sat Jul 13 23:12:57 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Sat Jul 13 23:13:13 2019	UG | M A S T E R (STEAM_0:1:180622613): // hi
+Sat Jul 13 23:13:31 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT double_or_nothing
+Sat Jul 13 23:13:39 2019	UG | M A S T E R (STEAM_0:1:180622613): .
+Sat Jul 13 23:13:41 2019	UG | M A S T E R (STEAM_0:1:180622613): :)
+Sat Jul 13 23:13:49 2019	UG | M A S T E R (STEAM_0:1:180622613): :application_xp_terminal:
+Sat Jul 13 23:13:55 2019	UG | M A S T E R (STEAM_0:1:180622613): :script:
+Sat Jul 13 23:14:01 2019	UG | M A S T E R (STEAM_0:1:180622613): :coins_delete:
+Sat Jul 13 23:14:07 2019	UG | M A S T E R (STEAM_0:1:180622613): hi
+Sat Jul 13 23:14:10 2019	UG | M A S T E R (STEAM_0:1:180622613): .
+Sat Jul 13 23:14:48 2019	Derp (STEAM_0:0:52504530) has joined the game
+Sat Jul 13 23:14:48 2019	Derp (STEAM_0:0:52504530) spawned
+Sat Jul 13 23:14:53 2019	UG | M A S T E R (STEAM_0:1:180622613): .
+Sat Jul 13 23:14:58 2019	UG | M A S T E R (STEAM_0:1:180622613): // hi
+Sat Jul 13 23:15:02 2019	UG | M A S T E R (STEAM_0:1:180622613): /y test
+Sat Jul 13 23:15:02 2019	Derp (STEAM_0:0:52504530): /ooc hello
+Sat Jul 13 23:15:10 2019	UG | M A S T E R (STEAM_0:1:180622613): I edited most of it.
+Sat Jul 13 23:15:15 2019	Derp (STEAM_0:0:52504530): good job
+Sat Jul 13 23:15:26 2019	Derp (STEAM_0:0:52504530): /ooc did u get errors too when loading
+Sat Jul 13 23:15:28 2019	UG | M A S T E R (STEAM_0:1:180622613): like
+Sat Jul 13 23:15:35 2019	Derp (STEAM_0:0:52504530): thats an error for me
+Sat Jul 13 23:15:43 2019	UG | M A S T E R (STEAM_0:1:180622613): it's double or nothing
+Sat Jul 13 23:15:50 2019	Derp (STEAM_0:0:52504530): its an error for me i cant see it
+Sat Jul 13 23:16:00 2019	UG | M A S T E R (STEAM_0:1:180622613): you can download it's content on steam
+Sat Jul 13 23:16:02 2019	UG | M A S T E R (STEAM_0:1:180622613): !warn
+Sat Jul 13 23:16:12 2019	Derp (STEAM_0:0:52504530): ill add that to the workshop.lua and the collection right now
+Sat Jul 13 23:16:28 2019	UG | M A S T E R (STEAM_0:1:180622613): I also gave you the full version of awarn2
+Sat Jul 13 23:16:41 2019	Derp (STEAM_0:0:52504530): thank you so much
+Sat Jul 13 23:16:54 2019	Derp (STEAM_0:0:52504530): any other contents i should be downloading or is that all?
+Sat Jul 13 23:19:06 2019	UG | M A S T E R (STEAM_0:1:180622613): hm
+Sat Jul 13 23:19:13 2019	UG | M A S T E R (STEAM_0:1:180622613): hi
+Sat Jul 13 23:19:19 2019	UG | M A S T E R (STEAM_0:1:180622613): Hi
+Sat Jul 13 23:19:56 2019	UG | M A S T E R (STEAM_0:1:180622613): .
+Sat Jul 13 23:20:01 2019	Derp (STEAM_0:0:52504530): woah
+Sat Jul 13 23:20:03 2019	UG | M A S T E R (STEAM_0:1:180622613): That's better
+Sat Jul 13 23:20:09 2019	UG | M A S T E R (STEAM_0:1:180622613): So. 
+Sat Jul 13 23:20:17 2019	UG | M A S T E R (STEAM_0:1:180622613): What do you want for you'r tag?
+Sat Jul 13 23:20:30 2019	Derp (STEAM_0:0:52504530): just owner will do 
+Sat Jul 13 23:20:45 2019	Derp (STEAM_0:0:52504530): oh boy
+Sat Jul 13 23:20:50 2019	Derp (STEAM_0:0:52504530): someone is coming
+Sat Jul 13 23:21:02 2019	UG | M A S T E R (STEAM_0:1:180622613): type
+Sat Jul 13 23:21:04 2019	Derp (STEAM_0:0:52504530): hi
+Sat Jul 13 23:21:09 2019	UG | M A S T E R (STEAM_0:1:180622613): hm
+Sat Jul 13 23:21:14 2019	Derp (STEAM_0:0:52504530): u called me a root
+Sat Jul 13 23:21:16 2019	Derp (STEAM_0:0:52504530): how dare you
+Sat Jul 13 23:21:20 2019	Derp (STEAM_0:0:52504530): i am not part of a tree
+Sat Jul 13 23:21:40 2019	UG | M A S T E R (STEAM_0:1:180622613): you'r root. The main access such as founder , owner
+Sat Jul 13 23:22:00 2019	Derp (STEAM_0:0:52504530): so im just gonna be called root now
+Sat Jul 13 23:22:53 2019	TIMEFORATEA PARTY (STEAM_0:1:196834773) has joined the game
+Sat Jul 13 23:22:53 2019	TIMEFORATEA PARTY (STEAM_0:1:196834773) spawned
+Sat Jul 13 23:23:15 2019	UG | M A S T E R (STEAM_0:1:180622613): .
+Sat Jul 13 23:23:25 2019	UG | M A S T E R (STEAM_0:1:180622613): .
+Sat Jul 13 23:23:29 2019	Derp (STEAM_0:0:52504530): .
+Sat Jul 13 23:25:12 2019	UG | M A S T E R (STEAM_0:1:180622613): test
+Sat Jul 13 23:25:16 2019	UG | M A S T E R (STEAM_0:1:180622613): hm
+Sat Jul 13 23:25:21 2019	Derp (STEAM_0:0:52504530): what are u trying to do
+Sat Jul 13 23:25:53 2019	UG | M A S T E R (STEAM_0:1:180622613): .
+Sat Jul 13 23:26:11 2019	UG | M A S T E R (STEAM_0:1:180622613): .
+Sat Jul 13 23:27:15 2019	UG | M A S T E R (STEAM_0:1:180622613): .
+Sat Jul 13 23:27:24 2019	Derp (STEAM_0:0:52504530): i think its because there is a / in there
+Sat Jul 13 23:30:26 2019	UG | M A S T E R (STEAM_0:1:180622613): .
+Sat Jul 13 23:30:49 2019	TIMEFORATEA PARTY (STEAM_0:1:196834773): 
+Sat Jul 13 23:31:03 2019	TIMEFORATEA PARTY (STEAM_0:1:196834773): 
+Sat Jul 13 23:31:09 2019	UG | M A S T E R (STEAM_0:1:180622613): .
+Sat Jul 13 23:31:26 2019	UG | M A S T E R (STEAM_0:1:180622613): .
+Sat Jul 13 23:31:37 2019	TIMEFORATEA PARTY was killed by Himself with a suicide trick
+Sat Jul 13 23:32:41 2019	UG | M A S T E R (STEAM_0:1:180622613):  .
+Sat Jul 13 23:32:51 2019	UG | M A S T E R (STEAM_0:1:180622613): .
+Sat Jul 13 23:32:52 2019	UG | M A S T E R (STEAM_0:1:180622613): .
+Sat Jul 13 23:33:45 2019	TIMEFORATEA PARTY (STEAM_0:1:196834773) disconnected
+Sat Jul 13 23:34:08 2019	UG | M A S T E R (STEAM_0:1:180622613): .
+Sat Jul 13 23:34:13 2019	UG | M A S T E R (STEAM_0:1:180622613): hm
+Sat Jul 13 23:34:23 2019	Derp (STEAM_0:0:52504530): were u trying to make a rainbow
+Sat Jul 13 23:34:35 2019	UG | M A S T E R (STEAM_0:1:180622613): yeah
+Sat Jul 13 23:34:55 2019	Derp (STEAM_0:0:52504530): why isnt it working
+Sat Jul 13 23:42:00 2019	UG | M A S T E R (STEAM_0:1:180622613): /logs

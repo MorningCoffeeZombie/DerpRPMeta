@@ -1,0 +1,61 @@
+local PMeta = FindMetaTable("Player")
+
+file.CreateDir("mistforums_time_ranks")
+
+local permaTimeRankPath = "mistforums_time_ranks/%s.txt"
+
+function PMeta:getTimeRankFilePath()
+	return string.format(permaTimeRankPath, string.gsub(self:SteamID(), ":", "_"));
+end
+
+function PMeta:loadTimeRankFromFile()
+	return self:getTimeRank(true)
+end
+
+function PMeta:getTimeRank(forceRead)
+	forceRead = forceRead or false
+	
+	if ( self._getTimedRank && !forceRead ) then
+		return self._getTimedRank;
+	end
+	
+	local filePath = self:getTimeRankFilePath()
+	
+	self._getTimedRank = util.JSONToTable( file.Exists( filePath, "DATA" ) and file.Read(filePath, "DATA") or "[]" )
+	
+	return self._getTimedRank;
+end
+
+function PMeta:giveTimeRank( name, time_in_days )
+	local data = {
+		['created_at'] = os.time(),
+		['rank'] = name,
+		['time_in_days'] = time_in_days
+	}
+	
+	file.Write( self:getTimeRankFilePath(), util.TableToJSON( data ) )
+	
+	RunConsoleCommand("ulx", "adduserid", self:SteamID(), name )
+	
+	self:ChatPrint("You have been given the time rank of "..name.." for "..time_in_days.." days.")
+	
+	self:loadTimeRankFromFile()
+end
+
+hook.Add("PlayerInitialSpawn", "mistForum.givePermaWeapon", function( ply )
+	local timeRank = ply:getTimeRank()
+	
+	if ( !timeRank.created_at ) then
+		return
+	end
+	
+	local differenceInSeconds = ( timeRank.created_at + ( timeRank.time_in_days * 86400 ) ) - os.time() 
+	
+	if ( differenceInSeconds <= 0 ) then
+		ply:ChatPrint("Your time rank for ;"..timeRank['rank'].."' has expired!")
+		RunConsoleCommand("ulx", "removeuserid", ply:SteamID())
+	else
+		local differenceInDays = math.ceil( differenceInSeconds / 86400 );
+		ply:ChatPrint("You have "..differenceInDays.." days left for your time rank '"..timeRank['rank'].."' until it expires.")
+	end
+end )

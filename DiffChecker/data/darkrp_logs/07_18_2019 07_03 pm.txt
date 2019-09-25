@@ -1,0 +1,683 @@
+Thu Jul 18 19:03:31 2019	Derp (STEAM_0:0:52504530) has joined the game
+Thu Jul 18 19:03:31 2019	William (STEAM_0:0:52504530) spawned
+Thu Jul 18 19:03:52 2019	Bobbicus (STEAM_0:0:86269452) has joined the game
+Thu Jul 18 19:03:52 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Thu Jul 18 19:04:19 2019	UG | M A S T E R (STEAM_0:1:180622613) has joined the game
+Thu Jul 18 19:04:19 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Thu Jul 18 19:04:32 2019	William (STEAM_0:0:52504530): banned
+Thu Jul 18 19:04:33 2019	William (STEAM_0:0:52504530): permabanned
+Thu Jul 18 19:04:38 2019	Bobbicus (STEAM_0:0:86269452): :(((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((
+Thu Jul 18 19:04:40 2019	William (STEAM_0:0:52504530): no walking allowed in the server
+Thu Jul 18 19:05:00 2019	Bobbicus was killed by William with a csgo_bowie_marblefade
+Thu Jul 18 19:05:04 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Thu Jul 18 19:05:12 2019	William (STEAM_0:0:52504530): this knife stuff is actually really cool
+Thu Jul 18 19:05:20 2019	William (STEAM_0:0:52504530): LMAO
+Thu Jul 18 19:05:22 2019	William (STEAM_0:0:52504530): ERROR KNIFE
+Thu Jul 18 19:05:33 2019	Bobbicus (STEAM_0:0:86269452): i must commit ERROR KNIFE
+Thu Jul 18 19:06:47 2019	UG | M A S T E R (STEAM_0:1:180622613): hi
+Thu Jul 18 19:06:49 2019	William (STEAM_0:0:52504530): yo
+Thu Jul 18 19:06:52 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782) has joined the game
+Thu Jul 18 19:06:52 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782) spawned
+Thu Jul 18 19:06:53 2019	William (STEAM_0:0:52504530): these knives are cool
+Thu Jul 18 19:07:54 2019	William was killed by Entity [0][worldspawn] with a unknown
+Thu Jul 18 19:08:00 2019	Bobbicus (STEAM_0:0:86269452): oh fuck
+Thu Jul 18 19:08:05 2019	Bobbicus was killed by UG | M A S T E R with a csgo_flip_ultraviolet
+Thu Jul 18 19:08:08 2019	Bobbicus (STEAM_0:0:86269452): didnt know you would take dmg
+Thu Jul 18 19:08:10 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Thu Jul 18 19:08:16 2019	Bobbicus (STEAM_0:0:86269452): didnt know you take dmg
+Thu Jul 18 19:08:18 2019	Bobbicus (STEAM_0:0:86269452): sry
+Thu Jul 18 19:08:37 2019	Bobbicus (STEAM_0:0:86269452): >:(
+Thu Jul 18 19:08:43 2019	Bobbicus was killed by Himself with a suicide trick
+Thu Jul 18 19:08:57 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Thu Jul 18 19:10:06 2019	William (STEAM_0:0:52504530) spawned
+Thu Jul 18 19:10:13 2019	William (STEAM_0:0:52504530): wait so
+Thu Jul 18 19:10:22 2019	William (STEAM_0:0:52504530): no more crazy edits or modifications for today right?
+Thu Jul 18 19:10:37 2019	UG | M A S T E R (STEAM_0:1:180622613): Maybe, or maybe not. 
+Thu Jul 18 19:10:45 2019	William (STEAM_0:0:52504530): .0.
+Thu Jul 18 19:10:59 2019	William (STEAM_0:0:52504530): is there anything our server REALLY needs at this point?
+Thu Jul 18 19:11:07 2019	William (STEAM_0:0:52504530): i feel like we just need to polish what we already have
+Thu Jul 18 19:11:33 2019	UG | M A S T E R (STEAM_0:1:180622613): hmmm. Is there a steam group?
+Thu Jul 18 19:11:37 2019	William (STEAM_0:0:52504530): no
+Thu Jul 18 19:11:44 2019	William (STEAM_0:0:52504530): but i mean in terms of like addons
+Thu Jul 18 19:11:48 2019	William (STEAM_0:0:52504530): paid or free
+Thu Jul 18 19:12:00 2019	William (STEAM_0:0:52504530): any type of system we are missing that is essential?
+Thu Jul 18 19:12:05 2019	UG | M A S T E R (STEAM_0:1:180622613): Steam workshop no, gmodstore more likely 
+Thu Jul 18 19:12:10 2019	William (STEAM_0:0:52504530): aight cool
+Thu Jul 18 19:12:11 2019	William (STEAM_0:0:52504530): works for me
+Thu Jul 18 19:12:21 2019	William (STEAM_0:0:52504530): anything that we need that u dont have on gmodstore?
+Thu Jul 18 19:12:23 2019	William (STEAM_0:0:52504530): i can buy it
+Thu Jul 18 19:12:36 2019	UG | M A S T E R (STEAM_0:1:180622613): want cheapest to highest?
+Thu Jul 18 19:12:42 2019	William (STEAM_0:0:52504530): give me a list if u want on discord
+Thu Jul 18 19:12:44 2019	William (STEAM_0:0:52504530): of stuff we need
+Thu Jul 18 19:12:46 2019	William (STEAM_0:0:52504530): that u dont have
+Thu Jul 18 19:12:47 2019	William (STEAM_0:0:52504530): from gmodstore
+Thu Jul 18 19:12:52 2019	UG | M A S T E R (STEAM_0:1:180622613): alright
+Thu Jul 18 19:15:42 2019	William (STEAM_0:0:52504530): bobe
+Thu Jul 18 19:15:53 2019	William (STEAM_0:0:52504530): wanna cook some meth bobe?
+Thu Jul 18 19:15:55 2019	William (STEAM_0:0:52504530): bobe pinkman
+Thu Jul 18 19:16:10 2019	William (STEAM_0:0:52504530): lets cook some meth bobe
+Thu Jul 18 19:19:22 2019	William (STEAM_0:0:52504530): where did the trays go
+Thu Jul 18 19:22:23 2019	William (STEAM_0:0:52504530): bobby im gonna give u a job to do
+Thu Jul 18 19:22:30 2019	William (STEAM_0:0:52504530): u make sure the meth gets in the box
+Thu Jul 18 19:22:31 2019	William (STEAM_0:0:52504530): ill go get a car
+Thu Jul 18 19:23:03 2019	William (STEAM_0:0:52504530) spawned Vehicle prop_vehicle_jeep (courier_trucktdm)
+Thu Jul 18 19:25:07 2019	William (STEAM_0:0:52504530): bro u didnt add the special ingredient
+Thu Jul 18 19:25:18 2019	William (STEAM_0:0:52504530): ok i have to go
+Thu Jul 18 19:25:29 2019	William (STEAM_0:0:52504530): dont ever call me that again u fucking jail warden dr jones
+Thu Jul 18 19:25:36 2019	William (STEAM_0:0:52504530): lmao
+Thu Jul 18 19:25:40 2019	William (STEAM_0:0:52504530): that actually made me laugh really hard
+Thu Jul 18 19:25:46 2019	William (STEAM_0:0:52504530): so stupid
+Thu Jul 18 19:26:55 2019	William (STEAM_0:0:52504530): this meth addon is so nice
+Thu Jul 18 19:27:13 2019	William (STEAM_0:0:52504530): im actually so happy the server is doing so well in terms of content and quality
+Thu Jul 18 19:27:23 2019	William (STEAM_0:0:52504530): next week we are adding 2 pretty good fucking addons
+Thu Jul 18 19:27:30 2019	William (STEAM_0:0:52504530): pvault and city worker
+Thu Jul 18 19:27:39 2019	William (STEAM_0:0:52504530): pvault is the best bank robbing addon u can get
+Thu Jul 18 19:27:52 2019	William (STEAM_0:0:52504530): one sec
+Thu Jul 18 19:29:41 2019	William (STEAM_0:0:52504530): FUCK
+Thu Jul 18 19:29:42 2019	William (STEAM_0:0:52504530): dont shoot
+Thu Jul 18 19:29:55 2019	William (STEAM_0:0:52504530): come
+Thu Jul 18 19:30:42 2019	RICARDO (STEAM_0:1:125273257) has joined the game
+Thu Jul 18 19:30:42 2019	RICARDO (STEAM_0:1:125273257) spawned
+Thu Jul 18 19:31:22 2019	William (STEAM_0:0:52504530): come outside
+Thu Jul 18 19:31:29 2019	William (STEAM_0:0:52504530): /dropmoney 20000
+Thu Jul 18 19:31:30 2019	William (STEAM_0:0:52504530) has dropped $20,000
+Thu Jul 18 19:31:31 2019	William (STEAM_0:0:52504530): here is ur share
+Thu Jul 18 19:31:36 2019	UG | M A S T E R (STEAM_0:1:180622613) disconnected
+Thu Jul 18 19:31:42 2019	RICARDO (STEAM_0:1:125273257): !goto will
+Thu Jul 18 19:32:25 2019	William (STEAM_0:0:52504530): my headphones are off
+Thu Jul 18 19:32:26 2019	William (STEAM_0:0:52504530): i cant hear
+Thu Jul 18 19:32:35 2019	RICARDO (STEAM_0:1:125273257): Is the server fixed?
+Thu Jul 18 19:32:37 2019	William (STEAM_0:0:52504530): yes
+Thu Jul 18 19:32:41 2019	RICARDO (STEAM_0:1:125273257): Litttt
+Thu Jul 18 19:32:42 2019	William (STEAM_0:0:52504530): well at least fadmin is
+Thu Jul 18 19:32:44 2019	William (STEAM_0:0:52504530): check ur fading doors
+Thu Jul 18 19:32:49 2019	RICARDO (STEAM_0:1:125273257): Can I have god please
+Thu Jul 18 19:33:14 2019	William (STEAM_0:0:52504530): fixed?
+Thu Jul 18 19:33:17 2019	RICARDO (STEAM_0:1:125273257): Not fixed
+Thu Jul 18 19:33:19 2019	Bobbicus (STEAM_0:0:86269452): shouldnt ricardo be a super god?
+Thu Jul 18 19:33:24 2019	RICARDO (STEAM_0:1:125273257): I have to restart now XD
+Thu Jul 18 19:33:27 2019	William (STEAM_0:0:52504530): wtf 
+Thu Jul 18 19:33:29 2019	William (STEAM_0:0:52504530): what is going on
+Thu Jul 18 19:33:30 2019	Bobbicus (STEAM_0:0:86269452): he is ricardo after all
+Thu Jul 18 19:33:33 2019	William (STEAM_0:0:52504530): oh wait
+Thu Jul 18 19:33:35 2019	William (STEAM_0:0:52504530): wait wait
+Thu Jul 18 19:33:43 2019	William (STEAM_0:0:52504530): do u have fading doors installed as an addon?
+Thu Jul 18 19:33:53 2019	RICARDO (STEAM_0:1:125273257): Maybe, probably not
+Thu Jul 18 19:33:56 2019	William (STEAM_0:0:52504530): well check if u do
+Thu Jul 18 19:33:59 2019	William (STEAM_0:0:52504530): if u do turn it off
+Thu Jul 18 19:34:06 2019	William (STEAM_0:0:52504530): ur bald
+Thu Jul 18 19:34:58 2019	William (STEAM_0:0:52504530) spawned
+Thu Jul 18 19:35:23 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Thu Jul 18 19:35:34 2019	RICARDO (STEAM_0:1:125273257): No
+Thu Jul 18 19:35:41 2019	William (STEAM_0:0:52504530): im calling u on discord
+Thu Jul 18 19:35:45 2019	RICARDO (STEAM_0:1:125273257): Okay
+Thu Jul 18 19:37:55 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): // im new to this sever and i wanna make meth could i just watch?
+Thu Jul 18 19:40:36 2019	RICARDO (STEAM_0:1:125273257) disconnected
+Thu Jul 18 19:40:47 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): 
+Thu Jul 18 19:41:56 2019	Bobbicus was killed by Himself with a suicide trick
+Thu Jul 18 19:41:58 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Thu Jul 18 19:41:59 2019	RICARDO (STEAM_0:1:125273257) has joined the game
+Thu Jul 18 19:41:59 2019	RICARDO (STEAM_0:1:125273257) spawned
+Thu Jul 18 19:42:18 2019	UG | M A S T E R (STEAM_0:1:180622613) has joined the game
+Thu Jul 18 19:42:18 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Thu Jul 18 19:44:25 2019	William (STEAM_0:0:52504530): /setmoney william 25000
+Thu Jul 18 19:44:25 2019	William (STEAM_0:0:52504530) set Derp's money to $25,000
+Thu Jul 18 19:45:46 2019	William (STEAM_0:0:52504530): !hp william 3000
+Thu Jul 18 19:46:16 2019	William (STEAM_0:0:52504530): !hp william 3000
+Thu Jul 18 19:46:30 2019	William (STEAM_0:0:52504530): !hp william 3000
+Thu Jul 18 19:46:49 2019	William (STEAM_0:0:52504530): !hp william 3000
+Thu Jul 18 19:46:52 2019	William (STEAM_0:0:52504530): !hp william 100
+Thu Jul 18 19:47:02 2019	William (STEAM_0:0:52504530): !hp william 100
+Thu Jul 18 19:47:06 2019	William was killed by RICARDO with a fas2_galil
+Thu Jul 18 19:47:08 2019	William (STEAM_0:0:52504530) spawned
+Thu Jul 18 19:47:29 2019	William was killed by RICARDO with a fas2_ak74
+Thu Jul 18 19:47:32 2019	William (STEAM_0:0:52504530) spawned
+Thu Jul 18 19:47:34 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): /unownalldoors
+Thu Jul 18 19:47:51 2019	William was killed by RICARDO with a fas2_rk95
+Thu Jul 18 19:47:54 2019	William (STEAM_0:0:52504530) spawned
+Thu Jul 18 19:48:04 2019	RICARDO (STEAM_0:1:125273257): /drop
+Thu Jul 18 19:51:39 2019	William (STEAM_0:0:52504530): /dropmoney 20000
+Thu Jul 18 19:51:40 2019	William (STEAM_0:0:52504530) has dropped $20,000
+Thu Jul 18 19:51:50 2019	William was killed by RICARDO with a fas2_g3
+Thu Jul 18 19:51:52 2019	William (STEAM_0:0:52504530) spawned
+Thu Jul 18 19:52:13 2019	William (STEAM_0:0:52504530): yesh
+Thu Jul 18 19:52:19 2019	William was killed by Bobbicus with a m9k_magpulpdr
+Thu Jul 18 19:52:21 2019	William (STEAM_0:0:52504530) spawned
+Thu Jul 18 19:52:37 2019	William was killed by RICARDO with a fas2_pp19
+Thu Jul 18 19:52:39 2019	William (STEAM_0:0:52504530) spawned
+Thu Jul 18 19:52:49 2019	William was killed by RICARDO with a fas2_pp19
+Thu Jul 18 19:52:51 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): //help
+Thu Jul 18 19:52:53 2019	William (STEAM_0:0:52504530) spawned
+Thu Jul 18 19:52:59 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): // help
+Thu Jul 18 19:53:09 2019	William (STEAM_0:0:52504530): can u stop
+Thu Jul 18 19:53:16 2019	William (STEAM_0:0:52504530): he isnt shooting me for no reason u know
+Thu Jul 18 19:53:20 2019	William (STEAM_0:0:52504530): we are testing dmg
+Thu Jul 18 19:53:27 2019	RICARDO (STEAM_0:1:125273257): !goto drumm
+Thu Jul 18 19:53:31 2019	Bobbicus was killed by Himself with a suicide trick
+Thu Jul 18 19:53:34 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Thu Jul 18 19:53:39 2019	William (STEAM_0:0:52504530): !hp william 100
+Thu Jul 18 19:54:00 2019	RICARDO (STEAM_0:1:125273257): /setmoney 100000000000
+Thu Jul 18 19:54:29 2019	RICARDO (STEAM_0:1:125273257): /setmoney ricardo 100000000000
+Thu Jul 18 19:54:29 2019	RICARDO (STEAM_0:1:125273257) set RICARDO's money to $100,000,000,000
+Thu Jul 18 19:54:36 2019	RICARDO (STEAM_0:1:125273257): /dropmoney 1000
+Thu Jul 18 19:54:37 2019	RICARDO (STEAM_0:1:125273257) has dropped $1,000
+Thu Jul 18 19:54:39 2019	William (STEAM_0:0:52504530): /setmoney littl 25000
+Thu Jul 18 19:54:39 2019	William (STEAM_0:0:52504530) set Littl3Drumm3rBoi's money to $25,000
+Thu Jul 18 19:57:19 2019	William was killed by RICARDO with a fas2_famas
+Thu Jul 18 19:57:21 2019	William (STEAM_0:0:52504530) spawned
+Thu Jul 18 19:58:08 2019	Bobbicus (STEAM_0:0:86269452) disconnected
+Thu Jul 18 19:58:48 2019	RICARDO was killed by Entity [0][worldspawn] with a unknown
+Thu Jul 18 19:58:53 2019	RICARDO (STEAM_0:1:125273257) spawned
+Thu Jul 18 20:02:04 2019	RICARDO (STEAM_0:1:125273257) spawned Vehicle prop_vehicle_jeep (civic97tdm)
+Thu Jul 18 20:05:07 2019	RICARDO (STEAM_0:1:125273257) spawned Vehicle prop_vehicle_jeep (porcycletdm)
+Thu Jul 18 20:06:03 2019	William (STEAM_0:0:52504530) spawned Vehicle prop_vehicle_jeep (for_she_gt500tdm)
+Thu Jul 18 20:06:08 2019	William (STEAM_0:0:52504530) spawned Vehicle prop_vehicle_jeep (300ctdm)
+Thu Jul 18 20:06:14 2019	William (STEAM_0:0:52504530) spawned Vehicle prop_vehicle_jeep (deloreantdm)
+Thu Jul 18 20:08:59 2019	William (STEAM_0:0:52504530) spawned Vehicle prop_vehicle_jeep (lrdefendertdm)
+Thu Jul 18 20:10:08 2019	William (STEAM_0:0:52504530) spawned Vehicle prop_vehicle_jeep (cad_escaladetdm)
+Thu Jul 18 20:12:05 2019	William (STEAM_0:0:52504530) spawned Vehicle prop_vehicle_jeep (cit_2cvtdm)
+Thu Jul 18 20:12:08 2019	William (STEAM_0:0:52504530) spawned Vehicle prop_vehicle_jeep (cit_2cvtdm)
+Thu Jul 18 20:13:21 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662) has joined the game
+Thu Jul 18 20:13:21 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662) spawned
+Thu Jul 18 20:14:34 2019	William (STEAM_0:0:52504530) spawned Vehicle prop_vehicle_jeep (alfa_stradaletdm)
+Thu Jul 18 20:14:37 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /pm litt where are u
+Thu Jul 18 20:14:45 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): /zmlab_MethCook
+Thu Jul 18 20:15:33 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /a where did the climb swep go???
+Thu Jul 18 20:15:42 2019	William (STEAM_0:0:52504530): /ooc its only for robbers now
+Thu Jul 18 20:15:48 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /a k
+Thu Jul 18 20:15:57 2019	William (STEAM_0:0:52504530) spawned Vehicle prop_vehicle_jeep (che_69camarotdm)
+Thu Jul 18 20:17:10 2019	(͠≖ ͜ʖ͠≖) (DC) was killed by RICARDO with a prop_vehicle_jeep
+Thu Jul 18 20:17:13 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662) spawned
+Thu Jul 18 20:17:35 2019	William (STEAM_0:0:52504530) spawned Vehicle prop_vehicle_jeep (veyrontdm)
+Thu Jul 18 20:17:49 2019	William (STEAM_0:0:52504530) spawned Vehicle prop_vehicle_jeep (wrangler_fnftdm)
+Thu Jul 18 20:18:24 2019	William (STEAM_0:0:52504530) spawned Vehicle prop_vehicle_jeep (wrangler_fnftdm)
+Thu Jul 18 20:18:57 2019	William (STEAM_0:0:52504530) spawned Vehicle prop_vehicle_jeep (xbowtdm)
+Thu Jul 18 20:19:30 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662) spawned Vehicle prop_vehicle_jeep (porcycletdm)
+Thu Jul 18 20:20:12 2019	William (STEAM_0:0:52504530) spawned Vehicle prop_vehicle_jeep (gtrtdm)
+Thu Jul 18 20:20:46 2019	William (STEAM_0:0:52504530) spawned Vehicle prop_vehicle_jeep (priustdm)
+Thu Jul 18 20:22:35 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662) spawned Vehicle prop_vehicle_jeep (porcycletdm)
+Thu Jul 18 20:24:36 2019	William (STEAM_0:0:52504530) spawned Vehicle prop_vehicle_jeep (hudhornettdm)
+Thu Jul 18 20:24:45 2019	William (STEAM_0:0:52504530) spawned Vehicle prop_vehicle_jeep (miurap400tdm)
+Thu Jul 18 20:25:06 2019	William (STEAM_0:0:52504530) spawned Vehicle prop_vehicle_jeep (cooper4x4tdm)
+Thu Jul 18 20:25:07 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662) spawned Vehicle prop_vehicle_jeep (cit_2cvtdm)
+Thu Jul 18 20:25:13 2019	William (STEAM_0:0:52504530) spawned Vehicle prop_vehicle_jeep (coopers11tdm)
+Thu Jul 18 20:25:16 2019	William (STEAM_0:0:52504530) spawned Vehicle prop_vehicle_jeep (cooper65tdm)
+Thu Jul 18 20:25:25 2019	William (STEAM_0:0:52504530) spawned Vehicle prop_vehicle_jeep (coopercoupetdm)
+Thu Jul 18 20:26:45 2019	William (STEAM_0:0:52504530) spawned Vehicle prop_vehicle_jeep (diablotdm)
+Thu Jul 18 20:27:09 2019	William (STEAM_0:0:52504530) spawned Vehicle prop_vehicle_jeep (gallardotdm)
+Thu Jul 18 20:27:11 2019	William (STEAM_0:0:52504530) spawned Vehicle prop_vehicle_jeep (gallardospydtdm)
+Thu Jul 18 20:27:15 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662) spawned Vehicle prop_vehicle_jeep (fer_lafertdm)
+Thu Jul 18 20:27:20 2019	William was killed by (͠≖ ͜ʖ͠≖) (DC) with a prop_vehicle_jeep
+Thu Jul 18 20:27:22 2019	William (STEAM_0:0:52504530) spawned
+Thu Jul 18 20:27:35 2019	William (STEAM_0:0:52504530) spawned Vehicle prop_vehicle_jeep (242turbotdm)
+Thu Jul 18 20:28:36 2019	RICARDO was killed by (͠≖ ͜ʖ͠≖) (DC) with a prop_vehicle_jeep
+Thu Jul 18 20:28:38 2019	RICARDO (STEAM_0:1:125273257) spawned
+Thu Jul 18 20:28:38 2019	(͠≖ ͜ʖ͠≖) (DC) was killed by William with a fas2_galil
+Thu Jul 18 20:28:41 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662) spawned
+Thu Jul 18 20:28:50 2019	William (STEAM_0:0:52504530) spawned Vehicle prop_vehicle_jeep (volxc70tdm)
+Thu Jul 18 20:29:00 2019	William (STEAM_0:0:52504530) spawned Vehicle prop_vehicle_jeep (volxc70tdm)
+Thu Jul 18 20:29:04 2019	William (STEAM_0:0:52504530) spawned Vehicle prop_vehicle_jeep (vols60tdm)
+Thu Jul 18 20:29:23 2019	William (STEAM_0:0:52504530) spawned Vehicle prop_vehicle_jeep (st1tdm)
+Thu Jul 18 20:29:40 2019	William (STEAM_0:0:52504530) spawned Vehicle prop_vehicle_jeep (lrdefendertdm)
+Thu Jul 18 20:29:58 2019	William (STEAM_0:0:52504530) spawned Vehicle prop_vehicle_jeep (918spydtdm)
+Thu Jul 18 20:30:03 2019	William (STEAM_0:0:52504530) disconnected
+Thu Jul 18 20:31:20 2019	RICARDO (STEAM_0:1:125273257) spawned Vehicle prop_vehicle_jeep (for_she_gt500tdm)
+Thu Jul 18 20:32:03 2019	RICARDO (STEAM_0:1:125273257) spawned Vehicle prop_vehicle_jeep (for_she_gt500tdm)
+Thu Jul 18 20:32:36 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662) spawned Vehicle prop_vehicle_jeep (porcycletdm)
+Thu Jul 18 20:32:43 2019	Derp (STEAM_0:0:52504530) has joined the game
+Thu Jul 18 20:32:43 2019	William (STEAM_0:0:52504530) spawned
+Thu Jul 18 20:34:10 2019	RICARDO (STEAM_0:1:125273257): !vcmod
+Thu Jul 18 20:34:21 2019	William (STEAM_0:0:52504530): !vcmod
+Thu Jul 18 20:34:21 2019	RICARDO (STEAM_0:1:125273257): /vcmod
+Thu Jul 18 20:34:41 2019	The Companion Cube (STEAM_0:0:94296198) has joined the game
+Thu Jul 18 20:34:41 2019	The Companion Cube (STEAM_0:0:94296198) spawned
+Thu Jul 18 20:35:15 2019	(͠≖ ͜ʖ͠≖) (DC) was killed by RICARDO with a fas2_sr25
+Thu Jul 18 20:35:17 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662) spawned
+Thu Jul 18 20:35:31 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /a if i didn't fall i would have escaped
+Thu Jul 18 20:35:40 2019	The Companion Cube (STEAM_0:0:94296198) disconnected
+Thu Jul 18 20:35:59 2019	William (STEAM_0:0:52504530) spawned Vehicle prop_vehicle_jeep (hudhornettdm)
+Thu Jul 18 20:37:02 2019	William (STEAM_0:0:52504530) spawned
+Thu Jul 18 20:37:08 2019	William was killed by RICARDO with a prop_vehicle_jeep
+Thu Jul 18 20:37:10 2019	William (STEAM_0:0:52504530) spawned
+Thu Jul 18 20:37:19 2019	UG | M A S T E R was killed by RICARDO with a prop_vehicle_jeep
+Thu Jul 18 20:37:27 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782) disconnected
+Thu Jul 18 20:39:23 2019	Kaderator (STEAM_0:1:422793312) has joined the game
+Thu Jul 18 20:39:23 2019	Kaderator (STEAM_0:1:422793312) spawned
+Thu Jul 18 20:40:04 2019	William (STEAM_0:0:52504530) spawned Vehicle prop_vehicle_jeep (mitsu_evoxtdm)
+Thu Jul 18 20:41:39 2019	William (STEAM_0:0:52504530) spawned Vehicle prop_vehicle_jeep (vwcampertdm)
+Thu Jul 18 20:41:42 2019	William (STEAM_0:0:52504530) spawned Vehicle prop_vehicle_jeep (vwcampertdm)
+Thu Jul 18 20:42:03 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /a my helium vape vanished sooo that's a bumer
+Thu Jul 18 20:43:22 2019	William (STEAM_0:0:52504530) spawned Vehicle prop_vehicle_jeep (cooper4x4tdm)
+Thu Jul 18 20:43:57 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /drop
+Thu Jul 18 20:44:57 2019	William (STEAM_0:0:52504530) spawned Vehicle prop_vehicle_jeep (p1tdm)
+Thu Jul 18 20:45:31 2019	William (STEAM_0:0:52504530) spawned Vehicle prop_vehicle_jeep (mp412cgt3tdm)
+Thu Jul 18 20:46:17 2019	William (STEAM_0:0:52504530) spawned Vehicle prop_vehicle_jeep (mer_slrtdm)
+Thu Jul 18 20:46:31 2019	William (STEAM_0:0:52504530) spawned Vehicle prop_vehicle_jeep (jag_ftypetdm)
+Thu Jul 18 20:47:04 2019	William (STEAM_0:0:52504530) spawned Vehicle prop_vehicle_jeep (s2000tdm)
+Thu Jul 18 20:48:21 2019	William (STEAM_0:0:52504530) spawned Vehicle prop_vehicle_jeep (cad_lmptdm)
+Thu Jul 18 20:48:30 2019	William (STEAM_0:0:52504530) spawned Vehicle prop_vehicle_jeep (chargersrt8tdm)
+Thu Jul 18 20:48:33 2019	William (STEAM_0:0:52504530) spawned Vehicle prop_vehicle_jeep (challenger70tdm)
+Thu Jul 18 20:49:38 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662) spawned Vehicle prop_vehicle_jeep (cooper4x4tdm)
+Thu Jul 18 20:49:51 2019	William (STEAM_0:0:52504530) spawned Vehicle prop_vehicle_jeep (mp412cgt3tdm)
+Thu Jul 18 20:50:44 2019	William was killed by (͠≖ ͜ʖ͠≖) (DC) with a fas2_ks23
+Thu Jul 18 20:50:46 2019	William (STEAM_0:0:52504530) spawned
+Thu Jul 18 20:53:12 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662) spawned Vehicle prop_vehicle_jeep (challenger70tdm)
+Thu Jul 18 20:56:15 2019	The Companion Cube (STEAM_0:0:94296198) has joined the game
+Thu Jul 18 20:56:15 2019	The Companion Cube (STEAM_0:0:94296198) spawned
+Thu Jul 18 20:56:20 2019	William (STEAM_0:0:52504530) spawned Vehicle prop_vehicle_jeep (coupe40tdm)
+Thu Jul 18 20:56:26 2019	William (STEAM_0:0:52504530) spawned Vehicle prop_vehicle_jeep (f350tdm)
+Thu Jul 18 20:56:56 2019	RICARDO (STEAM_0:1:125273257) spawned Vehicle prop_vehicle_jeep (courier_trucktdm)
+Thu Jul 18 20:57:04 2019	William (STEAM_0:0:52504530) spawned Vehicle prop_vehicle_jeep (f350tdm)
+Thu Jul 18 20:57:08 2019	The Companion Cube (STEAM_0:0:94296198) disconnected
+Thu Jul 18 20:57:14 2019	RICARDO (STEAM_0:1:125273257) spawned Vehicle prop_vehicle_jeep (deloreantdm)
+Thu Jul 18 20:57:20 2019	William was killed by RICARDO with a prop_vehicle_jeep
+Thu Jul 18 20:57:22 2019	William (STEAM_0:0:52504530) spawned
+Thu Jul 18 20:57:24 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /a 23 hours BOIS
+Thu Jul 18 20:57:32 2019	Kaderator (STEAM_0:1:422793312): // ??
+Thu Jul 18 20:57:42 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /a total play  time
+Thu Jul 18 20:57:47 2019	Kaderator (STEAM_0:1:422793312): // nice
+Thu Jul 18 20:57:56 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /a are you new here
+Thu Jul 18 20:58:11 2019	Kaderator (STEAM_0:1:422793312): // meh 1 hour
+Thu Jul 18 20:58:20 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /a welp gtg
+Thu Jul 18 20:58:27 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662) disconnected
+Thu Jul 18 20:58:31 2019	William (STEAM_0:0:52504530): /ooc bye
+Thu Jul 18 20:59:02 2019	RICARDO (STEAM_0:1:125273257): // Look at my ping
+Thu Jul 18 20:59:06 2019	William (STEAM_0:0:52504530): i saw
+Thu Jul 18 20:59:11 2019	Kaderator (STEAM_0:1:422793312): // looool
+Thu Jul 18 20:59:12 2019	R3v0no (STEAM_0:0:166282274) has joined the game
+Thu Jul 18 20:59:12 2019	R3v0no (STEAM_0:0:166282274) spawned
+Thu Jul 18 20:59:26 2019	Kaderator (STEAM_0:1:422793312): // i have lowest
+Thu Jul 18 20:59:44 2019	The Companion Cube (STEAM_0:0:94296198) has joined the game
+Thu Jul 18 20:59:44 2019	The Companion Cube (STEAM_0:0:94296198) spawned
+Thu Jul 18 21:00:23 2019	R3v0no (STEAM_0:0:166282274) disconnected
+Thu Jul 18 21:00:42 2019	The Companion Cube (STEAM_0:0:94296198) disconnected
+Thu Jul 18 21:04:25 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Thu Jul 18 21:04:26 2019	RICARDO (STEAM_0:1:125273257): !goto kad
+Thu Jul 18 21:04:31 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Thu Jul 18 21:04:33 2019	RICARDO (STEAM_0:1:125273257): !cloak
+Thu Jul 18 21:04:40 2019	RICARDO (STEAM_0:1:125273257): !goto kad
+Thu Jul 18 21:05:43 2019	UG | M A S T E R (STEAM_0:1:180622613): /pm Ric why did you kill me? :((
+Thu Jul 18 21:06:00 2019	RICARDO was killed by UG | M A S T E R with a overpowered_minigun
+Thu Jul 18 21:06:03 2019	RICARDO (STEAM_0:1:125273257) spawned
+Thu Jul 18 21:06:19 2019	UG | M A S T E R (STEAM_0:1:180622613): So. Who to kill next
+Thu Jul 18 21:06:24 2019	William was killed by UG | M A S T E R with a overpowered_minigun
+Thu Jul 18 21:06:26 2019	William (STEAM_0:0:52504530) spawned
+Thu Jul 18 21:06:31 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Thu Jul 18 21:09:18 2019	RICARDO (STEAM_0:1:125273257) spawned Vehicle prop_vehicle_jeep (mp412cgt3tdm)
+Thu Jul 18 21:09:30 2019	William was killed by UG | M A S T E R with a overpowered_minigun
+Thu Jul 18 21:09:33 2019	William (STEAM_0:0:52504530) spawned
+Thu Jul 18 21:09:33 2019	RICARDO was killed by UG | M A S T E R with a overpowered_minigun
+Thu Jul 18 21:09:37 2019	RICARDO (STEAM_0:1:125273257) spawned
+Thu Jul 18 21:09:45 2019	UG | M A S T E R was killed by RICARDO with a fas2_dv2
+Thu Jul 18 21:09:48 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Thu Jul 18 21:09:54 2019	Kaderator (STEAM_0:1:422793312): // Help i dont understand this
+Thu Jul 18 21:10:10 2019	William (STEAM_0:0:52504530): u have to have 4 jars and put it on a packing table
+Thu Jul 18 21:10:11 2019	UG | M A S T E R (STEAM_0:1:180622613): give them to me
+Thu Jul 18 21:10:20 2019	UG | M A S T E R (STEAM_0:1:180622613): I'll pay 40k
+Thu Jul 18 21:10:41 2019	UG | M A S T E R (STEAM_0:1:180622613): /check KAD 40000
+Thu Jul 18 21:11:02 2019	UG | M A S T E R was killed by RICARDO with a overpowered_minigun
+Thu Jul 18 21:11:05 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Thu Jul 18 21:11:32 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Thu Jul 18 21:11:36 2019	UG | M A S T E R (STEAM_0:1:180622613): !uncloak ric
+Thu Jul 18 21:11:44 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Thu Jul 18 21:11:45 2019	RICARDO was killed by UG | M A S T E R with a overpowered_minigun
+Thu Jul 18 21:11:48 2019	RICARDO (STEAM_0:1:125273257) spawned
+Thu Jul 18 21:11:55 2019	UG | M A S T E R was killed by RICARDO with a overpowered_minigun
+Thu Jul 18 21:12:07 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Thu Jul 18 21:12:42 2019	UG | M A S T E R (STEAM_0:1:180622613): yes
+Thu Jul 18 21:12:58 2019	UG | M A S T E R (STEAM_0:1:180622613): Sure...
+Thu Jul 18 21:13:58 2019	William (STEAM_0:0:52504530) spawned
+Thu Jul 18 21:14:07 2019	UG | M A S T E R (STEAM_0:1:180622613): /pm will There
+Thu Jul 18 21:14:20 2019	William (STEAM_0:0:52504530): /pm UG thank u :)
+Thu Jul 18 21:14:43 2019	RICARDO was killed by Himself with a suicide trick
+Thu Jul 18 21:14:47 2019	RICARDO (STEAM_0:1:125273257) spawned
+Thu Jul 18 21:15:15 2019	UG | M A S T E R (STEAM_0:1:180622613): hey
+Thu Jul 18 21:15:23 2019	UG | M A S T E R (STEAM_0:1:180622613): Idk
+Thu Jul 18 21:15:27 2019	UG | M A S T E R (STEAM_0:1:180622613): xD
+Thu Jul 18 21:15:41 2019	RICARDO (STEAM_0:1:125273257): !bans
+Thu Jul 18 21:15:45 2019	UG | M A S T E R (STEAM_0:1:180622613): is there a ban reason?
+Thu Jul 18 21:16:00 2019	RICARDO (STEAM_0:1:125273257): !goto will
+Thu Jul 18 21:16:06 2019	UG | M A S T E R (STEAM_0:1:180622613): May you add  me back
+Thu Jul 18 21:16:24 2019	William was killed by RICARDO with a fas2_40mm_frag
+Thu Jul 18 21:16:24 2019	UG | M A S T E R was killed by RICARDO with a fas2_40mm_frag
+Thu Jul 18 21:16:26 2019	William (STEAM_0:0:52504530) spawned
+Thu Jul 18 21:16:26 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Thu Jul 18 21:17:03 2019	UG | M A S T E R (STEAM_0:1:180622613): I'ma take away your scoreboard rank
+Thu Jul 18 21:17:54 2019	UG | M A S T E R (STEAM_0:1:180622613): there
+Thu Jul 18 21:18:38 2019	UG | M A S T E R (STEAM_0:1:180622613): NO
+Thu Jul 18 21:18:43 2019	UG | M A S T E R (STEAM_0:1:180622613): YES
+Thu Jul 18 21:18:51 2019	UG | M A S T E R (STEAM_0:1:180622613): for 12 years
+Thu Jul 18 21:19:27 2019	RICARDO was killed by UG | M A S T E R with a csgo_daggers_fade
+Thu Jul 18 21:19:29 2019	RICARDO (STEAM_0:1:125273257) spawned
+Thu Jul 18 21:20:41 2019	UG | M A S T E R (STEAM_0:1:180622613): Hey
+Thu Jul 18 21:20:43 2019	UG | M A S T E R (STEAM_0:1:180622613): Hey
+Thu Jul 18 21:20:47 2019	UG | M A S T E R (STEAM_0:1:180622613): Get down
+Thu Jul 18 21:20:51 2019	UG | M A S T E R (STEAM_0:1:180622613): And put your hands up
+Thu Jul 18 21:20:52 2019	William (STEAM_0:0:52504530): oh no
+Thu Jul 18 21:20:55 2019	William (STEAM_0:0:52504530): plz
+Thu Jul 18 21:20:56 2019	UG | M A S T E R (STEAM_0:1:180622613): DO IT
+Thu Jul 18 21:20:59 2019	William (STEAM_0:0:52504530): how
+Thu Jul 18 21:21:02 2019	UG | M A S T E R (STEAM_0:1:180622613): OR EVERYONE DIES
+Thu Jul 18 21:21:07 2019	William (STEAM_0:0:52504530): idk how
+Thu Jul 18 21:21:07 2019	UG | M A S T E R (STEAM_0:1:180622613): !ragdoll @
+Thu Jul 18 21:21:30 2019	UG | M A S T E R (STEAM_0:1:180622613): GET DOWN
+Thu Jul 18 21:21:37 2019	UG | M A S T E R (STEAM_0:1:180622613): !ragdoll @
+Thu Jul 18 21:22:07 2019	William (STEAM_0:0:52504530) spawned
+Thu Jul 18 21:22:07 2019	RICARDO (STEAM_0:1:125273257) spawned
+Thu Jul 18 21:22:07 2019	UG | M A S T E R (STEAM_0:1:180622613): !unragdoll *
+Thu Jul 18 21:22:08 2019	RICARDO (STEAM_0:1:125273257): !unragdoll ric
+Thu Jul 18 21:22:16 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662) has joined the game
+Thu Jul 18 21:22:16 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662) spawned
+Thu Jul 18 21:22:16 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Thu Jul 18 21:22:21 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Thu Jul 18 21:22:39 2019	UG | M A S T E R was killed by RICARDO with a csgo_huntsman_case
+Thu Jul 18 21:22:49 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Thu Jul 18 21:22:49 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Thu Jul 18 21:23:03 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /a back
+Thu Jul 18 21:23:10 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Thu Jul 18 21:23:17 2019	UG | M A S T E R (STEAM_0:1:180622613): yes
+Thu Jul 18 21:23:20 2019	Hitman UG | M A S T E R accepted a hit on RICARDO, ordered by RICARDO for $1,000
+Thu Jul 18 21:23:24 2019	Hitman UG | M A S T E R finished a hit on RICARDO, ordered by RICARDO for $1,000
+Thu Jul 18 21:23:24 2019	RICARDO was killed by UG | M A S T E R with a sniper_overpowered
+Thu Jul 18 21:23:26 2019	RICARDO (STEAM_0:1:125273257) spawned
+Thu Jul 18 21:23:52 2019	UG | M A S T E R (STEAM_0:1:180622613): You'r lucky that the core files needed for this aren't on the server
+Thu Jul 18 21:24:01 2019	UG | M A S T E R was killed by RICARDO with a csgo_butterfly_slaughter
+Thu Jul 18 21:24:24 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Thu Jul 18 21:24:31 2019	William was killed by RICARDO with a fas2_sr25
+Thu Jul 18 21:24:36 2019	William (STEAM_0:0:52504530) spawned
+Thu Jul 18 21:24:41 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Thu Jul 18 21:24:47 2019	William was killed by UG | M A S T E R with a sniper_overpowered
+Thu Jul 18 21:24:51 2019	William (STEAM_0:0:52504530) spawned
+Thu Jul 18 21:24:56 2019	UG | M A S T E R (STEAM_0:1:180622613): // GET ON THE GROUND
+Thu Jul 18 21:24:57 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Thu Jul 18 21:25:05 2019	William was killed by UG | M A S T E R with a sniper_overpowered
+Thu Jul 18 21:25:07 2019	William (STEAM_0:0:52504530) spawned
+Thu Jul 18 21:25:09 2019	RICARDO was killed by Kaderator with a fas2_galil
+Thu Jul 18 21:25:11 2019	RICARDO (STEAM_0:1:125273257) spawned
+Thu Jul 18 21:25:15 2019	RICARDO (STEAM_0:1:125273257): !goto kad
+Thu Jul 18 21:25:18 2019	Kaderator was killed by RICARDO with a fas2_sr25
+Thu Jul 18 21:25:21 2019	Kaderator (STEAM_0:1:422793312) spawned
+Thu Jul 18 21:25:28 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /a help me
+Thu Jul 18 21:25:30 2019	William (STEAM_0:0:52504530): models/weapons/world/shotguns/ks23.mdl
+Thu Jul 18 21:25:35 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /a nvm
+Thu Jul 18 21:25:48 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /a i was ready for a good time
+Thu Jul 18 21:25:50 2019	UG | M A S T E R was killed by RICARDO with a fas2_sr25
+Thu Jul 18 21:25:51 2019	UG | M A S T E R (STEAM_0:1:180622613): is the Drill tower not working?
+Thu Jul 18 21:25:59 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Thu Jul 18 21:25:59 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Thu Jul 18 21:26:01 2019	UG | M A S T E R (STEAM_0:1:180622613): is the Drill tower not working?
+Thu Jul 18 21:26:05 2019	William (STEAM_0:0:52504530): ye
+Thu Jul 18 21:26:10 2019	UG | M A S T E R (STEAM_0:1:180622613): Alright
+Thu Jul 18 21:26:25 2019	UG | M A S T E R (STEAM_0:1:180622613): Get in vc 1
+Thu Jul 18 21:26:29 2019	William (STEAM_0:0:52504530): ok
+Thu Jul 18 21:26:30 2019	William was killed by (͠≖ ͜ʖ͠≖) (DC) with a fas2_ks23
+Thu Jul 18 21:26:40 2019	William (STEAM_0:0:52504530) spawned
+Thu Jul 18 21:27:14 2019	(͠≖ ͜ʖ͠≖) (DC) was killed by RICARDO with a fas2_thrown_m67
+Thu Jul 18 21:27:14 2019	RICARDO was killed by Himself with a suicide trick
+Thu Jul 18 21:27:16 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662) spawned
+Thu Jul 18 21:27:17 2019	RICARDO (STEAM_0:1:125273257) spawned
+Thu Jul 18 21:33:11 2019	Dio (STEAM_0:0:497465680) has joined the game
+Thu Jul 18 21:33:11 2019	Dio (STEAM_0:0:497465680) spawned
+Thu Jul 18 21:34:07 2019	(づ｡◕‿‿◕｡)づ (STEAM_0:1:152356796) has joined the game
+Thu Jul 18 21:34:07 2019	Blumbing (STEAM_0:1:152356796) spawned
+Thu Jul 18 21:35:51 2019	Blumbing (STEAM_0:1:152356796): !unbox
+Thu Jul 18 21:35:54 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): !unbox
+Thu Jul 18 21:37:34 2019	Kaderator (STEAM_0:1:422793312): // can i self supply?
+Thu Jul 18 21:37:39 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /a yes
+Thu Jul 18 21:38:03 2019	William (STEAM_0:0:52504530): i saw it
+Thu Jul 18 21:39:06 2019	William was killed by Entity [0][worldspawn] with a unknown
+Thu Jul 18 21:39:08 2019	William (STEAM_0:0:52504530) spawned
+Thu Jul 18 21:40:21 2019	RICARDO (STEAM_0:1:125273257) spawned SENT keypad
+Thu Jul 18 21:40:21 2019	RICARDO (STEAM_0:1:125273257) spawned SENT keypad
+Thu Jul 18 21:40:22 2019	RICARDO (STEAM_0:1:125273257) spawned SENT keypad
+Thu Jul 18 21:41:16 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): 
+Thu Jul 18 21:41:41 2019	Kaderator (STEAM_0:1:422793312): /dropmoney 500
+Thu Jul 18 21:41:42 2019	Kaderator (STEAM_0:1:422793312) has dropped $500
+Thu Jul 18 21:42:01 2019	Kaderator was killed by (͠≖ ͜ʖ͠≖) (DC) with a fas2_ks23
+Thu Jul 18 21:42:04 2019	Kaderator (STEAM_0:1:422793312) spawned
+Thu Jul 18 21:42:32 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /drop
+Thu Jul 18 21:42:36 2019	William was killed by Himself with a suicide trick
+Thu Jul 18 21:42:38 2019	William (STEAM_0:0:52504530) spawned
+Thu Jul 18 21:43:03 2019	Kaderator (STEAM_0:1:422793312): /robber
+Thu Jul 18 21:43:12 2019	RICARDO (STEAM_0:1:125273257) spawned SENT keypad
+Thu Jul 18 21:43:12 2019	RICARDO (STEAM_0:1:125273257) spawned SENT keypad
+Thu Jul 18 21:43:12 2019	RICARDO (STEAM_0:1:125273257) spawned SENT keypad
+Thu Jul 18 21:43:55 2019	RICARDO (STEAM_0:1:125273257) spawned SENT keypad
+Thu Jul 18 21:43:55 2019	RICARDO (STEAM_0:1:125273257) spawned SENT keypad
+Thu Jul 18 21:43:55 2019	RICARDO (STEAM_0:1:125273257) spawned SENT keypad
+Thu Jul 18 21:44:02 2019	RICARDO (STEAM_0:1:125273257) spawned SENT keypad
+Thu Jul 18 21:44:02 2019	RICARDO (STEAM_0:1:125273257) spawned SENT keypad
+Thu Jul 18 21:44:02 2019	RICARDO (STEAM_0:1:125273257) spawned SENT keypad
+Thu Jul 18 21:44:07 2019	RICARDO (STEAM_0:1:125273257) spawned SENT keypad
+Thu Jul 18 21:44:07 2019	RICARDO (STEAM_0:1:125273257) spawned SENT keypad
+Thu Jul 18 21:44:07 2019	RICARDO (STEAM_0:1:125273257) spawned SENT keypad
+Thu Jul 18 21:44:10 2019	RICARDO (STEAM_0:1:125273257) spawned SENT keypad
+Thu Jul 18 21:44:10 2019	RICARDO (STEAM_0:1:125273257) spawned SENT keypad
+Thu Jul 18 21:44:10 2019	RICARDO (STEAM_0:1:125273257) spawned SENT keypad
+Thu Jul 18 21:44:13 2019	RICARDO (STEAM_0:1:125273257) spawned SENT keypad
+Thu Jul 18 21:44:13 2019	RICARDO (STEAM_0:1:125273257) spawned SENT keypad
+Thu Jul 18 21:44:13 2019	RICARDO (STEAM_0:1:125273257) spawned SENT keypad
+Thu Jul 18 21:44:19 2019	RICARDO (STEAM_0:1:125273257) spawned SENT keypad
+Thu Jul 18 21:44:19 2019	RICARDO (STEAM_0:1:125273257) spawned SENT keypad
+Thu Jul 18 21:44:19 2019	RICARDO (STEAM_0:1:125273257) spawned SENT keypad
+Thu Jul 18 21:44:22 2019	RICARDO (STEAM_0:1:125273257) spawned SENT keypad
+Thu Jul 18 21:44:22 2019	RICARDO (STEAM_0:1:125273257) spawned SENT keypad
+Thu Jul 18 21:44:22 2019	RICARDO (STEAM_0:1:125273257) spawned SENT keypad
+Thu Jul 18 21:44:25 2019	RICARDO (STEAM_0:1:125273257) spawned SENT keypad
+Thu Jul 18 21:44:25 2019	RICARDO (STEAM_0:1:125273257) spawned SENT keypad
+Thu Jul 18 21:44:25 2019	RICARDO (STEAM_0:1:125273257) spawned SENT keypad
+Thu Jul 18 21:44:27 2019	RICARDO (STEAM_0:1:125273257) spawned SENT keypad
+Thu Jul 18 21:44:27 2019	RICARDO (STEAM_0:1:125273257) spawned SENT keypad
+Thu Jul 18 21:44:27 2019	RICARDO (STEAM_0:1:125273257) spawned SENT keypad
+Thu Jul 18 21:44:29 2019	RICARDO (STEAM_0:1:125273257) spawned SENT keypad
+Thu Jul 18 21:44:29 2019	RICARDO (STEAM_0:1:125273257) spawned SENT keypad
+Thu Jul 18 21:44:29 2019	RICARDO (STEAM_0:1:125273257) spawned SENT keypad
+Thu Jul 18 21:44:31 2019	RICARDO (STEAM_0:1:125273257) spawned SENT keypad
+Thu Jul 18 21:44:32 2019	RICARDO (STEAM_0:1:125273257) spawned SENT keypad
+Thu Jul 18 21:44:32 2019	RICARDO (STEAM_0:1:125273257) spawned SENT keypad
+Thu Jul 18 21:44:37 2019	RICARDO (STEAM_0:1:125273257) spawned SENT keypad
+Thu Jul 18 21:44:37 2019	RICARDO (STEAM_0:1:125273257) spawned SENT keypad
+Thu Jul 18 21:44:37 2019	RICARDO (STEAM_0:1:125273257) spawned SENT keypad
+Thu Jul 18 21:44:57 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): 
+Thu Jul 18 21:45:09 2019	Blumbing (STEAM_0:1:152356796): /dropmoney 5000
+Thu Jul 18 21:45:09 2019	William (STEAM_0:0:52504530): hello
+Thu Jul 18 21:45:10 2019	Blumbing (STEAM_0:1:152356796) has dropped $5,000
+Thu Jul 18 21:45:25 2019	William (STEAM_0:0:52504530): well dont listen to jtroll anymore
+Thu Jul 18 21:45:41 2019	William (STEAM_0:0:52504530): dude may be funny and not trying to really harm the server but hes causing a lot of trouble without knowing it
+Thu Jul 18 21:45:52 2019	William (STEAM_0:0:52504530): eh
+Thu Jul 18 21:45:56 2019	William (STEAM_0:0:52504530): i mean ur just trying to have fun
+Thu Jul 18 21:46:08 2019	William (STEAM_0:0:52504530): we all have
+Thu Jul 18 21:46:11 2019	William (STEAM_0:0:52504530): dont think too much about it
+Thu Jul 18 21:46:16 2019	William (STEAM_0:0:52504530): yes?
+Thu Jul 18 21:46:30 2019	William (STEAM_0:0:52504530): sorry for ur loss
+Thu Jul 18 21:46:44 2019	William (STEAM_0:0:52504530): i didnt get to know 90% of my family because they all abandoned me
+Thu Jul 18 21:46:56 2019	William (STEAM_0:0:52504530): so i can understand the feeling of wanting to know someone
+Thu Jul 18 21:47:05 2019	William (STEAM_0:0:52504530): enjoy ur vacation
+Thu Jul 18 21:47:08 2019	William (STEAM_0:0:52504530): this server isnt important in ur life
+Thu Jul 18 21:47:13 2019	William (STEAM_0:0:52504530): have a good time
+Thu Jul 18 21:47:18 2019	William (STEAM_0:0:52504530): im glad u are
+Thu Jul 18 21:47:21 2019	William (STEAM_0:0:52504530): but dont look at this like a job
+Thu Jul 18 21:47:28 2019	William (STEAM_0:0:52504530): its a community with benefits is what its more like
+Thu Jul 18 21:47:37 2019	William (STEAM_0:0:52504530): i just want people to have fun
+Thu Jul 18 21:47:44 2019	William (STEAM_0:0:52504530): ive invested about 100 dollars into the server and i havent asked for a single dime
+Thu Jul 18 21:47:56 2019	William (STEAM_0:0:52504530): come back whenever u like
+Thu Jul 18 21:48:04 2019	William (STEAM_0:0:52504530): next time u come back we will have very cool new stuff
+Thu Jul 18 21:48:08 2019	William (STEAM_0:0:52504530): we added a bunch of cars to the shop
+Thu Jul 18 21:48:15 2019	William (STEAM_0:0:52504530): next week we are adding pvault and city worker
+Thu Jul 18 21:48:22 2019	William (STEAM_0:0:52504530): pvault is the best bank robbing addon u can get in gmod
+Thu Jul 18 21:48:36 2019	William (STEAM_0:0:52504530): and city worker is a job or jobs that pretty much rely on fixing stuff in the city
+Thu Jul 18 21:48:40 2019	William (STEAM_0:0:52504530): so fixing a phone booth for example
+Thu Jul 18 21:48:48 2019	William (STEAM_0:0:52504530): just adding more stuff to do
+Thu Jul 18 21:49:10 2019	William (STEAM_0:0:52504530): honestly yeah a lot of the servers have the same amount of content as us but they hide them behind a paywall or long ass grind
+Thu Jul 18 21:49:23 2019	William (STEAM_0:0:52504530): pretty much lol
+Thu Jul 18 21:49:29 2019	William (STEAM_0:0:52504530): UG is trying to fix the oil stuff
+Thu Jul 18 21:49:40 2019	Blumbing (STEAM_0:1:152356796): // i won 
+Thu Jul 18 21:49:45 2019	William (STEAM_0:0:52504530): um
+Thu Jul 18 21:49:46 2019	William (STEAM_0:0:52504530): he won what
+Thu Jul 18 21:49:51 2019	William (STEAM_0:0:52504530): dont tell me he won a jackpot
+Thu Jul 18 21:49:57 2019	William (STEAM_0:0:52504530): imma go check
+Thu Jul 18 21:50:03 2019	William (STEAM_0:0:52504530): omfg
+Thu Jul 18 21:50:21 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): 
+Thu Jul 18 21:50:34 2019	William (STEAM_0:0:52504530): sorry blumbing but the max money on the server is 2 mil so i have to deduct :(
+Thu Jul 18 21:50:46 2019	William (STEAM_0:0:52504530): lmao im joking calm down
+Thu Jul 18 21:50:53 2019	William (STEAM_0:0:52504530): its actually 1 mil
+Thu Jul 18 21:50:55 2019	William (STEAM_0:0:52504530): LOL
+Thu Jul 18 21:52:06 2019	William (STEAM_0:0:52504530): yeah
+Thu Jul 18 21:52:13 2019	William (STEAM_0:0:52504530): filter?
+Thu Jul 18 21:52:30 2019	William (STEAM_0:0:52504530): so rotating
+Thu Jul 18 21:52:44 2019	William (STEAM_0:0:52504530): thats not a bad idea but with how coding works with gmod its gonna be hard af
+Thu Jul 18 21:53:05 2019	William (STEAM_0:0:52504530): the only way to do that would either be to hire a coder which costs money or remove the jobs manually but thats annoying
+Thu Jul 18 21:53:20 2019	William (STEAM_0:0:52504530): ill see what i can do about stuff similar to that tho
+Thu Jul 18 21:54:03 2019	Hitman Kaderator accepted a hit on Blumbing, ordered by (͠≖ ͜ʖ͠≖) (DC) for $1,000
+Thu Jul 18 21:54:27 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /pm will i have a idea
+Thu Jul 18 21:55:30 2019	Dio (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_jeep (courier_trucktdm)
+Thu Jul 18 21:58:51 2019	Hit on Blumbing failed. Reason: The target has left the server!
+Thu Jul 18 21:58:51 2019	Blumbing (STEAM_0:1:152356796) disconnected
+Thu Jul 18 21:59:31 2019	Kaderator (STEAM_0:1:422793312): un texture
+Thu Jul 18 22:00:31 2019	Kaderator (STEAM_0:1:422793312): /unbox
+Thu Jul 18 22:00:42 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /a BrUH MoMeNT
+Thu Jul 18 22:01:21 2019	Kaderator (STEAM_0:1:422793312): want a git
+Thu Jul 18 22:01:25 2019	Kaderator (STEAM_0:1:422793312): hit*
+Thu Jul 18 22:01:34 2019	Hitman Kaderator accepted a hit on (͠≖ ͜ʖ͠≖) (DC), ordered by (͠≖ ͜ʖ͠≖) (DC) for $1,000
+Thu Jul 18 22:02:33 2019	Hit on (͠≖ ͜ʖ͠≖) (DC) failed. Reason: The hitman died!
+Thu Jul 18 22:02:33 2019	Kaderator was killed by (͠≖ ͜ʖ͠≖) (DC) with a fas2_ks23
+Thu Jul 18 22:02:36 2019	Kaderator (STEAM_0:1:422793312) spawned
+Thu Jul 18 22:03:13 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): 
+Thu Jul 18 22:05:24 2019	UG | M A S T E R was killed by Entity [1442][entityflame] with a entityflame
+Thu Jul 18 22:05:35 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Thu Jul 18 22:06:52 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Thu Jul 18 22:07:20 2019	RICARDO (STEAM_0:1:125273257) spawned SENT keypad
+Thu Jul 18 22:07:20 2019	RICARDO (STEAM_0:1:125273257) spawned SENT keypad
+Thu Jul 18 22:07:20 2019	RICARDO (STEAM_0:1:125273257) spawned SENT keypad
+Thu Jul 18 22:07:20 2019	RICARDO (STEAM_0:1:125273257) spawned SENT keypad
+Thu Jul 18 22:07:26 2019	UG | M A S T E R (STEAM_0:1:180622613): /pm ric [18/07/2019 - 07:54:00 PM] RICARDO(The God Ricardo) said '/setmoney 100000000000'
+Thu Jul 18 22:07:38 2019	RICARDO (STEAM_0:1:125273257): /pm UG Ik
+Thu Jul 18 22:07:45 2019	UG | M A S T E R (STEAM_0:1:180622613): /pm RIC why u cheat?
+Thu Jul 18 22:07:49 2019	RICARDO (STEAM_0:1:125273257): /pm UG so does derp
+Thu Jul 18 22:07:57 2019	UG | M A S T E R (STEAM_0:1:180622613): Derp is the facking founder
+Thu Jul 18 22:08:22 2019	UG | M A S T E R (STEAM_0:1:180622613): /pm RIC restarting what?
+Thu Jul 18 22:08:37 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) has joined the game
+Thu Jul 18 22:08:37 2019	BexGasm (STEAM_0:1:63382511) spawned
+Thu Jul 18 22:08:40 2019	William (STEAM_0:0:52504530): he had to give money to a guy earlier because he was having trouble with meth cooking
+Thu Jul 18 22:08:45 2019	William (STEAM_0:0:52504530): thats why he raised his money
+Thu Jul 18 22:08:50 2019	RICARDO (STEAM_0:1:125273257): /setmoney 25000
+Thu Jul 18 22:09:02 2019	RICARDO (STEAM_0:1:125273257): /setmoney rica 25000
+Thu Jul 18 22:09:19 2019	William (STEAM_0:0:52504530): /setmoney ricardo 25000
+Thu Jul 18 22:09:19 2019	William (STEAM_0:0:52504530) set RICARDO's money to $25,000
+Thu Jul 18 22:09:35 2019	RICARDO (STEAM_0:1:125273257): /drop
+Thu Jul 18 22:09:36 2019	BexGasm (STEAM_0:1:63382511): can you hear me?
+Thu Jul 18 22:09:41 2019	RICARDO was killed by Himself with a suicide trick
+Thu Jul 18 22:09:42 2019	Kaderator (STEAM_0:1:422793312): no
+Thu Jul 18 22:09:43 2019	RICARDO (STEAM_0:1:125273257) spawned
+Thu Jul 18 22:09:47 2019	RICARDO (STEAM_0:1:125273257): /drop
+Thu Jul 18 22:09:50 2019	RICARDO was killed by Himself with a suicide trick
+Thu Jul 18 22:09:52 2019	RICARDO (STEAM_0:1:125273257) spawned
+Thu Jul 18 22:09:52 2019	BexGasm (STEAM_0:1:63382511): shit 1 sec
+Thu Jul 18 22:09:53 2019	BexGasm (STEAM_0:1:63382511) disconnected
+Thu Jul 18 22:09:56 2019	RICARDO (STEAM_0:1:125273257): /drop
+Thu Jul 18 22:11:16 2019	(づ｡◕‿‿◕｡)づ (STEAM_0:1:152356796) has joined the game
+Thu Jul 18 22:11:16 2019	Blumbing (STEAM_0:1:152356796) spawned
+Thu Jul 18 22:11:46 2019	Blumbing (STEAM_0:1:152356796) disconnected
+Thu Jul 18 22:13:52 2019	William (STEAM_0:0:52504530): /setmoney ricardo 25000
+Thu Jul 18 22:13:52 2019	William (STEAM_0:0:52504530) set RICARDO's money to $25,000
+Thu Jul 18 22:15:49 2019	Kaderator (STEAM_0:1:422793312) disconnected
+Thu Jul 18 22:16:03 2019	William (STEAM_0:0:52504530): 
+Thu Jul 18 22:16:09 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) has joined the game
+Thu Jul 18 22:16:09 2019	BexGasm (STEAM_0:1:63382511) spawned
+Thu Jul 18 22:16:25 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782) has joined the game
+Thu Jul 18 22:16:25 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782) spawned
+Thu Jul 18 22:16:45 2019	BexGasm (STEAM_0:1:63382511): 
+Thu Jul 18 22:16:51 2019	William (STEAM_0:0:52504530): ye
+Thu Jul 18 22:17:14 2019	William (STEAM_0:0:52504530): im permabanning u
+Thu Jul 18 22:17:21 2019	(づ｡◕‿‿◕｡)づ (STEAM_0:1:152356796) has joined the game
+Thu Jul 18 22:17:21 2019	Blumbing (STEAM_0:1:152356796) spawned
+Thu Jul 18 22:18:31 2019	BexGasm was killed by RICARDO with a fas2_sr25
+Thu Jul 18 22:18:34 2019	BexGasm (STEAM_0:1:63382511) spawned
+Thu Jul 18 22:18:36 2019	BexGasm (STEAM_0:1:63382511): !goto ric
+Thu Jul 18 22:18:51 2019	BexGasm was killed by RICARDO with a fas2_sr25
+Thu Jul 18 22:20:26 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /a wow lag spike
+Thu Jul 18 22:20:34 2019	William (STEAM_0:0:52504530): 
+Thu Jul 18 22:20:38 2019	William (STEAM_0:0:52504530): 
+Thu Jul 18 22:20:46 2019	Blumbing (STEAM_0:1:152356796): // william tp me
+Thu Jul 18 22:20:51 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): // this is the best server no cap
+Thu Jul 18 22:21:00 2019	William (STEAM_0:0:52504530): ok im permabanning u thats disgusting
+Thu Jul 18 22:21:13 2019	William (STEAM_0:0:52504530): tell me how to do it and i wont ban u
+Thu Jul 18 22:21:20 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): 
+Thu Jul 18 22:21:33 2019	William (STEAM_0:0:52504530): then click on the what?
+Thu Jul 18 22:21:38 2019	William (STEAM_0:0:52504530): ok
+Thu Jul 18 22:21:49 2019	William (STEAM_0:0:52504530): Derp#8186
+Thu Jul 18 22:21:51 2019	William (STEAM_0:0:52504530): thats my discord
+Thu Jul 18 22:21:51 2019	BexGasm (STEAM_0:1:63382511) spawned
+Thu Jul 18 22:21:54 2019	BexGasm (STEAM_0:1:63382511): !goto will
+Thu Jul 18 22:22:26 2019	BexGasm (STEAM_0:1:63382511): !return bex
+Thu Jul 18 22:22:53 2019	UG | M A S T E R (STEAM_0:1:180622613) disconnected
+Thu Jul 18 22:22:53 2019	William (STEAM_0:0:52504530): i dont have anything
+Thu Jul 18 22:22:59 2019	William (STEAM_0:0:52504530): whats ur name on discord?
+Thu Jul 18 22:23:02 2019	William (STEAM_0:0:52504530): wait
+Thu Jul 18 22:23:08 2019	William (STEAM_0:0:52504530): did u make sure the D in derp is capital
+Thu Jul 18 22:23:42 2019	BexGasm (STEAM_0:1:63382511): /dropmoney 80000000
+Thu Jul 18 22:23:43 2019	BexGasm (STEAM_0:1:63382511) has dropped $80,000,000
+Thu Jul 18 22:24:02 2019	William (STEAM_0:0:52504530): i didnt get one
+Thu Jul 18 22:24:08 2019	William (STEAM_0:0:52504530): i am
+Thu Jul 18 22:24:11 2019	BexGasm (STEAM_0:1:63382511): // you mind if i beat y'alls kids
+Thu Jul 18 22:24:12 2019	William (STEAM_0:0:52504530): did u make sure the D was capital
+Thu Jul 18 22:24:18 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /a sure
+Thu Jul 18 22:24:25 2019	BexGasm (STEAM_0:1:63382511): // *beats his kids*
+Thu Jul 18 22:24:25 2019	Dio (STEAM_0:0:497465680): /ooc but i wanted too
+Thu Jul 18 22:24:26 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): // belt
+Thu Jul 18 22:24:27 2019	UG | M A S T E R (STEAM_0:1:180622613) has joined the game
+Thu Jul 18 22:24:27 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Thu Jul 18 22:24:34 2019	William (STEAM_0:0:52504530): i got it
+Thu Jul 18 22:24:39 2019	RICARDO (STEAM_0:1:125273257): // *beats my meat*
+Thu Jul 18 22:24:52 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): // * makes kids watch*
+Thu Jul 18 22:25:04 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /a *fucks kids*
+Thu Jul 18 22:25:17 2019	RICARDO (STEAM_0:1:125273257): *licks their puckering buttholes*
+Thu Jul 18 22:25:29 2019	William (STEAM_0:0:52504530): ok thank u
+Thu Jul 18 22:25:36 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): // *FUCKS YOU*
+Thu Jul 18 22:25:40 2019	William (STEAM_0:0:52504530): i mean im gonna keep doing stuff to the server so why not
+Thu Jul 18 22:25:42 2019	William (STEAM_0:0:52504530): i wont be talking tho
+Thu Jul 18 22:27:03 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): // are one way props illegal on this server?
+Thu Jul 18 22:27:07 2019	BexGasm (STEAM_0:1:63382511): // Nah
+Thu Jul 18 22:27:08 2019	RICARDO (STEAM_0:1:125273257): // No
+Thu Jul 18 22:27:10 2019	BexGasm (STEAM_0:1:63382511): // they fine :3
+Thu Jul 18 22:27:16 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): // thanks
+Thu Jul 18 22:27:49 2019	BexGasm (STEAM_0:1:63382511): !jail @ 120
+Thu Jul 18 22:28:15 2019	BexGasm (STEAM_0:1:63382511): !unjail
+Thu Jul 18 22:28:17 2019	BexGasm (STEAM_0:1:63382511): !unjail dio
+Thu Jul 18 22:29:15 2019	BexGasm (STEAM_0:1:63382511) disconnected
+Thu Jul 18 22:31:00 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): // f4 is not working now lmao
+Thu Jul 18 22:31:08 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /a frick
+Thu Jul 18 22:31:14 2019	William (STEAM_0:0:52504530): 
+Thu Jul 18 22:31:16 2019	RICARDO (STEAM_0:1:125273257): !goto drumm
+Thu Jul 18 22:31:48 2019	RICARDO (STEAM_0:1:125273257): !return ric
+Thu Jul 18 22:32:43 2019	UG | M A S T E R (STEAM_0:1:180622613): Hey
+Thu Jul 18 22:32:45 2019	William (STEAM_0:0:52504530): hi
+Thu Jul 18 22:32:50 2019	Blumbing (STEAM_0:1:152356796): /buy
+Thu Jul 18 22:33:00 2019	UG | M A S T E R (STEAM_0:1:180622613): Can you send me a invite to the discord? I got access to my main discord account
+Thu Jul 18 22:33:09 2019	William (STEAM_0:0:52504530): yeah sure
+Thu Jul 18 22:33:20 2019	William (STEAM_0:0:52504530): https://discord.gg/yHdWpk
+Thu Jul 18 22:33:26 2019	William (STEAM_0:0:52504530): there u go
+Thu Jul 18 22:34:05 2019	✪The AdrenaliN (Broken Mic) (STEAM_0:1:109968892) has joined the game
+Thu Jul 18 22:34:05 2019	✪The AdrenaliN (Broken Mic) (STEAM_0:1:109968892) spawned
+Thu Jul 18 22:37:18 2019	William (STEAM_0:0:52504530): 
+Thu Jul 18 22:37:30 2019	✪The AdrenaliN (Broken Mic) (STEAM_0:1:109968892): cunt
+Thu Jul 18 22:37:32 2019	✪The AdrenaliN (Broken Mic) (STEAM_0:1:109968892) disconnected
+Thu Jul 18 22:37:39 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): // will  lose my stuff?
+Thu Jul 18 22:37:42 2019	RICARDO (STEAM_0:1:125273257): // Yes
+Thu Jul 18 22:37:49 2019	RICARDO (STEAM_0:1:125273257): // We can refund you
+Thu Jul 18 22:37:50 2019	Dio (STEAM_0:0:497465680): /ooc rip
+Thu Jul 18 22:37:56 2019	William (STEAM_0:0:52504530): how much did u spend
+Thu Jul 18 22:38:11 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): 15000
+Thu Jul 18 22:38:15 2019	William (STEAM_0:0:52504530): /dropmoney 25000
+Thu Jul 18 22:38:16 2019	William (STEAM_0:0:52504530) has dropped $25,000
+Thu Jul 18 22:38:17 2019	William (STEAM_0:0:52504530): ill give u 25k
+Thu Jul 18 22:38:23 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): okay thanks
+Thu Jul 18 22:38:25 2019	William (STEAM_0:0:52504530): no problem
+Thu Jul 18 22:38:26 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /a BrUH MoMeNT
+Thu Jul 18 22:38:27 2019	William (STEAM_0:0:52504530): sorry for the restart
+Thu Jul 18 22:38:34 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): i understand
+Thu Jul 18 22:38:41 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): no buggy
+Thu Jul 18 22:38:41 2019	William (STEAM_0:0:52504530): gmod is old so u have to do extreme stuff to fix problems
+Thu Jul 18 22:38:49 2019	Dio was killed by Entity [0][worldspawn] with a unknown
+Thu Jul 18 22:38:53 2019	Dio (STEAM_0:0:497465680) spawned
+Thu Jul 18 22:38:54 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): yea lmao

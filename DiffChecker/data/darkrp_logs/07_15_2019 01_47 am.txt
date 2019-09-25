@@ -1,0 +1,33 @@
+Mon Jul 15 01:47:59 2019	malicousbee (STEAM_0:1:508601712) has joined the game
+Mon Jul 15 01:47:59 2019	malicousbee (STEAM_0:1:508601712) spawned
+Mon Jul 15 01:48:19 2019	UG | M A S T E R (STEAM_0:1:180622613) has joined the game
+Mon Jul 15 01:48:19 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Mon Jul 15 01:48:30 2019	malicousbee (STEAM_0:1:508601712): I concent I have read and agree with the server rules
+Mon Jul 15 01:49:01 2019	UG | M A S T E R (STEAM_0:1:180622613): I concent I have read and agree with the server rules
+Mon Jul 15 01:49:12 2019	UG | M A S T E R (STEAM_0:1:180622613): !motd
+Mon Jul 15 01:49:14 2019	UG | M A S T E R (STEAM_0:1:180622613): I concent I have read and agree with the server rules
+Mon Jul 15 01:49:15 2019	UG | M A S T E R (STEAM_0:1:180622613): !motd
+Mon Jul 15 01:49:17 2019	UG | M A S T E R (STEAM_0:1:180622613) disconnected
+Mon Jul 15 01:49:52 2019	UG | M A S T E R (STEAM_0:1:180622613) has joined the game
+Mon Jul 15 01:49:52 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Mon Jul 15 01:50:36 2019	Derp (STEAM_0:0:52504530) has joined the game
+Mon Jul 15 01:50:36 2019	Derp (STEAM_0:0:52504530) spawned
+Mon Jul 15 01:50:38 2019	UG | M A S T E R (STEAM_0:1:180622613): I concent I have read and agree with the server rules
+Mon Jul 15 01:50:46 2019	UG | M A S T E R (STEAM_0:1:180622613): !motd
+Mon Jul 15 01:51:17 2019	Derp (STEAM_0:0:52504530): I concent I have read and agree with the server rules
+Mon Jul 15 01:51:19 2019	Derp (STEAM_0:0:52504530): hello
+Mon Jul 15 01:51:21 2019	UG | M A S T E R (STEAM_0:1:180622613) disconnected
+Mon Jul 15 01:51:26 2019	Derp (STEAM_0:0:52504530): its a lot better
+Mon Jul 15 01:51:56 2019	Derp (STEAM_0:0:52504530): wait i dont have inventory pickup
+Mon Jul 15 01:52:00 2019	UG | M A S T E R (STEAM_0:1:180622613) has joined the game
+Mon Jul 15 01:52:00 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Mon Jul 15 01:52:07 2019	Derp (STEAM_0:0:52504530): no i put it on every job
+Mon Jul 15 01:52:27 2019	Derp (STEAM_0:0:52504530): do u have it
+Mon Jul 15 01:52:28 2019	Derp (STEAM_0:0:52504530): on squidward
+Mon Jul 15 01:52:41 2019	Derp (STEAM_0:0:52504530): do u have it as civ?
+Mon Jul 15 01:52:55 2019	Derp (STEAM_0:0:52504530): OH 
+Mon Jul 15 01:52:56 2019	Derp (STEAM_0:0:52504530): i know why
+Mon Jul 15 01:52:57 2019	Derp (STEAM_0:0:52504530): im stupid
+Mon Jul 15 01:53:04 2019	Derp (STEAM_0:0:52504530): ill fix it now
+Mon Jul 15 01:54:03 2019	Derp (STEAM_0:0:52504530): 
+Mon Jul 15 01:55:11 2019	Derp (STEAM_0:0:52504530): !printers

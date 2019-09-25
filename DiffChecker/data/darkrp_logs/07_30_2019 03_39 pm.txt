@@ -1,0 +1,118 @@
+Tue Jul 30 15:39:17 2019	Derp (STEAM_0:0:52504530) has joined the game
+Tue Jul 30 15:39:17 2019	William (STEAM_0:0:52504530) spawned
+Tue Jul 30 15:40:15 2019	William (STEAM_0:0:52504530): 
+Tue Jul 30 15:40:20 2019	William (STEAM_0:0:52504530): !purge_shop
+Tue Jul 30 15:40:24 2019	William (STEAM_0:0:52504530): !purge_store
+Tue Jul 30 15:40:30 2019	William (STEAM_0:0:52504530): !purge_buy
+Tue Jul 30 15:40:58 2019	Dio (STEAM_0:0:497465680) has joined the game
+Tue Jul 30 15:40:58 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 30 15:41:58 2019	William (STEAM_0:0:52504530): um
+Tue Jul 30 15:42:05 2019	William (STEAM_0:0:52504530): are you ok
+Tue Jul 30 15:42:07 2019	jtroll1942 (STEAM_0:1:119864290) has joined the game
+Tue Jul 30 15:42:07 2019	jtroll1942 (STEAM_0:1:119864290) spawned
+Tue Jul 30 15:42:25 2019	William (STEAM_0:0:52504530): oh
+Tue Jul 30 15:43:12 2019	William (STEAM_0:0:52504530): 
+Tue Jul 30 15:43:28 2019	William (STEAM_0:0:52504530): /setmoney william 100000
+Tue Jul 30 15:43:28 2019	William (STEAM_0:0:52504530) set Derp's money to $100,000
+Tue Jul 30 15:43:37 2019	William (STEAM_0:0:52504530): welp
+Tue Jul 30 15:43:44 2019	William (STEAM_0:0:52504530): 
+Tue Jul 30 15:45:19 2019	Dio was killed by jtroll1942 with a fas2_m4a1
+Tue Jul 30 15:45:21 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 30 15:45:34 2019	Dio was killed by jtroll1942 with a fas2_m4a1
+Tue Jul 30 15:45:38 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 30 15:45:52 2019	William (STEAM_0:0:52504530): 
+Tue Jul 30 15:47:44 2019	William (STEAM_0:0:52504530): 
+Tue Jul 30 15:47:56 2019	jtroll1942 (STEAM_0:1:119864290): 
+Tue Jul 30 15:48:11 2019	Dio was killed by jtroll1942 with a fas2_m4a1
+Tue Jul 30 15:48:13 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 30 15:50:18 2019	William (STEAM_0:0:52504530): !warn
+Tue Jul 30 15:50:32 2019	William (STEAM_0:0:52504530): !warn
+Tue Jul 30 15:54:19 2019	William (STEAM_0:0:52504530): 
+Tue Jul 30 15:58:32 2019	William (STEAM_0:0:52504530): /setmoney william 100000
+Tue Jul 30 15:58:32 2019	William (STEAM_0:0:52504530) set Derp's money to $100,000
+Tue Jul 30 15:58:34 2019	William (STEAM_0:0:52504530): 
+Tue Jul 30 15:59:09 2019	jtroll1942 (STEAM_0:1:119864290): 
+Tue Jul 30 15:59:11 2019	William (STEAM_0:0:52504530): 
+Tue Jul 30 15:59:23 2019	Dio (STEAM_0:0:497465680): /dropmoney 5000
+Tue Jul 30 15:59:24 2019	Dio (STEAM_0:0:497465680) has dropped $5,000
+Tue Jul 30 15:59:47 2019	William (STEAM_0:0:52504530): 
+Tue Jul 30 16:01:14 2019	William (STEAM_0:0:52504530): !leancfg
+Tue Jul 30 16:01:15 2019	Dio was killed by jtroll1942 with a fas2_m4a1
+Tue Jul 30 16:01:19 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 30 16:03:01 2019	Dio was killed by jtroll1942 with a fas2_m4a1
+Tue Jul 30 16:03:04 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 30 16:04:15 2019	Dio was killed by jtroll1942 with a fas2_m4a1
+Tue Jul 30 16:04:17 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 30 16:07:58 2019	William (STEAM_0:0:52504530): the time has come
+Tue Jul 30 16:08:27 2019	William (STEAM_0:0:52504530): !hp jtroll 100
+Tue Jul 30 16:08:52 2019	Dio was killed by jtroll1942 with a fas2_m4a1
+Tue Jul 30 16:08:54 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 30 16:09:16 2019	jtroll1942 was killed by Dio with a fas2_famas
+Tue Jul 30 16:09:18 2019	jtroll1942 (STEAM_0:1:119864290) spawned
+Tue Jul 30 16:09:32 2019	Dio was killed by William with a fas2_uzi
+Tue Jul 30 16:09:34 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 30 16:09:47 2019	William was killed by jtroll1942 with a fas2_m4a1
+Tue Jul 30 16:09:49 2019	William (STEAM_0:0:52504530) spawned
+Tue Jul 30 16:09:53 2019	jtroll1942 was killed by Dio with a fas2_uzi
+Tue Jul 30 16:09:55 2019	jtroll1942 (STEAM_0:1:119864290) spawned
+Tue Jul 30 16:10:33 2019	William (STEAM_0:0:52504530): /ooc yeah but these are just for the purge u know how much money people make and u can buy shipments of guns
+Tue Jul 30 16:11:10 2019	Dio was killed by jtroll1942 with a fas2_m4a1
+Tue Jul 30 16:11:13 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 30 16:11:25 2019	jtroll1942 was killed by Dio with a fas2_rk95
+Tue Jul 30 16:11:28 2019	jtroll1942 (STEAM_0:1:119864290) spawned
+Tue Jul 30 16:11:40 2019	Dio was killed by jtroll1942 with a fas2_m4a1
+Tue Jul 30 16:11:44 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 30 16:11:58 2019	jtroll1942 was killed by Dio with a fas2_rk95
+Tue Jul 30 16:12:01 2019	jtroll1942 (STEAM_0:1:119864290) spawned
+Tue Jul 30 16:12:21 2019	jtroll1942 was killed by Dio with a fas2_rk95
+Tue Jul 30 16:12:23 2019	jtroll1942 (STEAM_0:1:119864290) spawned
+Tue Jul 30 16:12:30 2019	William (STEAM_0:0:52504530): /ooc ok how about 2000 points per kill
+Tue Jul 30 16:12:35 2019	jtroll1942 was killed by Dio with a fas2_rk95
+Tue Jul 30 16:12:45 2019	jtroll1942 (STEAM_0:1:119864290): dio what gun is that
+Tue Jul 30 16:12:46 2019	jtroll1942 (STEAM_0:1:119864290) spawned
+Tue Jul 30 16:12:51 2019	Dio (STEAM_0:0:497465680): /ooc sounds good
+Tue Jul 30 16:12:51 2019	jtroll1942 (STEAM_0:1:119864290): dio what gun is that
+Tue Jul 30 16:13:09 2019	Dio was killed by jtroll1942 with a fas2_m4a1
+Tue Jul 30 16:13:17 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 30 16:13:39 2019	Dio was killed by jtroll1942 with a fas2_m4a1
+Tue Jul 30 16:13:42 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 30 16:13:44 2019	William was killed by jtroll1942 with a fas2_m4a1
+Tue Jul 30 16:13:50 2019	William (STEAM_0:0:52504530) spawned
+Tue Jul 30 16:14:00 2019	Dio was killed by jtroll1942 with a fas2_m4a1
+Tue Jul 30 16:14:02 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 30 16:14:17 2019	jtroll1942 was killed by Dio with a fas2_rk95
+Tue Jul 30 16:14:19 2019	jtroll1942 (STEAM_0:1:119864290) spawned
+Tue Jul 30 16:14:30 2019	Dio was killed by William with a fas2_ak12
+Tue Jul 30 16:14:33 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 30 16:14:36 2019	jtroll1942 (STEAM_0:1:119864290): dio you can come out of spawn shooting
+Tue Jul 30 16:14:40 2019	jtroll1942 (STEAM_0:1:119864290): cant
+Tue Jul 30 16:14:49 2019	William (STEAM_0:0:52504530): ok
+Tue Jul 30 16:14:50 2019	jtroll1942 was killed by Dio with a fas2_rk95
+Tue Jul 30 16:14:53 2019	jtroll1942 (STEAM_0:1:119864290) spawned
+Tue Jul 30 16:14:57 2019	William (STEAM_0:0:52504530): the new purge stuff is updated
+Tue Jul 30 16:15:02 2019	William (STEAM_0:0:52504530): 2000 points per kill now
+Tue Jul 30 16:15:24 2019	William (STEAM_0:0:52504530): 
+Tue Jul 30 16:15:28 2019	jtroll1942 was killed by Dio with a fas2_rk95
+Tue Jul 30 16:15:31 2019	jtroll1942 (STEAM_0:1:119864290) spawned
+Tue Jul 30 16:15:34 2019	William (STEAM_0:0:52504530): can i do a map restart
+Tue Jul 30 16:15:43 2019	jtroll1942 was killed by Dio with a fas2_rk95
+Tue Jul 30 16:15:46 2019	jtroll1942 (STEAM_0:1:119864290) spawned
+Tue Jul 30 16:16:00 2019	Dio was killed by jtroll1942 with a fas2_m4a1
+Tue Jul 30 16:16:02 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 30 16:16:11 2019	William (STEAM_0:0:52504530): hes building while we are testing lmao
+Tue Jul 30 16:16:34 2019	William (STEAM_0:0:52504530): u can try saving ur building
+Tue Jul 30 16:16:36 2019	William (STEAM_0:0:52504530): with adv dupe
+Tue Jul 30 16:16:46 2019	jtroll1942 was killed by Dio with a fas2_famas
+Tue Jul 30 16:16:48 2019	jtroll1942 (STEAM_0:1:119864290) spawned
+Tue Jul 30 16:17:04 2019	William was killed by jtroll1942 with a fas2_ks23
+Tue Jul 30 16:17:09 2019	William (STEAM_0:0:52504530) spawned
+Tue Jul 30 16:18:06 2019	jtroll1942 (STEAM_0:1:119864290): /drop wepon
+Tue Jul 30 16:18:29 2019	jtroll1942 (STEAM_0:1:119864290): /drop wepon
+Tue Jul 30 16:21:09 2019	William (STEAM_0:0:52504530): 
+Tue Jul 30 16:21:18 2019	William (STEAM_0:0:52504530): 
+Tue Jul 30 16:22:17 2019	William (STEAM_0:0:52504530): are u done with ur base
+Tue Jul 30 16:22:35 2019	William (STEAM_0:0:52504530): i have to do a map restart
+Tue Jul 30 16:22:46 2019	William (STEAM_0:0:52504530): rip
+Tue Jul 30 16:22:51 2019	William (STEAM_0:0:52504530): well dio
+Tue Jul 30 16:22:59 2019	William (STEAM_0:0:52504530): he will just have to build again lmao
+Tue Jul 30 16:23:03 2019	William was killed by jtroll1942 with a fas2_ks23

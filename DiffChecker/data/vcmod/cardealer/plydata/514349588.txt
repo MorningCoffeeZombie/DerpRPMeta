@@ -1,0 +1,23 @@
+{
+	"Vehicles": {
+		"models/tdmcars/mitsu_evox.mdl$$$_VC_$$$Mitsubishi Lancer Evolution X GSR$$$_VC_$$$0": {
+			"DamagedObjects": {
+				"light": {
+					"8": [],
+					"19": [],
+					"18": [],
+					"17": [],
+					"16": [],
+					"15": [],
+					"9": []
+				},
+				"wheel": [
+					[],
+					[]
+				]
+			},
+			"Health": 65.0614,
+			"Fuel": 99.0
+		}
+	}
+}

@@ -1,0 +1,1 @@
+[{"Data":{"Amount":1.0,"Clip1":64.0,"Ammo":128.0,"Class":"fas2_pp19","Model":"models/weapons/w_smg_biz.mdl"},"Class":"spawned_weapon"}]

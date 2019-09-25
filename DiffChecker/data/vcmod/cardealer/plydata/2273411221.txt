@@ -1,0 +1,57 @@
+{
+	"Vehicles": {
+		"models/tdmcars/emergency/for_crownvic.mdl$$$_VC_$$$Ford Crown Victoria$$$_VC_$$$0": {
+			"Health": 99.8045,
+			"Fuel": 99.0,
+			"DamagedObjects": {
+				"light": {
+					"11": [],
+					"12": [],
+					"13": [],
+					"14": [],
+					"15": []
+				}
+			}
+		},
+		"models/tdmcars/for_f100.mdl$$$_VC_$$$Ford F100$$$_VC_$$$0": {
+			"Fuel": 99.0,
+			"Health": 100.0
+		},
+		"models/tdmcars/emergency/chargersrt8.mdl$$$_VC_$$$Dodge Charger SRT8 Police$$$_VC_$$$1": {
+			"DamagedObjects": {
+				"light": {
+					"14": []
+				},
+				"exhaust": {
+					"2": []
+				}
+			},
+			"Health": 99.0933,
+			"Fuel": 97.0,
+			"Spawned": 1506.0
+		},
+		"models/tdmcars/ktm_xbow.mdl$$$_VC_$$$KTM X-BOW$$$_VC_$$$0": {
+			"Fuel": 98.0,
+			"Health": 92.5693
+		},
+		"models/tdmcars/for_she_gt500.mdl$$$_VC_$$$Ford Shelby GT500$$$_VC_$$$0": {
+			"Health": 98.7209,
+			"Fuel": 99.0,
+			"DamagedObjects": {
+				"light": {
+					"3": [],
+					"6": [],
+					"7": [],
+					"8": [],
+					"9": [],
+					"10": [],
+					"11": []
+				},
+				"exhaust": {
+					"4": [],
+					"3": []
+				}
+			}
+		}
+	}
+}

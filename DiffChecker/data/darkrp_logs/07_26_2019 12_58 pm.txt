@@ -1,0 +1,368 @@
+Fri Jul 26 12:58:05 2019	Derp (B-day) (STEAM_0:0:52504530) has joined the game
+Fri Jul 26 12:58:05 2019	William (STEAM_0:0:52504530) spawned
+Fri Jul 26 12:58:27 2019	William (STEAM_0:0:52504530): 
+Fri Jul 26 12:58:35 2019	Doof (STEAM_0:1:426762407) has joined the game
+Fri Jul 26 12:58:35 2019	Doof (STEAM_0:1:426762407) spawned
+Fri Jul 26 12:58:41 2019	Sukebena-Chan (STEAM_0:1:63382511) has joined the game
+Fri Jul 26 12:58:41 2019	Sukebena-Chan~ (STEAM_0:1:63382511) spawned
+Fri Jul 26 12:59:11 2019	Sukebena-Chan~ (STEAM_0:1:63382511): !slap @ 0
+Fri Jul 26 12:59:38 2019	Sukebena-Chan~ (STEAM_0:1:63382511): !jail @ 0
+Fri Jul 26 12:59:44 2019	Sukebena-Chan~ (STEAM_0:1:63382511): !unjail doof
+Fri Jul 26 12:59:47 2019	William (STEAM_0:0:52504530): we have become a stronger race than before
+Fri Jul 26 12:59:53 2019	Sukebena-Chan~ (STEAM_0:1:63382511): !slap @ 0
+Fri Jul 26 13:00:15 2019	Sukebena-Chan~ (STEAM_0:1:63382511): !slap @ 0
+Fri Jul 26 13:00:24 2019	William (STEAM_0:0:52504530): right now its an admin only weapon
+Fri Jul 26 13:01:30 2019	William (STEAM_0:0:52504530): thats from naruto
+Fri Jul 26 13:01:51 2019	Doof (STEAM_0:1:426762407): !unbox
+Fri Jul 26 13:02:01 2019	Sukebena-Chan~ (STEAM_0:1:63382511): !slap @ 0
+Fri Jul 26 13:02:04 2019	Doof was killed by William with a weapon_ninjaskunai
+Fri Jul 26 13:02:07 2019	Doof (STEAM_0:1:426762407) spawned
+Fri Jul 26 13:02:10 2019	Sukebena-Chan~ was killed by William with a weapon_ninjaskunai
+Fri Jul 26 13:02:12 2019	Sukebena-Chan~ (STEAM_0:1:63382511) spawned
+Fri Jul 26 13:02:20 2019	William (STEAM_0:0:52504530): lmao
+Fri Jul 26 13:02:30 2019	William (STEAM_0:0:52504530): ur permabanned
+Fri Jul 26 13:02:35 2019	William (STEAM_0:0:52504530): 
+Fri Jul 26 13:02:57 2019	William (STEAM_0:0:52504530): bex
+Fri Jul 26 13:03:02 2019	William (STEAM_0:0:52504530): whats ur real name
+Fri Jul 26 13:03:09 2019	William (STEAM_0:0:52504530): first name
+Fri Jul 26 13:03:16 2019	William (STEAM_0:0:52504530): because i dont like calling people by their steam names
+Fri Jul 26 13:03:27 2019	William (STEAM_0:0:52504530): well
+Fri Jul 26 13:03:28 2019	William (STEAM_0:0:52504530): what is it
+Fri Jul 26 13:03:39 2019	William (STEAM_0:0:52504530): brandon
+Fri Jul 26 13:03:48 2019	William (STEAM_0:0:52504530): ok BRANDON
+Fri Jul 26 13:04:07 2019	William (STEAM_0:0:52504530): /pm suke if u wanna look at the new logs and edit ur physgun stuff type !gas
+Fri Jul 26 13:04:17 2019	Sukebena-Chan~ (STEAM_0:1:63382511): !slap @ 0
+Fri Jul 26 13:04:21 2019	Sukebena-Chan~ (STEAM_0:1:63382511): !slap @ 0
+Fri Jul 26 13:04:23 2019	William (STEAM_0:0:52504530): /pm suke gmod admin suite
+Fri Jul 26 13:04:27 2019	Sukebena-Chan~ (STEAM_0:1:63382511): 
+Fri Jul 26 13:04:33 2019	Sukebena-Chan~ (STEAM_0:1:63382511): 
+Fri Jul 26 13:04:38 2019	William (STEAM_0:0:52504530): old logs are now gone
+Fri Jul 26 13:04:39 2019	Hitman Doof accepted a hit on William, ordered by Sukebena-Chan~ for $25,000
+Fri Jul 26 13:04:41 2019	Sukebena-Chan~ (STEAM_0:1:63382511): !logs
+Fri Jul 26 13:04:45 2019	William (STEAM_0:0:52504530): new logs are here
+Fri Jul 26 13:04:46 2019	Sukebena-Chan~ (STEAM_0:1:63382511): 
+Fri Jul 26 13:04:59 2019	Hit on William failed. Reason: The hitman changed team!
+Fri Jul 26 13:05:05 2019	William (STEAM_0:0:52504530): /police 
+Fri Jul 26 13:05:14 2019	Bot01 (BOT) has joined the game
+Fri Jul 26 13:05:14 2019	Bot01 (BOT) spawned
+Fri Jul 26 13:05:23 2019	Sukebena-Chan~ was killed by Himself with a suicide trick
+Fri Jul 26 13:05:25 2019	Sukebena-Chan~ (STEAM_0:1:63382511) spawned
+Fri Jul 26 13:05:34 2019	William (STEAM_0:0:52504530): brandon
+Fri Jul 26 13:05:38 2019	William (STEAM_0:0:52504530): become a robber
+Fri Jul 26 13:05:38 2019	Sukebena-Chan~ (STEAM_0:1:63382511): !slap @ 0
+Fri Jul 26 13:05:51 2019	William (STEAM_0:0:52504530) spawned SENT jewelryrobbery_glass_stand
+Fri Jul 26 13:05:53 2019	William (STEAM_0:0:52504530) spawned SENT jewelryrobbery_glass_long
+Fri Jul 26 13:05:56 2019	William (STEAM_0:0:52504530) spawned SENT jewelryrobbery_glass_corner
+Fri Jul 26 13:05:59 2019	William (STEAM_0:0:52504530): can u break that
+Fri Jul 26 13:06:24 2019	William (STEAM_0:0:52504530): its starting to crack
+Fri Jul 26 13:06:52 2019	Sukebena-Chan~ (STEAM_0:1:63382511): !slap @ 0
+Fri Jul 26 13:06:52 2019	William (STEAM_0:0:52504530): can u take anything?
+Fri Jul 26 13:06:58 2019	William (STEAM_0:0:52504530) spawned SENT jewelryrobbery_bag
+Fri Jul 26 13:07:09 2019	William (STEAM_0:0:52504530): put on the bag
+Fri Jul 26 13:07:18 2019	William (STEAM_0:0:52504530) spawned SENT jewelryrobbery_bag
+Fri Jul 26 13:07:27 2019	Sukebena-Chan~ (STEAM_0:1:63382511): !slap @ 0
+Fri Jul 26 13:07:29 2019	William (STEAM_0:0:52504530): ok listen
+Fri Jul 26 13:07:31 2019	William (STEAM_0:0:52504530): i gotta go eat
+Fri Jul 26 13:07:32 2019	William (STEAM_0:0:52504530): ill be back later
+Fri Jul 26 13:07:37 2019	William was killed by Himself with a suicide trick
+Fri Jul 26 13:07:40 2019	Doof was killed by Sukebena-Chan~ with a fas2_sks
+Fri Jul 26 13:07:42 2019	Doof (STEAM_0:1:426762407) spawned
+Fri Jul 26 13:07:50 2019	William (STEAM_0:0:52504530) spawned
+Fri Jul 26 13:07:55 2019	Bot01 (BOT) disconnected
+Fri Jul 26 13:07:56 2019	Doof was killed by Himself with a suicide trick
+Fri Jul 26 13:07:58 2019	Doof (STEAM_0:1:426762407) spawned
+Fri Jul 26 13:07:59 2019	Sukebena-Chan~ (STEAM_0:1:63382511): // bruh
+Fri Jul 26 13:08:45 2019	Doof was killed by Sukebena-Chan~ with a fas2_sks
+Fri Jul 26 13:08:47 2019	Doof (STEAM_0:1:426762407) spawned
+Fri Jul 26 13:09:16 2019	Doof was killed by Sukebena-Chan~ with a fas2_sks
+Fri Jul 26 13:09:18 2019	Doof (STEAM_0:1:426762407) spawned
+Fri Jul 26 13:09:46 2019	Doof was killed by Sukebena-Chan~ with a fas2_sks
+Fri Jul 26 13:09:48 2019	Doof (STEAM_0:1:426762407) spawned
+Fri Jul 26 13:09:51 2019	Doof was killed by Himself with a suicide trick
+Fri Jul 26 13:09:51 2019	Sukebena-Chan~ (STEAM_0:1:63382511): !slay doof
+Fri Jul 26 13:09:53 2019	Doof (STEAM_0:1:426762407) spawned
+Fri Jul 26 13:09:53 2019	Sukebena-Chan~ (STEAM_0:1:63382511): !bring doof
+Fri Jul 26 13:09:55 2019	Sukebena-Chan~ (STEAM_0:1:63382511): !slap @ 0
+Fri Jul 26 13:09:56 2019	Sukebena-Chan~ (STEAM_0:1:63382511): !slap @ 0
+Fri Jul 26 13:10:26 2019	Doof (STEAM_0:1:426762407) spawned Vehicle prop_vehicle_jeep (cit_2cvtdm)
+Fri Jul 26 13:10:39 2019	Doof was killed by Sukebena-Chan~ with a fas2_sks
+Fri Jul 26 13:10:42 2019	Doof (STEAM_0:1:426762407) spawned
+Fri Jul 26 13:12:48 2019	Sukebena-Chan~ (STEAM_0:1:63382511) spawned Vehicle prop_vehicle_jeep (dod_ram_1500tdm)
+Fri Jul 26 13:13:05 2019	Doof (STEAM_0:1:426762407) spawned Vehicle prop_vehicle_jeep (dod_ram_1500tdm)
+Fri Jul 26 13:13:13 2019	Doof was killed by Sukebena-Chan~ with a fas2_sks
+Fri Jul 26 13:13:15 2019	Doof (STEAM_0:1:426762407) spawned
+Fri Jul 26 13:13:28 2019	Doof was killed by Sukebena-Chan~ with a prop_vehicle_jeep
+Fri Jul 26 13:13:31 2019	Doof (STEAM_0:1:426762407) spawned
+Fri Jul 26 13:14:21 2019	Doof was killed by Himself with a suicide trick
+Fri Jul 26 13:14:23 2019	Doof (STEAM_0:1:426762407) spawned
+Fri Jul 26 13:14:38 2019	Sukebena-Chan~ (STEAM_0:1:63382511): !slap @ 0
+Fri Jul 26 13:14:39 2019	Doof was killed by Himself with a suicide trick
+Fri Jul 26 13:14:41 2019	Doof (STEAM_0:1:426762407) spawned
+Fri Jul 26 13:14:43 2019	Doof was killed by Sukebena-Chan~ with a fas2_sks
+Fri Jul 26 13:14:45 2019	Doof (STEAM_0:1:426762407) spawned
+Fri Jul 26 13:14:46 2019	Doof was killed by Sukebena-Chan~ with a fas2_sks
+Fri Jul 26 13:14:48 2019	Doof (STEAM_0:1:426762407) spawned
+Fri Jul 26 13:14:50 2019	Doof was killed by Sukebena-Chan~ with a fas2_sks
+Fri Jul 26 13:14:56 2019	Doof (STEAM_0:1:426762407) spawned
+Fri Jul 26 13:14:57 2019	Doof was killed by Sukebena-Chan~ with a fas2_sks
+Fri Jul 26 13:14:59 2019	Doof (STEAM_0:1:426762407) spawned
+Fri Jul 26 13:15:57 2019	Sukebena-Chan~ was killed by Doof with a fas2_p226
+Fri Jul 26 13:15:59 2019	Doof was killed by Himself with a suicide trick
+Fri Jul 26 13:15:59 2019	Sukebena-Chan~ (STEAM_0:1:63382511): !slay doof
+Fri Jul 26 13:16:01 2019	Sukebena-Chan~ (STEAM_0:1:63382511) spawned
+Fri Jul 26 13:16:16 2019	Doof (STEAM_0:1:426762407) spawned
+Fri Jul 26 13:16:33 2019	Doof was killed by Sukebena-Chan~ with a fas2_rem870
+Fri Jul 26 13:16:39 2019	Doof (STEAM_0:1:426762407) spawned
+Fri Jul 26 13:17:21 2019	Doof was killed by Himself with a suicide trick
+Fri Jul 26 13:17:21 2019	Sukebena-Chan~ (STEAM_0:1:63382511): !slay @
+Fri Jul 26 13:17:23 2019	Doof (STEAM_0:1:426762407) spawned
+Fri Jul 26 13:17:58 2019	Doof was killed by Sukebena-Chan~ with a fas2_rem870
+Fri Jul 26 13:18:00 2019	Doof (STEAM_0:1:426762407) spawned
+Fri Jul 26 13:18:27 2019	Doof was killed by Sukebena-Chan~ with a fas2_rem870
+Fri Jul 26 13:18:29 2019	Doof (STEAM_0:1:426762407) spawned
+Fri Jul 26 13:19:18 2019	Doof was killed by Sukebena-Chan~ with a fas2_rem870
+Fri Jul 26 13:19:20 2019	Doof (STEAM_0:1:426762407) spawned
+Fri Jul 26 13:20:38 2019	Sukebena-Chan~ (STEAM_0:1:63382511): !slap @ 0
+Fri Jul 26 13:20:41 2019	Doof was killed by Sukebena-Chan~ with a fas2_rem870
+Fri Jul 26 13:20:43 2019	Doof (STEAM_0:1:426762407) spawned
+Fri Jul 26 13:20:46 2019	Sukebena-Chan~ (STEAM_0:1:63382511): !bring doof
+Fri Jul 26 13:20:51 2019	Sukebena-Chan~ (STEAM_0:1:63382511): !slay doof
+Fri Jul 26 13:21:45 2019	Doof was killed by Sukebena-Chan~ with a fas2_rem870
+Fri Jul 26 13:21:47 2019	Doof (STEAM_0:1:426762407) spawned
+Fri Jul 26 13:22:02 2019	Sukebena-Chan~ (STEAM_0:1:63382511): !slap @ 0
+Fri Jul 26 13:22:03 2019	Sukebena-Chan~ (STEAM_0:1:63382511): !slap @ 0
+Fri Jul 26 13:22:04 2019	Sukebena-Chan~ (STEAM_0:1:63382511): !slap @ 0
+Fri Jul 26 13:22:05 2019	Sukebena-Chan~ (STEAM_0:1:63382511): !slap @ 0
+Fri Jul 26 13:22:06 2019	Sukebena-Chan~ (STEAM_0:1:63382511): !slap @ 0
+Fri Jul 26 13:22:07 2019	Sukebena-Chan~ (STEAM_0:1:63382511): !slap @ 0
+Fri Jul 26 13:22:09 2019	Sukebena-Chan~ (STEAM_0:1:63382511): !slap @ 0
+Fri Jul 26 13:22:11 2019	Sukebena-Chan~ (STEAM_0:1:63382511): !slap @ 0
+Fri Jul 26 13:22:11 2019	Sukebena-Chan~ (STEAM_0:1:63382511): !slap @ 0
+Fri Jul 26 13:22:12 2019	Sukebena-Chan~ (STEAM_0:1:63382511): !slap @ 0
+Fri Jul 26 13:22:13 2019	Sukebena-Chan~ (STEAM_0:1:63382511): !slap @ 0
+Fri Jul 26 13:22:14 2019	Sukebena-Chan~ (STEAM_0:1:63382511): !slap @ 0
+Fri Jul 26 13:22:14 2019	Sukebena-Chan~ (STEAM_0:1:63382511): !slap @ 0
+Fri Jul 26 13:22:16 2019	Sukebena-Chan~ (STEAM_0:1:63382511): !slap @ 0
+Fri Jul 26 13:22:17 2019	Sukebena-Chan~ (STEAM_0:1:63382511): !slap @ 0
+Fri Jul 26 13:22:18 2019	Sukebena-Chan~ (STEAM_0:1:63382511): !slap @ 0
+Fri Jul 26 13:22:19 2019	Sukebena-Chan~ (STEAM_0:1:63382511): !slap @ 0
+Fri Jul 26 13:22:19 2019	Sukebena-Chan~ (STEAM_0:1:63382511): !menu
+Fri Jul 26 13:22:38 2019	Sukebena-Chan~ (STEAM_0:1:63382511): !slap @ 0
+Fri Jul 26 13:22:40 2019	Sukebena-Chan~ (STEAM_0:1:63382511): !slap @ 0
+Fri Jul 26 13:23:01 2019	Doof (STEAM_0:1:426762407) spawned Vehicle prop_vehicle_jeep (cit_2cvtdm)
+Fri Jul 26 13:24:36 2019	Sukebena-Chan~ (STEAM_0:1:63382511) spawned SENT keypad
+Fri Jul 26 13:24:36 2019	Sukebena-Chan~ (STEAM_0:1:63382511) spawned SENT keypad
+Fri Jul 26 13:25:15 2019	Sukebena-Chan~ was killed by Doof with a fas2_p226
+Fri Jul 26 13:25:18 2019	Doof was killed by Himself with a suicide trick
+Fri Jul 26 13:25:18 2019	Sukebena-Chan~ (STEAM_0:1:63382511): !slay doof
+Fri Jul 26 13:25:19 2019	Sukebena-Chan~ (STEAM_0:1:63382511) spawned
+Fri Jul 26 13:25:20 2019	Doof (STEAM_0:1:426762407) spawned
+Fri Jul 26 13:25:21 2019	Sukebena-Chan~ was killed by Himself with a suicide trick
+Fri Jul 26 13:25:23 2019	Sukebena-Chan~ (STEAM_0:1:63382511) spawned
+Fri Jul 26 13:25:31 2019	Sukebena-Chan~ (STEAM_0:1:63382511): !menu
+Fri Jul 26 13:26:38 2019	Doof was killed by Sukebena-Chan~ with a fas2_sks
+Fri Jul 26 13:26:40 2019	Doof (STEAM_0:1:426762407) spawned
+Fri Jul 26 13:26:41 2019	Sukebena-Chan~ (STEAM_0:1:63382511): !menu
+Fri Jul 26 13:32:38 2019	Doof was killed by Sukebena-Chan~ with a fas2_sks
+Fri Jul 26 13:32:41 2019	Doof (STEAM_0:1:426762407) spawned
+Fri Jul 26 13:33:15 2019	Sukebena-Chan~ (STEAM_0:1:63382511): !menu
+Fri Jul 26 13:34:03 2019	Doof was killed by Sukebena-Chan~ with a fas2_sks
+Fri Jul 26 13:34:27 2019	Doof (STEAM_0:1:426762407) spawned
+Fri Jul 26 13:35:16 2019	Sukebena-Chan~ (STEAM_0:1:63382511): !bring doof
+Fri Jul 26 13:36:01 2019	William (STEAM_0:0:52504530): this is so fucking petty
+Fri Jul 26 13:36:22 2019	William (STEAM_0:0:52504530): man said no crouch bases? alright ill make a fucking acid trip base
+Fri Jul 26 13:36:32 2019	Sukebena-Chan~ (STEAM_0:1:63382511): !jail @ 0
+Fri Jul 26 13:36:35 2019	Sukebena-Chan~ (STEAM_0:1:63382511): !unjail doof
+Fri Jul 26 13:36:42 2019	William (STEAM_0:0:52504530): 
+Fri Jul 26 13:38:03 2019	Doof was killed by Himself with a suicide trick
+Fri Jul 26 13:38:03 2019	Sukebena-Chan~ (STEAM_0:1:63382511): !slay doof
+Fri Jul 26 13:38:06 2019	Doof (STEAM_0:1:426762407) spawned
+Fri Jul 26 13:38:13 2019	William (STEAM_0:0:52504530): alright i updated the rules
+Fri Jul 26 13:38:21 2019	Sukebena-Chan~ (STEAM_0:1:63382511): !motd
+Fri Jul 26 13:38:37 2019	William (STEAM_0:0:52504530): there arent any
+Fri Jul 26 13:38:47 2019	Sukebena-Chan~ (STEAM_0:1:63382511): !bring doof
+Fri Jul 26 13:38:56 2019	William (STEAM_0:0:52504530): im squid hopping
+Fri Jul 26 13:39:03 2019	William (STEAM_0:0:52504530): squid hopping
+Fri Jul 26 13:39:11 2019	William (STEAM_0:0:52504530): squid hopping is the new trend in the server
+Fri Jul 26 13:39:53 2019	William (STEAM_0:0:52504530): im gonna go add the npcs
+Fri Jul 26 13:40:03 2019	Sukebena-Chan~ (STEAM_0:1:63382511): // oki doki
+Fri Jul 26 13:40:06 2019	William (STEAM_0:0:52504530) spawned SENT thd_npc
+Fri Jul 26 13:40:15 2019	William (STEAM_0:0:52504530) spawned SENT thd_npc
+Fri Jul 26 13:40:40 2019	Sukebena-Chan~ (STEAM_0:1:63382511): 
+Fri Jul 26 13:40:47 2019	Doof was killed by Himself with a suicide trick
+Fri Jul 26 13:40:47 2019	Sukebena-Chan~ (STEAM_0:1:63382511): !slay doof
+Fri Jul 26 13:40:49 2019	Doof (STEAM_0:1:426762407) spawned
+Fri Jul 26 13:40:55 2019	Sukebena-Chan~ (STEAM_0:1:63382511): !bring doof
+Fri Jul 26 13:41:43 2019	William (STEAM_0:0:52504530): 
+Fri Jul 26 13:42:00 2019	Sukebena-Chan~ (STEAM_0:1:63382511): !slap @ 0
+Fri Jul 26 13:42:01 2019	Sukebena-Chan~ (STEAM_0:1:63382511): !slap @ 0
+Fri Jul 26 13:42:24 2019	William (STEAM_0:0:52504530): 
+Fri Jul 26 13:42:59 2019	Doof was killed by Himself with a suicide trick
+Fri Jul 26 13:43:01 2019	Doof (STEAM_0:1:426762407) spawned
+Fri Jul 26 13:43:17 2019	Sukebena-Chan~ (STEAM_0:1:63382511): /unownalldoors
+Fri Jul 26 13:43:42 2019	Sukebena-Chan~ (STEAM_0:1:63382511): !slap @ 0
+Fri Jul 26 13:44:16 2019	William (STEAM_0:0:52504530) spawned SENT jewelryrobbery_jewelry
+Fri Jul 26 13:45:02 2019	William (STEAM_0:0:52504530) spawned SENT jewelryrobbery_glass_corner
+Fri Jul 26 13:45:04 2019	William (STEAM_0:0:52504530) spawned SENT jewelryrobbery_glass_long
+Fri Jul 26 13:45:06 2019	William (STEAM_0:0:52504530) spawned SENT jewelryrobbery_glass_long
+Fri Jul 26 13:45:12 2019	Sukebena-Chan~ (STEAM_0:1:63382511): !slap @ 0
+Fri Jul 26 13:45:19 2019	William (STEAM_0:0:52504530) spawned SENT jewelryrobbery_glass_corner
+Fri Jul 26 13:45:39 2019	William (STEAM_0:0:52504530) spawned SENT jewelryrobbery_glass_long
+Fri Jul 26 13:45:58 2019	William (STEAM_0:0:52504530) spawned SENT jewelryrobbery_blackmarket_npc
+Fri Jul 26 13:48:32 2019	William (STEAM_0:0:52504530) spawned SENT jewelryrobbery_glass_corner
+Fri Jul 26 13:48:41 2019	William (STEAM_0:0:52504530) spawned SENT jewelryrobbery_glass_corner
+Fri Jul 26 13:49:07 2019	Doof (STEAM_0:1:426762407): help
+Fri Jul 26 13:49:39 2019	William (STEAM_0:0:52504530) spawned SENT jewelryrobbery_glass_long
+Fri Jul 26 13:49:45 2019	Sukebena-Chan~ (STEAM_0:1:63382511) spawned SENT jewelryrobbery_glass_stand
+Fri Jul 26 13:49:47 2019	Sukebena-Chan~ (STEAM_0:1:63382511) spawned SENT jewelryrobbery_glass_long
+Fri Jul 26 13:50:18 2019	Doof (STEAM_0:1:426762407) spawned Vehicle prop_vehicle_jeep (cit_2cvtdm)
+Fri Jul 26 13:50:31 2019	Sukebena-Chan~ (STEAM_0:1:63382511) spawned SENT jewelryrobbery_blackmarket_npc
+Fri Jul 26 13:50:37 2019	Sukebena-Chan~ (STEAM_0:1:63382511) spawned SENT jewelryrobbery_blackmarket_npc
+Fri Jul 26 13:50:40 2019	William (STEAM_0:0:52504530) spawned SENT jewelryrobbery_glass_corner
+Fri Jul 26 13:50:41 2019	William (STEAM_0:0:52504530) spawned SENT jewelryrobbery_glass_long
+Fri Jul 26 13:50:46 2019	William (STEAM_0:0:52504530) spawned SENT jewelryrobbery_glass_stand
+Fri Jul 26 13:50:51 2019	William (STEAM_0:0:52504530) spawned SENT jewelryrobbery_glass_stand
+Fri Jul 26 13:50:53 2019	William (STEAM_0:0:52504530) spawned SENT jewelryrobbery_glass_stand
+Fri Jul 26 13:50:54 2019	William (STEAM_0:0:52504530) spawned SENT jewelryrobbery_glass_stand
+Fri Jul 26 13:51:09 2019	William (STEAM_0:0:52504530) spawned SENT jewelryrobbery_glass_stand
+Fri Jul 26 13:51:19 2019	William (STEAM_0:0:52504530) spawned SENT jewelryrobbery_glass_stand
+Fri Jul 26 13:51:22 2019	William (STEAM_0:0:52504530) spawned SENT jewelryrobbery_glass_corner
+Fri Jul 26 13:51:24 2019	William (STEAM_0:0:52504530) spawned SENT jewelryrobbery_glass_long
+Fri Jul 26 13:51:30 2019	William (STEAM_0:0:52504530) spawned SENT jewelryrobbery_glass_long
+Fri Jul 26 13:51:51 2019	Doof (STEAM_0:1:426762407) spawned Vehicle prop_vehicle_jeep (challenger70tdm)
+Fri Jul 26 13:52:25 2019	Sukebena-Chan~ (STEAM_0:1:63382511) spawned SENT jewelryrobbery_glass_long
+Fri Jul 26 13:54:25 2019	Doof was killed by Himself with a suicide trick
+Fri Jul 26 13:54:27 2019	Doof (STEAM_0:1:426762407) spawned
+Fri Jul 26 13:54:52 2019	Sukebena-Chan~ (STEAM_0:1:63382511): /drop
+Fri Jul 26 13:55:37 2019	Sukebena-Chan~ (STEAM_0:1:63382511): !slap @ 0
+Fri Jul 26 13:56:19 2019	Sukebena-Chan~ (STEAM_0:1:63382511): /drop
+Fri Jul 26 13:59:19 2019	Sukebena-Chan~ (STEAM_0:1:63382511): 
+Fri Jul 26 13:59:23 2019	Doof was killed by Himself with a suicide trick
+Fri Jul 26 13:59:25 2019	Doof (STEAM_0:1:426762407) spawned
+Fri Jul 26 14:00:00 2019	William (STEAM_0:0:52504530) spawned SENT jewelryrobbery_blackmarket_npc
+Fri Jul 26 14:00:52 2019	Sukebena-Chan~ was killed by Entity [0][worldspawn] with a unknown
+Fri Jul 26 14:00:52 2019	William (STEAM_0:0:52504530) spawned SENT jewelryrobbery_blackmarket_npc
+Fri Jul 26 14:00:55 2019	Sukebena-Chan~ (STEAM_0:1:63382511) spawned
+Fri Jul 26 14:01:29 2019	William (STEAM_0:0:52504530): !save_jewelryrob
+Fri Jul 26 14:02:11 2019	William (STEAM_0:0:52504530) spawned SENT jewelryrobbery_alarm_1
+Fri Jul 26 14:02:59 2019	William (STEAM_0:0:52504530) spawned SENT jewelryrobbery_blackmarket_npc
+Fri Jul 26 14:03:09 2019	William (STEAM_0:0:52504530) spawned SENT jewelryrobbery_blackmarket_npc
+Fri Jul 26 14:03:11 2019	William (STEAM_0:0:52504530) spawned SENT jewelryrobbery_blackmarket_npc
+Fri Jul 26 14:03:14 2019	William (STEAM_0:0:52504530): !save_jewelryrob
+Fri Jul 26 14:04:11 2019	Sukebena-Chan~ (STEAM_0:1:63382511): !slap @ 0
+Fri Jul 26 14:05:20 2019	Sukebena-Chan~ (STEAM_0:1:63382511): 
+Fri Jul 26 14:07:57 2019	William (STEAM_0:0:52504530): !save_jewelryrob
+Fri Jul 26 14:07:58 2019	Doof (STEAM_0:1:426762407): help
+Fri Jul 26 14:09:54 2019	Doof (STEAM_0:1:426762407) spawned Vehicle prop_vehicle_jeep (challenger70tdm)
+Fri Jul 26 14:10:13 2019	Doof (STEAM_0:1:426762407) spawned Vehicle prop_vehicle_jeep (challenger70tdm)
+Fri Jul 26 14:11:46 2019	William (STEAM_0:0:52504530) spawned Vehicle prop_vehicle_jeep (civic97tdm)
+Fri Jul 26 14:12:51 2019	William (STEAM_0:0:52504530) spawned SENT vc_pickup_tire
+Fri Jul 26 14:13:33 2019	William (STEAM_0:0:52504530): yeah its pretty awesome
+Fri Jul 26 14:13:39 2019	Sukebena-Chan~ (STEAM_0:1:63382511): !slap @ 0
+Fri Jul 26 14:13:49 2019	Doof was killed by Sukebena-Chan~ with a weapon_stunstick
+Fri Jul 26 14:13:52 2019	Doof (STEAM_0:1:426762407) spawned
+Fri Jul 26 14:13:53 2019	Sukebena-Chan~ (STEAM_0:1:63382511): !menu
+Fri Jul 26 14:14:37 2019	Doof (STEAM_0:1:426762407) spawned Vehicle prop_vehicle_jeep (cit_2cvtdm)
+Fri Jul 26 14:15:59 2019	William (STEAM_0:0:52504530) spawned SENT vc_pickup_fuel_petrol
+Fri Jul 26 14:16:42 2019	William (STEAM_0:0:52504530): i know
+Fri Jul 26 14:16:47 2019	William (STEAM_0:0:52504530): i have no clue as to why that happens
+Fri Jul 26 14:16:57 2019	William (STEAM_0:0:52504530): i dont even know what that is
+Fri Jul 26 14:17:04 2019	William (STEAM_0:0:52504530): is that for mud?
+Fri Jul 26 14:17:19 2019	William (STEAM_0:0:52504530): /setmoney william 9999999999
+Fri Jul 26 14:17:19 2019	William (STEAM_0:0:52504530) set Derp (B-day)'s money to $9,999,999,999
+Fri Jul 26 14:17:25 2019	William (STEAM_0:0:52504530) spawned Vehicle prop_vehicle_jeep (cit_2cvtdm)
+Fri Jul 26 14:17:51 2019	William (STEAM_0:0:52504530): that one is brand new and it drives fine
+Fri Jul 26 14:18:14 2019	William (STEAM_0:0:52504530): why
+Fri Jul 26 14:18:29 2019	William (STEAM_0:0:52504530): what the hell just happened
+Fri Jul 26 14:21:15 2019	William (STEAM_0:0:52504530) spawned Vehicle prop_vehicle_jeep (cit_2cvtdm)
+Fri Jul 26 14:22:03 2019	William (STEAM_0:0:52504530) spawned SENT vc_pickup_fuel_petrol
+Fri Jul 26 14:22:06 2019	William (STEAM_0:0:52504530) spawned SENT vc_pickup_fuel_petrol
+Fri Jul 26 14:22:26 2019	William (STEAM_0:0:52504530): i think it glitches out sometimes with the tires
+Fri Jul 26 14:22:39 2019	William (STEAM_0:0:52504530): and im pretty sure the only way to solve that is by breaking ur tires and repairing them
+Fri Jul 26 14:23:44 2019	Sukebena-Chan~ (STEAM_0:1:63382511): // imma go for rn
+Fri Jul 26 14:23:48 2019	William (STEAM_0:0:52504530): ok
+Fri Jul 26 14:23:51 2019	Sukebena-Chan~ (STEAM_0:1:63382511): gg
+Fri Jul 26 14:23:53 2019	William (STEAM_0:0:52504530): gg
+Fri Jul 26 14:23:56 2019	Sukebena-Chan~ (STEAM_0:1:63382511): !slap doof 0
+Fri Jul 26 14:23:59 2019	Sukebena-Chan~ (STEAM_0:1:63382511) disconnected
+Fri Jul 26 14:24:02 2019	William (STEAM_0:0:52504530): hes fucking gone
+Fri Jul 26 14:24:10 2019	William (STEAM_0:0:52504530): he slapped u too
+Fri Jul 26 14:24:16 2019	William (STEAM_0:0:52504530): big oof
+Fri Jul 26 14:24:58 2019	William (STEAM_0:0:52504530): is there anything specific u want on the server? an addon or thing u saw in another server that really made u amazed or kept y
+Fri Jul 26 14:25:02 2019	William (STEAM_0:0:52504530): you busy in a fun way
+Fri Jul 26 14:25:25 2019	William (STEAM_0:0:52504530): i think so far the server is pretty much done we just need more players
+Fri Jul 26 14:25:33 2019	William (STEAM_0:0:52504530): ik
+Fri Jul 26 14:25:43 2019	William (STEAM_0:0:52504530): i just need to finish up on some jobs and that should be it
+Fri Jul 26 14:25:58 2019	William (STEAM_0:0:52504530): ill lower it to 2
+Fri Jul 26 14:26:03 2019	William (STEAM_0:0:52504530): OH NO
+Fri Jul 26 14:26:12 2019	William (STEAM_0:0:52504530): big ripperino
+Fri Jul 26 14:26:15 2019	Doof was killed by Himself with a suicide trick
+Fri Jul 26 14:26:18 2019	Doof (STEAM_0:1:426762407) spawned
+Fri Jul 26 14:26:28 2019	William (STEAM_0:0:52504530) spawned SENT jewelryrobbery_glass_long
+Fri Jul 26 14:26:37 2019	William (STEAM_0:0:52504530): i think so
+Fri Jul 26 14:26:45 2019	William (STEAM_0:0:52504530): im not gonna restart it yet
+Fri Jul 26 14:26:47 2019	William (STEAM_0:0:52504530): i still have to make jobs
+Fri Jul 26 14:27:09 2019	William (STEAM_0:0:52504530): i would do that but the problem is that everyone earns money too fast if i allow that
+Fri Jul 26 14:27:23 2019	William (STEAM_0:0:52504530): and then literally in like 1 day u can get enough money to buy everything on the server like 5 times
+Fri Jul 26 14:27:39 2019	William (STEAM_0:0:52504530): ik its annoying to collect money but unfortunately it has to be done like that
+Fri Jul 26 14:28:14 2019	William (STEAM_0:0:52504530): are u excited for halo reach on PC?
+Fri Jul 26 14:28:30 2019	William (STEAM_0:0:52504530) spawned SENT jewelryrobbery_glass_long
+Fri Jul 26 14:28:38 2019	William (STEAM_0:0:52504530): thats why u gotta kill ur parents
+Fri Jul 26 14:28:51 2019	William (STEAM_0:0:52504530): is that fine?
+Fri Jul 26 14:28:58 2019	William (STEAM_0:0:52504530) spawned SENT jewelryrobbery_glass_long
+Fri Jul 26 14:29:13 2019	William (STEAM_0:0:52504530): it shouldnt
+Fri Jul 26 14:29:15 2019	Doof was killed by Himself with a suicide trick
+Fri Jul 26 14:29:15 2019	William (STEAM_0:0:52504530): i did the save command
+Fri Jul 26 14:29:17 2019	Doof (STEAM_0:1:426762407) spawned
+Fri Jul 26 14:29:18 2019	William (STEAM_0:0:52504530): hes fucking dead
+Fri Jul 26 14:29:41 2019	William (STEAM_0:0:52504530): that would make no sense lol
+Fri Jul 26 14:29:50 2019	William (STEAM_0:0:52504530): because there isnt a lock
+Fri Jul 26 14:30:02 2019	William (STEAM_0:0:52504530): this makes me want to play payday 2
+Fri Jul 26 14:30:13 2019	William (STEAM_0:0:52504530): but imma wait for payday 3
+Fri Jul 26 14:30:16 2019	William (STEAM_0:0:52504530): its already in development
+Fri Jul 26 14:30:25 2019	William (STEAM_0:0:52504530): im gonna be dead by the time it comes out
+Fri Jul 26 14:30:34 2019	William (STEAM_0:0:52504530) spawned SENT jewelryrobbery_glass_long
+Fri Jul 26 14:30:35 2019	William (STEAM_0:0:52504530): oh shit
+Fri Jul 26 14:31:15 2019	William (STEAM_0:0:52504530): that would be so fucking disastrous 
+Fri Jul 26 14:31:28 2019	William (STEAM_0:0:52504530): people would be flying and they would be blowing up shit
+Fri Jul 26 14:31:38 2019	William (STEAM_0:0:52504530): !save_jewelryrob
+Fri Jul 26 14:31:44 2019	William (STEAM_0:0:52504530): lol
+Fri Jul 26 14:31:49 2019	William (STEAM_0:0:52504530) spawned NPC npc_citizen
+Fri Jul 26 14:31:57 2019	William (STEAM_0:0:52504530) spawned NPC npc_citizen
+Fri Jul 26 14:32:02 2019	William (STEAM_0:0:52504530): do not worry about that npc
+Fri Jul 26 14:32:06 2019	William (STEAM_0:0:52504530) spawned NPC npc_citizen
+Fri Jul 26 14:32:20 2019	William (STEAM_0:0:52504530): i was asked to put that fucking model in my server
+Fri Jul 26 14:32:30 2019	William (STEAM_0:0:52504530): connor
+Fri Jul 26 14:32:38 2019	William (STEAM_0:0:52504530): IM_THE_DANGER
+Fri Jul 26 14:32:40 2019	William (STEAM_0:0:52504530): thats his steam name
+Fri Jul 26 14:32:47 2019	William (STEAM_0:0:52504530): sure
+Fri Jul 26 14:33:30 2019	William (STEAM_0:0:52504530): wow what a terrific story
+Fri Jul 26 14:34:12 2019	William (STEAM_0:0:52504530): fucking plot twist
+Fri Jul 26 14:34:31 2019	William (STEAM_0:0:52504530): how old are you
+Fri Jul 26 14:34:35 2019	William (STEAM_0:0:52504530): ah
+Fri Jul 26 14:34:48 2019	William (STEAM_0:0:52504530): no id rather u donate money so i can fund the server
+Fri Jul 26 14:35:00 2019	William (STEAM_0:0:52504530): ill be taking ur credit card information now
+Fri Jul 26 14:35:10 2019	William (STEAM_0:0:52504530): let me get those 5 cents in ur bank account
+Fri Jul 26 14:35:20 2019	William (STEAM_0:0:52504530): ur getting permabanned now
+Fri Jul 26 14:35:22 2019	William (STEAM_0:0:52504530): KID
+Fri Jul 26 14:35:23 2019	Doof was killed by Himself with a suicide trick
+Fri Jul 26 14:35:25 2019	William (STEAM_0:0:52504530): NOOOOOOOOOOOOO
+Fri Jul 26 14:35:26 2019	Doof (STEAM_0:1:426762407) spawned
+Fri Jul 26 14:35:29 2019	William (STEAM_0:0:52504530): oh wow
+Fri Jul 26 14:35:31 2019	William (STEAM_0:0:52504530): thats really cool
+Fri Jul 26 14:35:40 2019	William (STEAM_0:0:52504530): lmao
+Fri Jul 26 14:35:58 2019	William (STEAM_0:0:52504530): do u have any suggestions for VIP jobs
+Fri Jul 26 14:36:08 2019	William (STEAM_0:0:52504530): ye
+Fri Jul 26 14:36:17 2019	William (STEAM_0:0:52504530): we already have a professional robber
+Fri Jul 26 14:36:18 2019	William (STEAM_0:0:52504530): so
+Fri Jul 26 14:36:38 2019	William (STEAM_0:0:52504530): not bad
+Fri Jul 26 14:36:57 2019	William (STEAM_0:0:52504530): should i make swat VIP?
+Fri Jul 26 14:37:13 2019	William (STEAM_0:0:52504530): because swat is pretty much a police officer but like 10x stronger
+Fri Jul 26 14:37:44 2019	William (STEAM_0:0:52504530): i first need to see if it stays when i restart the server
+Fri Jul 26 14:37:51 2019	William (STEAM_0:0:52504530): if it does then u can break
+Fri Jul 26 14:37:59 2019	Doof was killed by Himself with a suicide trick
+Fri Jul 26 14:38:02 2019	Doof (STEAM_0:1:426762407) spawned
+Fri Jul 26 14:38:22 2019	William (STEAM_0:0:52504530): imma restart and then im gonna change stuff so it might break the F4 menu for a bit
+Fri Jul 26 14:38:30 2019	William (STEAM_0:0:52504530): but ill let u rob the store anyways
+Fri Jul 26 14:38:36 2019	William (STEAM_0:0:52504530): so lets see what happens 
+Fri Jul 26 14:38:46 2019	William (STEAM_0:0:52504530): anything for u little cunt

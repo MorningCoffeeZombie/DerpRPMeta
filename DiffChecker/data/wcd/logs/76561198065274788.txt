@@ -1,0 +1,9 @@
+19:14:04 - 10/09/2019:
+BOUGHT vehicle '517307' for $100,000.
+
+03:33:33 - 31/08/2019:
+BOUGHT vehicle '463900' for $35,000.
+
+03:31:31 - 31/08/2019:
+ BOUGHT DESIGN for vehicle '821833', cost: $$0.
+

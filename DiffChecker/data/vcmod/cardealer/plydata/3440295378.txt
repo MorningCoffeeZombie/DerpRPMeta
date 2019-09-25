@@ -1,0 +1,8 @@
+{
+	"Vehicles": {
+		"models/tdmcars/emergency/for_taurus_13.mdl$$$_VC_$$$Ford Taurus 2013$$$_VC_$$$1": {
+			"Health": 99.7109,
+			"Fuel": 99.0
+		}
+	}
+}

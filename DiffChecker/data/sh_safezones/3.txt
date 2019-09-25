@@ -1,0 +1,1 @@
+{"points":["[-1453.0313 378 -195.9688]","[-1991.9688 953.9375 -195.9688]"],"shape":1.0,"opts":{"namecolor":"52,1522,2129","ptime":45.0,"noprop":true,"noatk":true,"entermsg":"","nonpc":false,"pusg":"","hud":true,"noveh":false,"name":"Cop Spawn","leavemsg":""},"date":1563678739.0,"creator":"STEAM_0:0:52504530","size":184.0,"map":"rp_downtown_tits_v2"}

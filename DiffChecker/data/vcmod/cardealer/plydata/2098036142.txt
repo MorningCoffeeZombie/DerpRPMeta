@@ -1,0 +1,15 @@
+{
+	"Vehicles": {
+		"models/tdmcars/hon_crxsir.mdl$$$_VC_$$$Honda CR-X SiR$$$_VC_$$$0": {
+			"DamagedObjects": {
+				"light": {
+					"11": [],
+					"12": []
+				}
+			},
+			"Health": 86.5412,
+			"Fuel": 99.0,
+			"Spawned": 1464.0
+		}
+	}
+}

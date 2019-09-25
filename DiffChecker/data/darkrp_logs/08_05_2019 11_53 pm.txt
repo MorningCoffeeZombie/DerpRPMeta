@@ -1,0 +1,21 @@
+Mon Aug  5 23:53:43 2019	DrDerpenstein sups.gg (STEAM_0:0:13562763) has joined the game
+Mon Aug  5 23:53:43 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Mon Aug  5 23:54:04 2019	Derp (STEAM_0:0:52504530) has joined the game
+Mon Aug  5 23:54:04 2019	William (STEAM_0:0:52504530) spawned
+Mon Aug  5 23:55:16 2019	DrDerpenstein was killed by Himself with a suicide trick
+Mon Aug  5 23:55:18 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Mon Aug  5 23:56:00 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Mon Aug  5 23:56:14 2019	William (STEAM_0:0:52504530) spawned Vehicle prop_vehicle_prisoner_pod (Chair_Wood)
+Tue Aug  6 00:01:46 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_weedblock
+Tue Aug  6 00:02:54 2019	DrDerpenstein (STEAM_0:0:13562763): /
+Tue Aug  6 00:02:55 2019	DrDerpenstein was killed by Himself with a suicide trick
+Tue Aug  6 00:02:58 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Tue Aug  6 00:04:54 2019	William (STEAM_0:0:52504530): 
+Tue Aug  6 00:05:05 2019	William (STEAM_0:0:52504530): 
+Tue Aug  6 00:05:14 2019	DrDerpenstein (STEAM_0:0:13562763): !itles
+Tue Aug  6 00:05:17 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Aug  6 00:11:04 2019	DrDerpenstein was killed by Himself with a suicide trick
+Tue Aug  6 00:11:06 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Tue Aug  6 00:12:25 2019	William (STEAM_0:0:52504530): 
+Tue Aug  6 00:12:29 2019	William (STEAM_0:0:52504530): 
+Tue Aug  6 00:13:31 2019	DrDerpenstein (STEAM_0:0:13562763) disconnected

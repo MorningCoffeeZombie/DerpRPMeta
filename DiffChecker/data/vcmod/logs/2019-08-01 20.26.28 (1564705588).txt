@@ -1,0 +1,84 @@
+2019-08-01 20.26.28: <General> Logging started, map: rp_downtown_tits_v2.
+2019-08-01 20.26.28: <General> Welcome to VCMod Auto-Updater version 9.61.
+2019-08-01 20.26.28: <General> Pre-initialization complete, preparing to load addon data.
+2019-08-01 20.26.28: <General> Addons found: VCMod ELS, VCMod Main.
+2019-08-01 20.27.09: <General> Preparations started. Server needs to have atleast one player on it for preparations to continue.
+2019-08-01 20.27.14: <General> Preparations are complete, handshaking API.
+2019-08-01 20.27.16: <General> Handshake successful.
+2019-08-01 20.27.16: <General> Handshake finished.
+2019-08-01 20.27.17: <General> Contacting preload API.
+2019-08-01 20.27.18: <General> Initializing preload.
+2019-08-01 20.27.18: <General> Preload finished. Initializing addons.
+2019-08-01 20.27.18: <General> Started loading serverside.
+2019-08-01 20.27.18: <General> Loaded Main v1.737 serverside.
+2019-08-01 20.27.18: <General> Loaded ELS v1.1426 serverside.
+2019-08-01 20.27.18: <General> Finished loading serverside.
+2019-08-01 20.27.19: <General> All repair man NPC's have been placed on the map.
+2019-08-01 20.27.19: <Repair man> all Repair men have been placed on the map.
+2019-08-01 20.27.23: <General> Scanning for potentially incompatible hooks.
+2019-08-01 20.27.23: <General> No incompatibilities found.
+2019-08-01 20.27.23: <General> General vehicle data is up to date.
+2019-08-01 20.27.23: <Fuel> All fuel stations have been respawned.
+2019-08-01 20.28.19: <General> Player William has loaded and is waiting for a temp-key.
+2019-08-01 20.28.20: <General> Sent API key to player William. 99 keys left.
+2019-08-01 20.28.20: <General> Initializing player William.
+2019-08-01 20.29.40: <General> Player Turtle has loaded and is waiting for a temp-key.
+2019-08-01 20.29.41: <General> Sent API key to player Turtle. 98 keys left.
+2019-08-01 20.29.41: <General> Initializing player Turtle.
+2019-08-01 20.47.33: <General> Player NUT has loaded and is waiting for a temp-key.
+2019-08-01 20.47.34: <General> Sent API key to player NUT. 97 keys left.
+2019-08-01 20.47.34: <General> Initializing player NUT.
+2019-08-01 20.59.59: <General> Player The Companion Cube has loaded and is waiting for a temp-key.
+2019-08-01 21.00.00: <General> Sent API key to player The Companion Cube. 96 keys left.
+2019-08-01 21.00.00: <General> Initializing player The Companion Cube.
+2019-08-01 21.01.36: <General> Player NUT has loaded and is waiting for a temp-key.
+2019-08-01 21.01.36: <General> Sent API key to player NUT. 95 keys left.
+2019-08-01 21.01.36: <General> Initializing player NUT.
+2019-08-01 21.05.32: <General> Player NUT has loaded and is waiting for a temp-key.
+2019-08-01 21.05.33: <General> Sent API key to player NUT. 94 keys left.
+2019-08-01 21.05.33: <General> Initializing player NUT.
+2019-08-01 21.11.48: <Car dealer> Player: The Companion Cube(76561198148858124) has sold a vehicle Dodge RAM 1500 (TDM Cars) from Car dealer called: "Vroom-Vroom Dealer" for 333000.
+2019-08-01 21.12.28: <Car dealer> Player: The Companion Cube(76561198148858124) has spawned a vehicle Mitsubishi Lancer Evolution X GSR (TDM Cars) from Car dealer called: "Vroom-Vroom Dealer".
+2019-08-01 21.12.37: <General> Vehicle data "Mitsubishi Lancer Evolution X GSR" loaded.
+2019-08-01 21.14.54: <General> Player NUT has loaded and is waiting for a temp-key.
+2019-08-01 21.14.55: <General> Sent API key to player NUT. 93 keys left.
+2019-08-01 21.14.55: <General> Initializing player NUT.
+2019-08-01 21.21.40: <General> Player NUT has loaded and is waiting for a temp-key.
+2019-08-01 21.21.41: <General> Sent API key to player NUT. 92 keys left.
+2019-08-01 21.21.41: <General> Initializing player NUT.
+2019-08-01 21.22.18: <General> Player The Companion Cube has loaded and is waiting for a temp-key.
+2019-08-01 21.22.19: <General> Sent API key to player The Companion Cube. 91 keys left.
+2019-08-01 21.22.19: <General> Initializing player The Companion Cube.
+2019-08-01 21.35.15: <General> Player Dio has loaded and is waiting for a temp-key.
+2019-08-01 21.35.17: <General> Sent API key to player Dio. 90 keys left.
+2019-08-01 21.35.17: <General> Initializing player Dio.
+2019-08-01 21.38.16: <General> Player Dio has loaded and is waiting for a temp-key.
+2019-08-01 21.38.18: <General> Sent API key to player Dio. 89 keys left.
+2019-08-01 21.38.18: <General> Initializing player Dio.
+2019-08-01 22.03.23: <General> Player 6'8 350lb black man has loaded and is waiting for a temp-key.
+2019-08-01 22.03.23: <General> Sent API key to player 6'8 350lb black man. 88 keys left.
+2019-08-01 22.03.23: <General> Initializing player 6'8 350lb black man.
+2019-08-01 22.09.22: <General> Player 6'8 350lb black man has loaded and is waiting for a temp-key.
+2019-08-01 22.09.23: <General> Sent API key to player 6'8 350lb black man. 87 keys left.
+2019-08-01 22.09.23: <General> Initializing player 6'8 350lb black man.
+2019-08-01 22.12.22: <Car dealer> Player: Dio(76561198955197088) has bought a vehicle Ford Raptor SVT (TDM Cars) from Car dealer called: "Vroom-Vroom Dealer" for 2250000.
+2019-08-01 22.12.53: <Car dealer> Player: Dio(76561198955197088) has spawned a vehicle Ford Raptor SVT (TDM Cars) from Car dealer called: "Vroom-Vroom Dealer".
+2019-08-01 22.12.54: <General> Vehicle data "Ford Raptor SVT" loaded.
+2019-08-01 22.18.24: <General> detected a fuel station that was removed incorectly or its nozzle was missing, respawning all.
+2019-08-01 22.18.24: <Fuel> All fuel stations have been respawned.
+2019-08-01 22.41.29: <General> Vehicle data "Audi R8" loaded.
+2019-08-01 22.42.52: <General> Vehicle data "BMW Isetta 300 Export" loaded.
+2019-08-01 22.43.33: <General> Vehicle data "BMW 507" loaded.
+2019-08-01 22.55.27: <General> ERROR: state "HornOn (false)" failure! This is caused by a player requesting an update to this feature and server refusing it.
+2019-08-01 22.55.29: <General> ERROR: state "HornOn (false)" failure! This is caused by a player requesting an update to this feature and server refusing it.
+2019-08-01 22.55.29: <General> ERROR: state "HornOn (false)" failure! This is caused by a player requesting an update to this feature and server refusing it.
+2019-08-01 22.55.30: <General> ERROR: state "HornOn (false)" failure! This is caused by a player requesting an update to this feature and server refusing it.
+2019-08-01 22.55.30: <General> ERROR: state "HornOn (false)" failure! This is caused by a player requesting an update to this feature and server refusing it.
+2019-08-01 23.03.21: <General> Player abrienc12 has loaded and is waiting for a temp-key.
+2019-08-01 23.03.21: <General> Sent API key to player abrienc12. 86 keys left.
+2019-08-01 23.03.21: <General> Initializing player abrienc12.
+2019-08-01 23.07.29: <General> Vehicle data "Airboat" loaded.
+2019-08-01 23.07.29: <General> Vehicle data "Airboat" loaded.
+2019-08-01 23.29.22: <General> Player Parrasky has loaded and is waiting for a temp-key.
+2019-08-01 23.29.23: <General> Sent API key to player Parrasky. 85 keys left.
+2019-08-01 23.29.23: <General> Initializing player Parrasky.

@@ -1,0 +1,106 @@
+[17:06:22] New map: rp_downtown_tits_v2
+[17:06:32] Client "Derp" connected.
+[17:07:43] Client "Derp" spawned in server <STEAM_0:0:52504530> (took 71 seconds).
+
+
+
+[17:09:45] New map: rp_downtown_tits_v2
+[17:09:45] Client "Derp" connected.
+[17:09:45] Client "Derp" connected.
+[17:10:18] Client "Derp" spawned in server <STEAM_0:0:52504530> (took 33 seconds).
+
+
+
+[17:22:20] New map: rp_downtown_tits_v2
+[17:22:21] Client "Derp" connected.
+[17:22:21] Client "Derp" connected.
+[17:22:52] Client "Derp" spawned in server <STEAM_0:0:52504530> (took 31 seconds).
+[17:24:19] Derp<STEAM_0:0:52504530> spawned sent emotes_hologram
+[17:25:23] Derp<STEAM_0:0:52504530> spawned sent emotes_npc
+[17:25:26] Derp<STEAM_0:0:52504530> spawned sent emotes_npc
+
+
+
+[17:45:29] New map: rp_downtown_tits_v2
+[17:45:30] Client "Derp" connected.
+[17:45:30] Client "Derp" connected.
+[17:46:02] Client "Derp" spawned in server <STEAM_0:0:52504530> (took 32 seconds).
+[17:48:15] Dropped "Derp" from server<STEAM_0:0:52504530>
+[17:58:23] Client "Doof" connected.
+[18:03:05] Client "Doof" spawned in server <STEAM_0:1:426762407> (took 282 seconds).
+[18:04:08] Dropped "Doof" from server<STEAM_0:1:426762407>
+[18:09:35] Client "fwop.memes" connected.
+[18:11:51] Client "fwop.memes" spawned in server <STEAM_0:1:503236195> (took 136 seconds).
+[18:15:10] what are you doing step bro<STEAM_0:1:503236195> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[18:15:10] what are you doing step bro<STEAM_0:1:503236195> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:15:10] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x6x025.mdl
+[18:15:10] what are you doing step bro<STEAM_0:1:503236195> spawned model models/props_c17/fence02b.mdl
+[18:15:10] what are you doing step bro<STEAM_0:1:503236195> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:15:10] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x6x025.mdl
+[18:15:10] what are you doing step bro<STEAM_0:1:503236195> spawned model models/props_c17/fence02b.mdl
+[18:15:10] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x6x025.mdl
+[18:15:10] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x1x025.mdl
+[18:15:10] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x2x025.mdl
+[18:15:10] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x2x025.mdl
+[18:15:10] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x4x025.mdl
+[18:15:10] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x1x025.mdl
+[18:15:10] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x6x025.mdl
+[18:15:10] what are you doing step bro<STEAM_0:1:503236195> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:15:10] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x3x025.mdl
+[18:15:10] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x2x025.mdl
+[18:15:10] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x4x025.mdl
+[18:15:10] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x2x025.mdl
+[18:15:10] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x6x025.mdl
+[18:15:11] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x6x025.mdl
+[18:15:11] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x6x025.mdl
+[18:15:11] what are you doing step bro<STEAM_0:1:503236195> spawned model models/props_c17/fence02b.mdl
+[18:15:11] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x2x025.mdl
+[18:15:11] what are you doing step bro<STEAM_0:1:503236195> spawned model models/props_c17/fence02b.mdl
+[18:15:11] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x6x025.mdl
+[18:15:11] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x2x025.mdl
+[18:15:11] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x3x025.mdl
+[18:15:11] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x3x025.mdl
+[18:15:11] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x6x025.mdl
+[18:15:11] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x3x025.mdl
+[18:15:11] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x3x025.mdl
+[18:15:11] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x1x025.mdl
+[18:15:11] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x3x025.mdl
+[18:15:11] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x1x025.mdl
+[18:15:11] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x6x025.mdl
+[18:15:11] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x6x025.mdl
+[18:15:11] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x3x025.mdl
+[18:15:11] what are you doing step bro<STEAM_0:1:503236195> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:15:11] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x4x025.mdl
+[18:15:11] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x2x025.mdl
+[18:15:11] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x6x025.mdl
+[18:15:11] what are you doing step bro<STEAM_0:1:503236195> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:15:11] what are you doing step bro<STEAM_0:1:503236195> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:15:11] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x1x025.mdl
+[18:15:11] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x2x025.mdl
+[18:15:11] what are you doing step bro<STEAM_0:1:503236195> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:15:11] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x4x025.mdl
+[18:15:11] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x4x025.mdl
+[18:15:11] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x6x025.mdl
+[18:15:11] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x1x025.mdl
+[18:15:28] what are you doing step bro<STEAM_0:1:503236195> used the tool remover on models/hunter/blocks/cube025x3x025.mdl
+[18:15:38] what are you doing step bro<STEAM_0:1:503236195> spawned model models/props_lab/blastdoor001b.mdl
+[18:19:22] what are you doing step bro<STEAM_0:1:503236195> spawned vehicle models/sligwolf/gokart/sw_gokart.mdl
+[18:20:13] what are you doing step bro<STEAM_0:1:503236195> spawned vehicle models/sligwolf/snowmobile/snowmobile.mdl
+[18:42:19] what are you doing step bro<STEAM_0:1:503236195> spawned vehicle models/sligwolf/gokart/sw_gokart.mdl
+[18:43:09] what are you doing step bro<STEAM_0:1:503236195> spawned model models/props_lab/blastdoor001b.mdl
+[18:43:12] what are you doing step bro<STEAM_0:1:503236195> spawned model models/props_lab/blastdoor001b.mdl
+[18:43:13] what are you doing step bro<STEAM_0:1:503236195> spawned model models/props_lab/blastdoor001b.mdl
+[18:43:13] what are you doing step bro<STEAM_0:1:503236195> spawned model models/props_lab/blastdoor001b.mdl
+[18:43:14] what are you doing step bro<STEAM_0:1:503236195> spawned model models/props_lab/blastdoor001b.mdl
+[18:45:04] what are you doing step bro<STEAM_0:1:503236195> spawned vehicle models/sligwolf/motorbike/motorbike.mdl
+[18:46:08] what are you doing step bro<STEAM_0:1:503236195> spawned vehicle models/sligwolf/snowmobile/snowmobile.mdl
+[18:46:40] what are you doing step bro<STEAM_0:1:503236195> spawned vehicle models/sligwolf/motorbike/motorbike.mdl
+[18:47:17] what are you doing step bro<STEAM_0:1:503236195> spawned vehicle models/sligwolf/gokart/sw_gokart.mdl
+[18:47:39] what are you doing step bro<STEAM_0:1:503236195> spawned vehicle models/sligwolf/gokart/sw_gokart.mdl
+[18:48:41] what are you doing step bro suicided!
+[18:51:06] (TEAM) what are you doing step bro: /invholster
+[18:53:57] (TEAM) what are you doing step bro: /invholster
+[18:54:12] what are you doing step bro: /invholster
+[18:55:22] (TEAM) what are you doing step bro: /invholster
+[18:55:38] Dropped "what are you doing step bro" from server<STEAM_0:1:503236195>
+<Logging continued in "data/ulx_logs/09-06-19.txt">

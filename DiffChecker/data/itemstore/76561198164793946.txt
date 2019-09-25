@@ -1,0 +1,1 @@
+[{"Data":{"Amount":4.0,"Contents":10.0,"Class":"fas2_ks23"},"Class":"spawned_shipment"}]

@@ -1,0 +1,1 @@
+[{"Data":{"Amount":1.0,"Contents":1.0,"Class":"fas2_glock20"},"Class":"spawned_shipment"},{"Data":{"Amount":10.0,"Class":"fas2_glock20","Contents":1.0},"Class":"spawned_shipment"}]

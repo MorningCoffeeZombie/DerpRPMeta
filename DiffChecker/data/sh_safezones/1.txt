@@ -1,0 +1,1 @@
+{"points":["[-318.9688 -2152.9375 -194.9375]","[1340.9688 -366.9688 -192.125]"],"shape":1.0,"map":"rp_downtown_v4c_v2","date":1563076428.0,"creator":"STEAM_0:1:180622613","size":1024.0,"opts":{"namecolor":"522,152,219","ptime":5.0,"noprop":true,"noatk":true,"entermsg":"","leavemsg":"","pusg":"","name":"Spawn","noveh":true,"hud":true,"nonpc":true}}

@@ -1,0 +1,143 @@
+Tue Aug  6 22:37:38 2019	DrDerpenstein sups.gg (STEAM_0:0:13562763) has joined the game
+Tue Aug  6 22:37:38 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Tue Aug  6 22:38:12 2019	DevL (STEAM_0:0:97157625) has joined the game
+Tue Aug  6 22:38:12 2019	DevL (STEAM_0:0:97157625) spawned
+Tue Aug  6 22:39:31 2019	Derp (STEAM_0:0:52504530) has joined the game
+Tue Aug  6 22:39:31 2019	William (STEAM_0:0:52504530) spawned
+Tue Aug  6 22:39:38 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Aug  6 22:39:43 2019	DrDerpenstein (STEAM_0:0:13562763): /return DevL
+Tue Aug  6 22:40:33 2019	William (STEAM_0:0:52504530): hello
+Tue Aug  6 22:40:40 2019	William (STEAM_0:0:52504530): sorry for all of the restarts
+Tue Aug  6 22:40:44 2019	William (STEAM_0:0:52504530): lua is a pain in the ass
+Tue Aug  6 22:40:50 2019	William (STEAM_0:0:52504530): u make one tiny mistake and the entire shit comes down
+Tue Aug  6 22:41:02 2019	DevL (STEAM_0:0:97157625): )
+Tue Aug  6 22:41:04 2019	William (STEAM_0:0:52504530): pretty much
+Tue Aug  6 22:41:17 2019	DrDerpenstein (STEAM_0:0:13562763): /agenda test
+Tue Aug  6 22:41:35 2019	DrDerpenstein was killed by Himself with a suicide trick
+Tue Aug  6 22:41:40 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Tue Aug  6 22:41:40 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Aug  6 22:41:45 2019	DrDerpenstein (STEAM_0:0:13562763): /agenda test
+Tue Aug  6 22:41:47 2019	DrDerpenstein (STEAM_0:0:13562763): /agenda
+Tue Aug  6 22:41:47 2019	DevL was killed by Himself with a suicide trick
+Tue Aug  6 22:41:52 2019	William (STEAM_0:0:52504530): rip
+Tue Aug  6 22:41:54 2019	DevL (STEAM_0:0:97157625) spawned
+Tue Aug  6 22:42:12 2019	DevL (STEAM_0:0:97157625) spawned Vehicle prop_vehicle_airboat (Airboat)
+Tue Aug  6 22:42:15 2019	William (STEAM_0:0:52504530): i think we should try removing those dividers 
+Tue Aug  6 22:42:19 2019	William (STEAM_0:0:52504530): thats what line 218 was for me
+Tue Aug  6 22:42:33 2019	William (STEAM_0:0:52504530): um
+Tue Aug  6 22:43:01 2019	William (STEAM_0:0:52504530): from what we have seen it seems that any -- breaks the server lol
+Tue Aug  6 22:43:01 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Aug  6 22:43:21 2019	William (STEAM_0:0:52504530): anytime there is a -- in a file it just fucking demolishes it
+Tue Aug  6 22:43:23 2019	William (STEAM_0:0:52504530): no idea why tho
+Tue Aug  6 22:43:36 2019	William (STEAM_0:0:52504530): ikr
+Tue Aug  6 22:43:42 2019	William (STEAM_0:0:52504530): aight
+Tue Aug  6 22:43:51 2019	William (STEAM_0:0:52504530): alright
+Tue Aug  6 22:44:36 2019	DrDerpenstein (STEAM_0:0:13562763): /ad yo
+Tue Aug  6 22:45:58 2019	William was killed by Himself with a suicide trick
+Tue Aug  6 22:46:00 2019	William (STEAM_0:0:52504530) spawned
+Tue Aug  6 22:50:48 2019	jtroll1942 (STEAM_0:1:119864290) has joined the game
+Tue Aug  6 22:50:48 2019	jtroll19 (STEAM_0:1:119864290) spawned
+Tue Aug  6 22:52:04 2019	William (STEAM_0:0:52504530): can i use u as a test subject
+Tue Aug  6 22:52:25 2019	William (STEAM_0:0:52504530): walk inside that building and close the doors and stand in front of them but not literally touching them
+Tue Aug  6 22:52:52 2019	William (STEAM_0:0:52504530): lol
+Tue Aug  6 22:53:05 2019	William (STEAM_0:0:52504530): /pm devl they respawn after 5 minutes
+Tue Aug  6 22:53:13 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT ent_pwb2_assaultrifle_ammo
+Tue Aug  6 22:53:15 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT ent_pwb2_assaultrifle_ammo
+Tue Aug  6 22:53:15 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT ent_pwb2_handgun_ammo
+Tue Aug  6 22:53:16 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT ent_pwb2_shotgun_ammo
+Tue Aug  6 22:53:16 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT ent_pwb2_submachinegun_ammo
+Tue Aug  6 22:53:30 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT rj_molotov_ammo
+Tue Aug  6 22:53:33 2019	DevL (STEAM_0:0:97157625) spawned Vehicle prop_vehicle_jeep (dodgeramtdm)
+Tue Aug  6 22:53:42 2019	jtroll19 (STEAM_0:1:119864290) spawned Vehicle prop_vehicle_jeep (dod_ram_1500tdm)
+Tue Aug  6 22:53:44 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT rj_molotov_ammo
+Tue Aug  6 22:53:44 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT rj_molotov_ammo
+Tue Aug  6 22:53:45 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT rj_molotov_ammo
+Tue Aug  6 22:53:45 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT rj_molotov_ammo
+Tue Aug  6 22:53:45 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT rj_molotov_ammo
+Tue Aug  6 22:53:45 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT rj_molotov_ammo
+Tue Aug  6 22:53:45 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT rj_molotov_ammo
+Tue Aug  6 22:53:45 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT rj_molotov_ammo
+Tue Aug  6 22:53:55 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT rj_molotov_ammo
+Tue Aug  6 22:53:56 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT rj_molotov_ammo
+Tue Aug  6 22:53:56 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT rj_molotov_ammo
+Tue Aug  6 22:53:56 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT rj_molotov_ammo
+Tue Aug  6 22:53:56 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT rj_molotov_ammo
+Tue Aug  6 22:54:41 2019	DrDerpenstein was killed by Himself with a suicide trick
+Tue Aug  6 22:54:43 2019	William (STEAM_0:0:52504530): /swat
+Tue Aug  6 22:54:44 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Tue Aug  6 22:55:09 2019	DrDerpenstein was killed by Himself with a suicide trick
+Tue Aug  6 22:55:13 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Tue Aug  6 22:55:20 2019	William (STEAM_0:0:52504530): no its ok
+Tue Aug  6 22:55:30 2019	William (STEAM_0:0:52504530): no i really dont want to
+Tue Aug  6 22:55:46 2019	William (STEAM_0:0:52504530): i dont trust u jtroll
+Tue Aug  6 22:56:10 2019	William (STEAM_0:0:52504530): well u dont look very trusting
+Tue Aug  6 22:56:24 2019	William (STEAM_0:0:52504530): u have a pink scarf, crime scene tape on your face, and a fake afro
+Tue Aug  6 22:56:29 2019	William (STEAM_0:0:52504530): and ur in the mafia
+Tue Aug  6 22:56:39 2019	William (STEAM_0:0:52504530): looks like a bunch of cotton balls
+Tue Aug  6 22:56:46 2019	jtroll19 (STEAM_0:1:119864290): 
+Tue Aug  6 22:57:00 2019	William (STEAM_0:0:52504530): hmmm
+Tue Aug  6 22:57:11 2019	William (STEAM_0:0:52504530): alright now just type kill in console
+Tue Aug  6 22:57:21 2019	jtroll19 was killed by Himself with a suicide trick
+Tue Aug  6 22:57:23 2019	William (STEAM_0:0:52504530): there we go
+Tue Aug  6 22:57:24 2019	William (STEAM_0:0:52504530): now i trust u
+Tue Aug  6 22:57:29 2019	jtroll19 (STEAM_0:1:119864290) spawned
+Tue Aug  6 22:57:47 2019	William (STEAM_0:0:52504530): ur car is fucked lol
+Tue Aug  6 22:58:00 2019	DevL (STEAM_0:0:97157625): // DERP IS TOUCHING ME
+Tue Aug  6 22:58:02 2019	DrDerpenstein (STEAM_0:0:13562763): lol
+Tue Aug  6 22:58:04 2019	DrDerpenstein (STEAM_0:0:13562763): oops
+Tue Aug  6 22:58:06 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Tue Aug  6 22:58:06 2019	DevL (STEAM_0:0:97157625) spawned
+Tue Aug  6 22:58:06 2019	DevL (STEAM_0:0:97157625): // HELP
+Tue Aug  6 22:58:08 2019	DrDerpenstein (STEAM_0:0:13562763): when does it end
+Tue Aug  6 22:58:29 2019	William (STEAM_0:0:52504530): /wanted drderp child molester
+Tue Aug  6 22:58:29 2019	William has made DrDerpenstein wanted, reason: child molester
+Tue Aug  6 22:59:13 2019	William (STEAM_0:0:52504530): bet u cant guess who that kid is
+Tue Aug  6 22:59:23 2019	William (STEAM_0:0:52504530): it is me
+Tue Aug  6 22:59:30 2019	William (STEAM_0:0:52504530): bro i was rocking the glasses
+Tue Aug  6 22:59:34 2019	William (STEAM_0:0:52504530): back in like 2010
+Tue Aug  6 22:59:52 2019	William (STEAM_0:0:52504530): i was born with a smile that looks like that
+Tue Aug  6 22:59:57 2019	William (STEAM_0:0:52504530): i look very unsure when i smile
+Tue Aug  6 23:00:29 2019	DrDerpenstein is no longer wanted by the Police.
+Tue Aug  6 23:00:34 2019	DrDerpenstein was killed by Himself with a suicide trick
+Tue Aug  6 23:02:32 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Tue Aug  6 23:03:31 2019	William (STEAM_0:0:52504530): hi
+Tue Aug  6 23:05:18 2019	DevL was killed by DrDerpenstein with a fas2_ak12
+Tue Aug  6 23:05:23 2019	DevL (STEAM_0:0:97157625) spawned
+Tue Aug  6 23:05:44 2019	DevL (STEAM_0:0:97157625) spawned Vehicle prop_vehicle_airboat (Airboat)
+Tue Aug  6 23:06:52 2019	William (STEAM_0:0:52504530) disconnected
+Tue Aug  6 23:07:26 2019	Derp (STEAM_0:0:52504530) has joined the game
+Tue Aug  6 23:07:26 2019	William (STEAM_0:0:52504530) spawned
+Tue Aug  6 23:08:34 2019	jtroll19 (STEAM_0:1:119864290): /drop wepon
+Tue Aug  6 23:08:37 2019	DevL (STEAM_0:0:97157625): // ima go make an admin castle
+Tue Aug  6 23:08:41 2019	DevL (STEAM_0:0:97157625) disconnected
+Tue Aug  6 23:09:14 2019	William was killed by DrDerpenstein with a rj_molotov_hull
+Tue Aug  6 23:09:24 2019	William (STEAM_0:0:52504530) spawned
+Tue Aug  6 23:09:29 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_healthkit
+Tue Aug  6 23:09:30 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_healthkit
+Tue Aug  6 23:09:30 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_healthkit
+Tue Aug  6 23:09:30 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Tue Aug  6 23:09:31 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Tue Aug  6 23:09:31 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Tue Aug  6 23:09:31 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Tue Aug  6 23:09:31 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Tue Aug  6 23:09:31 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Tue Aug  6 23:09:31 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Tue Aug  6 23:09:32 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Tue Aug  6 23:09:43 2019	William (STEAM_0:0:52504530): what did u say 
+Tue Aug  6 23:09:49 2019	William (STEAM_0:0:52504530): yeah
+Tue Aug  6 23:10:15 2019	William (STEAM_0:0:52504530): molotov and the flamethrower are both workshop addons
+Tue Aug  6 23:10:16 2019	DrDerpenstein (STEAM_0:0:13562763): /drop
+Tue Aug  6 23:10:32 2019	William (STEAM_0:0:52504530): same with the fire
+Tue Aug  6 23:10:49 2019	William (STEAM_0:0:52504530): if u want i can send u the fire addon server commands and u can set them to ur liking
+Tue Aug  6 23:14:54 2019	William (STEAM_0:0:52504530): AAAAAAAAAAAAAAAAA
+Tue Aug  6 23:15:10 2019	William (STEAM_0:0:52504530): i extinguished the flames
+Tue Aug  6 23:19:01 2019	William (STEAM_0:0:52504530): // WHY
+Tue Aug  6 23:19:05 2019	William (STEAM_0:0:52504530): // WHY DOES HE KEEP COMING BACK
+Tue Aug  6 23:19:30 2019	William (STEAM_0:0:52504530): wait what
+Tue Aug  6 23:19:41 2019	William (STEAM_0:0:52504530): i did say that but lets not do that anymore
+Tue Aug  6 23:19:46 2019	William (STEAM_0:0:52504530): unless he does something annoying as fuck
+Tue Aug  6 23:19:55 2019	William (STEAM_0:0:52504530): which in that case go ahead and just smash his brains in
+Tue Aug  6 23:20:01 2019	DrDerpenstein (STEAM_0:0:13562763): // RESTARTING SERVER
+Tue Aug  6 23:20:03 2019	William was killed by Himself with a suicide trick
+Tue Aug  6 23:20:04 2019	DrDerpenstein (STEAM_0:0:13562763): // BEWARE
+Tue Aug  6 23:20:14 2019	William (STEAM_0:0:52504530) spawned

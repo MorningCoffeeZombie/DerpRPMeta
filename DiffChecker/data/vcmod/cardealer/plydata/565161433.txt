@@ -1,0 +1,22 @@
+{
+	"Vehicles": {
+		"models/tdmcars/emergency/mitsu_evox.mdl$$$_VC_$$$Mitsubishi Evo X Police$$$_VC_$$$0": {
+			"Health": 96.9399,
+			"DamagedObjects": {
+				"light": {
+					"26": [],
+					"5": [],
+					"7": [],
+					"28": [],
+					"27": [],
+					"25": [],
+					"6": []
+				},
+				"exhaust": {
+					"2": []
+				}
+			},
+			"Spawned": 1376.0
+		}
+	}
+}

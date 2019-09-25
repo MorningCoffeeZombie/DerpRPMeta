@@ -1,0 +1,580 @@
+Mon Jul 15 15:11:37 2019	Derp (STEAM_0:0:52504530) has joined the game
+Mon Jul 15 15:11:37 2019	Derp (STEAM_0:0:52504530) spawned
+Mon Jul 15 15:12:09 2019	Derp (STEAM_0:0:52504530) spawned Vehicle prop_vehicle_jeep (fer_lafertdm)
+Mon Jul 15 15:12:14 2019	Derp (STEAM_0:0:52504530) disconnected
+Mon Jul 15 15:12:36 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) has joined the game
+Mon Jul 15 15:12:36 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned
+Mon Jul 15 15:12:45 2019	LV (STEAM_0:0:460419170) has joined the game
+Mon Jul 15 15:12:45 2019	LV (STEAM_0:0:460419170) spawned
+Mon Jul 15 15:13:00 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !warnings
+Mon Jul 15 15:13:04 2019	Derp (STEAM_0:0:52504530) has joined the game
+Mon Jul 15 15:13:04 2019	Derp (STEAM_0:0:52504530) spawned
+Mon Jul 15 15:13:14 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !warnings
+Mon Jul 15 15:13:20 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !goto derp
+Mon Jul 15 15:13:27 2019	Derp (STEAM_0:0:52504530): i can see the cars now
+Mon Jul 15 15:13:31 2019	LV (STEAM_0:0:460419170) spawned Vehicle prop_vehicle_jeep (fer_lafertdm)
+Mon Jul 15 15:13:42 2019	Derp (STEAM_0:0:52504530): sorry about ur weed
+Mon Jul 15 15:13:49 2019	Derp (STEAM_0:0:52504530): do u forgive me
+Mon Jul 15 15:13:53 2019	LV (STEAM_0:0:460419170): i need repair
+Mon Jul 15 15:14:18 2019	Derp (STEAM_0:0:52504530): give me one sec
+Mon Jul 15 15:14:21 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // kk
+Mon Jul 15 15:14:24 2019	LV (STEAM_0:0:460419170): can you repair my vehicle i dont know how to
+Mon Jul 15 15:14:45 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned Vehicle prop_vehicle_jeep (fer_lafertdm)
+Mon Jul 15 15:15:01 2019	LV (STEAM_0:0:460419170): i cant see my car texture but i see yours
+Mon Jul 15 15:15:16 2019	LV (STEAM_0:0:460419170): thank you how do you do it3
+Mon Jul 15 15:15:19 2019	LV (STEAM_0:0:460419170): thank you how do you do it
+Mon Jul 15 15:15:29 2019	LV (STEAM_0:0:460419170): ok thank you
+Mon Jul 15 15:15:42 2019	LV (STEAM_0:0:460419170): want to grow weed toghter
+Mon Jul 15 15:15:45 2019	LV (STEAM_0:0:460419170): what
+Mon Jul 15 15:15:50 2019	LV (STEAM_0:0:460419170): can i have some
+Mon Jul 15 15:15:58 2019	Dio (STEAM_0:0:497465680) has joined the game
+Mon Jul 15 15:15:58 2019	Dio (STEAM_0:0:497465680) spawned
+Mon Jul 15 15:15:59 2019	LV (STEAM_0:0:460419170): i only have 10k on me
+Mon Jul 15 15:16:07 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): /dropmoney 100000
+Mon Jul 15 15:16:08 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) has dropped $100,000
+Mon Jul 15 15:16:10 2019	LV (STEAM_0:0:460419170): and 579k in inventory
+Mon Jul 15 15:16:14 2019	LV (STEAM_0:0:460419170): thank you
+Mon Jul 15 15:16:50 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // where you at
+Mon Jul 15 15:16:58 2019	LV (STEAM_0:0:460419170): // the old base
+Mon Jul 15 15:17:07 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // nah dude follow me
+Mon Jul 15 15:17:34 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): this shit
+Mon Jul 15 15:17:35 2019	LV (STEAM_0:0:460419170): open that door
+Mon Jul 15 15:17:36 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): has a lot of space
+Mon Jul 15 15:17:42 2019	LV (STEAM_0:0:460419170): /y for cars
+Mon Jul 15 15:17:44 2019	Dio (STEAM_0:0:497465680): nooooooooooooooooooooo
+Mon Jul 15 15:17:46 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // and weed
+Mon Jul 15 15:17:49 2019	Kaderator (STEAM_0:1:422793312) has joined the game
+Mon Jul 15 15:17:49 2019	Kaderator (STEAM_0:1:422793312) spawned
+Mon Jul 15 15:17:59 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // nah bring that down here
+Mon Jul 15 15:18:04 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // we growinnn weed up there
+Mon Jul 15 15:18:46 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): /pm lv let me get a generic base set up first
+Mon Jul 15 15:18:50 2019	LV (STEAM_0:0:460419170): ok
+Mon Jul 15 15:18:59 2019	LV (STEAM_0:0:460419170): i have a big base if you want to use it
+Mon Jul 15 15:19:14 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): /pm lv nah its fine
+Mon Jul 15 15:19:20 2019	LV (STEAM_0:0:460419170): /pm zooki ok
+Mon Jul 15 15:21:48 2019	LV (STEAM_0:0:460419170) spawned SENT zwf_autopacker
+Mon Jul 15 15:21:51 2019	LV (STEAM_0:0:460419170) spawned SENT zwf_pot_hydro
+Mon Jul 15 15:21:52 2019	LV (STEAM_0:0:460419170) spawned SENT zwf_pot_hydro
+Mon Jul 15 15:24:29 2019	LV (STEAM_0:0:460419170): does sks do more damage than the galil
+Mon Jul 15 15:24:41 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): I dont think so
+Mon Jul 15 15:24:48 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): Its dps is pretty low compared to galil
+Mon Jul 15 15:24:58 2019	LV (STEAM_0:0:460419170): can we test
+Mon Jul 15 15:25:02 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): No lol
+Mon Jul 15 15:25:05 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): the sks is a sniper dude
+Mon Jul 15 15:25:06 2019	LV (STEAM_0:0:460419170): the foot
+Mon Jul 15 15:25:08 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): nu
+Mon Jul 15 15:25:18 2019	LV (STEAM_0:0:460419170): shoot my foot
+Mon Jul 15 15:25:19 2019	LV (STEAM_0:0:460419170): once
+Mon Jul 15 15:25:26 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): Dude the sks is a sniper
+Mon Jul 15 15:25:30 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): and the galil is a rifle
+Mon Jul 15 15:25:34 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): They're different weapon types
+Mon Jul 15 15:25:40 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): The sks does more damage per bullet
+Mon Jul 15 15:25:42 2019	LV (STEAM_0:0:460419170): oh well we can defend like this
+Mon Jul 15 15:25:44 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): but the galil does more dps over all
+Mon Jul 15 15:26:25 2019	LV (STEAM_0:0:460419170): missclick
+Mon Jul 15 15:26:26 2019	Kaderator (STEAM_0:1:422793312): // Derp fix gold printer
+Mon Jul 15 15:26:34 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // What's wrong with gold?
+Mon Jul 15 15:26:42 2019	LV (STEAM_0:0:460419170): i need to test how fast i can shoot
+Mon Jul 15 15:26:48 2019	Kaderator (STEAM_0:1:422793312): // on the top
+Mon Jul 15 15:27:01 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): Trust me
+Mon Jul 15 15:27:05 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): Galil does more damage dude lol
+Mon Jul 15 15:27:06 2019	Kaderator (STEAM_0:1:422793312): // DerpRP Printera
+Mon Jul 15 15:27:08 2019	LV (STEAM_0:0:460419170): i know
+Mon Jul 15 15:27:09 2019	LV (STEAM_0:0:460419170): /invholster
+Mon Jul 15 15:27:10 2019	Kaderator (STEAM_0:1:422793312): i
+Mon Jul 15 15:27:22 2019	LV (STEAM_0:0:460419170): /invholster
+Mon Jul 15 15:28:36 2019	Derp (STEAM_0:0:52504530): what are u doing
+Mon Jul 15 15:28:47 2019	Derp (STEAM_0:0:52504530): nice setup
+Mon Jul 15 15:28:50 2019	Derp (STEAM_0:0:52504530): i see what ur trying to do
+Mon Jul 15 15:28:52 2019	Derp (STEAM_0:0:52504530): using the door
+Mon Jul 15 15:29:02 2019	Derp (STEAM_0:0:52504530): thats cool
+Mon Jul 15 15:29:14 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): /pm lv okay come here
+Mon Jul 15 15:29:15 2019	Derp (STEAM_0:0:52504530): i see
+Mon Jul 15 15:29:18 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): this is how it works
+Mon Jul 15 15:29:22 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): if someones raiding us
+Mon Jul 15 15:29:25 2019	Derp (STEAM_0:0:52504530): oh yeah im gonna add more guns to the dealer
+Mon Jul 15 15:29:31 2019	LV (STEAM_0:0:460419170): ok
+Mon Jul 15 15:29:33 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): yup
+Mon Jul 15 15:29:36 2019	LV (STEAM_0:0:460419170): what about
+Mon Jul 15 15:29:41 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): also
+Mon Jul 15 15:29:46 2019	Derp (STEAM_0:0:52504530): im gonna give the dealer like 3 more guns to sell
+Mon Jul 15 15:29:47 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): i made a little hole to where we could sell weed
+Mon Jul 15 15:29:52 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): ah shit
+Mon Jul 15 15:29:53 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): i got it
+Mon Jul 15 15:29:59 2019	Derp (STEAM_0:0:52504530): because 4 is not enough
+Mon Jul 15 15:30:05 2019	Kaderator (STEAM_0:1:422793312): // also how much is the last gold upgrade
+Mon Jul 15 15:30:12 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !goto kad
+Mon Jul 15 15:30:15 2019	Kaderator (STEAM_0:1:422793312): // diamond*
+Mon Jul 15 15:30:38 2019	Derp (STEAM_0:0:52504530): wtf happened
+Mon Jul 15 15:30:55 2019	Kaderator (STEAM_0:1:422793312): how much is the last upgrade for dia
+Mon Jul 15 15:31:02 2019	Derp (STEAM_0:0:52504530): u like that gun i gave u? 
+Mon Jul 15 15:31:07 2019	Kaderator (STEAM_0:1:422793312): 1 have 1m
+Mon Jul 15 15:31:09 2019	Kaderator (STEAM_0:1:422793312): 1 have 1m
+Mon Jul 15 15:31:13 2019	LV (STEAM_0:0:460419170): /pm zook where did you go
+Mon Jul 15 15:31:18 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): /pm lv helping someone
+Mon Jul 15 15:31:18 2019	Derp (STEAM_0:0:52504530): i see
+Mon Jul 15 15:31:44 2019	Derp (STEAM_0:0:52504530): do u think we should give dealers this gun
+Mon Jul 15 15:31:48 2019	Derp (STEAM_0:0:52504530): i gave it to u
+Mon Jul 15 15:31:49 2019	Kaderator (STEAM_0:1:422793312): it say DerpRp Printera
+Mon Jul 15 15:31:51 2019	Kaderator (STEAM_0:1:422793312): it say DerpRp Printera
+Mon Jul 15 15:31:57 2019	Kaderator (STEAM_0:1:422793312): not Printers
+Mon Jul 15 15:32:15 2019	Kaderator (STEAM_0:1:422793312): yea
+Mon Jul 15 15:32:17 2019	Derp (STEAM_0:0:52504530): alright ill add it to the list
+Mon Jul 15 15:32:22 2019	Kaderator (STEAM_0:1:422793312): nope
+Mon Jul 15 15:32:33 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !return zook
+Mon Jul 15 15:32:57 2019	Derp (STEAM_0:0:52504530): no thats just the startup animation
+Mon Jul 15 15:32:59 2019	LV (STEAM_0:0:460419170): what did you do
+Mon Jul 15 15:33:05 2019	Derp (STEAM_0:0:52504530): like when u pull it out for the first time
+Mon Jul 15 15:33:13 2019	LV (STEAM_0:0:460419170): what
+Mon Jul 15 15:33:17 2019	Derp (STEAM_0:0:52504530): ill add this one too
+Mon Jul 15 15:33:23 2019	Derp (STEAM_0:0:52504530): i saw that
+Mon Jul 15 15:33:24 2019	Derp (STEAM_0:0:52504530): XD
+Mon Jul 15 15:33:40 2019	Derp (STEAM_0:0:52504530): imagine u have that during a gunfight
+Mon Jul 15 15:33:46 2019	Derp (STEAM_0:0:52504530): oh no
+Mon Jul 15 15:33:54 2019	LV (STEAM_0:0:460419170): yes
+Mon Jul 15 15:34:09 2019	LV (STEAM_0:0:460419170): you have been doing to much work
+Mon Jul 15 15:34:22 2019	Derp (STEAM_0:0:52504530): yeah
+Mon Jul 15 15:34:34 2019	Derp (STEAM_0:0:52504530): the damage is low but it makes up for it in control and rate of fire 
+Mon Jul 15 15:34:38 2019	LV (STEAM_0:0:460419170): yeah
+Mon Jul 15 15:34:43 2019	Derp (STEAM_0:0:52504530): u can check the stats
+Mon Jul 15 15:34:44 2019	Derp (STEAM_0:0:52504530): press c
+Mon Jul 15 15:34:46 2019	Derp (STEAM_0:0:52504530): then e
+Mon Jul 15 15:35:01 2019	Derp (STEAM_0:0:52504530): ye
+Mon Jul 15 15:35:12 2019	Derp (STEAM_0:0:52504530): a dio skin
+Mon Jul 15 15:35:19 2019	Derp (STEAM_0:0:52504530): u want a job for urself?
+Mon Jul 15 15:35:37 2019	Derp (STEAM_0:0:52504530): well i dont make the models i just download them
+Mon Jul 15 15:35:44 2019	Derp (STEAM_0:0:52504530): do u want any specific model? 
+Mon Jul 15 15:35:46 2019	LV (STEAM_0:0:460419170): we need kos?
+Mon Jul 15 15:35:59 2019	LV (STEAM_0:0:460419170): can i sell to the normal guy
+Mon Jul 15 15:36:00 2019	Derp (STEAM_0:0:52504530): workshop?
+Mon Jul 15 15:36:12 2019	Derp (STEAM_0:0:52504530): ok ill take a look
+Mon Jul 15 15:38:14 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned SENT zwf_pot_hydro
+Mon Jul 15 15:38:20 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned SENT zwf_pot_hydro
+Mon Jul 15 15:38:24 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned SENT zwf_pot_hydro
+Mon Jul 15 15:38:27 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned SENT zwf_pot_hydro
+Mon Jul 15 15:38:32 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned SENT zwf_pot_hydro
+Mon Jul 15 15:38:35 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned SENT zwf_pot_hydro
+Mon Jul 15 15:38:38 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned SENT zwf_pot_hydro
+Mon Jul 15 15:38:53 2019	LV (STEAM_0:0:460419170): wow
+Mon Jul 15 15:40:24 2019	LV (STEAM_0:0:460419170): what will you do when money resets
+Mon Jul 15 15:40:48 2019	LV (STEAM_0:0:460419170): yeah that is what i am doing but with less
+Mon Jul 15 15:41:01 2019	LV (STEAM_0:0:460419170): i need to go look at truck
+Mon Jul 15 15:41:04 2019	LV (STEAM_0:0:460419170): ill be back
+Mon Jul 15 15:41:55 2019	LV (STEAM_0:0:460419170) spawned Vehicle prop_vehicle_jeep (dod_ram_1500tdm)
+Mon Jul 15 15:42:54 2019	LV (STEAM_0:0:460419170): it works :)
+Mon Jul 15 15:43:37 2019	Derp (STEAM_0:0:52504530): i made a group only for u and i put u in there
+Mon Jul 15 15:43:40 2019	Derp (STEAM_0:0:52504530): im making a job for u now
+Mon Jul 15 15:43:54 2019	Dio (STEAM_0:0:497465680): so if i talk in chat
+Mon Jul 15 15:44:06 2019	Kaderator (STEAM_0:1:422793312): // Derp
+Mon Jul 15 15:44:06 2019	Dio (STEAM_0:0:497465680): never mind
+Mon Jul 15 15:44:08 2019	Derp (STEAM_0:0:52504530): lmao
+Mon Jul 15 15:44:11 2019	Dio (STEAM_0:0:497465680): XD
+Mon Jul 15 15:44:15 2019	Derp (STEAM_0:0:52504530): i dont know how to make that stuff happen only master does
+Mon Jul 15 15:44:17 2019	LV (STEAM_0:0:460419170) spawned SENT zwf_pot_hydro
+Mon Jul 15 15:44:18 2019	LV (STEAM_0:0:460419170) spawned SENT zwf_pot_hydro
+Mon Jul 15 15:44:22 2019	Derp (STEAM_0:0:52504530): hes in charge of customizing the server
+Mon Jul 15 15:44:28 2019	Derp (STEAM_0:0:52504530): i just fix small issues and add jobs
+Mon Jul 15 15:44:29 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned SENT zwf_pot_hydro
+Mon Jul 15 15:44:36 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned SENT zwf_pot_hydro
+Mon Jul 15 15:44:36 2019	Derp (STEAM_0:0:52504530): and pay the bills
+Mon Jul 15 15:44:45 2019	Dio (STEAM_0:0:497465680): oh no
+Mon Jul 15 15:44:48 2019	LV (STEAM_0:0:460419170): you should get truck
+Mon Jul 15 15:45:06 2019	LV (STEAM_0:0:460419170): transport easier
+Mon Jul 15 15:45:12 2019	Kaderator (STEAM_0:1:422793312): hey can i buy a gun?
+Mon Jul 15 15:45:15 2019	Kaderator (STEAM_0:1:422793312): hey can i buy a gun?
+Mon Jul 15 15:45:16 2019	Kaderator (STEAM_0:1:422793312): hey can i buy a gun?
+Mon Jul 15 15:45:21 2019	Dio (STEAM_0:0:497465680): sure
+Mon Jul 15 15:45:27 2019	LV (STEAM_0:0:460419170): i know you are set
+Mon Jul 15 15:45:33 2019	Kaderator (STEAM_0:1:422793312): my max im spending is 100k
+Mon Jul 15 15:45:36 2019	Kaderator (STEAM_0:1:422793312): my max im spending is 100k
+Mon Jul 15 15:45:46 2019	Dio (STEAM_0:0:497465680): thats fine what kind do you want
+Mon Jul 15 15:45:54 2019	Kaderator (STEAM_0:1:422793312): shotgun
+Mon Jul 15 15:46:04 2019	Dio (STEAM_0:0:497465680): there are no shotguyns rn sorry
+Mon Jul 15 15:46:17 2019	Kaderator (STEAM_0:1:422793312): give me ur best
+Mon Jul 15 15:46:21 2019	Dio (STEAM_0:0:497465680): ok
+Mon Jul 15 15:46:31 2019	Dio (STEAM_0:0:497465680): ther you go
+Mon Jul 15 15:46:40 2019	Kaderator (STEAM_0:1:422793312): how much
+Mon Jul 15 15:46:42 2019	Derp (STEAM_0:0:52504530): ill be back soon
+Mon Jul 15 15:46:43 2019	Dio (STEAM_0:0:497465680): 6k
+Mon Jul 15 15:46:47 2019	Derp (STEAM_0:0:52504530) disconnected
+Mon Jul 15 15:46:51 2019	Kaderator (STEAM_0:1:422793312): /dropmoney 6000
+Mon Jul 15 15:46:52 2019	Kaderator (STEAM_0:1:422793312) has dropped $6,000
+Mon Jul 15 15:46:58 2019	Dio (STEAM_0:0:497465680): thanks
+Mon Jul 15 15:48:15 2019	LV (STEAM_0:0:460419170): put rapid rabbit
+Mon Jul 15 15:49:05 2019	LV (STEAM_0:0:460419170): only repair and heal
+Mon Jul 15 15:49:16 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned SENT zwf_pot_hydro
+Mon Jul 15 15:49:18 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned SENT zwf_pot_hydro
+Mon Jul 15 15:49:20 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned SENT zwf_pot_hydro
+Mon Jul 15 15:49:27 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned SENT zwf_pot_hydro
+Mon Jul 15 15:49:33 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned SENT zwf_pot_hydro
+Mon Jul 15 15:49:36 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned SENT zwf_pot_hydro
+Mon Jul 15 15:49:37 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned SENT zwf_pot_hydro
+Mon Jul 15 15:49:48 2019	Kaderator (STEAM_0:1:422793312): !titals
+Mon Jul 15 15:50:48 2019	LV (STEAM_0:0:460419170): no fan or light
+Mon Jul 15 15:51:14 2019	Kaderator (STEAM_0:1:422793312): // im i allowed to self supply?
+Mon Jul 15 15:52:45 2019	Dio (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_jeep (fer_lafertdm)
+Mon Jul 15 15:53:18 2019	Kaderator (STEAM_0:1:422793312): // im i allowed to self supply?
+Mon Jul 15 15:53:25 2019	Dio (STEAM_0:0:497465680): no
+Mon Jul 15 15:53:31 2019	Kaderator (STEAM_0:1:422793312): // gtg
+Mon Jul 15 15:53:33 2019	Kaderator (STEAM_0:1:422793312) disconnected
+Mon Jul 15 15:53:37 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // Sure.
+Mon Jul 15 15:53:42 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // and cya
+Mon Jul 15 15:53:51 2019	Dio (STEAM_0:0:497465680): wait we are nani!
+Mon Jul 15 15:54:22 2019	LV (STEAM_0:0:460419170): no more lua?
+Mon Jul 15 15:54:34 2019	Dio was killed by Vehicle [1294][prop_vehicle_jeep] with a env_explosion
+Mon Jul 15 15:54:36 2019	LV (STEAM_0:0:460419170): problem?
+Mon Jul 15 15:54:39 2019	Dio (STEAM_0:0:497465680) spawned
+Mon Jul 15 15:54:40 2019	LV (STEAM_0:0:460419170): i know
+Mon Jul 15 15:54:45 2019	LV (STEAM_0:0:460419170): i need dark i sell
+Mon Jul 15 15:54:45 2019	Dio (STEAM_0:0:497465680): well then
+Mon Jul 15 15:57:05 2019	LV (STEAM_0:0:460419170) spawned Vehicle prop_vehicle_jeep (fer_lafertdm)
+Mon Jul 15 15:57:59 2019	LV (STEAM_0:0:460419170): whoops
+Mon Jul 15 15:58:31 2019	LV (STEAM_0:0:460419170): /pm zook can i buy some after your done with some
+Mon Jul 15 15:58:40 2019	LV (STEAM_0:0:460419170): get in
+Mon Jul 15 15:59:26 2019	LV (STEAM_0:0:460419170): press e we go to the guy
+Mon Jul 15 16:01:04 2019	LV (STEAM_0:0:460419170): sorry
+Mon Jul 15 16:01:13 2019	LV (STEAM_0:0:460419170): i am laughing so hard
+Mon Jul 15 16:01:28 2019	LV (STEAM_0:0:460419170): i think i am good at driving
+Mon Jul 15 16:01:40 2019	LV (STEAM_0:0:460419170): i go drive a little more
+Mon Jul 15 16:01:45 2019	LV (STEAM_0:0:460419170): get better
+Mon Jul 15 16:02:59 2019	UG | M A S T E R (STEAM_0:1:180622613) has joined the game
+Mon Jul 15 16:02:59 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Mon Jul 15 16:02:59 2019	LV (STEAM_0:0:460419170): 
+Mon Jul 15 16:03:43 2019	LV was killed by Entity [0][worldspawn] with a unknown
+Mon Jul 15 16:03:45 2019	LV (STEAM_0:0:460419170) spawned
+Mon Jul 15 16:04:52 2019	UG | M A S T E R (STEAM_0:1:180622613): yo
+Mon Jul 15 16:04:54 2019	LV (STEAM_0:0:460419170): i am good
+Mon Jul 15 16:05:10 2019	LV (STEAM_0:0:460419170): !goto derp
+Mon Jul 15 16:05:20 2019	LV (STEAM_0:0:460419170): derp is not on
+Mon Jul 15 16:05:29 2019	LV (STEAM_0:0:460419170): !goto UG
+Mon Jul 15 16:05:33 2019	LV (STEAM_0:0:460419170): hey ug
+Mon Jul 15 16:05:42 2019	LV (STEAM_0:0:460419170): ug
+Mon Jul 15 16:05:52 2019	LV (STEAM_0:0:460419170): ug master i have a question
+Mon Jul 15 16:06:10 2019	LV (STEAM_0:0:460419170): can i make a ramp and drive my car on it
+Mon Jul 15 16:06:30 2019	LV (STEAM_0:0:460419170): yes or no
+Mon Jul 15 16:06:51 2019	LV (STEAM_0:0:460419170): yes or no
+Mon Jul 15 16:07:25 2019	LV (STEAM_0:0:460419170): thank you
+Mon Jul 15 16:07:28 2019	LV (STEAM_0:0:460419170): wow
+Mon Jul 15 16:07:32 2019	LV (STEAM_0:0:460419170): can i buy
+Mon Jul 15 16:08:07 2019	LV (STEAM_0:0:460419170) spawned SENT vc_pickup_fuel_petrol
+Mon Jul 15 16:08:07 2019	LV (STEAM_0:0:460419170) spawned SENT vc_pickup_fuel_petrol
+Mon Jul 15 16:08:07 2019	LV (STEAM_0:0:460419170) spawned SENT vc_pickup_fuel_petrol
+Mon Jul 15 16:08:08 2019	LV (STEAM_0:0:460419170) spawned SENT vc_pickup_fuel_petrol
+Mon Jul 15 16:08:47 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): /drop
+Mon Jul 15 16:09:44 2019	Derp (STEAM_0:0:52504530) has joined the game
+Mon Jul 15 16:09:44 2019	Derp (STEAM_0:0:52504530) spawned
+Mon Jul 15 16:09:54 2019	LV (STEAM_0:0:460419170): hey derp
+Mon Jul 15 16:09:59 2019	Derp (STEAM_0:0:52504530): ye
+Mon Jul 15 16:10:05 2019	LV (STEAM_0:0:460419170): can i make a ramp to drive off of
+Mon Jul 15 16:10:12 2019	Derp (STEAM_0:0:52504530): sure but not in spawn
+Mon Jul 15 16:10:19 2019	LV (STEAM_0:0:460419170): no near my base
+Mon Jul 15 16:10:22 2019	Derp (STEAM_0:0:52504530): ok
+Mon Jul 15 16:10:25 2019	LV (STEAM_0:0:460419170): thank you
+Mon Jul 15 16:10:37 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // Yo derp
+Mon Jul 15 16:10:40 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // You tryna smoke something
+Mon Jul 15 16:10:47 2019	Dio (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_jeep (fer_lafertdm)
+Mon Jul 15 16:11:17 2019	Zookie 〈メイド〉 was killed by LV with a prop_vehicle_jeep
+Mon Jul 15 16:11:20 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned
+Mon Jul 15 16:11:22 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !goto lv
+Mon Jul 15 16:11:22 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Mon Jul 15 16:11:28 2019	UG | M A S T E R (STEAM_0:1:180622613): hmm
+Mon Jul 15 16:11:28 2019	LV (STEAM_0:0:460419170): i am sorry
+Mon Jul 15 16:11:38 2019	Derp (STEAM_0:0:52504530): um
+Mon Jul 15 16:11:39 2019	LV (STEAM_0:0:460419170): why
+Mon Jul 15 16:11:41 2019	Derp (STEAM_0:0:52504530): wtf is that
+Mon Jul 15 16:11:44 2019	UG | M A S T E R (STEAM_0:1:180622613): Don't know
+Mon Jul 15 16:11:49 2019	Derp (STEAM_0:0:52504530): i think those are ak12s
+Mon Jul 15 16:11:51 2019	LV (STEAM_0:0:460419170): /dropmoney 10000
+Mon Jul 15 16:11:52 2019	Derp (STEAM_0:0:52504530): from FAS
+Mon Jul 15 16:11:52 2019	LV (STEAM_0:0:460419170) has dropped $10,000
+Mon Jul 15 16:11:55 2019	Derp (STEAM_0:0:52504530): someone dropped them
+Mon Jul 15 16:11:57 2019	Derp (STEAM_0:0:52504530): and i think that happened
+Mon Jul 15 16:12:01 2019	Derp (STEAM_0:0:52504530): /dropweapon
+Mon Jul 15 16:12:04 2019	Derp (STEAM_0:0:52504530): nope
+Mon Jul 15 16:12:23 2019	UG | M A S T E R (STEAM_0:1:180622613): gotta get the models to get these to work right
+Mon Jul 15 16:12:29 2019	Derp (STEAM_0:0:52504530): i did put the models
+Mon Jul 15 16:12:31 2019	Derp (STEAM_0:0:52504530): i think we need a restart
+Mon Jul 15 16:12:47 2019	Derp (STEAM_0:0:52504530): yeah i think a restart would fix that
+Mon Jul 15 16:12:52 2019	Derp (STEAM_0:0:52504530): before we do that tho
+Mon Jul 15 16:13:04 2019	Captain Fruitcake (STEAM_0:0:62003849) has joined the game
+Mon Jul 15 16:13:04 2019	Captain Fruitcake (STEAM_0:0:62003849) spawned
+Mon Jul 15 16:13:16 2019	UG | M A S T E R (STEAM_0:1:180622613): How much for that shit
+Mon Jul 15 16:13:16 2019	MARTHA STEWARTS SISTERS STEPSON (STEAM_0:0:139475980) has joined the game
+Mon Jul 15 16:13:16 2019	MARTHA STEWARTS SISTERS STEPSON (STEAM_0:0:139475980) spawned
+Mon Jul 15 16:13:30 2019	Derp (STEAM_0:0:52504530): yeah i just checked the shipments i made are fine i
+Mon Jul 15 16:13:36 2019	Derp (STEAM_0:0:52504530): i think we need a restart definitely
+Mon Jul 15 16:13:53 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zwf_jar
+Mon Jul 15 16:13:54 2019	Derp (STEAM_0:0:52504530): u want 200k
+Mon Jul 15 16:14:05 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zwf_muffin
+Mon Jul 15 16:14:07 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zwf_weedblock
+Mon Jul 15 16:14:18 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zwf_bong03_ent
+Mon Jul 15 16:14:20 2019	Derp (STEAM_0:0:52504530) spawned SENT zwf_weedstick
+Mon Jul 15 16:14:23 2019	Derp (STEAM_0:0:52504530) spawned SENT zwf_weedblock
+Mon Jul 15 16:14:30 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zwf_jar
+Mon Jul 15 16:14:43 2019	UG | M A S T E R (STEAM_0:1:180622613): ffs
+Mon Jul 15 16:14:45 2019	UG | M A S T E R was killed by Himself with a suicide trick
+Mon Jul 15 16:14:51 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Mon Jul 15 16:15:02 2019	Derp (STEAM_0:0:52504530): i made u the job
+Mon Jul 15 16:15:03 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Mon Jul 15 16:15:16 2019	Derp (STEAM_0:0:52504530): i think we need a server restart
+Mon Jul 15 16:15:21 2019	Derp (STEAM_0:0:52504530): did u save ur base
+Mon Jul 15 16:15:23 2019	UG | M A S T E R (STEAM_0:1:180622613): welcome to the server random people
+Mon Jul 15 16:15:24 2019	Derp (STEAM_0:0:52504530): with advdupe
+Mon Jul 15 16:15:29 2019	Derp (STEAM_0:0:52504530): yeah
+Mon Jul 15 16:15:36 2019	Derp (STEAM_0:0:52504530): are u sure?
+Mon Jul 15 16:15:37 2019	LV (STEAM_0:0:460419170) spawned SENT vc_pickup_fuel_petrol
+Mon Jul 15 16:15:37 2019	LV (STEAM_0:0:460419170) spawned SENT vc_pickup_fuel_petrol
+Mon Jul 15 16:15:37 2019	LV (STEAM_0:0:460419170) spawned SENT vc_pickup_fuel_petrol
+Mon Jul 15 16:15:40 2019	LV (STEAM_0:0:460419170) spawned SENT vc_pickup_fuel_petrol
+Mon Jul 15 16:15:41 2019	Derp (STEAM_0:0:52504530): alright
+Mon Jul 15 16:15:45 2019	LV (STEAM_0:0:460419170) spawned SENT vc_pickup_fuel_petrol
+Mon Jul 15 16:15:46 2019	Derp (STEAM_0:0:52504530): um
+Mon Jul 15 16:15:49 2019	Derp (STEAM_0:0:52504530): squidward is over there
+Mon Jul 15 16:15:54 2019	Derp (STEAM_0:0:52504530): now hes agent 47
+Mon Jul 15 16:15:58 2019	Derp (STEAM_0:0:52504530): wtf is happening
+Mon Jul 15 16:15:58 2019	LV (STEAM_0:0:460419170): i cant get fuel can you get me some
+Mon Jul 15 16:16:05 2019	LV (STEAM_0:0:460419170) spawned SENT vc_pickup_fuel_petrol
+Mon Jul 15 16:16:11 2019	LV (STEAM_0:0:460419170): it wont spawn
+Mon Jul 15 16:16:14 2019	Captain Fruitcake (STEAM_0:0:62003849): wanna place a hir
+Mon Jul 15 16:16:17 2019	Captain Fruitcake (STEAM_0:0:62003849): hit*
+Mon Jul 15 16:16:20 2019	Derp (STEAM_0:0:52504530): im good
+Mon Jul 15 16:16:23 2019	Dio (STEAM_0:0:497465680): same
+Mon Jul 15 16:16:28 2019	LV (STEAM_0:0:460419170) spawned SENT vc_pickup_fuel_petrol
+Mon Jul 15 16:16:29 2019	Captain Fruitcake (STEAM_0:0:62003849): ok
+Mon Jul 15 16:16:29 2019	LV (STEAM_0:0:460419170) spawned SENT vc_pickup_fuel_petrol
+Mon Jul 15 16:16:30 2019	LV (STEAM_0:0:460419170) spawned SENT vc_pickup_fuel_petrol
+Mon Jul 15 16:16:30 2019	LV (STEAM_0:0:460419170) spawned SENT vc_pickup_fuel_petrol
+Mon Jul 15 16:16:34 2019	Derp (STEAM_0:0:52504530): so anyways
+Mon Jul 15 16:16:49 2019	Derp (STEAM_0:0:52504530): let me just make sure that i can restart the server before i do anything
+Mon Jul 15 16:16:54 2019	Derp (STEAM_0:0:52504530): also are the cars working for u?
+Mon Jul 15 16:17:09 2019	Dio (STEAM_0:0:497465680): they work but the textures still messed up
+Mon Jul 15 16:17:14 2019	Derp (STEAM_0:0:52504530): have u restarted ur game
+Mon Jul 15 16:17:24 2019	UG | M A S T E R was killed by Himself with a suicide trick
+Mon Jul 15 16:17:24 2019	Dio (STEAM_0:0:497465680): no ill do that when you restart the server
+Mon Jul 15 16:17:27 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Mon Jul 15 16:17:27 2019	Derp (STEAM_0:0:52504530): alright
+Mon Jul 15 16:17:39 2019	Derp (STEAM_0:0:52504530): im gonna commence a restart
+Mon Jul 15 16:17:49 2019	UG | M A S T E R (STEAM_0:1:180622613): I'm adding utime atm
+Mon Jul 15 16:17:53 2019	Derp (STEAM_0:0:52504530): whats that
+Mon Jul 15 16:18:08 2019	UG | M A S T E R (STEAM_0:1:180622613): Utime is a hour tracker 
+Mon Jul 15 16:18:12 2019	Derp (STEAM_0:0:52504530): oh
+Mon Jul 15 16:18:18 2019	Derp (STEAM_0:0:52504530): we should also get an ATM at some point
+Mon Jul 15 16:18:24 2019	LV (STEAM_0:0:460419170) spawned Vehicle prop_vehicle_jeep (fer_lafertdm)
+Mon Jul 15 16:18:26 2019	UG | M A S T E R (STEAM_0:1:180622613): I got a atm
+Mon Jul 15 16:18:29 2019	Derp (STEAM_0:0:52504530): oh
+Mon Jul 15 16:18:46 2019	Derp (STEAM_0:0:52504530): things are looking prety good for the server so far
+Mon Jul 15 16:19:25 2019	LV (STEAM_0:0:460419170): /y no
+Mon Jul 15 16:20:05 2019	Derp (STEAM_0:0:52504530): ur a clown in the sewers
+Mon Jul 15 16:20:12 2019	Dio (STEAM_0:0:497465680): hehe
+Mon Jul 15 16:20:15 2019	Derp (STEAM_0:0:52504530): are u gonna bite my arm off now
+Mon Jul 15 16:20:20 2019	Dio (STEAM_0:0:497465680): maybe
+Mon Jul 15 16:20:25 2019	LV (STEAM_0:0:460419170): i want to drive to the ramp
+Mon Jul 15 16:20:29 2019	Derp (STEAM_0:0:52504530): i dont want the boat anymore
+Mon Jul 15 16:20:31 2019	Derp (STEAM_0:0:52504530): u can keep it
+Mon Jul 15 16:20:31 2019	LV (STEAM_0:0:460419170): and gain speed
+Mon Jul 15 16:20:33 2019	Dio (STEAM_0:0:497465680): ok
+Mon Jul 15 16:20:36 2019	Derp (STEAM_0:0:52504530): LOL
+Mon Jul 15 16:20:39 2019	LV (STEAM_0:0:460419170): i have a ramp out side
+Mon Jul 15 16:20:42 2019	Dio (STEAM_0:0:497465680): oh no
+Mon Jul 15 16:20:47 2019	Derp (STEAM_0:0:52504530): fucking clown
+Mon Jul 15 16:20:50 2019	Derp (STEAM_0:0:52504530): ur gonna stay down there now
+Mon Jul 15 16:20:52 2019	Derp (STEAM_0:0:52504530): oh shit
+Mon Jul 15 16:21:06 2019	Dio (STEAM_0:0:497465680): is this better
+Mon Jul 15 16:21:12 2019	Derp (STEAM_0:0:52504530): its less terrifying i suppose
+Mon Jul 15 16:21:18 2019	Dio (STEAM_0:0:497465680): is it though?
+Mon Jul 15 16:21:23 2019	Derp (STEAM_0:0:52504530): i dont know anymore
+Mon Jul 15 16:21:28 2019	Dio (STEAM_0:0:497465680): XD
+Mon Jul 15 16:21:59 2019	Captain Fruitcake (STEAM_0:0:62003849): are one ways allowed?
+Mon Jul 15 16:22:22 2019	UG | M A S T E R (STEAM_0:1:180622613): /forceunlock
+Mon Jul 15 16:22:22 2019	UG | M A S T E R (STEAM_0:1:180622613) force-unlocked a door with forcelock (unlocked door is saved)
+Mon Jul 15 16:22:28 2019	UG | M A S T E R (STEAM_0:1:180622613): hey
+Mon Jul 15 16:22:41 2019	LV was killed by Entity [0][worldspawn] with a unknown
+Mon Jul 15 16:22:45 2019	LV (STEAM_0:0:460419170) spawned
+Mon Jul 15 16:22:52 2019	UG | M A S T E R (STEAM_0:1:180622613): /forcelock
+Mon Jul 15 16:22:52 2019	UG | M A S T E R (STEAM_0:1:180622613) force-locked a door with forcelock (locked door is saved)
+Mon Jul 15 16:22:53 2019	LV (STEAM_0:0:460419170): !goto zook
+Mon Jul 15 16:23:06 2019	UG | M A S T E R (STEAM_0:1:180622613): /forceunlock
+Mon Jul 15 16:23:06 2019	UG | M A S T E R (STEAM_0:1:180622613) force-unlocked a door with forcelock (unlocked door is saved)
+Mon Jul 15 16:23:36 2019	UG | M A S T E R (STEAM_0:1:180622613): // thc
+Mon Jul 15 16:23:38 2019	UG | M A S T E R (STEAM_0:1:180622613): // thx
+Mon Jul 15 16:24:00 2019	LV (STEAM_0:0:460419170) spawned SENT vc_pickup_fuel_petrol
+Mon Jul 15 16:24:03 2019	LV (STEAM_0:0:460419170) spawned SENT vc_pickup_fuel_petrol
+Mon Jul 15 16:24:05 2019	LV (STEAM_0:0:460419170) spawned SENT vc_pickup_fuel_petrol
+Mon Jul 15 16:24:11 2019	UG | M A S T E R (STEAM_0:1:180622613): !party
+Mon Jul 15 16:24:25 2019	LV (STEAM_0:0:460419170): yes
+Mon Jul 15 16:24:39 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // fuck yeahh
+Mon Jul 15 16:24:41 2019	Derp (STEAM_0:0:52504530): why would u vote no to that
+Mon Jul 15 16:24:49 2019	Derp (STEAM_0:0:52504530): OH MY GOD
+Mon Jul 15 16:24:56 2019	Derp (STEAM_0:0:52504530): THATS HUNDREDS OF DOLLARS
+Mon Jul 15 16:24:57 2019	Derp (STEAM_0:0:52504530): STOP
+Mon Jul 15 16:24:58 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // 
+Mon Jul 15 16:25:02 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): /Pm derp Yo
+Mon Jul 15 16:25:08 2019	Derp (STEAM_0:0:52504530): i said stop
+Mon Jul 15 16:25:57 2019	Derp (STEAM_0:0:52504530): soon probably
+Mon Jul 15 16:26:01 2019	Derp (STEAM_0:0:52504530): co owner is adding a thing rn
+Mon Jul 15 16:26:06 2019	LV was killed by Vehicle [1274][prop_vehicle_jeep] with a env_explosion
+Mon Jul 15 16:26:11 2019	LV (STEAM_0:0:460419170) spawned
+Mon Jul 15 16:26:15 2019	Derp (STEAM_0:0:52504530): some sort of time related thing
+Mon Jul 15 16:26:16 2019	Derp (STEAM_0:0:52504530): clock
+Mon Jul 15 16:26:17 2019	LV (STEAM_0:0:460419170): !goto zook
+Mon Jul 15 16:26:24 2019	Derp (STEAM_0:0:52504530): to keep track of time
+Mon Jul 15 16:26:33 2019	LV (STEAM_0:0:460419170): !goto zook
+Mon Jul 15 16:26:41 2019	Derp (STEAM_0:0:52504530): HOLY FUCKING SHIT
+Mon Jul 15 16:26:42 2019	LV (STEAM_0:0:460419170): shhh
+Mon Jul 15 16:26:45 2019	Derp (STEAM_0:0:52504530): 140k?????
+Mon Jul 15 16:26:55 2019	Derp (STEAM_0:0:52504530): that is absolutely insane
+Mon Jul 15 16:26:59 2019	Derp (STEAM_0:0:52504530): oh
+Mon Jul 15 16:27:06 2019	Derp (STEAM_0:0:52504530): oh yeah i forgot ur like super rich
+Mon Jul 15 16:27:15 2019	Derp (STEAM_0:0:52504530): that 14 mil gonna be 20k soon
+Mon Jul 15 16:27:24 2019	Derp (STEAM_0:0:52504530): yeah honestly its fair
+Mon Jul 15 16:27:24 2019	LV (STEAM_0:0:460419170) spawned SENT vc_pickup_fuel_petrol
+Mon Jul 15 16:27:24 2019	LV (STEAM_0:0:460419170) spawned SENT vc_pickup_fuel_petrol
+Mon Jul 15 16:27:26 2019	LV (STEAM_0:0:460419170) spawned SENT vc_pickup_fuel_petrol
+Mon Jul 15 16:27:26 2019	LV (STEAM_0:0:460419170) spawned SENT vc_pickup_fuel_petrol
+Mon Jul 15 16:27:30 2019	Derp (STEAM_0:0:52504530): whats the point in having it all right off the bat
+Mon Jul 15 16:27:33 2019	LV (STEAM_0:0:460419170) spawned SENT vc_pickup_fuel_petrol
+Mon Jul 15 16:27:34 2019	LV (STEAM_0:0:460419170) spawned SENT vc_pickup_fuel_petrol
+Mon Jul 15 16:27:36 2019	Derp (STEAM_0:0:52504530): we need goals
+Mon Jul 15 16:27:53 2019	Captain Fruitcake (STEAM_0:0:62003849): /give 100000
+Mon Jul 15 16:27:55 2019	Captain Fruitcake (STEAM_0:0:62003849) has given $100,000 to MARTHA STEWARTS SISTERS STEPSON (STEAM_0:0:139475980)
+Mon Jul 15 16:28:14 2019	Derp (STEAM_0:0:52504530): u mean like a purge server?
+Mon Jul 15 16:28:15 2019	LV (STEAM_0:0:460419170): im batman
+Mon Jul 15 16:28:22 2019	Derp (STEAM_0:0:52504530): maybe
+Mon Jul 15 16:28:32 2019	Derp (STEAM_0:0:52504530): its fun but i think it could also cause a lot of problems for people trying to play normal RP
+Mon Jul 15 16:28:47 2019	Derp (STEAM_0:0:52504530): i will consider it but no promises
+Mon Jul 15 16:28:58 2019	Derp (STEAM_0:0:52504530): god damn it
+Mon Jul 15 16:29:01 2019	LV (STEAM_0:0:460419170): want to see some thing funny
+Mon Jul 15 16:29:07 2019	MARTHA STEWARTS SISTERS STEPSON (STEAM_0:0:139475980): 
+Mon Jul 15 16:29:27 2019	MARTHA STEWARTS SISTERS STEPSON (STEAM_0:0:139475980): 
+Mon Jul 15 16:29:29 2019	Derp (STEAM_0:0:52504530): gmod is so fucking weird
+Mon Jul 15 16:29:37 2019	LV (STEAM_0:0:460419170): this is cheating
+Mon Jul 15 16:29:42 2019	Derp (STEAM_0:0:52504530): 1500 hours in this god damn game
+Mon Jul 15 16:29:46 2019	LV (STEAM_0:0:460419170): /y this is cheating
+Mon Jul 15 16:29:54 2019	LV (STEAM_0:0:460419170): /pm zook this is cheating
+Mon Jul 15 16:29:56 2019	Derp (STEAM_0:0:52504530): well the old co owner has like 3k and hes like 13
+Mon Jul 15 16:30:00 2019	LV (STEAM_0:0:460419170): /pm zook look
+Mon Jul 15 16:30:28 2019	LV (STEAM_0:0:460419170): !goto derp
+Mon Jul 15 16:30:33 2019	LV (STEAM_0:0:460419170): hey derp the car is broke
+Mon Jul 15 16:30:37 2019	Derp (STEAM_0:0:52504530): what car
+Mon Jul 15 16:30:38 2019	LV (STEAM_0:0:460419170): i broke it
+Mon Jul 15 16:30:40 2019	LV (STEAM_0:0:460419170): follow
+Mon Jul 15 16:30:42 2019	LV (STEAM_0:0:460419170): all cars
+Mon Jul 15 16:30:56 2019	LV (STEAM_0:0:460419170): get in
+Mon Jul 15 16:31:06 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): 
+Mon Jul 15 16:31:12 2019	LV (STEAM_0:0:460419170): you can make fading door on car
+Mon Jul 15 16:31:21 2019	Derp (STEAM_0:0:52504530): u can
+Mon Jul 15 16:31:23 2019	UG | M A S T E R (STEAM_0:1:180622613): /setmoney UG 25000
+Mon Jul 15 16:31:23 2019	UG | M A S T E R (STEAM_0:1:180622613) set UG | M A S T E R's money to $25,000
+Mon Jul 15 16:31:29 2019	Derp (STEAM_0:0:52504530): it was there idk where it went
+Mon Jul 15 16:31:29 2019	LV (STEAM_0:0:460419170): watch this
+Mon Jul 15 16:31:31 2019	MARTHA STEWARTS SISTERS STEPSON (STEAM_0:0:139475980): /admin
+Mon Jul 15 16:31:31 2019	Derp (STEAM_0:0:52504530): go ask master
+Mon Jul 15 16:31:34 2019	LV (STEAM_0:0:460419170): we will be back zookie
+Mon Jul 15 16:31:39 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !return zook
+Mon Jul 15 16:31:43 2019	MARTHA STEWARTS SISTERS STEPSON (STEAM_0:0:139475980): 
+Mon Jul 15 16:31:50 2019	Captain Fruitcake (STEAM_0:0:62003849): hey owner man iwe got a problem can you help us/
+Mon Jul 15 16:31:59 2019	Dio (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_jeep (fer_lafertdm)
+Mon Jul 15 16:32:00 2019	LV (STEAM_0:0:460419170): i can go through
+Mon Jul 15 16:32:29 2019	LV (STEAM_0:0:460419170): hey 
+Mon Jul 15 16:32:34 2019	Dio (STEAM_0:0:497465680): hi
+Mon Jul 15 16:32:50 2019	MARTHA STEWARTS SISTERS STEPSON (STEAM_0:0:139475980): YOOOOOO ADMIN
+Mon Jul 15 16:33:02 2019	MARTHA STEWARTS SISTERS STEPSON (STEAM_0:0:139475980): 
+Mon Jul 15 16:33:06 2019	LV (STEAM_0:0:460419170): /pm UG ug it is broke
+Mon Jul 15 16:33:16 2019	LV (STEAM_0:0:460419170): !goto ug
+Mon Jul 15 16:33:23 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): /dropmoney 10000000
+Mon Jul 15 16:33:24 2019	LV (STEAM_0:0:460419170): hey the car is broke
+Mon Jul 15 16:33:24 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) has dropped $10,000,000
+Mon Jul 15 16:33:25 2019	MARTHA STEWARTS SISTERS STEPSON (STEAM_0:0:139475980): ADMINNNN WE NEEED HELP
+Mon Jul 15 16:33:29 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): /dropmoney 1000000
+Mon Jul 15 16:33:30 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) has dropped $1,000,000
+Mon Jul 15 16:33:37 2019	Derp (STEAM_0:0:52504530): i have 27 billion dollars
+Mon Jul 15 16:33:43 2019	Derp (STEAM_0:0:52504530): jesus christ
+Mon Jul 15 16:33:48 2019	Derp (STEAM_0:0:52504530): cant wait for the money reset
+Mon Jul 15 16:34:02 2019	Derp (STEAM_0:0:52504530): its gonna be beautiful seeing people ACTUALLY FUCKING WORK FOR THEIR MONEY
+Mon Jul 15 16:34:17 2019	Derp (STEAM_0:0:52504530): i mean i dont see why ur inventory would get wiped
+Mon Jul 15 16:34:36 2019	iWolfz -ERP- (STEAM_0:0:443923189) has joined the game
+Mon Jul 15 16:34:36 2019	iWolfz -ERP- (STEAM_0:0:443923189) spawned
+Mon Jul 15 16:34:37 2019	Derp (STEAM_0:0:52504530): LV so whats the problem with the cars
+Mon Jul 15 16:34:52 2019	LV (STEAM_0:0:460419170): if you make fading door you can go through any prop watch
+Mon Jul 15 16:35:00 2019	iWolfz -ERP- (STEAM_0:0:443923189): !warn
+Mon Jul 15 16:35:11 2019	iWolfz -ERP- (STEAM_0:0:443923189): // hi
+Mon Jul 15 16:35:16 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // Heya
+Mon Jul 15 16:35:20 2019	LV (STEAM_0:0:460419170): get in
+Mon Jul 15 16:35:34 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned SENT itemstore_bank
+Mon Jul 15 16:35:56 2019	MARTHA STEWARTS SISTERS STEPSON (STEAM_0:0:139475980): hey zookie can i get some help
+Mon Jul 15 16:35:59 2019	Derp (STEAM_0:0:52504530): im gonna be honest i have no idea how to fix that
+Mon Jul 15 16:36:15 2019	LV (STEAM_0:0:460419170): i know it is funny though
+Mon Jul 15 16:36:21 2019	Derp (STEAM_0:0:52504530): well if i cant fix it then just dont do it
+Mon Jul 15 16:36:22 2019	Derp (STEAM_0:0:52504530): simple as that
+Mon Jul 15 16:36:26 2019	LV (STEAM_0:0:460419170): we cant tell any one though
+Mon Jul 15 16:36:26 2019	iWolfz -ERP- (STEAM_0:0:443923189): // derp when u get mod on duty? xD
+Mon Jul 15 16:36:27 2019	Derp (STEAM_0:0:52504530): if u do it 
+Mon Jul 15 16:36:31 2019	Derp (STEAM_0:0:52504530): to fuck with other people
+Mon Jul 15 16:36:32 2019	Derp (STEAM_0:0:52504530): permaban
+Mon Jul 15 16:36:37 2019	LV (STEAM_0:0:460419170): i wont
+Mon Jul 15 16:36:39 2019	Derp (STEAM_0:0:52504530): ik
+Mon Jul 15 16:36:41 2019	Derp (STEAM_0:0:52504530): ur just testing
+Mon Jul 15 16:36:46 2019	Derp (STEAM_0:0:52504530): but im talking about random people who abuse it
+Mon Jul 15 16:36:53 2019	LV (STEAM_0:0:460419170): ok
+Mon Jul 15 16:36:57 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): /dropmoney 45000000
+Mon Jul 15 16:36:58 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) has dropped $45,000,000
+Mon Jul 15 16:37:05 2019	Derp (STEAM_0:0:52504530): 
+Mon Jul 15 16:37:32 2019	LV (STEAM_0:0:460419170): no i didnt mean to
+Mon Jul 15 16:37:34 2019	iWolfz -ERP- (STEAM_0:0:443923189): /y follow me
+Mon Jul 15 16:37:48 2019	LV (STEAM_0:0:460419170): good
+Mon Jul 15 16:38:07 2019	MARTHA STEWARTS SISTERS STEPSON (STEAM_0:0:139475980): r u fucking serious i have been asking for an admin for 10 mins when i just have a simplae problem get off of ur lazy ass and 
+Mon Jul 15 16:38:14 2019	MARTHA STEWARTS SISTERS STEPSON (STEAM_0:0:139475980): help us
+Mon Jul 15 16:38:25 2019	iWolfz -ERP- (STEAM_0:0:443923189): lets go araound
+Mon Jul 15 16:38:26 2019	iWolfz -ERP- (STEAM_0:0:443923189): around
+Mon Jul 15 16:39:15 2019	LV (STEAM_0:0:460419170): how much are these
+Mon Jul 15 16:39:20 2019	Derp (STEAM_0:0:52504530): we have a problem
+Mon Jul 15 16:39:47 2019	Derp (STEAM_0:0:52504530): u can fading door cars
+Mon Jul 15 16:39:53 2019	LV (STEAM_0:0:460419170): is that full upgrade
+Mon Jul 15 16:40:15 2019	LV (STEAM_0:0:460419170): you can only have 2
+Mon Jul 15 16:40:26 2019	LV (STEAM_0:0:460419170): you should have more
+Mon Jul 15 16:40:30 2019	Dio was killed by Entity [0][worldspawn] with a unknown
+Mon Jul 15 16:40:32 2019	LV (STEAM_0:0:460419170): be able to
+Mon Jul 15 16:40:36 2019	Dio (STEAM_0:0:497465680) spawned
+Mon Jul 15 16:41:08 2019	LV (STEAM_0:0:460419170) spawned SENT vc_pickup_fuel_petrol
+Mon Jul 15 16:41:09 2019	LV (STEAM_0:0:460419170) spawned SENT vc_pickup_fuel_petrol
+Mon Jul 15 16:41:12 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned SENT itemstore_bank
+Mon Jul 15 16:41:13 2019	MARTHA STEWARTS SISTERS STEPSON (STEAM_0:0:139475980): i dont think there are admins on this server
+Mon Jul 15 16:41:18 2019	iWolfz -ERP- (STEAM_0:0:443923189): !Bring dio
+Mon Jul 15 16:41:19 2019	Derp (STEAM_0:0:52504530) spawned Vehicle prop_vehicle_jeep (dod_ram_1500tdm)
+Mon Jul 15 16:41:39 2019	LV (STEAM_0:0:460419170): do a seed lab
+Mon Jul 15 16:41:47 2019	LV (STEAM_0:0:460419170): make new ones
+Mon Jul 15 16:41:48 2019	Derp (STEAM_0:0:52504530): /ooc NEXT SERVER RESTART YOU WONT BE ABLE TO FADING DOOR CARS HOPEFULLY
+Mon Jul 15 16:41:56 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // Whens the server restart
+Mon Jul 15 16:41:58 2019	LV (STEAM_0:0:460419170): /pm derp dont ooc that
+Mon Jul 15 16:42:05 2019	LV (STEAM_0:0:460419170): where is lab
+Mon Jul 15 16:42:15 2019	Derp (STEAM_0:0:52504530): /pm LV why
+Mon Jul 15 16:42:16 2019	LV (STEAM_0:0:460419170): you need two different kinds
+Mon Jul 15 16:42:22 2019	LV (STEAM_0:0:460419170): weed
+Mon Jul 15 16:42:25 2019	iWolfz -ERP- (STEAM_0:0:443923189): /pm derp what hapend to mod on duty?
+Mon Jul 15 16:42:29 2019	LV (STEAM_0:0:460419170): yes
+Mon Jul 15 16:42:46 2019	LV (STEAM_0:0:460419170): make new seeds
+Mon Jul 15 16:42:50 2019	LV (STEAM_0:0:460419170): to grow
+Mon Jul 15 16:42:59 2019	LV (STEAM_0:0:460419170): /invholster
+Mon Jul 15 16:43:20 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): /dropmoney 5101269
+Mon Jul 15 16:43:21 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) has dropped $5,101,269
+Mon Jul 15 16:43:47 2019	LV (STEAM_0:0:460419170): i meant to grab car
+Mon Jul 15 16:44:21 2019	jtroll1942 (STEAM_0:1:119864290) has joined the game
+Mon Jul 15 16:44:21 2019	jtroll1942 (STEAM_0:1:119864290) spawned
+Mon Jul 15 16:44:30 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): /dropmoney 936950
+Mon Jul 15 16:44:31 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) has dropped $936,950
+Mon Jul 15 16:44:31 2019	iWolfz -ERP- (STEAM_0:0:443923189): !hp dio 100
+Mon Jul 15 16:44:34 2019	LV (STEAM_0:0:460419170): yes
+Mon Jul 15 16:44:38 2019	iWolfz -ERP- (STEAM_0:0:443923189): !hp @ 100
+Mon Jul 15 16:44:50 2019	iWolfz -ERP- (STEAM_0:0:443923189): !hp @ 100
+Mon Jul 15 16:44:51 2019	LV (STEAM_0:0:460419170): what
+Mon Jul 15 16:45:01 2019	iWolfz -ERP- (STEAM_0:0:443923189): !hp @ 100
+Mon Jul 15 16:45:08 2019	Derp (STEAM_0:0:52504530): can we restart now or are u still busy?
+Mon Jul 15 16:45:09 2019	iWolfz -ERP- (STEAM_0:0:443923189): !jail
+Mon Jul 15 16:45:16 2019	UG | M A S T E R (STEAM_0:1:180622613): we can restart
+Mon Jul 15 16:45:18 2019	Derp (STEAM_0:0:52504530): alright
+Mon Jul 15 16:45:22 2019	iWolfz -ERP- (STEAM_0:0:443923189): !jail @ 100
+Mon Jul 15 16:45:22 2019	Derp (STEAM_0:0:52504530): 
+Mon Jul 15 16:45:26 2019	iWolfz -ERP- (STEAM_0:0:443923189): !unjail dio
+Mon Jul 15 16:45:27 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // kk
+Mon Jul 15 16:45:30 2019	iWolfz -ERP- (STEAM_0:0:443923189): // k
+Mon Jul 15 16:45:36 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): /drop

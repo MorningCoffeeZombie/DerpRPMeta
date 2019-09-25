@@ -1,0 +1,37 @@
+{
+	"Vehicles": {
+		"models/tdmcars/dod_ram_1500.mdl$$$_VC_$$$Dodge RAM 1500$$$_VC_$$$0": {
+			"Color": {
+				"r": 0.0,
+				"b": 0.0,
+				"a": 255.0,
+				"g": 0.0
+			},
+			"BGroups": {
+				"4": 1.0,
+				"5": 0.0,
+				"6": 0.0,
+				"7": 1.0,
+				"9": 0.0
+			},
+			"Spawned": 202.0
+		},
+		"models/tdmcars/fer_lafer.mdl$$$_VC_$$$Ferrari LaFerrari$$$_VC_$$$0": {
+			"Color": {
+				"r": 0.0,
+				"b": 0.0,
+				"a": 255.0,
+				"g": 0.0
+			},
+			"Spawned": 1572.0,
+			"BGroups": {
+				"6": 1.0,
+				"7": 1.0,
+				"8": 1.0
+			}
+		},
+		"models/tdmcars/emergency/mitsu_evox.mdl$$$_VC_$$$Mitsubishi Evo X Police$$$_VC_$$$0": {
+			"Spawned": 1429.0
+		}
+	}
+}

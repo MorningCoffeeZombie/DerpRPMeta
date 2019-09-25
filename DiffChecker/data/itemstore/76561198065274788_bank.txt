@@ -1,0 +1,1 @@
+[{"Data":{"THC":50.0,"WeedName":"eskeetit 20","ZWFOwner":"STEAM_0:0:62003849","WeedAmount":800.0,"WeedID":1.0},"Class":"zwf_weedblock"}]

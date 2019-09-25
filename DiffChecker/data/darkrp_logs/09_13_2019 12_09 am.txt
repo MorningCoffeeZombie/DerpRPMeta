@@ -1,0 +1,9 @@
+Fri Sep 13 00:09:57 2019	DrDerpenstein sups.gg (STEAM_0:0:13562763) has joined the game
+Fri Sep 13 00:09:57 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Fri Sep 13 00:10:40 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Fri Sep 13 00:13:59 2019	DrDerpenstein (STEAM_0:0:13562763): k
+Fri Sep 13 00:14:06 2019	DrDerpenstein was killed by Himself with a suicide trick
+Fri Sep 13 00:14:07 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Fri Sep 13 00:14:58 2019	DrDerpenstein was killed by Himself with a suicide trick
+Fri Sep 13 00:15:00 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Fri Sep 13 00:16:05 2019	DrDerpenstein (STEAM_0:0:13562763) disconnected

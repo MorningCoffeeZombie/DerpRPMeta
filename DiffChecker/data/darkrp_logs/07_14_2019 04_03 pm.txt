@@ -1,0 +1,2092 @@
+Sun Jul 14 16:03:26 2019	Derp (STEAM_0:0:52504530) has joined the game
+Sun Jul 14 16:03:26 2019	Derp (STEAM_0:0:52504530) spawned
+Sun Jul 14 16:03:29 2019	Doof (STEAM_0:1:426762407) has joined the game
+Sun Jul 14 16:03:29 2019	Doof (STEAM_0:1:426762407) spawned
+Sun Jul 14 16:03:31 2019	reesemorrow34 (STEAM_0:1:422822587) has joined the game
+Sun Jul 14 16:03:31 2019	reesemorrow34 (STEAM_0:1:422822587) spawned
+Sun Jul 14 16:03:37 2019	Sausy (STEAM_0:0:112032713) has joined the game
+Sun Jul 14 16:03:37 2019	Sausy (STEAM_0:0:112032713) spawned
+Sun Jul 14 16:04:08 2019	Derp (STEAM_0:0:52504530): yo
+Sun Jul 14 16:04:10 2019	reesemorrow34 (STEAM_0:1:422822587): hey
+Sun Jul 14 16:04:13 2019	Sausy (STEAM_0:0:112032713): hi
+Sun Jul 14 16:04:18 2019	Derp (STEAM_0:0:52504530): sausy are u satisfied now
+Sun Jul 14 16:04:30 2019	Sausy (STEAM_0:0:112032713): lemme see
+Sun Jul 14 16:04:35 2019	reesemorrow34 (STEAM_0:1:422822587): are u guys going to add the website?
+Sun Jul 14 16:04:42 2019	LV (STEAM_0:0:460419170) has joined the game
+Sun Jul 14 16:04:42 2019	LV (STEAM_0:0:460419170) spawned
+Sun Jul 14 16:04:43 2019	Derp (STEAM_0:0:52504530): im waiting for the developer to get online so he can do it
+Sun Jul 14 16:04:48 2019	reesemorrow34 (STEAM_0:1:422822587): ok
+Sun Jul 14 16:05:06 2019	LV (STEAM_0:0:460419170): hey derp
+Sun Jul 14 16:05:11 2019	Derp (STEAM_0:0:52504530): anyways we are getting full on staff so dont hold ur breath
+Sun Jul 14 16:05:27 2019	Derp (STEAM_0:0:52504530): hello 
+Sun Jul 14 16:05:30 2019	LV (STEAM_0:0:460419170): /pm derp can i please get a refund
+Sun Jul 14 16:05:49 2019	LV (STEAM_0:0:460419170): /pm derp i spent 52k before reset
+Sun Jul 14 16:05:57 2019	Derp (STEAM_0:0:52504530): /give 55000
+Sun Jul 14 16:05:58 2019	Derp (STEAM_0:0:52504530) has given $55,000 to LV (STEAM_0:0:460419170)
+Sun Jul 14 16:06:03 2019	LV (STEAM_0:0:460419170): thank you
+Sun Jul 14 16:06:20 2019	Derp (STEAM_0:0:52504530): /give 55000
+Sun Jul 14 16:06:22 2019	Derp (STEAM_0:0:52504530) has given $55,000 to LV (STEAM_0:0:460419170)
+Sun Jul 14 16:06:22 2019	Sausy was killed by Doof with a m9k_model627
+Sun Jul 14 16:06:26 2019	Sausy (STEAM_0:0:112032713) spawned
+Sun Jul 14 16:06:27 2019	Derp (STEAM_0:0:52504530): its trump
+Sun Jul 14 16:06:29 2019	LV (STEAM_0:0:460419170): /pm derp can i no clip to my base again and restart
+Sun Jul 14 16:06:34 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) has joined the game
+Sun Jul 14 16:06:34 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned
+Sun Jul 14 16:06:34 2019	Derp (STEAM_0:0:52504530): /pm LV yeah idc man
+Sun Jul 14 16:06:35 2019	Sausy (STEAM_0:0:112032713): lmao
+Sun Jul 14 16:06:40 2019	LV (STEAM_0:0:460419170): ok thank you
+Sun Jul 14 16:07:05 2019	Derp (STEAM_0:0:52504530): /pm zookie is ur stuff working now
+Sun Jul 14 16:07:07 2019	LV (STEAM_0:0:460419170) spawned SENT zwf_buyer_npc
+Sun Jul 14 16:07:12 2019	Zookie 〈メイド〉 was killed by Doof with a m9k_model627
+Sun Jul 14 16:07:15 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned
+Sun Jul 14 16:07:17 2019	LV (STEAM_0:0:460419170) spawned SENT zwf_generator
+Sun Jul 14 16:07:46 2019	LV (STEAM_0:0:460419170): /unownalldoors
+Sun Jul 14 16:07:53 2019	Hitman Sausy accepted a hit on reesemorrow34, ordered by Derp for $200
+Sun Jul 14 16:08:15 2019	LV (STEAM_0:0:460419170): !goto derp
+Sun Jul 14 16:08:19 2019	Hitman Sausy finished a hit on reesemorrow34, ordered by Derp for $200
+Sun Jul 14 16:08:19 2019	reesemorrow34 was killed by Sausy with a fas2_m24
+Sun Jul 14 16:08:22 2019	reesemorrow34 (STEAM_0:1:422822587) spawned
+Sun Jul 14 16:08:24 2019	LV (STEAM_0:0:460419170): how much is prop limit
+Sun Jul 14 16:08:28 2019	Derp (STEAM_0:0:52504530): 50 or 60
+Sun Jul 14 16:08:29 2019	Sausy (STEAM_0:0:112032713): this gun is soo realistic
+Sun Jul 14 16:08:32 2019	LV (STEAM_0:0:460419170): ok thank you
+Sun Jul 14 16:08:37 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): OwO
+Sun Jul 14 16:08:39 2019	Derp (STEAM_0:0:52504530): i like these guns better than M9K
+Sun Jul 14 16:08:42 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): OwO
+Sun Jul 14 16:08:55 2019	Zookie 〈メイド〉 was killed by Doof with a m9k_model627
+Sun Jul 14 16:08:57 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned
+Sun Jul 14 16:09:01 2019	Doof was killed by Himself with a suicide trick
+Sun Jul 14 16:09:03 2019	Doof (STEAM_0:1:426762407) spawned
+Sun Jul 14 16:09:04 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !goto derp
+Sun Jul 14 16:09:07 2019	Derp (STEAM_0:0:52504530): yo
+Sun Jul 14 16:09:18 2019	Derp (STEAM_0:0:52504530): we were gonna add them but we got really tired last night and went to bed
+Sun Jul 14 16:09:26 2019	Derp (STEAM_0:0:52504530): we will do it today ok
+Sun Jul 14 16:09:35 2019	Sausy (STEAM_0:0:112032713): damn derp
+Sun Jul 14 16:09:47 2019	Sausy (STEAM_0:0:112032713): you should give me the supress barrel and the tripod for my sniper
+Sun Jul 14 16:09:55 2019	Derp (STEAM_0:0:52504530): aight
+Sun Jul 14 16:10:01 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !goto doof
+Sun Jul 14 16:10:05 2019	Derp (STEAM_0:0:52504530) spawned SENT fas2_att_harrisbipod
+Sun Jul 14 16:10:11 2019	Sausy (STEAM_0:0:112032713): you should make for all guns to have all the things
+Sun Jul 14 16:10:13 2019	Derp (STEAM_0:0:52504530) spawned SENT fas2_att_suppressor
+Sun Jul 14 16:10:26 2019	Hitman Sausy accepted a hit on Doof, ordered by reesemorrow34 for $200
+Sun Jul 14 16:10:34 2019	Sausy (STEAM_0:0:112032713): where he go ?
+Sun Jul 14 16:10:34 2019	Derp (STEAM_0:0:52504530): ill make it so u spawn with the bipod and supressor
+Sun Jul 14 16:10:38 2019	Sausy (STEAM_0:0:112032713): yes
+Sun Jul 14 16:10:45 2019	Sausy (STEAM_0:0:112032713): not just for this gun but for all the guns 
+Sun Jul 14 16:10:59 2019	Sausy (STEAM_0:0:112032713): excuse me sir
+Sun Jul 14 16:11:01 2019	Derp (STEAM_0:0:52504530): i dont wanna give everything because it might make stuff a little OP
+Sun Jul 14 16:11:02 2019	Sausy (STEAM_0:0:112032713): where is Doof
+Sun Jul 14 16:11:07 2019	reesemorrow34 (STEAM_0:1:422822587): idk
+Sun Jul 14 16:11:11 2019	Sausy (STEAM_0:0:112032713): ight
+Sun Jul 14 16:11:12 2019	Derp (STEAM_0:0:52504530): /mayor
+Sun Jul 14 16:11:14 2019	Sausy (STEAM_0:0:112032713): lets hunt him
+Sun Jul 14 16:11:26 2019	Doof (STEAM_0:1:426762407): /party
+Sun Jul 14 16:11:32 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): OwO
+Sun Jul 14 16:11:46 2019	Derp (STEAM_0:0:52504530): excuse me
+Sun Jul 14 16:11:50 2019	reesemorrow34 (STEAM_0:1:422822587): yes?
+Sun Jul 14 16:11:55 2019	Derp (STEAM_0:0:52504530): are u trying to tase flies
+Sun Jul 14 16:11:59 2019	reesemorrow34 (STEAM_0:1:422822587): yes
+Sun Jul 14 16:12:02 2019	Derp (STEAM_0:0:52504530): good job
+Sun Jul 14 16:12:15 2019	Derp (STEAM_0:0:52504530): whats going on
+Sun Jul 14 16:12:34 2019	Sausy (STEAM_0:0:112032713): that's cheating
+Sun Jul 14 16:12:36 2019	Derp (STEAM_0:0:52504530): HES CHEATING
+Sun Jul 14 16:12:39 2019	Derp (STEAM_0:0:52504530): a what now
+Sun Jul 14 16:12:40 2019	Sausy (STEAM_0:0:112032713): idk
+Sun Jul 14 16:12:46 2019	Derp (STEAM_0:0:52504530): party system?
+Sun Jul 14 16:12:53 2019	Derp (STEAM_0:0:52504530): like for friends?
+Sun Jul 14 16:12:56 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): /party
+Sun Jul 14 16:12:59 2019	Derp (STEAM_0:0:52504530): /party
+Sun Jul 14 16:13:07 2019	Derp (STEAM_0:0:52504530): i havent been on a darkrp server in at least 3 years
+Sun Jul 14 16:13:13 2019	Sausy (STEAM_0:0:112032713): stand stil
+Sun Jul 14 16:13:15 2019	Sausy (STEAM_0:0:112032713): i trynna donate
+Sun Jul 14 16:13:20 2019	Derp (STEAM_0:0:52504530): oh
+Sun Jul 14 16:13:21 2019	Hitman Sausy finished a hit on Doof, ordered by reesemorrow34 for $200
+Sun Jul 14 16:13:21 2019	Doof was killed by Sausy with a fas2_m24
+Sun Jul 14 16:13:24 2019	Sausy (STEAM_0:0:112032713): hahah
+Sun Jul 14 16:13:25 2019	Doof (STEAM_0:1:426762407) spawned
+Sun Jul 14 16:13:31 2019	Derp (STEAM_0:0:52504530): ill tell my developer about it when he gets on
+Sun Jul 14 16:13:32 2019	Doof (STEAM_0:1:426762407): ooooooooooooooooooooooooooof
+Sun Jul 14 16:13:59 2019	Derp (STEAM_0:0:52504530): to do what
+Sun Jul 14 16:14:08 2019	Derp (STEAM_0:0:52504530): wtf
+Sun Jul 14 16:14:21 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): 
+Sun Jul 14 16:14:22 2019	Sausy (STEAM_0:0:112032713): place hit
+Sun Jul 14 16:14:27 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !bring doof
+Sun Jul 14 16:14:29 2019	Hitman Sausy accepted a hit on Zookie 〈メイド〉, ordered by Derp for $200
+Sun Jul 14 16:14:33 2019	Hitman Sausy finished a hit on Zookie 〈メイド〉, ordered by Derp for $200
+Sun Jul 14 16:14:33 2019	Zookie 〈メイド〉 was killed by Sausy with a fas2_m24
+Sun Jul 14 16:14:36 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned
+Sun Jul 14 16:14:37 2019	Sausy (STEAM_0:0:112032713): ez
+Sun Jul 14 16:14:38 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !goto doof
+Sun Jul 14 16:14:38 2019	Sausy was killed by Doof with a m9k_model627
+Sun Jul 14 16:14:44 2019	LV (STEAM_0:0:460419170): !goto derp
+Sun Jul 14 16:14:45 2019	Sausy (STEAM_0:0:112032713): o..
+Sun Jul 14 16:14:46 2019	Sausy (STEAM_0:0:112032713) spawned
+Sun Jul 14 16:14:48 2019	LV (STEAM_0:0:460419170): hey derp
+Sun Jul 14 16:14:51 2019	Derp (STEAM_0:0:52504530): ye
+Sun Jul 14 16:14:54 2019	Sausy (STEAM_0:0:112032713): hi
+Sun Jul 14 16:14:58 2019	reesemorrow34 (STEAM_0:1:422822587): hello
+Sun Jul 14 16:15:04 2019	LV (STEAM_0:0:460419170): /pm derp what weapon am i allowed to use
+Sun Jul 14 16:15:08 2019	Sausy (STEAM_0:0:112032713): wanna go with the bois ?
+Sun Jul 14 16:15:16 2019	reesemorrow34 (STEAM_0:1:422822587): sure
+Sun Jul 14 16:15:16 2019	Sausy (STEAM_0:0:112032713): or u wanna build ur gunshop ?
+Sun Jul 14 16:15:30 2019	Derp (STEAM_0:0:52504530): yeah i know but the problem is that a lot of these guns have weird models 
+Sun Jul 14 16:15:34 2019	reesemorrow34 (STEAM_0:1:422822587): forget the gun shop that will take to long
+Sun Jul 14 16:15:38 2019	Derp (STEAM_0:0:52504530): so i was trying to find guns that werent weird
+Sun Jul 14 16:15:48 2019	Derp (STEAM_0:0:52504530): ill add like 3 or 4 more soon
+Sun Jul 14 16:16:13 2019	Doof was killed by Zookie 〈メイド〉 with a fas2_glock20
+Sun Jul 14 16:16:15 2019	Doof (STEAM_0:1:426762407) spawned
+Sun Jul 14 16:16:24 2019	LV (STEAM_0:0:460419170): i dont have a gun
+Sun Jul 14 16:16:33 2019	LV (STEAM_0:0:460419170): thank you
+Sun Jul 14 16:16:44 2019	Derp (STEAM_0:0:52504530): alright guys im going on a lunch break going AFK
+Sun Jul 14 16:16:51 2019	Derp (STEAM_0:0:52504530): cya later
+Sun Jul 14 16:17:03 2019	LV (STEAM_0:0:460419170): i am going to my base bye
+Sun Jul 14 16:17:11 2019	Sausy (STEAM_0:0:112032713): is a prop
+Sun Jul 14 16:18:37 2019	Sausy (STEAM_0:0:112032713): place a hit
+Sun Jul 14 16:18:40 2019	Sausy (STEAM_0:0:112032713): i wanna kill
+Sun Jul 14 16:18:43 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !menu
+Sun Jul 14 16:18:45 2019	Zookie 〈メイド〉 was killed by Doof with a m9k_model627
+Sun Jul 14 16:18:47 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned
+Sun Jul 14 16:18:50 2019	Sausy (STEAM_0:0:112032713): hello
+Sun Jul 14 16:18:55 2019	Sausy (STEAM_0:0:112032713): place a hit
+Sun Jul 14 16:18:57 2019	reesemorrow34 (STEAM_0:1:422822587): hello
+Sun Jul 14 16:18:57 2019	Sausy (STEAM_0:0:112032713): i wanna kill someone
+Sun Jul 14 16:18:58 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): 
+Sun Jul 14 16:19:00 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !
+Sun Jul 14 16:19:02 2019	Sausy (STEAM_0:0:112032713): press E on me
+Sun Jul 14 16:19:02 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !jail doof
+Sun Jul 14 16:19:06 2019	Hitman Sausy accepted a hit on Derp, ordered by reesemorrow34 for $200
+Sun Jul 14 16:19:11 2019	Sausy (STEAM_0:0:112032713): i'll make sure he ded
+Sun Jul 14 16:19:22 2019	Doof (STEAM_0:1:426762407) spawned
+Sun Jul 14 16:19:27 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !unjail doof
+Sun Jul 14 16:19:40 2019	Doof was killed by Zookie 〈メイド〉 with a fas2_glock20
+Sun Jul 14 16:19:42 2019	Doof (STEAM_0:1:426762407) spawned
+Sun Jul 14 16:20:06 2019	Doof was killed by Himself with a suicide trick
+Sun Jul 14 16:20:09 2019	Doof (STEAM_0:1:426762407) spawned
+Sun Jul 14 16:20:26 2019	Sausy (STEAM_0:0:112032713): HAHAHA
+Sun Jul 14 16:20:29 2019	Sausy (STEAM_0:0:112032713): WTF ARE YOU
+Sun Jul 14 16:20:31 2019	Doof (STEAM_0:1:426762407): my mom
+Sun Jul 14 16:20:34 2019	Sausy (STEAM_0:0:112032713): LOOOL!!
+Sun Jul 14 16:20:47 2019	Derp (STEAM_0:0:52504530): /apg
+Sun Jul 14 16:21:37 2019	reesemorrow34 (STEAM_0:1:422822587): // soooooo, how do printers work?
+Sun Jul 14 16:21:44 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // Don't use them please
+Sun Jul 14 16:21:47 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // They're trash
+Sun Jul 14 16:21:51 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // And burn after like 10 minutes
+Sun Jul 14 16:21:54 2019	Sausy (STEAM_0:0:112032713): hey
+Sun Jul 14 16:21:56 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // Just use bitcoin m8
+Sun Jul 14 16:21:56 2019	reesemorrow34 (STEAM_0:1:422822587): // too late
+Sun Jul 14 16:21:57 2019	Sausy (STEAM_0:0:112032713): where is derp
+Sun Jul 14 16:21:59 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // Oof
+Sun Jul 14 16:22:01 2019	Doof (STEAM_0:1:426762407): idk
+Sun Jul 14 16:22:03 2019	Sausy (STEAM_0:0:112032713): hec
+Sun Jul 14 16:22:04 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // which one did you buy
+Sun Jul 14 16:22:08 2019	reesemorrow34 (STEAM_0:1:422822587): silver
+Sun Jul 14 16:22:13 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !goto reese
+Sun Jul 14 16:22:24 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): /dropmoney 20000
+Sun Jul 14 16:22:25 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) has dropped $20,000
+Sun Jul 14 16:24:05 2019	LV (STEAM_0:0:460419170) spawned SENT zwf_autopacker
+Sun Jul 14 16:24:09 2019	LV (STEAM_0:0:460419170) spawned SENT zwf_pot_hydro
+Sun Jul 14 16:24:10 2019	LV (STEAM_0:0:460419170) spawned SENT zwf_pot_hydro
+Sun Jul 14 16:24:14 2019	Sausy (STEAM_0:0:112032713): // derp i need ur help
+Sun Jul 14 16:24:18 2019	Derp (STEAM_0:0:52504530) spawned SENT ariesite
+Sun Jul 14 16:24:19 2019	Derp (STEAM_0:0:52504530) spawned SENT arieinformation
+Sun Jul 14 16:24:20 2019	Derp (STEAM_0:0:52504530) spawned SENT ariechart
+Sun Jul 14 16:24:40 2019	Sausy (STEAM_0:0:112032713): i need ur help to make money
+Sun Jul 14 16:24:48 2019	Derp (STEAM_0:0:52504530): in what way
+Sun Jul 14 16:24:54 2019	Sausy (STEAM_0:0:112032713): in this way
+Sun Jul 14 16:24:54 2019	Hitman Sausy finished a hit on Derp, ordered by reesemorrow34 for $200
+Sun Jul 14 16:24:54 2019	Derp was killed by Sausy with a fas2_m24
+Sun Jul 14 16:25:03 2019	Sausy (STEAM_0:0:112032713): my job is done :3
+Sun Jul 14 16:25:18 2019	Derp (STEAM_0:0:52504530) spawned
+Sun Jul 14 16:25:30 2019	Sausy (STEAM_0:0:112032713): it was reesemorrow34 i swear
+Sun Jul 14 16:25:39 2019	Sausy (STEAM_0:0:112032713): lmaoo
+Sun Jul 14 16:25:42 2019	Derp (STEAM_0:0:52504530): lol jk
+Sun Jul 14 16:26:03 2019	Derp (STEAM_0:0:52504530): im eating food rn so if i dont respond thats why
+Sun Jul 14 16:26:10 2019	Sausy (STEAM_0:0:112032713): ...
+Sun Jul 14 16:26:13 2019	Derp (STEAM_0:0:52504530): im eating rn btw
+Sun Jul 14 16:26:16 2019	Sausy (STEAM_0:0:112032713): o
+Sun Jul 14 16:26:23 2019	Derp (STEAM_0:0:52504530): ill be back soon
+Sun Jul 14 16:26:27 2019	Sausy (STEAM_0:0:112032713): where are my victims ?
+Sun Jul 14 16:26:34 2019	Hitman Sausy accepted a hit on reesemorrow34, ordered by Derp for $200
+Sun Jul 14 16:26:55 2019	Doof was killed by Himself with a suicide trick
+Sun Jul 14 16:27:01 2019	Doof (STEAM_0:1:426762407) spawned
+Sun Jul 14 16:28:00 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): 
+Sun Jul 14 16:28:38 2019	LV (STEAM_0:0:460419170): /pm derp hey der can weed growers have printers
+Sun Jul 14 16:28:43 2019	LV (STEAM_0:0:460419170): /pm derp derp
+Sun Jul 14 16:28:49 2019	Doof was killed by Himself with a suicide trick
+Sun Jul 14 16:28:50 2019	Derp (STEAM_0:0:52504530): /pm lv yes
+Sun Jul 14 16:28:57 2019	Doof (STEAM_0:1:426762407) spawned
+Sun Jul 14 16:28:57 2019	LV (STEAM_0:0:460419170): /pm derp ok thank you
+Sun Jul 14 16:29:28 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): uwu
+Sun Jul 14 16:29:33 2019	LV (STEAM_0:0:460419170): /pm derp derp i need your help
+Sun Jul 14 16:29:49 2019	Derp (STEAM_0:0:52504530): 
+Sun Jul 14 16:30:20 2019	Doof was killed by Himself with a suicide trick
+Sun Jul 14 16:30:29 2019	Derp (STEAM_0:0:52504530): /pm lv hold on im eating rn
+Sun Jul 14 16:30:36 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): uwu
+Sun Jul 14 16:30:36 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): uwu
+Sun Jul 14 16:30:45 2019	LV (STEAM_0:0:460419170): /pm derp i think i got it
+Sun Jul 14 16:31:03 2019	Doof (STEAM_0:1:426762407) disconnected
+Sun Jul 14 16:31:37 2019	Sausy (STEAM_0:0:112032713): // derp
+Sun Jul 14 16:31:44 2019	Sausy (STEAM_0:0:112032713): // o nvm ur eating..
+Sun Jul 14 16:31:56 2019	LV (STEAM_0:0:460419170): /pm sau can i help with any thing or do you need derp
+Sun Jul 14 16:32:26 2019	Sausy (STEAM_0:0:112032713): // i just wanted to know if he was gonna put the attachments to all the guns for like for sell very cheap or very expensive
+Sun Jul 14 16:32:38 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // Probably very expensive
+Sun Jul 14 16:32:42 2019	LV (STEAM_0:0:460419170): /pm sau oh ok 
+Sun Jul 14 16:32:47 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // They need to be expensive anyways.
+Sun Jul 14 16:33:11 2019	Sausy (STEAM_0:0:112032713): // but once you buy them dont they like despawn ?
+Sun Jul 14 16:33:16 2019	Sausy (STEAM_0:0:112032713): // you lose them if you die ?
+Sun Jul 14 16:33:27 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // Oh damn, i thought they were permanent
+Sun Jul 14 16:33:30 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // Very cheap then lmao
+Sun Jul 14 16:33:36 2019	Sausy (STEAM_0:0:112032713): // exactly
+Sun Jul 14 16:33:54 2019	LV (STEAM_0:0:460419170): // if they are in your pocket then they will fall on the ground
+Sun Jul 14 16:34:14 2019	reesemorrow34 (STEAM_0:1:422822587): // k guys im back
+Sun Jul 14 16:35:08 2019	Hitman Sausy finished a hit on reesemorrow34, ordered by Derp for $200
+Sun Jul 14 16:35:08 2019	reesemorrow34 was killed by Sausy with a fas2_m24
+Sun Jul 14 16:35:14 2019	reesemorrow34 (STEAM_0:1:422822587) spawned
+Sun Jul 14 16:35:15 2019	Sausy (STEAM_0:0:112032713): // my job is done..
+Sun Jul 14 16:35:19 2019	reesemorrow34 (STEAM_0:1:422822587): // big oof
+Sun Jul 14 16:35:46 2019	Sausy (STEAM_0:0:112032713): // yeah you done big oof the owner knew you put a hit on him
+Sun Jul 14 16:35:53 2019	LV (STEAM_0:0:460419170): // do hitmans have lock picks
+Sun Jul 14 16:35:56 2019	Sausy (STEAM_0:0:112032713): // so he returned the favour
+Sun Jul 14 16:36:04 2019	Sausy (STEAM_0:0:112032713): // i already have a lockpick
+Sun Jul 14 16:36:05 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // I dont think so LV
+Sun Jul 14 16:36:18 2019	LV (STEAM_0:0:460419170): // how do they get in if you have base
+Sun Jul 14 16:36:27 2019	Sausy (STEAM_0:0:112032713): // true
+Sun Jul 14 16:36:35 2019	Sausy (STEAM_0:0:112032713): // but i already have a lockpick
+Sun Jul 14 16:36:39 2019	Sausy (STEAM_0:0:112032713): // is it because im moderator ?
+Sun Jul 14 16:36:58 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): uwu
+Sun Jul 14 16:37:09 2019	LV (STEAM_0:0:460419170): // i dont think so because i dont have one
+Sun Jul 14 16:37:22 2019	Sausy (STEAM_0:0:112032713): // because you are not moderator ?
+Sun Jul 14 16:37:29 2019	LV (STEAM_0:0:460419170): // i dont know
+Sun Jul 14 16:37:30 2019	Sausy (STEAM_0:0:112032713): // or because you are not hitman ?
+Sun Jul 14 16:37:44 2019	Sausy (STEAM_0:0:112032713): // just saying i have a lockpick
+Sun Jul 14 16:37:49 2019	Sausy (STEAM_0:0:112032713): // as hitman
+Sun Jul 14 16:37:53 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): //
+Sun Jul 14 16:38:04 2019	Derp (STEAM_0:0:52504530): /ooc hitman has one to break into a place to kill target
+Sun Jul 14 16:38:08 2019	Sausy (STEAM_0:0:112032713): // damn where did everyone go ?
+Sun Jul 14 16:39:04 2019	Sausy (STEAM_0:0:112032713): hit ?
+Sun Jul 14 16:39:07 2019	Sausy (STEAM_0:0:112032713): :C
+Sun Jul 14 16:39:09 2019	Sausy (STEAM_0:0:112032713): ok..
+Sun Jul 14 16:39:35 2019	Sausy (STEAM_0:0:112032713): /y wo
+Sun Jul 14 16:39:49 2019	Sausy (STEAM_0:0:112032713): /y woo
+Sun Jul 14 16:39:54 2019	Sausy (STEAM_0:0:112032713): /y HIT ?
+Sun Jul 14 16:40:01 2019	LV (STEAM_0:0:460419170): /pm sausy i am good 
+Sun Jul 14 16:40:06 2019	Sausy (STEAM_0:0:112032713): ok
+Sun Jul 14 16:40:58 2019	Sausy (STEAM_0:0:112032713): hi
+Sun Jul 14 16:41:01 2019	reesemorrow34 (STEAM_0:1:422822587): hello
+Sun Jul 14 16:41:15 2019	Sausy (STEAM_0:0:112032713): this is gonna be my very dark place to make my hitman shop
+Sun Jul 14 16:41:21 2019	reesemorrow34 (STEAM_0:1:422822587): nice
+Sun Jul 14 16:41:26 2019	Sausy (STEAM_0:0:112032713): yes
+Sun Jul 14 16:41:26 2019	reesemorrow34 (STEAM_0:1:422822587): can I help?
+Sun Jul 14 16:41:33 2019	Sausy (STEAM_0:0:112032713): on what
+Sun Jul 14 16:41:39 2019	reesemorrow34 (STEAM_0:1:422822587): building it
+Sun Jul 14 16:41:50 2019	Sausy (STEAM_0:0:112032713): hmmmmmm
+Sun Jul 14 16:41:55 2019	Sausy (STEAM_0:0:112032713): actually yes
+Sun Jul 14 16:42:04 2019	Derp (STEAM_0:0:52504530): i probably just scared the shit out of u
+Sun Jul 14 16:42:05 2019	Sausy (STEAM_0:0:112032713): hi?
+Sun Jul 14 16:42:08 2019	Sausy (STEAM_0:0:112032713): yup
+Sun Jul 14 16:42:14 2019	Sausy (STEAM_0:0:112032713): almost shit my pants
+Sun Jul 14 16:42:15 2019	Derp (STEAM_0:0:52504530): XD
+Sun Jul 14 16:42:22 2019	Derp (STEAM_0:0:52504530): what a terrible place for me to tp
+Sun Jul 14 16:42:25 2019	Derp (STEAM_0:0:52504530): in front of a door
+Sun Jul 14 16:42:28 2019	Derp (STEAM_0:0:52504530): as a hobo
+Sun Jul 14 16:42:29 2019	Sausy (STEAM_0:0:112032713): yup
+Sun Jul 14 16:42:34 2019	Derp (STEAM_0:0:52504530): are u having any issues
+Sun Jul 14 16:42:41 2019	Sausy (STEAM_0:0:112032713): well
+Sun Jul 14 16:42:43 2019	Sausy (STEAM_0:0:112032713): i was wondering
+Sun Jul 14 16:42:47 2019	Sausy (STEAM_0:0:112032713): the gun attachments things
+Sun Jul 14 16:42:53 2019	Sausy (STEAM_0:0:112032713): how is it gonna work for the other guns
+Sun Jul 14 16:42:54 2019	Derp (STEAM_0:0:52504530): u want everyone to have all attachments
+Sun Jul 14 16:43:04 2019	Sausy (STEAM_0:0:112032713): like are they gonna be for sell?
+Sun Jul 14 16:43:18 2019	Sausy (STEAM_0:0:112032713): are they gonna be expensive and permanent or super cheap and not permanent
+Sun Jul 14 16:43:25 2019	Derp (STEAM_0:0:52504530): i probably could make them be for sale as the gun dealer but it would take a long ass time
+Sun Jul 14 16:43:28 2019	Derp (STEAM_0:0:52504530): there are so many of them
+Sun Jul 14 16:43:39 2019	LV (STEAM_0:0:460419170): /pm derp how much money do you have
+Sun Jul 14 16:43:42 2019	Sausy (STEAM_0:0:112032713): do you want to put all the attachments for free ?
+Sun Jul 14 16:43:46 2019	Sausy (STEAM_0:0:112032713): like permanent ?
+Sun Jul 14 16:43:48 2019	Derp (STEAM_0:0:52504530): for now i will make it so that everyone spawns with all of the attachments
+Sun Jul 14 16:43:54 2019	Sausy (STEAM_0:0:112032713): YES!
+Sun Jul 14 16:44:09 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): OH SHIT
+Sun Jul 14 16:44:09 2019	Derp (STEAM_0:0:52504530): ok everyone has the attachments when they respawn now
+Sun Jul 14 16:44:11 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // ohh shit
+Sun Jul 14 16:44:14 2019	Sausy (STEAM_0:0:112032713): PERFEKT
+Sun Jul 14 16:44:14 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // we got attatchments
+Sun Jul 14 16:44:20 2019	Sausy (STEAM_0:0:112032713): // all thanks to mee
+Sun Jul 14 16:44:26 2019	Derp (STEAM_0:0:52504530): all thanks to u
+Sun Jul 14 16:44:36 2019	Sausy (STEAM_0:0:112032713): all thanks to me we all finna die!
+Sun Jul 14 16:44:37 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // hush you goober
+Sun Jul 14 16:44:39 2019	Sausy (STEAM_0:0:112032713): tyay
+Sun Jul 14 16:44:45 2019	Derp (STEAM_0:0:52504530): reese are u enjoying the server or is it shit
+Sun Jul 14 16:44:48 2019	LV (STEAM_0:0:460419170): /pm derp derp i need help
+Sun Jul 14 16:44:55 2019	Sausy (STEAM_0:0:112032713): def needs more people
+Sun Jul 14 16:45:00 2019	Derp (STEAM_0:0:52504530): well i cant really control that can i
+Sun Jul 14 16:45:01 2019	Sausy (STEAM_0:0:112032713): you'd need someone to promote it
+Sun Jul 14 16:45:02 2019	LV (STEAM_0:0:460419170): /pm derp i have a question
+Sun Jul 14 16:45:08 2019	Derp (STEAM_0:0:52504530): ill find a way
+Sun Jul 14 16:45:10 2019	Sausy (STEAM_0:0:112032713): yes you can
+Sun Jul 14 16:45:18 2019	Derp (STEAM_0:0:52504530): /pm lv yes
+Sun Jul 14 16:45:26 2019	Derp (STEAM_0:0:52504530): well if my developer makes the website thats a starter
+Sun Jul 14 16:45:33 2019	Sausy (STEAM_0:0:112032713): yes
+Sun Jul 14 16:45:35 2019	LV (STEAM_0:0:460419170): /pm derp how do you stop printers from blowing up if they are on fire
+Sun Jul 14 16:45:40 2019	Derp (STEAM_0:0:52504530): /pm lv u cant stop them 
+Sun Jul 14 16:45:45 2019	Sausy (STEAM_0:0:112032713): you should start making a website for Staff Applications and donations and stuff like that
+Sun Jul 14 16:45:46 2019	Derp (STEAM_0:0:52504530): /pm lv we will be replacing the printers today
+Sun Jul 14 16:45:52 2019	Sausy (STEAM_0:0:112032713): and reports
+Sun Jul 14 16:45:54 2019	reesemorrow34 (STEAM_0:1:422822587): that would be nice U HEAR THAT DEVELOPER
+Sun Jul 14 16:45:54 2019	Derp (STEAM_0:0:52504530): yeah hes gonna start working on that
+Sun Jul 14 16:45:57 2019	Sausy (STEAM_0:0:112032713): ban apeals
+Sun Jul 14 16:45:59 2019	Derp (STEAM_0:0:52504530): !warn
+Sun Jul 14 16:46:00 2019	LV (STEAM_0:0:460419170): /pm derp ok how much money do you have just wondering
+Sun Jul 14 16:46:18 2019	Derp (STEAM_0:0:52504530): /pm lv 27 billion
+Sun Jul 14 16:46:26 2019	Derp (STEAM_0:0:52504530): !warn sausy test
+Sun Jul 14 16:46:33 2019	Derp (STEAM_0:0:52504530): !warn
+Sun Jul 14 16:46:36 2019	LV (STEAM_0:0:460419170): /pm derp do you want to donate
+Sun Jul 14 16:46:57 2019	Hitman Sausy accepted a hit on Derp, ordered by reesemorrow34 for $200
+Sun Jul 14 16:47:04 2019	Sausy (STEAM_0:0:112032713): are we done ?
+Sun Jul 14 16:47:08 2019	LV (STEAM_0:0:460419170): /pm derp i am trying to get the nuclear printer
+Sun Jul 14 16:47:09 2019	Derp (STEAM_0:0:52504530): done with what
+Sun Jul 14 16:47:18 2019	Sausy (STEAM_0:0:112032713): talking 
+Sun Jul 14 16:47:29 2019	Sausy (STEAM_0:0:112032713): or you wanna see what im gonna do here ?
+Sun Jul 14 16:47:36 2019	Derp (STEAM_0:0:52504530): no u can keep doing what u were gonna do
+Sun Jul 14 16:47:42 2019	Derp (STEAM_0:0:52504530): i just came by to see if everything was ok
+Sun Jul 14 16:47:47 2019	Sausy (STEAM_0:0:112032713): well ok
+Sun Jul 14 16:47:49 2019	Hitman Sausy finished a hit on Derp, ordered by reesemorrow34 for $200
+Sun Jul 14 16:47:49 2019	Derp was killed by Sausy with a fas2_p226
+Sun Jul 14 16:47:55 2019	Derp (STEAM_0:0:52504530): i swear to god
+Sun Jul 14 16:47:57 2019	Sausy (STEAM_0:0:112032713): sorry
+Sun Jul 14 16:47:58 2019	Derp (STEAM_0:0:52504530) spawned
+Sun Jul 14 16:48:01 2019	Sausy (STEAM_0:0:112032713): hha
+Sun Jul 14 16:48:05 2019	reesemorrow34 (STEAM_0:1:422822587): now me
+Sun Jul 14 16:48:09 2019	Derp (STEAM_0:0:52504530): /ooc was it reese
+Sun Jul 14 16:48:10 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // I got a gun shop set upppp :3
+Sun Jul 14 16:48:11 2019	reesemorrow34 (STEAM_0:1:422822587): hurry
+Sun Jul 14 16:48:16 2019	Sausy (STEAM_0:0:112032713): wdym ?
+Sun Jul 14 16:48:18 2019	reesemorrow34 (STEAM_0:1:422822587): before he comes
+Sun Jul 14 16:48:26 2019	Sausy (STEAM_0:0:112032713): want me to kill you ?
+Sun Jul 14 16:48:27 2019	Derp (STEAM_0:0:52504530): gun shop huh
+Sun Jul 14 16:48:30 2019	reesemorrow34 (STEAM_0:1:422822587): yes
+Sun Jul 14 16:48:33 2019	Sausy (STEAM_0:0:112032713): ok
+Sun Jul 14 16:48:33 2019	LV (STEAM_0:0:460419170): /pm zookie can you do delivery or only in store
+Sun Jul 14 16:48:40 2019	Sausy (STEAM_0:0:112032713): ima shoot ur eyeballs
+Sun Jul 14 16:48:42 2019	reesemorrow34 (STEAM_0:1:422822587): k
+Sun Jul 14 16:48:47 2019	Derp (STEAM_0:0:52504530): this looks like a fucking prison
+Sun Jul 14 16:48:48 2019	Sausy (STEAM_0:0:112032713): wtf
+Sun Jul 14 16:48:50 2019	Sausy (STEAM_0:0:112032713): ur imortal
+Sun Jul 14 16:48:52 2019	reesemorrow34 was killed by Sausy with a fas2_p226
+Sun Jul 14 16:48:59 2019	Sausy (STEAM_0:0:112032713): perfect
+Sun Jul 14 16:49:02 2019	reesemorrow34 (STEAM_0:1:422822587) spawned
+Sun Jul 14 16:49:17 2019	Derp (STEAM_0:0:52504530): nice shop
+Sun Jul 14 16:49:42 2019	Derp (STEAM_0:0:52504530): looks nice
+Sun Jul 14 16:49:48 2019	LV (STEAM_0:0:460419170): /pm zoo hey zookie do you do delivery or only in store 
+Sun Jul 14 16:49:56 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): /pm lv Only in store
+Sun Jul 14 16:50:05 2019	LV (STEAM_0:0:460419170): /pm zoo ok i will come down later
+Sun Jul 14 16:50:20 2019	Sausy (STEAM_0:0:112032713): we are going to prop abuse
+Sun Jul 14 16:50:23 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): /pm lv when you're in spawn, go down the right small tunnel and look for the big ass sign and follow it lol
+Sun Jul 14 16:50:24 2019	Sausy (STEAM_0:0:112032713): angle abuse
+Sun Jul 14 16:50:27 2019	reesemorrow34 (STEAM_0:1:422822587): k
+Sun Jul 14 16:50:27 2019	Sausy (STEAM_0:0:112032713): not prop abuse..
+Sun Jul 14 16:50:33 2019	Sausy (STEAM_0:0:112032713): ck
+Sun Jul 14 16:50:34 2019	LV (STEAM_0:0:460419170): /pm zo ok
+Sun Jul 14 16:50:34 2019	Derp (STEAM_0:0:52504530): i wanna buy a gun
+Sun Jul 14 16:50:35 2019	Sausy (STEAM_0:0:112032713): // DERP
+Sun Jul 14 16:50:44 2019	Sausy (STEAM_0:0:112032713): // this dumb ass precision tool slowing me down is annoying
+Sun Jul 14 16:51:00 2019	Derp (STEAM_0:0:52504530): how much is it
+Sun Jul 14 16:51:01 2019	Sausy (STEAM_0:0:112032713): look
+Sun Jul 14 16:51:06 2019	Sausy (STEAM_0:0:112032713): try to peek under
+Sun Jul 14 16:51:22 2019	Derp (STEAM_0:0:52504530): is that gonna give u profit
+Sun Jul 14 16:51:31 2019	Derp (STEAM_0:0:52504530): where do i drop the money
+Sun Jul 14 16:51:42 2019	Sausy (STEAM_0:0:112032713): can you see here ?
+Sun Jul 14 16:51:42 2019	Derp (STEAM_0:0:52504530): /dropmoney 500
+Sun Jul 14 16:51:43 2019	Derp (STEAM_0:0:52504530) has dropped $500
+Sun Jul 14 16:51:52 2019	Sausy (STEAM_0:0:112032713): try shoot me
+Sun Jul 14 16:52:01 2019	Sausy (STEAM_0:0:112032713): ok
+Sun Jul 14 16:52:02 2019	Sausy (STEAM_0:0:112032713): fuck
+Sun Jul 14 16:52:07 2019	Sausy (STEAM_0:0:112032713): u almost killed me
+Sun Jul 14 16:52:07 2019	Derp (STEAM_0:0:52504530): thats a cool gun shop
+Sun Jul 14 16:52:14 2019	Derp (STEAM_0:0:52504530): it should be
+Sun Jul 14 16:52:33 2019	Derp (STEAM_0:0:52504530): /drop
+Sun Jul 14 16:52:34 2019	Sausy (STEAM_0:0:112032713): did i hit u?
+Sun Jul 14 16:52:40 2019	reesemorrow34 (STEAM_0:1:422822587): yes once
+Sun Jul 14 16:53:00 2019	Derp (STEAM_0:0:52504530): i hope
+Sun Jul 14 16:53:19 2019	Sausy (STEAM_0:0:112032713): what about now 
+Sun Jul 14 16:53:25 2019	reesemorrow34 (STEAM_0:1:422822587): three times
+Sun Jul 14 16:53:32 2019	Sausy (STEAM_0:0:112032713): in my screen i hit u all the times
+Sun Jul 14 16:53:36 2019	LV (STEAM_0:0:460419170): zookie
+Sun Jul 14 16:53:37 2019	reesemorrow34 (STEAM_0:1:422822587): really?
+Sun Jul 14 16:53:39 2019	Sausy (STEAM_0:0:112032713): yes
+Sun Jul 14 16:53:44 2019	reesemorrow34 (STEAM_0:1:422822587): weird
+Sun Jul 14 16:53:48 2019	LV (STEAM_0:0:460419170): /y yes
+Sun Jul 14 16:54:05 2019	LV (STEAM_0:0:460419170): can i come in 
+Sun Jul 14 16:54:08 2019	reesemorrow34 (STEAM_0:1:422822587): should I set up bitcoin in the secret part of the place
+Sun Jul 14 16:54:14 2019	LV (STEAM_0:0:460419170): past this area
+Sun Jul 14 16:54:22 2019	Sausy (STEAM_0:0:112032713): yes
+Sun Jul 14 16:54:25 2019	reesemorrow34 (STEAM_0:1:422822587): k
+Sun Jul 14 16:54:27 2019	LV (STEAM_0:0:460419170): i dont know i have some questions
+Sun Jul 14 16:54:37 2019	LV (STEAM_0:0:460419170): whats a good shotgun
+Sun Jul 14 16:54:57 2019	Derp (STEAM_0:0:52504530): i was gonna add them but for some reason on multiplayer they are broken
+Sun Jul 14 16:55:12 2019	LV (STEAM_0:0:460419170): what is a good automatic
+Sun Jul 14 16:55:12 2019	Derp (STEAM_0:0:52504530): ill find some other shotguns maybe from m9k
+Sun Jul 14 16:55:22 2019	Derp (STEAM_0:0:52504530): galil
+Sun Jul 14 16:55:34 2019	Derp (STEAM_0:0:52504530): galil is a fantastic gun irl
+Sun Jul 14 16:55:46 2019	Derp (STEAM_0:0:52504530): black ops 1 is best black ops dont @ me
+Sun Jul 14 16:55:48 2019	LV (STEAM_0:0:460419170): ill take galil with atachments?
+Sun Jul 14 16:55:57 2019	Sausy (STEAM_0:0:112032713): come back
+Sun Jul 14 16:55:58 2019	Derp (STEAM_0:0:52504530): u already spawn with attachments
+Sun Jul 14 16:56:02 2019	LV (STEAM_0:0:460419170): oh
+Sun Jul 14 16:56:07 2019	LV (STEAM_0:0:460419170): i will buy halil
+Sun Jul 14 16:56:11 2019	LV (STEAM_0:0:460419170): single please
+Sun Jul 14 16:56:12 2019	Sausy (STEAM_0:0:112032713): ok
+Sun Jul 14 16:56:13 2019	reesemorrow34 (STEAM_0:1:422822587): how do u pick me up?
+Sun Jul 14 16:56:17 2019	Sausy (STEAM_0:0:112032713): let's test this 1 more time
+Sun Jul 14 16:56:22 2019	Sausy (STEAM_0:0:112032713): im moderator
+Sun Jul 14 16:56:25 2019	reesemorrow34 (STEAM_0:1:422822587): o
+Sun Jul 14 16:56:25 2019	LV (STEAM_0:0:460419170): single is 600
+Sun Jul 14 16:56:27 2019	Sausy (STEAM_0:0:112032713): im higher rank 
+Sun Jul 14 16:56:34 2019	LV (STEAM_0:0:460419170): how do i give money
+Sun Jul 14 16:56:49 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): ./dropmoney 700
+Sun Jul 14 16:56:51 2019	LV (STEAM_0:0:460419170): /dropmoney 700
+Sun Jul 14 16:56:52 2019	LV (STEAM_0:0:460419170) has dropped $700
+Sun Jul 14 16:57:03 2019	Sausy (STEAM_0:0:112032713): how many
+Sun Jul 14 16:57:08 2019	reesemorrow34 (STEAM_0:1:422822587): 8 times
+Sun Jul 14 16:57:12 2019	Sausy (STEAM_0:0:112032713): accurate
+Sun Jul 14 16:57:18 2019	Sausy (STEAM_0:0:112032713): cus this time i missed alot
+Sun Jul 14 16:57:26 2019	LV (STEAM_0:0:460419170): where is it
+Sun Jul 14 16:57:30 2019	Sausy (STEAM_0:0:112032713): leave
+Sun Jul 14 16:57:35 2019	Sausy (STEAM_0:0:112032713): go back in the secret room
+Sun Jul 14 16:57:35 2019	reesemorrow34 (STEAM_0:1:422822587): ?
+Sun Jul 14 16:57:38 2019	reesemorrow34 (STEAM_0:1:422822587): k
+Sun Jul 14 16:57:53 2019	LV (STEAM_0:0:460419170): /y zookie want this gun i have to go
+Sun Jul 14 16:58:05 2019	LV (STEAM_0:0:460419170): /drop
+Sun Jul 14 16:58:17 2019	LV (STEAM_0:0:460419170): i collect money then leave bye
+Sun Jul 14 16:58:24 2019	Derp (STEAM_0:0:52504530): wtf just happened
+Sun Jul 14 16:58:41 2019	Derp (STEAM_0:0:52504530): ur so good at business that the client returned the product he bought and didnt even ask for a refund
+Sun Jul 14 16:59:11 2019	Derp (STEAM_0:0:52504530): u might need to respawn
+Sun Jul 14 16:59:16 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): /drop
+Sun Jul 14 16:59:19 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): /drop
+Sun Jul 14 16:59:22 2019	Zookie 〈メイド〉 was killed by Himself with a suicide trick
+Sun Jul 14 16:59:25 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned
+Sun Jul 14 16:59:27 2019	LV (STEAM_0:0:460419170): /pm derp derp come here
+Sun Jul 14 16:59:52 2019	LV (STEAM_0:0:460419170): i have 512941
+Sun Jul 14 16:59:56 2019	Derp (STEAM_0:0:52504530): nice
+Sun Jul 14 17:00:06 2019	LV (STEAM_0:0:460419170): i still trying to get better but i will tommorow 
+Sun Jul 14 17:00:16 2019	LV (STEAM_0:0:460419170): i have to go i like this server
+Sun Jul 14 17:00:20 2019	Derp (STEAM_0:0:52504530): thanks
+Sun Jul 14 17:00:21 2019	Sausy (STEAM_0:0:112032713): // derp
+Sun Jul 14 17:00:25 2019	LV (STEAM_0:0:460419170): i can see the ground and everything now
+Sun Jul 14 17:00:26 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // i got the attatchments
+Sun Jul 14 17:00:28 2019	Derp (STEAM_0:0:52504530): nice
+Sun Jul 14 17:00:31 2019	Derp (STEAM_0:0:52504530): cya later bud
+Sun Jul 14 17:00:34 2019	LV (STEAM_0:0:460419170): bye
+Sun Jul 14 17:00:44 2019	Derp (STEAM_0:0:52504530): yes
+Sun Jul 14 17:00:46 2019	LV (STEAM_0:0:460419170) disconnected
+Sun Jul 14 17:00:52 2019	Sausy (STEAM_0:0:112032713): precision tool is slowing me down when i spam it
+Sun Jul 14 17:00:57 2019	Derp (STEAM_0:0:52504530): oh
+Sun Jul 14 17:00:59 2019	Derp (STEAM_0:0:52504530): one sec
+Sun Jul 14 17:01:03 2019	Derp (STEAM_0:0:52504530): !abp
+Sun Jul 14 17:01:05 2019	Derp (STEAM_0:0:52504530): !agp
+Sun Jul 14 17:01:09 2019	Derp (STEAM_0:0:52504530): fuck
+Sun Jul 14 17:01:12 2019	Sausy (STEAM_0:0:112032713): lol
+Sun Jul 14 17:01:16 2019	Derp (STEAM_0:0:52504530): !agb
+Sun Jul 14 17:01:18 2019	Derp (STEAM_0:0:52504530): !abg
+Sun Jul 14 17:01:20 2019	Derp (STEAM_0:0:52504530): GOD DAMN IT
+Sun Jul 14 17:01:23 2019	Sausy (STEAM_0:0:112032713): lmao
+Sun Jul 14 17:01:59 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): 
+Sun Jul 14 17:02:02 2019	Derp (STEAM_0:0:52504530): 
+Sun Jul 14 17:02:12 2019	Derp (STEAM_0:0:52504530): 
+Sun Jul 14 17:02:17 2019	Derp (STEAM_0:0:52504530): try now
+Sun Jul 14 17:02:29 2019	Derp (STEAM_0:0:52504530): is it workin?
+Sun Jul 14 17:02:31 2019	Sausy (STEAM_0:0:112032713): ok
+Sun Jul 14 17:02:34 2019	Sausy (STEAM_0:0:112032713): lemme check
+Sun Jul 14 17:02:39 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): /pm derp Is there a afk kick timer?
+Sun Jul 14 17:02:47 2019	Derp (STEAM_0:0:52504530): /pm zookie i dont think there is
+Sun Jul 14 17:02:48 2019	Sausy (STEAM_0:0:112032713): yes
+Sun Jul 14 17:02:50 2019	Derp (STEAM_0:0:52504530): nice
+Sun Jul 14 17:02:52 2019	Sausy (STEAM_0:0:112032713): ight thanks mom
+Sun Jul 14 17:02:55 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): /pm derp nice
+Sun Jul 14 17:03:02 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): /pm derp When is the next server restart?
+Sun Jul 14 17:03:22 2019	Derp (STEAM_0:0:52504530): /pm zookie whenever we have to add an addon or something important
+Sun Jul 14 17:03:31 2019	Sausy (STEAM_0:0:112032713): perfect
+Sun Jul 14 17:03:36 2019	Derp (STEAM_0:0:52504530): /pm zookie ill notify everyone of the restart before it happens
+Sun Jul 14 17:04:08 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): /pm derp Kk
+Sun Jul 14 17:04:10 2019	Sausy (STEAM_0:0:112032713): lmao
+Sun Jul 14 17:04:19 2019	Derp (STEAM_0:0:52504530): WHAT THE FUCK
+Sun Jul 14 17:04:22 2019	Derp (STEAM_0:0:52504530): WHAT
+Sun Jul 14 17:04:24 2019	Derp (STEAM_0:0:52504530): WHAT IS THIS
+Sun Jul 14 17:04:32 2019	Sausy (STEAM_0:0:112032713): a secret room shh..
+Sun Jul 14 17:04:39 2019	Derp (STEAM_0:0:52504530): EVERYONE THERE IS A SECRET ROOM IN HERE
+Sun Jul 14 17:04:49 2019	Sausy (STEAM_0:0:112032713): NO
+Sun Jul 14 17:04:55 2019	Derp (STEAM_0:0:52504530): EVERYONE COME HERE ok u know what
+Sun Jul 14 17:04:58 2019	Sausy (STEAM_0:0:112032713): i'll have to take u down
+Sun Jul 14 17:04:59 2019	Derp (STEAM_0:0:52504530): i didnt see a secret roomo
+Sun Jul 14 17:05:04 2019	Derp (STEAM_0:0:52504530): i was sleeping
+Sun Jul 14 17:05:07 2019	Sausy (STEAM_0:0:112032713): lmao
+Sun Jul 14 17:05:12 2019	Sausy (STEAM_0:0:112032713): this clown
+Sun Jul 14 17:05:28 2019	Derp (STEAM_0:0:52504530) spawned
+Sun Jul 14 17:05:49 2019	Derp (STEAM_0:0:52504530): what are u trying to make
+Sun Jul 14 17:05:54 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): OwO
+Sun Jul 14 17:05:54 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): uwu
+Sun Jul 14 17:05:56 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !r
+Sun Jul 14 17:06:04 2019	Sausy (STEAM_0:0:112032713): a unraidable front door.
+Sun Jul 14 17:06:08 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // Yo how do you jail someone while looking at them?
+Sun Jul 14 17:06:12 2019	Derp (STEAM_0:0:52504530): like literally unraidable?
+Sun Jul 14 17:06:17 2019	Derp (STEAM_0:0:52504530): or just really hard?
+Sun Jul 14 17:06:18 2019	Sausy (STEAM_0:0:112032713): literally
+Sun Jul 14 17:06:23 2019	Sausy (STEAM_0:0:112032713): wel
+Sun Jul 14 17:06:28 2019	Sausy (STEAM_0:0:112032713): if you are stupid enough to stand here.
+Sun Jul 14 17:06:32 2019	Sausy (STEAM_0:0:112032713): you'll die.
+Sun Jul 14 17:06:48 2019	Derp (STEAM_0:0:52504530): as long as u technically CAN come into the base then its fine but if its literally impossible then that might be against the r
+Sun Jul 14 17:07:00 2019	Sausy (STEAM_0:0:112032713): well
+Sun Jul 14 17:07:05 2019	Sausy (STEAM_0:0:112032713): let's just say
+Sun Jul 14 17:07:09 2019	Sausy (STEAM_0:0:112032713): is hard :)
+Sun Jul 14 17:07:14 2019	Derp (STEAM_0:0:52504530): fair enough
+Sun Jul 14 17:07:16 2019	Sausy (STEAM_0:0:112032713): is possible to get in
+Sun Jul 14 17:07:34 2019	Sausy (STEAM_0:0:112032713): is a crouch base
+Sun Jul 14 17:07:37 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): OwO
+Sun Jul 14 17:07:41 2019	Derp (STEAM_0:0:52504530): ah
+Sun Jul 14 17:07:45 2019	Sausy (STEAM_0:0:112032713): but im not done yet.
+Sun Jul 14 17:08:02 2019	Sausy (STEAM_0:0:112032713): cus im a badass bob the builder.
+Sun Jul 14 17:09:40 2019	Derp (STEAM_0:0:52504530): 
+Sun Jul 14 17:10:06 2019	Sausy (STEAM_0:0:112032713): this is gonna be unraidable xD
+Sun Jul 14 17:10:47 2019	Sausy (STEAM_0:0:112032713): move
+Sun Jul 14 17:10:55 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !goto saus
+Sun Jul 14 17:11:04 2019	Sausy (STEAM_0:0:112032713): hi
+Sun Jul 14 17:11:12 2019	Sausy (STEAM_0:0:112032713): is a keybind
+Sun Jul 14 17:11:15 2019	Sausy (STEAM_0:0:112032713): i forgot though
+Sun Jul 14 17:11:20 2019	Sausy (STEAM_0:0:112032713): !jail @ 120
+Sun Jul 14 17:11:23 2019	Sausy (STEAM_0:0:112032713): !jail @ 120
+Sun Jul 14 17:11:24 2019	Sausy (STEAM_0:0:112032713): !jail @ 120
+Sun Jul 14 17:11:28 2019	reesemorrow34 (STEAM_0:1:422822587): WHAT DID I DO!
+Sun Jul 14 17:11:30 2019	Sausy (STEAM_0:0:112032713): !unjail reesemorrow34
+Sun Jul 14 17:11:31 2019	Sausy (STEAM_0:0:112032713): sorry
+Sun Jul 14 17:11:35 2019	Sausy (STEAM_0:0:112032713): it was a test
+Sun Jul 14 17:11:35 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !jail @ 120
+Sun Jul 14 17:11:40 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !unjail reese
+Sun Jul 14 17:11:56 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !jail @ 120
+Sun Jul 14 17:11:57 2019	Sausy (STEAM_0:0:112032713): // if you want to perm jail just dont put the 120 seconds
+Sun Jul 14 17:12:04 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // Ik ik, thanks bro
+Sun Jul 14 17:12:09 2019	Sausy (STEAM_0:0:112032713): // yeah np
+Sun Jul 14 17:12:26 2019	Sausy (STEAM_0:0:112032713): hi
+Sun Jul 14 17:12:29 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !menu
+Sun Jul 14 17:12:33 2019	Sausy (STEAM_0:0:112032713): what's up..
+Sun Jul 14 17:12:37 2019	Sausy (STEAM_0:0:112032713): a cieling..
+Sun Jul 14 17:12:47 2019	Derp (STEAM_0:0:52504530): building a base is now bannable 
+Sun Jul 14 17:12:47 2019	reesemorrow34 (STEAM_0:1:422822587): ha
+Sun Jul 14 17:12:48 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !warn Zookie Test
+Sun Jul 14 17:12:50 2019	Derp (STEAM_0:0:52504530): ur all banned now
+Sun Jul 14 17:12:57 2019	reesemorrow34 (STEAM_0:1:422822587): I didint help
+Sun Jul 14 17:12:58 2019	Sausy (STEAM_0:0:112032713): BRUH
+Sun Jul 14 17:12:59 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // Hey, I do mods not have access to warns?
+Sun Jul 14 17:12:59 2019	Derp (STEAM_0:0:52504530): lmao
+Sun Jul 14 17:13:01 2019	Sausy (STEAM_0:0:112032713): LMAO
+Sun Jul 14 17:13:03 2019	Sausy (STEAM_0:0:112032713): you cuint
+Sun Jul 14 17:13:04 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // Do mods*
+Sun Jul 14 17:13:07 2019	Derp (STEAM_0:0:52504530): this motherfucker immediately throws u under the bus
+Sun Jul 14 17:13:12 2019	Sausy (STEAM_0:0:112032713): LMAO
+Sun Jul 14 17:13:23 2019	Sausy (STEAM_0:0:112032713): why u do dat
+Sun Jul 14 17:13:23 2019	reesemorrow34 (STEAM_0:1:422822587): all I did was play bitcoin moner in the back
+Sun Jul 14 17:13:24 2019	Sausy (STEAM_0:0:112032713): u helped
+Sun Jul 14 17:13:31 2019	Sausy (STEAM_0:0:112032713): true
+Sun Jul 14 17:13:32 2019	reesemorrow34 (STEAM_0:1:422822587): NO I DIDINT
+Sun Jul 14 17:13:36 2019	Sausy (STEAM_0:0:112032713): true
+Sun Jul 14 17:13:39 2019	Sausy (STEAM_0:0:112032713): he didn't do shit
+Sun Jul 14 17:13:39 2019	Derp (STEAM_0:0:52504530): is the bitminer stuff working
+Sun Jul 14 17:13:50 2019	reesemorrow34 (STEAM_0:1:422822587): ye
+Sun Jul 14 17:13:59 2019	Derp (STEAM_0:0:52504530) spawned SENT double_or_nothing
+Sun Jul 14 17:14:08 2019	Derp (STEAM_0:0:52504530) spawned SENT double_or_nothing
+Sun Jul 14 17:14:34 2019	Sausy (STEAM_0:0:112032713): is for shooting
+Sun Jul 14 17:14:37 2019	Sausy (STEAM_0:0:112032713): :)
+Sun Jul 14 17:14:51 2019	Derp (STEAM_0:0:52504530): we have a double or nothin machine outside
+Sun Jul 14 17:15:57 2019	reesemorrow34 (STEAM_0:1:422822587): // im stuck in here
+Sun Jul 14 17:16:08 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // You need help?
+Sun Jul 14 17:16:43 2019	Derp (STEAM_0:0:52504530): yo
+Sun Jul 14 17:16:44 2019	Sausy (STEAM_0:0:112032713): code is 2435
+Sun Jul 14 17:16:52 2019	Sausy (STEAM_0:0:112032713): go up down up down
+Sun Jul 14 17:16:57 2019	Derp (STEAM_0:0:52504530): are u trying to figure out the bitminer stuff
+Sun Jul 14 17:16:59 2019	Sausy (STEAM_0:0:112032713): zic zac
+Sun Jul 14 17:17:07 2019	Derp (STEAM_0:0:52504530): i dont know how to use it
+Sun Jul 14 17:17:16 2019	Derp (STEAM_0:0:52504530): like literally anything
+Sun Jul 14 17:17:20 2019	Sausy (STEAM_0:0:112032713): nice
+Sun Jul 14 17:17:35 2019	Sausy (STEAM_0:0:112032713): lmao
+Sun Jul 14 17:17:36 2019	Sausy (STEAM_0:0:112032713): u are dead
+Sun Jul 14 17:17:46 2019	Doof (STEAM_0:1:426762407) has joined the game
+Sun Jul 14 17:17:46 2019	Doof (STEAM_0:1:426762407) spawned
+Sun Jul 14 17:17:52 2019	Sausy (STEAM_0:0:112032713): this is our advanced front door security
+Sun Jul 14 17:17:57 2019	Sausy (STEAM_0:0:112032713): you like it ?
+Sun Jul 14 17:18:07 2019	Sausy (STEAM_0:0:112032713): ok go back into bitcoin mining
+Sun Jul 14 17:18:09 2019	Derp (STEAM_0:0:52504530): oh ok
+Sun Jul 14 17:18:11 2019	Sausy (STEAM_0:0:112032713): we need cash
+Sun Jul 14 17:18:12 2019	Derp (STEAM_0:0:52504530): thanks 
+Sun Jul 14 17:18:18 2019	Derp (STEAM_0:0:52504530) spawned SENT double_or_nothing
+Sun Jul 14 17:18:34 2019	Derp (STEAM_0:0:52504530): u can just hit the screen 
+Sun Jul 14 17:18:37 2019	Derp (STEAM_0:0:52504530): with E
+Sun Jul 14 17:18:52 2019	Derp (STEAM_0:0:52504530): u dont need to press e on the button
+Sun Jul 14 17:19:13 2019	Derp (STEAM_0:0:52504530): look at the jackpot
+Sun Jul 14 17:19:18 2019	Doof was killed by Himself with a suicide trick
+Sun Jul 14 17:19:20 2019	Doof (STEAM_0:1:426762407) spawned
+Sun Jul 14 17:19:45 2019	Derp (STEAM_0:0:52504530): ur gonna be there for years
+Sun Jul 14 17:20:07 2019	Derp (STEAM_0:0:52504530) spawned SENT double_or_nothing
+Sun Jul 14 17:20:23 2019	reesemorrow34 (STEAM_0:1:422822587): I got two running now
+Sun Jul 14 17:20:39 2019	Sausy (STEAM_0:0:112032713): ok grind cash to buy the servers
+Sun Jul 14 17:20:46 2019	Sausy (STEAM_0:0:112032713): the servers give alot of money
+Sun Jul 14 17:20:51 2019	reesemorrow34 (STEAM_0:1:422822587): k
+Sun Jul 14 17:21:13 2019	Derp (STEAM_0:0:52504530): this reminds me of gmod tower
+Sun Jul 14 17:21:15 2019	Derp (STEAM_0:0:52504530): u remember that shit
+Sun Jul 14 17:21:20 2019	Derp (STEAM_0:0:52504530): BRUH
+Sun Jul 14 17:21:27 2019	Derp (STEAM_0:0:52504530): that shit was the coolest fucking stuff on gmod
+Sun Jul 14 17:21:38 2019	Derp (STEAM_0:0:52504530): AAAAAAAAAA
+Sun Jul 14 17:21:56 2019	Sausy (STEAM_0:0:112032713): boom!
+Sun Jul 14 17:22:04 2019	Sausy (STEAM_0:0:112032713): test it
+Sun Jul 14 17:22:04 2019	Derp (STEAM_0:0:52504530) spawned SENT double_or_nothing
+Sun Jul 14 17:22:15 2019	Sausy (STEAM_0:0:112032713): now watch
+Sun Jul 14 17:22:32 2019	Derp (STEAM_0:0:52504530): u dont have to press the button u can just press e on the screen
+Sun Jul 14 17:22:49 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): /dropmoney 25000
+Sun Jul 14 17:22:50 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) has dropped $25,000
+Sun Jul 14 17:23:10 2019	Derp (STEAM_0:0:52504530) spawned SENT double_or_nothing
+Sun Jul 14 17:23:25 2019	Doof was killed by Himself with a suicide trick
+Sun Jul 14 17:23:27 2019	Doof (STEAM_0:1:426762407) spawned
+Sun Jul 14 17:23:32 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !bring doof
+Sun Jul 14 17:24:06 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !jail @ 120
+Sun Jul 14 17:24:45 2019	Derp (STEAM_0:0:52504530) spawned SENT zwf_buyer_npc
+Sun Jul 14 17:24:59 2019	Derp (STEAM_0:0:52504530) spawned SENT zwf_buyer_npc
+Sun Jul 14 17:25:00 2019	Sausy (STEAM_0:0:112032713): you like it/
+Sun Jul 14 17:25:18 2019	Derp (STEAM_0:0:52504530) spawned SENT zwf_buyer_npc
+Sun Jul 14 17:25:29 2019	Derp (STEAM_0:0:52504530) spawned SENT zwf_buyer_npc
+Sun Jul 14 17:25:54 2019	Sausy (STEAM_0:0:112032713): ok
+Sun Jul 14 17:25:56 2019	Sausy (STEAM_0:0:112032713): we nee to cover this
+Sun Jul 14 17:25:57 2019	MrStevie (STEAM_0:1:46687406) has joined the game
+Sun Jul 14 17:25:57 2019	MrStevie (STEAM_0:1:46687406) spawned
+Sun Jul 14 17:26:01 2019	Derp (STEAM_0:0:52504530): !savezwf
+Sun Jul 14 17:26:09 2019	Sausy (STEAM_0:0:112032713): go back into ur mining
+Sun Jul 14 17:26:11 2019	Derp (STEAM_0:0:52504530): !savezwf
+Sun Jul 14 17:26:34 2019	Derp (STEAM_0:0:52504530): !savezwf
+Sun Jul 14 17:28:28 2019	MrStevie (STEAM_0:1:46687406): // is there thirdperson?
+Sun Jul 14 17:28:32 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // Nah.
+Sun Jul 14 17:28:34 2019	Doof was killed by Himself with a suicide trick
+Sun Jul 14 17:28:36 2019	Doof (STEAM_0:1:426762407) spawned
+Sun Jul 14 17:28:39 2019	Derp (STEAM_0:0:52504530): who the fuck plays gmod in thirdperson
+Sun Jul 14 17:28:50 2019	Derp (STEAM_0:0:52504530): yeah but its not practical
+Sun Jul 14 17:28:58 2019	Derp (STEAM_0:0:52504530): perhaps
+Sun Jul 14 17:29:02 2019	Derp (STEAM_0:0:52504530): doubt we will be adding that any time soon tho
+Sun Jul 14 17:29:09 2019	Derp (STEAM_0:0:52504530): i can if i what
+Sun Jul 14 17:29:18 2019	Derp (STEAM_0:0:52504530): i dont even know how to
+Sun Jul 14 17:29:28 2019	Derp (STEAM_0:0:52504530): especially the printers
+Sun Jul 14 17:29:43 2019	Derp (STEAM_0:0:52504530): my co owner has access to the printers so im just waiting for him to get on
+Sun Jul 14 17:30:06 2019	MrStevie (STEAM_0:1:46687406) disconnected
+Sun Jul 14 17:30:18 2019	Derp (STEAM_0:0:52504530): reee
+Sun Jul 14 17:30:54 2019	Derp (STEAM_0:0:52504530): brb
+Sun Jul 14 17:31:02 2019	Sausy (STEAM_0:0:112032713): UH OH
+Sun Jul 14 17:31:12 2019	Sausy (STEAM_0:0:112032713): ...
+Sun Jul 14 17:31:19 2019	Sausy (STEAM_0:0:112032713): hi..
+Sun Jul 14 17:31:24 2019	Derp (STEAM_0:0:52504530): *smells ur neck*
+Sun Jul 14 17:31:38 2019	Sausy (STEAM_0:0:112032713): *gets spooked*
+Sun Jul 14 17:31:54 2019	Sausy (STEAM_0:0:112032713): yay i got a brand new TOY
+Sun Jul 14 17:32:50 2019	Derp (STEAM_0:0:52504530): wtf am i watching XD
+Sun Jul 14 17:33:05 2019	Sausy (STEAM_0:0:112032713): keep watching
+Sun Jul 14 17:33:23 2019	Derp (STEAM_0:0:52504530): OK
+Sun Jul 14 17:33:25 2019	Derp (STEAM_0:0:52504530): WAIT
+Sun Jul 14 17:33:30 2019	Sausy (STEAM_0:0:112032713): WOAA
+Sun Jul 14 17:33:32 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !jail @ 120
+Sun Jul 14 17:33:33 2019	Sausy (STEAM_0:0:112032713): SOO STIFF AND LONG
+Sun Jul 14 17:33:34 2019	reesemorrow34 (STEAM_0:1:422822587): oh yeah
+Sun Jul 14 17:33:37 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !unjail doof
+Sun Jul 14 17:33:38 2019	Sausy (STEAM_0:0:112032713): let's ride it
+Sun Jul 14 17:33:41 2019	Derp (STEAM_0:0:52504530): ok wait
+Sun Jul 14 17:33:44 2019	Derp (STEAM_0:0:52504530) spawned
+Sun Jul 14 17:33:48 2019	Sausy (STEAM_0:0:112032713): ...
+Sun Jul 14 17:33:49 2019	Derp (STEAM_0:0:52504530): nah nah nah
+Sun Jul 14 17:33:52 2019	Sausy (STEAM_0:0:112032713): LMAO
+Sun Jul 14 17:33:58 2019	Derp (STEAM_0:0:52504530): i gotta go feed kids 
+Sun Jul 14 17:34:01 2019	Derp (STEAM_0:0:52504530): im outta here
+Sun Jul 14 17:34:03 2019	Sausy (STEAM_0:0:112032713): lmfao
+Sun Jul 14 17:34:06 2019	Doof (STEAM_0:1:426762407): !addverb
+Sun Jul 14 17:34:08 2019	Doof (STEAM_0:1:426762407): !addverd
+Sun Jul 14 17:34:12 2019	Sausy (STEAM_0:0:112032713): // feed me with ur sauce 
+Sun Jul 14 17:34:21 2019	Derp (STEAM_0:0:52504530): /pm sausy i will feed u with a glock
+Sun Jul 14 17:34:33 2019	Doof (STEAM_0:1:426762407): !rob
+Sun Jul 14 17:34:34 2019	Sausy (STEAM_0:0:112032713): // lmfao
+Sun Jul 14 17:34:41 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): 
+Sun Jul 14 17:34:45 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): 
+Sun Jul 14 17:34:55 2019	Derp (STEAM_0:0:52504530): 10k or die
+Sun Jul 14 17:34:57 2019	Derp (STEAM_0:0:52504530): god damn
+Sun Jul 14 17:34:58 2019	Doof (STEAM_0:1:426762407): 
+Sun Jul 14 17:35:05 2019	reesemorrow34 (STEAM_0:1:422822587): what?
+Sun Jul 14 17:35:10 2019	Sausy (STEAM_0:0:112032713): umm
+Sun Jul 14 17:35:12 2019	Derp (STEAM_0:0:52504530): what are u even supposed to do at that point
+Sun Jul 14 17:35:14 2019	Sausy (STEAM_0:0:112032713): we should remove the building sign
+Sun Jul 14 17:35:36 2019	Derp (STEAM_0:0:52504530): sorry but i gotta destroy the bitminer stuff
+Sun Jul 14 17:35:44 2019	Derp (STEAM_0:0:52504530): lol jk
+Sun Jul 14 17:36:07 2019	Derp (STEAM_0:0:52504530): holy fuck the switching machines thing is literally infinite
+Sun Jul 14 17:36:18 2019	Derp (STEAM_0:0:52504530): ive been waiting forever to play
+Sun Jul 14 17:36:33 2019	Derp (STEAM_0:0:52504530) spawned SENT double_or_nothing
+Sun Jul 14 17:36:35 2019	Doof (STEAM_0:1:426762407): 
+Sun Jul 14 17:36:38 2019	Zookie 〈メイド〉 was killed by Doof with a fas2_galil
+Sun Jul 14 17:36:43 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned
+Sun Jul 14 17:37:08 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !bring doof
+Sun Jul 14 17:37:10 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !jail @ 120
+Sun Jul 14 17:37:26 2019	Derp (STEAM_0:0:52504530): ur stuck in here with me
+Sun Jul 14 17:37:26 2019	Derp was killed by Doof with a fas2_galil
+Sun Jul 14 17:37:27 2019	Derp (STEAM_0:0:52504530): AAAAAAAAA
+Sun Jul 14 17:37:34 2019	Zookie 〈メイド〉 was killed by Doof with a fas2_galil
+Sun Jul 14 17:37:37 2019	Derp (STEAM_0:0:52504530) spawned
+Sun Jul 14 17:37:38 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !warn doof
+Sun Jul 14 17:37:41 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned
+Sun Jul 14 17:37:47 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !unjail doof
+Sun Jul 14 17:37:49 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !bring doof
+Sun Jul 14 17:37:52 2019	Zookie 〈メイド〉 was killed by Doof with a fas2_galil
+Sun Jul 14 17:37:56 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !jail doof 360
+Sun Jul 14 17:38:02 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !jail doof 120
+Sun Jul 14 17:38:03 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned
+Sun Jul 14 17:38:13 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !slaydoof
+Sun Jul 14 17:38:16 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): 
+Sun Jul 14 17:38:26 2019	Sausy (STEAM_0:0:112032713): egh..
+Sun Jul 14 17:38:33 2019	Sausy (STEAM_0:0:112032713): should i put hotline ?
+Sun Jul 14 17:38:42 2019	Sausy (STEAM_0:0:112032713): ..
+Sun Jul 14 17:38:43 2019	Derp (STEAM_0:0:52504530): i didnt touch them
+Sun Jul 14 17:38:48 2019	Derp (STEAM_0:0:52504530): doof probably did he had one in his hands
+Sun Jul 14 17:38:59 2019	Derp (STEAM_0:0:52504530): u can just keep picking them up tho for ammo
+Sun Jul 14 17:39:09 2019	Derp (STEAM_0:0:52504530): u cant warn people
+Sun Jul 14 17:39:14 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !warn zook 1
+Sun Jul 14 17:39:27 2019	Derp (STEAM_0:0:52504530): try now
+Sun Jul 14 17:39:32 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !warn zook Test lol
+Sun Jul 14 17:39:38 2019	Derp (STEAM_0:0:52504530): np
+Sun Jul 14 17:39:43 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !motd
+Sun Jul 14 17:39:46 2019	Derp (STEAM_0:0:52504530): u seem like a cool dude so u can keep admin status
+Sun Jul 14 17:39:52 2019	Sausy (STEAM_0:0:112032713): what ? 
+Sun Jul 14 17:39:57 2019	Sausy (STEAM_0:0:112032713): no ?
+Sun Jul 14 17:40:00 2019	Sausy (STEAM_0:0:112032713): no like it ?
+Sun Jul 14 17:40:05 2019	Derp (STEAM_0:0:52504530): idc man i know ur not gonna do bad stuff
+Sun Jul 14 17:40:10 2019	Doof was killed by Himself with a suicide trick
+Sun Jul 14 17:40:12 2019	Doof (STEAM_0:1:426762407) spawned
+Sun Jul 14 17:40:18 2019	reesemorrow34 (STEAM_0:1:422822587): so I cant som in?
+Sun Jul 14 17:40:32 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !warn Doof Rdm in a sit (Don't be a little shit)
+Sun Jul 14 17:40:38 2019	Sausy (STEAM_0:0:112032713): well
+Sun Jul 14 17:40:43 2019	Sausy (STEAM_0:0:112032713): any reason is for you know
+Sun Jul 14 17:40:45 2019	Derp (STEAM_0:0:52504530): lol
+Sun Jul 14 17:40:51 2019	Sausy (STEAM_0:0:112032713): for entering
+Sun Jul 14 17:40:53 2019	Sausy (STEAM_0:0:112032713): or
+Sun Jul 14 17:41:01 2019	Sausy (STEAM_0:0:112032713): messing around too much outside in front of my door
+Sun Jul 14 17:41:06 2019	Doof was killed by Zookie 〈メイド〉 with a fas2_galil
+Sun Jul 14 17:41:06 2019	Sausy (STEAM_0:0:112032713): orr.
+Sun Jul 14 17:41:08 2019	Doof (STEAM_0:1:426762407) spawned
+Sun Jul 14 17:41:09 2019	Sausy (STEAM_0:0:112032713): you know
+Sun Jul 14 17:41:12 2019	Sausy (STEAM_0:0:112032713): simple stuf
+Sun Jul 14 17:41:17 2019	Sausy (STEAM_0:0:112032713): good ?
+Sun Jul 14 17:41:23 2019	Sausy (STEAM_0:0:112032713): let's make a door here
+Sun Jul 14 17:42:46 2019	Doof was killed by Zookie 〈メイド〉 with a fas2_galil
+Sun Jul 14 17:42:48 2019	Doof (STEAM_0:1:426762407) spawned
+Sun Jul 14 17:42:58 2019	Sausy (STEAM_0:0:112032713): perfect
+Sun Jul 14 17:43:10 2019	Sausy (STEAM_0:0:112032713): camera!!!
+Sun Jul 14 17:43:17 2019	Sausy (STEAM_0:0:112032713): we need to add cameras
+Sun Jul 14 17:44:14 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): /dropmoney 6000
+Sun Jul 14 17:44:15 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) has dropped $6,000
+Sun Jul 14 17:45:34 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): /pm derp 6365
+Sun Jul 14 17:45:40 2019	Derp (STEAM_0:0:52504530): k thanks
+Sun Jul 14 17:45:44 2019	Sausy (STEAM_0:0:112032713): wanna set a hit on someone ?
+Sun Jul 14 17:45:48 2019	reesemorrow34 (STEAM_0:1:422822587): yes
+Sun Jul 14 17:45:52 2019	Sausy (STEAM_0:0:112032713): ok
+Sun Jul 14 17:46:01 2019	Sausy (STEAM_0:0:112032713): BRUH
+Sun Jul 14 17:46:03 2019	Sausy (STEAM_0:0:112032713): nah nah nah
+Sun Jul 14 17:46:07 2019	Sausy (STEAM_0:0:112032713): another one
+Sun Jul 14 17:46:11 2019	Hitman Sausy accepted a hit on Zookie 〈メイド〉, ordered by reesemorrow34 for $200
+Sun Jul 14 17:46:12 2019	Sausy (STEAM_0:0:112032713): oki
+Sun Jul 14 17:46:14 2019	Sausy (STEAM_0:0:112032713): um
+Sun Jul 14 17:46:19 2019	Sausy (STEAM_0:0:112032713): dont share the passcode with anybody
+Sun Jul 14 17:46:22 2019	Sausy (STEAM_0:0:112032713): or i'll murder u
+Sun Jul 14 17:46:24 2019	reesemorrow34 (STEAM_0:1:422822587): k
+Sun Jul 14 17:46:52 2019	Sausy (STEAM_0:0:112032713): hi
+Sun Jul 14 17:46:58 2019	Sausy (STEAM_0:0:112032713): wtf is this ?
+Sun Jul 14 17:47:06 2019	Doof (STEAM_0:1:426762407): 
+Sun Jul 14 17:47:16 2019	Doof (STEAM_0:1:426762407): my crown
+Sun Jul 14 17:47:23 2019	Sausy (STEAM_0:0:112032713): /drop 10000
+Sun Jul 14 17:47:30 2019	Sausy (STEAM_0:0:112032713): what was the command ?
+Sun Jul 14 17:47:33 2019	iWolfz -ERP- (STEAM_0:0:443923189) has joined the game
+Sun Jul 14 17:47:33 2019	iWolfz -ERP- (STEAM_0:0:443923189) spawned
+Sun Jul 14 17:47:35 2019	Doof (STEAM_0:1:426762407): /dropmoney
+Sun Jul 14 17:47:35 2019	Sausy (STEAM_0:0:112032713): i did /dropmoney 10000
+Sun Jul 14 17:47:41 2019	Doof (STEAM_0:1:426762407): idk
+Sun Jul 14 17:47:49 2019	Sausy (STEAM_0:0:112032713): /dropmoney 10,000
+Sun Jul 14 17:47:52 2019	Doof (STEAM_0:1:426762407): go into commands in f4
+Sun Jul 14 17:47:56 2019	Sausy (STEAM_0:0:112032713): ok
+Sun Jul 14 17:48:07 2019	iWolfz -ERP- (STEAM_0:0:443923189): // hi
+Sun Jul 14 17:48:19 2019	Sausy (STEAM_0:0:112032713): /pm reesemorrow34 do /advert counter and shoot him please
+Sun Jul 14 17:48:23 2019	Doof (STEAM_0:1:426762407): my crown
+Sun Jul 14 17:48:34 2019	Sausy (STEAM_0:0:112032713): IM POOR TOO
+Sun Jul 14 17:48:35 2019	iWolfz -ERP- (STEAM_0:0:443923189): hi
+Sun Jul 14 17:48:37 2019	Derp (STEAM_0:0:52504530): hey
+Sun Jul 14 17:48:37 2019	iWolfz -ERP- (STEAM_0:0:443923189): I can't talk
+Sun Jul 14 17:48:39 2019	Derp (STEAM_0:0:52504530): its fine
+Sun Jul 14 17:48:46 2019	Hit on Zookie 〈メイド〉 failed. Reason: The hitman died!
+Sun Jul 14 17:48:46 2019	Sausy was killed by Doof with a m9k_model627
+Sun Jul 14 17:48:50 2019	Sausy (STEAM_0:0:112032713): i was dropping it..
+Sun Jul 14 17:48:51 2019	Sausy (STEAM_0:0:112032713) spawned
+Sun Jul 14 17:48:55 2019	Derp (STEAM_0:0:52504530): server is getting better
+Sun Jul 14 17:48:57 2019	Derp (STEAM_0:0:52504530): we added more tools
+Sun Jul 14 17:49:01 2019	iWolfz -ERP- (STEAM_0:0:443923189): Nice :D
+Sun Jul 14 17:49:04 2019	Doof was killed by reesemorrow34 with a fas2_deagle
+Sun Jul 14 17:49:06 2019	Derp (STEAM_0:0:52504530): and now we have prop ghosting
+Sun Jul 14 17:49:07 2019	Doof (STEAM_0:1:426762407) spawned
+Sun Jul 14 17:49:07 2019	Sausy (STEAM_0:0:112032713): need set a hit ?
+Sun Jul 14 17:49:13 2019	iWolfz -ERP- (STEAM_0:0:443923189): Umm derp
+Sun Jul 14 17:49:15 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // Heyo wolfz
+Sun Jul 14 17:49:20 2019	iWolfz -ERP- (STEAM_0:0:443923189): /pm derp how do i become on duty
+Sun Jul 14 17:49:22 2019	Hitman Sausy accepted a hit on Doof, ordered by Derp for $200
+Sun Jul 14 17:49:23 2019	iWolfz -ERP- (STEAM_0:0:443923189): /pm derp x
+Sun Jul 14 17:49:26 2019	iWolfz -ERP- (STEAM_0:0:443923189): /pm derp xD
+Sun Jul 14 17:49:29 2019	Derp (STEAM_0:0:52504530): ur a mod not an admin remember
+Sun Jul 14 17:49:35 2019	Hitman Sausy finished a hit on Doof, ordered by Derp for $200
+Sun Jul 14 17:49:35 2019	Doof was killed by Sausy with a fas2_m24
+Sun Jul 14 17:49:40 2019	Sausy (STEAM_0:0:112032713): haha
+Sun Jul 14 17:49:41 2019	Doof (STEAM_0:1:426762407) spawned
+Sun Jul 14 17:49:45 2019	Sausy (STEAM_0:0:112032713): owner gave me a hit on him
+Sun Jul 14 17:49:48 2019	iWolfz -ERP- (STEAM_0:0:443923189): /pm derp Aah ;/
+Sun Jul 14 17:49:59 2019	iWolfz -ERP- (STEAM_0:0:443923189): /pm derp Make an mod on duty xD
+Sun Jul 14 17:49:59 2019	Derp (STEAM_0:0:52504530): i prefer mods to roleplay but if someone is fucking around u can punish them
+Sun Jul 14 17:50:00 2019	Sausy (STEAM_0:0:112032713): sorry
+Sun Jul 14 17:50:01 2019	Sausy (STEAM_0:0:112032713): i was owner
+Sun Jul 14 17:50:04 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): /pm derp I still cant switch machines :|
+Sun Jul 14 17:50:07 2019	iWolfz -ERP- (STEAM_0:0:443923189): kk :D
+Sun Jul 14 17:50:08 2019	Derp (STEAM_0:0:52504530): brb
+Sun Jul 14 17:50:11 2019	iWolfz -ERP- (STEAM_0:0:443923189): k
+Sun Jul 14 17:50:11 2019	Sausy (STEAM_0:0:112032713): soo
+Sun Jul 14 17:50:19 2019	Sausy (STEAM_0:0:112032713): u realize ur stuff went through the wall right ?
+Sun Jul 14 17:50:25 2019	Sausy (STEAM_0:0:112032713): or is this not urs ?
+Sun Jul 14 17:50:31 2019	Sausy (STEAM_0:0:112032713): a ok
+Sun Jul 14 17:50:34 2019	reesemorrow34 (STEAM_0:1:422822587): its no mine
+Sun Jul 14 17:50:36 2019	Sausy (STEAM_0:0:112032713): need set a hit ?
+Sun Jul 14 17:50:47 2019	Sausy (STEAM_0:0:112032713): hi
+Sun Jul 14 17:51:09 2019	iWolfz -ERP- (STEAM_0:0:443923189): ;)
+Sun Jul 14 17:51:15 2019	Sausy (STEAM_0:0:112032713): nah fam
+Sun Jul 14 17:51:18 2019	Sausy (STEAM_0:0:112032713): other guy
+Sun Jul 14 17:51:27 2019	Hitman Sausy accepted a hit on Zookie 〈メイド〉, ordered by iWolfz -ERP- for $200
+Sun Jul 14 17:51:42 2019	iWolfz -ERP- (STEAM_0:0:443923189): // any gun dealers
+Sun Jul 14 17:51:43 2019	Doof was killed by Himself with a suicide trick
+Sun Jul 14 17:51:48 2019	Doof (STEAM_0:1:426762407) spawned
+Sun Jul 14 17:51:58 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // Me
+Sun Jul 14 17:52:12 2019	iWolfz -ERP- (STEAM_0:0:443923189): // Way
+Sun Jul 14 17:52:23 2019	iWolfz -ERP- (STEAM_0:0:443923189): ops
+Sun Jul 14 17:52:32 2019	iWolfz -ERP- (STEAM_0:0:443923189): // where are u
+Sun Jul 14 17:52:39 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // Go out of the small tunnel to the right of spawn, once you leave the small tunnel go straight, then right, then follow the 
+Sun Jul 14 17:52:54 2019	Sausy (STEAM_0:0:112032713): umm
+Sun Jul 14 17:53:05 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): /drop
+Sun Jul 14 17:53:09 2019	iWolfz -ERP- (STEAM_0:0:443923189): 7?
+Sun Jul 14 17:53:12 2019	Derp (STEAM_0:0:52504530): OOOOOOOOOO
+Sun Jul 14 17:53:15 2019	Derp (STEAM_0:0:52504530): OOOOOOOOOOO
+Sun Jul 14 17:53:20 2019	Hitman Sausy finished a hit on Zookie 〈メイド〉, ordered by iWolfz -ERP- for $200
+Sun Jul 14 17:53:20 2019	Zookie 〈メイド〉 was killed by Sausy with a fas2_p226
+Sun Jul 14 17:53:23 2019	iWolfz -ERP- (STEAM_0:0:443923189): IM GOING FOR IT
+Sun Jul 14 17:53:26 2019	Derp (STEAM_0:0:52504530): 15 SECONDS
+Sun Jul 14 17:53:27 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned
+Sun Jul 14 17:53:29 2019	iWolfz -ERP- was killed by Himself with a suicide trick
+Sun Jul 14 17:53:33 2019	iWolfz -ERP- (STEAM_0:0:443923189) spawned
+Sun Jul 14 17:53:39 2019	Derp (STEAM_0:0:52504530): he got to 7
+Sun Jul 14 17:53:42 2019	iWolfz -ERP- (STEAM_0:0:443923189): // fuk me
+Sun Jul 14 17:53:45 2019	Derp (STEAM_0:0:52504530): and then lost
+Sun Jul 14 17:53:59 2019	Sausy (STEAM_0:0:112032713): this is my base
+Sun Jul 14 17:54:02 2019	iWolfz -ERP- (STEAM_0:0:443923189): shat
+Sun Jul 14 17:54:07 2019	iWolfz -ERP- was killed by Doof with a m9k_model627
+Sun Jul 14 17:54:08 2019	iWolfz -ERP- (STEAM_0:0:443923189): WTF
+Sun Jul 14 17:54:12 2019	iWolfz -ERP- (STEAM_0:0:443923189): // WHY DID YOU KILL ME
+Sun Jul 14 17:54:13 2019	iWolfz -ERP- (STEAM_0:0:443923189) spawned
+Sun Jul 14 17:54:18 2019	iWolfz -ERP- (STEAM_0:0:443923189): // WHY DID YOU KILL ME
+Sun Jul 14 17:54:27 2019	Derp (STEAM_0:0:52504530) spawned SENT double_or_nothing
+Sun Jul 14 17:54:31 2019	Sausy (STEAM_0:0:112032713): hit?
+Sun Jul 14 17:54:31 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): 
+Sun Jul 14 17:54:32 2019	Doof was killed by Zookie 〈メイド〉 with a fas2_galil
+Sun Jul 14 17:54:32 2019	Sausy (STEAM_0:0:112032713): hitt?
+Sun Jul 14 17:54:34 2019	Doof (STEAM_0:1:426762407) spawned
+Sun Jul 14 17:54:35 2019	Derp (STEAM_0:0:52504530) spawned SENT double_or_nothing
+Sun Jul 14 17:54:39 2019	Sausy (STEAM_0:0:112032713): HIT ?
+Sun Jul 14 17:54:47 2019	Sausy (STEAM_0:0:112032713): HITT ?
+Sun Jul 14 17:54:55 2019	iWolfz -ERP- (STEAM_0:0:443923189): derp
+Sun Jul 14 17:54:57 2019	Doof was killed by Zookie 〈メイド〉 with a fas2_galil
+Sun Jul 14 17:54:59 2019	Doof (STEAM_0:1:426762407) spawned
+Sun Jul 14 17:54:59 2019	Sausy (STEAM_0:0:112032713): ORESS CASH OUT
+Sun Jul 14 17:54:59 2019	iWolfz -ERP- (STEAM_0:0:443923189): should i
+Sun Jul 14 17:55:02 2019	Derp (STEAM_0:0:52504530): ur gonna get 6
+Sun Jul 14 17:55:07 2019	Sausy (STEAM_0:0:112032713): OMFG
+Sun Jul 14 17:55:09 2019	iWolfz -ERP- (STEAM_0:0:443923189): u lied to me
+Sun Jul 14 17:55:10 2019	Derp (STEAM_0:0:52504530): i meant 5 
+Sun Jul 14 17:55:12 2019	Derp (STEAM_0:0:52504530): i mistyped
+Sun Jul 14 17:55:16 2019	iWolfz -ERP- (STEAM_0:0:443923189): U LIED TO ME
+Sun Jul 14 17:55:19 2019	Derp (STEAM_0:0:52504530): lol
+Sun Jul 14 17:55:20 2019	Sausy (STEAM_0:0:112032713): you dumb persom
+Sun Jul 14 17:55:28 2019	Sausy (STEAM_0:0:112032713): HIT ?
+Sun Jul 14 17:55:33 2019	iWolfz -ERP- (STEAM_0:0:443923189): Doof don't random kill someone
+Sun Jul 14 17:55:35 2019	Sausy (STEAM_0:0:112032713): HIT ?
+Sun Jul 14 17:55:45 2019	Hitman Sausy accepted a hit on Doof, ordered by iWolfz -ERP- for $200
+Sun Jul 14 17:55:50 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !r
+Sun Jul 14 17:55:51 2019	Hitman Sausy finished a hit on Doof, ordered by iWolfz -ERP- for $200
+Sun Jul 14 17:55:51 2019	Doof was killed by Sausy with a fas2_p226
+Sun Jul 14 17:55:54 2019	iWolfz -ERP- (STEAM_0:0:443923189): ret
+Sun Jul 14 17:56:05 2019	iWolfz -ERP- (STEAM_0:0:443923189): /pm derp nlr is a rule right
+Sun Jul 14 17:56:08 2019	Sausy (STEAM_0:0:112032713): lets go back to making cash
+Sun Jul 14 17:56:17 2019	Derp (STEAM_0:0:52504530): /pm wolf it is but who cares right now
+Sun Jul 14 17:56:23 2019	iWolfz -ERP- (STEAM_0:0:443923189): /pm derp i do
+Sun Jul 14 17:56:25 2019	iWolfz -ERP- (STEAM_0:0:443923189): /pm derp xD
+Sun Jul 14 17:56:25 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): 
+Sun Jul 14 17:56:27 2019	Derp (STEAM_0:0:52504530): lol
+Sun Jul 14 17:56:33 2019	iWolfz -ERP- (STEAM_0:0:443923189): /pm derp btw
+Sun Jul 14 17:56:37 2019	Doof (STEAM_0:1:426762407) spawned
+Sun Jul 14 17:56:43 2019	iWolfz -ERP- (STEAM_0:0:443923189): /pm derp Do i get paid?
+Sun Jul 14 17:56:45 2019	iWolfz -ERP- (STEAM_0:0:443923189): /pm derp ingame
+Sun Jul 14 17:56:48 2019	iWolfz -ERP- (STEAM_0:0:443923189): /pm derp not irl
+Sun Jul 14 17:56:48 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): /drop
+Sun Jul 14 17:56:55 2019	iWolfz -ERP- (STEAM_0:0:443923189): /pm derp xD
+Sun Jul 14 17:57:01 2019	Derp (STEAM_0:0:52504530): how much money do u have
+Sun Jul 14 17:57:07 2019	iWolfz -ERP- (STEAM_0:0:443923189): 1.2k
+Sun Jul 14 17:57:18 2019	Derp (STEAM_0:0:52504530): /dropmoney 10000
+Sun Jul 14 17:57:19 2019	Derp (STEAM_0:0:52504530) has dropped $10,000
+Sun Jul 14 17:57:24 2019	iWolfz -ERP- was killed by Doof with a m9k_model627
+Sun Jul 14 17:57:27 2019	iWolfz -ERP- (STEAM_0:0:443923189) spawned
+Sun Jul 14 17:57:31 2019	Derp (STEAM_0:0:52504530): /dropmoney 10000
+Sun Jul 14 17:57:32 2019	Derp (STEAM_0:0:52504530) has dropped $10,000
+Sun Jul 14 17:57:37 2019	iWolfz -ERP- (STEAM_0:0:443923189): why did you kill me
+Sun Jul 14 17:57:42 2019	iWolfz -ERP- (STEAM_0:0:443923189): 
+Sun Jul 14 17:57:43 2019	iWolfz -ERP- (STEAM_0:0:443923189): 
+Sun Jul 14 17:58:00 2019	iWolfz -ERP- (STEAM_0:0:443923189): Please equip  your phys gun
+Sun Jul 14 17:58:22 2019	iWolfz -ERP- (STEAM_0:0:443923189): Don't
+Sun Jul 14 17:58:23 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !goto doof
+Sun Jul 14 17:58:26 2019	iWolfz -ERP- (STEAM_0:0:443923189): Kill randomly
+Sun Jul 14 17:58:26 2019	Sausy (STEAM_0:0:112032713): im rich
+Sun Jul 14 17:58:30 2019	iWolfz -ERP- (STEAM_0:0:443923189): No
+Sun Jul 14 17:58:35 2019	iWolfz -ERP- (STEAM_0:0:443923189): No i didnt
+Sun Jul 14 17:58:36 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !god Zook
+Sun Jul 14 17:58:39 2019	iWolfz -ERP- (STEAM_0:0:443923189): No
+Sun Jul 14 17:58:42 2019	iWolfz -ERP- (STEAM_0:0:443923189): He gave it t me
+Sun Jul 14 17:58:43 2019	iWolfz -ERP- (STEAM_0:0:443923189): to me
+Sun Jul 14 17:58:46 2019	iWolfz -ERP- (STEAM_0:0:443923189): zookie go away
+Sun Jul 14 17:58:48 2019	iWolfz -ERP- (STEAM_0:0:443923189): It's my sit
+Sun Jul 14 17:58:50 2019	iWolfz -ERP- (STEAM_0:0:443923189): wtf
+Sun Jul 14 17:58:53 2019	iWolfz -ERP- (STEAM_0:0:443923189): No
+Sun Jul 14 17:58:55 2019	iWolfz -ERP- (STEAM_0:0:443923189): Go awway 
+Sun Jul 14 17:58:57 2019	iWolfz -ERP- (STEAM_0:0:443923189): Its my sit
+Sun Jul 14 17:59:03 2019	iWolfz -ERP- (STEAM_0:0:443923189): derp
+Sun Jul 14 17:59:09 2019	Derp (STEAM_0:0:52504530): /dropmoney 15000
+Sun Jul 14 17:59:10 2019	Derp (STEAM_0:0:52504530) has dropped $15,000
+Sun Jul 14 17:59:12 2019	reesemorrow34 (STEAM_0:1:422822587): are bitcoin servers good?
+Sun Jul 14 17:59:13 2019	iWolfz -ERP- (STEAM_0:0:443923189): zookie stop interfering in my sit
+Sun Jul 14 17:59:23 2019	Sausy (STEAM_0:0:112032713): yes
+Sun Jul 14 17:59:29 2019	Sausy (STEAM_0:0:112032713): they are the most expensive ones
+Sun Jul 14 17:59:30 2019	reesemorrow34 (STEAM_0:1:422822587): I can almost get one
+Sun Jul 14 17:59:33 2019	Sausy (STEAM_0:0:112032713): and they give alot of money
+Sun Jul 14 17:59:39 2019	iWolfz -ERP- (STEAM_0:0:443923189): /pm derp He is interfering in my sit
+Sun Jul 14 18:00:01 2019	Derp (STEAM_0:0:52504530): if hes already talking to someone just let him do it alone unless he needs help
+Sun Jul 14 18:00:16 2019	iWolfz -ERP- (STEAM_0:0:443923189): Zookie no i dont need help
+Sun Jul 14 18:00:21 2019	iWolfz -ERP- (STEAM_0:0:443923189): I was doing just fine
+Sun Jul 14 18:00:24 2019	iWolfz -ERP- (STEAM_0:0:443923189): btw cant hear u
+Sun Jul 14 18:00:28 2019	iWolfz -ERP- (STEAM_0:0:443923189): Bez i have turned off sound
+Sun Jul 14 18:00:30 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): Were you talking to him?
+Sun Jul 14 18:00:32 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): Or having a sit?
+Sun Jul 14 18:00:33 2019	iWolfz -ERP- (STEAM_0:0:443923189): Yes
+Sun Jul 14 18:00:35 2019	iWolfz -ERP- (STEAM_0:0:443923189): Sit
+Sun Jul 14 18:00:41 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): In a sit there's supposed to be 3 people.
+Sun Jul 14 18:00:44 2019	iWolfz -ERP- (STEAM_0:0:443923189): No
+Sun Jul 14 18:00:47 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): Otherwise, its just bickering back and forth.
+Sun Jul 14 18:00:53 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): Unless you're just talking to someone
+Sun Jul 14 18:00:55 2019	Derp (STEAM_0:0:52504530): zookie dont mess with him hes trying to be a good mod
+Sun Jul 14 18:01:00 2019	iWolfz -ERP- (STEAM_0:0:443923189): yes
+Sun Jul 14 18:01:09 2019	iWolfz -ERP- (STEAM_0:0:443923189): I am trying to be good / excelent xD
+Sun Jul 14 18:01:23 2019	iWolfz -ERP- (STEAM_0:0:443923189): But you still can't interfear
+Sun Jul 14 18:01:29 2019	iWolfz -ERP- (STEAM_0:0:443923189): Because we we're talking
+Sun Jul 14 18:01:36 2019	iWolfz -ERP- (STEAM_0:0:443923189): derp
+Sun Jul 14 18:01:41 2019	reesemorrow34 was killed by Doof with a m9k_model627
+Sun Jul 14 18:01:44 2019	reesemorrow34 (STEAM_0:1:422822587) spawned
+Sun Jul 14 18:01:48 2019	Derp (STEAM_0:0:52504530): /pm wolf he isnt trying to be a dick hes just messing around dont worry about him i know ur doing good
+Sun Jul 14 18:01:55 2019	iWolfz -ERP- (STEAM_0:0:443923189): No 
+Sun Jul 14 18:01:57 2019	iWolfz -ERP- (STEAM_0:0:443923189): Ik
+Sun Jul 14 18:02:01 2019	iWolfz -ERP- (STEAM_0:0:443923189): He wasn't being a dick
+Sun Jul 14 18:02:04 2019	iWolfz -ERP- (STEAM_0:0:443923189): He wanted to help ik
+Sun Jul 14 18:02:08 2019	iWolfz -ERP- (STEAM_0:0:443923189): But it is annoying 
+Sun Jul 14 18:02:15 2019	iWolfz -ERP- (STEAM_0:0:443923189): When staff tries to get in your case
+Sun Jul 14 18:02:22 2019	Derp (STEAM_0:0:52504530): i get u
+Sun Jul 14 18:02:35 2019	Derp (STEAM_0:0:52504530): i already told him not to do that im gonna assume hes listening to what i said
+Sun Jul 14 18:02:38 2019	Doof was killed by Zookie 〈メイド〉 with a fas2_galil
+Sun Jul 14 18:02:40 2019	Doof (STEAM_0:1:426762407) spawned
+Sun Jul 14 18:02:43 2019	iWolfz -ERP- (STEAM_0:0:443923189): I can't hear him tho
+Sun Jul 14 18:02:44 2019	Derp (STEAM_0:0:52504530): if it happens again just PM me
+Sun Jul 14 18:02:48 2019	reesemorrow34 was killed by Zookie 〈メイド〉 with a fas2_galil
+Sun Jul 14 18:02:50 2019	reesemorrow34 (STEAM_0:1:422822587) spawned
+Sun Jul 14 18:02:52 2019	Derp (STEAM_0:0:52504530): or send me a msg through steam
+Sun Jul 14 18:02:53 2019	iWolfz -ERP- (STEAM_0:0:443923189): k
+Sun Jul 14 18:02:54 2019	iWolfz -ERP- (STEAM_0:0:443923189): btw
+Sun Jul 14 18:02:58 2019	iWolfz -ERP- (STEAM_0:0:443923189): It's 12 am for me now
+Sun Jul 14 18:03:00 2019	iWolfz -ERP- (STEAM_0:0:443923189): xD
+Sun Jul 14 18:03:04 2019	Derp (STEAM_0:0:52504530): 12 AM ??????
+Sun Jul 14 18:03:06 2019	iWolfz -ERP- (STEAM_0:0:443923189): ye
+Sun Jul 14 18:03:09 2019	Derp (STEAM_0:0:52504530): holy fucking shit
+Sun Jul 14 18:03:14 2019	iWolfz -ERP- (STEAM_0:0:443923189): Let me check
+Sun Jul 14 18:03:16 2019	Derp (STEAM_0:0:52504530): its 6 pm
+Sun Jul 14 18:03:17 2019	Derp (STEAM_0:0:52504530): for me
+Sun Jul 14 18:03:23 2019	iWolfz -ERP- (STEAM_0:0:443923189): 3 min over 12 am
+Sun Jul 14 18:03:24 2019	iWolfz -ERP- (STEAM_0:0:443923189): NANI
+Sun Jul 14 18:03:26 2019	iWolfz -ERP- (STEAM_0:0:443923189): where are u from
+Sun Jul 14 18:03:26 2019	Hitman Sausy accepted a hit on Doof, ordered by Zookie 〈メイド〉 for $200
+Sun Jul 14 18:03:27 2019	Hitman Sausy finished a hit on Doof, ordered by Zookie 〈メイド〉 for $200
+Sun Jul 14 18:03:28 2019	Doof was killed by Sausy with a fas2_m24
+Sun Jul 14 18:03:28 2019	iWolfz -ERP- (STEAM_0:0:443923189): China=
+Sun Jul 14 18:03:29 2019	reesemorrow34 was killed by Himself with a suicide trick
+Sun Jul 14 18:03:29 2019	iWolfz -ERP- (STEAM_0:0:443923189): ?
+Sun Jul 14 18:03:30 2019	Doof (STEAM_0:1:426762407) spawned
+Sun Jul 14 18:03:32 2019	reesemorrow34 (STEAM_0:1:422822587) spawned
+Sun Jul 14 18:03:33 2019	Derp (STEAM_0:0:52504530): im in the united states in florida
+Sun Jul 14 18:03:33 2019	Sausy (STEAM_0:0:112032713): LOLOL
+Sun Jul 14 18:03:36 2019	iWolfz -ERP- (STEAM_0:0:443923189): Aah
+Sun Jul 14 18:03:39 2019	iWolfz -ERP- (STEAM_0:0:443923189): I am from norway
+Sun Jul 14 18:03:48 2019	Derp (STEAM_0:0:52504530): i like scandinavian people 
+Sun Jul 14 18:03:48 2019	iWolfz -ERP- (STEAM_0:0:443923189): I can't talk bez everyone is sleeping
+Sun Jul 14 18:04:04 2019	Derp (STEAM_0:0:52504530): i love the norwegian and swedish languages
+Sun Jul 14 18:04:10 2019	iWolfz -ERP- (STEAM_0:0:443923189): xD
+Sun Jul 14 18:04:16 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): /drop
+Sun Jul 14 18:04:20 2019	iWolfz -ERP- (STEAM_0:0:443923189): I said fuck you in norwegian
+Sun Jul 14 18:04:21 2019	iWolfz -ERP- (STEAM_0:0:443923189): I mean hi
+Sun Jul 14 18:04:22 2019	iWolfz -ERP- (STEAM_0:0:443923189): ,,,
+Sun Jul 14 18:04:23 2019	iWolfz -ERP- (STEAM_0:0:443923189): xD
+Sun Jul 14 18:04:27 2019	Derp (STEAM_0:0:52504530): k imma ban u now
+Sun Jul 14 18:04:31 2019	iWolfz -ERP- (STEAM_0:0:443923189): ok :(
+Sun Jul 14 18:04:46 2019	iWolfz -ERP- (STEAM_0:0:443923189): OUCH
+Sun Jul 14 18:04:54 2019	iWolfz -ERP- (STEAM_0:0:443923189): KE
+Sun Jul 14 18:04:58 2019	iWolfz -ERP- (STEAM_0:0:443923189): !hp iwolfz 100
+Sun Jul 14 18:04:59 2019	Doof was killed by Zookie 〈メイド〉 with a fas2_sks
+Sun Jul 14 18:05:01 2019	Doof (STEAM_0:1:426762407) spawned
+Sun Jul 14 18:06:02 2019	iWolfz -ERP- (STEAM_0:0:443923189): n olook
+Sun Jul 14 18:06:16 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): 
+Sun Jul 14 18:06:20 2019	Doof was killed by Zookie 〈メイド〉 with a fas2_sks
+Sun Jul 14 18:06:22 2019	Doof (STEAM_0:1:426762407) spawned
+Sun Jul 14 18:06:23 2019	iWolfz -ERP- (STEAM_0:0:443923189): // zookie
+Sun Jul 14 18:06:36 2019	iWolfz -ERP- (STEAM_0:0:443923189): xD
+Sun Jul 14 18:06:55 2019	iWolfz -ERP- (STEAM_0:0:443923189): umm
+Sun Jul 14 18:07:03 2019	iWolfz -ERP- (STEAM_0:0:443923189): xDD
+Sun Jul 14 18:07:03 2019	Derp (STEAM_0:0:52504530) spawned
+Sun Jul 14 18:07:03 2019	Doof was killed by reesemorrow34 with a fas2_deagle
+Sun Jul 14 18:07:06 2019	Doof (STEAM_0:1:426762407) spawned
+Sun Jul 14 18:07:08 2019	Derp (STEAM_0:0:52504530): ok thats enough u fucking shits
+Sun Jul 14 18:07:10 2019	iWolfz -ERP- (STEAM_0:0:443923189): xD
+Sun Jul 14 18:07:14 2019	iWolfz -ERP- (STEAM_0:0:443923189): lmao
+Sun Jul 14 18:07:18 2019	iWolfz -ERP- (STEAM_0:0:443923189): !doll
+Sun Jul 14 18:07:20 2019	Sausy (STEAM_0:0:112032713): hi
+Sun Jul 14 18:07:21 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !doll
+Sun Jul 14 18:07:28 2019	iWolfz -ERP- (STEAM_0:0:443923189): 
+Sun Jul 14 18:07:29 2019	Sausy (STEAM_0:0:112032713): did anyone tried to raid ?
+Sun Jul 14 18:07:33 2019	reesemorrow34 (STEAM_0:1:422822587): yes
+Sun Jul 14 18:07:35 2019	iWolfz -ERP- (STEAM_0:0:443923189): its !ragdoll
+Sun Jul 14 18:07:35 2019	Sausy (STEAM_0:0:112032713): WHO
+Sun Jul 14 18:07:38 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !ragdoll
+Sun Jul 14 18:07:43 2019	reesemorrow34 (STEAM_0:1:422822587): doof
+Sun Jul 14 18:07:43 2019	Derp (STEAM_0:0:52504530): quick question
+Sun Jul 14 18:07:46 2019	iWolfz -ERP- (STEAM_0:0:443923189): ?
+Sun Jul 14 18:07:50 2019	Derp (STEAM_0:0:52504530): should i invest in a meth addon at some point
+Sun Jul 14 18:07:51 2019	iWolfz -ERP- (STEAM_0:0:443923189): Yes
+Sun Jul 14 18:07:52 2019	Hitman Sausy accepted a hit on Doof, ordered by reesemorrow34 for $200
+Sun Jul 14 18:07:54 2019	Derp (STEAM_0:0:52504530): made by the same guy who made the weed one
+Sun Jul 14 18:08:05 2019	Derp (STEAM_0:0:52504530): i spent money on that one
+Sun Jul 14 18:08:08 2019	iWolfz -ERP- (STEAM_0:0:443923189): Nah
+Sun Jul 14 18:08:09 2019	iWolfz -ERP- (STEAM_0:0:443923189): No
+Sun Jul 14 18:08:10 2019	iWolfz -ERP- (STEAM_0:0:443923189): xD
+Sun Jul 14 18:08:12 2019	Hit on Doof failed. Reason: The target has died!
+Sun Jul 14 18:08:12 2019	Doof was killed by Himself with a suicide trick
+Sun Jul 14 18:08:14 2019	Doof (STEAM_0:1:426762407) spawned
+Sun Jul 14 18:08:16 2019	Sausy (STEAM_0:0:112032713): 
+Sun Jul 14 18:08:19 2019	Derp (STEAM_0:0:52504530): i think the weed one is really good
+Sun Jul 14 18:08:28 2019	Derp (STEAM_0:0:52504530): the textures?
+Sun Jul 14 18:08:32 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned SENT bm2_extention_lead
+Sun Jul 14 18:08:36 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned SENT zwf_generator
+Sun Jul 14 18:08:37 2019	Sausy (STEAM_0:0:112032713): !warn Doof failrp
+Sun Jul 14 18:08:39 2019	Derp (STEAM_0:0:52504530): did u install the collection
+Sun Jul 14 18:08:45 2019	Derp (STEAM_0:0:52504530): wait one question
+Sun Jul 14 18:08:53 2019	Derp (STEAM_0:0:52504530): go into ur video settings and turn on MSAA
+Sun Jul 14 18:08:59 2019	iWolfz -ERP- (STEAM_0:0:443923189): who
+Sun Jul 14 18:08:59 2019	Sausy (STEAM_0:0:112032713): move
+Sun Jul 14 18:09:07 2019	Derp (STEAM_0:0:52504530): in the anti aliasing 
+Sun Jul 14 18:09:09 2019	Derp (STEAM_0:0:52504530): it shouldnt
+Sun Jul 14 18:09:27 2019	iWolfz -ERP- (STEAM_0:0:443923189): I have it off
+Sun Jul 14 18:09:43 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned SENT zwf_generator
+Sun Jul 14 18:09:49 2019	Sausy (STEAM_0:0:112032713): OMG
+Sun Jul 14 18:09:54 2019	Sausy (STEAM_0:0:112032713): THEY ARE 4 PEOPLE GETTING GUNS TO RAID ME
+Sun Jul 14 18:09:56 2019	Derp (STEAM_0:0:52504530) spawned SENT zwf_bong01_ent
+Sun Jul 14 18:09:59 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): 
+Sun Jul 14 18:10:03 2019	reesemorrow34 (STEAM_0:1:422822587): GOD DAMN
+Sun Jul 14 18:10:05 2019	iWolfz -ERP- (STEAM_0:0:443923189): derp
+Sun Jul 14 18:10:07 2019	Derp (STEAM_0:0:52504530): are the textures fine now
+Sun Jul 14 18:10:08 2019	reesemorrow34 (STEAM_0:1:422822587): prepare
+Sun Jul 14 18:10:08 2019	Sausy (STEAM_0:0:112032713): IDK if they going to raid us
+Sun Jul 14 18:10:10 2019	Derp (STEAM_0:0:52504530) spawned SENT zwf_generator
+Sun Jul 14 18:10:13 2019	Sausy (STEAM_0:0:112032713): but they prob would
+Sun Jul 14 18:10:20 2019	iWolfz -ERP- (STEAM_0:0:443923189): what does msaa do
+Sun Jul 14 18:10:22 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !jail @ 120
+Sun Jul 14 18:10:27 2019	iWolfz -ERP- (STEAM_0:0:443923189): I turned it on 4x
+Sun Jul 14 18:10:31 2019	reesemorrow34 (STEAM_0:1:422822587): READY YOUR WEAPONS
+Sun Jul 14 18:10:43 2019	Derp (STEAM_0:0:52504530): we need to send screenshots to each other or something
+Sun Jul 14 18:10:53 2019	Derp (STEAM_0:0:52504530): ye
+Sun Jul 14 18:10:59 2019	Derp (STEAM_0:0:52504530): derp#8186
+Sun Jul 14 18:11:05 2019	reesemorrow34 (STEAM_0:1:422822587): // are u guys planning to raid us?
+Sun Jul 14 18:11:11 2019	Derp (STEAM_0:0:52504530): /ooc im not
+Sun Jul 14 18:11:30 2019	Sausy (STEAM_0:0:112032713): hi
+Sun Jul 14 18:12:02 2019	Derp (STEAM_0:0:52504530): did u send a request
+Sun Jul 14 18:12:13 2019	Derp (STEAM_0:0:52504530): i dont have one
+Sun Jul 14 18:12:30 2019	Derp (STEAM_0:0:52504530): derp#8186
+Sun Jul 14 18:12:43 2019	Derp (STEAM_0:0:52504530): whats urs
+Sun Jul 14 18:12:46 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): Hime#6429
+Sun Jul 14 18:12:50 2019	iWolfz -ERP- (STEAM_0:0:443923189): Derp I sent u a message on steam
+Sun Jul 14 18:13:02 2019	Derp (STEAM_0:0:52504530): there
+Sun Jul 14 18:13:15 2019	Derp (STEAM_0:0:52504530): oh i didnt even know it was capital sensitive
+Sun Jul 14 18:13:27 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !jail @ 120
+Sun Jul 14 18:13:31 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !unjail doof
+Sun Jul 14 18:13:40 2019	iWolfz -ERP- (STEAM_0:0:443923189): !hp * 100
+Sun Jul 14 18:13:52 2019	Derp (STEAM_0:0:52504530): i think thats ur game doing that
+Sun Jul 14 18:13:58 2019	Derp (STEAM_0:0:52504530): i have all my settings maxed out
+Sun Jul 14 18:14:04 2019	Sausy (STEAM_0:0:112032713): move
+Sun Jul 14 18:14:11 2019	Hitman Sausy accepted a hit on Doof, ordered by iWolfz -ERP- for $200
+Sun Jul 14 18:14:13 2019	Hitman Sausy finished a hit on Doof, ordered by iWolfz -ERP- for $200
+Sun Jul 14 18:14:13 2019	Doof was killed by Sausy with a fas2_p226
+Sun Jul 14 18:14:16 2019	Doof (STEAM_0:1:426762407) spawned
+Sun Jul 14 18:14:18 2019	Sausy (STEAM_0:0:112032713): thank u
+Sun Jul 14 18:14:20 2019	iWolfz -ERP- (STEAM_0:0:443923189): Zookie
+Sun Jul 14 18:14:28 2019	iWolfz -ERP- (STEAM_0:0:443923189): I wanna buy gun
+Sun Jul 14 18:14:47 2019	Sausy (STEAM_0:0:112032713): nice jab
+Sun Jul 14 18:14:52 2019	iWolfz -ERP- (STEAM_0:0:443923189): dont grab
+Sun Jul 14 18:14:53 2019	iWolfz -ERP- (STEAM_0:0:443923189): ABUSE
+Sun Jul 14 18:15:09 2019	Sausy (STEAM_0:0:112032713): woops
+Sun Jul 14 18:15:10 2019	Sausy (STEAM_0:0:112032713): sori 
+Sun Jul 14 18:15:17 2019	Sausy (STEAM_0:0:112032713): wanna join ?
+Sun Jul 14 18:15:22 2019	iWolfz -ERP- (STEAM_0:0:443923189): Is there a good gun for 11k
+Sun Jul 14 18:15:28 2019	Derp (STEAM_0:0:52504530): i took all of ur bitcoin money
+Sun Jul 14 18:15:29 2019	Derp (STEAM_0:0:52504530): HAHHAHA
+Sun Jul 14 18:15:33 2019	iWolfz -ERP- (STEAM_0:0:443923189): I cant hear u btw
+Sun Jul 14 18:15:36 2019	Derp (STEAM_0:0:52504530): wait
+Sun Jul 14 18:15:40 2019	Derp (STEAM_0:0:52504530): i was just kidding
+Sun Jul 14 18:15:41 2019	Sausy (STEAM_0:0:112032713): he took our money
+Sun Jul 14 18:15:43 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): in my opinion
+Sun Jul 14 18:15:45 2019	Sausy (STEAM_0:0:112032713): no he wasnt
+Sun Jul 14 18:15:46 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): the galil is the best
+Sun Jul 14 18:15:47 2019	Derp (STEAM_0:0:52504530): yes i am
+Sun Jul 14 18:15:49 2019	iWolfz -ERP- (STEAM_0:0:443923189): ill get that
+Sun Jul 14 18:15:52 2019	Sausy (STEAM_0:0:112032713): shoot him in the baby maker
+Sun Jul 14 18:15:53 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): 600$
+Sun Jul 14 18:15:58 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): ./dropmoney 600
+Sun Jul 14 18:16:00 2019	Derp was killed by reesemorrow34 with a fas2_deagle
+Sun Jul 14 18:16:01 2019	Sausy (STEAM_0:0:112032713): oh
+Sun Jul 14 18:16:02 2019	iWolfz -ERP- (STEAM_0:0:443923189): /dropmoney 601
+Sun Jul 14 18:16:03 2019	iWolfz -ERP- (STEAM_0:0:443923189) has dropped $601
+Sun Jul 14 18:16:05 2019	iWolfz -ERP- (STEAM_0:0:443923189): Im not dumb
+Sun Jul 14 18:16:06 2019	Doof was killed by Himself with a suicide trick
+Sun Jul 14 18:16:10 2019	Doof (STEAM_0:1:426762407) spawned
+Sun Jul 14 18:16:11 2019	Sausy (STEAM_0:0:112032713): no baby maker for u
+Sun Jul 14 18:16:11 2019	Derp (STEAM_0:0:52504530) spawned
+Sun Jul 14 18:16:21 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): behind you
+Sun Jul 14 18:16:25 2019	Sausy (STEAM_0:0:112032713): // derp is there a kidnapper ?
+Sun Jul 14 18:16:27 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): gg
+Sun Jul 14 18:16:28 2019	iWolfz -ERP- (STEAM_0:0:443923189): bye
+Sun Jul 14 18:16:59 2019	Sausy (STEAM_0:0:112032713): hi
+Sun Jul 14 18:17:01 2019	Derp (STEAM_0:0:52504530): yo
+Sun Jul 14 18:17:09 2019	Sausy (STEAM_0:0:112032713): i'd like a kidnapper job
+Sun Jul 14 18:17:12 2019	Derp (STEAM_0:0:52504530): lmao
+Sun Jul 14 18:17:13 2019	iWolfz -ERP- (STEAM_0:0:443923189): wtf
+Sun Jul 14 18:17:17 2019	Doof (STEAM_0:1:426762407): my crown
+Sun Jul 14 18:17:32 2019	Sausy (STEAM_0:0:112032713): or anything that have a handcuffs for chopping body parts of a human being 
+Sun Jul 14 18:17:35 2019	Sausy (STEAM_0:0:112032713): you know amputating
+Sun Jul 14 18:17:42 2019	Sausy (STEAM_0:0:112032713): kidnapp amputate and boom
+Sun Jul 14 18:17:47 2019	Sausy (STEAM_0:0:112032713): simple stuff
+Sun Jul 14 18:17:47 2019	Derp (STEAM_0:0:52504530): i guess i could find some handcuffs in the future
+Sun Jul 14 18:17:47 2019	iWolfz -ERP- (STEAM_0:0:443923189): Can't even afford it
+Sun Jul 14 18:17:50 2019	Doof was killed by Himself with a suicide trick
+Sun Jul 14 18:17:55 2019	Sausy (STEAM_0:0:112032713): yus
+Sun Jul 14 18:18:01 2019	Sausy (STEAM_0:0:112032713): or elastic something
+Sun Jul 14 18:18:01 2019	Derp (STEAM_0:0:52504530): but first imma need to upgrade the gun dealer and get some new printers
+Sun Jul 14 18:18:06 2019	Doof (STEAM_0:1:426762407) spawned
+Sun Jul 14 18:18:09 2019	Sausy (STEAM_0:0:112032713): ok
+Sun Jul 14 18:18:18 2019	Sausy (STEAM_0:0:112032713): imagine
+Sun Jul 14 18:18:20 2019	Sausy (STEAM_0:0:112032713): kidnapping :3
+Sun Jul 14 18:18:24 2019	Derp (STEAM_0:0:52504530): why do u have a camera
+Sun Jul 14 18:18:27 2019	iWolfz -ERP- (STEAM_0:0:443923189): /pm derp Can I set up a casino?
+Sun Jul 14 18:18:33 2019	Derp (STEAM_0:0:52504530): rip
+Sun Jul 14 18:18:44 2019	Derp (STEAM_0:0:52504530): /pm wolf i think we might set one up later 
+Sun Jul 14 18:18:46 2019	Sausy (STEAM_0:0:112032713): does ur gun looks realistic ?
+Sun Jul 14 18:18:51 2019	iWolfz -ERP- (STEAM_0:0:443923189): /pm derp But :(
+Sun Jul 14 18:18:51 2019	reesemorrow34 (STEAM_0:1:422822587): yes
+Sun Jul 14 18:18:58 2019	iWolfz -ERP- (STEAM_0:0:443923189): /pm derp fine :/D
+Sun Jul 14 18:19:00 2019	Sausy (STEAM_0:0:112032713): press E and R in the same time
+Sun Jul 14 18:19:09 2019	reesemorrow34 (STEAM_0:1:422822587): ik
+Sun Jul 14 18:19:10 2019	Derp (STEAM_0:0:52504530): /pm wolf we need to tweak the double or nothing machines anyway
+Sun Jul 14 18:19:24 2019	reesemorrow34 (STEAM_0:1:422822587): I played a millarty rp and learned it
+Sun Jul 14 18:19:27 2019	Sausy (STEAM_0:0:112032713): same
+Sun Jul 14 18:19:30 2019	Derp (STEAM_0:0:52504530): nothing im just watching people do stuff
+Sun Jul 14 18:19:37 2019	Sausy (STEAM_0:0:112032713): lemme cheat really quick..
+Sun Jul 14 18:19:50 2019	iWolfz -ERP- (STEAM_0:0:443923189): // I had 10k And didn't even get 2x
+Sun Jul 14 18:19:55 2019	iWolfz -ERP- (STEAM_0:0:443923189): // Now i have 374 dollars xD
+Sun Jul 14 18:20:04 2019	Derp (STEAM_0:0:52504530): /ooc from doing what
+Sun Jul 14 18:20:12 2019	Derp (STEAM_0:0:52504530): no not u
+Sun Jul 14 18:20:12 2019	Sausy (STEAM_0:0:112032713): set a hit
+Sun Jul 14 18:20:14 2019	iWolfz -ERP- (STEAM_0:0:443923189): // Totally not gambling...
+Sun Jul 14 18:20:15 2019	Derp (STEAM_0:0:52504530): im talking to wolf
+Sun Jul 14 18:20:21 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // gg
+Sun Jul 14 18:20:22 2019	reesemorrow34 (STEAM_0:1:422822587): on who?
+Sun Jul 14 18:20:26 2019	iWolfz -ERP- (STEAM_0:0:443923189): hi
+Sun Jul 14 18:20:31 2019	Sausy (STEAM_0:0:112032713): everyone except the owner
+Sun Jul 14 18:20:32 2019	iWolfz -ERP- (STEAM_0:0:443923189): I can't hear u btw
+Sun Jul 14 18:20:36 2019	Doof (STEAM_0:1:426762407): give me 10k
+Sun Jul 14 18:20:41 2019	iWolfz -ERP- (STEAM_0:0:443923189): advert mug
+Sun Jul 14 18:20:44 2019	Hitman Sausy accepted a hit on iWolfz -ERP-, ordered by reesemorrow34 for $200
+Sun Jul 14 18:20:44 2019	Hit on iWolfz -ERP- failed. Reason: The target has died!
+Sun Jul 14 18:20:44 2019	iWolfz -ERP- was killed by Doof with a fas2_deagle
+Sun Jul 14 18:20:47 2019	iWolfz -ERP- (STEAM_0:0:443923189) spawned
+Sun Jul 14 18:20:54 2019	Sausy (STEAM_0:0:112032713): umm
+Sun Jul 14 18:20:57 2019	Sausy (STEAM_0:0:112032713): xD
+Sun Jul 14 18:20:57 2019	iWolfz -ERP- (STEAM_0:0:443923189): Why kill me
+Sun Jul 14 18:20:59 2019	iWolfz -ERP- (STEAM_0:0:443923189): /Advert test
+Sun Jul 14 18:21:01 2019	iWolfz -ERP- (STEAM_0:0:443923189): 
+Sun Jul 14 18:21:02 2019	Doof (STEAM_0:1:426762407): im still poor
+Sun Jul 14 18:21:05 2019	Sausy (STEAM_0:0:112032713): UMM..
+Sun Jul 14 18:21:08 2019	reesemorrow34 (STEAM_0:1:422822587): // hey derp can I have 100,000 dollars
+Sun Jul 14 18:21:09 2019	Sausy (STEAM_0:0:112032713): he died..
+Sun Jul 14 18:21:17 2019	Derp (STEAM_0:0:52504530): /ooc why
+Sun Jul 14 18:21:22 2019	iWolfz -ERP- (STEAM_0:0:443923189): If you want to mug someone you will needing to be adverting it
+Sun Jul 14 18:21:25 2019	iWolfz -ERP- (STEAM_0:0:443923189): ./advert mug 
+Sun Jul 14 18:21:33 2019	Sausy (STEAM_0:0:112032713): hi ?
+Sun Jul 14 18:21:33 2019	Doof (STEAM_0:1:426762407): 
+Sun Jul 14 18:21:36 2019	reesemorrow34 (STEAM_0:1:422822587): // idk just because
+Sun Jul 14 18:21:36 2019	iWolfz -ERP- (STEAM_0:0:443923189): Not now
+Sun Jul 14 18:21:42 2019	Doof (STEAM_0:1:426762407): 
+Sun Jul 14 18:21:46 2019	Derp (STEAM_0:0:52504530): /addmoney reese 50000
+Sun Jul 14 18:21:46 2019	Derp (STEAM_0:0:52504530) added $50,000 to reesemorrow34's wallet
+Sun Jul 14 18:21:48 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // Don't spam advert
+Sun Jul 14 18:21:49 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): 
+Sun Jul 14 18:21:55 2019	iWolfz -ERP- (STEAM_0:0:443923189): When you have mugged someone you need to wait 5-10 mins
+Sun Jul 14 18:22:04 2019	Doof (STEAM_0:1:426762407): i didnt mug anybody though
+Sun Jul 14 18:22:08 2019	Doof (STEAM_0:1:426762407): its been longer than that too
+Sun Jul 14 18:22:10 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): 
+Sun Jul 14 18:22:15 2019	iWolfz -ERP- (STEAM_0:0:443923189): But why did you kill me
+Sun Jul 14 18:22:23 2019	Sausy (STEAM_0:0:112032713): hit ?
+Sun Jul 14 18:22:27 2019	Doof (STEAM_0:1:426762407): because you tried to do advert and you didnt give me any money
+Sun Jul 14 18:22:30 2019	Sausy (STEAM_0:0:112032713): im desperate
+Sun Jul 14 18:22:31 2019	Doof (STEAM_0:1:426762407): thats how robbing works
+Sun Jul 14 18:22:33 2019	iWolfz -ERP- (STEAM_0:0:443923189): No
+Sun Jul 14 18:22:35 2019	Doof (STEAM_0:1:426762407): yes
+Sun Jul 14 18:22:37 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): 
+Sun Jul 14 18:22:39 2019	Hitman Sausy accepted a hit on Doof, ordered by Zookie 〈メイド〉 for $200
+Sun Jul 14 18:22:40 2019	iWolfz -ERP- (STEAM_0:0:443923189): I tried to show you how to advert
+Sun Jul 14 18:22:46 2019	Doof (STEAM_0:1:426762407): i know how to advert
+Sun Jul 14 18:22:46 2019	iWolfz -ERP- (STEAM_0:0:443923189): And It dosen't count as a mug
+Sun Jul 14 18:22:52 2019	Doof (STEAM_0:1:426762407): i just didnt think it was necassary
+Sun Jul 14 18:22:55 2019	Doof (STEAM_0:1:426762407): i know i spelled that wrong
+Sun Jul 14 18:22:56 2019	iWolfz -ERP- (STEAM_0:0:443923189): It is
+Sun Jul 14 18:23:01 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): 
+Sun Jul 14 18:23:05 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // Yay it works
+Sun Jul 14 18:23:07 2019	iWolfz -ERP- (STEAM_0:0:443923189): It's fine idk how to spell it either xD
+Sun Jul 14 18:23:07 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // fucking finally
+Sun Jul 14 18:23:10 2019	Sausy (STEAM_0:0:112032713): where is he
+Sun Jul 14 18:23:14 2019	Derp (STEAM_0:0:52504530): /ooc Any suggestions for what this server needs badly?
+Sun Jul 14 18:23:17 2019	iWolfz -ERP- (STEAM_0:0:443923189): But next time
+Sun Jul 14 18:23:21 2019	Sausy (STEAM_0:0:112032713): ok easy
+Sun Jul 14 18:23:24 2019	iWolfz -ERP- (STEAM_0:0:443923189): Advert it
+Sun Jul 14 18:23:25 2019	reesemorrow34 (STEAM_0:1:422822587): // a website
+Sun Jul 14 18:23:32 2019	reesemorrow34 (STEAM_0:1:422822587): // and more roles
+Sun Jul 14 18:23:34 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // he's down
+Sun Jul 14 18:23:53 2019	iWolfz -ERP- (STEAM_0:0:443923189): !motd
+Sun Jul 14 18:23:57 2019	Hit on Doof failed. Reason: The target has died!
+Sun Jul 14 18:23:57 2019	Doof was killed by Himself with a suicide trick
+Sun Jul 14 18:24:01 2019	iWolfz -ERP- (STEAM_0:0:443923189): !rules
+Sun Jul 14 18:24:03 2019	Doof (STEAM_0:1:426762407) spawned
+Sun Jul 14 18:24:10 2019	iWolfz -ERP- (STEAM_0:0:443923189): /pm derp you need to advert a mug right?
+Sun Jul 14 18:24:18 2019	Derp (STEAM_0:0:52504530): /pm wolf yeah
+Sun Jul 14 18:24:24 2019	iWolfz -ERP- (STEAM_0:0:443923189): /pm derp Okay
+Sun Jul 14 18:24:28 2019	Doof was killed by Himself with a suicide trick
+Sun Jul 14 18:24:29 2019	iWolfz -ERP- (STEAM_0:0:443923189): /pm derp Where is the rules
+Sun Jul 14 18:24:31 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !ungod zook
+Sun Jul 14 18:24:34 2019	Doof (STEAM_0:1:426762407): my crown
+Sun Jul 14 18:24:35 2019	Doof (STEAM_0:1:426762407) spawned
+Sun Jul 14 18:24:36 2019	Derp (STEAM_0:0:52504530): /pm wolf and be realistic with ur mug dont ask for like 300k 
+Sun Jul 14 18:24:47 2019	Derp (STEAM_0:0:52504530): !motd
+Sun Jul 14 18:24:50 2019	iWolfz -ERP- (STEAM_0:0:443923189): /pm derp I know, I said the maximum was 10k
+Sun Jul 14 18:24:58 2019	Sausy (STEAM_0:0:112032713): he died
+Sun Jul 14 18:25:03 2019	Derp (STEAM_0:0:52504530): /pm wolf the rules are in the motd
+Sun Jul 14 18:25:05 2019	iWolfz -ERP- (STEAM_0:0:443923189): 
+Sun Jul 14 18:25:09 2019	iWolfz -ERP- (STEAM_0:0:443923189): 
+Sun Jul 14 18:25:10 2019	iWolfz -ERP- (STEAM_0:0:443923189): 
+Sun Jul 14 18:25:26 2019	iWolfz -ERP- (STEAM_0:0:443923189): /pm derp When i do !motd the rules dosen't come up
+Sun Jul 14 18:25:27 2019	iWolfz -ERP- (STEAM_0:0:443923189): !motd
+Sun Jul 14 18:25:28 2019	Sausy (STEAM_0:0:112032713): hit
+Sun Jul 14 18:25:32 2019	Doof was killed by Zookie 〈メイド〉 with a fas2_sks
+Sun Jul 14 18:25:34 2019	Doof (STEAM_0:1:426762407) spawned
+Sun Jul 14 18:25:35 2019	Hitman Sausy accepted a hit on Zookie 〈メイド〉, ordered by reesemorrow34 for $200
+Sun Jul 14 18:25:36 2019	iWolfz -ERP- (STEAM_0:0:443923189): !pm derp nvm
+Sun Jul 14 18:25:37 2019	Derp (STEAM_0:0:52504530): /pm wolf u need to click on the button at the bottom
+Sun Jul 14 18:25:37 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !bring doof
+Sun Jul 14 18:25:38 2019	iWolfz -ERP- (STEAM_0:0:443923189): /pm derp nvm
+Sun Jul 14 18:25:39 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !jail @ 120
+Sun Jul 14 18:25:40 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !god Zook
+Sun Jul 14 18:25:51 2019	Derp (STEAM_0:0:52504530): !motd
+Sun Jul 14 18:25:52 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !warn doof Attempted RDM
+Sun Jul 14 18:25:52 2019	iWolfz -ERP- (STEAM_0:0:443923189): /pm derp Maybe add a Rules ontop of it
+Sun Jul 14 18:26:01 2019	iWolfz -ERP- (STEAM_0:0:443923189): /pm derp afk reading rules
+Sun Jul 14 18:26:04 2019	iWolfz -ERP- (STEAM_0:0:443923189): 
+Sun Jul 14 18:26:05 2019	iWolfz -ERP- (STEAM_0:0:443923189): !motd
+Sun Jul 14 18:26:21 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !hp zook 100
+Sun Jul 14 18:26:24 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !ungod zook
+Sun Jul 14 18:26:51 2019	iWolfz -ERP- (STEAM_0:0:443923189): /pm derp LMAO
+Sun Jul 14 18:26:57 2019	iWolfz -ERP- (STEAM_0:0:443923189): /pm derp The rules are copy and paste
+Sun Jul 14 18:27:01 2019	iWolfz -ERP- (STEAM_0:0:443923189): !motd
+Sun Jul 14 18:27:10 2019	Derp (STEAM_0:0:52504530): copy and paste?
+Sun Jul 14 18:27:20 2019	iWolfz -ERP- (STEAM_0:0:443923189): /pm derp yes
+Sun Jul 14 18:27:24 2019	iWolfz -ERP- (STEAM_0:0:443923189): For example
+Sun Jul 14 18:27:24 2019	Derp (STEAM_0:0:52504530): what do u mean by that
+Sun Jul 14 18:27:37 2019	Hitman Sausy finished a hit on Zookie 〈メイド〉, ordered by reesemorrow34 for $200
+Sun Jul 14 18:27:37 2019	Zookie 〈メイド〉 was killed by Sausy with a fas2_m24
+Sun Jul 14 18:27:41 2019	iWolfz -ERP- (STEAM_0:0:443923189): You have found a rules on another server and copied it to this one
+Sun Jul 14 18:27:41 2019	reesemorrow34 was killed by Doof with a fas2_deagle
+Sun Jul 14 18:27:42 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // was that a hit
+Sun Jul 14 18:27:42 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned
+Sun Jul 14 18:27:44 2019	reesemorrow34 (STEAM_0:1:422822587) spawned
+Sun Jul 14 18:27:54 2019	Sausy (STEAM_0:0:112032713): im a good sniper
+Sun Jul 14 18:27:58 2019	iWolfz -ERP- (STEAM_0:0:443923189): This is a prop hunt rule:
+Sun Jul 14 18:27:59 2019	iWolfz -ERP- (STEAM_0:0:443923189): [x] No hiding in areas as a prop that hunters cannot access or see
+Sun Jul 14 18:28:02 2019	Doof was killed by Sausy with a fas2_m24
+Sun Jul 14 18:28:04 2019	Derp (STEAM_0:0:52504530): !motd
+Sun Jul 14 18:28:05 2019	Doof (STEAM_0:1:426762407) spawned
+Sun Jul 14 18:28:06 2019	iWolfz -ERP- (STEAM_0:0:443923189): xD
+Sun Jul 14 18:28:08 2019	iWolfz -ERP- (STEAM_0:0:443923189): Lmfao
+Sun Jul 14 18:28:09 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !goto saus
+Sun Jul 14 18:28:12 2019	iWolfz -ERP- (STEAM_0:0:443923189): !motd
+Sun Jul 14 18:28:12 2019	Derp (STEAM_0:0:52504530): oh
+Sun Jul 14 18:28:13 2019	Sausy (STEAM_0:0:112032713): he rdm'd
+Sun Jul 14 18:28:15 2019	Derp (STEAM_0:0:52504530): i didnt make the rules
+Sun Jul 14 18:28:16 2019	Sausy (STEAM_0:0:112032713): nah
+Sun Jul 14 18:28:16 2019	iWolfz -ERP- (STEAM_0:0:443923189): Hahaha
+Sun Jul 14 18:28:19 2019	Derp (STEAM_0:0:52504530): or copy and paste the
+Sun Jul 14 18:28:21 2019	Derp (STEAM_0:0:52504530): them
+Sun Jul 14 18:28:22 2019	Sausy (STEAM_0:0:112032713): he 
+Sun Jul 14 18:28:26 2019	iWolfz -ERP- (STEAM_0:0:443923189): If you want I could make em
+Sun Jul 14 18:28:26 2019	Sausy (STEAM_0:0:112032713): killed my fren
+Sun Jul 14 18:28:27 2019	iWolfz -ERP- (STEAM_0:0:443923189): em
+Sun Jul 14 18:28:35 2019	iWolfz -ERP- (STEAM_0:0:443923189): In a document
+Sun Jul 14 18:28:39 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !jail @ 120
+Sun Jul 14 18:28:47 2019	iWolfz -ERP- (STEAM_0:0:443923189): Just if you want ;D
+Sun Jul 14 18:28:52 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !jail @ 120
+Sun Jul 14 18:28:56 2019	Sausy (STEAM_0:0:112032713): he shot mee
+Sun Jul 14 18:28:56 2019	Derp (STEAM_0:0:52504530): if i need u to i will let u know
+Sun Jul 14 18:29:03 2019	iWolfz -ERP- (STEAM_0:0:443923189): Okay :D
+Sun Jul 14 18:29:05 2019	Derp (STEAM_0:0:52504530): the co owner is online right now and is probably working on the website
+Sun Jul 14 18:29:06 2019	iWolfz -ERP- (STEAM_0:0:443923189): 
+Sun Jul 14 18:29:06 2019	Sausy (STEAM_0:0:112032713): IM HURT
+Sun Jul 14 18:29:07 2019	iWolfz -ERP- (STEAM_0:0:443923189): 
+Sun Jul 14 18:29:08 2019	Sausy (STEAM_0:0:112032713): CHECK LOGS
+Sun Jul 14 18:29:12 2019	iWolfz -ERP- (STEAM_0:0:443923189): k
+Sun Jul 14 18:29:25 2019	Derp (STEAM_0:0:52504530): do u have discord
+Sun Jul 14 18:29:33 2019	iWolfz -ERP- (STEAM_0:0:443923189): Y
+Sun Jul 14 18:29:34 2019	iWolfz -ERP- (STEAM_0:0:443923189): Ye
+Sun Jul 14 18:29:37 2019	Derp (STEAM_0:0:52504530): add me on there
+Sun Jul 14 18:29:45 2019	Derp (STEAM_0:0:52504530): Dero#8186
+Sun Jul 14 18:29:47 2019	Derp (STEAM_0:0:52504530): fUCK
+Sun Jul 14 18:29:48 2019	iWolfz -ERP- (STEAM_0:0:443923189): TheBoiBG#9501
+Sun Jul 14 18:29:52 2019	iWolfz -ERP- (STEAM_0:0:443923189): ?
+Sun Jul 14 18:30:00 2019	iWolfz -ERP- (STEAM_0:0:443923189): aded
+Sun Jul 14 18:30:01 2019	iWolfz -ERP- (STEAM_0:0:443923189): added
+Sun Jul 14 18:30:14 2019	Derp (STEAM_0:0:52504530): i mistyped
+Sun Jul 14 18:30:16 2019	Derp (STEAM_0:0:52504530): i spelled dero
+Sun Jul 14 18:30:18 2019	Derp (STEAM_0:0:52504530): instead of derp
+Sun Jul 14 18:30:56 2019	iWolfz -ERP- (STEAM_0:0:443923189): xd
+Sun Jul 14 18:30:58 2019	iWolfz -ERP- (STEAM_0:0:443923189): Hi dero
+Sun Jul 14 18:31:06 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !goto derp
+Sun Jul 14 18:31:19 2019	Sausy (STEAM_0:0:112032713): hIY
+Sun Jul 14 18:31:23 2019	Sausy (STEAM_0:0:112032713): HITT
+Sun Jul 14 18:31:25 2019	Sausy (STEAM_0:0:112032713): HITT
+Sun Jul 14 18:31:27 2019	Sausy (STEAM_0:0:112032713): IM THIRSTY
+Sun Jul 14 18:31:27 2019	iWolfz -ERP- (STEAM_0:0:443923189): Why are you teleporting to us 
+Sun Jul 14 18:31:28 2019	iWolfz -ERP- (STEAM_0:0:443923189): REEEEEEEEEEEE
+Sun Jul 14 18:31:29 2019	iWolfz -ERP- (STEAM_0:0:443923189): jk
+Sun Jul 14 18:31:31 2019	Hitman Sausy accepted a hit on Doof, ordered by reesemorrow34 for $200
+Sun Jul 14 18:31:42 2019	Hitman Sausy finished a hit on Doof, ordered by reesemorrow34 for $200
+Sun Jul 14 18:31:42 2019	Doof was killed by Sausy with a fas2_m24
+Sun Jul 14 18:31:46 2019	Doof (STEAM_0:1:426762407) spawned
+Sun Jul 14 18:31:55 2019	iWolfz -ERP- (STEAM_0:0:443923189): 
+Sun Jul 14 18:31:57 2019	iWolfz -ERP- (STEAM_0:0:443923189): Re
+Sun Jul 14 18:32:01 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !goto doof
+Sun Jul 14 18:32:08 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !bring sause
+Sun Jul 14 18:32:10 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !bring saus
+Sun Jul 14 18:32:11 2019	Derp (STEAM_0:0:52504530): /pm wolf look what i typed to u on discord
+Sun Jul 14 18:32:14 2019	Sausy (STEAM_0:0:112032713): hit
+Sun Jul 14 18:32:17 2019	Sausy (STEAM_0:0:112032713): it was a hit
+Sun Jul 14 18:32:23 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !return saus
+Sun Jul 14 18:32:47 2019	Sausy (STEAM_0:0:112032713): hi
+Sun Jul 14 18:32:50 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): /dropmoney 1
+Sun Jul 14 18:32:51 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) has dropped $1
+Sun Jul 14 18:32:55 2019	Doof was killed by Himself with a suicide trick
+Sun Jul 14 18:32:57 2019	Doof (STEAM_0:1:426762407) spawned
+Sun Jul 14 18:33:01 2019	Sausy (STEAM_0:0:112032713): outside is KAOS
+Sun Jul 14 18:33:03 2019	Sausy (STEAM_0:0:112032713): chaos
+Sun Jul 14 18:33:05 2019	Sausy (STEAM_0:0:112032713): kaos
+Sun Jul 14 18:33:08 2019	Sausy (STEAM_0:0:112032713): however is called
+Sun Jul 14 18:33:10 2019	Sausy (STEAM_0:0:112032713): is just hell
+Sun Jul 14 18:33:46 2019	Sausy (STEAM_0:0:112032713): make sure to umm
+Sun Jul 14 18:33:51 2019	Sausy (STEAM_0:0:112032713): // DERPP
+Sun Jul 14 18:33:55 2019	Sausy (STEAM_0:0:112032713): make sure
+Sun Jul 14 18:33:57 2019	Doof (STEAM_0:1:426762407): 
+Sun Jul 14 18:33:59 2019	Sausy (STEAM_0:0:112032713): too..
+Sun Jul 14 18:34:08 2019	Sausy (STEAM_0:0:112032713): hab a smol pp
+Sun Jul 14 18:34:24 2019	Sausy (STEAM_0:0:112032713): ouch my ears
+Sun Jul 14 18:34:26 2019	Derp (STEAM_0:0:52504530): sorry
+Sun Jul 14 18:34:28 2019	Derp (STEAM_0:0:52504530): yes?
+Sun Jul 14 18:34:32 2019	Sausy (STEAM_0:0:112032713): uMm
+Sun Jul 14 18:34:42 2019	Sausy (STEAM_0:0:112032713): when are you gonna add more addons ?
+Sun Jul 14 18:34:43 2019	Doof was killed by Zookie 〈メイド〉 with a fas2_uzi
+Sun Jul 14 18:34:45 2019	Doof (STEAM_0:1:426762407) spawned
+Sun Jul 14 18:34:47 2019	Derp (STEAM_0:0:52504530): like what
+Sun Jul 14 18:34:53 2019	Sausy (STEAM_0:0:112032713): like..
+Sun Jul 14 18:34:59 2019	Sausy (STEAM_0:0:112032713): a tv
+Sun Jul 14 18:35:05 2019	Derp (STEAM_0:0:52504530): a tv
+Sun Jul 14 18:35:08 2019	Sausy (STEAM_0:0:112032713): a tv
+Sun Jul 14 18:35:13 2019	Sausy (STEAM_0:0:112032713): that can
+Sun Jul 14 18:35:13 2019	Derp (STEAM_0:0:52504530): to play the video of ur choice im assuming
+Sun Jul 14 18:35:16 2019	Sausy (STEAM_0:0:112032713): play videos..
+Sun Jul 14 18:35:17 2019	Sausy (STEAM_0:0:112032713): yes
+Sun Jul 14 18:35:28 2019	Derp (STEAM_0:0:52504530): well thats probably gonna cost money since i doubt there is something like that on the workshop
+Sun Jul 14 18:35:32 2019	Sausy (STEAM_0:0:112032713): is kinda boring in this base really
+Sun Jul 14 18:35:41 2019	Sausy (STEAM_0:0:112032713): there is
+Sun Jul 14 18:35:47 2019	Sausy (STEAM_0:0:112032713): i think is called media player
+Sun Jul 14 18:35:51 2019	Sausy (STEAM_0:0:112032713): lemme search it up
+Sun Jul 14 18:35:53 2019	Derp (STEAM_0:0:52504530): ok
+Sun Jul 14 18:35:58 2019	Derp (STEAM_0:0:52504530): one sec zook
+Sun Jul 14 18:36:03 2019	Derp (STEAM_0:0:52504530): if u need to talk just type in chat my voice chat is fucked
+Sun Jul 14 18:36:06 2019	Sausy (STEAM_0:0:112032713): https://steamcommunity.com/workshop/filedetails/?id=546392647
+Sun Jul 14 18:36:07 2019	Sausy (STEAM_0:0:112032713): https://steamcommunity.com/workshop/filedetails/?id=546392647
+Sun Jul 14 18:36:19 2019	Derp (STEAM_0:0:52504530): ah
+Sun Jul 14 18:36:22 2019	Sausy (STEAM_0:0:112032713): you'd like a TV to wtch youtube videos  reesemorrow34 ?
+Sun Jul 14 18:36:28 2019	reesemorrow34 (STEAM_0:1:422822587): yes
+Sun Jul 14 18:36:32 2019	Sausy (STEAM_0:0:112032713): he agrees
+Sun Jul 14 18:36:42 2019	Sausy (STEAM_0:0:112032713): and listen music and stuff
+Sun Jul 14 18:36:43 2019	reesemorrow34 (STEAM_0:1:422822587): I wont have watch them on my second monitor
+Sun Jul 14 18:36:54 2019	Sausy (STEAM_0:0:112032713): exactly
+Sun Jul 14 18:36:57 2019	Derp (STEAM_0:0:52504530): we have a problem with that addon
+Sun Jul 14 18:37:02 2019	Sausy (STEAM_0:0:112032713): he doesn't need to look it up on his 2nd monitor
+Sun Jul 14 18:37:05 2019	Sausy (STEAM_0:0:112032713): what
+Sun Jul 14 18:37:12 2019	Sausy (STEAM_0:0:112032713): uh oH
+Sun Jul 14 18:37:14 2019	Derp (STEAM_0:0:52504530): its not working at the moment unless u do something weird to ur gmod and every player needs to do that
+Sun Jul 14 18:37:32 2019	iWolfz -ERP- (STEAM_0:0:443923189): /pm derp look in discord
+Sun Jul 14 18:37:43 2019	Derp (STEAM_0:0:52504530): and that problem i think is affecting all media players
+Sun Jul 14 18:37:50 2019	Derp (STEAM_0:0:52504530): because it has to do with youtube
+Sun Jul 14 18:38:06 2019	Derp (STEAM_0:0:52504530): so until it gets fixed i cant do anything
+Sun Jul 14 18:38:10 2019	Sausy (STEAM_0:0:112032713): true
+Sun Jul 14 18:38:16 2019	Sausy (STEAM_0:0:112032713): i just saw the review
+Sun Jul 14 18:38:25 2019	Sausy (STEAM_0:0:112032713): and everyone is commenting "R.I.P"
+Sun Jul 14 18:38:28 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): uwu
+Sun Jul 14 18:38:30 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): uwu
+Sun Jul 14 18:38:30 2019	Derp (STEAM_0:0:52504530): we are gonna be adding a casino soon
+Sun Jul 14 18:38:41 2019	Sausy (STEAM_0:0:112032713): ok
+Sun Jul 14 18:38:47 2019	Sausy (STEAM_0:0:112032713): what about.. a raido ?
+Sun Jul 14 18:38:49 2019	iWolfz -ERP- (STEAM_0:0:443923189): I cant hearu 
+Sun Jul 14 18:38:49 2019	Sausy (STEAM_0:0:112032713): radio*
+Sun Jul 14 18:38:50 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !slap @ 0
+Sun Jul 14 18:38:54 2019	iWolfz -ERP- (STEAM_0:0:443923189): wtf
+Sun Jul 14 18:38:54 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): okay thats all
+Sun Jul 14 18:38:56 2019	Derp (STEAM_0:0:52504530): if a radio addon works then sure why not
+Sun Jul 14 18:38:57 2019	reesemorrow34 (STEAM_0:1:422822587): how about stonks?
+Sun Jul 14 18:38:57 2019	iWolfz -ERP- (STEAM_0:0:443923189): ouch
+Sun Jul 14 18:38:58 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): i just wanted to see if my bind worked
+Sun Jul 14 18:39:02 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): it did no damage
+Sun Jul 14 18:39:03 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !slap @ 0
+Sun Jul 14 18:39:03 2019	iWolfz -ERP- (STEAM_0:0:443923189): What is the bind
+Sun Jul 14 18:39:05 2019	Derp (STEAM_0:0:52504530): whatever addon u want added just send it to me via steam 
+Sun Jul 14 18:39:05 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !slap @ 0
+Sun Jul 14 18:39:06 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !slap @ 0
+Sun Jul 14 18:39:07 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !slap @ 0
+Sun Jul 14 18:39:08 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !slap @ 0
+Sun Jul 14 18:39:08 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !slap @ 0
+Sun Jul 14 18:39:09 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !slap @ 0
+Sun Jul 14 18:39:14 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): i binded f to that
+Sun Jul 14 18:39:15 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !slap @ 0
+Sun Jul 14 18:39:17 2019	iWolfz -ERP- (STEAM_0:0:443923189): 
+Sun Jul 14 18:39:18 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !slap @ 0
+Sun Jul 14 18:39:26 2019	iWolfz -ERP- (STEAM_0:0:443923189): stap it
+Sun Jul 14 18:39:28 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !slap @ 0
+Sun Jul 14 18:39:28 2019	iWolfz -ERP- (STEAM_0:0:443923189): get some help
+Sun Jul 14 18:39:31 2019	Derp (STEAM_0:0:52504530): wtf are u guys doing
+Sun Jul 14 18:39:37 2019	iWolfz -ERP- (STEAM_0:0:443923189): !goto @
+Sun Jul 14 18:39:37 2019	Sausy (STEAM_0:0:112032713): /pm Derp https://steamcommunity.com/sharedfiles/filedetails/?id=246756300
+Sun Jul 14 18:39:40 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !slap @ 0
+Sun Jul 14 18:39:41 2019	iWolfz -ERP- (STEAM_0:0:443923189): !goto @
+Sun Jul 14 18:39:48 2019	iWolfz -ERP- (STEAM_0:0:443923189): !goto @
+Sun Jul 14 18:39:50 2019	iWolfz -ERP- (STEAM_0:0:443923189): cool
+Sun Jul 14 18:39:55 2019	Sausy (STEAM_0:0:112032713): welp
+Sun Jul 14 18:40:00 2019	iWolfz -ERP- (STEAM_0:0:443923189): 
+Sun Jul 14 18:40:02 2019	iWolfz -ERP- (STEAM_0:0:443923189): 
+Sun Jul 14 18:40:03 2019	iWolfz -ERP- (STEAM_0:0:443923189): 
+Sun Jul 14 18:40:04 2019	iWolfz -ERP- (STEAM_0:0:443923189): 
+Sun Jul 14 18:40:05 2019	iWolfz -ERP- (STEAM_0:0:443923189): 
+Sun Jul 14 18:40:06 2019	iWolfz -ERP- (STEAM_0:0:443923189): 
+Sun Jul 14 18:40:07 2019	iWolfz -ERP- (STEAM_0:0:443923189): /invholster
+Sun Jul 14 18:40:08 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !bring doof
+Sun Jul 14 18:40:11 2019	iWolfz -ERP- (STEAM_0:0:443923189): 
+Sun Jul 14 18:40:12 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): /dropmoney 9000
+Sun Jul 14 18:40:13 2019	iWolfz -ERP- (STEAM_0:0:443923189): 
+Sun Jul 14 18:40:13 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) has dropped $9,000
+Sun Jul 14 18:40:17 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !return doof
+Sun Jul 14 18:40:38 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): you taking a while to type
+Sun Jul 14 18:40:39 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): whats wrong
+Sun Jul 14 18:40:41 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !slap @ 0
+Sun Jul 14 18:40:44 2019	Sausy (STEAM_0:0:112032713): hit ?
+Sun Jul 14 18:40:48 2019	iWolfz -ERP- (STEAM_0:0:443923189): Stop slapping me 
+Sun Jul 14 18:40:52 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): sowwy
+Sun Jul 14 18:40:54 2019	Derp (STEAM_0:0:52504530): try not to spam chat with these commands
+Sun Jul 14 18:40:54 2019	iWolfz -ERP- (STEAM_0:0:443923189): It's annowing xD
+Sun Jul 14 18:40:57 2019	Sausy (STEAM_0:0:112032713): hit ?
+Sun Jul 14 18:41:00 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): ah shit alright
+Sun Jul 14 18:41:03 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): is there a /logs?
+Sun Jul 14 18:41:04 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): /log
+Sun Jul 14 18:41:05 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): /logs
+Sun Jul 14 18:41:06 2019	iWolfz -ERP- (STEAM_0:0:443923189): /log
+Sun Jul 14 18:41:07 2019	Sausy (STEAM_0:0:112032713): u sure ?
+Sun Jul 14 18:41:07 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !logs
+Sun Jul 14 18:41:09 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !log
+Sun Jul 14 18:41:09 2019	iWolfz -ERP- (STEAM_0:0:443923189): /logs
+Sun Jul 14 18:41:10 2019	iWolfz -ERP- (STEAM_0:0:443923189): no
+Sun Jul 14 18:41:12 2019	iWolfz -ERP- (STEAM_0:0:443923189): pe
+Sun Jul 14 18:41:13 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): fuck
+Sun Jul 14 18:41:17 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): we need logs dude
+Sun Jul 14 18:41:28 2019	Derp (STEAM_0:0:52504530): i thought we already had some but i guess not
+Sun Jul 14 18:41:32 2019	iWolfz -ERP- (STEAM_0:0:443923189): xD
+Sun Jul 14 18:41:35 2019	iWolfz -ERP- (STEAM_0:0:443923189): oof
+Sun Jul 14 18:41:41 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): we need thosee
+Sun Jul 14 18:41:44 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): to you know do stuff
+Sun Jul 14 18:41:47 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): n shit
+Sun Jul 14 18:41:58 2019	Derp (STEAM_0:0:52504530): ok ill add this to the pile of shit we need to add
+Sun Jul 14 18:42:04 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): how bigs the pile
+Sun Jul 14 18:42:07 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !menu
+Sun Jul 14 18:42:15 2019	iWolfz -ERP- (STEAM_0:0:443923189): zookie test
+Sun Jul 14 18:42:17 2019	iWolfz -ERP- (STEAM_0:0:443923189): !return @
+Sun Jul 14 18:42:18 2019	Derp (STEAM_0:0:52504530): with every complaint we get of you guys the pile gets 10 feet higher
+Sun Jul 14 18:42:21 2019	iWolfz -ERP- (STEAM_0:0:443923189): oof
+Sun Jul 14 18:42:31 2019	Sausy (STEAM_0:0:112032713): hahaha
+Sun Jul 14 18:42:31 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): dude
+Sun Jul 14 18:42:34 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): im just reccomending hsit
+Sun Jul 14 18:42:35 2019	Sausy (STEAM_0:0:112032713): i flew into someone's base
+Sun Jul 14 18:42:39 2019	reesemorrow34 (STEAM_0:1:422822587): lol
+Sun Jul 14 18:42:41 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): recommending*
+Sun Jul 14 18:42:45 2019	Sausy (STEAM_0:0:112032713): and i started to get whipped
+Sun Jul 14 18:42:53 2019	Derp (STEAM_0:0:52504530): im not saying ur doing bad stuff by suggesting things im just saying that its a lot for me to listen to all day
+Sun Jul 14 18:42:55 2019	Sausy (STEAM_0:0:112032713): wait..
+Sun Jul 14 18:43:12 2019	Derp (STEAM_0:0:52504530): im literally the only one on the server rn who can fix/add these things so its kind of overwhelming at times
+Sun Jul 14 18:43:13 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): BT
+Sun Jul 14 18:43:18 2019	Sausy (STEAM_0:0:112032713): // derp also add Wire Mods
+Sun Jul 14 18:43:33 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): If you want i can try to start making a list of the things we need
+Sun Jul 14 18:43:39 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): in like a notepad doc and shit
+Sun Jul 14 18:43:41 2019	iWolfz -ERP- (STEAM_0:0:443923189): I have done that to xD
+Sun Jul 14 18:43:47 2019	iWolfz -ERP- (STEAM_0:0:443923189): Kinda
+Sun Jul 14 18:43:53 2019	iWolfz -ERP- (STEAM_0:0:443923189): lol
+Sun Jul 14 18:43:57 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): if that would help.
+Sun Jul 14 18:44:04 2019	iWolfz -ERP- (STEAM_0:0:443923189): I did it to zookie xD
+Sun Jul 14 18:44:11 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): did what
+Sun Jul 14 18:44:15 2019	iWolfz -ERP- (STEAM_0:0:443923189): I just thought of thinks on the spot lol
+Sun Jul 14 18:44:19 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !slap @ 0
+Sun Jul 14 18:44:21 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !slap @ 0
+Sun Jul 14 18:44:27 2019	iWolfz -ERP- (STEAM_0:0:443923189): Stop slapping me
+Sun Jul 14 18:44:30 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): stop being a nub
+Sun Jul 14 18:44:31 2019	Sausy (STEAM_0:0:112032713): HIT ?
+Sun Jul 14 18:44:38 2019	Hitman Sausy accepted a hit on iWolfz -ERP-, ordered by Zookie 〈メイド〉 for $200
+Sun Jul 14 18:44:43 2019	Hitman Sausy finished a hit on iWolfz -ERP-, ordered by Zookie 〈メイド〉 for $200
+Sun Jul 14 18:44:43 2019	iWolfz -ERP- was killed by Sausy with a fas2_m24
+Sun Jul 14 18:44:45 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): gg
+Sun Jul 14 18:44:53 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): spent all my money on that
+Sun Jul 14 18:44:53 2019	Sausy (STEAM_0:0:112032713): done.
+Sun Jul 14 18:44:57 2019	iWolfz -ERP- (STEAM_0:0:443923189) spawned
+Sun Jul 14 18:44:57 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): but it was worth it
+Sun Jul 14 18:44:58 2019	iWolfz -ERP- (STEAM_0:0:443923189): // wtf
+Sun Jul 14 18:45:03 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // it was a hit
+Sun Jul 14 18:45:05 2019	iWolfz -ERP- (STEAM_0:0:443923189): // oof
+Sun Jul 14 18:45:07 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): Anyways
+Sun Jul 14 18:45:09 2019	Sausy (STEAM_0:0:112032713): hit ?
+Sun Jul 14 18:45:15 2019	Sausy (STEAM_0:0:112032713): ik u want too :3
+Sun Jul 14 18:45:15 2019	iWolfz -ERP- (STEAM_0:0:443923189): // I was in discord and came back dead
+Sun Jul 14 18:45:17 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): Derp if you need me to make a list of the shit we need, i'd be alright with doing that
+Sun Jul 14 18:45:19 2019	Hitman Sausy accepted a hit on Zookie 〈メイド〉, ordered by Derp for $200
+Sun Jul 14 18:45:21 2019	Hitman Sausy finished a hit on Zookie 〈メイド〉, ordered by Derp for $200
+Sun Jul 14 18:45:21 2019	Zookie 〈メイド〉 was killed by Sausy with a fas2_p226
+Sun Jul 14 18:45:25 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): b r u h
+Sun Jul 14 18:45:28 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned
+Sun Jul 14 18:45:34 2019	iWolfz -ERP- (STEAM_0:0:443923189): brah u nocliped
+Sun Jul 14 18:45:36 2019	iWolfz -ERP- (STEAM_0:0:443923189): Walk my man
+Sun Jul 14 18:45:38 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): 
+Sun Jul 14 18:45:40 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !slap @ 0
+Sun Jul 14 18:45:45 2019	Sausy (STEAM_0:0:112032713): bruh
+Sun Jul 14 18:45:45 2019	iWolfz -ERP- (STEAM_0:0:443923189): STOP SLAPPING ME
+Sun Jul 14 18:45:47 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): bruh
+Sun Jul 14 18:45:48 2019	Sausy (STEAM_0:0:112032713): u braking NLR
+Sun Jul 14 18:45:54 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): o no im braking it
+Sun Jul 14 18:45:55 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): what a
+Sun Jul 14 18:45:56 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): TRAGEDY
+Sun Jul 14 18:46:00 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): for the whole server
+Sun Jul 14 18:46:04 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned SENT zwf_drystation
+Sun Jul 14 18:46:07 2019	Sausy (STEAM_0:0:112032713): hit ?
+Sun Jul 14 18:46:09 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned SENT sent_ball
+Sun Jul 14 18:46:16 2019	iWolfz -ERP- (STEAM_0:0:443923189): xD
+Sun Jul 14 18:46:18 2019	Hitman Sausy accepted a hit on Derp, ordered by iWolfz -ERP- for $200
+Sun Jul 14 18:46:20 2019	Hitman Sausy finished a hit on Derp, ordered by iWolfz -ERP- for $200
+Sun Jul 14 18:46:20 2019	Derp was killed by Sausy with a fas2_m24
+Sun Jul 14 18:46:23 2019	iWolfz -ERP- (STEAM_0:0:443923189): lmao
+Sun Jul 14 18:46:30 2019	Derp (STEAM_0:0:52504530) spawned
+Sun Jul 14 18:46:39 2019	iWolfz -ERP- (STEAM_0:0:443923189): oh no
+Sun Jul 14 18:46:41 2019	Sausy (STEAM_0:0:112032713): woa
+Sun Jul 14 18:46:42 2019	iWolfz -ERP- (STEAM_0:0:443923189): he looks mad RUN
+Sun Jul 14 18:46:47 2019	Sausy (STEAM_0:0:112032713): he is walking very intimidating
+Sun Jul 14 18:46:48 2019	iWolfz -ERP- (STEAM_0:0:443923189): xD
+Sun Jul 14 18:46:51 2019	iWolfz -ERP- (STEAM_0:0:443923189): ikr
+Sun Jul 14 18:46:53 2019	iWolfz -ERP- (STEAM_0:0:443923189): xD
+Sun Jul 14 18:46:56 2019	iWolfz -ERP- (STEAM_0:0:443923189): It's cary af
+Sun Jul 14 18:46:56 2019	Sausy (STEAM_0:0:112032713): FCKING HELL
+Sun Jul 14 18:46:59 2019	iWolfz -ERP- was killed by Derp with a fas2_galil
+Sun Jul 14 18:47:02 2019	iWolfz -ERP- (STEAM_0:0:443923189) spawned
+Sun Jul 14 18:47:06 2019	Sausy was killed by Derp with a fas2_galil
+Sun Jul 14 18:47:12 2019	iWolfz -ERP- (STEAM_0:0:443923189): ouch
+Sun Jul 14 18:47:13 2019	Derp (STEAM_0:0:52504530): lol
+Sun Jul 14 18:47:16 2019	Sausy (STEAM_0:0:112032713): // i like how u walked :)
+Sun Jul 14 18:47:18 2019	Sausy (STEAM_0:0:112032713) spawned
+Sun Jul 14 18:47:18 2019	Derp (STEAM_0:0:52504530): i turned into a mass shooter
+Sun Jul 14 18:47:20 2019	iWolfz -ERP- (STEAM_0:0:443923189): Xd
+Sun Jul 14 18:47:28 2019	iWolfz -ERP- (STEAM_0:0:443923189): shouldve screamed
+Sun Jul 14 18:47:30 2019	iWolfz -ERP- (STEAM_0:0:443923189): ALLAHUAKBAR
+Sun Jul 14 18:47:33 2019	Derp (STEAM_0:0:52504530): lol
+Sun Jul 14 18:47:48 2019	iWolfz -ERP- (STEAM_0:0:443923189): :D
+Sun Jul 14 18:47:49 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): damn
+Sun Jul 14 18:47:55 2019	iWolfz -ERP- (STEAM_0:0:443923189): derp
+Sun Jul 14 18:47:59 2019	Derp (STEAM_0:0:52504530): zook i messaged u on dis
+Sun Jul 14 18:48:00 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): 
+Sun Jul 14 18:48:02 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !slap @ 0
+Sun Jul 14 18:48:02 2019	Derp (STEAM_0:0:52504530): discord
+Sun Jul 14 18:48:07 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): ik
+Sun Jul 14 18:48:09 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): i messaged back
+Sun Jul 14 18:48:12 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): oh shit wait
+Sun Jul 14 18:48:14 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): i didnt
+Sun Jul 14 18:48:18 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): now i messaged back
+Sun Jul 14 18:48:21 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !slap @ 0
+Sun Jul 14 18:48:27 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !slap @ 0
+Sun Jul 14 18:48:32 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): /dropmoney 10000
+Sun Jul 14 18:48:33 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) has dropped $10,000
+Sun Jul 14 18:48:36 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): 
+Sun Jul 14 18:48:37 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !slap @ 0
+Sun Jul 14 18:48:40 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !god Zook
+Sun Jul 14 18:48:43 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !ungod zook
+Sun Jul 14 18:48:44 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !menu
+Sun Jul 14 18:48:49 2019	iWolfz -ERP- (STEAM_0:0:443923189): derp
+Sun Jul 14 18:48:53 2019	Derp (STEAM_0:0:52504530): yes
+Sun Jul 14 18:49:01 2019	iWolfz -ERP- (STEAM_0:0:443923189): derpy di derp derp derpderp
+Sun Jul 14 18:49:01 2019	Sausy (STEAM_0:0:112032713): i have unlocked the "intimidating walk"
+Sun Jul 14 18:49:03 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !slap @ 0
+Sun Jul 14 18:49:18 2019	iWolfz -ERP- (STEAM_0:0:443923189): how xD
+Sun Jul 14 18:49:21 2019	Sausy (STEAM_0:0:112032713): alt walk
+Sun Jul 14 18:49:24 2019	Sausy (STEAM_0:0:112032713): alt
+Sun Jul 14 18:49:30 2019	Sausy (STEAM_0:0:112032713): with pocket
+Sun Jul 14 18:49:33 2019	Sausy (STEAM_0:0:112032713): HOW
+Sun Jul 14 18:49:43 2019	Sausy (STEAM_0:0:112032713): WTF
+Sun Jul 14 18:49:49 2019	Derp (STEAM_0:0:52504530): how what
+Sun Jul 14 18:49:57 2019	Sausy (STEAM_0:0:112032713): when i do that with sniper it doesn't work
+Sun Jul 14 18:50:09 2019	reesemorrow34 (STEAM_0:1:422822587): sorry
+Sun Jul 14 18:50:16 2019	reesemorrow34 (STEAM_0:1:422822587): I didint mean to click
+Sun Jul 14 18:50:35 2019	Sausy (STEAM_0:0:112032713): am i doing it ?
+Sun Jul 14 18:50:37 2019	Derp (STEAM_0:0:52504530): ye
+Sun Jul 14 18:51:31 2019	iWolfz -ERP- (STEAM_0:0:443923189): how to make the camera follow u
+Sun Jul 14 18:51:44 2019	iWolfz -ERP- (STEAM_0:0:443923189): derpw
+Sun Jul 14 18:51:45 2019	iWolfz -ERP- (STEAM_0:0:443923189): derp
+Sun Jul 14 18:51:48 2019	iWolfz -ERP- (STEAM_0:0:443923189): derp
+Sun Jul 14 18:51:49 2019	Derp (STEAM_0:0:52504530): right click
+Sun Jul 14 18:51:58 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !slap @ 0
+Sun Jul 14 18:52:00 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !slap @ 0
+Sun Jul 14 18:52:04 2019	Derp (STEAM_0:0:52504530): right click with the tool gun out
+Sun Jul 14 18:52:04 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !menu
+Sun Jul 14 18:52:11 2019	Sausy (STEAM_0:0:112032713): im making out with the wall
+Sun Jul 14 18:52:11 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !slap @ 0
+Sun Jul 14 18:52:16 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !menu
+Sun Jul 14 18:52:41 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !slap @ 0
+Sun Jul 14 18:52:53 2019	iWolfz -ERP- (STEAM_0:0:443923189): // how do I walk "cool" xD
+Sun Jul 14 18:53:03 2019	Derp (STEAM_0:0:52504530): u hold alt while u walk
+Sun Jul 14 18:53:08 2019	iWolfz -ERP- (STEAM_0:0:443923189): I am
+Sun Jul 14 18:53:41 2019	Sausy (STEAM_0:0:112032713): we should rob
+Sun Jul 14 18:54:06 2019	Derp (STEAM_0:0:52504530): go into ur controls and find walk slowly in the keybinds and change it to ALT
+Sun Jul 14 18:54:19 2019	reesemorrow34 (STEAM_0:1:422822587): /invholster
+Sun Jul 14 18:54:27 2019	reesemorrow34 (STEAM_0:1:422822587): / invholster
+Sun Jul 14 18:54:33 2019	reesemorrow34 (STEAM_0:1:422822587): :/
+Sun Jul 14 18:54:50 2019	Doof was killed by Zookie 〈メイド〉 with a fas2_galil
+Sun Jul 14 18:54:52 2019	Doof (STEAM_0:1:426762407) spawned
+Sun Jul 14 18:54:54 2019	reesemorrow34 (STEAM_0:1:422822587): /invholster
+Sun Jul 14 18:55:18 2019	Doof was killed by Himself with a suicide trick
+Sun Jul 14 18:55:20 2019	Doof (STEAM_0:1:426762407) spawned
+Sun Jul 14 18:55:37 2019	Zookie 〈メイド〉 was killed by Doof with a m9k_model627
+Sun Jul 14 18:55:40 2019	Doof was killed by Himself with a suicide trick
+Sun Jul 14 18:55:40 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !slay doof
+Sun Jul 14 18:55:40 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned
+Sun Jul 14 18:55:42 2019	Doof (STEAM_0:1:426762407) spawned
+Sun Jul 14 18:55:51 2019	Derp (STEAM_0:0:52504530) spawned SENT zwf_buyer_npc
+Sun Jul 14 18:55:55 2019	Derp (STEAM_0:0:52504530) spawned SENT zwf_buyer_npc
+Sun Jul 14 18:55:58 2019	Sausy (STEAM_0:0:112032713): A GLOCK
+Sun Jul 14 18:56:03 2019	Doof was killed by Himself with a suicide trick
+Sun Jul 14 18:56:04 2019	reesemorrow34 (STEAM_0:1:422822587): lets take theese
+Sun Jul 14 18:56:05 2019	Derp (STEAM_0:0:52504530): !savezwf
+Sun Jul 14 18:56:05 2019	Doof (STEAM_0:1:426762407) spawned
+Sun Jul 14 18:56:33 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !slap @ 0
+Sun Jul 14 18:56:35 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !slap @ 0
+Sun Jul 14 18:56:38 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !slap @ 0
+Sun Jul 14 18:56:40 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !slap @ 0
+Sun Jul 14 18:56:41 2019	iWolfz -ERP- (STEAM_0:0:443923189): fixed it
+Sun Jul 14 18:56:43 2019	Derp (STEAM_0:0:52504530): nice
+Sun Jul 14 18:56:43 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !slap @ 0
+Sun Jul 14 18:56:45 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !menu
+Sun Jul 14 18:57:14 2019	iWolfz -ERP- was killed by Entity [0][worldspawn] with a unknown
+Sun Jul 14 18:57:17 2019	iWolfz -ERP- (STEAM_0:0:443923189) spawned
+Sun Jul 14 18:57:22 2019	Zookie 〈メイド〉 was killed by Doof with a m9k_model627
+Sun Jul 14 18:57:24 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned
+Sun Jul 14 18:57:25 2019	Sausy (STEAM_0:0:112032713): umm
+Sun Jul 14 18:57:27 2019	Sausy (STEAM_0:0:112032713): i can explain
+Sun Jul 14 18:57:30 2019	Sausy (STEAM_0:0:112032713): i can epxlain
+Sun Jul 14 18:57:32 2019	Sausy (STEAM_0:0:112032713): asohda
+Sun Jul 14 18:57:56 2019	Derp (STEAM_0:0:52504530): u think im never watching
+Sun Jul 14 18:57:58 2019	Derp (STEAM_0:0:52504530): im always watching
+Sun Jul 14 18:57:59 2019	reesemorrow34 was killed by Zookie 〈メイド〉 with a fas2_galil
+Sun Jul 14 18:58:02 2019	Derp (STEAM_0:0:52504530): im always spectating
+Sun Jul 14 18:58:02 2019	Sausy (STEAM_0:0:112032713): lmao
+Sun Jul 14 18:58:05 2019	Derp (STEAM_0:0:52504530): im always looking at people
+Sun Jul 14 18:58:07 2019	iWolfz -ERP- (STEAM_0:0:443923189): // my brother just came home after work
+Sun Jul 14 18:58:12 2019	iWolfz -ERP- (STEAM_0:0:443923189): // he came in my room
+Sun Jul 14 18:58:17 2019	iWolfz -ERP- (STEAM_0:0:443923189): // hes breath was a dead cat
+Sun Jul 14 18:58:22 2019	Sausy (STEAM_0:0:112032713): umm
+Sun Jul 14 18:58:24 2019	Sausy (STEAM_0:0:112032713): fair warning
+Sun Jul 14 18:58:31 2019	Sausy (STEAM_0:0:112032713): we didn't nocliped
+Sun Jul 14 18:58:37 2019	Sausy (STEAM_0:0:112032713): we phase through that wall
+Sun Jul 14 18:58:38 2019	iWolfz -ERP- (STEAM_0:0:443923189): // why is everyone afk
+Sun Jul 14 18:58:44 2019	Sausy (STEAM_0:0:112032713): oh it fixed
+Sun Jul 14 18:58:52 2019	iWolfz -ERP- (STEAM_0:0:443923189): !goto zookie
+Sun Jul 14 18:58:59 2019	reesemorrow34 (STEAM_0:1:422822587) spawned
+Sun Jul 14 18:58:59 2019	iWolfz -ERP- (STEAM_0:0:443923189): !goto zookie
+Sun Jul 14 18:59:03 2019	Sausy (STEAM_0:0:112032713): i moved it
+Sun Jul 14 18:59:07 2019	iWolfz -ERP- (STEAM_0:0:443923189): ok u not afk
+Sun Jul 14 18:59:31 2019	Sausy (STEAM_0:0:112032713): ok
+Sun Jul 14 18:59:42 2019	Sausy (STEAM_0:0:112032713): LMAO
+Sun Jul 14 18:59:45 2019	Sausy (STEAM_0:0:112032713): we got caught
+Sun Jul 14 18:59:56 2019	reesemorrow34 (STEAM_0:1:422822587): yeah
+Sun Jul 14 19:00:00 2019	Sausy (STEAM_0:0:112032713): set a hit
+Sun Jul 14 19:00:02 2019	Sausy (STEAM_0:0:112032713): on them
+Sun Jul 14 19:00:11 2019	Hitman Sausy accepted a hit on Zookie 〈メイド〉, ordered by reesemorrow34 for $200
+Sun Jul 14 19:00:17 2019	iWolfz -ERP- (STEAM_0:0:443923189): yo
+Sun Jul 14 19:00:34 2019	iWolfz -ERP- (STEAM_0:0:443923189): Why are you abusing noclip
+Sun Jul 14 19:00:50 2019	iWolfz -ERP- (STEAM_0:0:443923189): // I still cant hear u
+Sun Jul 14 19:01:02 2019	iWolfz -ERP- (STEAM_0:0:443923189): // I Wanna buy gun
+Sun Jul 14 19:01:23 2019	iWolfz -ERP- (STEAM_0:0:443923189): I wanna buy galil
+Sun Jul 14 19:01:41 2019	iWolfz -ERP- (STEAM_0:0:443923189): I can see ur talking but i cant hear u for the 100th time
+Sun Jul 14 19:01:42 2019	Hit on Zookie 〈メイド〉 failed. Reason: The hitman died!
+Sun Jul 14 19:01:42 2019	Sausy was killed by Zookie 〈メイド〉 with a fas2_galil
+Sun Jul 14 19:01:47 2019	Sausy (STEAM_0:0:112032713) spawned
+Sun Jul 14 19:01:52 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): im not selling
+Sun Jul 14 19:01:58 2019	iWolfz -ERP- (STEAM_0:0:443923189): why
+Sun Jul 14 19:02:02 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): i gottafix my shit'
+Sun Jul 14 19:02:04 2019	reesemorrow34 (STEAM_0:1:422822587): // ha im 1 hp
+Sun Jul 14 19:02:23 2019	iWolfz -ERP- (STEAM_0:0:443923189): 
+Sun Jul 14 19:02:25 2019	Sausy (STEAM_0:0:112032713): im very cool
+Sun Jul 14 19:02:30 2019	Derp (STEAM_0:0:52504530): /dropmoney 10
+Sun Jul 14 19:02:31 2019	Derp (STEAM_0:0:52504530) has dropped $10
+Sun Jul 14 19:02:45 2019	iWolfz -ERP- (STEAM_0:0:443923189): !goto derp
+Sun Jul 14 19:02:51 2019	reesemorrow34 was killed by Derp with a fas2_deagle
+Sun Jul 14 19:02:53 2019	Derp (STEAM_0:0:52504530): FUCK
+Sun Jul 14 19:02:55 2019	iWolfz -ERP- was killed by Derp with a fas2_deagle
+Sun Jul 14 19:02:57 2019	reesemorrow34 (STEAM_0:1:422822587) spawned
+Sun Jul 14 19:02:57 2019	iWolfz -ERP- (STEAM_0:0:443923189) spawned
+Sun Jul 14 19:02:59 2019	Derp (STEAM_0:0:52504530): /OOC NOOOOOOOOOOOO
+Sun Jul 14 19:03:03 2019	Derp (STEAM_0:0:52504530): /ooc IM SO SORRY
+Sun Jul 14 19:03:12 2019	Derp (STEAM_0:0:52504530): reese
+Sun Jul 14 19:03:14 2019	Derp (STEAM_0:0:52504530): XD
+Sun Jul 14 19:03:16 2019	Derp (STEAM_0:0:52504530): im so sorry
+Sun Jul 14 19:03:20 2019	Derp (STEAM_0:0:52504530): i tried shooting him and i missed
+Sun Jul 14 19:03:22 2019	reesemorrow34 (STEAM_0:1:422822587): it ok
+Sun Jul 14 19:03:31 2019	iWolfz -ERP- (STEAM_0:0:443923189): You "missed" and killed him xD
+Sun Jul 14 19:03:34 2019	Sausy (STEAM_0:0:112032713): // tp to me derp
+Sun Jul 14 19:03:37 2019	Derp (STEAM_0:0:52504530): i tried shooting u in the head
+Sun Jul 14 19:03:41 2019	iWolfz -ERP- (STEAM_0:0:443923189): !bring sausy
+Sun Jul 14 19:03:44 2019	Sausy (STEAM_0:0:112032713): welcome
+Sun Jul 14 19:03:47 2019	Sausy (STEAM_0:0:112032713): to sandbox :D
+Sun Jul 14 19:03:50 2019	iWolfz -ERP- (STEAM_0:0:443923189): !goto derp
+Sun Jul 14 19:03:58 2019	iWolfz -ERP- (STEAM_0:0:443923189): reeeeeeeeeeeeeeeeeeeeee
+Sun Jul 14 19:04:02 2019	Doof was killed by Zookie 〈メイド〉 with a fas2_galil
+Sun Jul 14 19:04:05 2019	Doof (STEAM_0:1:426762407) spawned
+Sun Jul 14 19:04:07 2019	Sausy (STEAM_0:0:112032713): wtf
+Sun Jul 14 19:04:19 2019	iWolfz -ERP- (STEAM_0:0:443923189): // derp
+Sun Jul 14 19:04:24 2019	iWolfz -ERP- (STEAM_0:0:443923189): look at my dupe
+Sun Jul 14 19:04:31 2019	Zookie 〈メイド〉 was killed by Doof with a m9k_model627
+Sun Jul 14 19:04:33 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned
+Sun Jul 14 19:04:35 2019	Doof was killed by Himself with a suicide trick
+Sun Jul 14 19:04:35 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !slay doof
+Sun Jul 14 19:04:35 2019	Derp (STEAM_0:0:52504530): those buttons are really hard to see
+Sun Jul 14 19:04:37 2019	Doof (STEAM_0:1:426762407) spawned
+Sun Jul 14 19:04:44 2019	Sausy (STEAM_0:0:112032713): ha
+Sun Jul 14 19:04:45 2019	Sausy (STEAM_0:0:112032713): hax
+Sun Jul 14 19:04:46 2019	iWolfz -ERP- (STEAM_0:0:443923189): I made it
+Sun Jul 14 19:04:49 2019	reesemorrow34 (STEAM_0:1:422822587): // sorry doof I didint know
+Sun Jul 14 19:04:53 2019	Derp (STEAM_0:0:52504530): nice
+Sun Jul 14 19:05:00 2019	Derp (STEAM_0:0:52504530): im guessing thats for a base
+Sun Jul 14 19:05:03 2019	iWolfz -ERP- (STEAM_0:0:443923189): Ye 
+Sun Jul 14 19:05:11 2019	iWolfz -ERP- (STEAM_0:0:443923189): I made it some hours ago and saved it
+Sun Jul 14 19:05:16 2019	Derp (STEAM_0:0:52504530): good job
+Sun Jul 14 19:05:19 2019	iWolfz -ERP- (STEAM_0:0:443923189): ty dad
+Sun Jul 14 19:05:35 2019	iWolfz -ERP- (STEAM_0:0:443923189): and here u see a gay base... I MEAN  GOOD ONE
+Sun Jul 14 19:05:36 2019	iWolfz -ERP- (STEAM_0:0:443923189): xD
+Sun Jul 14 19:05:41 2019	iWolfz -ERP- (STEAM_0:0:443923189): // jkjk xD
+Sun Jul 14 19:05:44 2019	Derp (STEAM_0:0:52504530): gay base
+Sun Jul 14 19:05:47 2019	Derp (STEAM_0:0:52504530): is gay
+Sun Jul 14 19:05:53 2019	iWolfz -ERP- (STEAM_0:0:443923189): nooo
+Sun Jul 14 19:05:56 2019	iWolfz -ERP- (STEAM_0:0:443923189): /pm derp Yesss
+Sun Jul 14 19:05:58 2019	iWolfz -ERP- (STEAM_0:0:443923189): /pm xD
+Sun Jul 14 19:06:02 2019	iWolfz -ERP- (STEAM_0:0:443923189): /pm xD
+Sun Jul 14 19:06:03 2019	Doof was killed by Zookie 〈メイド〉 with a fas2_galil
+Sun Jul 14 19:06:05 2019	Doof (STEAM_0:1:426762407) spawned
+Sun Jul 14 19:06:10 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !hp 100
+Sun Jul 14 19:06:10 2019	Derp was killed by iWolfz -ERP- with a m9k_model627
+Sun Jul 14 19:06:13 2019	iWolfz -ERP- (STEAM_0:0:443923189): noob 
+Sun Jul 14 19:06:14 2019	iWolfz -ERP- (STEAM_0:0:443923189): :D
+Sun Jul 14 19:06:17 2019	Derp (STEAM_0:0:52504530) spawned
+Sun Jul 14 19:06:17 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !hp zook 100
+Sun Jul 14 19:06:28 2019	iWolfz -ERP- (STEAM_0:0:443923189): !hp sausy -555551514
+Sun Jul 14 19:06:33 2019	iWolfz -ERP- (STEAM_0:0:443923189): !hp sausy -5555
+Sun Jul 14 19:06:35 2019	Sausy (STEAM_0:0:112032713): do you like?
+Sun Jul 14 19:06:42 2019	iWolfz -ERP- (STEAM_0:0:443923189): HELP
+Sun Jul 14 19:06:46 2019	Doof was killed by Zookie 〈メイド〉 with a fas2_galil
+Sun Jul 14 19:06:48 2019	Doof (STEAM_0:1:426762407) spawned
+Sun Jul 14 19:06:55 2019	iWolfz -ERP- (STEAM_0:0:443923189): Thats actually scary
+Sun Jul 14 19:06:59 2019	Derp (STEAM_0:0:52504530): ik
+Sun Jul 14 19:07:02 2019	iWolfz -ERP- (STEAM_0:0:443923189): look
+Sun Jul 14 19:07:09 2019	Sausy (STEAM_0:0:112032713): !bring reesemorrow34
+Sun Jul 14 19:07:09 2019	Doof was killed by Zookie 〈メイド〉 with a fas2_galil
+Sun Jul 14 19:07:11 2019	Doof (STEAM_0:1:426762407) spawned
+Sun Jul 14 19:07:13 2019	Sausy (STEAM_0:0:112032713): hi
+Sun Jul 14 19:07:17 2019	reesemorrow34 (STEAM_0:1:422822587): hello
+Sun Jul 14 19:07:20 2019	Sausy (STEAM_0:0:112032713): welcome to sandbox
+Sun Jul 14 19:07:23 2019	Derp (STEAM_0:0:52504530): XD
+Sun Jul 14 19:07:26 2019	Derp (STEAM_0:0:52504530): thats hilarious
+Sun Jul 14 19:07:32 2019	Sausy (STEAM_0:0:112032713): thanos ?
+Sun Jul 14 19:07:35 2019	Derp (STEAM_0:0:52504530): lmao
+Sun Jul 14 19:07:36 2019	iWolfz -ERP- (STEAM_0:0:443923189): // look now
+Sun Jul 14 19:07:37 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !bring doof
+Sun Jul 14 19:07:41 2019	Derp (STEAM_0:0:52504530): this motherfucker just said thanos
+Sun Jul 14 19:07:49 2019	Sausy (STEAM_0:0:112032713): // OMFG THAT SCARED ME
+Sun Jul 14 19:07:50 2019	iWolfz -ERP- (STEAM_0:0:443923189): xD
+Sun Jul 14 19:07:54 2019	Doof (STEAM_0:1:426762407): /dropmoney Amount
+Sun Jul 14 19:07:54 2019	iWolfz -ERP- (STEAM_0:0:443923189): // look
+Sun Jul 14 19:07:58 2019	Doof (STEAM_0:1:426762407): /dropmoney Amount
+Sun Jul 14 19:07:59 2019	iWolfz -ERP- (STEAM_0:0:443923189): // stand here guys
+Sun Jul 14 19:08:05 2019	Doof (STEAM_0:1:426762407): /dropmoney 2000
+Sun Jul 14 19:08:06 2019	Doof (STEAM_0:1:426762407) has dropped $2,000
+Sun Jul 14 19:08:33 2019	iWolfz -ERP- (STEAM_0:0:443923189): // xD
+Sun Jul 14 19:08:41 2019	Derp (STEAM_0:0:52504530) spawned
+Sun Jul 14 19:09:02 2019	reesemorrow34 (STEAM_0:1:422822587): so y was I brought here?
+Sun Jul 14 19:10:32 2019	iWolfz -ERP- (STEAM_0:0:443923189): xD
+Sun Jul 14 19:10:33 2019	iWolfz -ERP- (STEAM_0:0:443923189): soz
+Sun Jul 14 19:10:55 2019	Derp (STEAM_0:0:52504530): /chief
+Sun Jul 14 19:10:58 2019	Derp (STEAM_0:0:52504530): /police
+Sun Jul 14 19:10:59 2019	Derp (STEAM_0:0:52504530): /chief
+Sun Jul 14 19:11:00 2019	iWolfz -ERP- (STEAM_0:0:443923189): // ops I voted no xD
+Sun Jul 14 19:11:01 2019	Derp (STEAM_0:0:52504530): /chief
+Sun Jul 14 19:11:06 2019	reesemorrow34 (STEAM_0:1:422822587): big oof
+Sun Jul 14 19:11:06 2019	Derp (STEAM_0:0:52504530): /chief
+Sun Jul 14 19:11:22 2019	iWolfz -ERP- (STEAM_0:0:443923189): /pm derp There is a fix you need to do
+Sun Jul 14 19:11:29 2019	Derp (STEAM_0:0:52504530): the jail
+Sun Jul 14 19:11:46 2019	iWolfz -ERP- (STEAM_0:0:443923189): /pm derp When people try to arrest staff or over them They can't
+Sun Jul 14 19:11:57 2019	iWolfz -ERP- (STEAM_0:0:443923189): !hp * 100
+Sun Jul 14 19:12:02 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !hp zook 100
+Sun Jul 14 19:12:16 2019	Derp (STEAM_0:0:52504530): /jailpos
+Sun Jul 14 19:12:17 2019	Derp (STEAM_0:0:52504530): 
+Sun Jul 14 19:12:24 2019	Derp (STEAM_0:0:52504530): /addjailpos
+Sun Jul 14 19:12:33 2019	Derp (STEAM_0:0:52504530): /setjailpos
+Sun Jul 14 19:12:37 2019	Sausy (STEAM_0:0:112032713): // ima get off
+Sun Jul 14 19:12:37 2019	reesemorrow34 (STEAM_0:1:422822587) spawned
+Sun Jul 14 19:12:37 2019	iWolfz -ERP- (STEAM_0:0:443923189) arrested reesemorrow34
+Sun Jul 14 19:12:41 2019	iWolfz -ERP- (STEAM_0:0:443923189): !got re
+Sun Jul 14 19:12:43 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // cya sausy
+Sun Jul 14 19:12:44 2019	iWolfz -ERP- (STEAM_0:0:443923189) spawned
+Sun Jul 14 19:12:44 2019	Derp (STEAM_0:0:52504530) arrested iWolfz -ERP-
+Sun Jul 14 19:12:45 2019	reesemorrow34 (STEAM_0:1:422822587): // screw u
+Sun Jul 14 19:12:50 2019	Derp (STEAM_0:0:52504530) unarrested reesemorrow34
+Sun Jul 14 19:12:51 2019	Derp (STEAM_0:0:52504530) unarrested iWolfz -ERP-
+Sun Jul 14 19:12:52 2019	iWolfz -ERP- (STEAM_0:0:443923189): // i was gonna unjail him
+Sun Jul 14 19:12:53 2019	reesemorrow34 (STEAM_0:1:422822587): // big oof
+Sun Jul 14 19:12:53 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // Woah reese dont be toxic
+Sun Jul 14 19:13:00 2019	Derp (STEAM_0:0:52504530): /pm sausy bye bro
+Sun Jul 14 19:13:07 2019	iWolfz -ERP- (STEAM_0:0:443923189): // He isnt toxic lmao
+Sun Jul 14 19:13:33 2019	iWolfz -ERP- (STEAM_0:0:443923189): // He said screw u because I "screwed" with him
+Sun Jul 14 19:13:39 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // ok kk
+Sun Jul 14 19:13:46 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // sorry i dont have logs i cant see chat >:c
+Sun Jul 14 19:13:47 2019	iWolfz -ERP- (STEAM_0:0:443923189): // big oof
+Sun Jul 14 19:13:52 2019	iWolfz -ERP- (STEAM_0:0:443923189): // ik we need logs
+Sun Jul 14 19:13:57 2019	Derp (STEAM_0:0:52504530): how is ur butminter going
+Sun Jul 14 19:13:59 2019	Derp (STEAM_0:0:52504530): FUCK
+Sun Jul 14 19:14:02 2019	Derp (STEAM_0:0:52504530): i fucking spelled that wrong so bad
+Sun Jul 14 19:14:04 2019	iWolfz -ERP- (STEAM_0:0:443923189): 
+Sun Jul 14 19:14:11 2019	Derp (STEAM_0:0:52504530): i meant bitminer
+Sun Jul 14 19:14:12 2019	iWolfz -ERP- (STEAM_0:0:443923189): /Vote We-Need-Logs Yes No
+Sun Jul 14 19:14:30 2019	Derp (STEAM_0:0:52504530): i mean thats kind of bitminers fault
+Sun Jul 14 19:14:35 2019	Sausy (STEAM_0:0:112032713): yo
+Sun Jul 14 19:14:37 2019	Sausy (STEAM_0:0:112032713): im gonna leave
+Sun Jul 14 19:14:42 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned SENT bm2_fuel
+Sun Jul 14 19:14:43 2019	Sausy (STEAM_0:0:112032713): and all of this will be deleted
+Sun Jul 14 19:14:43 2019	Derp (STEAM_0:0:52504530): is the money good
+Sun Jul 14 19:14:44 2019	Derp (STEAM_0:0:52504530): profit?
+Sun Jul 14 19:14:44 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned SENT bm2_generator
+Sun Jul 14 19:14:49 2019	Sausy (STEAM_0:0:112032713): the base
+Sun Jul 14 19:14:57 2019	iWolfz -ERP- (STEAM_0:0:443923189): !goto derp
+Sun Jul 14 19:15:03 2019	iWolfz -ERP- (STEAM_0:0:443923189): /pm derp discord
+Sun Jul 14 19:15:36 2019	Derp (STEAM_0:0:52504530): if i can figure out how to config it then ill make it less shit
+Sun Jul 14 19:16:07 2019	reesemorrow34 (STEAM_0:1:422822587): guys im going afk for a little
+Sun Jul 14 19:16:15 2019	iWolfz -ERP- (STEAM_0:0:443923189): !hp iwolfz 100
+Sun Jul 14 19:16:20 2019	iWolfz -ERP- (STEAM_0:0:443923189): !armor * 100
+Sun Jul 14 19:16:25 2019	Derp was killed by Himself with a suicide trick
+Sun Jul 14 19:16:30 2019	Derp (STEAM_0:0:52504530) spawned
+Sun Jul 14 19:16:37 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // Wolf
+Sun Jul 14 19:16:41 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // You're setting everyones armor
+Sun Jul 14 19:16:44 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // Make sure its only you.
+Sun Jul 14 19:16:52 2019	Derp (STEAM_0:0:52504530): didnt u say u were gonna get off
+Sun Jul 14 19:16:53 2019	Sausy (STEAM_0:0:112032713): hi
+Sun Jul 14 19:16:54 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !armor doof 0
+Sun Jul 14 19:16:57 2019	Sausy (STEAM_0:0:112032713): im copying my base
+Sun Jul 14 19:16:59 2019	Derp (STEAM_0:0:52504530): oh
+Sun Jul 14 19:17:00 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !armor reee 0
+Sun Jul 14 19:17:00 2019	Sausy (STEAM_0:0:112032713): with advdupe
+Sun Jul 14 19:17:05 2019	Sausy (STEAM_0:0:112032713): cause i spent hours
+Sun Jul 14 19:17:05 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !armor rees 0
+Sun Jul 14 19:17:11 2019	Derp (STEAM_0:0:52504530): what would u do if i
+Sun Jul 14 19:17:12 2019	Derp (STEAM_0:0:52504530): REMOVE IT
+Sun Jul 14 19:17:17 2019	iWolfz -ERP- (STEAM_0:0:443923189): // ik
+Sun Jul 14 19:17:18 2019	Sausy (STEAM_0:0:112032713): nothing
+Sun Jul 14 19:17:21 2019	Sausy (STEAM_0:0:112032713): it's saved..
+Sun Jul 14 19:17:24 2019	iWolfz -ERP- (STEAM_0:0:443923189): // that was the meaning
+Sun Jul 14 19:17:25 2019	Derp (STEAM_0:0:52504530): oh lol
+Sun Jul 14 19:17:27 2019	Sausy (STEAM_0:0:112032713): lol
+Sun Jul 14 19:17:27 2019	iWolfz -ERP- (STEAM_0:0:443923189): // I was testing
+Sun Jul 14 19:17:29 2019	Derp (STEAM_0:0:52504530): i wouldnt remove it anyways thats a dick move
+Sun Jul 14 19:17:36 2019	Sausy (STEAM_0:0:112032713): yuh
+Sun Jul 14 19:17:54 2019	Derp (STEAM_0:0:52504530): next time u get online hopefully i will have added more stuff
+Sun Jul 14 19:17:56 2019	Derp (STEAM_0:0:52504530): by then
+Sun Jul 14 19:17:58 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned SENT bm2_bitminer_1
+Sun Jul 14 19:17:58 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned SENT bm2_bitminer_1
+Sun Jul 14 19:17:59 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned SENT bm2_bitminer_1
+Sun Jul 14 19:18:00 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned SENT bm2_bitminer_1
+Sun Jul 14 19:18:02 2019	Sausy (STEAM_0:0:112032713): ez
+Sun Jul 14 19:18:02 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned SENT bm2_bitminer_1
+Sun Jul 14 19:18:10 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned SENT bm2_generator
+Sun Jul 14 19:18:11 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned SENT bm2_fuel
+Sun Jul 14 19:18:12 2019	iWolfz -ERP- (STEAM_0:0:443923189): // derp
+Sun Jul 14 19:18:13 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned SENT bm2_bitminer_server
+Sun Jul 14 19:18:14 2019	iWolfz -ERP- (STEAM_0:0:443923189): !bring derp
+Sun Jul 14 19:18:15 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned SENT bm2_extention_lead
+Sun Jul 14 19:18:18 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned SENT bm2_bitminer_rack
+Sun Jul 14 19:18:22 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned SENT double_or_nothing
+Sun Jul 14 19:18:27 2019	Sausy (STEAM_0:0:112032713): well umm
+Sun Jul 14 19:18:27 2019	iWolfz -ERP- (STEAM_0:0:443923189): did you know about this
+Sun Jul 14 19:18:32 2019	Sausy (STEAM_0:0:112032713): GL making the base
+Sun Jul 14 19:18:34 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // Derp
+Sun Jul 14 19:18:41 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // you really need to change the wait times on double or nothing
+Sun Jul 14 19:18:43 2019	Sausy (STEAM_0:0:112032713): claim the doors
+Sun Jul 14 19:18:48 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // like.. i still cant play another game :c
+Sun Jul 14 19:18:52 2019	Derp (STEAM_0:0:52504530): /ooc its bugged its not the default wait time
+Sun Jul 14 19:18:53 2019	Sausy (STEAM_0:0:112032713): cya buddy
+Sun Jul 14 19:18:57 2019	Derp (STEAM_0:0:52504530): /ooc ill fix it in a bit
+Sun Jul 14 19:19:01 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // kk thx
+Sun Jul 14 19:19:03 2019	iWolfz -ERP- (STEAM_0:0:443923189): Did you know
+Sun Jul 14 19:19:10 2019	Derp (STEAM_0:0:52504530): nope i had no idea
+Sun Jul 14 19:19:17 2019	iWolfz -ERP- (STEAM_0:0:443923189): It's a cool base place
+Sun Jul 14 19:19:19 2019	Derp (STEAM_0:0:52504530): it is
+Sun Jul 14 19:19:46 2019	Derp (STEAM_0:0:52504530): u could honestly prop block in a base like this and get away with it
+Sun Jul 14 19:19:53 2019	iWolfz -ERP- (STEAM_0:0:443923189): // xD Yeah
+Sun Jul 14 19:19:59 2019	iWolfz -ERP- (STEAM_0:0:443923189): Like for example come
+Sun Jul 14 19:20:05 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned SENT edit_fog
+Sun Jul 14 19:20:17 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // fog
+Sun Jul 14 19:20:22 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // u    w     u
+Sun Jul 14 19:20:35 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned SENT fas2_ammo_bandages
+Sun Jul 14 19:20:35 2019	Doof (STEAM_0:1:426762407): owo
+Sun Jul 14 19:20:43 2019	Doof (STEAM_0:1:426762407): gonna kill myself
+Sun Jul 14 19:20:59 2019	Derp (STEAM_0:0:52504530): LOL
+Sun Jul 14 19:21:00 2019	Doof (STEAM_0:1:426762407): // owo
+Sun Jul 14 19:21:06 2019	Doof (STEAM_0:1:426762407): // gonna kill myself
+Sun Jul 14 19:21:19 2019	Sausy (STEAM_0:0:112032713) disconnected
+Sun Jul 14 19:21:55 2019	iWolfz -ERP- (STEAM_0:0:443923189): For example this
+Sun Jul 14 19:21:55 2019	Derp (STEAM_0:0:52504530): i gotta go take a shit 
+Sun Jul 14 19:22:00 2019	iWolfz -ERP- (STEAM_0:0:443923189): Lol
+Sun Jul 14 19:22:01 2019	iWolfz -ERP- (STEAM_0:0:443923189): I gotta go
+Sun Jul 14 19:22:03 2019	iWolfz -ERP- (STEAM_0:0:443923189): to
+Sun Jul 14 19:22:08 2019	iWolfz -ERP- (STEAM_0:0:443923189): // I gotta go guys, cya :D
+Sun Jul 14 19:22:12 2019	iWolfz -ERP- (STEAM_0:0:443923189): Gotta sleep
+Sun Jul 14 19:22:13 2019	Derp (STEAM_0:0:52504530): cya bro
+Sun Jul 14 19:22:15 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // Cya wolf :3
+Sun Jul 14 19:22:23 2019	iWolfz -ERP- (STEAM_0:0:443923189): WTF
+Sun Jul 14 19:22:24 2019	iWolfz -ERP- (STEAM_0:0:443923189): NANI
+Sun Jul 14 19:22:26 2019	iWolfz -ERP- (STEAM_0:0:443923189): NANI x2
+Sun Jul 14 19:22:28 2019	Derp (STEAM_0:0:52504530): wat
+Sun Jul 14 19:22:32 2019	iWolfz -ERP- (STEAM_0:0:443923189): ;)
+Sun Jul 14 19:22:35 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned SENT fas2_ammo_hemostats
+Sun Jul 14 19:22:52 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // derp stop
+Sun Jul 14 19:22:53 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // derp
+Sun Jul 14 19:22:56 2019	reesemorrow34 (STEAM_0:1:422822587): // everyone I gtg but ill be back bye
+Sun Jul 14 19:22:57 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // derp please
+Sun Jul 14 19:23:00 2019	iWolfz -ERP- (STEAM_0:0:443923189): // I'm not telling u derp :=
+Sun Jul 14 19:23:04 2019	iWolfz -ERP- (STEAM_0:0:443923189): // :)
+Sun Jul 14 19:23:07 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // okay cya reese
+Sun Jul 14 19:23:10 2019	iWolfz -ERP- (STEAM_0:0:443923189): // Bye :D
+Sun Jul 14 19:23:15 2019	iWolfz -ERP- was killed by Entity [0][worldspawn] with a unknown
+Sun Jul 14 19:23:17 2019	iWolfz -ERP- (STEAM_0:0:443923189) spawned
+Sun Jul 14 19:23:21 2019	reesemorrow34 (STEAM_0:1:422822587) disconnected
+Sun Jul 14 19:23:24 2019	Derp (STEAM_0:0:52504530): what do u mean what u were clogging the chat earlier with slaps
+Sun Jul 14 19:23:25 2019	iWolfz -ERP- (STEAM_0:0:443923189): /pm derp OMG hehe
+Sun Jul 14 19:23:31 2019	iWolfz -ERP- (STEAM_0:0:443923189): /pm derp I won't tell ya hehe
+Sun Jul 14 19:23:34 2019	Derp (STEAM_0:0:52504530): that lags ur game?
+Sun Jul 14 19:23:38 2019	Derp (STEAM_0:0:52504530): jesus
+Sun Jul 14 19:23:47 2019	Derp (STEAM_0:0:52504530): its because we are playing gmod
+Sun Jul 14 19:23:51 2019	Derp (STEAM_0:0:52504530): one of the most unstable games of all time
+Sun Jul 14 19:24:07 2019	Derp (STEAM_0:0:52504530): my cpu is gonna get fried by the time S&box comes out
+Sun Jul 14 19:24:14 2019	Derp (STEAM_0:0:52504530): gmod 2
+Sun Jul 14 19:24:18 2019	Derp (STEAM_0:0:52504530): pronounced sandbox
+Sun Jul 14 19:24:24 2019	iWolfz -ERP- (STEAM_0:0:443923189): // bye
+Sun Jul 14 19:24:25 2019	iWolfz -ERP- (STEAM_0:0:443923189) disconnected
+Sun Jul 14 19:24:29 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned SENT edit_fog
+Sun Jul 14 19:24:29 2019	Derp (STEAM_0:0:52504530): its gonna be on unreal engine 4
+Sun Jul 14 19:24:45 2019	Derp (STEAM_0:0:52504530): and i heard the modding abilities are gonna be insane
+Sun Jul 14 19:24:48 2019	Derp (STEAM_0:0:52504530): like 100x better than on gmod
+Sun Jul 14 19:25:06 2019	Derp (STEAM_0:0:52504530): i gotta go take a poo poo
+Sun Jul 14 19:25:10 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned SENT keypad_wire
+Sun Jul 14 19:25:11 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned SENT keypad
+Sun Jul 14 19:25:13 2019	Derp (STEAM_0:0:52504530): ill be in that corner
+Sun Jul 14 19:25:18 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned SENT grenade_helicopter
+Sun Jul 14 19:25:50 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): /setmoney 10000
+Sun Jul 14 19:25:56 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !setmoney 10
+Sun Jul 14 19:26:01 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): /setmoney 10000000
+Sun Jul 14 19:26:12 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): /setmoney 100
+Sun Jul 14 19:26:16 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !menu
+Sun Jul 14 19:27:18 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !menu
+Sun Jul 14 19:28:09 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): /csay pp
+Sun Jul 14 19:28:13 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !csay smol pp
+Sun Jul 14 19:28:16 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !menu
+Sun Jul 14 19:28:39 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !menu
+Sun Jul 14 19:28:49 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !menu
+Sun Jul 14 19:29:01 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !menu
+Sun Jul 14 19:29:26 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !menu
+Sun Jul 14 19:29:29 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !menu
+Sun Jul 14 19:29:34 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !menu
+Sun Jul 14 19:31:02 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !menu
+Sun Jul 14 19:31:37 2019	Zookie 〈メイド〉 was killed by Doof with a m9k_model627
+Sun Jul 14 19:31:42 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned
+Sun Jul 14 19:31:50 2019	Doof was killed by Zookie 〈メイド〉 with a m9k_model627
+Sun Jul 14 19:31:54 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !bring doof
+Sun Jul 14 19:31:55 2019	Doof (STEAM_0:1:426762407) spawned
+Sun Jul 14 19:31:56 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !bring doof
+Sun Jul 14 19:31:59 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !bring doof
+Sun Jul 14 19:32:16 2019	Doof was killed by Zookie 〈メイド〉 with a m9k_tec9
+Sun Jul 14 19:32:18 2019	Doof (STEAM_0:1:426762407) spawned
+Sun Jul 14 19:32:21 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !bring doof
+Sun Jul 14 19:32:47 2019	Zookie 〈メイド〉 was killed by Doof with a m9k_model627
+Sun Jul 14 19:32:49 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned
+Sun Jul 14 19:34:58 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned SENT bm2_bitminer_1
+Sun Jul 14 19:34:59 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned SENT bm2_bitminer_1
+Sun Jul 14 19:34:59 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned SENT bm2_bitminer_1
+Sun Jul 14 19:35:00 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned SENT bm2_bitminer_1
+Sun Jul 14 19:35:00 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned SENT bm2_bitminer_1
+Sun Jul 14 19:35:00 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned SENT bm2_bitminer_1
+Sun Jul 14 19:35:01 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned SENT bm2_bitminer_1
+Sun Jul 14 19:35:01 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned SENT bm2_bitminer_1
+Sun Jul 14 19:35:02 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned SENT bm2_bitminer_1
+Sun Jul 14 19:35:02 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned SENT bm2_bitminer_1
+Sun Jul 14 19:35:02 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned SENT bm2_bitminer_1
+Sun Jul 14 19:35:43 2019	Zookie 〈メイド〉 was killed by Himself with a suicide trick
+Sun Jul 14 19:35:46 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned
+Sun Jul 14 19:38:12 2019	Zookie 〈メイド〉 was killed by Himself with a suicide trick
+Sun Jul 14 19:38:15 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned
+Sun Jul 14 19:38:54 2019	Zookie 〈メイド〉 was killed by Himself with a suicide trick
+Sun Jul 14 19:38:58 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned

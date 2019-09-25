@@ -1,0 +1,1058 @@
+<Logging continued from "data/ulx_logs/09-03-19.txt">
+[15:21:56] Client "fwop.memes" connected.
+[15:27:51] Client "fwop.memes" spawned in server <STEAM_0:1:503236195> (took 355 seconds).
+[15:29:31] (TEAM) what are you doing step bro: /unbox
+[15:30:22] Client "DrDerpenstein sups.gg" connected.
+[15:31:36] Client "DrDerpenstein sups.gg" spawned in server <STEAM_0:0:13562763> (took 74 seconds).
+[15:36:50] (TEAM) what are you doing step bro: /invholster
+[15:37:38] what are you doing step bro<STEAM_0:1:503236195> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[15:37:38] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/plates/plate1x6.mdl
+[15:37:38] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/plates/plate1x6.mdl
+[15:37:38] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x125x025.mdl
+[15:37:38] what are you doing step bro<STEAM_0:1:503236195> spawned model models/props_c17/fence01b.mdl
+[15:37:38] what are you doing step bro<STEAM_0:1:503236195> spawned model models/props_c17/fence01a.mdl
+[15:37:38] what are you doing step bro<STEAM_0:1:503236195> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[15:37:38] what are you doing step bro<STEAM_0:1:503236195> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[15:37:38] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube1x1x1.mdl
+[15:37:38] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube1x3x1.mdl
+[15:37:38] what are you doing step bro<STEAM_0:1:503236195> spawned model models/props_c17/fence01a.mdl
+[15:37:38] what are you doing step bro<STEAM_0:1:503236195> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[15:37:38] what are you doing step bro<STEAM_0:1:503236195> spawned model models/props_c17/fence01a.mdl
+[15:37:38] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube1x3x025.mdl
+[15:37:38] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube1x6x1.mdl
+[15:37:38] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube1x3x1.mdl
+[15:37:38] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube2x3x025.mdl
+[15:37:38] what are you doing step bro<STEAM_0:1:503236195> spawned model models/props_c17/fence01a.mdl
+[15:37:38] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x125x025.mdl
+[15:37:38] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/plates/plate1x4.mdl
+[15:37:38] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/plates/plate1x4.mdl
+[15:37:38] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/plates/plate5x5.mdl
+[15:37:38] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/plates/plate1x4.mdl
+[15:37:38] what are you doing step bro<STEAM_0:1:503236195> spawned model models/props_c17/fence01a.mdl
+[15:37:38] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube1x3x1.mdl
+[15:37:38] what are you doing step bro<STEAM_0:1:503236195> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[15:37:38] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube1x3x1.mdl
+[15:37:38] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube2x3x025.mdl
+[15:37:38] what are you doing step bro<STEAM_0:1:503236195> spawned model models/props_c17/fence01a.mdl
+[15:37:38] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/plates/plate5x5.mdl
+[15:37:38] what are you doing step bro<STEAM_0:1:503236195> spawned model models/props_c17/fence01a.mdl
+[15:37:38] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube1x2x05.mdl
+[15:37:38] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube075x1x025.mdl
+[15:37:38] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube3x3x025.mdl
+[15:37:38] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube1x6x1.mdl
+[15:37:39] what are you doing step bro<STEAM_0:1:503236195> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[15:37:39] what are you doing step bro<STEAM_0:1:503236195> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[15:37:39] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x2x025.mdl
+[15:37:39] what are you doing step bro<STEAM_0:1:503236195> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[15:37:39] what are you doing step bro<STEAM_0:1:503236195> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[15:37:39] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube1x3x1.mdl
+[15:37:39] what are you doing step bro<STEAM_0:1:503236195> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[15:37:39] what are you doing step bro<STEAM_0:1:503236195> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[15:37:39] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube2x3x025.mdl
+[15:37:39] what are you doing step bro<STEAM_0:1:503236195> spawned model models/props_c17/fence01a.mdl
+[15:37:39] what are you doing step bro<STEAM_0:1:503236195> spawned model models/props_c17/fence01b.mdl
+[15:37:39] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube1x6x1.mdl
+[15:37:39] what are you doing step bro<STEAM_0:1:503236195> spawned model models/props_c17/fence01b.mdl
+[15:37:39] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube1x6x1.mdl
+[15:37:52] what are you doing step bro<STEAM_0:1:503236195> used the tool fading_door on models/props_c17/fence01b.mdl
+[15:37:59] what are you doing step bro<STEAM_0:1:503236195> used the tool keypad_willox on models/hunter/blocks/cube1x6x1.mdl
+[15:38:02] what are you doing step bro<STEAM_0:1:503236195> used the tool keypad_willox on models/hunter/blocks/cube1x6x1.mdl
+[15:38:16] what are you doing step bro<STEAM_0:1:503236195> used the tool fading_door on models/props_c17/fence01b.mdl
+[15:38:24] what are you doing step bro<STEAM_0:1:503236195> used the tool keypad_willox on models/hunter/blocks/cube1x6x1.mdl
+[15:38:31] what are you doing step bro<STEAM_0:1:503236195> used the tool keypad_willox on models/hunter/blocks/cube1x6x1.mdl
+[15:39:37] what are you doing step bro<STEAM_0:1:503236195> used the tool fading_door on models/props_c17/fence01b.mdl
+[15:39:40] what are you doing step bro<STEAM_0:1:503236195> used the tool keypad_willox on models/hunter/blocks/cube1x6x1.mdl
+[15:39:44] what are you doing step bro<STEAM_0:1:503236195> used the tool keypad_willox on models/hunter/blocks/cube1x3x1.mdl
+[15:39:50] what are you doing step bro<STEAM_0:1:503236195> used the tool keypad_willox on models/hunter/blocks/cube1x3x1.mdl
+[15:39:52] what are you doing step bro<STEAM_0:1:503236195> used the tool keypad_willox on models/hunter/blocks/cube1x3x1.mdl
+[15:39:58] what are you doing step bro<STEAM_0:1:503236195> used the tool fading_door on models/hunter/blocks/cube025x2x025.mdl
+[15:40:33] what are you doing step bro<STEAM_0:1:503236195> spawned model models/props_c17/fence01b.mdl
+[15:45:26] what are you doing step bro<STEAM_0:1:503236195> used the tool nocollide on models/props_c17/fence01a.mdl
+[15:45:27] what are you doing step bro<STEAM_0:1:503236195> used the tool nocollide on models/props_c17/fence01a.mdl
+[15:45:27] what are you doing step bro<STEAM_0:1:503236195> used the tool nocollide on models/props_c17/fence01a.mdl
+[15:45:46] what are you doing step bro<STEAM_0:1:503236195> used the tool nocollide on models/props_c17/fence01a.mdl
+[15:45:46] what are you doing step bro<STEAM_0:1:503236195> used the tool nocollide on models/props_c17/fence01a.mdl
+[15:45:47] what are you doing step bro<STEAM_0:1:503236195> used the tool nocollide on models/props_c17/fence01a.mdl
+[15:45:49] what are you doing step bro<STEAM_0:1:503236195> used the tool nocollide on models/props_c17/fence01b.mdl
+[15:45:49] what are you doing step bro<STEAM_0:1:503236195> used the tool nocollide on models/props_c17/fence01b.mdl
+[15:45:49] what are you doing step bro<STEAM_0:1:503236195> used the tool nocollide on models/props_c17/fence01b.mdl
+[15:45:51] what are you doing step bro<STEAM_0:1:503236195> used the tool nocollide on models/hunter/blocks/cube025x2x025.mdl
+[15:45:51] what are you doing step bro<STEAM_0:1:503236195> used the tool nocollide on models/hunter/blocks/cube025x2x025.mdl
+[15:45:51] what are you doing step bro<STEAM_0:1:503236195> used the tool nocollide on models/hunter/blocks/cube025x2x025.mdl
+[15:51:46] what are you doing step bro<STEAM_0:1:503236195> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[15:51:46] what are you doing step bro<STEAM_0:1:503236195> spawned model models/props_wasteland/interior_fence001g.mdl
+[15:51:46] what are you doing step bro<STEAM_0:1:503236195> spawned model models/props_wasteland/interior_fence001g.mdl
+[15:51:46] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube1x1x05.mdl
+[15:51:46] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube1x1x05.mdl
+[15:51:46] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube05x5x05.mdl
+[15:51:46] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube1x4x05.mdl
+[15:51:46] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/plates/plate150.mdl
+[15:51:46] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/plates/plate125.mdl
+[15:51:46] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/plates/plate150.mdl
+[15:51:46] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube05x3x05.mdl
+[15:51:46] what are you doing step bro<STEAM_0:1:503236195> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[15:51:46] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/plates/plate1x7.mdl
+[15:51:46] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube05x1x05.mdl
+[15:51:46] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/plates/plate125.mdl
+[15:51:46] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube05x5x05.mdl
+[15:51:46] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube1x1x05.mdl
+[15:51:46] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/plates/plate2x3.mdl
+[15:51:46] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/plates/plate2x3.mdl
+[15:51:46] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/plates/plate1x4.mdl
+[15:51:46] what are you doing step bro<STEAM_0:1:503236195> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[15:51:46] what are you doing step bro<STEAM_0:1:503236195> spawned model models/props_wasteland/interior_fence001g.mdl
+[15:51:46] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube05x5x05.mdl
+[15:51:46] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/plates/plate1x2.mdl
+[15:51:46] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube05x4x05.mdl
+[15:51:46] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/plates/plate1x4.mdl
+[15:51:46] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/plates/plate1x4.mdl
+[15:51:47] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/plates/plate1x8.mdl
+[15:51:47] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x4x025.mdl
+[15:51:47] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/plates/plate2x5.mdl
+[15:51:47] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube1x2x05.mdl
+[15:51:47] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/plates/plate150.mdl
+[15:51:47] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/plates/plate1x3.mdl
+[15:51:47] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/plates/plate150.mdl
+[15:51:47] what are you doing step bro<STEAM_0:1:503236195> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[15:51:47] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube05x1x05.mdl
+[15:51:47] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/plates/plate150.mdl
+[15:51:47] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/plates/plate125.mdl
+[15:51:47] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x025x025.mdl
+[15:51:47] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/plates/plate125.mdl
+[15:51:47] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/plates/plate150.mdl
+[15:51:47] what are you doing step bro<STEAM_0:1:503236195> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[15:51:47] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube05x2x05.mdl
+[15:51:47] what are you doing step bro<STEAM_0:1:503236195> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[15:51:47] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube05x5x05.mdl
+[15:51:47] what are you doing step bro<STEAM_0:1:503236195> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[15:51:47] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube3x3x05.mdl
+[15:51:47] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube1x7x025.mdl
+[15:51:47] what are you doing step bro<STEAM_0:1:503236195> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[15:51:47] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube05x5x05.mdl
+[15:51:47] what are you doing step bro<STEAM_0:1:503236195> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[15:53:12] what are you doing step bro<STEAM_0:1:503236195> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[15:53:12] what are you doing step bro<STEAM_0:1:503236195> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[15:53:12] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x6x025.mdl
+[15:53:12] what are you doing step bro<STEAM_0:1:503236195> spawned model models/props_c17/fence02b.mdl
+[15:53:12] what are you doing step bro<STEAM_0:1:503236195> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[15:53:12] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x6x025.mdl
+[15:53:12] what are you doing step bro<STEAM_0:1:503236195> spawned model models/props_c17/fence02b.mdl
+[15:53:13] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x6x025.mdl
+[15:53:13] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x1x025.mdl
+[15:53:13] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x2x025.mdl
+[15:53:13] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x2x025.mdl
+[15:53:13] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x4x025.mdl
+[15:53:13] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x1x025.mdl
+[15:53:13] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x6x025.mdl
+[15:53:13] what are you doing step bro<STEAM_0:1:503236195> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[15:53:13] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x3x025.mdl
+[15:53:13] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x2x025.mdl
+[15:53:13] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x4x025.mdl
+[15:53:13] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x2x025.mdl
+[15:53:13] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x6x025.mdl
+[15:53:13] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x6x025.mdl
+[15:53:13] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x6x025.mdl
+[15:53:13] what are you doing step bro<STEAM_0:1:503236195> spawned model models/props_c17/fence02b.mdl
+[15:53:13] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x2x025.mdl
+[15:53:13] what are you doing step bro<STEAM_0:1:503236195> spawned model models/props_c17/fence02b.mdl
+[15:53:13] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x6x025.mdl
+[15:53:13] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x2x025.mdl
+[15:53:13] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x3x025.mdl
+[15:53:13] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x3x025.mdl
+[15:53:13] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x6x025.mdl
+[15:53:13] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x3x025.mdl
+[15:53:13] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x3x025.mdl
+[15:53:13] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x1x025.mdl
+[15:53:13] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x3x025.mdl
+[15:53:13] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x1x025.mdl
+[15:53:13] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x6x025.mdl
+[15:53:13] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x6x025.mdl
+[15:53:13] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x3x025.mdl
+[15:53:13] what are you doing step bro<STEAM_0:1:503236195> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[15:53:13] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x4x025.mdl
+[15:53:13] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x2x025.mdl
+[15:53:13] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x6x025.mdl
+[15:53:13] what are you doing step bro<STEAM_0:1:503236195> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[15:53:13] what are you doing step bro<STEAM_0:1:503236195> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[15:53:13] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x1x025.mdl
+[15:53:13] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x2x025.mdl
+[15:53:13] what are you doing step bro<STEAM_0:1:503236195> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[15:53:13] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x4x025.mdl
+[15:53:13] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x4x025.mdl
+[15:53:13] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x6x025.mdl
+[15:53:13] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x1x025.mdl
+[15:53:36] what are you doing step bro<STEAM_0:1:503236195> used the tool remover on models/hunter/blocks/cube025x3x025.mdl
+[15:53:37] what are you doing step bro<STEAM_0:1:503236195> used the tool remover on models/hunter/blocks/cube025x3x025.mdl
+[15:53:37] what are you doing step bro<STEAM_0:1:503236195> used the tool remover on models/hunter/blocks/cube025x3x025.mdl
+[15:53:37] what are you doing step bro<STEAM_0:1:503236195> used the tool remover on models/hunter/blocks/cube025x3x025.mdl
+[15:53:38] what are you doing step bro<STEAM_0:1:503236195> used the tool remover on models/hunter/blocks/cube025x6x025.mdl
+[15:53:43] what are you doing step bro<STEAM_0:1:503236195> used the tool remover on models/hunter/blocks/cube025x3x025.mdl
+[15:53:44] what are you doing step bro<STEAM_0:1:503236195> used the tool remover on models/hunter/blocks/cube025x3x025.mdl
+[15:53:44] what are you doing step bro<STEAM_0:1:503236195> used the tool remover on models/hunter/blocks/cube025x3x025.mdl
+[15:53:54] what are you doing step bro<STEAM_0:1:503236195> spawned model models/props_lab/blastdoor001b.mdl
+[15:54:05] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_ar15
+[15:54:10] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_m249_official
+[15:54:13] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[15:54:13] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[15:54:13] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[15:54:14] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[15:54:14] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[15:54:14] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[15:54:14] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[15:54:14] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[15:54:14] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[15:54:14] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[15:54:15] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_357_large
+[15:54:15] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_357_large
+[15:54:15] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_357_large
+[15:54:15] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_357_large
+[15:54:16] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_357_large
+[15:54:16] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_large
+[15:54:16] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_large
+[15:54:16] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_large
+[15:54:17] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_large
+[15:54:17] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[15:54:17] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[15:54:17] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[15:54:17] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[15:54:18] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[15:54:18] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_grenade
+[15:54:19] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_pistol_large
+[15:54:19] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_pistol_large
+[15:54:19] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_pistol_large
+[15:54:19] DrDerpenstein<STEAM_0:0:13562763> spawned sent combine_mine
+[15:54:21] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[15:54:21] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[15:54:22] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[15:54:23] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_grenade
+[15:54:24] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_grenade
+[15:54:24] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_grenade
+[15:54:24] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_large
+[15:54:24] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_large
+[15:54:25] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_pistol_large
+[15:54:25] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_pistol_large
+[15:54:25] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_pistol_large
+[15:54:25] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_pistol_large
+[15:54:25] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_pistol_large
+[15:54:26] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_pistol_large
+[15:54:26] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_altfire
+[15:54:26] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_altfire
+[15:54:26] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_altfire
+[15:54:27] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_crossbow
+[15:54:27] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_crossbow
+[15:54:27] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[15:54:27] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[15:54:28] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_box_buckshot
+[15:54:28] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_box_buckshot
+[15:54:28] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_box_buckshot
+[15:54:28] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_box_buckshot
+[15:54:28] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_box_buckshot
+[15:54:29] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[15:54:29] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[15:55:48] what are you doing step bro<STEAM_0:1:503236195> spawned vehicle models/sligwolf/gokart/sw_gokart.mdl
+[15:56:21] DrDerpenstein<STEAM_0:0:13562763> spawned vehicle models/sligwolf/tractor/tractor.mdl
+[15:59:36] what are you doing step bro<STEAM_0:1:503236195> spawned vehicle models/swmodels/swbuggy.mdl
+[16:00:33] what are you doing step bro<STEAM_0:1:503236195> spawned vehicle models/sligwolf/trabant/trabant.mdl
+[16:00:41] DrDerpenstein<STEAM_0:0:13562763> spawned vehicle models/sligwolf/fcc/flying_crawler_car.mdl
+[16:00:56] Dropped "what are you doing step bro" from server<STEAM_0:1:503236195>
+[16:00:59] Client "fwop.memes" connected.
+[16:02:06] DrDerpenstein<STEAM_0:0:13562763> used the tool remover on *72
+[16:02:55] Client "fwop.memes" spawned in server <STEAM_0:1:503236195> (took 116 seconds).
+[16:05:36] what are you doing step bro<STEAM_0:1:503236195> spawned vehicle models/swmodels/swbuggy.mdl
+[16:06:43] what are you doing step bro<STEAM_0:1:503236195> spawned vehicle models/buggy.mdl
+[16:07:20] what are you doing step bro<STEAM_0:1:503236195> spawned vehicle models/swmodels/swbuggy.mdl
+[16:08:45] what are you doing step bro<STEAM_0:1:503236195> spawned vehicle models/sligwolf/blue-x13/blue-x13.mdl
+[16:09:15] what are you doing step bro<STEAM_0:1:503236195> spawned vehicle models/sligwolf/hotrod/old_hotrod.mdl
+[16:11:05] (TEAM) what are you doing step bro: /UNBOX
+[16:12:13] (TEAM) what are you doing step bro: !WARNS
+[16:12:25] DrDerpenstein: ill buy an uzi plox
+[16:12:52] DrDerpenstein: uzi!
+[16:14:03] what are you doing step bro: /ADVERT AFK
+[16:14:10] what are you doing step bro: AFK
+[16:19:07] DrDerpenstein<STEAM_0:0:13562763> spawned sent bm2_bitminer_server
+[16:19:17] DrDerpenstein<STEAM_0:0:13562763> spawned sent bm2_bitminer_rack
+[16:19:54] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_fuel
+[16:19:56] DrDerpenstein<STEAM_0:0:13562763> spawned sent bm2_bitminer_1
+[16:19:56] DrDerpenstein<STEAM_0:0:13562763> spawned sent bm2_bitminer_2
+[16:19:57] DrDerpenstein<STEAM_0:0:13562763> spawned sent bm2_bitminer_rack
+[16:19:58] DrDerpenstein<STEAM_0:0:13562763> spawned sent bm2_bitminer_rack
+[16:19:58] DrDerpenstein<STEAM_0:0:13562763> spawned sent bm2_bitminer_server
+[16:19:59] DrDerpenstein<STEAM_0:0:13562763> spawned sent bm2_extention_lead
+[16:20:16] Dropped "DrDerpenstein" from server<STEAM_0:0:13562763>
+[16:21:27] Client "DrDerpenstein sups.gg" connected.
+[16:21:51] Client "DrDerpenstein sups.gg" spawned in server <STEAM_0:0:13562763> (took 24 seconds).
+[16:22:12] DrDerpenstein<STEAM_0:0:13562763> spawned sent bm2_bitminer_rack
+[16:23:37] DrDerpenstein<STEAM_0:0:13562763> spawned sent bm2_bitminer_server
+[16:34:10] (TEAM) what are you doing step bro: /INVHOLSTER
+[16:34:30] (TEAM) what are you doing step bro: /INVHOLSTER
+[16:34:38] DrDerpenstein: /drop
+[16:35:01] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_l85a2
+[16:36:41] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_m14
+[16:36:43] what are you doing step bro<STEAM_0:1:503236195> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[16:36:43] what are you doing step bro<STEAM_0:1:503236195> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[16:36:43] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x6x025.mdl
+[16:36:43] what are you doing step bro<STEAM_0:1:503236195> spawned model models/props_c17/fence02b.mdl
+[16:36:43] what are you doing step bro<STEAM_0:1:503236195> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[16:36:43] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x6x025.mdl
+[16:36:43] what are you doing step bro<STEAM_0:1:503236195> spawned model models/props_c17/fence02b.mdl
+[16:36:43] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x6x025.mdl
+[16:36:43] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x1x025.mdl
+[16:36:43] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x2x025.mdl
+[16:36:43] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x2x025.mdl
+[16:36:43] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x4x025.mdl
+[16:36:43] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x1x025.mdl
+[16:36:43] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x6x025.mdl
+[16:36:43] what are you doing step bro<STEAM_0:1:503236195> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[16:36:43] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x3x025.mdl
+[16:36:43] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x2x025.mdl
+[16:36:43] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x4x025.mdl
+[16:36:43] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x2x025.mdl
+[16:36:43] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x6x025.mdl
+[16:36:43] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x6x025.mdl
+[16:36:43] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x6x025.mdl
+[16:36:43] what are you doing step bro<STEAM_0:1:503236195> spawned model models/props_c17/fence02b.mdl
+[16:36:43] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x2x025.mdl
+[16:36:43] what are you doing step bro<STEAM_0:1:503236195> spawned model models/props_c17/fence02b.mdl
+[16:36:43] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x6x025.mdl
+[16:36:43] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x2x025.mdl
+[16:36:43] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x3x025.mdl
+[16:36:43] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x3x025.mdl
+[16:36:43] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x6x025.mdl
+[16:36:44] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x3x025.mdl
+[16:36:44] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x3x025.mdl
+[16:36:44] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x1x025.mdl
+[16:36:44] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x3x025.mdl
+[16:36:44] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x1x025.mdl
+[16:36:44] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x6x025.mdl
+[16:36:44] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x6x025.mdl
+[16:36:44] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x3x025.mdl
+[16:36:44] what are you doing step bro<STEAM_0:1:503236195> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[16:36:44] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x4x025.mdl
+[16:36:44] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x2x025.mdl
+[16:36:44] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x6x025.mdl
+[16:36:44] what are you doing step bro<STEAM_0:1:503236195> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[16:36:44] what are you doing step bro<STEAM_0:1:503236195> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[16:36:44] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x1x025.mdl
+[16:36:44] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x2x025.mdl
+[16:36:44] what are you doing step bro<STEAM_0:1:503236195> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[16:36:44] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x4x025.mdl
+[16:36:44] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x4x025.mdl
+[16:36:44] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x6x025.mdl
+[16:36:44] what are you doing step bro<STEAM_0:1:503236195> spawned model models/hunter/blocks/cube025x1x025.mdl
+[16:37:01] what are you doing step bro<STEAM_0:1:503236195> used the tool remover on models/hunter/blocks/cube025x3x025.mdl
+[16:37:02] what are you doing step bro<STEAM_0:1:503236195> used the tool remover on models/hunter/blocks/cube025x3x025.mdl
+[16:37:02] what are you doing step bro<STEAM_0:1:503236195> used the tool remover on models/hunter/blocks/cube025x3x025.mdl
+[16:37:02] what are you doing step bro<STEAM_0:1:503236195> used the tool remover on models/hunter/blocks/cube025x3x025.mdl
+[16:37:03] what are you doing step bro<STEAM_0:1:503236195> used the tool remover on models/hunter/blocks/cube025x3x025.mdl
+[16:37:03] what are you doing step bro<STEAM_0:1:503236195> used the tool remover on models/hunter/blocks/cube025x3x025.mdl
+[16:37:04] what are you doing step bro<STEAM_0:1:503236195> used the tool remover on models/hunter/blocks/cube025x3x025.mdl
+[16:37:18] what are you doing step bro<STEAM_0:1:503236195> spawned model models/props_lab/blastdoor001b.mdl
+[16:37:25] DrDerpenstein<STEAM_0:0:13562763> spawned vehicle models/tdmcars/gtaiv_airtug.mdl
+[16:37:30] what are you doing step bro<STEAM_0:1:503236195> used the tool keypad_willox on maps/rp_downtown_tits_v2.bsp
+[16:37:32] what are you doing step bro<STEAM_0:1:503236195> used the tool keypad_willox on maps/rp_downtown_tits_v2.bsp
+[16:37:37] what are you doing step bro<STEAM_0:1:503236195> used the tool keypad_willox on maps/rp_downtown_tits_v2.bsp
+[16:37:42] what are you doing step bro<STEAM_0:1:503236195> used the tool keypad_willox on maps/rp_downtown_tits_v2.bsp
+[16:37:48] what are you doing step bro<STEAM_0:1:503236195> used the tool keypad_willox on maps/rp_downtown_tits_v2.bsp
+[16:37:50] what are you doing step bro<STEAM_0:1:503236195> used the tool keypad_willox on maps/rp_downtown_tits_v2.bsp
+[16:37:55] what are you doing step bro<STEAM_0:1:503236195> used the tool keypad_willox on maps/rp_downtown_tits_v2.bsp
+[16:37:56] what are you doing step bro<STEAM_0:1:503236195> used the tool keypad_willox on maps/rp_downtown_tits_v2.bsp
+[16:37:57] DrDerpenstein<STEAM_0:0:13562763> spawned vehicle models/sligwolf/trabant/trabant.mdl
+[16:38:20] what are you doing step bro<STEAM_0:1:503236195> used the tool textscreen on maps/rp_downtown_tits_v2.bsp
+[16:38:41] (TEAM) what are you doing step bro: /INVHOLSTER
+[16:39:11] (TEAM) what are you doing step bro: /INVHOLSTER
+[16:39:43] (TEAM) what are you doing step bro: /INVHOLSTER
+[16:41:06] DrDerpenstein<STEAM_0:0:13562763> spawned NPC npc_monk
+[16:41:50] DrDerpenstein<STEAM_0:0:13562763> spawned NPC npc_crow
+[16:41:51] Dropped "what are you doing step bro" from server<STEAM_0:1:503236195>
+[16:42:01] DrDerpenstein<STEAM_0:0:13562763> spawned NPC npc_citizen
+[16:42:08] DrDerpenstein<STEAM_0:0:13562763> spawned NPC npc_citizen
+[16:42:25] DrDerpenstein<STEAM_0:0:13562763> spawned NPC npc_citizen
+[16:45:09] DrDerpenstein<STEAM_0:0:13562763> spawned NPC npc_citizen
+[16:45:12] DrDerpenstein<STEAM_0:0:13562763> spawned NPC npc_combine_s
+[16:46:27] DrDerpenstein<STEAM_0:0:13562763> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[16:46:28] DrDerpenstein<STEAM_0:0:13562763> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[16:46:28] DrDerpenstein<STEAM_0:0:13562763> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[16:46:28] DrDerpenstein<STEAM_0:0:13562763> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[16:46:28] DrDerpenstein<STEAM_0:0:13562763> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[16:46:28] DrDerpenstein<STEAM_0:0:13562763> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[16:46:44] DrDerpenstein<STEAM_0:0:13562763> used the tool nocollide on maps/rp_downtown_tits_v2.bsp
+[16:46:45] DrDerpenstein<STEAM_0:0:13562763> used the tool nocollide on maps/rp_downtown_tits_v2.bsp
+[16:47:25] Dropped "DrDerpenstein" from server<STEAM_0:0:13562763>
+[17:14:01] Client "Derp" connected.
+[17:15:20] Client "Derp" spawned in server <STEAM_0:0:52504530> (took 79 seconds).
+[17:16:10] Derp: /sniper
+[17:16:31] Derp: /setspawn sniper
+[17:17:01] Derp<STEAM_0:0:52504530> used the tool camera on maps/rp_downtown_tits_v2.bsp
+[17:17:13] Derp<STEAM_0:0:52504530> spawned/gave himself swep weapon_empty_hands
+[17:17:36] Derp<STEAM_0:0:52504530> used the tool camera on maps/rp_downtown_tits_v2.bsp
+[17:17:45] Derp: /acc
+[17:19:15] Client "DrDerpenstein sups.gg" connected.
+[17:19:21] Derp: /acc
+[17:19:40] Client "DrDerpenstein sups.gg" spawned in server <STEAM_0:0:13562763> (took 25 seconds).
+[17:20:15] DrDerpenstein<STEAM_0:0:13562763> spawned sent bm2_bitminer_server
+[17:20:17] DrDerpenstein<STEAM_0:0:13562763> spawned sent bm2_bitminer_rack
+[17:22:41] Derp<STEAM_0:0:52504530> used the tool camera on models/vinrax/player/scp049_player.mdl
+[17:23:23] Derp<STEAM_0:0:52504530> used the tool camera on maps/rp_downtown_tits_v2.bsp
+[17:24:00] Derp<STEAM_0:0:52504530> spawned/gave himself swep cw_ws_m16a4
+[17:25:58] Client "LV" connected.
+[17:28:04] Client "LV" spawned in server <STEAM_0:0:460419170> (took 126 seconds).
+[17:29:42] Derp: hello
+[17:29:45] LV: hey long time no see
+[17:29:47] Derp: yeah
+[17:29:49] Derp: how u been
+[17:29:57] LV: pretty good how are you
+[17:30:01] Derp: im doing alright myself
+[17:30:06] LV: are there sounds on the server
+[17:30:18] Derp: uh yeah
+[17:30:26] LV: i cant hear any thing
+[17:30:36] Derp: did u hear his gunshots?
+[17:30:41] LV: no
+[17:30:49] Derp: thats probably a local issue
+[17:30:55] Derp: no idea why thats happening to u
+[17:31:03] LV: ok hold on i will be back
+[17:31:06] Derp: ok
+[17:31:41] LV: i can hear
+[17:31:45] Derp: why can u hear now
+[17:31:51] LV: my headsets volume
+[17:31:58] Derp: jesus christ dude
+[17:32:04] LV: i know i heard before
+[17:32:07] Derp: lol
+[17:32:09] LV: but then it cut out
+[17:32:19] LV: server going good
+[17:32:35] Derp: in terms of quality its pretty good but now we are working to get more people to play
+[17:32:42] LV: yeah
+[17:32:47] LV: there is food now
+[17:32:49] Derp: yup
+[17:33:23] LV: what is that
+[17:33:28] Derp: that is a fire hydrant
+[17:33:34] LV: oh i cant see it
+[17:33:45] LV: is spells out error
+[17:33:52] Derp: press F4 and then click on Info and then click on workshop and there u can download the addons u need
+[17:36:01] LV: is there a way i can press one button to download them all
+[17:36:04] Derp: yes
+[17:36:08] LV: how
+[17:36:18] Derp: right on top of the first addon u see in the list there is a subscribe to all button
+[17:37:26] Derp<STEAM_0:0:52504530> spawned sent zvm_machine
+[17:39:37] LV: want to place a hit
+[17:40:00] LV: how do i accept
+[17:41:13] LV: this is pistol
+[17:41:16] DrDerpenstein: /dropmoney 5000
+[17:41:17] LV: oh
+[17:41:20] LV: sniper
+[17:41:26] LV killed DrDerpenstein using player
+[17:41:45] Client "theresamaston" connected.
+[17:41:58] LV: i am broke for this
+[17:42:26] Derp: !savezvm
+[17:43:18] LV: you :(
+[17:43:39] LV killed Derp using player
+[17:44:02] LV: 48 health
+[17:44:03] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_ar15
+[17:44:15] LV: /invholster
+[17:44:48] Client "theresamaston" spawned in server <STEAM_0:1:442389183> (took 183 seconds).
+[17:45:19] LV: /invholster
+[17:45:27] LV: /invholster
+[17:45:30] CJC: /pm dr hi
+[17:45:42] DrDerpenstein: /pm cjc hola
+[17:45:53] CJC: /pm dr where ya at
+[17:45:55] LV: how do you work this
+[17:46:03] DrDerpenstein: /pm cjc fountain with everyone else
+[17:46:15] CJC: /pm dr comin
+[17:46:23] LV: can you self supply on this
+[17:46:36] CJC<STEAM_0:1:442389183> spawned vehicle models/sligwolf/blue-x14/blue-x14.mdl
+[17:46:38] DrDerpenstein: yea its an admin vending machine
+[17:46:45] DrDerpenstein: for when no cooks are on
+[17:46:45] CJC<STEAM_0:1:442389183> spawned vehicle models/sligwolf/blue-x14/blue-x14.mdl
+[17:46:51] LV: oh
+[17:46:57] LV: can you self supply on this
+[17:47:05] LV: guns
+[17:47:36] Derp<STEAM_0:0:52504530> used the tool duplicator on models/zerochain/props_vendingmachine/zvm_machine.mdl
+[17:47:37] Derp<STEAM_0:0:52504530> used the tool duplicator on maps/rp_downtown_tits_v2.bsp
+[17:47:38] LV: can i self supply with gun dealer though
+[17:47:53] Derp<STEAM_0:0:52504530> used the tool duplicator on maps/rp_downtown_tits_v2.bsp
+[17:48:08] Derp: !savezvm
+[17:48:50] LV: /pm derp my money got reset again
+[17:48:58] CJC: /invholster
+[17:49:06] Derp: /pm LV everyone's money got reset
+[17:49:11] LV: /pm derp oh
+[17:49:16] LV: /pm derp did cars
+[17:49:23] LV: /invholster
+[17:49:26] Derp: /pm LV cars have been completely replaced
+[17:49:26] CJC: /invholster
+[17:49:34] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[17:49:35] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[17:49:35] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[17:49:36] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[17:49:37] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[17:50:03] LV: /invholster
+[17:50:27] DrDerpenstein was killed by prop_vehicle_jeep
+[17:50:38] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[17:50:38] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[17:50:38] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[17:50:38] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[17:50:38] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[17:50:40] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_357_large
+[17:50:40] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_357_large
+[17:50:40] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_357_large
+[17:50:40] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_357_large
+[17:50:40] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[17:50:41] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[17:50:41] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[17:50:41] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[17:50:41] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[17:50:42] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_large
+[17:50:42] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_large
+[17:50:42] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_large
+[17:50:42] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_large
+[17:50:43] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_pistol_large
+[17:50:43] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_pistol_large
+[17:50:43] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_pistol_large
+[17:50:43] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_pistol_large
+[17:50:44] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_crossbow
+[17:50:44] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_crossbow
+[17:50:44] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[17:50:44] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[17:50:45] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_box_buckshot
+[17:50:45] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_box_buckshot
+[17:50:45] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_box_buckshot
+[17:50:46] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_grenade
+[17:50:46] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_grenade
+[17:50:47] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_altfire
+[17:50:49] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[17:50:50] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[17:50:55] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[17:50:55] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[17:50:55] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[17:50:55] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[17:50:55] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[17:50:56] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[17:50:56] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[17:50:56] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[17:50:56] CJC<STEAM_0:1:442389183> spawned vehicle models/sligwolf/fcc/flying_crawler_car.mdl
+[17:50:57] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[17:50:58] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[17:50:58] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[17:50:58] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[17:50:58] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[17:52:22] LV: 425 health how
+[17:52:29] LV: oh
+[17:52:33] LV: /invholster
+[17:52:36] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[17:52:38] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[17:52:39] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[17:53:09] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[17:53:10] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[17:53:11] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[17:53:13] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[17:53:15] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[17:53:16] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[17:53:34] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[17:53:48] LV: /pm derp what does this job do
+[17:54:40] LV: /invholster
+[17:54:51] CJC: /invholster
+[17:55:05] LV: what drug is that
+[17:55:26] LV: how do you get poison
+[17:55:51] LV: how do i make the more health drug
+[17:56:06] LV: i have weed
+[17:57:17] CJC killed DrDerpenstein using player
+[17:57:24] CJC: /invholster
+[17:57:45] LV: what drug makes you faster
+[17:58:11] LV: the one you dropped before
+[17:59:21] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[17:59:22] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[17:59:22] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[17:59:22] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[17:59:22] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[17:59:22] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[17:59:22] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[17:59:22] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[17:59:23] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[17:59:23] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[17:59:39] DrDerpenstein<STEAM_0:0:13562763> spawned sent lean_cup
+[17:59:39] DrDerpenstein<STEAM_0:0:13562763> spawned sent lean_cup
+[17:59:40] DrDerpenstein<STEAM_0:0:13562763> spawned sent lean_cup
+[17:59:40] DrDerpenstein<STEAM_0:0:13562763> spawned sent lean_cup
+[17:59:40] LV: i dont have enough money i dont think
+[17:59:42] DrDerpenstein<STEAM_0:0:13562763> spawned sent lean_barrel
+[17:59:52] (TEAM) CJC: /dropmoney 1000000
+[18:00:03] CJC: /dropmoney 100000
+[18:00:41] DrDerpenstein<STEAM_0:0:13562763> used the tool remover on models/freeman/codeine_barrel.mdl
+[18:01:01] DrDerpenstein<STEAM_0:0:13562763> spawned sent lean_smallcrate
+[18:02:34] LV: where
+[18:02:44] CJC: /invholster
+[18:03:07] LV: i am poor
+[18:03:08] CJC: /dropmoney 1000000
+[18:03:18] LV: wow
+[18:03:27] LV: how did you get that
+[18:03:49] LV: your an admin
+[18:04:09] LV: i dont know
+[18:05:00] LV: how do i do this job
+[18:06:14] CJC killed DrDerpenstein using player
+[18:06:46] LV: /invholster
+[18:07:01] CJC killed DrDerpenstein using player
+[18:07:03] LV: can i test these on you
+[18:07:07] LV: can i test these on you
+[18:07:17] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[18:07:17] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[18:07:17] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[18:07:17] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[18:07:17] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[18:07:18] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[18:07:18] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[18:07:18] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[18:07:18] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[18:07:18] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[18:07:18] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[18:07:18] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[18:07:25] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[18:07:25] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[18:07:25] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[18:07:29] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[18:07:34] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[18:07:34] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[18:07:34] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[18:07:34] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[18:07:34] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[18:07:34] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[18:07:34] LV: my handcuffs are gone
+[18:07:38] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[18:07:38] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_large
+[18:07:38] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_large
+[18:07:39] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_large
+[18:07:39] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_large
+[18:07:39] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_large
+[18:07:39] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_357_large
+[18:07:39] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_357_large
+[18:07:40] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_357_large
+[18:07:40] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[18:07:40] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[18:07:40] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[18:07:41] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[18:07:41] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[18:07:41] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_pistol_large
+[18:07:41] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_pistol_large
+[18:07:41] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_pistol_large
+[18:07:42] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_pistol_large
+[18:07:44] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_box_buckshot
+[18:07:44] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_box_buckshot
+[18:07:44] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_box_buckshot
+[18:07:44] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[18:07:44] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[18:07:45] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[18:07:45] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_crossbow
+[18:07:45] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_crossbow
+[18:07:45] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_crossbow
+[18:07:47] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_grenade
+[18:07:47] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_grenade
+[18:07:48] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_pistol_large
+[18:07:48] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_pistol_large
+[18:07:49] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[18:07:49] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[18:08:07] CJC killed Derp using player
+[18:08:12] DrDerpenstein killed CJC using player
+[18:08:30] Derp: you did
+[18:08:54] LV: my skin changed
+[18:09:19] LV: ok different person
+[18:09:23] LV: sorry derp
+[18:09:42] LV: save
+[18:09:50] LV: what
+[18:10:17] LV: i think it was
+[18:10:43] DrDerpenstein killed LV using player
+[18:11:35] LV: do /kill
+[18:11:37] Derp: drop *
+[18:11:53] DrDerpenstein: /killall
+[18:11:57] DrDerpenstein: /slayall
+[18:12:05] Dropped "CJC" from server<STEAM_0:1:442389183>
+[18:12:11] Client "theresamaston" connected.
+[18:12:19] LV: /pm derp hey derp can i have mod or admin
+[18:12:45] LV: i was before
+[18:13:01] LV: i was wondering if i could get it again
+[18:13:33] LV: what
+[18:13:35] Derp added LV to group moderator
+[18:13:39] LV: thank you
+[18:14:04] LV: am i allowed to do this whenever and to anyone
+[18:14:15] LV: oh ok
+[18:14:16] Client "theresamaston" spawned in server <STEAM_0:1:442389183> (took 125 seconds).
+[18:14:21] LV: can they kill you afet
+[18:14:24] LV: after
+[18:15:14] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_rape
+[18:16:06] CJC: /invholster
+[18:16:20] CJC: /invholster
+[18:16:48] LV: i am in you
+[18:16:54] LV: what happen
+[18:17:10] LV: /pm derp hey derp i think i broke the job
+[18:17:25] DrDerpenstein: /goto lv
+[18:17:26] LV: /pm derp i am stuck inside CJC
+[18:17:33] DrDerpenstein: /goto lv
+[18:17:49] CJC: /invholster
+[18:17:50] LV: can you here me
+[18:17:54] LV: see
+[18:17:57] LV: read my chat
+[18:18:00] DrDerpenstein: yea
+[18:18:06] CJC: /ooc ill do it
+[18:18:07] DrDerpenstein: /tp lv
+[18:18:08] LV: where am i
+[18:18:18] LV: i am spectating CJC
+[18:18:25] LV suicided!
+[18:18:31] DrDerpenstein: /goto lv
+[18:18:42] CJC: /advert ill do it
+[18:18:43] LV: thank you i dont know either was i invisible
+[18:18:55] CJC killed Derp using prop_sh_doorcharge
+[18:19:11] CJC suicided!
+[18:19:18] LV: /y what happen
+[18:19:23] LV: /y the door
+[18:19:29] LV: will it go back
+[18:19:51] LV: /invholster
+[18:20:29] CJC suicided!
+[18:20:51] CJC: /ooc i want my money back
+[18:20:58] DrDerpenstein: // what money
+[18:21:01] DrDerpenstein: // the mil?
+[18:21:05] CJC: the 1 mil
+[18:21:21] Derp<STEAM_0:0:52504530> used the tool camera on maps/rp_downtown_tits_v2.bsp
+[18:21:31] LV: 1234
+[18:21:44] CJC: i want y moneyyyyyyyyyyyyyyyyyyyyy
+[18:21:49] LV: i like this
+[18:22:01] CJC: /ooc i wannnnnnnnt mmyyyyyyy moneeeeeyyyyyyyyy
+[18:22:08] Derp: // u have 6 mil u dont need anymore
+[18:22:15] CJC: /ooc i do tho
+[18:22:21] LV: do you want to donate
+[18:22:29] CJC: /ooc its not enghth
+[18:22:35] LV: and lean
+[18:23:07] CJC: /ooc ill leave if i dont get my money
+[18:23:13] LV: what money
+[18:23:21] DrDerpenstein: // "ITS MY MONEY AND I WANT IT NOW"
+[18:23:32] LV: nice joke
+[18:23:39] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_m249_official
+[18:23:43] CJC: /ooc i spent the 7 milthat u gave
+[18:23:46] LV: what is that
+[18:23:55] LV: can you buy that
+[18:23:59] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_healthkit
+[18:23:59] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_healthkit
+[18:23:59] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_healthkit
+[18:23:59] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_healthkit
+[18:24:04] Derp: /dropmoney 1000000
+[18:24:17] LV: oh
+[18:24:22] CJC: /ooc i got to go
+[18:24:28] Dropped "CJC" from server<STEAM_0:1:442389183>
+[18:25:10] DrDerpenstein<STEAM_0:0:13562763> spawned model models/hunter/blocks/cube6x6x05.mdl
+[18:25:23] Derp<STEAM_0:0:52504530> used the tool camera on models/hunter/blocks/cube6x6x05.mdl
+[18:25:26] DrDerpenstein<STEAM_0:0:13562763> used the tool material on models/hunter/blocks/cube6x6x05.mdl
+[18:25:31] Derp<STEAM_0:0:52504530> spawned/gave himself swep weapon_empty_hands
+[18:25:35] DrDerpenstein<STEAM_0:0:13562763> used the tool colour on models/hunter/blocks/cube6x6x05.mdl
+[18:25:48] Derp<STEAM_0:0:52504530> used the tool camera on models/hunter/blocks/cube6x6x05.mdl
+[18:25:50] Derp<STEAM_0:0:52504530> used the tool camera on models/hunter/blocks/cube6x6x05.mdl
+[18:26:10] Derp<STEAM_0:0:52504530> used the tool camera on models/hunter/blocks/cube6x6x05.mdl
+[18:26:20] LV: can i be in it
+[18:26:30] Derp<STEAM_0:0:52504530> used the tool camera on models/hunter/blocks/cube6x6x05.mdl
+[18:27:02] LV: i dont know what just happen honestly
+[18:27:37] LV: do i have noclip commands on mod
+[18:27:55] LV: i have a bind
+[18:28:05] LV: how
+[18:28:23] LV: are you in the discord server
+[18:29:35] LV: you have rape swep
+[18:29:52] LV: why does it say you have rape swep
+[18:30:15] LV: i told you it is weird
+[18:30:24] LV: i cant really hear you
+[18:30:40] LV: how do i kill you like you did yo me
+[18:30:48] DrDerpenstein suicided!
+[18:31:20] LV: i think it is broken
+[18:31:32] LV: wow
+[18:31:36] LV: i like this
+[18:32:06] LV: take it off
+[18:32:08] LV: how
+[18:34:00] LV: derp
+[18:34:10] LV: oh
+[18:34:26] LV: can you do this to me
+[18:34:31] LV: i want to see what it is like
+[18:34:40] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_stungun
+[18:34:59] LV: am i dancing
+[18:36:03] LV: do you see the laser
+[18:36:07] DrDerpenstein: yes
+[18:36:32] LV: /agenda
+[18:36:40] LV: i have no agenda
+[18:36:51] DrDerpenstein: mayor needs to mae wone
+[18:36:58] LV: oh
+[18:37:22] LV: /agenda work
+[18:37:34] DrDerpenstein: /agenda go do stuff
+[18:37:54] LV: what is that
+[18:39:22] DrDerpenstein killed LV using weapon_fists
+[18:39:39] LV: how did you do that
+[18:39:45] LV: fine
+[18:39:59] LV: oh
+[18:40:48] LV: bye
+[18:40:57] LV: bye
+[18:41:09] LV: i think i know the command
+[18:41:13] LV: !goto derp
+[18:41:13] LV teleported to Derp
+[18:41:17] LV: Bye
+[18:41:20] Derp: why
+[18:41:24] LV: i have to go
+[18:41:25] Derp: oh
+[18:41:29] Derp: alright man catch u later
+[18:41:34] LV: i will be on tommorow
+[18:41:36] Derp: sounds good
+[18:41:43] Derp: cya
+[18:41:46] Derp suicided!
+[18:41:54] LV: bye
+[18:41:56] Dropped "LV" from server<STEAM_0:0:460419170>
+[18:42:35] Derp<STEAM_0:0:52504530> used the tool duplicator on models/zerochain/props_vendingmachine/zvm_machine.mdl
+[18:42:36] Derp<STEAM_0:0:52504530> used the tool duplicator on maps/rp_downtown_tits_v2.bsp
+[18:42:47] Derp: !savezvm
+[18:45:45] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_rape
+[19:07:35] Derp<STEAM_0:0:52504530> spawned/gave himself swep cw_nen_berettapx4
+[19:07:47] Derp<STEAM_0:0:52504530> spawned/gave himself swep cw_nen_berettapx4
+[19:11:36] Dropped "Derp" from server<STEAM_0:0:52504530>
+[19:11:37] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_gpee
+[19:18:21] Client "fwop.memes" connected.
+[19:19:24] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_crossbow
+[19:19:29] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[19:19:31] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_grenade
+[19:19:39] DrDerpenstein<STEAM_0:0:13562763> spawned effect models/weapons/shell.mdl
+[19:19:49] DrDerpenstein<STEAM_0:0:13562763> spawned model models/weapons/w_eq_eholster_elite.mdl
+[19:19:57] DrDerpenstein<STEAM_0:0:13562763> spawned model models/weapons/w_pist_elite_dropped.mdl
+[19:19:58] DrDerpenstein<STEAM_0:0:13562763> spawned effect models/weapons/shotgun_shell.mdl
+[19:19:59] DrDerpenstein<STEAM_0:0:13562763> spawned effect models/weapons/rifleshell.mdl
+[19:20:03] DrDerpenstein<STEAM_0:0:13562763> spawned model models/weapons/w_pist_elite.mdl
+[19:20:04] DrDerpenstein<STEAM_0:0:13562763> spawned model models/weapons/w_pist_elite_dropped.mdl
+[19:20:19] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props/cs_office/trash_can_p8.mdl
+[19:20:24] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props/cs_office/projector.mdl
+[19:20:50] DrDerpenstein<STEAM_0:0:13562763> spawned model models/items/crossbowrounds.mdl
+[19:20:55] DrDerpenstein<STEAM_0:0:13562763> spawned effect models/items/flare.mdl
+[19:21:01] DrDerpenstein<STEAM_0:0:13562763> spawned effect models/items/boxflares.mdl
+[19:21:06] DrDerpenstein: models/Items/BoxFlares.mdl
+[19:30:47] Dropped "DrDerpenstein" from server<STEAM_0:0:13562763>
+[20:15:40] Client "Vibes" connected.
+[20:19:34] Client "Vibes" spawned in server <STEAM_0:1:180882884> (took 234 seconds).
+[20:24:38] Dropped "Vibes" from server<STEAM_0:1:180882884>
+[20:36:51] Client "DrDerpenstein sups.gg" connected.
+[20:37:25] Client "DrDerpenstein sups.gg" spawned in server <STEAM_0:0:13562763> (took 34 seconds).
+[20:37:38] Dropped "DrDerpenstein" from server<STEAM_0:0:13562763>
+
+
+
+[20:54:16] New map: rp_downtown_tits_v2
+[20:54:26] Client "DrDerpenstein sups.gg" connected.
+[20:54:54] Client "DrDerpenstein sups.gg" spawned in server <STEAM_0:0:13562763> (took 28 seconds).
+[20:55:29] DrDerpenstein<STEAM_0:0:13562763> spawned sent lean_barrel
+[20:55:31] DrDerpenstein<STEAM_0:0:13562763> spawned sent lean_cup
+[20:55:53] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_stungun
+[20:55:54] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_rape
+[20:56:08] Client "Bot01" connected.
+[20:56:08] Client "Bot01" spawned in server <BOT> (took 147 seconds).
+[20:56:27] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_ak74
+[20:56:27] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_flash_grenade
+[20:56:27] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_scarh
+[20:56:28] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_g3a3
+[20:56:28] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_makarov
+[20:56:29] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_m3super90
+[20:56:29] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_ar15
+[20:57:45] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[20:57:48] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[20:58:37] Bot01 suicided!
+[20:59:24] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_357
+[20:59:48] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_357
+[20:59:48] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_357
+[20:59:48] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_357
+[20:59:48] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_357
+[20:59:49] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_357
+[20:59:49] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_357
+[20:59:49] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_357
+[20:59:49] DrDerpenstein<STEAM_0:0:13562763> spawned/used swep weapon_rpg -=RESTRICTED=-
+[21:03:04] Client "Bot02" connected.
+[21:03:04] Client "Bot02" spawned in server <BOT> (took 563 seconds).
+[21:03:17] DrDerpenstein killed Bot02 using player
+[21:04:01] DrDerpenstein killed Bot02 using player
+[21:04:24] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[21:04:29] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[21:05:00] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[21:05:00] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[21:05:02] Bot02 was killed by prop_physics
+[21:05:17] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_m249_official
+[21:05:30] DrDerpenstein<STEAM_0:0:13562763> spawned model models/hunter/tubes/circle2x2c.mdl
+[21:06:03] DrDerpenstein<STEAM_0:0:13562763> used the tool stacker_improved on models/hunter/tubes/circle2x2c.mdl
+[21:06:03] DrDerpenstein<STEAM_0:0:13562763> spawned model models/hunter/tubes/circle2x2c.mdl
+[21:06:14] DrDerpenstein<STEAM_0:0:13562763> used the tool stacker_improved on models/hunter/tubes/circle2x2c.mdl
+[21:06:14] DrDerpenstein<STEAM_0:0:13562763> spawned model models/hunter/tubes/circle2x2c.mdl
+[21:06:25] DrDerpenstein<STEAM_0:0:13562763> used the tool stacker_improved on models/hunter/tubes/circle2x2c.mdl
+[21:06:25] DrDerpenstein<STEAM_0:0:13562763> spawned model models/hunter/tubes/circle2x2c.mdl
+[21:06:26] DrDerpenstein<STEAM_0:0:13562763> used the tool stacker_improved on models/hunter/tubes/circle2x2c.mdl
+[21:06:26] DrDerpenstein<STEAM_0:0:13562763> spawned model models/hunter/tubes/circle2x2c.mdl
+[21:06:39] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[21:06:39] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[21:06:39] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[21:06:39] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[21:06:39] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[21:06:39] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[21:06:40] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[21:06:40] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_large
+[21:06:41] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_large
+[21:06:41] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_large
+[21:06:41] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_pistol_large
+[21:06:41] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_pistol_large
+[21:06:42] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_pistol_large
+[21:06:42] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_357_large
+[21:06:43] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[21:06:43] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_crossbow
+[21:07:08] DrDerpenstein killed Bot01 using player
+[21:07:41] DrDerpenstein<STEAM_0:0:13562763> used the tool stacker_improved on models/hunter/tubes/circle2x2c.mdl
+[21:07:41] DrDerpenstein<STEAM_0:0:13562763> spawned model models/hunter/tubes/circle2x2c.mdl
+[21:08:06] DrDerpenstein<STEAM_0:0:13562763> used the tool stacker_improved on models/hunter/tubes/circle2x2c.mdl
+[21:08:06] DrDerpenstein<STEAM_0:0:13562763> spawned model models/hunter/tubes/circle2x2c.mdl
+[21:08:34] DrDerpenstein killed Bot01 using player
+[21:08:35] DrDerpenstein killed Bot02 using player
+[21:13:42] Dropped "Bot02" from server<BOT>
+[21:13:47] Dropped "Bot01" from server<BOT>
+[21:13:59] DrDerpenstein: !
+[21:14:02] DrDerpenstein<STEAM_0:0:13562763> spawned model models/hunter/blocks/cube1x150x1.mdl
+[21:14:04] DrDerpenstein<STEAM_0:0:13562763> spawned model models/hunter/tubes/tube1x1x3.mdl
+[21:14:21] DrDerpenstein: !
+[21:14:23] DrDerpenstein<STEAM_0:0:13562763> spawned model models/hunter/blocks/cube075x075x025.mdl
+[21:14:37] DrDerpenstein: !apg
+[21:15:16] DrDerpenstein: !apg
+[21:16:09] DrDerpenstein: sw_blue-x11_blue
+[21:16:12] DrDerpenstein: sw_blue-x14_normal
+[21:16:15] DrDerpenstein: !apg
+[21:16:22] DrDerpenstein<STEAM_0:0:13562763> spawned vehicle models/sligwolf/tractor/tractor.mdl
+[21:16:33] DrDerpenstein: !apg
+[21:16:52] DrDerpenstein<STEAM_0:0:13562763> spawned vehicle models/sligwolf/tractor/tractor.mdl
+[21:17:08] DrDerpenstein<STEAM_0:0:13562763> used the tool remover on *260
+[21:17:09] DrDerpenstein<STEAM_0:0:13562763> used the tool remover on *261
+[21:17:21] DrDerpenstein<STEAM_0:0:13562763> spawned vehicle models/sligwolf/tractor/tractor.mdl
+[21:17:39] DrDerpenstein: !apg
+[21:17:57] DrDerpenstein<STEAM_0:0:13562763> spawned model models/hunter/blocks/cube1x150x1.mdl
+[21:18:13] DrDerpenstein: !apg
+[21:18:30] DrDerpenstein: !apg
+[21:18:56] DrDerpenstein<STEAM_0:0:13562763> spawned model models/hunter/blocks/cube1x150x1.mdl
+[21:19:12] DrDerpenstein: !apg
+[21:19:52] DrDerpenstein: zwf_autopacker
+[21:20:55] DrDerpenstein: zwf_autopacker
+[21:20:57] DrDerpenstein: !apg
+[21:21:43] DrDerpenstein<STEAM_0:0:13562763> spawned vehicle models/sligwolf/tractor/tractor.mdl
+[21:22:18] DrDerpenstein: !apg
+[21:24:47] DrDerpenstein<STEAM_0:0:13562763> spawned vehicle models/sligwolf/tractor/tractor.mdl
+[21:25:20] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep gas_log_scanner
+[21:25:30] DrDerpenstein: gas_log_scanner
+[21:27:03] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_ak472
+[21:27:17] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[21:27:17] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[21:27:17] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[21:27:17] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[21:27:18] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[21:27:18] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[21:27:18] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[21:27:18] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[21:27:19] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_357_large
+[21:27:19] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_357_large
+[21:27:19] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_357_large
+[21:27:19] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_large
+[21:27:19] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_large
+[21:27:20] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_large
+[21:27:20] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_pistol_large
+[21:27:20] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_pistol_large
+[21:27:21] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_pistol_large
+[21:27:21] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_pistol_large
+[21:27:22] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[21:27:22] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[21:27:22] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[21:27:23] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[21:27:23] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[21:27:23] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[21:27:24] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_box_buckshot
+[21:27:24] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_box_buckshot
+[21:27:24] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_crossbow
+[21:27:24] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_crossbow
+[21:27:28] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_large
+[21:27:41] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_m42
+[21:27:50] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_mac102
+[21:27:56] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_glock2
+[21:28:22] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_keypadchecker
+[21:28:27] DrDerpenstein<STEAM_0:0:13562763> spawned model models/hunter/blocks/cube1x1x025.mdl
+[21:28:39] DrDerpenstein<STEAM_0:0:13562763> used the tool fading_door on models/hunter/blocks/cube1x1x025.mdl
+[21:28:43] DrDerpenstein<STEAM_0:0:13562763> used the tool keypad_willox on maps/rp_downtown_tits_v2.bsp
+[21:29:16] DrDerpenstein: weapon_keypadchecker
+[21:30:16] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep swep_frag
+[21:30:22] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep swep_crossbow
+[21:30:35] DrDerpenstein: swep_crossbow
+[21:30:40] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep swep_base
+[21:30:47] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep swep_grenade
+[21:31:15] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_nmrih_molotov
+[21:34:24] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_ninjaskunai
+[21:37:26] DrDerpenstein suicided!
+[21:37:35] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_357_large
+[21:37:35] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_357_large
+[21:37:36] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_357_large
+[21:37:36] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_357_large
+[21:37:36] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_large
+[21:37:36] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_large
+[21:37:36] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_large
+[21:37:37] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_large
+[21:37:37] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_large
+[21:37:37] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[21:37:37] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[21:37:37] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[21:37:38] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[21:37:38] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[21:37:38] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_altfire
+[21:37:38] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_altfire
+[21:37:38] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_altfire
+[21:37:39] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_pistol
+[21:37:39] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_pistol
+[21:37:39] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_pistol
+[21:37:39] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_pistol
+[21:37:39] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_pistol_large
+[21:37:39] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_pistol_large
+[21:37:39] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_pistol_large
+[21:37:40] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[21:37:40] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[21:37:40] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[21:37:40] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_crossbow
+[21:37:41] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_box_buckshot
+[21:37:41] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_box_buckshot
+[21:37:41] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_box_buckshot
+[21:37:41] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_box_buckshot
+[21:37:42] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[21:37:42] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[21:37:42] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[21:37:42] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_grenade
+[21:37:43] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_grenade
+[21:37:43] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[21:37:44] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[21:37:44] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[21:37:44] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[21:37:44] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[21:37:54] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_m249_official
+[21:38:31] Client "Bot03" connected.
+[21:38:31] Client "Bot03" spawned in server <BOT> (took 2690 seconds).
+[21:39:09] DrDerpenstein killed Bot03 using player
+[21:39:16] Dropped "Bot03" from server<BOT>
+[21:41:05] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_nmrih_molotov
+[21:41:05] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_nmrih_molotov
+[21:41:05] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_nmrih_molotov
+[21:41:05] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_nmrih_molotov
+[21:41:05] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_nmrih_molotov
+[21:41:06] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_nmrih_molotov
+[21:41:06] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_nmrih_molotov
+[21:41:06] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_nmrih_molotov
+[21:41:06] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_nmrih_molotov
+[21:41:06] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_nmrih_molotov
+[21:41:07] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_nmrih_molotov
+[21:41:07] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_nmrih_molotov
+[21:41:07] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_nmrih_molotov
+[21:41:07] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_nmrih_molotov
+[21:41:08] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_nmrih_molotov
+[21:41:08] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_nmrih_molotov
+[21:43:10] Dropped "DrDerpenstein" from server<STEAM_0:0:13562763>
+[21:43:46] Client "DrDerpenstein sups.gg" connected.
+[21:44:13] Client "DrDerpenstein sups.gg" spawned in server <STEAM_0:0:13562763> (took 27 seconds).
+[21:45:07] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_nmrih_molotov
+[21:45:11] DrDerpenstein<STEAM_0:0:13562763> spawned sent rj_molotov_ammo
+[21:45:13] DrDerpenstein<STEAM_0:0:13562763> spawned sent rj_molotov_ammo
+[21:45:13] DrDerpenstein<STEAM_0:0:13562763> spawned sent rj_molotov_ammo
+[21:45:13] DrDerpenstein<STEAM_0:0:13562763> spawned sent rj_molotov_ammo
+[21:45:13] DrDerpenstein<STEAM_0:0:13562763> spawned sent rj_molotov_ammo
+[21:47:21] Dropped "DrDerpenstein" from server<STEAM_0:0:13562763>
+[21:47:24] Client "DrDerpenstein sups.gg" connected.
+[21:47:46] Client "DrDerpenstein sups.gg" spawned in server <STEAM_0:0:13562763> (took 22 seconds).
+[21:48:05] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_nmrih_molotov
+[21:52:16] Dropped "DrDerpenstein" from server<STEAM_0:0:13562763>
+[21:58:22] Client "garnat05" connected.
+[21:58:49] Client "garnat05" connected.

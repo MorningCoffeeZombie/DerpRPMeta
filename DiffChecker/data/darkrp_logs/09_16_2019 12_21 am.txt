@@ -1,0 +1,73 @@
+Mon Sep 16 00:21:39 2019	Derp (STEAM_0:0:52504530) has joined the game
+Mon Sep 16 00:21:39 2019	Derp (STEAM_0:0:52504530) spawned
+Mon Sep 16 00:22:11 2019	Stromic | Hellstorm.io (STEAM_0:0:213816357) has joined the game
+Mon Sep 16 00:22:11 2019	Stromic | Hellstorm.io (STEAM_0:0:213816357) spawned
+Mon Sep 16 00:22:28 2019	Stromic | Hellstorm.io (STEAM_0:0:213816357) disconnected
+Mon Sep 16 00:22:34 2019	Sukebena-Chan (STEAM_0:1:63382511) has joined the game
+Mon Sep 16 00:22:34 2019	Bexgasm~ (STEAM_0:1:63382511) spawned
+Mon Sep 16 00:23:08 2019	Derp (STEAM_0:0:52504530): look how much more smoother it is
+Mon Sep 16 00:23:15 2019	Derp (STEAM_0:0:52504530): pvault is gone permanently
+Mon Sep 16 00:23:17 2019	Derp (STEAM_0:0:52504530): fuck outta here
+Mon Sep 16 00:23:21 2019	Bexgasm~ (STEAM_0:1:63382511): // L
+Mon Sep 16 00:23:35 2019	Derp (STEAM_0:0:52504530): im not even gonna bother putting in the payday mod because we are changing maps soon
+Mon Sep 16 00:23:38 2019	Derp (STEAM_0:0:52504530): it would be a waste of time
+Mon Sep 16 00:23:40 2019	Jebediah Giovanna ;) (STEAM_0:1:161611161) has joined the game
+Mon Sep 16 00:23:40 2019	jebediah (STEAM_0:1:161611161) spawned
+Mon Sep 16 00:24:29 2019	Derp (STEAM_0:0:52504530): i might add mgangs2 at some point
+Mon Sep 16 00:24:43 2019	Derp (STEAM_0:0:52504530): its like party systems taken up to 11
+Mon Sep 16 00:25:06 2019	Derp (STEAM_0:0:52504530): u can start an organization and have a stash of weapons and even have ur gangs name next to ur name
+Mon Sep 16 00:26:42 2019	Derp (STEAM_0:0:52504530): one time i threw the lamp shade in the air and it landed perfectly on my head upright and everything
+Mon Sep 16 00:26:56 2019	Derp (STEAM_0:0:52504530): like that
+Mon Sep 16 00:32:11 2019	jebediah was killed by Bexgasm~ with a cw_m3super90
+Mon Sep 16 00:32:17 2019	jebediah (STEAM_0:1:161611161) spawned
+Mon Sep 16 00:32:36 2019	jebediah was killed by Bexgasm~ with a weapon_fists
+Mon Sep 16 00:32:38 2019	jebediah (STEAM_0:1:161611161) spawned
+Mon Sep 16 00:33:12 2019	jebediah was killed by Bexgasm~ with a weapon_fists
+Mon Sep 16 00:33:14 2019	jebediah (STEAM_0:1:161611161) spawned
+Mon Sep 16 00:33:45 2019	Bexgasm~ (STEAM_0:1:63382511) disconnected
+Mon Sep 16 00:33:48 2019	jebediah (STEAM_0:1:161611161) disconnected
+Mon Sep 16 00:33:58 2019	Derp (STEAM_0:0:52504530) disconnected
+Mon Sep 16 03:31:16 2019	DevL (STEAM_0:0:97157625) has joined the game
+Mon Sep 16 03:31:16 2019	DevL (STEAM_0:0:97157625) spawned
+Mon Sep 16 03:33:39 2019	DevL (STEAM_0:0:97157625) spawned
+Mon Sep 16 03:41:02 2019	DevL (STEAM_0:0:97157625) spawned
+Mon Sep 16 03:53:31 2019	DevL (STEAM_0:0:97157625) spawned
+Mon Sep 16 03:59:14 2019	DevL (STEAM_0:0:97157625) spawned
+Mon Sep 16 04:49:13 2019	DevL (STEAM_0:0:97157625) spawned
+Mon Sep 16 04:59:19 2019	DevL (STEAM_0:0:97157625): 
+Mon Sep 16 04:59:23 2019	DevL (STEAM_0:0:97157625): 
+Mon Sep 16 04:59:25 2019	DevL (STEAM_0:0:97157625): !casino
+Mon Sep 16 04:59:32 2019	DevL (STEAM_0:0:97157625): !motd
+Mon Sep 16 04:59:38 2019	DevL (STEAM_0:0:97157625): 
+Mon Sep 16 05:00:10 2019	DevL (STEAM_0:0:97157625): !motd
+Mon Sep 16 05:02:47 2019	DevL (STEAM_0:0:97157625): 
+Mon Sep 16 05:02:50 2019	DevL (STEAM_0:0:97157625) disconnected
+Mon Sep 16 05:07:42 2019	DevL (STEAM_0:0:97157625) has joined the game
+Mon Sep 16 05:07:43 2019	DevL (STEAM_0:0:97157625) spawned
+Mon Sep 16 05:08:11 2019	DevL (STEAM_0:0:97157625): 
+Mon Sep 16 05:09:29 2019	DevL (STEAM_0:0:97157625): 
+Mon Sep 16 05:16:08 2019	DevL (STEAM_0:0:97157625) disconnected
+Mon Sep 16 05:18:16 2019	DevL (STEAM_0:0:97157625) has joined the game
+Mon Sep 16 05:18:16 2019	DevL (STEAM_0:0:97157625) spawned
+Mon Sep 16 05:20:31 2019	DevL (STEAM_0:0:97157625): 
+Mon Sep 16 05:45:53 2019	DevL (STEAM_0:0:97157625) disconnected
+Mon Sep 16 05:54:59 2019	DevL (STEAM_0:0:97157625) has joined the game
+Mon Sep 16 05:54:59 2019	DevL (STEAM_0:0:97157625) spawned
+Mon Sep 16 05:58:03 2019	DevL was killed by Himself with a suicide trick
+Mon Sep 16 05:58:04 2019	DevL (STEAM_0:0:97157625) spawned
+Mon Sep 16 05:58:16 2019	DevL was killed by Himself with a suicide trick
+Mon Sep 16 05:58:17 2019	DevL (STEAM_0:0:97157625) spawned
+Mon Sep 16 05:58:22 2019	DevL was killed by Himself with a suicide trick
+Mon Sep 16 05:58:23 2019	DevL (STEAM_0:0:97157625) spawned
+Mon Sep 16 05:58:28 2019	DevL was killed by Himself with a suicide trick
+Mon Sep 16 05:58:29 2019	DevL (STEAM_0:0:97157625) spawned
+Mon Sep 16 06:57:34 2019	DevL was killed by Himself with a suicide trick
+Mon Sep 16 14:25:20 2019	Derp (STEAM_0:0:52504530) has joined the game
+Mon Sep 16 14:25:20 2019	Derp (STEAM_0:0:52504530) spawned
+Mon Sep 16 14:27:38 2019	Derp (STEAM_0:0:52504530) spawned
+Mon Sep 16 14:28:23 2019	Derp (STEAM_0:0:52504530) spawned SENT zvm_machine
+Mon Sep 16 14:33:52 2019	Derp (STEAM_0:0:52504530): /drop
+Mon Sep 16 14:35:53 2019	Derp (STEAM_0:0:52504530): /drop
+Mon Sep 16 14:38:25 2019	Derp (STEAM_0:0:52504530): !savezvm
+Mon Sep 16 14:50:52 2019	Derp was killed by Entity [0][worldspawn] with a unknown
+Mon Sep 16 14:50:53 2019	Derp (STEAM_0:0:52504530) disconnected

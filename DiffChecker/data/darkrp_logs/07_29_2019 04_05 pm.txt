@@ -1,0 +1,947 @@
+Mon Jul 29 16:05:11 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978) has joined the game
+Mon Jul 29 16:05:11 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978) spawned
+Mon Jul 29 16:05:44 2019	LV (STEAM_0:0:460419170) has joined the game
+Mon Jul 29 16:05:44 2019	LV (STEAM_0:0:460419170) spawned
+Mon Jul 29 16:07:04 2019	Captain Fruitcake (STEAM_0:0:62003849) has joined the game
+Mon Jul 29 16:07:04 2019	Captain Fruitcake (STEAM_0:0:62003849) spawned
+Mon Jul 29 16:11:47 2019	(͠≖ ͜ʖ͠≖) (STEAM_0:1:95023662) has joined the game
+Mon Jul 29 16:11:47 2019	NUT (STEAM_0:1:95023662) spawned
+Mon Jul 29 16:12:30 2019	Captain Fruitcake (STEAM_0:0:62003849): /dropmoney 10000
+Mon Jul 29 16:12:31 2019	Captain Fruitcake (STEAM_0:0:62003849) has dropped $10,000
+Mon Jul 29 16:15:04 2019	NUT (STEAM_0:1:95023662): /prof
+Mon Jul 29 16:16:00 2019	LV (STEAM_0:0:460419170) spawned Vehicle prop_vehicle_jeep (civic97tdm)
+Mon Jul 29 16:16:21 2019	LV (STEAM_0:0:460419170) spawned Vehicle prop_vehicle_jeep (fer_lafertdm)
+Mon Jul 29 16:16:43 2019	LV (STEAM_0:0:460419170) spawned Vehicle prop_vehicle_jeep (civic97tdm)
+Mon Jul 29 16:18:47 2019	LV (STEAM_0:0:460419170): /unownalldoors
+Mon Jul 29 16:23:09 2019	LV (STEAM_0:0:460419170): !vcmod
+Mon Jul 29 16:23:32 2019	LV (STEAM_0:0:460419170): !vcmod
+Mon Jul 29 16:25:20 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978) spawned Vehicle prop_vehicle_jeep (mp412cgt3tdm)
+Mon Jul 29 16:25:56 2019	Captain Fruitcake (STEAM_0:0:62003849) spawned Vehicle prop_vehicle_jeep (fer_lafertdm)
+Mon Jul 29 16:25:59 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978) spawned Vehicle prop_vehicle_jeep (fer_lafertdm)
+Mon Jul 29 16:28:26 2019	snipergodfrost l ham mafia l was killed by Entity [0][worldspawn] with a unknown
+Mon Jul 29 16:28:32 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978) spawned
+Mon Jul 29 16:32:14 2019	snipergodfrost l ham mafia l was killed by Captain Fruitcake with a prop_vehicle_jeep
+Mon Jul 29 16:32:18 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978) spawned
+Mon Jul 29 16:32:29 2019	snipergodfrost l ham mafia l was killed by Captain Fruitcake with a prop_vehicle_jeep
+Mon Jul 29 16:32:32 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978) spawned
+Mon Jul 29 16:34:29 2019	LV (STEAM_0:0:460419170): /invholster
+Mon Jul 29 16:34:32 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978) spawned Vehicle prop_vehicle_jeep (mp412cgt3tdm)
+Mon Jul 29 16:34:50 2019	Captain Fruitcake (STEAM_0:0:62003849) spawned Vehicle prop_vehicle_jeep (fer_lafertdm)
+Mon Jul 29 16:35:27 2019	Captain Fruitcake (STEAM_0:0:62003849) spawned Vehicle prop_vehicle_jeep (fer_lafertdm)
+Mon Jul 29 16:36:49 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978) spawned Vehicle prop_vehicle_jeep (mp412cgt3tdm)
+Mon Jul 29 16:38:46 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978) spawned Vehicle prop_vehicle_jeep (mp412cgt3tdm)
+Mon Jul 29 16:39:12 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978) spawned Vehicle prop_vehicle_jeep (mp412cgt3tdm)
+Mon Jul 29 16:39:48 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978) spawned Vehicle prop_vehicle_jeep (mp412cgt3tdm)
+Mon Jul 29 16:40:26 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978) spawned Vehicle prop_vehicle_jeep (fer_lafertdm)
+Mon Jul 29 16:42:37 2019	Captain Fruitcake was killed by Entity [0][worldspawn] with a unknown
+Mon Jul 29 16:42:48 2019	Captain Fruitcake (STEAM_0:0:62003849) spawned
+Mon Jul 29 16:45:21 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): /invholster
+Mon Jul 29 16:45:23 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): /invholster
+Mon Jul 29 16:48:05 2019	LV (STEAM_0:0:460419170): /pm sniper hey sniper what do you need
+Mon Jul 29 16:48:20 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): Help with my car
+Mon Jul 29 16:48:58 2019	LV (STEAM_0:0:460419170): what
+Mon Jul 29 16:49:01 2019	snipergodfrost l ham mafia l was killed by Captain Fruitcake with a fas2_uzi
+Mon Jul 29 16:49:06 2019	LV (STEAM_0:0:460419170): fruitcake
+Mon Jul 29 16:49:11 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978) spawned
+Mon Jul 29 16:49:22 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): /ooc tele me back
+Mon Jul 29 16:49:44 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): /ooc dude
+Mon Jul 29 16:49:45 2019	snipergodfrost l ham mafia l was killed by LV with a prop_vehicle_jeep
+Mon Jul 29 16:49:55 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): /ooc nice rdm
+Mon Jul 29 16:49:55 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978) spawned
+Mon Jul 29 16:49:56 2019	LV (STEAM_0:0:460419170): // i am sorry
+Mon Jul 29 16:50:22 2019	Captain Fruitcake (STEAM_0:0:62003849) spawned Vehicle prop_vehicle_jeep (fer_lafertdm)
+Mon Jul 29 16:50:22 2019	LV (STEAM_0:0:460419170): // go to spawn
+Mon Jul 29 16:50:41 2019	LV (STEAM_0:0:460419170): get in
+Mon Jul 29 16:50:43 2019	LV (STEAM_0:0:460419170): get in
+Mon Jul 29 16:50:52 2019	LV (STEAM_0:0:460419170): /pm sniper sniper get in
+Mon Jul 29 16:50:57 2019	LV (STEAM_0:0:460419170): /pm sniper sniper get in
+Mon Jul 29 16:51:11 2019	LV (STEAM_0:0:460419170): /pm sniper sniper get in
+Mon Jul 29 16:51:12 2019	snipergodfrost l ham mafia l was killed by Captain Fruitcake with a fas2_uzi
+Mon Jul 29 16:51:17 2019	LV (STEAM_0:0:460419170): /pm sniper sniper get in
+Mon Jul 29 16:51:17 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978) spawned
+Mon Jul 29 16:51:32 2019	LV (STEAM_0:0:460419170):  sniper get in
+Mon Jul 29 16:51:33 2019	Captain Fruitcake (STEAM_0:0:62003849): /drop
+Mon Jul 29 16:51:56 2019	LV (STEAM_0:0:460419170): get in the car
+Mon Jul 29 16:52:28 2019	LV (STEAM_0:0:460419170): i want to drive
+Mon Jul 29 16:52:31 2019	LV (STEAM_0:0:460419170): please
+Mon Jul 29 16:52:40 2019	Captain Fruitcake was killed by snipergodfrost l ham mafia l with a fas2_rem870
+Mon Jul 29 16:52:41 2019	LV (STEAM_0:0:460419170): fix tire
+Mon Jul 29 16:52:43 2019	Captain Fruitcake (STEAM_0:0:62003849) spawned Vehicle prop_vehicle_jeep (fer_lafertdm)
+Mon Jul 29 16:52:45 2019	Captain Fruitcake (STEAM_0:0:62003849) spawned
+Mon Jul 29 16:52:48 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978) spawned Vehicle prop_vehicle_jeep (mp412cgt3tdm)
+Mon Jul 29 16:53:06 2019	LV (STEAM_0:0:460419170): i cant i am mod not admin
+Mon Jul 29 16:53:09 2019	LV (STEAM_0:0:460419170): i cant i am mod not admin
+Mon Jul 29 16:53:16 2019	snipergodfrost l ham mafia l was killed by Captain Fruitcake with a fas2_glock20
+Mon Jul 29 16:53:19 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): 
+Mon Jul 29 16:53:27 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978) spawned
+Mon Jul 29 16:53:39 2019	LV (STEAM_0:0:460419170): i got a report
+Mon Jul 29 16:53:52 2019	LV (STEAM_0:0:460419170): some one reported you for rdm
+Mon Jul 29 16:54:02 2019	LV (STEAM_0:0:460419170): i think rdm is perm ban
+Mon Jul 29 16:54:13 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): 
+Mon Jul 29 16:54:24 2019	LV (STEAM_0:0:460419170): on the loading screen it says random killing is perm ban
+Mon Jul 29 16:54:28 2019	LV (STEAM_0:0:460419170): he reported
+Mon Jul 29 16:54:32 2019	LV (STEAM_0:0:460419170): !bring sniper
+Mon Jul 29 16:54:40 2019	LV (STEAM_0:0:460419170): why did you report
+Mon Jul 29 16:54:53 2019	Captain Fruitcake was killed by snipergodfrost l ham mafia l with a fas2_m4a1
+Mon Jul 29 16:54:55 2019	LV (STEAM_0:0:460419170): ok
+Mon Jul 29 16:54:58 2019	Captain Fruitcake (STEAM_0:0:62003849): dont ban hiom
+Mon Jul 29 16:54:59 2019	Captain Fruitcake (STEAM_0:0:62003849) spawned
+Mon Jul 29 16:55:04 2019	Captain Fruitcake (STEAM_0:0:62003849): /ooc dont ban him
+Mon Jul 29 16:56:04 2019	LV (STEAM_0:0:460419170) spawned Vehicle prop_vehicle_jeep (deloreantdm)
+Mon Jul 29 16:56:38 2019	LV (STEAM_0:0:460419170) spawned Vehicle prop_vehicle_jeep (deloreantdm)
+Mon Jul 29 16:57:08 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978) spawned Vehicle prop_vehicle_jeep (fer_lafertdm)
+Mon Jul 29 16:58:23 2019	Captain Fruitcake (STEAM_0:0:62003849) spawned Vehicle prop_vehicle_jeep (fer_lafertdm)
+Mon Jul 29 17:00:12 2019	Captain Fruitcake (STEAM_0:0:62003849): /drop
+Mon Jul 29 17:00:41 2019	LV (STEAM_0:0:460419170) spawned Vehicle prop_vehicle_jeep (dod_ram_1500tdm)
+Mon Jul 29 17:01:09 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): /invholster
+Mon Jul 29 17:01:11 2019	Captain Fruitcake (STEAM_0:0:62003849): /drop
+Mon Jul 29 17:01:17 2019	Captain Fruitcake (STEAM_0:0:62003849): /gundealer
+Mon Jul 29 17:01:20 2019	Captain Fruitcake (STEAM_0:0:62003849): /gun
+Mon Jul 29 17:01:38 2019	Captain Fruitcake (STEAM_0:0:62003849): /robber
+Mon Jul 29 17:02:05 2019	Captain Fruitcake was killed by Himself with a suicide trick
+Mon Jul 29 17:02:08 2019	Captain Fruitcake (STEAM_0:0:62003849) spawned
+Mon Jul 29 17:03:04 2019	snipergodfrost l ham mafia l was killed by Captain Fruitcake with a fas2_deagle
+Mon Jul 29 17:03:12 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978) spawned
+Mon Jul 29 17:04:02 2019	LV (STEAM_0:0:460419170): can i help
+Mon Jul 29 17:04:30 2019	LV (STEAM_0:0:460419170): 5 people
+Mon Jul 29 17:04:34 2019	LV (STEAM_0:0:460419170): or cops
+Mon Jul 29 17:04:49 2019	LV (STEAM_0:0:460419170): we need one more person on
+Mon Jul 29 17:05:40 2019	LV (STEAM_0:0:460419170): no kos sign
+Mon Jul 29 17:05:48 2019	LV (STEAM_0:0:460419170): no kos sign
+Mon Jul 29 17:05:59 2019	LV (STEAM_0:0:460419170): want to base with me
+Mon Jul 29 17:06:07 2019	LV (STEAM_0:0:460419170): i wont steal
+Mon Jul 29 17:06:11 2019	LV (STEAM_0:0:460419170): trust me
+Mon Jul 29 17:06:20 2019	LV (STEAM_0:0:460419170): can i come in i see printers
+Mon Jul 29 17:06:38 2019	LV (STEAM_0:0:460419170): the sparks
+Mon Jul 29 17:06:47 2019	Captain Fruitcake (STEAM_0:0:62003849) spawned
+Mon Jul 29 17:06:47 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978) arrested Captain Fruitcake
+Mon Jul 29 17:06:53 2019	LV (STEAM_0:0:460419170) spawned
+Mon Jul 29 17:06:53 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978) arrested LV
+Mon Jul 29 17:07:02 2019	LV (STEAM_0:0:460419170): captain
+Mon Jul 29 17:07:08 2019	Captain Fruitcake (STEAM_0:0:62003849): /ooc yea
+Mon Jul 29 17:07:22 2019	LV (STEAM_0:0:460419170): why was i arrested
+Mon Jul 29 17:07:26 2019	Captain Fruitcake (STEAM_0:0:62003849): idk
+Mon Jul 29 17:07:32 2019	Captain Fruitcake (STEAM_0:0:62003849): why was i arrested
+Mon Jul 29 17:07:46 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): /ooc tele me to you LV
+Mon Jul 29 17:08:21 2019	LV (STEAM_0:0:460419170): i dont know if i can do that
+Mon Jul 29 17:08:39 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): /ooc TELEPORT ME DUDE
+Mon Jul 29 17:09:07 2019	snipergodfrost l ham mafia l was killed by Captain Fruitcake with a fas2_deagle
+Mon Jul 29 17:09:16 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978) spawned
+Mon Jul 29 17:09:43 2019	LV (STEAM_0:0:460419170) spawned
+Mon Jul 29 17:09:43 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978) arrested LV
+Mon Jul 29 17:09:56 2019	LV (STEAM_0:0:460419170): why did you arrest me
+Mon Jul 29 17:09:59 2019	LV (STEAM_0:0:460419170): where are my guns
+Mon Jul 29 17:09:59 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978) unarrested LV
+Mon Jul 29 17:10:15 2019	snipergodfrost l ham mafia l was killed by Captain Fruitcake with a fas2_deagle
+Mon Jul 29 17:10:22 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978) spawned
+Mon Jul 29 17:10:48 2019	LV (STEAM_0:0:460419170): hey
+Mon Jul 29 17:10:59 2019	LV (STEAM_0:0:460419170): how do i put attachments on guns
+Mon Jul 29 17:11:09 2019	LV (STEAM_0:0:460419170): ow
+Mon Jul 29 17:12:15 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): /invholster
+Mon Jul 29 17:13:11 2019	LV (STEAM_0:0:460419170): raid my base let me get in first though
+Mon Jul 29 17:13:16 2019	LV (STEAM_0:0:460419170): /invholster
+Mon Jul 29 17:13:53 2019	LV (STEAM_0:0:460419170): /invholster
+Mon Jul 29 17:15:57 2019	LV (STEAM_0:0:460419170): /pm sniper are you going to?
+Mon Jul 29 17:16:29 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978) disconnected
+Mon Jul 29 17:17:35 2019	LV (STEAM_0:0:460419170): /invholster
+Mon Jul 29 17:18:09 2019	LV (STEAM_0:0:460419170): /invholster
+Mon Jul 29 17:19:14 2019	LV (STEAM_0:0:460419170): i told sniper to raid me to see how good my base is
+Mon Jul 29 17:19:30 2019	LV (STEAM_0:0:460419170): what is that
+Mon Jul 29 17:19:46 2019	LV (STEAM_0:0:460419170): how did you do that
+Mon Jul 29 17:19:50 2019	LV (STEAM_0:0:460419170): can you show me
+Mon Jul 29 17:19:55 2019	LV (STEAM_0:0:460419170): i have no printers
+Mon Jul 29 17:21:18 2019	LV (STEAM_0:0:460419170): what you just cut out
+Mon Jul 29 17:21:36 2019	LV (STEAM_0:0:460419170): where did you go
+Mon Jul 29 17:21:57 2019	LV (STEAM_0:0:460419170): thats not the right one
+Mon Jul 29 17:22:16 2019	LV (STEAM_0:0:460419170): i want that one to be sure
+Mon Jul 29 17:22:32 2019	LV (STEAM_0:0:460419170): which is that one
+Mon Jul 29 17:22:56 2019	LV (STEAM_0:0:460419170): angle?
+Mon Jul 29 17:23:07 2019	LV (STEAM_0:0:460419170): which folder in gates
+Mon Jul 29 17:23:39 2019	LV (STEAM_0:0:460419170): wheres that
+Mon Jul 29 17:25:03 2019	LV (STEAM_0:0:460419170): can you show me the auto collect though and where do you get the money
+Mon Jul 29 17:25:24 2019	LV (STEAM_0:0:460419170): you put your printer in top of the user
+Mon Jul 29 17:25:54 2019	LV (STEAM_0:0:460419170): how does some one get money if they raid
+Mon Jul 29 17:26:08 2019	LV (STEAM_0:0:460419170): oh
+Mon Jul 29 17:26:24 2019	LV (STEAM_0:0:460419170): ok thank you
+Mon Jul 29 17:27:03 2019	LV (STEAM_0:0:460419170): i cant drive
+Mon Jul 29 17:27:13 2019	LV (STEAM_0:0:460419170): 1
+Mon Jul 29 17:27:56 2019	LV (STEAM_0:0:460419170): do you know where sniper is
+Mon Jul 29 17:28:09 2019	LV (STEAM_0:0:460419170): oh he is gone
+Mon Jul 29 17:28:16 2019	LV (STEAM_0:0:460419170): oh
+Mon Jul 29 17:28:33 2019	LV (STEAM_0:0:460419170): you keep cutting out
+Mon Jul 29 17:28:53 2019	LV (STEAM_0:0:460419170): ok bye
+Mon Jul 29 17:29:28 2019	LV (STEAM_0:0:460419170): /pm nut hey nut can you come out here
+Mon Jul 29 17:30:30 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978) has joined the game
+Mon Jul 29 17:30:30 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978) spawned
+Mon Jul 29 17:31:13 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): /invholster
+Mon Jul 29 17:33:04 2019	LV (STEAM_0:0:460419170): /invholster
+Mon Jul 29 17:33:32 2019	LV (STEAM_0:0:460419170): fruitcake
+Mon Jul 29 17:33:39 2019	LV (STEAM_0:0:460419170): /pm fruit come here
+Mon Jul 29 17:34:40 2019	LV (STEAM_0:0:460419170): how do you have that
+Mon Jul 29 17:34:44 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): /invholster
+Mon Jul 29 17:34:46 2019	LV (STEAM_0:0:460419170): i need fruitcake
+Mon Jul 29 17:35:39 2019	LV (STEAM_0:0:460419170): /y fruitcake
+Mon Jul 29 17:35:44 2019	LV (STEAM_0:0:460419170): /y fruitcake
+Mon Jul 29 17:35:54 2019	LV (STEAM_0:0:460419170): printers
+Mon Jul 29 17:36:16 2019	LV (STEAM_0:0:460419170): whoops
+Mon Jul 29 17:36:28 2019	LV was killed by snipergodfrost l ham mafia l with a fas2_m4a1
+Mon Jul 29 17:36:50 2019	LV (STEAM_0:0:460419170): /pm sniper sniper you cant say kos you have to have it on a sign
+Mon Jul 29 17:36:51 2019	LV (STEAM_0:0:460419170) spawned
+Mon Jul 29 17:36:57 2019	Captain Fruitcake (STEAM_0:0:62003849): /dropmoney 3000000
+Mon Jul 29 17:36:58 2019	Captain Fruitcake (STEAM_0:0:62003849) has dropped $3,000,000
+Mon Jul 29 17:37:00 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): ?
+Mon Jul 29 17:39:03 2019	snipergodfrost l ham mafia l was killed by Entity [0][worldspawn] with a unknown
+Mon Jul 29 17:39:06 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978) spawned
+Mon Jul 29 17:39:58 2019	LV (STEAM_0:0:460419170): /invholster
+Mon Jul 29 17:40:46 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): /addlaw raiding is kos/aos
+Mon Jul 29 17:41:06 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): /addlaw licnese kos/aos
+Mon Jul 29 17:41:44 2019	LV (STEAM_0:0:460419170): you cant come in
+Mon Jul 29 17:42:14 2019	skeltron}666 (STEAM_0:1:427647876) has joined the game
+Mon Jul 29 17:42:14 2019	MedicGod (STEAM_0:1:427647876) spawned
+Mon Jul 29 17:42:35 2019	LV (STEAM_0:0:460419170): come in
+Mon Jul 29 17:42:45 2019	LV was killed by snipergodfrost l ham mafia l with a fas2_ks23
+Mon Jul 29 17:42:48 2019	LV (STEAM_0:0:460419170) spawned
+Mon Jul 29 17:43:21 2019	LV (STEAM_0:0:460419170): show me your license
+Mon Jul 29 17:43:32 2019	LV (STEAM_0:0:460419170): no license in the game
+Mon Jul 29 17:43:51 2019	LV (STEAM_0:0:460419170): show me your license so i can see what it looks like
+Mon Jul 29 17:44:21 2019	MedicGod (STEAM_0:1:427647876) disconnected
+Mon Jul 29 17:44:23 2019	LV (STEAM_0:0:460419170): no license
+Mon Jul 29 17:44:30 2019	LV (STEAM_0:0:460419170): no
+Mon Jul 29 17:44:43 2019	LV (STEAM_0:0:460419170): yes i have
+Mon Jul 29 17:44:51 2019	LV (STEAM_0:0:460419170): there were actual licenses
+Mon Jul 29 17:45:02 2019	LV (STEAM_0:0:460419170): can i have a gun license
+Mon Jul 29 17:45:04 2019	LV (STEAM_0:0:460419170): can i have a gun license
+Mon Jul 29 17:45:15 2019	LV (STEAM_0:0:460419170): /requestlicense
+Mon Jul 29 17:45:26 2019	LV (STEAM_0:0:460419170): i will give after
+Mon Jul 29 17:45:30 2019	LV (STEAM_0:0:460419170): please accept
+Mon Jul 29 17:45:40 2019	LV (STEAM_0:0:460419170): i will do 15
+Mon Jul 29 17:45:47 2019	LV (STEAM_0:0:460419170): 20
+Mon Jul 29 17:45:53 2019	LV (STEAM_0:0:460419170): 21
+Mon Jul 29 17:45:58 2019	LV (STEAM_0:0:460419170): 21.5
+Mon Jul 29 17:46:02 2019	LV (STEAM_0:0:460419170): 22
+Mon Jul 29 17:46:06 2019	LV (STEAM_0:0:460419170): deal
+Mon Jul 29 17:46:17 2019	LV (STEAM_0:0:460419170): /give 22000
+Mon Jul 29 17:46:20 2019	LV (STEAM_0:0:460419170): /give 22000
+Mon Jul 29 17:46:21 2019	LV (STEAM_0:0:460419170) has given $22,000 to snipergodfrost l ham mafia l (STEAM_0:0:462464978)
+Mon Jul 29 17:46:25 2019	LV (STEAM_0:0:460419170): /requestlicense
+Mon Jul 29 17:46:35 2019	LV (STEAM_0:0:460419170): make a law
+Mon Jul 29 17:46:46 2019	LV (STEAM_0:0:460419170): no guns in public without license
+Mon Jul 29 17:46:52 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): /addlaw without car liscense aos/kos
+Mon Jul 29 17:47:06 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): /invholster
+Mon Jul 29 17:47:24 2019	Captain Fruitcake was killed by snipergodfrost l ham mafia l with a fas2_rk95
+Mon Jul 29 17:47:26 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): /invholster
+Mon Jul 29 17:47:28 2019	Captain Fruitcake (STEAM_0:0:62003849) spawned
+Mon Jul 29 17:47:44 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): /addlaw raiding Captain base aos/kos
+Mon Jul 29 17:49:17 2019	LV (STEAM_0:0:460419170): /invholster
+Mon Jul 29 17:50:11 2019	LV (STEAM_0:0:460419170): /invholster
+Mon Jul 29 17:50:26 2019	LV (STEAM_0:0:460419170): /invholster
+Mon Jul 29 17:51:11 2019	LV (STEAM_0:0:460419170): /invholster
+Mon Jul 29 17:52:16 2019	LV (STEAM_0:0:460419170): /invholster
+Mon Jul 29 17:52:47 2019	Captain Fruitcake was killed by Himself with a suicide trick
+Mon Jul 29 17:52:51 2019	Captain Fruitcake (STEAM_0:0:62003849) spawned
+Mon Jul 29 17:52:57 2019	LV (STEAM_0:0:460419170): /invholster
+Mon Jul 29 17:53:21 2019	LV (STEAM_0:0:460419170): /invholster
+Mon Jul 29 17:53:55 2019	LV (STEAM_0:0:460419170): you shot me
+Mon Jul 29 17:53:56 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): /invholster
+Mon Jul 29 17:53:57 2019	LV (STEAM_0:0:460419170): /invholster
+Mon Jul 29 17:53:57 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): /invholster
+Mon Jul 29 17:54:03 2019	LV was killed by snipergodfrost l ham mafia l with a fas2_ks23
+Mon Jul 29 17:54:07 2019	LV (STEAM_0:0:460419170) spawned
+Mon Jul 29 17:54:32 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): /invholster
+Mon Jul 29 17:54:59 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): /ooc failrp
+Mon Jul 29 17:55:04 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): /ooc failrp
+Mon Jul 29 17:55:09 2019	LV (STEAM_0:0:460419170): /pm sniper how
+Mon Jul 29 17:55:10 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): /ooc nice one
+Mon Jul 29 17:55:21 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): /ooc because u can't respawn ur car like that
+Mon Jul 29 17:55:22 2019	LV (STEAM_0:0:460419170) spawned Vehicle prop_vehicle_jeep (civic97tdm)
+Mon Jul 29 17:55:34 2019	LV (STEAM_0:0:460419170): /pm sniper i didnt respawn i chose a new one
+Mon Jul 29 17:55:39 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): ...
+Mon Jul 29 17:55:46 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): /ooc still tho failrp
+Mon Jul 29 17:56:21 2019	LV (STEAM_0:0:460419170): /pm sniper no you cant tow or any thing
+Mon Jul 29 17:56:25 2019	LV (STEAM_0:0:460419170): /pm sniper how
+Mon Jul 29 17:56:45 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): /ooc dude u still can't do that plus i have it on recoring
+Mon Jul 29 17:56:50 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): /ooc recording*
+Mon Jul 29 17:56:53 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): /invholster
+Mon Jul 29 17:56:56 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): /invholster
+Mon Jul 29 17:56:57 2019	NUT (STEAM_0:1:95023662): /a what happened
+Mon Jul 29 17:57:09 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): /ooc failrp by moderator
+Mon Jul 29 17:57:23 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): respawn car for gettting inside of is bae
+Mon Jul 29 17:57:28 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): /ooc base*
+Mon Jul 29 17:57:44 2019	LV (STEAM_0:0:460419170): my base come look
+Mon Jul 29 17:58:02 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): /ooc kill
+Mon Jul 29 17:58:14 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): /kill
+Mon Jul 29 17:58:18 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978) disconnected
+Mon Jul 29 17:58:38 2019	LV (STEAM_0:0:460419170): go inside its ok
+Mon Jul 29 17:58:50 2019	LV (STEAM_0:0:460419170): thats aloud right
+Mon Jul 29 17:59:10 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978) has joined the game
+Mon Jul 29 17:59:10 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978) spawned
+Mon Jul 29 17:59:11 2019	NUT (STEAM_0:1:95023662): /a yeah
+Mon Jul 29 17:59:19 2019	LV (STEAM_0:0:460419170): no kos go inside
+Mon Jul 29 18:00:10 2019	LV (STEAM_0:0:460419170): this is aloud
+Mon Jul 29 18:00:16 2019	LV (STEAM_0:0:460419170): and come here
+Mon Jul 29 18:00:23 2019	LV (STEAM_0:0:460419170): nut
+Mon Jul 29 18:00:34 2019	LV (STEAM_0:0:460419170): he shot me through this
+Mon Jul 29 18:00:48 2019	LV (STEAM_0:0:460419170): so i shot him
+Mon Jul 29 18:00:57 2019	LV (STEAM_0:0:460419170): he jumped through there
+Mon Jul 29 18:01:12 2019	LV (STEAM_0:0:460419170): were you on earlier
+Mon Jul 29 18:01:21 2019	LV (STEAM_0:0:460419170): i know
+Mon Jul 29 18:01:24 2019	LV (STEAM_0:0:460419170): i am done basing
+Mon Jul 29 18:01:53 2019	NUT (STEAM_0:1:95023662): 
+Mon Jul 29 18:02:09 2019	NUT (STEAM_0:1:95023662): /a XD
+Mon Jul 29 18:02:11 2019	LV (STEAM_0:0:460419170): /pm nut please hurry up
+Mon Jul 29 18:02:20 2019	NUT (STEAM_0:1:95023662): /a ???
+Mon Jul 29 18:02:22 2019	LV (STEAM_0:0:460419170): /pm nut i am trying to become mod
+Mon Jul 29 18:02:56 2019	NUT (STEAM_0:1:95023662): /pm lv you are mod
+Mon Jul 29 18:03:12 2019	LV (STEAM_0:0:460419170): /pm nut i dont think i can have car as mod
+Mon Jul 29 18:03:26 2019	NUT (STEAM_0:1:95023662): /pm lv why
+Mon Jul 29 18:03:37 2019	LV (STEAM_0:0:460419170): i dont think it is aloud
+Mon Jul 29 18:03:50 2019	LV (STEAM_0:0:460419170): like i dont think i can base either
+Mon Jul 29 18:04:03 2019	LV (STEAM_0:0:460419170): !god
+Mon Jul 29 18:04:07 2019	LV (STEAM_0:0:460419170): i am sorry
+Mon Jul 29 18:04:26 2019	LV (STEAM_0:0:460419170): i can be confusing
+Mon Jul 29 18:04:41 2019	LV (STEAM_0:0:460419170): what
+Mon Jul 29 18:04:49 2019	LV (STEAM_0:0:460419170): oh i am on 9h
+Mon Jul 29 18:05:13 2019	LV (STEAM_0:0:460419170): why are laws still on the law board if he is a citizen
+Mon Jul 29 18:05:28 2019	LV (STEAM_0:0:460419170): what
+Mon Jul 29 18:05:34 2019	LV (STEAM_0:0:460419170): sniper was mayor
+Mon Jul 29 18:06:19 2019	LV (STEAM_0:0:460419170): please bring him i need to talk to him and i need his discord
+Mon Jul 29 18:06:45 2019	LV (STEAM_0:0:460419170): what is that and no
+Mon Jul 29 18:07:10 2019	NUT (STEAM_0:1:95023662): https://discord.gg/nBfjth
+Mon Jul 29 18:07:57 2019	LV (STEAM_0:0:460419170): what is that
+Mon Jul 29 18:08:34 2019	LV (STEAM_0:0:460419170): well i am going to wait for reports
+Mon Jul 29 18:09:18 2019	LV (STEAM_0:0:460419170): fruitcake?
+Mon Jul 29 18:10:48 2019	LV (STEAM_0:0:460419170): nut
+Mon Jul 29 18:10:54 2019	LV (STEAM_0:0:460419170): i need to talk to you
+Mon Jul 29 18:11:09 2019	LV (STEAM_0:0:460419170): fruitcake?
+Mon Jul 29 18:11:28 2019	LV (STEAM_0:0:460419170): sniper said i did failrp
+Mon Jul 29 18:11:43 2019	LV (STEAM_0:0:460419170): i dont know 
+Mon Jul 29 18:11:47 2019	LV (STEAM_0:0:460419170): if it was base or car
+Mon Jul 29 18:12:13 2019	LV (STEAM_0:0:460419170): are you in call with him
+Mon Jul 29 18:13:07 2019	LV (STEAM_0:0:460419170): i dont think it was failrp
+Mon Jul 29 18:13:30 2019	LV (STEAM_0:0:460419170): i dont know if you can be kicked hold on
+Mon Jul 29 18:13:42 2019	LV (STEAM_0:0:460419170): NUT
+Mon Jul 29 18:14:14 2019	LV (STEAM_0:0:460419170): i dont know right now i have to talk to the owner
+Mon Jul 29 18:14:33 2019	LV (STEAM_0:0:460419170): ok
+Mon Jul 29 18:14:37 2019	LV (STEAM_0:0:460419170): advert afk
+Mon Jul 29 18:14:44 2019	Captain Fruitcake (STEAM_0:0:62003849): 
+Mon Jul 29 18:14:47 2019	LV (STEAM_0:0:460419170): ok 
+Mon Jul 29 18:15:33 2019	LV (STEAM_0:0:460419170): nut
+Mon Jul 29 18:15:36 2019	LV (STEAM_0:0:460419170): nut?
+Mon Jul 29 18:15:49 2019	LV (STEAM_0:0:460419170): what
+Mon Jul 29 18:16:15 2019	LV (STEAM_0:0:460419170): i think i might get off for some time
+Mon Jul 29 18:16:24 2019	LV (STEAM_0:0:460419170): and can you help me
+Mon Jul 29 18:16:39 2019	LV (STEAM_0:0:460419170): my car is broke and i cant fix
+Mon Jul 29 18:16:46 2019	LV (STEAM_0:0:460419170): can i show you
+Mon Jul 29 18:16:48 2019	LV (STEAM_0:0:460419170): can i show you
+Mon Jul 29 18:16:56 2019	LV (STEAM_0:0:460419170): can i bring you
+Mon Jul 29 18:17:05 2019	LV (STEAM_0:0:460419170): what
+Mon Jul 29 18:17:09 2019	LV (STEAM_0:0:460419170): what
+Mon Jul 29 18:17:47 2019	LV (STEAM_0:0:460419170) spawned Vehicle prop_vehicle_jeep (fer_lafertdm)
+Mon Jul 29 18:18:26 2019	LV (STEAM_0:0:460419170): i cant fix it with the guy either
+Mon Jul 29 18:19:20 2019	LV (STEAM_0:0:460419170) spawned Vehicle prop_vehicle_jeep (civic97tdm)
+Mon Jul 29 18:19:29 2019	LV (STEAM_0:0:460419170): muffler on this one
+Mon Jul 29 18:19:51 2019	LV (STEAM_0:0:460419170): the muffler
+Mon Jul 29 18:20:32 2019	LV (STEAM_0:0:460419170): i have to go
+Mon Jul 29 18:20:43 2019	LV (STEAM_0:0:460419170): i have to go and how do you get so much money fast
+Mon Jul 29 18:21:07 2019	LV (STEAM_0:0:460419170): honda civic type r 97
+Mon Jul 29 18:21:17 2019	LV (STEAM_0:0:460419170): bye
+Mon Jul 29 18:21:27 2019	LV (STEAM_0:0:460419170) disconnected
+Mon Jul 29 18:22:24 2019	NUT (STEAM_0:1:95023662) spawned Vehicle prop_vehicle_jeep (civic97tdm)
+Mon Jul 29 18:23:58 2019	NUT (STEAM_0:1:95023662) spawned Vehicle prop_vehicle_jeep (fer_lafertdm)
+Mon Jul 29 18:38:42 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978) disconnected
+Mon Jul 29 18:42:21 2019	🥚 (STEAM_0:0:61782673) has joined the game
+Mon Jul 29 18:42:21 2019	chabo (STEAM_0:0:61782673) spawned
+Mon Jul 29 18:43:31 2019	Jebediah boogy (STEAM_0:1:161611161) has joined the game
+Mon Jul 29 18:43:31 2019	jebediah (STEAM_0:1:161611161) spawned
+Mon Jul 29 18:43:37 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978) has joined the game
+Mon Jul 29 18:43:37 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978) spawned
+Mon Jul 29 18:43:46 2019	chabo (STEAM_0:0:61782673): !unbox
+Mon Jul 29 18:45:31 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): /invholster
+Mon Jul 29 18:45:54 2019	jebediah (STEAM_0:1:161611161): !join
+Mon Jul 29 18:45:54 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): /invholster
+Mon Jul 29 18:48:47 2019	Sukebena-Chan (STEAM_0:1:63382511) has joined the game
+Mon Jul 29 18:48:47 2019	Bexgasm~ (STEAM_0:1:63382511) spawned
+Mon Jul 29 18:49:47 2019	Bexgasm~ (STEAM_0:1:63382511): // Hamood hamood
+Mon Jul 29 18:49:54 2019	NUT (STEAM_0:1:95023662): /a hey bex
+Mon Jul 29 18:49:58 2019	Bexgasm~ (STEAM_0:1:63382511): Heya
+Mon Jul 29 18:50:04 2019	jebediah (STEAM_0:1:161611161): // bye bex
+Mon Jul 29 18:50:20 2019	Bexgasm~ (STEAM_0:1:63382511): // Bye nerd
+Mon Jul 29 18:50:22 2019	Bexgasm~ (STEAM_0:1:63382511): // *dabs*
+Mon Jul 29 18:50:25 2019	jebediah (STEAM_0:1:161611161): // nope
+Mon Jul 29 18:50:28 2019	Bexgasm~ (STEAM_0:1:63382511): // :kami:
+Mon Jul 29 18:50:36 2019	chabo (STEAM_0:0:61782673): // :kami:
+Mon Jul 29 18:50:39 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): /ooc bex\
+Mon Jul 29 18:50:43 2019	Bexgasm~ (STEAM_0:1:63382511): // Yes?
+Mon Jul 29 18:50:50 2019	NUT (STEAM_0:1:95023662): /a :kami:
+Mon Jul 29 18:50:50 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): /ooc mind becoming police for a sec
+Mon Jul 29 18:50:56 2019	Bexgasm~ (STEAM_0:1:63382511): !goto snip
+Mon Jul 29 18:51:42 2019	Bexgasm~ (STEAM_0:1:63382511): !return bex
+Mon Jul 29 18:51:48 2019	Bexgasm~ (STEAM_0:1:63382511): !goto jeb
+Mon Jul 29 18:52:33 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978) spawned Vehicle prop_vehicle_jeep (fer_lafertdm)
+Mon Jul 29 18:52:42 2019	Bexgasm~ (STEAM_0:1:63382511): !slap @ 0
+Mon Jul 29 18:52:45 2019	Bexgasm~ (STEAM_0:1:63382511): !slap @ 0
+Mon Jul 29 18:53:28 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): /ooc bez
+Mon Jul 29 18:53:31 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): /ooc bex
+Mon Jul 29 18:53:33 2019	Bexgasm~ (STEAM_0:1:63382511): /? Yes?
+Mon Jul 29 18:53:35 2019	Bexgasm~ (STEAM_0:1:63382511): // Yes?
+Mon Jul 29 18:53:37 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): /ooc where are you
+Mon Jul 29 18:53:45 2019	Bexgasm~ (STEAM_0:1:63382511): // Why does it matter?
+Mon Jul 29 18:53:48 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): idk
+Mon Jul 29 18:53:55 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): /ooc meh 
+Mon Jul 29 18:54:03 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): /ooc i have nothing to do
+Mon Jul 29 18:55:37 2019	Bexgasm~ (STEAM_0:1:63382511): !return bex
+Mon Jul 29 18:55:57 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978) spawned Vehicle prop_vehicle_jeep (fer_lafertdm)
+Mon Jul 29 18:56:47 2019	Bexgasm~ (STEAM_0:1:63382511): !goto chobo
+Mon Jul 29 18:56:49 2019	Bexgasm~ (STEAM_0:1:63382511): !chabo
+Mon Jul 29 18:56:52 2019	Bexgasm~ (STEAM_0:1:63382511): !goto cha
+Mon Jul 29 18:58:03 2019	TechnologicalPikachu (STEAM_0:0:169626063) has joined the game
+Mon Jul 29 18:58:03 2019	TechnologicalPikachu (STEAM_0:0:169626063) spawned
+Mon Jul 29 18:58:47 2019	Bexgasm~ (STEAM_0:1:63382511): !return bex
+Mon Jul 29 18:59:24 2019	TechnologicalPikachu (STEAM_0:0:169626063) disconnected
+Mon Jul 29 19:01:31 2019	snipergodfrost l ham mafia l was killed by Bexgasm~ with a fas2_rem870
+Mon Jul 29 19:01:39 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): /ooc gqyayyyyyyyyyyyy nibbas
+Mon Jul 29 19:01:40 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978) spawned
+Mon Jul 29 19:02:08 2019	chabo (STEAM_0:0:61782673): !unbox
+Mon Jul 29 19:03:12 2019	chabo was killed by Himself with a suicide trick
+Mon Jul 29 19:03:14 2019	chabo (STEAM_0:0:61782673) spawned
+Mon Jul 29 19:03:19 2019	jebediah was killed by snipergodfrost l ham mafia l with a fas2_m4a1
+Mon Jul 29 19:03:27 2019	jebediah (STEAM_0:1:161611161) spawned
+Mon Jul 29 19:03:27 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): 
+Mon Jul 29 19:04:44 2019	jebediah (STEAM_0:1:161611161): 
+Mon Jul 29 19:04:50 2019	Bexgasm~ (STEAM_0:1:63382511): !bring jeb
+Mon Jul 29 19:04:57 2019	chabo was killed by snipergodfrost l ham mafia l with a fas2_glock20
+Mon Jul 29 19:04:59 2019	chabo (STEAM_0:0:61782673) spawned
+Mon Jul 29 19:05:02 2019	Bexgasm~ (STEAM_0:1:63382511): !bring snipe
+Mon Jul 29 19:05:11 2019	chabo (STEAM_0:0:61782673): 
+Mon Jul 29 19:05:17 2019	Bexgasm~ (STEAM_0:1:63382511): 
+Mon Jul 29 19:06:44 2019	Bexgasm~ (STEAM_0:1:63382511): 
+Mon Jul 29 19:07:04 2019	Bexgasm~ (STEAM_0:1:63382511): 
+Mon Jul 29 19:08:17 2019	chabo (STEAM_0:0:61782673): 
+Mon Jul 29 19:08:22 2019	Bexgasm~ (STEAM_0:1:63382511): 
+Mon Jul 29 19:08:50 2019	Bexgasm~ (STEAM_0:1:63382511): !warn sniper RDM
+Mon Jul 29 19:10:00 2019	Bexgasm~ (STEAM_0:1:63382511): !warn sniper Leaving a sit
+Mon Jul 29 19:10:13 2019	Bexgasm~ (STEAM_0:1:63382511): !return *
+Mon Jul 29 19:10:15 2019	Bexgasm~ (STEAM_0:1:63382511): !return jeb
+Mon Jul 29 19:10:18 2019	Bexgasm~ (STEAM_0:1:63382511): !return snip
+Mon Jul 29 19:11:07 2019	Bexgasm~ (STEAM_0:1:63382511): 
+Mon Jul 29 19:11:38 2019	Bexgasm~ (STEAM_0:1:63382511): !gag snipe
+Mon Jul 29 19:11:46 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): /ooc frick u
+Mon Jul 29 19:12:09 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): /ooc ebic
+Mon Jul 29 19:12:17 2019	Bexgasm~ (STEAM_0:1:63382511): !jail @ 0
+Mon Jul 29 19:12:19 2019	LV (STEAM_0:0:460419170) has joined the game
+Mon Jul 29 19:12:19 2019	LV (STEAM_0:0:460419170) spawned
+Mon Jul 29 19:12:31 2019	Bexgasm~ (STEAM_0:1:63382511): 
+Mon Jul 29 19:12:42 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): /ooc
+Mon Jul 29 19:12:44 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): /ooc no
+Mon Jul 29 19:12:54 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): /ooc no gaybo
+Mon Jul 29 19:13:01 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): /ooc idc?
+Mon Jul 29 19:13:10 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): /ooc can go to over servers?
+Mon Jul 29 19:13:27 2019	Bexgasm~ (STEAM_0:1:63382511): 
+Mon Jul 29 19:13:38 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): /ooc now ur offeneding my race
+Mon Jul 29 19:13:51 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): /ooc im am indian 
+Mon Jul 29 19:14:00 2019	Bexgasm~ (STEAM_0:1:63382511): 
+Mon Jul 29 19:14:15 2019	LV (STEAM_0:0:460419170): hello
+Mon Jul 29 19:14:23 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): /ooc that doesn't me i hurt him or make him cry lol
+Mon Jul 29 19:14:40 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): /ooc wtf
+Mon Jul 29 19:14:44 2019	LV (STEAM_0:0:460419170): /pm nut hey nut are you there
+Mon Jul 29 19:14:50 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): /ooc he called me gay
+Mon Jul 29 19:15:10 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): /ooc ungag me u gay man
+Mon Jul 29 19:15:19 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): /ooc noice
+Mon Jul 29 19:15:22 2019	Bexgasm~ (STEAM_0:1:63382511): 
+Mon Jul 29 19:15:33 2019	Bexgasm~ (STEAM_0:1:63382511): 
+Mon Jul 29 19:15:36 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): /ooc ltap not perm ban 
+Mon Jul 29 19:15:49 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): /ooc its like a 4 day ban
+Mon Jul 29 19:15:54 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): /ooc nah 
+Mon Jul 29 19:16:16 2019	Bexgasm~ (STEAM_0:1:63382511): 
+Mon Jul 29 19:17:54 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): /ooc huh  i wasn't listing i waas talking to my dad
+Mon Jul 29 19:18:01 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): /ooc repeat that gaain
+Mon Jul 29 19:18:07 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): /ooc again
+Mon Jul 29 19:18:19 2019	LV (STEAM_0:0:460419170): why are you in there
+Mon Jul 29 19:18:30 2019	chabo (STEAM_0:0:61782673): :kami:
+Mon Jul 29 19:18:31 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): /ooc he was near my friends printers duh
+Mon Jul 29 19:18:39 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): /ooc wanna beat
+Mon Jul 29 19:18:44 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): /ooc wanna bet
+Mon Jul 29 19:18:50 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): /ooc yes
+Mon Jul 29 19:18:56 2019	Bexgasm~ (STEAM_0:1:63382511): 
+Mon Jul 29 19:18:56 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): /ooc u have to find them
+Mon Jul 29 19:19:00 2019	Bexgasm~ (STEAM_0:1:63382511): 
+Mon Jul 29 19:19:07 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): /ooc well thats good
+Mon Jul 29 19:19:15 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): /ooc nahhhhhhh
+Mon Jul 29 19:19:35 2019	LV (STEAM_0:0:460419170): /pm bex hey bexgasm can i base with you
+Mon Jul 29 19:19:52 2019	LV (STEAM_0:0:460419170): you said lol?
+Mon Jul 29 19:20:02 2019	LV (STEAM_0:0:460419170): what
+Mon Jul 29 19:20:21 2019	LV (STEAM_0:0:460419170): you are in there because you said lol
+Mon Jul 29 19:20:23 2019	LV (STEAM_0:0:460419170): ?
+Mon Jul 29 19:20:36 2019	LV (STEAM_0:0:460419170): what did you say lol to
+Mon Jul 29 19:21:04 2019	LV (STEAM_0:0:460419170): i dont understand why you are in there
+Mon Jul 29 19:21:13 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): /ooc meh when someone start things and saying dumb shit i just kill them until they fucking shut the hell up
+Mon Jul 29 19:21:25 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): /ooc idgaf
+Mon Jul 29 19:21:43 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): /ooc in spawn u dumbass lol
+Mon Jul 29 19:22:04 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): /ooc u think i care 
+Mon Jul 29 19:22:13 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): /ooc hooooooooooooow
+Mon Jul 29 19:22:18 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): /ooc i d ccccccccccccccccccc
+Mon Jul 29 19:22:23 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): /ooc idccccccccccccccccccccccc
+Mon Jul 29 19:22:31 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): /ooc ok?
+Mon Jul 29 19:22:40 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): /ooc thanks
+Mon Jul 29 19:22:43 2019	LV (STEAM_0:0:460419170): /pm bex bexgasm can i go up there
+Mon Jul 29 19:22:44 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): /ooc thanks
+Mon Jul 29 19:22:49 2019	Bexgasm~ (STEAM_0:1:63382511): /pm lv 1 sec
+Mon Jul 29 19:22:53 2019	LV (STEAM_0:0:460419170): /pm bex i want to see what is going on
+Mon Jul 29 19:22:57 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): /ooc nice doing ur job here
+Mon Jul 29 19:22:58 2019	Bexgasm~ (STEAM_0:1:63382511): /pm lv Sure
+Mon Jul 29 19:23:10 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978): /ooc sure i am
+Mon Jul 29 19:23:36 2019	Bexgasm~ (STEAM_0:1:63382511): 
+Mon Jul 29 19:23:36 2019	snipergodfrost l ham mafia l (STEAM_0:0:462464978) disconnected
+Mon Jul 29 19:23:43 2019	LV (STEAM_0:0:460419170): well
+Mon Jul 29 19:24:01 2019	LV (STEAM_0:0:460419170): i know he was rdming earlier but with his friend
+Mon Jul 29 19:24:13 2019	LV (STEAM_0:0:460419170): yes
+Mon Jul 29 19:24:25 2019	Bexgasm~ (STEAM_0:1:63382511): 
+Mon Jul 29 19:24:26 2019	LV (STEAM_0:0:460419170): both were rdming
+Mon Jul 29 19:24:47 2019	LV (STEAM_0:0:460419170): but they said they were friends
+Mon Jul 29 19:24:51 2019	LV (STEAM_0:0:460419170): with each other
+Mon Jul 29 19:24:57 2019	chabo (STEAM_0:0:61782673): :kami:
+Mon Jul 29 19:25:02 2019	LV (STEAM_0:0:460419170): why is he jailed also
+Mon Jul 29 19:25:11 2019	LV (STEAM_0:0:460419170): oh and look
+Mon Jul 29 19:25:17 2019	chabo (STEAM_0:0:61782673): LOL
+Mon Jul 29 19:25:25 2019	LV (STEAM_0:0:460419170): these were when sniper was mayor
+Mon Jul 29 19:25:39 2019	LV (STEAM_0:0:460419170): they shouldnt be there
+Mon Jul 29 19:25:49 2019	LV (STEAM_0:0:460419170): yes
+Mon Jul 29 19:25:53 2019	LV (STEAM_0:0:460419170): i think
+Mon Jul 29 19:25:55 2019	LV (STEAM_0:0:460419170): yes
+Mon Jul 29 19:25:57 2019	Bexgasm~ (STEAM_0:1:63382511): !menu
+Mon Jul 29 19:25:58 2019	LV (STEAM_0:0:460419170): i can try
+Mon Jul 29 19:26:20 2019	LV (STEAM_0:0:460419170): to check laws is it !logs
+Mon Jul 29 19:26:43 2019	LV (STEAM_0:0:460419170): /removelaw 7
+Mon Jul 29 19:26:46 2019	LV (STEAM_0:0:460419170): /removelaw 6
+Mon Jul 29 19:26:51 2019	LV (STEAM_0:0:460419170): all the ones he put?
+Mon Jul 29 19:26:56 2019	NUT (STEAM_0:1:95023662): /a whoever raided me you didn't call raid
+Mon Jul 29 19:27:01 2019	LV (STEAM_0:0:460419170): /removelaw 5
+Mon Jul 29 19:27:08 2019	jebediah (STEAM_0:1:161611161): // sorry
+Mon Jul 29 19:27:08 2019	LV (STEAM_0:0:460419170): /removelaw 4
+Mon Jul 29 19:27:12 2019	LV (STEAM_0:0:460419170): OK
+Mon Jul 29 19:27:16 2019	Bexgasm~ (STEAM_0:1:63382511): !menu
+Mon Jul 29 19:27:18 2019	LV (STEAM_0:0:460419170): robber
+Mon Jul 29 19:27:22 2019	NUT (STEAM_0:1:95023662): /a yeah no give me my printers back
+Mon Jul 29 19:27:25 2019	LV (STEAM_0:0:460419170): is logs !logs
+Mon Jul 29 19:27:28 2019	Bexgasm~ (STEAM_0:1:63382511): // what
+Mon Jul 29 19:27:28 2019	jebediah (STEAM_0:1:161611161): // it wasnt me
+Mon Jul 29 19:27:28 2019	chabo (STEAM_0:0:61782673): // he didnt raid you
+Mon Jul 29 19:27:33 2019	Bexgasm~ (STEAM_0:1:63382511): 
+Mon Jul 29 19:27:36 2019	LV (STEAM_0:0:460419170): 
+Mon Jul 29 19:27:38 2019	NUT (STEAM_0:1:95023662): /a oh someone did
+Mon Jul 29 19:27:45 2019	jebediah (STEAM_0:1:161611161): // prolly the guy that got banned
+Mon Jul 29 19:27:45 2019	chabo (STEAM_0:0:61782673): // sorry
+Mon Jul 29 19:27:49 2019	LV (STEAM_0:0:460419170): well i dont have perms
+Mon Jul 29 19:27:49 2019	NUT (STEAM_0:1:95023662): /a and i don't see an advert raid
+Mon Jul 29 19:27:53 2019	chabo was killed by Entity [0][worldspawn] with a unknown
+Mon Jul 29 19:27:54 2019	LV (STEAM_0:0:460419170): for logs
+Mon Jul 29 19:28:00 2019	chabo (STEAM_0:0:61782673) spawned
+Mon Jul 29 19:28:19 2019	NUT (STEAM_0:1:95023662): /a who got banned???
+Mon Jul 29 19:28:22 2019	LV (STEAM_0:0:460419170): for logs
+Mon Jul 29 19:28:24 2019	LV (STEAM_0:0:460419170): well i dont have perms
+Mon Jul 29 19:28:25 2019	chabo (STEAM_0:0:61782673): // some lib
+Mon Jul 29 19:28:32 2019	chabo (STEAM_0:0:61782673): // he was rdmin an shit
+Mon Jul 29 19:28:38 2019	LV (STEAM_0:0:460419170): and another thing
+Mon Jul 29 19:28:42 2019	jebediah (STEAM_0:1:161611161): // fred frigglehorn
+Mon Jul 29 19:28:51 2019	NUT (STEAM_0:1:95023662): /a he was an admin?
+Mon Jul 29 19:28:52 2019	LV (STEAM_0:0:460419170): can you make auto collecting printers
+Mon Jul 29 19:28:56 2019	chabo (STEAM_0:0:61782673): // no
+Mon Jul 29 19:29:01 2019	LV (STEAM_0:0:460419170): ok making sure
+Mon Jul 29 19:29:06 2019	NUT (STEAM_0:1:95023662): oh rdm ing
+Mon Jul 29 19:29:13 2019	chabo (STEAM_0:0:61782673): 
+Mon Jul 29 19:29:13 2019	LV (STEAM_0:0:460419170): so sniper earlier he said i was doing failrp
+Mon Jul 29 19:29:16 2019	Captain Fruitcake was killed by chabo with a fas2_glock20
+Mon Jul 29 19:29:20 2019	jebediah (STEAM_0:1:161611161): // maybe your printers overheated
+Mon Jul 29 19:29:22 2019	LV (STEAM_0:0:460419170): i dont know
+Mon Jul 29 19:29:28 2019	Bexgasm~ (STEAM_0:1:63382511): // maybe i fucc your mother
+Mon Jul 29 19:29:30 2019	NUT (STEAM_0:1:95023662): /a rdmin is 1 letter from admin so
+Mon Jul 29 19:29:37 2019	Bexgasm~ (STEAM_0:1:63382511): no u
+Mon Jul 29 19:29:45 2019	NUT (STEAM_0:1:95023662): /a they didn't
+Mon Jul 29 19:29:49 2019	LV (STEAM_0:0:460419170): because he was mayor he jumped through my gate and said i cant spawn another vehicle
+Mon Jul 29 19:29:51 2019	NUT (STEAM_0:1:95023662): /a they were lvl 9
+Mon Jul 29 19:29:58 2019	jebediah (STEAM_0:1:161611161): // sounds like a you problem
+Mon Jul 29 19:30:03 2019	LV (STEAM_0:0:460419170): ok making sure i was scared
+Mon Jul 29 19:30:09 2019	NUT (STEAM_0:1:95023662) disconnected
+Mon Jul 29 19:30:12 2019	LV (STEAM_0:0:460419170): i am trying to be admin
+Mon Jul 29 19:30:19 2019	Bexgasm~ (STEAM_0:1:63382511): !goto chab
+Mon Jul 29 19:30:20 2019	LV (STEAM_0:0:460419170): i need to go see nut
+Mon Jul 29 19:30:59 2019	Bexgasm~ (STEAM_0:1:63382511): !unjail jeb
+Mon Jul 29 19:31:13 2019	LV (STEAM_0:0:460419170): nut is gone
+Mon Jul 29 19:31:15 2019	Bexgasm~ (STEAM_0:1:63382511): // BRB
+Mon Jul 29 19:31:45 2019	chabo (STEAM_0:0:61782673): 
+Mon Jul 29 19:32:15 2019	LV (STEAM_0:0:460419170): dont shoot me
+Mon Jul 29 19:32:47 2019	LV (STEAM_0:0:460419170): any more
+Mon Jul 29 19:33:27 2019	LV (STEAM_0:0:460419170): 
+Mon Jul 29 19:34:22 2019	chabo (STEAM_0:0:61782673): // is there a way to sell all your doors
+Mon Jul 29 19:34:40 2019	LV (STEAM_0:0:460419170): // press f4 and go to commands 
+Mon Jul 29 19:34:45 2019	jebediah (STEAM_0:1:161611161): /unownalldoors
+Mon Jul 29 19:34:46 2019	chabo (STEAM_0:0:61782673): /unownalldoors
+Mon Jul 29 19:34:52 2019	chabo (STEAM_0:0:61782673): // yhanks
+Mon Jul 29 19:34:55 2019	chabo (STEAM_0:0:61782673): // thanks*
+Mon Jul 29 19:34:56 2019	jebediah (STEAM_0:1:161611161): // bic mcthankies from mcspankies
+Mon Jul 29 19:35:51 2019	chabo (STEAM_0:0:61782673) spawned Vehicle prop_vehicle_jeep (raptorsvttdm)
+Mon Jul 29 19:36:31 2019	chabo (STEAM_0:0:61782673) spawned Vehicle prop_vehicle_jeep (transittdm)
+Mon Jul 29 19:37:50 2019	LV (STEAM_0:0:460419170): /pm bexgasm hey bexgasm can you help me
+Mon Jul 29 19:38:50 2019	Bexgasm~ (STEAM_0:1:63382511): !goto jeb
+Mon Jul 29 19:38:59 2019	LV (STEAM_0:0:460419170): /pm bex hey bexgasm i need help
+Mon Jul 29 19:41:04 2019	Bexgasm~ (STEAM_0:1:63382511): /job owo on duty
+Mon Jul 29 19:41:08 2019	Bexgasm~ (STEAM_0:1:63382511): /dropmoney 12
+Mon Jul 29 19:41:09 2019	Bexgasm~ (STEAM_0:1:63382511) has dropped $12
+Mon Jul 29 19:41:19 2019	LV (STEAM_0:0:460419170): /pm bex hey bexgasm i need help
+Mon Jul 29 19:41:34 2019	Bexgasm~ (STEAM_0:1:63382511): !goto lv
+Mon Jul 29 19:41:35 2019	chabo (STEAM_0:0:61782673): /dropmoney 6000000
+Mon Jul 29 19:41:36 2019	chabo (STEAM_0:0:61782673) has dropped $6,000,000
+Mon Jul 29 19:41:41 2019	LV (STEAM_0:0:460419170): how do i do this
+Mon Jul 29 19:43:06 2019	LV (STEAM_0:0:460419170): thank you
+Mon Jul 29 19:43:19 2019	LV (STEAM_0:0:460419170): oh thank you
+Mon Jul 29 19:43:25 2019	Bexgasm~ (STEAM_0:1:63382511): !return bex
+Mon Jul 29 19:44:50 2019	Bexgasm~ (STEAM_0:1:63382511): !menu
+Mon Jul 29 19:44:50 2019	Bexgasm~ was killed by Entity [0][worldspawn] with a unknown
+Mon Jul 29 19:44:52 2019	Bexgasm~ (STEAM_0:1:63382511) spawned
+Mon Jul 29 19:44:53 2019	Bexgasm~ (STEAM_0:1:63382511): !god Sukebena
+Mon Jul 29 19:45:20 2019	Bexgasm~ (STEAM_0:1:63382511): !goto jeb
+Mon Jul 29 19:47:12 2019	Bexgasm~ (STEAM_0:1:63382511): 
+Mon Jul 29 19:48:23 2019	Bexgasm~ (STEAM_0:1:63382511): /unownalldoors
+Mon Jul 29 19:48:26 2019	Bexgasm~ was killed by chabo with a fas2_glock20
+Mon Jul 29 19:48:30 2019	Bexgasm~ (STEAM_0:1:63382511): !slap chabo 0
+Mon Jul 29 19:48:31 2019	Bexgasm~ (STEAM_0:1:63382511) spawned
+Mon Jul 29 19:48:37 2019	Bexgasm~ (STEAM_0:1:63382511): !menu
+Mon Jul 29 19:49:06 2019	LV (STEAM_0:0:460419170): /pm chabo what are you doing
+Mon Jul 29 19:49:15 2019	jebediah was killed by Bexgasm~ with a fas2_glock20
+Mon Jul 29 19:49:17 2019	Bexgasm~ (STEAM_0:1:63382511): !menu
+Mon Jul 29 19:49:18 2019	jebediah (STEAM_0:1:161611161) spawned
+Mon Jul 29 19:49:23 2019	Bexgasm~ (STEAM_0:1:63382511): !bring jeb
+Mon Jul 29 19:49:25 2019	LV (STEAM_0:0:460419170): /pm bex hey thank you for telling me that
+Mon Jul 29 19:49:27 2019	jebediah was killed by Bexgasm~ with a fas2_glock20
+Mon Jul 29 19:49:28 2019	Bexgasm~ (STEAM_0:1:63382511): !menu
+Mon Jul 29 19:49:29 2019	jebediah (STEAM_0:1:161611161) spawned
+Mon Jul 29 19:49:34 2019	LV (STEAM_0:0:460419170): /pm bex any printers you want to sell
+Mon Jul 29 19:49:35 2019	Bexgasm~ (STEAM_0:1:63382511): /pm lv Of course
+Mon Jul 29 19:49:38 2019	Bexgasm~ (STEAM_0:1:63382511): /pm lv Nahh
+Mon Jul 29 19:49:39 2019	Bexgasm~ (STEAM_0:1:63382511): !bring jeb
+Mon Jul 29 19:49:53 2019	LV (STEAM_0:0:460419170): /pm bex ok can you ask them if they want to sell any
+Mon Jul 29 19:50:16 2019	Bexgasm~ (STEAM_0:1:63382511): /pm lv They'll sell you 1 diamond for 6 mil
+Mon Jul 29 19:50:25 2019	Bexgasm~ (STEAM_0:1:63382511): !God Bexgasm
+Mon Jul 29 19:50:33 2019	jebediah was killed by Bexgasm~ with a fas2_glock20
+Mon Jul 29 19:50:33 2019	LV (STEAM_0:0:460419170): /pm bex i dont even have 6 mil
+Mon Jul 29 19:50:35 2019	Bexgasm~ (STEAM_0:1:63382511): !menu
+Mon Jul 29 19:50:38 2019	jebediah (STEAM_0:1:161611161) spawned
+Mon Jul 29 19:50:39 2019	Bexgasm~ (STEAM_0:1:63382511): !bring jeb
+Mon Jul 29 19:50:44 2019	Bexgasm~ (STEAM_0:1:63382511): /pm lv damn'
+Mon Jul 29 19:51:07 2019	LV (STEAM_0:0:460419170): /pm bex i used to have millions but money keeps reseting
+Mon Jul 29 19:51:50 2019	LV (STEAM_0:0:460419170): 
+Mon Jul 29 19:52:56 2019	LV was killed by chabo with a fas2_glock20
+Mon Jul 29 19:52:58 2019	LV (STEAM_0:0:460419170) spawned
+Mon Jul 29 19:53:49 2019	jebediah was killed by Himself with a suicide trick
+Mon Jul 29 19:53:54 2019	jebediah (STEAM_0:1:161611161) spawned
+Mon Jul 29 19:53:58 2019	Bexgasm~ (STEAM_0:1:63382511): 
+Mon Jul 29 19:53:58 2019	chabo (STEAM_0:0:61782673): 
+Mon Jul 29 19:54:20 2019	chabo (STEAM_0:0:61782673): 
+Mon Jul 29 19:54:30 2019	Bexgasm~ (STEAM_0:1:63382511): !slap @ 0
+Mon Jul 29 19:55:53 2019	LV (STEAM_0:0:460419170): /invholster
+Mon Jul 29 19:56:06 2019	LV (STEAM_0:0:460419170): // Bye
+Mon Jul 29 19:56:25 2019	LV (STEAM_0:0:460419170) disconnected
+Mon Jul 29 19:57:09 2019	chabo (STEAM_0:0:61782673): 
+Mon Jul 29 19:57:29 2019	jebediah (STEAM_0:1:161611161): 
+Mon Jul 29 19:57:38 2019	Bexgasm~ (STEAM_0:1:63382511): !slap @ 0
+Mon Jul 29 19:58:48 2019	Bexgasm~ (STEAM_0:1:63382511): /job uwu
+Mon Jul 29 19:58:50 2019	Bexgasm~ (STEAM_0:1:63382511): 
+Mon Jul 29 20:00:38 2019	jebediah was killed by chabo with a fas2_sks
+Mon Jul 29 20:00:46 2019	jebediah (STEAM_0:1:161611161) spawned
+Mon Jul 29 20:01:22 2019	chabo (STEAM_0:0:61782673): 
+Mon Jul 29 20:01:59 2019	Nudrius (STEAM_0:0:87498787) has joined the game
+Mon Jul 29 20:01:59 2019	Nudrius (STEAM_0:0:87498787) spawned
+Mon Jul 29 20:02:13 2019	Bexgasm~ (STEAM_0:1:63382511): !goto jeb
+Mon Jul 29 20:02:14 2019	jebediah (STEAM_0:1:161611161): 
+Mon Jul 29 20:04:02 2019	chabo (STEAM_0:0:61782673) disconnected
+Mon Jul 29 20:04:08 2019	jebediah (STEAM_0:1:161611161) disconnected
+Mon Jul 29 20:05:08 2019	Bexgasm~ (STEAM_0:1:63382511) disconnected
+Mon Jul 29 20:57:33 2019	Captain Fruitcake (STEAM_0:0:62003849) spawned
+Mon Jul 29 20:58:52 2019	Captain Fruitcake (STEAM_0:0:62003849) disconnected
+Mon Jul 29 21:06:50 2019	Derp (STEAM_0:0:52504530) has joined the game
+Mon Jul 29 21:06:50 2019	William (STEAM_0:0:52504530) spawned
+Mon Jul 29 21:08:49 2019	William (STEAM_0:0:52504530): u building a base?
+Mon Jul 29 21:08:53 2019	Nudrius (STEAM_0:0:87498787): Mhm
+Mon Jul 29 21:09:02 2019	William (STEAM_0:0:52504530): i would hate to raid this place
+Mon Jul 29 21:09:05 2019	William (STEAM_0:0:52504530): looks like a maze
+Mon Jul 29 21:09:11 2019	Nudrius (STEAM_0:0:87498787): It is a blackout maze
+Mon Jul 29 21:09:18 2019	William (STEAM_0:0:52504530): oh god
+Mon Jul 29 21:09:19 2019	Nudrius (STEAM_0:0:87498787): When you go inside you have no sense of direction
+Mon Jul 29 21:09:24 2019	William (STEAM_0:0:52504530): smart
+Mon Jul 29 21:09:31 2019	William (STEAM_0:0:52504530): 200 IQ base
+Mon Jul 29 21:09:33 2019	Nudrius (STEAM_0:0:87498787): It is banned on most servers.
+Mon Jul 29 21:09:43 2019	William (STEAM_0:0:52504530): im not gonna ban it
+Mon Jul 29 21:09:47 2019	William (STEAM_0:0:52504530): i think its cool
+Mon Jul 29 21:09:53 2019	Nudrius (STEAM_0:0:87498787): k
+Mon Jul 29 21:10:37 2019	William (STEAM_0:0:52504530): ill just leave so you can build in peace if you need anything just pm me
+Mon Jul 29 21:10:45 2019	Nudrius (STEAM_0:0:87498787): k
+Mon Jul 29 21:17:13 2019	William (STEAM_0:0:52504530): 
+Mon Jul 29 21:18:11 2019	Captain Fruitcake (STEAM_0:0:62003849) has joined the game
+Mon Jul 29 21:18:11 2019	Captain Fruitcake (STEAM_0:0:62003849) spawned
+Mon Jul 29 21:19:04 2019	Captain Fruitcake (STEAM_0:0:62003849): /ooc william can you comehere/
+Mon Jul 29 21:19:36 2019	William (STEAM_0:0:52504530): hmm
+Mon Jul 29 21:19:47 2019	William (STEAM_0:0:52504530): let me see if i can talk to the admin that i think it may be
+Mon Jul 29 21:21:02 2019	William (STEAM_0:0:52504530): ok well i messaged the admin but he hasnt replied so im gonna have to wait on that one
+Mon Jul 29 21:21:27 2019	William (STEAM_0:0:52504530): weird thing is i cant even see the ban that was given to sniper
+Mon Jul 29 21:21:59 2019	William (STEAM_0:0:52504530): i dont think it does let me check one thing real quick
+Mon Jul 29 21:22:02 2019	William (STEAM_0:0:52504530): 
+Mon Jul 29 21:23:00 2019	William (STEAM_0:0:52504530): ok well i see that sniper was warned twice by bex
+Mon Jul 29 21:23:07 2019	William (STEAM_0:0:52504530): i dont see any bans on the logs or in the ulx menu
+Mon Jul 29 21:23:24 2019	William (STEAM_0:0:52504530): i dont see any warn bans either so he wasnt banned via the warn system
+Mon Jul 29 21:23:47 2019	William (STEAM_0:0:52504530): well if he can try joining we can get the final answer
+Mon Jul 29 21:24:40 2019	William (STEAM_0:0:52504530): ok the admin replied 
+Mon Jul 29 21:24:52 2019	William (STEAM_0:0:52504530): from what hes telling me it links up with what i saw in the logs
+Mon Jul 29 21:25:13 2019	William (STEAM_0:0:52504530): apparently sniper placed a kos sign to kill this one dude named chabo or something and then removed the sign immediately
+Mon Jul 29 21:25:27 2019	William (STEAM_0:0:52504530): he also shot someone 3 times with an m4a1 and said it was a missclick
+Mon Jul 29 21:25:41 2019	William (STEAM_0:0:52504530): that missclick thing is true hes done that missclick thing like 5 times
+Mon Jul 29 21:26:16 2019	William (STEAM_0:0:52504530): i guess but if i have a gun that fires off at random times im not gonna point it at someone
+Mon Jul 29 21:26:48 2019	William (STEAM_0:0:52504530): bex told me that chabo was on top of a house that was owned by sniper's friend (you) and there was not a kos sign
+Mon Jul 29 21:27:35 2019	William (STEAM_0:0:52504530): bex said that chabo wasn't raiding
+Mon Jul 29 21:27:59 2019	William (STEAM_0:0:52504530): he said that he walked in through a window and went to the roof to look around
+Mon Jul 29 21:28:06 2019	William (STEAM_0:0:52504530): before he was killed by sniper 
+Mon Jul 29 21:28:36 2019	William (STEAM_0:0:52504530): well we know that the kos sign thing is true and so is the missclick stuff
+Mon Jul 29 21:28:57 2019	William (STEAM_0:0:52504530): can u show me the base?
+Mon Jul 29 21:29:56 2019	William (STEAM_0:0:52504530): was there anything up here of importance
+Mon Jul 29 21:30:48 2019	William (STEAM_0:0:52504530): let me see if i can find an advert for raid somewhere
+Mon Jul 29 21:30:53 2019	William (STEAM_0:0:52504530): 
+Mon Jul 29 21:32:44 2019	William (STEAM_0:0:52504530): lmao i think in a time like this a lightsaber is the last thing on my mind
+Mon Jul 29 21:32:48 2019	William (STEAM_0:0:52504530): 
+Mon Jul 29 21:34:18 2019	Nudrius (STEAM_0:0:87498787) disconnected
+Mon Jul 29 21:35:43 2019	William (STEAM_0:0:52504530): 
+Mon Jul 29 21:36:21 2019	William (STEAM_0:0:52504530): ok so
+Mon Jul 29 21:36:33 2019	William (STEAM_0:0:52504530): i did some detective work
+Mon Jul 29 21:36:45 2019	William (STEAM_0:0:52504530): i saw exactly what happened when chabo was up here
+Mon Jul 29 21:37:00 2019	William (STEAM_0:0:52504530): chabo was killed while he was unarmed and standing right in front of sniper 
+Mon Jul 29 21:37:08 2019	William (STEAM_0:0:52504530): chabo literally was just standing up here unarmed looking around
+Mon Jul 29 21:37:15 2019	William (STEAM_0:0:52504530): and sniper just shot him with an m4 
+Mon Jul 29 21:37:26 2019	William (STEAM_0:0:52504530): now thats not the only reason sniper got permabanned 
+Mon Jul 29 21:37:46 2019	William (STEAM_0:0:52504530): apparently sniper also would not listen to bex (superadmin) and kept leaving the sits every time bex tried to have one with hi
+Mon Jul 29 21:37:56 2019	William (STEAM_0:0:52504530): he would constantly say in chat idc to bex
+Mon Jul 29 21:38:44 2019	William (STEAM_0:0:52504530): perma ban worthy? idk but definitely at least a good week
+Mon Jul 29 21:40:03 2019	William (STEAM_0:0:52504530): well i dont think that an admin has to tell you to come back if they teleport you to them
+Mon Jul 29 21:40:07 2019	William (STEAM_0:0:52504530): its kind of obvious they want to talk
+Mon Jul 29 21:40:17 2019	William (STEAM_0:0:52504530): he was
+Mon Jul 29 21:40:34 2019	William (STEAM_0:0:52504530): same result  anyways he wanted to talk to sniper and sniper wasnt listening
+Mon Jul 29 21:40:57 2019	William (STEAM_0:0:52504530): ur weed is done
+Mon Jul 29 21:41:57 2019	William (STEAM_0:0:52504530): i agree i dont think a perma ban is what he deserved but definitely he needs at least a 48 hours ban and thats being generous
+Mon Jul 29 21:42:59 2019	William (STEAM_0:0:52504530): i do have discord
+Mon Jul 29 21:43:05 2019	William (STEAM_0:0:52504530): Derp#8186
+Mon Jul 29 21:44:18 2019	William (STEAM_0:0:52504530): ok i accepted
+Mon Jul 29 21:44:27 2019	William (STEAM_0:0:52504530): i wont be able to talk on the mic tho just type
+Mon Jul 29 21:44:35 2019	Captain Fruitcake (STEAM_0:0:62003849): ok
+Mon Jul 29 21:44:48 2019	William (STEAM_0:0:52504530): is he in a call with u?
+Mon Jul 29 21:45:06 2019	William (STEAM_0:0:52504530): if u want u can add me to the call
+Mon Jul 29 21:45:26 2019	Captain Fruitcake (STEAM_0:0:62003849): /drop
+Mon Jul 29 21:48:20 2019	William (STEAM_0:0:52504530): 
+Mon Jul 29 21:51:33 2019	Captain Fruitcake (STEAM_0:0:62003849): /drop
+Mon Jul 29 21:55:09 2019	William (STEAM_0:0:52504530): 
+Mon Jul 29 21:57:34 2019	Captain Fruitcake (STEAM_0:0:62003849): /drop
+Mon Jul 29 22:17:14 2019	William (STEAM_0:0:52504530): /setmoney william 1000000000
+Mon Jul 29 22:17:14 2019	William (STEAM_0:0:52504530) set Derp's money to $1,000,000,000
+Mon Jul 29 22:17:29 2019	William (STEAM_0:0:52504530): /dropweapon
+Mon Jul 29 22:18:36 2019	William was killed by Entity [0][worldspawn] with a unknown
+Mon Jul 29 22:18:39 2019	William (STEAM_0:0:52504530) spawned
+Mon Jul 29 22:22:37 2019	William (STEAM_0:0:52504530): 
+Mon Jul 29 22:23:58 2019	Captain Fruitcake (STEAM_0:0:62003849): /drop
+Mon Jul 29 22:26:35 2019	William (STEAM_0:0:52504530): 
+Mon Jul 29 22:32:20 2019	Captain Fruitcake (STEAM_0:0:62003849) spawned Vehicle prop_vehicle_jeep (fer_lafertdm)
+Mon Jul 29 22:34:10 2019	William was killed by Captain Fruitcake with a prop_vehicle_jeep
+Mon Jul 29 22:34:12 2019	William (STEAM_0:0:52504530) spawned
+Mon Jul 29 22:37:09 2019	William (STEAM_0:0:52504530): fuckin squidmobile is too fast
+Mon Jul 29 22:38:55 2019	William was killed by Captain Fruitcake with a prop_vehicle_jeep
+Mon Jul 29 22:39:03 2019	Captain Fruitcake (STEAM_0:0:62003849): /ooc dood
+Mon Jul 29 22:39:09 2019	Captain Fruitcake (STEAM_0:0:62003849): /ooc XD
+Mon Jul 29 22:39:42 2019	Captain Fruitcake (STEAM_0:0:62003849) spawned Vehicle prop_vehicle_jeep (fer_lafertdm)
+Mon Jul 29 22:40:04 2019	Captain Fruitcake (STEAM_0:0:62003849) spawned Vehicle prop_vehicle_jeep (fer_lafertdm)
+Mon Jul 29 22:40:18 2019	William (STEAM_0:0:52504530) spawned
+Mon Jul 29 22:41:21 2019	William (STEAM_0:0:52504530): 
+Mon Jul 29 22:42:21 2019	Captain Fruitcake (STEAM_0:0:62003849) disconnected
+Mon Jul 29 22:45:13 2019	William (STEAM_0:0:52504530): 
+Mon Jul 29 22:52:18 2019	William (STEAM_0:0:52504530) spawned Vehicle prop_vehicle_jeep (alfa_stradaletdm)
+Mon Jul 29 22:52:20 2019	William (STEAM_0:0:52504530) spawned Vehicle prop_vehicle_jeep (alfa_stradaletdm)
+Mon Jul 29 23:25:11 2019	William (STEAM_0:0:52504530) spawned Vehicle prop_vehicle_jeep (mitsu_evoxtdm)
+Mon Jul 29 23:26:40 2019	William (STEAM_0:0:52504530) spawned Vehicle prop_vehicle_jeep (bmw_isettatdm)
+Mon Jul 29 23:31:26 2019	William (STEAM_0:0:52504530): !spmenu
+Mon Jul 29 23:36:29 2019	William was killed by Entity [0][worldspawn] with a unknown
+Mon Jul 29 23:36:32 2019	William (STEAM_0:0:52504530) spawned
+Mon Jul 29 23:39:19 2019	William (STEAM_0:0:52504530): /party
+Mon Jul 29 23:39:22 2019	William (STEAM_0:0:52504530): 
+Tue Jul 30 00:06:51 2019	William (STEAM_0:0:52504530): EAAAAAAAAAAAAAAAAAAAEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+Tue Jul 30 00:07:03 2019	William (STEAM_0:0:52504530): AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+Tue Jul 30 00:07:15 2019	William (STEAM_0:0:52504530): zmlab = zmlab || {}zmlab.config = zmlab.config || {}//////////////////////////////////////////////////////////////////////////
+Tue Jul 30 00:09:47 2019	William (STEAM_0:0:52504530): 
+Tue Jul 30 00:48:07 2019	William (STEAM_0:0:52504530): !shzones
+Tue Jul 30 00:48:09 2019	William (STEAM_0:0:52504530): 
+Tue Jul 30 00:58:26 2019	William (STEAM_0:0:52504530): ereraegteagehehaeyheygjyrihgjwairjhapwrihjawpirhjapwirhmmafkh;msf;khmawrphwao[rhawo[rhkawr[ohka[owrkhgalf[gklfgka[rohkawo[rkh[
+Tue Jul 30 01:06:16 2019	William was killed by Entity [0][worldspawn] with a unknown
+Tue Jul 30 01:06:28 2019	William (STEAM_0:0:52504530) spawned
+Tue Jul 30 01:10:02 2019	Nirvana (STEAM_0:1:195105820) has joined the game
+Tue Jul 30 01:10:02 2019	Nirvana (STEAM_0:1:195105820) spawned
+Tue Jul 30 01:11:05 2019	William (STEAM_0:0:52504530): hi
+Tue Jul 30 01:11:30 2019	William (STEAM_0:0:52504530): im testing stuff out so if stuff aint working thats why
+Tue Jul 30 01:11:33 2019	William (STEAM_0:0:52504530): and yes its working
+Tue Jul 30 01:11:42 2019	William (STEAM_0:0:52504530): i used to play it
+Tue Jul 30 01:12:01 2019	William (STEAM_0:0:52504530): yeah the server is almost done in the making
+Tue Jul 30 01:12:13 2019	William (STEAM_0:0:52504530): thats just gmod for you
+Tue Jul 30 01:12:19 2019	William (STEAM_0:0:52504530): gmod runs like shit
+Tue Jul 30 01:13:09 2019	William (STEAM_0:0:52504530): i have a 2500 dollar pc and it can drop down to 30 fps
+Tue Jul 30 01:13:18 2019	William (STEAM_0:0:52504530): this game just really runs poor
+Tue Jul 30 01:13:27 2019	William (STEAM_0:0:52504530): its because of the cpu usage
+Tue Jul 30 01:13:31 2019	William (STEAM_0:0:52504530): it only uses 1 core of your cpu
+Tue Jul 30 01:13:40 2019	William (STEAM_0:0:52504530): yup
+Tue Jul 30 01:13:58 2019	William (STEAM_0:0:52504530): alright man
+Tue Jul 30 01:16:49 2019	William (STEAM_0:0:52504530): nice 
+Tue Jul 30 01:16:55 2019	William (STEAM_0:0:52504530): you a nirvana fan?
+Tue Jul 30 01:17:04 2019	William (STEAM_0:0:52504530): thats my favorite band
+Tue Jul 30 01:17:12 2019	William (STEAM_0:0:52504530): that shit is too damn good
+Tue Jul 30 01:17:16 2019	William (STEAM_0:0:52504530): i be screaming when im listening to their music
+Tue Jul 30 01:17:25 2019	William (STEAM_0:0:52504530): shit gets me hyped up
+Tue Jul 30 01:17:53 2019	William (STEAM_0:0:52504530): i only got 2 settings for dpi i got super slow mode and just normal lmao
+Tue Jul 30 01:18:06 2019	William (STEAM_0:0:52504530): ye
+Tue Jul 30 01:18:15 2019	William (STEAM_0:0:52504530): i have no idea what mine is
+Tue Jul 30 01:18:29 2019	William (STEAM_0:0:52504530): ok so its definitely not that 
+Tue Jul 30 01:18:38 2019	William (STEAM_0:0:52504530): jesus christ
+Tue Jul 30 01:18:55 2019	William (STEAM_0:0:52504530): imagine if u didnt have a bind to change ur dpi on the fly
+Tue Jul 30 01:19:08 2019	William (STEAM_0:0:52504530): lmao
+Tue Jul 30 01:19:30 2019	William (STEAM_0:0:52504530): that seems like a good punishment
+Tue Jul 30 01:19:55 2019	William (STEAM_0:0:52504530): i used to get votekicked so much
+Tue Jul 30 01:20:16 2019	William (STEAM_0:0:52504530): i would be on the top of the team always and i still got kicked
+Tue Jul 30 01:20:41 2019	William (STEAM_0:0:52504530): i dont know how to boot jack shit
+Tue Jul 30 01:20:57 2019	William (STEAM_0:0:52504530): i really want a vpn
+Tue Jul 30 01:21:30 2019	William (STEAM_0:0:52504530): i can show u the car dealer if u want
+Tue Jul 30 01:21:38 2019	William (STEAM_0:0:52504530): no
+Tue Jul 30 01:21:42 2019	William (STEAM_0:0:52504530): thats a title store
+Tue Jul 30 01:22:04 2019	William (STEAM_0:0:52504530): also got an arcade here
+Tue Jul 30 01:22:16 2019	William (STEAM_0:0:52504530): its like a bootleg arcade
+Tue Jul 30 01:22:20 2019	William (STEAM_0:0:52504530): wait wtf
+Tue Jul 30 01:22:29 2019	William (STEAM_0:0:52504530): ok so um some of the machines are gone for some reason
+Tue Jul 30 01:22:42 2019	William (STEAM_0:0:52504530): there were like 10 machines there
+Tue Jul 30 01:22:58 2019	William (STEAM_0:0:52504530): i know
+Tue Jul 30 01:23:04 2019	William (STEAM_0:0:52504530): i used to have like 5 servers in the past
+Tue Jul 30 01:23:10 2019	William (STEAM_0:0:52504530): this one is like 2 weeks old
+Tue Jul 30 01:23:31 2019	William (STEAM_0:0:52504530): im the only one working on the server so development is kinda slow
+Tue Jul 30 01:24:10 2019	William (STEAM_0:0:52504530): i didnt buy any website
+Tue Jul 30 01:24:27 2019	William (STEAM_0:0:52504530): i got it for free it came with the server
+Tue Jul 30 01:24:35 2019	William (STEAM_0:0:52504530): yup
+Tue Jul 30 01:24:45 2019	William (STEAM_0:0:52504530): to play these games u need tokens
+Tue Jul 30 01:25:45 2019	William (STEAM_0:0:52504530): u insert the token in the place where u insert the token
+Tue Jul 30 01:26:36 2019	William (STEAM_0:0:52504530): lmao
+Tue Jul 30 01:27:17 2019	William (STEAM_0:0:52504530): probably
+Tue Jul 30 01:27:39 2019	William (STEAM_0:0:52504530): im gonna be adding a shit ton of stuff later today
+Tue Jul 30 01:27:44 2019	William (STEAM_0:0:52504530): i use nitrous networks
+Tue Jul 30 01:28:00 2019	William (STEAM_0:0:52504530): kryptic idfk
+Tue Jul 30 01:28:01 2019	William (STEAM_0:0:52504530): i have no idea
+Tue Jul 30 01:28:09 2019	William (STEAM_0:0:52504530): nitrous has been awesome
+Tue Jul 30 01:28:14 2019	William (STEAM_0:0:52504530): yeah ive heard of that
+Tue Jul 30 01:28:50 2019	William (STEAM_0:0:52504530): lol
+Tue Jul 30 01:29:37 2019	William (STEAM_0:0:52504530): i have no clue what you are talking about lol
+Tue Jul 30 01:29:37 2019	Sukebena-Chan (STEAM_0:1:63382511) has joined the game
+Tue Jul 30 01:29:37 2019	Bexgasm~ (STEAM_0:1:63382511) spawned
+Tue Jul 30 01:29:44 2019	William (STEAM_0:0:52504530): people who check doors?
+Tue Jul 30 01:30:06 2019	William (STEAM_0:0:52504530): sure
+Tue Jul 30 01:30:29 2019	Bexgasm~ (STEAM_0:1:63382511): // i got a LUA PROBLEM
+Tue Jul 30 01:31:12 2019	William (STEAM_0:0:52504530): /ooc i know i was doing stuff
+Tue Jul 30 01:31:24 2019	Bexgasm~ (STEAM_0:1:63382511): // you damn goober
+Tue Jul 30 01:31:38 2019	William (STEAM_0:0:52504530): RIP
+Tue Jul 30 01:31:58 2019	William (STEAM_0:0:52504530): i think so
+Tue Jul 30 01:32:26 2019	William (STEAM_0:0:52504530): the what
+Tue Jul 30 01:32:33 2019	William (STEAM_0:0:52504530): oh
+Tue Jul 30 01:32:47 2019	William (STEAM_0:0:52504530): im not used to this map
+Tue Jul 30 01:32:52 2019	William (STEAM_0:0:52504530): i used to mainly play the original downtown
+Tue Jul 30 01:33:16 2019	William (STEAM_0:0:52504530): how to use adv dupe?
+Tue Jul 30 01:33:38 2019	William (STEAM_0:0:52504530): oh i didnt know that
+Tue Jul 30 01:34:00 2019	William (STEAM_0:0:52504530): well we have a fading door limit of 4 and crouch bases arent allowed so 
+Tue Jul 30 01:34:05 2019	William (STEAM_0:0:52504530): people have to get creative 
+Tue Jul 30 01:34:10 2019	William (STEAM_0:0:52504530): yeah
+Tue Jul 30 01:34:25 2019	William (STEAM_0:0:52504530): im bouta naruto run in that shit
+Tue Jul 30 01:35:07 2019	William (STEAM_0:0:52504530): gmod is not a pretty game
+Tue Jul 30 01:35:14 2019	William (STEAM_0:0:52504530): but thats because its based off of half life 2
+Tue Jul 30 01:35:30 2019	William (STEAM_0:0:52504530): this game is old as hell
+Tue Jul 30 01:35:43 2019	William (STEAM_0:0:52504530): i started playing gmod in 2012
+Tue Jul 30 01:36:05 2019	William (STEAM_0:0:52504530): i have 1615 hours which isnt an extreme amount but i know a lot about gmod
+Tue Jul 30 01:36:25 2019	William (STEAM_0:0:52504530): nice
+Tue Jul 30 01:36:35 2019	William (STEAM_0:0:52504530): in the past two weeks ive gotten 115
+Tue Jul 30 01:36:51 2019	William (STEAM_0:0:52504530): im actually losing a lot of sleep
+Tue Jul 30 01:36:57 2019	William (STEAM_0:0:52504530): because im working on the server for so long
+Tue Jul 30 01:37:12 2019	William (STEAM_0:0:52504530): i think im just gonna wrap up some stuff for tonight and log off
+Tue Jul 30 01:37:31 2019	William (STEAM_0:0:52504530): later today the server is gonna have a lot of new stuff
+Tue Jul 30 01:37:41 2019	Bexgasm~ (STEAM_0:1:63382511): /job owo on duty
+Tue Jul 30 01:37:44 2019	William (STEAM_0:0:52504530): aight man sounds good
+Tue Jul 30 01:37:48 2019	William (STEAM_0:0:52504530): i sent u a friend request
+Tue Jul 30 01:37:57 2019	William (STEAM_0:0:52504530): aight man peace 
+Tue Jul 30 01:38:14 2019	William (STEAM_0:0:52504530): omg is that a gamer girl
+Tue Jul 30 01:38:22 2019	William (STEAM_0:0:52504530): OH SHIT ITS A NIGGA
+Tue Jul 30 01:38:38 2019	William (STEAM_0:0:52504530): im about to spend 25 dollars on addons for the server
+Tue Jul 30 01:39:04 2019	William (STEAM_0:0:52504530): purge, digital casino, accessories, and custom images to put around the map
+Tue Jul 30 01:39:21 2019	William (STEAM_0:0:52504530): yeah its not a physical casino
+Tue Jul 30 01:39:26 2019	William (STEAM_0:0:52504530): u cant go to it
+Tue Jul 30 01:39:55 2019	William (STEAM_0:0:52504530): shut the hell up man
+Tue Jul 30 01:40:47 2019	William (STEAM_0:0:52504530): 8.99
+Tue Jul 30 01:41:24 2019	William (STEAM_0:0:52504530): crash, roulette, slots, blackjack, jackpot
+Tue Jul 30 01:41:36 2019	William (STEAM_0:0:52504530): the double or nothing machines are gone
+Tue Jul 30 01:41:43 2019	William (STEAM_0:0:52504530): i didnt do that u fucker
+Tue Jul 30 01:41:50 2019	William (STEAM_0:0:52504530): i dont know
+Tue Jul 30 01:41:52 2019	William (STEAM_0:0:52504530): they are just gone
+Tue Jul 30 01:41:55 2019	Bexgasm~ (STEAM_0:1:63382511) spawned SENT double_or_nothing
+Tue Jul 30 01:41:59 2019	William (STEAM_0:0:52504530): no
+Tue Jul 30 01:42:00 2019	William (STEAM_0:0:52504530): look in the arcade
+Tue Jul 30 01:42:16 2019	Bexgasm~ (STEAM_0:1:63382511) spawned SENT double_or_nothing
+Tue Jul 30 01:42:20 2019	William (STEAM_0:0:52504530): AAAAAAAAAAAAAAAAAAAAA
+Tue Jul 30 01:42:22 2019	Bexgasm~ (STEAM_0:1:63382511) spawned SENT double_or_nothing
+Tue Jul 30 01:42:24 2019	William (STEAM_0:0:52504530): AAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+Tue Jul 30 01:42:25 2019	Bexgasm~ (STEAM_0:1:63382511) spawned SENT double_or_nothing
+Tue Jul 30 01:42:29 2019	Bexgasm~ (STEAM_0:1:63382511) spawned SENT double_or_nothing
+Tue Jul 30 01:42:33 2019	Bexgasm~ (STEAM_0:1:63382511) spawned SENT double_or_nothing
+Tue Jul 30 01:42:35 2019	William (STEAM_0:0:52504530): btw dont perma prop them or else they break
+Tue Jul 30 01:42:37 2019	Bexgasm~ (STEAM_0:1:63382511) spawned SENT double_or_nothing
+Tue Jul 30 01:42:42 2019	William (STEAM_0:0:52504530): its a command
+Tue Jul 30 01:42:49 2019	William (STEAM_0:0:52504530): !saveslots
+Tue Jul 30 01:42:55 2019	William (STEAM_0:0:52504530): what are you talking about
+Tue Jul 30 01:43:04 2019	William (STEAM_0:0:52504530): TELL ME
+Tue Jul 30 01:43:10 2019	William (STEAM_0:0:52504530): i wasnt really paying attention
+Tue Jul 30 01:43:12 2019	William (STEAM_0:0:52504530): say it again
+Tue Jul 30 01:43:18 2019	William (STEAM_0:0:52504530): scripting
+Tue Jul 30 01:43:24 2019	William (STEAM_0:0:52504530): what are you scripting
+Tue Jul 30 01:43:46 2019	William (STEAM_0:0:52504530): are you talking about scripts as in mods/hacks or scripts as in addons
+Tue Jul 30 01:43:54 2019	William (STEAM_0:0:52504530): because scripts can be either one
+Tue Jul 30 01:44:15 2019	William (STEAM_0:0:52504530): alright bud
+Tue Jul 30 01:44:16 2019	William (STEAM_0:0:52504530): cya later
+Tue Jul 30 01:44:22 2019	Nirvana (STEAM_0:1:195105820) disconnected
+Tue Jul 30 01:44:33 2019	William (STEAM_0:0:52504530): i mean yeah u can do that but like if u try to use mods on the server ur gonna get autobanned
+Tue Jul 30 01:45:04 2019	William (STEAM_0:0:52504530): if ur trying to test scripts u should do that in singleplayer because it wont work in multiplayer
+Tue Jul 30 01:45:18 2019	William (STEAM_0:0:52504530): because there is a command that prevents scripts from being started
+Tue Jul 30 01:45:28 2019	William (STEAM_0:0:52504530): ok fuck off
+Tue Jul 30 01:45:41 2019	William (STEAM_0:0:52504530): i retire
+Tue Jul 30 01:45:46 2019	Bexgasm~ (STEAM_0:1:63382511): !menu
+Tue Jul 30 01:45:51 2019	William (STEAM_0:0:52504530): shutting down the server next week
+Tue Jul 30 01:46:13 2019	William (STEAM_0:0:52504530): how the hell did you even do that
+Tue Jul 30 01:46:19 2019	William (STEAM_0:0:52504530): did u just set team
+Tue Jul 30 01:46:30 2019	William (STEAM_0:0:52504530): stop playing as my class
+Tue Jul 30 01:46:31 2019	William (STEAM_0:0:52504530): i made that for me
+Tue Jul 30 01:46:41 2019	William (STEAM_0:0:52504530): im gonna remove ur custom class
+Tue Jul 30 01:46:50 2019	William (STEAM_0:0:52504530): im gonna change the password
+Tue Jul 30 01:47:02 2019	William (STEAM_0:0:52504530): im gonna cancel the payment so the server goes down
+Tue Jul 30 01:47:10 2019	William (STEAM_0:0:52504530): OK LISTEN
+Tue Jul 30 01:47:22 2019	William (STEAM_0:0:52504530): APER
+Tue Jul 30 01:47:26 2019	William (STEAM_0:0:52504530): APER
+Tue Jul 30 01:47:37 2019	William (STEAM_0:0:52504530): im done
+Tue Jul 30 01:48:44 2019	William (STEAM_0:0:52504530): im just gonna restart the server and get off
+Tue Jul 30 01:49:18 2019	William (STEAM_0:0:52504530): ive been busy
+Tue Jul 30 01:49:36 2019	William (STEAM_0:0:52504530): half of the stuff i do can be done through csite
+Tue Jul 30 01:49:42 2019	William (STEAM_0:0:52504530): the other stuff is installing addons 
+Tue Jul 30 01:49:48 2019	William (STEAM_0:0:52504530): which is a bit more complicated
+Tue Jul 30 01:49:59 2019	William (STEAM_0:0:52504530): what does what mean
+Tue Jul 30 01:50:08 2019	William (STEAM_0:0:52504530): csite
+Tue Jul 30 01:50:11 2019	William (STEAM_0:0:52504530): is the website i gave u
+Tue Jul 30 01:50:13 2019	William (STEAM_0:0:52504530): to make ur job
+Tue Jul 30 01:50:19 2019	William (STEAM_0:0:52504530): there are multiple tools on there
+Tue Jul 30 01:50:21 2019	William (STEAM_0:0:52504530): for ammo
+Tue Jul 30 01:50:24 2019	William (STEAM_0:0:52504530): and for entities
+Tue Jul 30 01:50:27 2019	William (STEAM_0:0:52504530): not just for jobs
+Tue Jul 30 01:50:51 2019	William (STEAM_0:0:52504530): i almost had a heart attack just now
+Tue Jul 30 01:50:54 2019	William (STEAM_0:0:52504530): i thought i bought the wrong thing
+Tue Jul 30 01:51:03 2019	William (STEAM_0:0:52504530): ok im leaving now
+Tue Jul 30 01:51:48 2019	William (STEAM_0:0:52504530): im just gonna do a map restart and install the new addons later today
+Tue Jul 30 01:51:57 2019	William (STEAM_0:0:52504530): no
+Tue Jul 30 01:52:22 2019	William (STEAM_0:0:52504530): that would be the worst group ever
+Tue Jul 30 01:52:32 2019	William (STEAM_0:0:52504530): i swear to god

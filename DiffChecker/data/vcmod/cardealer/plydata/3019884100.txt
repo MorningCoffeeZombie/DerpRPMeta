@@ -1,0 +1,44 @@
+{
+	"Vehicles": {
+		"models/tdmcars/mclaren_p1.mdl$$$_VC_$$$McLaren P1$$$_VC_$$$0": {
+			"Spawned": 248.0,
+			"Health": 0.0,
+			"Fuel": 0.0,
+			"DamagedObjects": {
+				"wheel": [
+					[],
+					[]
+				],
+				"light": [
+					[],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[]
+				],
+				"exhaust": [
+					[],
+					[]
+				]
+			}
+		},
+		"models/airboat.mdl$$$_VC_$$$Airboat$$$_VC_$$$0": {
+			"Spawned": 1586.0
+		}
+	}
+}

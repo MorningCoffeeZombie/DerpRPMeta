@@ -1,0 +1,1 @@
+{"2":{"Data":{"Amount":5.0,"Contents":4.0,"Class":"fas2_galil"},"Class":"spawned_shipment"},"7":{"Data":{"Amount":6.0,"Contents":10.0,"Class":"fas2_ks23"},"Class":"spawned_shipment"}}

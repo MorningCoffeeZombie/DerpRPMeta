@@ -1,0 +1,12 @@
+Fri Jul 12 23:51:33 2019	Derp (STEAM_0:0:52504530) has joined the game
+Fri Jul 12 23:51:33 2019	Derp (STEAM_0:0:52504530) spawned
+Sat Jul 13 00:09:50 2019	Derp (STEAM_0:0:52504530): /mayor
+Sat Jul 13 00:10:43 2019	Derp (STEAM_0:0:52504530): /setmoney Derp 1000000
+Sat Jul 13 00:10:43 2019	Derp (STEAM_0:0:52504530) set Derp's money to $1,000,000
+Sat Jul 13 00:14:03 2019	Derp (STEAM_0:0:52504530): /dropmoney 50Amount
+Sat Jul 13 00:14:09 2019	Derp (STEAM_0:0:52504530): /dropmoney 40
+Sat Jul 13 00:14:10 2019	Derp (STEAM_0:0:52504530) has dropped $40
+Sat Jul 13 00:14:19 2019	Derp (STEAM_0:0:52504530): /drop
+Sat Jul 13 00:14:30 2019	Derp (STEAM_0:0:52504530): /makeshipment
+Sat Jul 13 00:14:33 2019	Derp (STEAM_0:0:52504530): /requestlicense
+Sat Jul 13 00:15:07 2019	Derp (STEAM_0:0:52504530) disconnected

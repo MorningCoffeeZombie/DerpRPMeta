@@ -1,0 +1,5 @@
+Sat Jul 13 21:46:56 2019	Derp (STEAM_0:0:52504530) has joined the game
+Sat Jul 13 21:46:56 2019	Derp (STEAM_0:0:52504530) spawned
+Sat Jul 13 22:02:01 2019	UG | M A S T E R (STEAM_0:1:180622613) has joined the game
+Sat Jul 13 22:02:01 2019	System Administrator (STEAM_0:1:180622613) spawned
+Sat Jul 13 22:02:27 2019	System Administrator (STEAM_0:1:180622613) disconnected

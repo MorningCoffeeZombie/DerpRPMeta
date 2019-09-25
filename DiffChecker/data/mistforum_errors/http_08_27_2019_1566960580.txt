@@ -1,0 +1,10 @@
+{"url":"https://derprpdonationsite.mistforums.com/api/ban",
+"data":"{\"api_secret\":\"jguWNKiEiAm9TkHS6MI60YZyG5JGXt\",
+\"reason\":\"Come back when you are old enough to drink so you can forget about the past\",
+\"ipaddress\":\"131.153.31.254\",
+\"admin\":\"DrDerpenstein(76561197987391254)\",
+\"api_key\":\"M9E17SKcEt1Bqj2kfjJavz9a67mQET\",
+\"length\":\"5875.05\",
+\"game_server_id\":\"27063\",
+\"steamid\":\"76561197960323451\"}",
+"errorMsg":"unsuccessful"}

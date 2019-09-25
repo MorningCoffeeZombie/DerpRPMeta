@@ -1,0 +1,80 @@
+Wed Aug 21 00:04:43 2019	DrDerpenstein sups.gg (STEAM_0:0:13562763) has joined the game
+Wed Aug 21 00:04:43 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Wed Aug 21 00:05:20 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Wed Aug 21 00:05:36 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_box_buckshot
+Wed Aug 21 00:05:37 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_box_buckshot
+Wed Aug 21 00:05:37 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_box_buckshot
+Wed Aug 21 00:05:37 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_box_buckshot
+Wed Aug 21 00:05:37 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_box_buckshot
+Wed Aug 21 00:05:57 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Wed Aug 21 00:06:19 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_pistol_large
+Wed Aug 21 00:07:38 2019	DrDerpenstein (STEAM_0:0:13562763): cw_l115
+Wed Aug 21 00:07:41 2019	DrDerpenstein (STEAM_0:0:13562763): cw_dp_l115
+Wed Aug 21 00:08:05 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Wed Aug 21 00:08:06 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_357_large
+Wed Aug 21 00:08:06 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_pistol_large
+Wed Aug 21 00:08:07 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_smg1_large
+Wed Aug 21 00:08:12 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_box_buckshot
+Wed Aug 21 00:11:02 2019	DrDerpenstein (STEAM_0:0:13562763): cw_dp_scarh
+Wed Aug 21 00:12:36 2019	DrDerpenstein was killed by Himself with a suicide trick
+Wed Aug 21 00:12:37 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Wed Aug 21 00:12:48 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_pistol_large
+Wed Aug 21 00:12:59 2019	DrDerpenstein (STEAM_0:0:13562763): cw_deagle
+Wed Aug 21 00:14:23 2019	DrDerpenstein (STEAM_0:0:13562763): cw_shorty
+Wed Aug 21 00:16:11 2019	DrDerpenstein (STEAM_0:0:13562763): cw_l85a2
+Wed Aug 21 00:16:33 2019	DrDerpenstein (STEAM_0:0:13562763): cw_l85a2
+Wed Aug 21 00:17:44 2019	DrDerpenstein (STEAM_0:0:13562763): cw_g36c
+Wed Aug 21 00:20:21 2019	DrDerpenstein (STEAM_0:0:13562763): models/weapons/w_rif_famas.mdl
+Wed Aug 21 00:22:06 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Wed Aug 21 00:22:06 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Wed Aug 21 00:22:06 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Wed Aug 21 00:22:06 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Wed Aug 21 00:22:07 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Wed Aug 21 00:24:16 2019	DrDerpenstein (STEAM_0:0:13562763) disconnected
+Wed Aug 21 16:54:54 2019	Turtleluck (STEAM_0:0:4113812) has joined the game
+Wed Aug 21 16:54:54 2019	Turtleluck (STEAM_0:0:4113812) spawned
+Wed Aug 21 16:57:31 2019	Turtleluck (STEAM_0:0:4113812) spawned
+Wed Aug 21 16:59:06 2019	Turtleluck (STEAM_0:0:4113812) disconnected
+Wed Aug 21 17:01:43 2019	Turtleluck (STEAM_0:0:4113812) has joined the game
+Wed Aug 21 17:01:43 2019	Turtleluck (STEAM_0:0:4113812) spawned
+Wed Aug 21 17:05:52 2019	Turtleluck (STEAM_0:0:4113812) spawned
+Wed Aug 21 17:26:32 2019	DevL (STEAM_0:0:97157625) has joined the game
+Wed Aug 21 17:26:32 2019	Ramsey Gordon (STEAM_0:0:97157625) spawned
+Wed Aug 21 17:27:58 2019	Ramsey Gordon (STEAM_0:0:97157625): /NAME
+Wed Aug 21 17:28:01 2019	Ramsey Gordon (STEAM_0:0:97157625): /name DevL
+Wed Aug 21 17:28:14 2019	Turtleluck (STEAM_0:0:4113812) spawned Vehicle prop_vehicle_jeep (xbowtdm)
+Wed Aug 21 17:29:09 2019	Turtleluck (STEAM_0:0:4113812) spawned Vehicle prop_vehicle_jeep (jag_ftypetdm)
+Wed Aug 21 17:30:15 2019	Turtleluck (STEAM_0:0:4113812) spawned
+Wed Aug 21 17:30:20 2019	DevL (STEAM_0:0:97157625) spawned
+Wed Aug 21 17:32:46 2019	DevL (STEAM_0:0:97157625): /invholster
+Wed Aug 21 17:37:16 2019	Turtleluck (STEAM_0:0:4113812) spawned
+Wed Aug 21 17:40:50 2019	Turtleluck (STEAM_0:0:4113812): /drop
+Wed Aug 21 17:50:13 2019	Turtleluck (STEAM_0:0:4113812): devil are you owner
+Wed Aug 21 17:52:45 2019	Turtleluck (STEAM_0:0:4113812) spawned Vehicle prop_vehicle_jeep (nis_leaftdm)
+Wed Aug 21 18:02:17 2019	Turtleluck (STEAM_0:0:4113812): /afk
+Wed Aug 21 18:04:53 2019	DevL (STEAM_0:0:97157625): /dropmoney 500000
+Wed Aug 21 18:04:54 2019	DevL (STEAM_0:0:97157625) has dropped $500,000
+Wed Aug 21 18:10:00 2019	Turtleluck (STEAM_0:0:4113812) disconnected
+Wed Aug 21 18:11:09 2019	DevL (STEAM_0:0:97157625): /invholster
+Wed Aug 21 18:12:29 2019	DevL (STEAM_0:0:97157625): /invholster
+Wed Aug 21 18:12:36 2019	DevL (STEAM_0:0:97157625) disconnected
+Wed Aug 21 18:52:48 2019	theresamaston (STEAM_0:1:442389183) has joined the game
+Wed Aug 21 18:52:48 2019	CJC (STEAM_0:1:442389183) spawned
+Wed Aug 21 18:53:32 2019	CJC (STEAM_0:1:442389183) spawned
+Wed Aug 21 18:54:07 2019	CJC (STEAM_0:1:442389183) spawned
+Wed Aug 21 18:56:00 2019	CJC (STEAM_0:1:442389183) spawned
+Wed Aug 21 19:06:24 2019	CJC (STEAM_0:1:442389183): /invholster
+Wed Aug 21 19:06:42 2019	CJC (STEAM_0:1:442389183): /invholster
+Wed Aug 21 19:09:57 2019	CJC (STEAM_0:1:442389183): /invholster
+Wed Aug 21 19:10:15 2019	CJC (STEAM_0:1:442389183) spawned
+Wed Aug 21 19:10:18 2019	CJC (STEAM_0:1:442389183) spawned
+Wed Aug 21 19:10:21 2019	CJC (STEAM_0:1:442389183) spawned
+Wed Aug 21 19:10:49 2019	CJC (STEAM_0:1:442389183): /invholster
+Wed Aug 21 19:10:54 2019	CJC (STEAM_0:1:442389183): /invholster
+Wed Aug 21 19:11:31 2019	CJC (STEAM_0:1:442389183) disconnected
+Wed Aug 21 20:00:11 2019	DevL (STEAM_0:0:97157625) has joined the game
+Wed Aug 21 20:00:11 2019	DevL (STEAM_0:0:97157625) spawned
+Wed Aug 21 20:07:58 2019	DevL (STEAM_0:0:97157625) disconnected
+Wed Aug 21 22:26:26 2019	Derp (STEAM_0:0:52504530) has joined the game
+Wed Aug 21 22:26:26 2019	William (STEAM_0:0:52504530) spawned
+Wed Aug 21 22:26:49 2019	William (STEAM_0:0:52504530) spawned Vehicle prop_vehicle_jeep (vauxastra12tdm)

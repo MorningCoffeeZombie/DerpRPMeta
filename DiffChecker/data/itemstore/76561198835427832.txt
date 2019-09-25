@@ -1,0 +1,1 @@
+[{"Data":{"Model":"models/zerochain/zmlab/zmlab_transportcrate_full.mdl","MethAmount":1026.0},"Class":"zmlab_collectcrate"},{"Data":{"Amount":9.0,"Class":"cw_dp_mac11","Contents":2.0},"Class":"spawned_shipment"},{"Data":{"Nutrition":100.0,"Model":"models/food/burger.mdl"},"Class":"spawned_food"}]

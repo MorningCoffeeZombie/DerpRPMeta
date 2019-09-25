@@ -1,0 +1,384 @@
+Mon Jul 15 11:45:09 2019	UG | M A S T E R (STEAM_0:1:180622613) has joined the game
+Mon Jul 15 11:45:09 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Mon Jul 15 11:45:20 2019	LV (STEAM_0:0:460419170) has joined the game
+Mon Jul 15 11:45:20 2019	LV (STEAM_0:0:460419170) spawned
+Mon Jul 15 11:45:39 2019	UG | M A S T E R (STEAM_0:1:180622613): hello
+Mon Jul 15 11:45:42 2019	LV (STEAM_0:0:460419170): Hi
+Mon Jul 15 11:45:46 2019	LV (STEAM_0:0:460419170): owner?
+Mon Jul 15 11:46:04 2019	LV (STEAM_0:0:460419170): why you place it here
+Mon Jul 15 11:46:16 2019	LV (STEAM_0:0:460419170): what happen to derp
+Mon Jul 15 11:46:26 2019	UG | M A S T E R (STEAM_0:1:180622613): wdym?
+Mon Jul 15 11:46:30 2019	LV (STEAM_0:0:460419170): derp?
+Mon Jul 15 11:46:37 2019	Dio (STEAM_0:0:497465680) has joined the game
+Mon Jul 15 11:46:37 2019	Dio (STEAM_0:0:497465680) spawned
+Mon Jul 15 11:46:39 2019	UG | M A S T E R (STEAM_0:1:180622613): What about derp?
+Mon Jul 15 11:46:43 2019	LV (STEAM_0:0:460419170): are you derp
+Mon Jul 15 11:46:57 2019	UG | M A S T E R (STEAM_0:1:180622613): No
+Mon Jul 15 11:47:05 2019	LV (STEAM_0:0:460419170): i thought derp was owner
+Mon Jul 15 11:47:10 2019	UG | M A S T E R (STEAM_0:1:180622613): He is.
+Mon Jul 15 11:47:18 2019	LV (STEAM_0:0:460419170): it says you are owner
+Mon Jul 15 11:47:39 2019	UG | M A S T E R (STEAM_0:1:180622613): yes, I need the perms from owner to test things.
+Mon Jul 15 11:47:49 2019	UG | M A S T E R (STEAM_0:1:180622613): I'm the co-owner
+Mon Jul 15 11:47:50 2019	LV (STEAM_0:0:460419170): is there a limit to how much money you can have
+Mon Jul 15 11:47:54 2019	UG | M A S T E R (STEAM_0:1:180622613): no
+Mon Jul 15 11:47:58 2019	UG | M A S T E R (STEAM_0:1:180622613): well.. kinda
+Mon Jul 15 11:47:59 2019	LV (STEAM_0:0:460419170): ok 
+Mon Jul 15 11:48:02 2019	LV (STEAM_0:0:460419170): what
+Mon Jul 15 11:48:10 2019	UG | M A S T E R (STEAM_0:1:180622613): 9e+99 is the max.
+Mon Jul 15 11:48:17 2019	Dio (STEAM_0:0:497465680): /dropmoney 1
+Mon Jul 15 11:48:18 2019	Dio (STEAM_0:0:497465680) has dropped $1
+Mon Jul 15 11:48:23 2019	LV (STEAM_0:0:460419170): oh ok
+Mon Jul 15 11:48:35 2019	Dio (STEAM_0:0:497465680): i think i need to restart gmod
+Mon Jul 15 11:48:35 2019	LV (STEAM_0:0:460419170): hold on 
+Mon Jul 15 11:48:45 2019	UG | M A S T E R (STEAM_0:1:180622613): /pm LV there is a car dealer
+Mon Jul 15 11:48:51 2019	Dio (STEAM_0:0:497465680): so brb
+Mon Jul 15 11:48:55 2019	Dio (STEAM_0:0:497465680) disconnected
+Mon Jul 15 11:49:00 2019	LV (STEAM_0:0:460419170): i know does it work
+Mon Jul 15 11:49:17 2019	UG | M A S T E R (STEAM_0:1:180622613): !bring lv
+Mon Jul 15 11:49:35 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned Vehicle prop_vehicle_jeep (fer_lafertdm)
+Mon Jul 15 11:49:48 2019	UG | M A S T E R (STEAM_0:1:180622613): get in
+Mon Jul 15 11:49:50 2019	LV (STEAM_0:0:460419170): oh that is a car
+Mon Jul 15 11:49:54 2019	LV (STEAM_0:0:460419170): how
+Mon Jul 15 11:49:58 2019	UG | M A S T E R (STEAM_0:1:180622613): e
+Mon Jul 15 11:50:08 2019	LV (STEAM_0:0:460419170): i press e
+Mon Jul 15 11:50:11 2019	Dio (STEAM_0:0:497465680) has joined the game
+Mon Jul 15 11:50:11 2019	Dio (STEAM_0:0:497465680) spawned
+Mon Jul 15 11:50:22 2019	UG | M A S T E R (STEAM_0:1:180622613): try now
+Mon Jul 15 11:50:32 2019	LV (STEAM_0:0:460419170): i bought one
+Mon Jul 15 11:50:33 2019	Dio (STEAM_0:0:497465680): /dropmoney 1
+Mon Jul 15 11:50:34 2019	Dio (STEAM_0:0:497465680) has dropped $1
+Mon Jul 15 11:50:41 2019	LV (STEAM_0:0:460419170) spawned Vehicle prop_vehicle_jeep (fer_lafertdm)
+Mon Jul 15 11:50:45 2019	Dio (STEAM_0:0:497465680): still errors
+Mon Jul 15 11:51:30 2019	UG | M A S T E R (STEAM_0:1:180622613): /pm dio Where you at.
+Mon Jul 15 11:51:38 2019	Dio (STEAM_0:0:497465680): sewers
+Mon Jul 15 11:51:46 2019	LV (STEAM_0:0:460419170): !god
+Mon Jul 15 11:52:07 2019	Dio (STEAM_0:0:497465680): im stuck XD
+Mon Jul 15 11:52:26 2019	Dio (STEAM_0:0:497465680): im at the sewer lid by spawn
+Mon Jul 15 11:52:34 2019	Dio (STEAM_0:0:497465680): but it wont open
+Mon Jul 15 11:53:08 2019	LV (STEAM_0:0:460419170): !goto UG
+Mon Jul 15 11:53:27 2019	LV (STEAM_0:0:460419170): !goto dio
+Mon Jul 15 11:53:38 2019	LV (STEAM_0:0:460419170): Hello
+Mon Jul 15 11:53:59 2019	LV (STEAM_0:0:460419170): i am going to be a weed grower want to grow with me
+Mon Jul 15 11:54:11 2019	LV (STEAM_0:0:460419170): ok
+Mon Jul 15 11:54:22 2019	LV (STEAM_0:0:460419170): i use money printers to
+Mon Jul 15 11:54:31 2019	LV (STEAM_0:0:460419170): how did you lose health
+Mon Jul 15 11:55:18 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned Vehicle prop_vehicle_jeep (dod_ram_1500tdm)
+Mon Jul 15 11:55:25 2019	LV (STEAM_0:0:460419170): hey ug
+Mon Jul 15 11:55:29 2019	UG | M A S T E R (STEAM_0:1:180622613): hey
+Mon Jul 15 11:55:32 2019	LV (STEAM_0:0:460419170): can i bring you
+Mon Jul 15 11:55:43 2019	LV (STEAM_0:0:460419170): like pick you up i need to show you some thing
+Mon Jul 15 11:55:45 2019	iWolfz -ERP- (STEAM_0:0:443923189) has joined the game
+Mon Jul 15 11:55:45 2019	iWolfz -ERP- (STEAM_0:0:443923189) spawned
+Mon Jul 15 11:55:54 2019	UG | M A S T E R (STEAM_0:1:180622613): where?
+Mon Jul 15 11:56:08 2019	iWolfz -ERP- (STEAM_0:0:443923189): // hi
+Mon Jul 15 11:56:20 2019	LV (STEAM_0:0:460419170): this is where admins do sits right
+Mon Jul 15 11:56:26 2019	UG | M A S T E R (STEAM_0:1:180622613): mostly yes
+Mon Jul 15 11:56:41 2019	LV (STEAM_0:0:460419170): /pm ug people can come in here
+Mon Jul 15 11:56:56 2019	iWolfz -ERP- (STEAM_0:0:443923189): !goto d
+Mon Jul 15 11:57:02 2019	LV (STEAM_0:0:460419170): !goto wolf
+Mon Jul 15 11:57:14 2019	LV (STEAM_0:0:460419170): Hi
+Mon Jul 15 11:57:49 2019	iWolfz -ERP- (STEAM_0:0:443923189): ops soz
+Mon Jul 15 11:58:22 2019	iWolfz -ERP- (STEAM_0:0:443923189): my binds are faked
+Mon Jul 15 11:58:24 2019	iWolfz -ERP- (STEAM_0:0:443923189): afk gonna fix em
+Mon Jul 15 11:58:47 2019	iWolfz -ERP- (STEAM_0:0:443923189): // there
+Mon Jul 15 11:59:12 2019	iWolfz -ERP- (STEAM_0:0:443923189): u have a nice base
+Mon Jul 15 11:59:20 2019	LV (STEAM_0:0:460419170): /pm ug can we do this
+Mon Jul 15 11:59:29 2019	iWolfz -ERP- (STEAM_0:0:443923189): fak
+Mon Jul 15 11:59:35 2019	iWolfz -ERP- (STEAM_0:0:443923189): dio
+Mon Jul 15 11:59:40 2019	iWolfz -ERP- (STEAM_0:0:443923189): Can I base with you ? :D xD
+Mon Jul 15 11:59:44 2019	iWolfz -ERP- (STEAM_0:0:443923189): :D
+Mon Jul 15 11:59:48 2019	iWolfz -ERP- (STEAM_0:0:443923189): Can u delete thi
+Mon Jul 15 11:59:57 2019	iWolfz -ERP- (STEAM_0:0:443923189): I'm gonna make a shooting window
+Mon Jul 15 12:00:31 2019	LV (STEAM_0:0:460419170): !goto ug
+Mon Jul 15 12:00:41 2019	LV (STEAM_0:0:460419170): is there only one weed buyer
+Mon Jul 15 12:02:02 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Mon Jul 15 12:02:07 2019	iWolfz -ERP- (STEAM_0:0:443923189): u scaredm e
+Mon Jul 15 12:02:11 2019	UG | M A S T E R (STEAM_0:1:180622613): how are you doin.
+Mon Jul 15 12:02:27 2019	UG | M A S T E R (STEAM_0:1:180622613): /pm lv No
+Mon Jul 15 12:04:07 2019	iWolfz -ERP- (STEAM_0:0:443923189): dio code
+Mon Jul 15 12:04:09 2019	iWolfz -ERP- (STEAM_0:0:443923189): code
+Mon Jul 15 12:04:18 2019	iWolfz -ERP- (STEAM_0:0:443923189): // dio
+Mon Jul 15 12:04:32 2019	UG | M A S T E R (STEAM_0:1:180622613): you see
+Mon Jul 15 12:05:10 2019	UG | M A S T E R (STEAM_0:1:180622613): how's that
+Mon Jul 15 12:05:31 2019	UG | M A S T E R (STEAM_0:1:180622613): only works like that
+Mon Jul 15 12:05:47 2019	LV (STEAM_0:0:460419170): !goto ug
+Mon Jul 15 12:05:49 2019	UG | M A S T E R (STEAM_0:1:180622613): World glow
+Mon Jul 15 12:05:51 2019	LV (STEAM_0:0:460419170): hey ug
+Mon Jul 15 12:05:56 2019	UG | M A S T E R (STEAM_0:1:180622613): hi
+Mon Jul 15 12:06:04 2019	LV (STEAM_0:0:460419170): moeny reset?
+Mon Jul 15 12:06:15 2019	LV (STEAM_0:0:460419170): theres a money reset
+Mon Jul 15 12:06:24 2019	UG | M A S T E R (STEAM_0:1:180622613): on friday 19th
+Mon Jul 15 12:06:31 2019	LV (STEAM_0:0:460419170): what about my hard work
+Mon Jul 15 12:06:40 2019	UG | M A S T E R (STEAM_0:1:180622613): with the broken printers?
+Mon Jul 15 12:06:52 2019	LV (STEAM_0:0:460419170): no my hard work to get this money
+Mon Jul 15 12:06:57 2019	LV (STEAM_0:0:460419170): i have 400k
+Mon Jul 15 12:07:20 2019	UG | M A S T E R (STEAM_0:1:180622613): starting money is going to be 25k. So when the reset happens you'll have 25k
+Mon Jul 15 12:07:31 2019	UG | M A S T E R (STEAM_0:1:180622613): as well as me
+Mon Jul 15 12:07:34 2019	UG | M A S T E R (STEAM_0:1:180622613): and everyone else
+Mon Jul 15 12:07:38 2019	LV (STEAM_0:0:460419170): well i will go back
+Mon Jul 15 12:07:42 2019	LV (STEAM_0:0:460419170): and make more money
+Mon Jul 15 12:08:09 2019	UG | M A S T E R (STEAM_0:1:180622613): well. Won't really be a use. Also, you can invetory your money. So you can use it when the reset happens
+Mon Jul 15 12:08:22 2019	LV (STEAM_0:0:460419170): how do you inventory it
+Mon Jul 15 12:08:33 2019	UG | M A S T E R (STEAM_0:1:180622613): using the invetory pickup
+Mon Jul 15 12:08:39 2019	UG | M A S T E R (STEAM_0:1:180622613): /dropmoney 100
+Mon Jul 15 12:08:40 2019	UG | M A S T E R (STEAM_0:1:180622613) has dropped $100
+Mon Jul 15 12:08:47 2019	LV (STEAM_0:0:460419170): there is no inventory pickup
+Mon Jul 15 12:08:59 2019	LV (STEAM_0:0:460419170): only a pocket
+Mon Jul 15 12:09:06 2019	LV (STEAM_0:0:460419170): oh ok thank you
+Mon Jul 15 12:09:22 2019	LV (STEAM_0:0:460419170): /dropmoney 403551
+Mon Jul 15 12:09:23 2019	LV (STEAM_0:0:460419170) has dropped $403,551
+Mon Jul 15 12:09:30 2019	LV (STEAM_0:0:460419170): thank you
+Mon Jul 15 12:09:47 2019	iWolfz -ERP- (STEAM_0:0:443923189): dio, make a keypad
+Mon Jul 15 12:09:50 2019	LV (STEAM_0:0:460419170): /y can i buy a gun
+Mon Jul 15 12:10:21 2019	iWolfz -ERP- (STEAM_0:0:443923189): put on secured
+Mon Jul 15 12:10:34 2019	iWolfz -ERP- (STEAM_0:0:443923189): secure mode check that
+Mon Jul 15 12:10:41 2019	LV (STEAM_0:0:460419170): yes
+Mon Jul 15 12:11:06 2019	LV (STEAM_0:0:460419170): hold on
+Mon Jul 15 12:11:30 2019	LV (STEAM_0:0:460419170): m3 super 90
+Mon Jul 15 12:11:32 2019	LV (STEAM_0:0:460419170): ?
+Mon Jul 15 12:11:47 2019	LV (STEAM_0:0:460419170): the best gun?
+Mon Jul 15 12:11:58 2019	LV (STEAM_0:0:460419170): can i get sniper and galil
+Mon Jul 15 12:12:06 2019	LV (STEAM_0:0:460419170): let me get money
+Mon Jul 15 12:12:10 2019	iWolfz -ERP- (STEAM_0:0:443923189): /pm dio the code for the keypad is 4811
+Mon Jul 15 12:12:17 2019	iWolfz -ERP- (STEAM_0:0:443923189): // shat
+Mon Jul 15 12:12:22 2019	LV (STEAM_0:0:460419170): how much
+Mon Jul 15 12:12:30 2019	LV (STEAM_0:0:460419170): /dropmoney 12000
+Mon Jul 15 12:12:31 2019	LV (STEAM_0:0:460419170) has dropped $12,000
+Mon Jul 15 12:13:01 2019	iWolfz -ERP- (STEAM_0:0:443923189): // UG
+Mon Jul 15 12:13:06 2019	UG | M A S T E R (STEAM_0:1:180622613): // yes
+Mon Jul 15 12:13:17 2019	iWolfz -ERP- (STEAM_0:0:443923189): // have u gotten new printers
+Mon Jul 15 12:13:46 2019	LV (STEAM_0:0:460419170): /dropmoney 391551
+Mon Jul 15 12:13:47 2019	LV (STEAM_0:0:460419170) has dropped $391,551
+Mon Jul 15 12:14:15 2019	LV (STEAM_0:0:460419170): is it a lot of money
+Mon Jul 15 12:14:23 2019	iWolfz -ERP- (STEAM_0:0:443923189): hi
+Mon Jul 15 12:14:25 2019	UG | M A S T E R (STEAM_0:1:180622613): hi
+Mon Jul 15 12:14:32 2019	UG | M A S T E R (STEAM_0:1:180622613): I've gotten new printers
+Mon Jul 15 12:14:35 2019	iWolfz -ERP- (STEAM_0:0:443923189): :
+Mon Jul 15 12:14:40 2019	iWolfz -ERP- (STEAM_0:0:443923189): Why Can't I access em
+Mon Jul 15 12:14:58 2019	iWolfz -ERP- (STEAM_0:0:443923189): I only get these
+Mon Jul 15 12:15:21 2019	UG | M A S T E R (STEAM_0:1:180622613): I got to nerf them
+Mon Jul 15 12:15:25 2019	iWolfz -ERP- (STEAM_0:0:443923189): // ye xD
+Mon Jul 15 12:15:38 2019	UG | M A S T E R (STEAM_0:1:180622613): which I can do right now
+Mon Jul 15 12:15:47 2019	iWolfz -ERP- (STEAM_0:0:443923189): // 10 dollars er sec
+Mon Jul 15 12:15:54 2019	UG | M A S T E R (STEAM_0:1:180622613): The diamond printer has a 10% chance of over heating
+Mon Jul 15 12:16:13 2019	iWolfz -ERP- (STEAM_0:0:443923189): // Derp owes me 1mil xD
+Mon Jul 15 12:16:23 2019	UG | M A S T E R (STEAM_0:1:180622613): you should buy the ultra printer
+Mon Jul 15 12:16:25 2019	LV (STEAM_0:0:460419170): // what are the printers called
+Mon Jul 15 12:16:27 2019	UG | M A S T E R (STEAM_0:1:180622613): I added it with gprinters.
+Mon Jul 15 12:16:30 2019	iWolfz -ERP- (STEAM_0:0:443923189): // printer
+Mon Jul 15 12:16:43 2019	iWolfz -ERP- (STEAM_0:0:443923189): // there is no ultra printer
+Mon Jul 15 12:16:46 2019	LV (STEAM_0:0:460419170): // silver?
+Mon Jul 15 12:16:52 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Mon Jul 15 12:17:17 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Mon Jul 15 12:17:17 2019	LV (STEAM_0:0:460419170): /dropmoney 391551
+Mon Jul 15 12:17:18 2019	LV (STEAM_0:0:460419170) has dropped $391,551
+Mon Jul 15 12:18:02 2019	UG | M A S T E R (STEAM_0:1:180622613): How do you know if it's going to heat up
+Mon Jul 15 12:18:27 2019	iWolfz -ERP- (STEAM_0:0:443923189): // ug come
+Mon Jul 15 12:18:31 2019	LV (STEAM_0:0:460419170): !goto ug
+Mon Jul 15 12:18:37 2019	LV (STEAM_0:0:460419170): shoot me
+Mon Jul 15 12:18:37 2019	iWolfz -ERP- (STEAM_0:0:443923189): look
+Mon Jul 15 12:18:44 2019	iWolfz -ERP- (STEAM_0:0:443923189): Mine is glitched
+Mon Jul 15 12:18:46 2019	iWolfz -ERP- (STEAM_0:0:443923189): ook at the heat
+Mon Jul 15 12:18:48 2019	iWolfz -ERP- (STEAM_0:0:443923189): look*
+Mon Jul 15 12:18:48 2019	iWolfz -ERP- (STEAM_0:0:443923189): xD
+Mon Jul 15 12:18:55 2019	UG | M A S T E R (STEAM_0:1:180622613): xD
+Mon Jul 15 12:19:04 2019	iWolfz -ERP- (STEAM_0:0:443923189): wait nmv
+Mon Jul 15 12:19:05 2019	LV (STEAM_0:0:460419170): shoot me once
+Mon Jul 15 12:19:06 2019	UG | M A S T E R (STEAM_0:1:180622613): 7.5k heat
+Mon Jul 15 12:19:10 2019	UG | M A S T E R (STEAM_0:1:180622613): nice
+Mon Jul 15 12:19:10 2019	iWolfz -ERP- (STEAM_0:0:443923189): ye
+Mon Jul 15 12:19:11 2019	iWolfz -ERP- (STEAM_0:0:443923189): xD
+Mon Jul 15 12:19:17 2019	LV (STEAM_0:0:460419170): spray
+Mon Jul 15 12:19:18 2019	iWolfz -ERP- (STEAM_0:0:443923189): Gonna go allahuakbar soon
+Mon Jul 15 12:19:25 2019	LV (STEAM_0:0:460419170): !ungod
+Mon Jul 15 12:19:28 2019	LV (STEAM_0:0:460419170): now try
+Mon Jul 15 12:19:29 2019	LV (STEAM_0:0:460419170): ok
+Mon Jul 15 12:19:30 2019	UG | M A S T E R (STEAM_0:1:180622613): no
+Mon Jul 15 12:19:33 2019	iWolfz -ERP- (STEAM_0:0:443923189): lol
+Mon Jul 15 12:19:34 2019	LV (STEAM_0:0:460419170): keep the gun
+Mon Jul 15 12:19:51 2019	LV (STEAM_0:0:460419170): is that the silver one
+Mon Jul 15 12:20:01 2019	iWolfz -ERP- (STEAM_0:0:443923189): I'm so hungry irl I am eating frozen fries
+Mon Jul 15 12:20:03 2019	iWolfz -ERP- (STEAM_0:0:443923189): uhh
+Mon Jul 15 12:20:11 2019	iWolfz -ERP- (STEAM_0:0:443923189): No it's the bronze one xD
+Mon Jul 15 12:20:14 2019	LV (STEAM_0:0:460419170): oh ok
+Mon Jul 15 12:20:19 2019	iWolfz -ERP- (STEAM_0:0:443923189): I'm poor af
+Mon Jul 15 12:20:25 2019	LV (STEAM_0:0:460419170): i need to go back to my base
+Mon Jul 15 12:20:28 2019	iWolfz -ERP- (STEAM_0:0:443923189): k
+Mon Jul 15 12:20:42 2019	iWolfz -ERP- (STEAM_0:0:443923189): /pm ug what is the symbol besides our name?
+Mon Jul 15 12:20:43 2019	iWolfz -ERP- (STEAM_0:0:443923189): // t
+Mon Jul 15 12:20:44 2019	UG | M A S T E R (STEAM_0:1:180622613): The cap for the printers are high af
+Mon Jul 15 12:20:48 2019	LV (STEAM_0:0:460419170): how do you upgrade
+Mon Jul 15 12:20:52 2019	iWolfz -ERP- (STEAM_0:0:443923189): idk
+Mon Jul 15 12:21:01 2019	UG | M A S T E R (STEAM_0:1:180622613): The cap you can hold is 9e+99
+Mon Jul 15 12:21:06 2019	iWolfz -ERP- (STEAM_0:0:443923189): /pm ug what is the symbol besides our name?
+Mon Jul 15 12:21:10 2019	iWolfz -ERP- (STEAM_0:0:443923189): // ug
+Mon Jul 15 12:21:21 2019	LV (STEAM_0:0:460419170): i am going to my base i will be back
+Mon Jul 15 12:21:23 2019	iWolfz -ERP- (STEAM_0:0:443923189): k
+Mon Jul 15 12:21:28 2019	LV (STEAM_0:0:460419170): can i no clip
+Mon Jul 15 12:21:53 2019	UG | M A S T E R (STEAM_0:1:180622613): !strip dio
+Mon Jul 15 12:22:03 2019	Dio was killed by Himself with a suicide trick
+Mon Jul 15 12:22:03 2019	UG | M A S T E R (STEAM_0:1:180622613): !slay @
+Mon Jul 15 12:22:12 2019	Dio (STEAM_0:0:497465680) spawned
+Mon Jul 15 12:22:36 2019	UG | M A S T E R (STEAM_0:1:180622613): I need to add better keypad crackers. And lockpicks
+Mon Jul 15 12:22:59 2019	iWolfz -ERP- (STEAM_0:0:443923189): // I gotta brb
+Mon Jul 15 12:23:03 2019	iWolfz -ERP- (STEAM_0:0:443923189) disconnected
+Mon Jul 15 12:24:00 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) has joined the game
+Mon Jul 15 12:24:00 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned
+Mon Jul 15 12:24:04 2019	UG | M A S T E R (STEAM_0:1:180622613): nice base
+Mon Jul 15 12:24:23 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // Hey all
+Mon Jul 15 12:24:31 2019	LV (STEAM_0:0:460419170): // Hey
+Mon Jul 15 12:24:47 2019	O. (STEAM_0:0:61782673) has joined the game
+Mon Jul 15 12:24:47 2019	O. (STEAM_0:0:61782673) spawned
+Mon Jul 15 12:24:54 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // shit my keyboards broke somwhat
+Mon Jul 15 12:25:03 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // i gotta restart my game
+Mon Jul 15 12:25:37 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) disconnected
+Mon Jul 15 12:26:24 2019	Dio was killed by Entity [0][worldspawn] with a unknown
+Mon Jul 15 12:26:27 2019	Dio (STEAM_0:0:497465680) spawned
+Mon Jul 15 12:26:34 2019	UG | M A S T E R (STEAM_0:1:180622613): where is your printer
+Mon Jul 15 12:26:41 2019	UG | M A S T E R (STEAM_0:1:180622613): where is your printer
+Mon Jul 15 12:27:35 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) has joined the game
+Mon Jul 15 12:27:35 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned
+Mon Jul 15 12:27:36 2019	UG | M A S T E R (STEAM_0:1:180622613): /police
+Mon Jul 15 12:28:00 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // alright i'm back
+Mon Jul 15 12:28:04 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // keyboards fixed
+Mon Jul 15 12:28:08 2019	O. (STEAM_0:0:61782673): // bruh
+Mon Jul 15 12:28:10 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // anyways, yo master
+Mon Jul 15 12:28:12 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Mon Jul 15 12:28:12 2019	LV (STEAM_0:0:460419170): // you have a warn?
+Mon Jul 15 12:28:17 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Mon Jul 15 12:28:21 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // Yeah i was testing out the warning system
+Mon Jul 15 12:28:26 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !goto ug
+Mon Jul 15 12:28:31 2019	UG | M A S T E R (STEAM_0:1:180622613): yes?
+Mon Jul 15 12:28:41 2019	Dio (STEAM_0:0:497465680) spawned
+Mon Jul 15 12:28:41 2019	UG | M A S T E R (STEAM_0:1:180622613) arrested Dio
+Mon Jul 15 12:28:47 2019	Dio was killed by UG | M A S T E R with a fas2_glock20
+Mon Jul 15 12:28:50 2019	UG | M A S T E R (STEAM_0:1:180622613): yes
+Mon Jul 15 12:28:53 2019	Dio (STEAM_0:0:497465680) spawned
+Mon Jul 15 12:28:58 2019	UG | M A S T E R (STEAM_0:1:180622613): Um about 10 am
+Mon Jul 15 12:29:09 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !return zook
+Mon Jul 15 12:29:17 2019	UG | M A S T E R (STEAM_0:1:180622613): /pm zoo that's when I turned it on anyways
+Mon Jul 15 12:29:21 2019	Dio was killed by UG | M A S T E R with a fas2_glock20
+Mon Jul 15 12:29:22 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // 131.153.31.254:27035
+Mon Jul 15 12:29:23 2019	Dio (STEAM_0:0:497465680) spawned
+Mon Jul 15 12:29:44 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): 
+Mon Jul 15 12:29:50 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): 
+Mon Jul 15 12:29:57 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // Yo
+Mon Jul 15 12:30:04 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // Are the money printers fixed?
+Mon Jul 15 12:30:48 2019	O. (STEAM_0:0:61782673): !menu
+Mon Jul 15 12:31:13 2019	LV (STEAM_0:0:460419170): one car
+Mon Jul 15 12:31:23 2019	LV (STEAM_0:0:460419170): i can bring you there
+Mon Jul 15 12:31:33 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !goto lv
+Mon Jul 15 12:31:38 2019	LV (STEAM_0:0:460419170): one car
+Mon Jul 15 12:31:46 2019	O. (STEAM_0:0:61782673): !menu 
+Mon Jul 15 12:31:50 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !bring o.
+Mon Jul 15 12:31:51 2019	LV (STEAM_0:0:460419170): did you buy
+Mon Jul 15 12:31:57 2019	LV (STEAM_0:0:460419170): i am going to base
+Mon Jul 15 12:32:04 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned Vehicle prop_vehicle_jeep (fer_lafertdm)
+Mon Jul 15 12:32:23 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): 
+Mon Jul 15 12:32:26 2019	O. (STEAM_0:0:61782673): 
+Mon Jul 15 12:32:31 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): /motd
+Mon Jul 15 12:32:40 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // Yo, where are the files to download for the server
+Mon Jul 15 12:32:42 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // like, the addons
+Mon Jul 15 12:33:22 2019	O. was killed by Zookie 〈メイド〉 with a m9k_honeybadger
+Mon Jul 15 12:33:24 2019	O. (STEAM_0:0:61782673) spawned
+Mon Jul 15 12:33:42 2019	O. was killed by Himself with a suicide trick
+Mon Jul 15 12:33:42 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !slay o.
+Mon Jul 15 12:33:44 2019	O. (STEAM_0:0:61782673) spawned
+Mon Jul 15 12:34:17 2019	LV was killed by Zookie 〈メイド〉 with a fas2_40mm_frag
+Mon Jul 15 12:34:22 2019	LV (STEAM_0:0:460419170) spawned
+Mon Jul 15 12:34:24 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !
+Mon Jul 15 12:34:26 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !bring lv
+Mon Jul 15 12:34:34 2019	LV (STEAM_0:0:460419170): my gun
+Mon Jul 15 12:34:38 2019	LV (STEAM_0:0:460419170): sks
+Mon Jul 15 12:34:42 2019	LV (STEAM_0:0:460419170): i will get my one
+Mon Jul 15 12:34:58 2019	LV (STEAM_0:0:460419170): /invholster
+Mon Jul 15 12:35:16 2019	LV (STEAM_0:0:460419170) spawned Vehicle prop_vehicle_jeep (fer_lafertdm)
+Mon Jul 15 12:35:30 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !goto ug
+Mon Jul 15 12:35:44 2019	LV (STEAM_0:0:460419170): i need gas
+Mon Jul 15 12:35:47 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !return zook
+Mon Jul 15 12:35:53 2019	LV (STEAM_0:0:460419170): i need gas
+Mon Jul 15 12:36:26 2019	LV (STEAM_0:0:460419170): no gas
+Mon Jul 15 12:36:41 2019	LV (STEAM_0:0:460419170): /pm ug ug i need gas
+Mon Jul 15 12:37:43 2019	Zookie 〈メイド〉 was killed by Himself with a suicide trick
+Mon Jul 15 12:37:45 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned
+Mon Jul 15 12:37:56 2019	LV (STEAM_0:0:460419170): ow
+Mon Jul 15 12:38:11 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned Vehicle prop_vehicle_jeep (fer_lafertdm)
+Mon Jul 15 12:38:12 2019	LV (STEAM_0:0:460419170): !goto ug
+Mon Jul 15 12:38:20 2019	LV (STEAM_0:0:460419170): ug how do i get gas
+Mon Jul 15 12:38:42 2019	LV (STEAM_0:0:460419170) spawned SENT vc_pickup_fuel_petrol
+Mon Jul 15 12:39:18 2019	LV (STEAM_0:0:460419170) spawned SENT vc_pickup_fuel_petrol
+Mon Jul 15 12:39:40 2019	LV (STEAM_0:0:460419170) spawned SENT vc_pickup_fuel_petrol
+Mon Jul 15 12:43:21 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): /drop
+Mon Jul 15 12:43:47 2019	Dio (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_jeep (fer_lafertdm)
+Mon Jul 15 12:43:49 2019	O. (STEAM_0:0:61782673): /drop
+Mon Jul 15 12:44:53 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !jail @ 120
+Mon Jul 15 12:44:56 2019	LV (STEAM_0:0:460419170): !goto ug
+Mon Jul 15 12:45:01 2019	LV (STEAM_0:0:460419170): ug
+Mon Jul 15 12:45:07 2019	LV (STEAM_0:0:460419170): !goto zook
+Mon Jul 15 12:45:13 2019	LV (STEAM_0:0:460419170): hey
+Mon Jul 15 12:45:24 2019	LV (STEAM_0:0:460419170): i am sorry i had a question
+Mon Jul 15 12:45:35 2019	LV (STEAM_0:0:460419170): can i get some health back
+Mon Jul 15 12:45:44 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !hp * 100
+Mon Jul 15 12:45:47 2019	LV (STEAM_0:0:460419170): you need some to
+Mon Jul 15 12:45:59 2019	LV (STEAM_0:0:460419170): !hp 100
+Mon Jul 15 12:46:08 2019	LV (STEAM_0:0:460419170): !hp lv 100
+Mon Jul 15 12:46:11 2019	LV (STEAM_0:0:460419170): thank you
+Mon Jul 15 12:46:29 2019	LV (STEAM_0:0:460419170): what happen
+Mon Jul 15 12:46:32 2019	O. (STEAM_0:0:61782673): nothin
+Mon Jul 15 12:46:36 2019	O. (STEAM_0:0:61782673): im in a call with him
+Mon Jul 15 12:46:54 2019	LV (STEAM_0:0:460419170): go to car shop and go to repair shop press return
+Mon Jul 15 12:47:17 2019	LV (STEAM_0:0:460419170): Hi
+Mon Jul 15 12:47:19 2019	O. (STEAM_0:0:61782673): hi
+Mon Jul 15 12:47:29 2019	LV (STEAM_0:0:460419170): can i have some money
+Mon Jul 15 12:48:20 2019	LV (STEAM_0:0:460419170): /pm zook hey zookie want to buy my pritners
+Mon Jul 15 12:48:33 2019	LV (STEAM_0:0:460419170): /unownalldoors
+Mon Jul 15 12:48:34 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): /pm lv I'm building rn, once i'm done, sure.
+Mon Jul 15 12:49:04 2019	Dio (STEAM_0:0:497465680): i cant return my vehicle
+Mon Jul 15 12:49:20 2019	O. (STEAM_0:0:61782673) disconnected
+Mon Jul 15 12:49:34 2019	LV (STEAM_0:0:460419170): /pm zoo never mind i destroyed them
+Mon Jul 15 12:49:38 2019	Dio (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_jeep (dod_ram_1500tdm)
+Mon Jul 15 12:49:42 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): /pm lv kk
+Mon Jul 15 12:49:57 2019	Dio (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_jeep (dod_ram_1500tdm)
+Mon Jul 15 12:50:31 2019	LV (STEAM_0:0:460419170) spawned SENT sent_deployableballoons
+Mon Jul 15 12:51:24 2019	LV (STEAM_0:0:460419170): /dropmoney 579376
+Mon Jul 15 12:51:25 2019	LV (STEAM_0:0:460419170) has dropped $579,376
+Mon Jul 15 12:52:06 2019	LV (STEAM_0:0:460419170): /drop
+Mon Jul 15 12:52:26 2019	LV (STEAM_0:0:460419170): /drop
+Mon Jul 15 12:52:47 2019	LV (STEAM_0:0:460419170): !god
+Mon Jul 15 12:52:52 2019	Dio (STEAM_0:0:497465680): so the textures are still broken
+Mon Jul 15 12:52:53 2019	LV (STEAM_0:0:460419170): !hp lv 100
+Mon Jul 15 12:52:54 2019	UG | M A S T E R (STEAM_0:1:180622613): Administrator here
+Mon Jul 15 12:52:56 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // Yo master
+Mon Jul 15 12:53:01 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // Where's the motd?
+Mon Jul 15 12:53:04 2019	UG | M A S T E R (STEAM_0:1:180622613): // hm
+Mon Jul 15 12:53:06 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // As well as all the addons for the server?
+Mon Jul 15 12:53:20 2019	LV (STEAM_0:0:460419170): !goto ug
+Mon Jul 15 12:53:27 2019	LV (STEAM_0:0:460419170): are you in god
+Mon Jul 15 12:53:45 2019	LV (STEAM_0:0:460419170): are you not me
+Mon Jul 15 12:53:59 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Mon Jul 15 12:54:07 2019	UG | M A S T E R (STEAM_0:1:180622613): check the motd
+Mon Jul 15 12:54:19 2019	LV (STEAM_0:0:460419170): cool
+Mon Jul 15 12:54:40 2019	UG | M A S T E R (STEAM_0:1:180622613): So
+Mon Jul 15 12:54:44 2019	Dio (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_jeep (dod_ram_1500tdm)
+Mon Jul 15 12:54:49 2019	UG | M A S T E R (STEAM_0:1:180622613): I think we should kill him
+Mon Jul 15 12:54:50 2019	LV (STEAM_0:0:460419170): what
+Mon Jul 15 12:55:06 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Mon Jul 15 12:55:17 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // Master -.-
+Mon Jul 15 12:55:18 2019	Dio was killed by UG | M A S T E R with a fas2_glock20
+Mon Jul 15 12:55:24 2019	Dio (STEAM_0:0:497465680) spawned
+Mon Jul 15 12:55:27 2019	LV (STEAM_0:0:460419170): you can do that
+Mon Jul 15 12:55:31 2019	LV (STEAM_0:0:460419170): sell it now
+Mon Jul 15 12:55:44 2019	LV (STEAM_0:0:460419170): !cloak lv 255
+Mon Jul 15 12:56:04 2019	LV (STEAM_0:0:460419170): hey zookie
+Mon Jul 15 12:56:09 2019	LV (STEAM_0:0:460419170): !uncloak
+Mon Jul 15 12:56:10 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): What
+Mon Jul 15 12:56:15 2019	LV (STEAM_0:0:460419170): can you spawn a ballon thing 
+Mon Jul 15 12:56:20 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): What?
+Mon Jul 15 12:56:25 2019	LV (STEAM_0:0:460419170): its in wiremod
+Mon Jul 15 12:56:32 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): under what
+Mon Jul 15 12:56:39 2019	LV (STEAM_0:0:460419170): wait i can do it
+Mon Jul 15 12:56:42 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // Why are we restarting
+Mon Jul 15 12:56:46 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // I just got on here
+Mon Jul 15 12:56:47 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // Wtf
+Mon Jul 15 12:56:52 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // Tf
+Mon Jul 15 12:56:58 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // Legit, just finished making my base.

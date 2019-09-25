@@ -1,0 +1,35 @@
+{
+	"Vehicles": {
+		"models/tdmcars/fer_lafer.mdl$$$_VC_$$$Ferrari LaFerrari$$$_VC_$$$0": {
+			"DamagedObjects": {
+				"wheel": {
+					"4": []
+				},
+				"light": {
+					"1": [],
+					"5": [],
+					"6": [],
+					"8": [],
+					"9": [],
+					"10": [],
+					"11": [],
+					"12": [],
+					"13": [],
+					"15": []
+				},
+				"exhaust": [
+					[],
+					[],
+					[],
+					[]
+				]
+			},
+			"Health": 53.0772,
+			"Fuel": 99.0,
+			"Spawned": 1799.0
+		},
+		"models/tdmcars/landrover_defender.mdl$$$_VC_$$$Land Rover Defender$$$_VC_$$$0": [],
+		"models/tdmcars/courier_truck.mdl$$$_VC_$$$Courier Truck$$$_VC_$$$0": [],
+		"models/tdmcars/emergency/chargersrt8.mdl$$$_VC_$$$Dodge Charger SRT8 Police$$$_VC_$$$1": []
+	}
+}

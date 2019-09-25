@@ -1,0 +1,1579 @@
+<Logging continued from "data/ulx_logs/08-10-19.txt">
+[07:07:07] Client "raphaelboniface02100" connected.
+[15:22:10] Client "Dio" connected.
+[15:23:43] Client "Dio" spawned in server <STEAM_0:0:497465680> (took 93 seconds).
+[15:39:16] Dropped "Dio" from server<STEAM_0:0:497465680>
+
+
+
+[18:09:39] New map: rp_downtown_tits_v2
+[18:09:54] Client "DrDerpenstein sups.gg" connected.
+[18:10:22] Client "DrDerpenstein sups.gg" spawned in server <STEAM_0:0:13562763> (took 28 seconds).
+[18:10:50] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_ar15
+[18:11:06] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[18:11:07] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2
+[18:11:07] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_357_large
+[18:11:08] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_357
+[18:11:08] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_altfire
+[18:11:09] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_crossbow
+[18:11:09] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_box_buckshot
+[18:11:09] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[18:11:10] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_grenade
+[18:11:11] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[18:11:11] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1
+[18:11:11] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_large
+[18:11:34] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_ar15
+[18:11:34] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_ar15
+[18:11:34] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_ar15
+[18:11:34] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_ar15
+[18:11:35] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_ar15
+[18:11:35] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_ar15
+[18:11:35] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_ar15
+[18:11:35] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_ar15
+[18:11:35] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_ar15
+[18:11:35] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_ar15
+[18:11:35] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_ar15
+[18:11:36] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_ar15
+[18:11:36] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_ar15
+[18:11:37] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[18:11:37] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[18:11:37] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[18:11:37] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[18:11:37] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[18:11:38] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[18:11:38] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[18:11:38] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[18:11:38] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[18:11:38] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[18:11:38] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[18:11:39] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[18:11:39] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[18:11:39] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[18:11:39] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[18:11:39] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[18:11:39] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[18:11:39] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[18:11:40] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[18:11:40] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[18:11:40] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[18:11:40] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[18:11:40] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[18:11:40] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[18:11:40] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[18:11:51] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[18:11:52] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[18:11:52] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[18:11:52] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[18:11:52] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[18:11:52] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[18:11:53] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[18:11:53] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[18:11:53] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[18:11:53] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[18:11:53] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[18:12:07] DrDerpenstein: /drop
+[18:12:40] Client "Derp" connected.
+[18:12:53] DrDerpenstein: /mrdm
+[18:13:42] Client "Derp" spawned in server <STEAM_0:0:52504530> (took 62 seconds).
+[18:14:52] Dropped "DrDerpenstein" from server<STEAM_0:0:13562763>
+[18:14:58] Dropped "William" from server<STEAM_0:0:52504530>
+
+
+
+[18:16:46] New map: rp_downtown_tits_v2
+[18:16:46] Client "DrDerpenstein sups.gg" connected.
+[18:16:46] Client "DrDerpenstein sups.gg" connected.
+[18:16:46] Client "DrDerpenstein sups.gg" connected.
+[18:17:11] Client "DrDerpenstein sups.gg" spawned in server <STEAM_0:0:13562763> (took 25 seconds).
+[18:19:28] Dropped "DrDerpenstein" from server<STEAM_0:0:13562763>
+[18:20:20] Client "DrDerpenstein sups.gg" connected.
+[18:20:45] Client "DrDerpenstein sups.gg" spawned in server <STEAM_0:0:13562763> (took 25 seconds).
+[18:21:00] Dropped "DrDerpenstein" from server<STEAM_0:0:13562763>
+
+
+
+[18:22:08] New map: rp_downtown_tits_v2
+[18:22:08] Client "DrDerpenstein sups.gg" connected.
+[18:22:35] Client "DrDerpenstein sups.gg" spawned in server <STEAM_0:0:13562763> (took 27 seconds).
+[18:33:44] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_smoke_grenade
+[18:33:55] DrDerpenstein: /drop
+[18:34:04] DrDerpenstein: /drop
+[18:34:09] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[18:34:09] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[18:34:09] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[18:34:09] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[18:34:09] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[18:34:10] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[18:34:10] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[18:34:10] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[18:34:10] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[18:34:10] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[18:36:26] DrDerpenstein<STEAM_0:0:13562763> spawned vehicle models/tdmcars/hummerh1_open.mdl
+[18:36:31] DrDerpenstein<STEAM_0:0:13562763> used the tool colour on maps/rp_downtown_tits_v2.bsp
+[18:36:31] DrDerpenstein<STEAM_0:0:13562763> used the tool colour on models/tdmcars/hummerh1_open.mdl
+[18:36:34] DrDerpenstein<STEAM_0:0:13562763> used the tool colour on models/tdmcars/hummerh1_open.mdl
+[18:36:38] DrDerpenstein<STEAM_0:0:13562763> used the tool colour on models/tdmcars/hummerh1_open.mdl
+[18:36:41] DrDerpenstein<STEAM_0:0:13562763> used the tool colour on models/tdmcars/hummerh1_open.mdl
+[18:36:44] DrDerpenstein<STEAM_0:0:13562763> used the tool colour on models/tdmcars/hummerh1_open.mdl
+[18:36:51] DrDerpenstein<STEAM_0:0:13562763> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[18:36:52] DrDerpenstein<STEAM_0:0:13562763> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[18:36:53] DrDerpenstein<STEAM_0:0:13562763> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[18:36:53] DrDerpenstein<STEAM_0:0:13562763> spawned vehicle models/tdmcars/hummerh1_open.mdl
+[18:37:28] DrDerpenstein<STEAM_0:0:13562763> used the tool material on models/tdmcars/hummerh1_open.mdl
+[18:37:33] DrDerpenstein<STEAM_0:0:13562763> used the tool material on models/tdmcars/hummerh1_open.mdl
+[18:37:39] DrDerpenstein<STEAM_0:0:13562763> used the tool material on models/tdmcars/hummerh1_open.mdl
+[18:37:42] DrDerpenstein<STEAM_0:0:13562763> used the tool material on models/tdmcars/hummerh1_open.mdl
+[18:37:55] DrDerpenstein<STEAM_0:0:13562763> used the tool material on models/tdmcars/hummerh1_open.mdl
+[18:37:56] DrDerpenstein<STEAM_0:0:13562763> used the tool material on models/tdmcars/hummerh1_open.mdl
+[18:37:58] DrDerpenstein<STEAM_0:0:13562763> used the tool material on models/tdmcars/hummerh1_open.mdl
+[18:37:59] DrDerpenstein<STEAM_0:0:13562763> used the tool material on models/tdmcars/hummerh1_open.mdl
+[18:38:01] DrDerpenstein<STEAM_0:0:13562763> used the tool material on models/tdmcars/hummerh1_open.mdl
+[18:38:04] DrDerpenstein<STEAM_0:0:13562763> used the tool material on models/tdmcars/hummerh1_open.mdl
+[18:38:09] DrDerpenstein<STEAM_0:0:13562763> used the tool material on models/props_c17/door01_left.mdl
+[18:38:10] DrDerpenstein<STEAM_0:0:13562763> used the tool material on models/props_c17/door01_left.mdl
+[18:38:11] DrDerpenstein<STEAM_0:0:13562763> used the tool material on *267
+[18:38:12] DrDerpenstein<STEAM_0:0:13562763> used the tool material on *267
+[18:38:19] DrDerpenstein<STEAM_0:0:13562763> used the tool material on *72
+[18:38:20] DrDerpenstein<STEAM_0:0:13562763> used the tool material on *72
+[18:38:23] DrDerpenstein<STEAM_0:0:13562763> used the tool remover on *72
+[18:38:29] DrDerpenstein<STEAM_0:0:13562763> used the tool nocollide on models/tdmcars/hummerh1_open.mdl
+[18:38:30] DrDerpenstein<STEAM_0:0:13562763> used the tool nocollide on models/tdmcars/hummerh1_open.mdl
+[18:38:31] DrDerpenstein<STEAM_0:0:13562763> used the tool nocollide on models/tdmcars/hummerh1_open.mdl
+[18:38:33] DrDerpenstein<STEAM_0:0:13562763> used the tool nocollide on models/tdmcars/hummerh1_open.mdl
+[18:38:34] DrDerpenstein<STEAM_0:0:13562763> used the tool nocollide on models/tdmcars/hummerh1_open.mdl
+[18:38:35] DrDerpenstein<STEAM_0:0:13562763> used the tool nocollide on models/tdmcars/hummerh1_open.mdl
+[18:38:37] DrDerpenstein<STEAM_0:0:13562763> used the tool nocollide on models/tdmcars/hummerh1_open.mdl
+[18:40:39] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_c17/lockers001a.mdl
+[18:41:07] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_c17/gate_door01a.mdl
+[18:41:17] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_c17/lockers001a.mdl
+[18:41:30] DrDerpenstein: !apg
+[18:41:46] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_c17/lockers001a.mdl
+[18:41:59] DrDerpenstein: !apg
+[18:42:26] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_c17/furniturewashingmachine001a.mdl
+[18:42:30] DrDerpenstein: !apg
+[18:42:40] DrDerpenstein: !apg
+[18:42:52] DrDerpenstein: !apg
+[18:43:23] DrDerpenstein: !apg
+[18:44:28] DrDerpenstein<STEAM_0:0:13562763> used the tool stacker_improved on models/props_c17/furniturewashingmachine001a.mdl
+[18:44:28] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_c17/furniturewashingmachine001a.mdl
+[18:44:29] DrDerpenstein<STEAM_0:0:13562763> used the tool stacker_improved on models/props_c17/furniturewashingmachine001a.mdl
+[18:44:29] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_c17/furniturewashingmachine001a.mdl
+[18:44:35] DrDerpenstein: !apg
+[18:44:42] DrDerpenstein<STEAM_0:0:13562763> used the tool stacker_improved on models/tdmcars/hummerh1_open.mdl
+[18:44:42] DrDerpenstein<STEAM_0:0:13562763> used the tool stacker_improved on models/tdmcars/hummerh1_open.mdl
+[18:44:55] Client "Heisenberg [NamelessRP]" connected.
+[18:45:02] Client "Heisenberg [NamelessRP]" connected.
+[18:45:07] Client "Heisenberg [NamelessRP]" connected.
+[18:45:50] Dropped "DrDerpenstein" from server<STEAM_0:0:13562763>
+[18:57:17] Client "DrDerpenstein sups.gg" connected.
+[18:57:22] Client "DrDerpenstein sups.gg" connected.
+[18:57:50] Client "DrDerpenstein sups.gg" spawned in server <STEAM_0:0:13562763> (took 28 seconds).
+[18:59:40] DrDerpenstein<STEAM_0:0:13562763> spawned sent cw_ammo_crate_regular
+[19:02:01] DrDerpenstein<STEAM_0:0:13562763> spawned sent cw_ammo_crate_regular
+[19:02:29] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[19:02:31] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[19:02:31] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[19:02:31] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[19:02:31] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[19:02:31] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[19:02:31] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[19:02:31] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[19:02:32] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[19:02:32] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[19:02:32] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[19:02:32] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[19:04:33] Dropped "DrDerpenstein" from server<STEAM_0:0:13562763>
+[21:06:23] Client "Dio" connected.
+[21:07:39] Client "Dio" spawned in server <STEAM_0:0:497465680> (took 76 seconds).
+[21:09:33] Dio<STEAM_0:0:497465680> used the tool stacker_improved on *118
+[21:09:34] Dio<STEAM_0:0:497465680> used the tool stacker_improved on *118
+[21:09:34] Dio<STEAM_0:0:497465680> used the tool stacker_improved on *118
+[21:10:06] Dio<STEAM_0:0:497465680> used the tool camera on *151
+[21:10:13] Dio: /acc
+[21:14:08] Dio<STEAM_0:0:497465680> spawned vehicle models/nova/chair_office02.mdl
+[21:14:21] Dio<STEAM_0:0:497465680> used the tool camera on maps/rp_downtown_tits_v2.bsp
+[21:16:01] Dio<STEAM_0:0:497465680> spawned model models/props_combine/breenchair.mdl
+[21:16:06] Dio<STEAM_0:0:497465680> spawned model models/props_combine/breenchair.mdl
+[21:16:09] Dio<STEAM_0:0:497465680> used the tool camera on maps/rp_downtown_tits_v2.bsp
+[21:18:21] Client "jackattack20203" connected.
+[21:19:57] Dio<STEAM_0:0:497465680> spawned sent chaosskull
+[21:22:33] Client "jackattack20203" spawned in server <STEAM_0:0:153616243> (took 252 seconds).
+[21:23:19] jackattack20203: Sup fucker
+[21:26:02] jackattack20203: 1
+[21:26:03] jackattack20203: 2
+[21:26:05] (TEAM) jackattack20203: 3
+[21:26:07] (TEAM) jackattack20203: 3
+[21:26:09] jackattack20203: 3
+[21:26:10] Dio: /advert Counter
+[21:26:16] Dio: /advert Go 
+[21:26:21] Dio: // hunt me
+[21:26:26] jackattack20203: i will
+[21:29:14] Dio: // go
+[21:29:38] Dio killed jackattack20203 using player
+[21:29:41] jackattack20203: Shet
+[21:29:55] Dio: // continue
+[21:30:02] jackattack20203: My hit gones
+[21:31:21] Dio killed jackattack20203 using weapon_fists
+[21:32:39] Dio killed jackattack20203 using weapon_fists
+[21:33:21] Dio killed jackattack20203 using weapon_fists
+[21:33:59] Dio killed jackattack20203 using player
+[21:34:21] jackattack20203<STEAM_0:0:153616243> spawned model models/props_lab/blastdoor001a.mdl
+[21:34:23] jackattack20203<STEAM_0:0:153616243> spawned model models/props_lab/blastdoor001b.mdl
+[21:34:25] jackattack20203<STEAM_0:0:153616243> spawned model models/props_lab/blastdoor001c.mdl
+[21:34:39] jackattack20203<STEAM_0:0:153616243> spawned model models/props_lab/blastdoor001b.mdl
+[21:34:46] jackattack20203<STEAM_0:0:153616243> spawned model models/props_lab/blastdoor001c.mdl
+[21:34:53] Dio killed jackattack20203 using weapon_fists
+[21:35:04] jackattack20203<STEAM_0:0:153616243> spawned model models/props_lab/blastdoor001b.mdl
+[21:35:44] Dio killed jackattack20203 using player
+[21:36:13] Dio killed jackattack20203 using player
+[21:37:19] Dio killed jackattack20203 using player
+[21:37:42] jackattack20203 killed Dio using player
+[21:37:48] jackattack20203 suicided!
+[21:37:52] Dio: /acc
+[21:40:28] jackattack20203<STEAM_0:0:153616243> spawned model models/props_c17/fence03a.mdl
+[21:40:32] jackattack20203<STEAM_0:0:153616243> spawned model models/props_c17/fence03a.mdl
+[21:40:42] jackattack20203<STEAM_0:0:153616243> spawned model models/props_c17/fence03a.mdl
+[21:40:51] jackattack20203 killed Dio using player
+[21:41:13] Dio killed jackattack20203 using weapon_fists
+[21:41:20] Dio suicided!
+[21:42:00] jackattack20203: lmao
+[21:42:21] Dio<STEAM_0:0:497465680> spawned model models/props_phx/construct/metal_plate4x4.mdl
+[21:42:27] Dio<STEAM_0:0:497465680> spawned model models/props_phx/construct/metal_plate4x4.mdl
+[21:42:33] Dio<STEAM_0:0:497465680> spawned model models/props_phx/construct/metal_plate4x4.mdl
+[21:42:35] jackattack20203: unfreeze me mortal!
+[21:43:14] jackattack20203<STEAM_0:0:153616243> used the tool textscreen on maps/rp_downtown_tits_v2.bsp
+[21:43:18] jackattack20203<STEAM_0:0:153616243> used the tool textscreen on maps/rp_downtown_tits_v2.bsp
+[21:43:19] jackattack20203<STEAM_0:0:153616243> used the tool textscreen on maps/rp_downtown_tits_v2.bsp
+[21:43:19] Dio suicided!
+[21:43:19] jackattack20203<STEAM_0:0:153616243> used the tool textscreen on maps/rp_downtown_tits_v2.bsp
+[21:43:20] jackattack20203<STEAM_0:0:153616243> used the tool textscreen on maps/rp_downtown_tits_v2.bsp
+[21:43:21] jackattack20203<STEAM_0:0:153616243> used the tool textscreen on maps/rp_downtown_tits_v2.bsp
+[21:43:21] jackattack20203<STEAM_0:0:153616243> used the tool textscreen on maps/rp_downtown_tits_v2.bsp
+[21:43:45] jackattack20203 killed Dio using player
+[21:44:16] jackattack20203<STEAM_0:0:153616243> spawned model models/props_junk/ravenholmsign.mdl
+[21:44:22] jackattack20203<STEAM_0:0:153616243> spawned model models/props_lab/filecabinet02.mdl
+[21:44:24] jackattack20203<STEAM_0:0:153616243> spawned model models/props_lab/blastdoor001c.mdl
+[21:44:29] jackattack20203<STEAM_0:0:153616243> spawned model models/props_lab/blastdoor001c.mdl
+[21:44:41] jackattack20203<STEAM_0:0:153616243> spawned model models/props_lab/blastdoor001b.mdl
+[21:44:49] jackattack20203<STEAM_0:0:153616243> spawned model models/props_lab/blastdoor001b.mdl
+[21:45:18] jackattack20203<STEAM_0:0:153616243> used the tool textscreen on models/props_lab/blastdoor001c.mdl
+[21:45:47] jackattack20203<STEAM_0:0:153616243> used the tool textscreen on models/props_lab/blastdoor001c.mdl
+[21:45:51] jackattack20203<STEAM_0:0:153616243> spawned model models/props_lab/blastdoor001c.mdl
+[21:46:14] jackattack20203<STEAM_0:0:153616243> spawned model models/props_lab/blastdoor001c.mdl
+[21:47:07] jackattack20203: NOOO
+[21:47:27] jackattack20203: Dio give me admin for a sec i need to add a fukin dupe
+[21:47:32] jackattack20203: I beg you
+[21:47:35] Dio: // no
+[21:47:36] jackattack20203: I need this shit
+[21:47:44] jackattack20203: Its funny as hell
+[21:48:02] Dio: // dude im not a admin no more i just got stripped 2 mins ago
+[21:48:11] jackattack20203: What happened
+[21:48:16] Dio: // idk
+[21:48:26] Client "DrDerpenstein sups.gg" connected.
+[21:48:51] jackattack20203: WTF
+[21:48:57] Client "DrDerpenstein sups.gg" spawned in server <STEAM_0:0:13562763> (took 31 seconds).
+[21:49:01] jackattack20203: I yelled and got yelled at XD
+[21:49:55] jackattack20203: Drderpinstein you sound familier
+[21:51:06] jackattack20203: Are mass shooters Kosable
+[21:51:32] jackattack20203<STEAM_0:0:153616243> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[21:51:47] jackattack20203<STEAM_0:0:153616243> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[21:52:04] jackattack20203<STEAM_0:0:153616243> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[21:52:05] jackattack20203<STEAM_0:0:153616243> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[21:52:06] jackattack20203<STEAM_0:0:153616243> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[21:52:07] jackattack20203<STEAM_0:0:153616243> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[21:52:07] jackattack20203<STEAM_0:0:153616243> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[21:52:08] jackattack20203<STEAM_0:0:153616243> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[21:52:08] jackattack20203<STEAM_0:0:153616243> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[21:52:11] jackattack20203<STEAM_0:0:153616243> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[21:52:11] jackattack20203<STEAM_0:0:153616243> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[21:52:11] jackattack20203<STEAM_0:0:153616243> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[21:52:12] jackattack20203<STEAM_0:0:153616243> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[21:52:12] jackattack20203<STEAM_0:0:153616243> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[21:53:22] Dio: !bring jackattack20203
+[21:53:22] Dio brought jackattack20203
+[21:53:23] Dio killed jackattack20203 using player
+[21:53:30] Dio: !bring jackattack20203
+[21:53:34] jackattack20203: return me mortal
+[21:53:41] Dio: !bring jackattack20203
+[21:53:41] Dio brought jackattack20203
+[21:53:44] jackattack20203 killed Dio using player
+[21:54:41] jackattack20203: Dio ever see a goomba stimp
+[21:54:44] jackattack20203: stomp
+[21:54:48] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_healthkit
+[21:54:49] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_healthkit
+[21:54:51] jackattack20203: wanna see one
+[21:55:27] DrDerpenstein killed jackattack20203 using player
+[21:55:38] DrDerpenstein killed jackattack20203 using player
+[21:55:45] jackattack20203: It
+[21:55:57] DrDerpenstein killed jackattack20203 using player
+[21:56:01] jackattack20203: lol
+[21:56:23] Dio killed DrDerpenstein using player
+[21:56:31] Dio killed jackattack20203 using player
+[21:56:42] jackattack20203: Even more a reason i wanna be a mod
+[21:57:10] jackattack20203: lmao i start on september
+[21:57:19] Dio<STEAM_0:0:497465680> spawned/gave himself swep cw_g36c
+[21:57:21] Dio<STEAM_0:0:497465680> spawned/gave himself swep cw_ump45
+[21:57:22] Dio<STEAM_0:0:497465680> spawned/gave himself swep cw_deagle
+[21:57:24] Dio<STEAM_0:0:497465680> spawned/gave himself swep cw_mac11
+[21:57:26] Dio<STEAM_0:0:497465680> spawned/gave himself swep cw_makarov
+[21:57:27] Dio<STEAM_0:0:497465680> spawned/gave himself swep cw_shorty
+[21:57:28] Dio<STEAM_0:0:497465680> spawned/gave himself swep cw_m1911
+[21:57:29] Dio<STEAM_0:0:497465680> spawned/gave himself swep cw_m14
+[21:57:31] Dio<STEAM_0:0:497465680> spawned/gave himself swep cw_l115
+[21:57:35] DrDerpenstein<STEAM_0:0:13562763> spawned sent cw_ammo_crate_regular
+[21:57:43] Dio<STEAM_0:0:497465680> spawned/gave himself swep med_kit
+[21:57:51] jackattack20203<STEAM_0:0:153616243> spawned model models/props_c17/fence03a.mdl
+[21:58:09] Dio<STEAM_0:0:497465680> spawned/gave himself swep cw_mp5
+[21:58:11] Dio<STEAM_0:0:497465680> spawned/gave himself swep cw_ar15
+[21:58:12] Dio<STEAM_0:0:497465680> spawned/gave himself swep cw_m14
+[21:58:15] Dio<STEAM_0:0:497465680> spawned/gave himself swep cw_m249_official
+[21:58:17] Dio<STEAM_0:0:497465680> spawned/gave himself swep cw_m1911
+[21:58:17] Dio<STEAM_0:0:497465680> spawned/gave himself swep cw_m1911
+[21:58:19] Dio<STEAM_0:0:497465680> spawned/gave himself swep cw_vss
+[21:58:22] Dio<STEAM_0:0:497465680> spawned/gave himself swep cw_shorty
+[21:58:23] Dio<STEAM_0:0:497465680> spawned/gave himself swep cw_makarov
+[21:58:24] Dio<STEAM_0:0:497465680> spawned/gave himself swep cw_p99
+[21:58:25] Dio<STEAM_0:0:497465680> spawned/gave himself swep cw_mr96
+[21:58:26] Dio<STEAM_0:0:497465680> spawned/gave himself swep cw_mac11
+[21:58:27] Dio<STEAM_0:0:497465680> spawned/gave himself swep cw_m3super90
+[21:58:28] jackattack20203<STEAM_0:0:153616243> spawned model models/props_c17/fence03a.mdl
+[21:58:29] Dio<STEAM_0:0:497465680> spawned/gave himself swep cw_ak74
+[21:58:30] Dio<STEAM_0:0:497465680> spawned/gave himself swep cw_ar15
+[21:58:31] Dio<STEAM_0:0:497465680> spawned/gave himself swep cw_ump45
+[21:58:32] Dio<STEAM_0:0:497465680> spawned/gave himself swep cw_mp5
+[21:58:33] Dio<STEAM_0:0:497465680> spawned/gave himself swep cw_flash_grenade
+[21:58:35] Dio<STEAM_0:0:497465680> spawned/gave himself swep cw_fiveseven
+[21:58:36] Dio<STEAM_0:0:497465680> spawned/gave himself swep cw_l85a2
+[21:58:40] Client "Derp" connected.
+[21:58:52] jackattack20203: oh shit wad upp
+[21:59:01] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[21:59:01] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[21:59:01] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[21:59:01] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[21:59:01] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[21:59:01] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[21:59:04] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[21:59:09] Dio killed jackattack20203 using player
+[21:59:18] DrDerpenstein<STEAM_0:0:13562763> spawned vehicle models/tdmcars/hummerh1_open.mdl
+[21:59:20] Client "Derp" spawned in server <STEAM_0:0:52504530> (took 40 seconds).
+[21:59:24] DrDerpenstein<STEAM_0:0:13562763> used the tool colour on models/tdmcars/hummerh1_open.mdl
+[21:59:53] William: hi
+[22:00:19] Dio<STEAM_0:0:497465680> spawned/gave himself swep cw_flash_grenade
+[22:00:35] William: by tomorrow we should have an update changing everything UI related
+[22:00:51] (TEAM) jackattack20203: You should lower gun prices and let people buy single gun
+[22:00:57] Dio<STEAM_0:0:497465680> spawned/gave himself swep weapon_nmrih_molotov
+[22:00:59] William: new HUD, new F4 menu, new chat
+[22:01:01] William: et cetera
+[22:01:13] Dio killed DrDerpenstein using rj_molotov
+[22:01:26] William: if u need anything PM me on discord
+[22:01:26] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[22:01:28] William: my name is Derp on there
+[22:01:32] jackattack20203: I will
+[22:01:34] William: u can find me on the discord channel
+[22:01:59] Dio<STEAM_0:0:497465680> spawned/used swep weapon_vfirethrower -=RESTRICTED=-
+[22:02:37] William: u would just get killed in like a nanosecond and u can lag the living shit out of the server
+[22:02:37] jackattack20203 suicided!
+[22:02:43] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[22:02:43] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[22:02:44] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[22:02:44] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[22:02:44] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[22:02:44] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[22:02:44] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[22:02:44] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[22:02:44] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[22:02:45] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[22:02:45] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[22:02:45] jackattack20203: REEEEEEEEEEEEEE
+[22:02:45] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[22:02:45] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[22:02:45] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[22:02:45] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[22:02:45] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[22:02:46] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[22:02:46] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[22:02:46] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[22:02:46] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[22:02:46] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[22:02:48] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[22:02:49] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[22:02:49] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[22:02:49] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[22:02:49] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[22:02:49] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[22:02:49] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[22:02:49] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[22:02:50] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[22:02:50] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[22:02:50] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[22:02:50] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[22:03:12] William: full UI change by tomorrow
+[22:03:27] William: im almost done with my trailer
+[22:03:36] Client "Derpyhsi" connected.
+[22:03:45] DrDerpenstein<STEAM_0:0:13562763> spawned vehicle models/tdmcars/bus.mdl
+[22:03:52] Dropped "Dio" from server<STEAM_0:0:497465680>
+[22:03:55] DrDerpenstein<STEAM_0:0:13562763> spawned vehicle models/tdmcars/trucks/gmc_c5500.mdl
+[22:03:57] jackattack20203: a REG SCHOOL BUS
+[22:04:17] jackattack20203: with screaming chilldren as it goes off a hill because the driver died
+[22:04:30] William: lmao
+[22:04:53] William: jack is there anything we should add to the server that would make it better
+[22:04:59] jackattack20203: Yes
+[22:05:04] jackattack20203: Cheaper guns
+[22:05:09] jackattack20203: And single guns
+[22:05:18] jackattack20203: Because no one has that money
+[22:05:35] jackattack20203: Yeah 
+[22:05:36] William: we can probably lower it by like 25%
+[22:05:45] jackattack20203: And wut about doors 1.5k each
+[22:05:50] jackattack20203: Thats alot
+[22:06:03] William: and adding single weapons maybe like a simple pistol or something
+[22:06:09] jackattack20203: yeah
+[22:06:22] DrDerpenstein: /casino
+[22:06:29] William: we are also gonna be adding more jobs soon
+[22:06:39] jackattack20203: Thats nice to hear
+[22:06:52] William: yeah we update every week several times
+[22:07:00] William: we are always improving the server
+[22:07:07] William: we like pretty much never play regularly because we are always working on something
+[22:07:32] DrDerpenstein: /give 2500
+[22:07:40] jackattack20203: Noice 
+[22:07:47] jackattack20203: But you should be playing
+[22:08:01] jackattack20203: I mean if all you guys are just working on updates
+[22:08:31] jackattack20203: You should be enjoying your server
+[22:09:11] jackattack20203: I mean it would be alot of stress updating your server several times a week
+[22:09:12] William: thats true but we always put our players in front of ourselves when it comes to importance in who is having fun
+[22:09:24] William: we just want people to have a good time
+[22:09:43] William: and yeah its very stressful i go to sleep like at 4 in the morning every day
+[22:09:49] DrDerpenstein: /casino
+[22:09:53] jackattack20203: Thats a problem
+[22:10:03] jackattack20203: Maybe you should do it every two weeks
+[22:10:08] jackattack20203: Take a day off
+[22:10:14] jackattack20203: do it the next day
+[22:10:18] jackattack20203: rinse and repeat
+[22:10:26] William: we are getting to the point pretty much
+[22:10:33] William: we just wanted to make sure the essentials were finished
+[22:10:42] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[22:10:48] William: this is gonna be like one of the last major updates to the server
+[22:10:56] DrDerpenstein<STEAM_0:0:13562763> used the tool stacker_improved on models/props_building_details/storefront_template001a_bars.mdl
+[22:10:56] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[22:10:59] DrDerpenstein<STEAM_0:0:13562763> used the tool stacker_improved on models/props_building_details/storefront_template001a_bars.mdl
+[22:10:59] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[22:11:08] William: the rest of the updates will consist of tweaking economic stuff and adding more jobs/weapons
+[22:11:10] DrDerpenstein<STEAM_0:0:13562763> used the tool stacker_improved on models/props_building_details/storefront_template001a_bars.mdl
+[22:11:10] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[22:11:10] DrDerpenstein<STEAM_0:0:13562763> used the tool stacker_improved on models/props_building_details/storefront_template001a_bars.mdl
+[22:11:10] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[22:11:17] DrDerpenstein<STEAM_0:0:13562763> used the tool material on models/props_building_details/storefront_template001a_bars.mdl
+[22:11:18] DrDerpenstein<STEAM_0:0:13562763> used the tool material on models/props_building_details/storefront_template001a_bars.mdl
+[22:11:18] DrDerpenstein<STEAM_0:0:13562763> used the tool material on models/props_building_details/storefront_template001a_bars.mdl
+[22:11:23] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[22:11:26] (TEAM) jackattack20203: More weapons and jobs is gonna be nice
+[22:11:35] Client "Derpyhsi" spawned in server <STEAM_0:0:120978528> (took 479 seconds).
+[22:11:41] jackattack20203: More weapons and jobs will be nice
+[22:11:48] William: definitely
+[22:11:53] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_c17/concrete_barrier001a.mdl
+[22:11:58] jackattack20203: Another person
+[22:12:16] DrDerpenstein<STEAM_0:0:13562763> used the tool material on models/props_building_details/storefront_template001a_bars.mdl
+[22:12:18] DrDerpenstein<STEAM_0:0:13562763> used the tool material on models/props_c17/concrete_barrier001a.mdl
+[22:12:20] DrDerpenstein<STEAM_0:0:13562763> used the tool material on models/props_c17/concrete_barrier001a.mdl
+[22:12:25] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_c17/concrete_barrier001a.mdl
+[22:12:28] jackattack20203<STEAM_0:0:153616243> spawned model models/props_c17/lockers001a.mdl
+[22:12:41] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_c17/concrete_barrier001a.mdl
+[22:12:46] jackattack20203: Also how long have you had this server
+[22:13:01] William: like almost a month
+[22:13:05] DrDerpenstein<STEAM_0:0:13562763> used the tool weld on models/props_c17/concrete_barrier001a.mdl
+[22:13:05] DrDerpenstein<STEAM_0:0:13562763> used the tool weld on models/props_c17/concrete_barrier001a.mdl
+[22:13:06] DrDerpenstein<STEAM_0:0:13562763> used the tool weld on models/props_c17/concrete_barrier001a.mdl
+[22:13:07] DrDerpenstein<STEAM_0:0:13562763> used the tool weld on models/props_c17/concrete_barrier001a.mdl
+[22:13:08] DrDerpenstein<STEAM_0:0:13562763> used the tool weld on models/props_c17/concrete_barrier001a.mdl
+[22:13:08] DrDerpenstein<STEAM_0:0:13562763> used the tool weld on models/props_building_details/storefront_template001a_bars.mdl
+[22:13:11] DrDerpenstein<STEAM_0:0:13562763> used the tool material on models/props_building_details/storefront_template001a_bars.mdl
+[22:13:12] jackattack20203: Ok 
+[22:13:19] DrDerpenstein<STEAM_0:0:13562763> used the tool fading_door on models/props_building_details/storefront_template001a_bars.mdl
+[22:13:26] jackattack20203: I just thought i played it once forever ago 
+[22:13:27] DrDerpenstein<STEAM_0:0:13562763> used the tool keypad_willox on maps/rp_downtown_tits_v2.bsp
+[22:13:34] DrDerpenstein<STEAM_0:0:13562763> used the tool keypad_willox on maps/rp_downtown_tits_v2.bsp
+[22:13:37] William: i had servers in the past called DerpRP
+[22:13:38] William: years ago
+[22:13:51] jackattack20203: I probaly played it
+[22:14:03] jackattack20203: Yes
+[22:14:28] jackattack20203: When could I possably apply for T-mod i would love to be one on this server
+[22:14:32] William: i am
+[22:15:16] Derpyhsi: /ooc why is there a superadmin hiding inside a building AFK?
+[22:15:35] Derpyhsi<STEAM_0:0:120978528> spawned model models/props_c17/gravestone001a.mdl
+[22:15:36] Derpyhsi<STEAM_0:0:120978528> spawned model models/props_c17/gravestone001a.mdl
+[22:15:38] jackattack20203: Gotta get those minutes up
+[22:15:57] jackattack20203: Yes>
+[22:16:34] jackattack20203: sure
+[22:17:07] Derpyhsi: !menu
+[22:17:11] DrDerpenstein: !menu
+[22:17:17] Derpyhsi: !menu
+[22:17:25] DrDerpenstein: !menu
+[22:17:29] jackattack20203: !menu
+[22:17:35] Derpyhsi: !menu
+[22:17:49] DrDerpenstein: !menu
+[22:17:52] DrDerpenstein: !menu
+[22:18:31] Derpyhsi: !menu
+[22:18:48] Dropped "William" from server<STEAM_0:0:52504530>
+[22:18:52] Client "Derp" connected.
+[22:19:05] jackattack20203: Nein
+[22:19:35] Client "Derp" spawned in server <STEAM_0:0:52504530> (took 43 seconds).
+[22:19:37] jackattack20203: How can you 
+[22:19:40] jackattack20203: WTF?
+[22:19:49] jackattack20203: How?
+[22:19:57] jackattack20203: What do i have
+[22:19:59] William: hello
+[22:20:07] jackattack20203: What do i have
+[22:20:20] jackattack20203: HOW?!?!
+[22:20:32] jackattack20203: I am skeched out
+[22:20:55] jackattack20203: Like?
+[22:21:23] jackattack20203: Hmmm
+[22:21:33] William: cool
+[22:22:31] William: well thanks for the information we appreciate it
+[22:22:51] jackattack20203: Well a 
+[22:23:03] jackattack20203: Soo what your saying
+[22:23:06] jackattack20203: Iss
+[22:23:08] William: and you know what that cvar is?
+[22:23:12] jackattack20203: You can do everything
+[22:23:26] jackattack20203: Sooo can you spawn shit?
+[22:23:33] jackattack20203: Ok ok
+[22:23:36] jackattack20203<STEAM_0:0:153616243> spawned/gave himself swep weapon_gpee
+[22:23:40] jackattack20203<STEAM_0:0:153616243> spawned/gave himself swep weapon_stungun
+[22:23:43] jackattack20203<STEAM_0:0:153616243> spawned/gave himself swep weapon_357
+[22:23:43] jackattack20203<STEAM_0:0:153616243> spawned/gave himself swep weapon_rpg
+[22:23:43] jackattack20203<STEAM_0:0:153616243> spawned/gave himself swep weapon_slam
+[22:23:44] jackattack20203<STEAM_0:0:153616243> spawned/gave himself swep weapon_pistol
+[22:23:44] jackattack20203<STEAM_0:0:153616243> spawned/gave himself swep weapon_bugbait
+[22:23:44] jackattack20203<STEAM_0:0:153616243> spawned/gave himself swep weapon_shotgun
+[22:23:45] jackattack20203<STEAM_0:0:153616243> spawned/gave himself swep weapon_smg1
+[22:23:45] jackattack20203<STEAM_0:0:153616243> spawned/gave himself swep weapon_crowbar
+[22:23:46] jackattack20203<STEAM_0:0:153616243> spawned/gave himself swep weapon_physcannon
+[22:23:47] jackattack20203<STEAM_0:0:153616243> spawned/gave himself swep weapon_frag
+[22:23:47] jackattack20203<STEAM_0:0:153616243> spawned/gave himself swep weapon_ar2
+[22:23:49] jackattack20203<STEAM_0:0:153616243> spawned/gave himself swep sh_accessory_changer
+[22:23:49] William: is the cvar something that comes with darkrp or just with a server?
+[22:23:49] jackattack20203<STEAM_0:0:153616243> spawned/gave himself swep weapon_sh_doorcharge
+[22:23:53] jackattack20203<STEAM_0:0:153616243> spawned/gave himself swep zmlab_extractor
+[22:24:05] jackattack20203<STEAM_0:0:153616243> spawned/gave himself swep zmlab_extractor
+[22:24:24] Derpyhsi: sv_allowcslua
+[22:25:14] jackattack20203: Holy shit
+[22:25:26] jackattack20203: So can it be dangerous
+[22:25:30] William: probably just a bug with screengrab
+[22:25:37] jackattack20203: Oh ok
+[22:26:05] (TEAM) jackattack20203: Or no cancer rp
+[22:26:15] jackattack20203: No cancer rp is the worst they rip your ip
+[22:27:27] jackattack20203: Soo derp
+[22:27:41] jackattack20203: You're saying this is a built in command for darkrp servers
+[22:27:49] jackattack20203: Soo you can 
+[22:27:59] jackattack20203: Go on a popular server and just fuck with it
+[22:28:18] William: ive seen that setting before
+[22:28:23] William: i set it to true in the past but it got reset
+[22:28:37] jackattack20203: Lmao
+[22:28:53] William: ok i updated it just now
+[22:28:54] jackattack20203: Go screw up someone else server please
+[22:28:59] William: im gonna restart it and u join back
+[22:29:20] William: aight restarting now
+[22:29:33] jackattack20203: Fat L
+[22:29:39] jackattack20203: For unlucky servers
+[22:29:47] jackattack20203: That people fuck with
+
+
+
+[22:30:49] New map: rp_downtown_tits_v2
+[22:30:49] Client "Derpyhsi" connected.
+[22:30:49] Client "Derpyhsi" connected.
+[22:30:49] Client "Derpyhsi" connected.
+[22:30:49] Client "Derpyhsi" connected.
+[22:30:49] Client "Derpyhsi" connected.
+[22:31:13] Client "jackattack20203" connected.
+[22:31:47] Client "Derpyhsi" spawned in server <STEAM_0:0:120978528> (took 58 seconds).
+[22:32:27] Client "jackattack20203" spawned in server <STEAM_0:0:153616243> (took 74 seconds).
+[22:33:05] Client "DrDerpenstein sups.gg" connected.
+[22:33:43] Client "DrDerpenstein sups.gg" spawned in server <STEAM_0:0:13562763> (took 38 seconds).
+[22:35:02] jackattack20203: THIS IS MEGA GAY
+[22:35:12] jackattack20203: I bought meth stuff and i need 7k
+[22:37:25] Derpyhsi: https://webapi.gametracker.com/server_info/131.153.31.254:27035/
+[22:37:43] jackattack20203 was killed by zmlab_methylamin
+[22:37:48] jackattack20203: ow
+[22:37:51] Derpyhsi: https://webapi.gametracker.com/server_info/131.153.31.254:27035/server_variables/
+[22:41:46] jackattack20203: Yeh
+[22:42:22] jackattack20203: Yeah they do that shit
+[22:42:37] jackattack20203: FBI CIA
+[22:43:58] jackattack20203: Bro bro keep you mic away from yer mouth
+[22:45:12] jackattack20203: Bro you kno who you sound like
+[22:45:17] jackattack20203: Micheal reeves
+[22:45:26] jackattack20203: With all this rasberry pie shit
+[22:45:35] (TEAM) jackattack20203: Funny asf 
+[22:45:42] (TEAM) jackattack20203: A down graded mark rober
+[22:45:52] jackattack20203: A down graded rober mark
+[22:45:57] jackattack20203: Mark robber
+[22:46:37] (TEAM) jackattack20203: He made a thing where every time he got shot in fortnite he got shot by a airsoft gun
+[22:46:39] Derpyhsi: https://www.youtube.com/watch?v=c2gq4IwIc_s
+[22:47:01] jackattack20203: He made a thing where everytime he got shot in fortnite he got shot irl
+[22:47:07] jackattack20203: by a airsoft gun
+[22:47:26] jackattack20203: Also his sidekick ding ding
+[22:47:43] jackattack20203: REEEEEEEEEEEEEEEEEEE
+[22:47:52] Derpyhsi: MICHAEL REEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEVES
+[22:48:04] (TEAM) jackattack20203: He made a gun that shoots dicks
+[22:48:14] jackattack20203: He made a gun that shoots out dicks
+[22:48:33] jackattack20203: *Laughs*
+[22:48:39] jackattack20203: /me Woo
+[22:49:06] jackattack20203: YEAH
+[22:49:15] jackattack20203: METH HERE I COME
+[22:49:21] Derpyhsi<STEAM_0:0:120978528> spawned model models/props_c17/display_cooler01a.mdl
+[22:49:26] jackattack20203: Come agian?
+[22:49:28] Derpyhsi<STEAM_0:0:120978528> spawned model models/props_c17/display_cooler01a.mdl
+[22:49:40] jackattack20203: Ih nose
+[22:49:47] Derpyhsi<STEAM_0:0:120978528> spawned model models/props_c17/display_cooler01a.mdl
+[22:50:00] Derpyhsi<STEAM_0:0:120978528> spawned model models/props_c17/furniturecouch002a.mdl
+[22:50:17] jackattack20203: 20k baby!
+[22:50:34] Derpyhsi suicided!
+[22:50:38] jackattack20203: Quick moneyz
+[22:51:01] jackattack20203: As i lose it all
+[22:51:11] jackattack20203: Damn
+[22:51:18] jackattack20203: U had 40k too
+[22:51:53] jackattack20203: Man i lost it all
+[22:52:03] jackattack20203: Yeah
+[22:52:12] jackattack20203: It transfer to me
+[22:52:18] jackattack20203: Yeah
+[22:52:32] jackattack20203: No balls you wont do it agian
+[22:52:40] jackattack20203: Yeah
+[22:52:50] jackattack20203: Negro
+[22:53:07] jackattack20203: Ahh man
+[22:53:21] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/group01/male_01.mdl
+[22:53:21] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[22:53:21] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/group01/male_01.mdl
+[22:53:21] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[22:53:21] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/group01/male_01.mdl
+[22:53:21] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[22:53:21] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/group01/male_01.mdl
+[22:53:21] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[22:53:21] jackattack20203: I lost it agian
+[22:53:21] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/group01/male_01.mdl
+[22:53:21] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[22:53:21] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/group01/male_01.mdl
+[22:53:21] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[22:53:25] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[22:53:25] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[22:53:25] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/items/battery.mdl
+[22:53:25] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[22:53:25] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/group01/male_01.mdl
+[22:53:25] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[22:53:25] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/group01/male_01.mdl
+[22:53:25] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[22:53:26] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[22:53:26] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[22:53:26] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[22:53:26] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[22:53:26] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/hostage/hostage_02.mdl
+[22:53:26] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[22:53:26] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/hostage/hostage_02.mdl
+[22:53:26] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[22:53:26] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[22:53:26] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[22:53:27] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/group01/male_01.mdl
+[22:53:27] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[22:53:29] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/hostage/hostage_02.mdl
+[22:53:29] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[22:53:29] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/hostage/hostage_02.mdl
+[22:53:29] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[22:53:29] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/hostage/hostage_02.mdl
+[22:53:30] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[22:53:37] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[22:53:37] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[22:53:37] jackattack20203: ok
+[22:53:41] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[22:53:41] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[22:53:55] jackattack20203: Yes
+[22:53:59] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[22:53:59] DrDerpenstein<STEAM_0:0:13562763> spawned/used swep weapon_rpg -=RESTRICTED=-
+[22:53:59] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[22:53:59] DrDerpenstein<STEAM_0:0:13562763> spawned/used swep weapon_rpg -=RESTRICTED=-
+[22:53:59] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[22:53:59] DrDerpenstein<STEAM_0:0:13562763> spawned/used swep weapon_rpg -=RESTRICTED=-
+[22:54:00] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[22:54:00] DrDerpenstein<STEAM_0:0:13562763> spawned/used swep weapon_rpg -=RESTRICTED=-
+[22:54:00] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[22:54:00] DrDerpenstein<STEAM_0:0:13562763> spawned/used swep weapon_rpg -=RESTRICTED=-
+[22:54:40] jackattack20203: /drop
+[22:54:54] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[22:54:54] DrDerpenstein<STEAM_0:0:13562763> spawned/used swep weapon_rpg -=RESTRICTED=-
+[22:55:25] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[22:55:29] jackattack20203: lol
+[22:55:31] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[22:55:31] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[22:55:33] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[22:55:33] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[22:55:33] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[22:55:33] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[22:55:33] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[22:55:33] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[22:55:33] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[22:55:33] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[22:55:33] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[22:55:33] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[22:55:34] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[22:55:34] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[22:55:34] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[22:55:34] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[22:55:34] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[22:55:34] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[22:55:34] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[22:55:34] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[22:55:34] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[22:55:34] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[22:55:34] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[22:55:34] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[22:55:34] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[22:55:34] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[22:55:34] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[22:55:34] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[22:55:35] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[22:55:35] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[22:55:35] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[22:55:35] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[22:55:35] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[22:55:35] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[22:55:35] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/hostage/hostage_02.mdl
+[22:55:35] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[22:55:35] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/hostage/hostage_02.mdl
+[22:55:35] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[22:55:36] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/hostage/hostage_02.mdl
+[22:55:36] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[22:55:36] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/hostage/hostage_02.mdl
+[22:55:36] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[22:55:36] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/hostage/hostage_02.mdl
+[22:55:36] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[22:55:36] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[22:55:36] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[22:55:36] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[22:55:36] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[22:55:36] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[22:55:36] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[22:55:36] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[22:55:36] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[22:55:37] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/group01/male_01.mdl
+[22:55:37] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[22:55:37] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[22:55:37] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[22:55:37] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/group01/male_01.mdl
+[22:55:37] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[22:55:37] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/group01/male_01.mdl
+[22:55:37] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[22:55:37] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/group01/male_01.mdl
+[22:55:37] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[22:55:37] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[22:55:37] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[22:55:37] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[22:55:37] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[22:55:37] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[22:55:37] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[22:55:38] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[22:55:38] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[22:55:38] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[22:55:38] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[22:55:38] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/hostage/hostage_02.mdl
+[22:55:38] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[22:55:38] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[22:55:38] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[22:55:38] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[22:55:38] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[22:55:38] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[22:55:38] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[22:55:38] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[22:55:38] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[22:55:39] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/hostage/hostage_02.mdl
+[22:55:39] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[22:55:39] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/hostage/hostage_02.mdl
+[22:55:39] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[22:55:39] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/hostage/hostage_02.mdl
+[22:55:39] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[22:55:39] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[22:55:39] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[22:55:39] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[22:55:39] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[22:55:39] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[22:55:39] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[22:55:39] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/weapons/w_missile_closed.mdl
+[22:55:39] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[22:55:40] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[22:55:40] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[22:55:40] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[22:55:40] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[22:55:41] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[22:55:41] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[22:55:42] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[22:55:42] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[22:55:43] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[22:55:43] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[22:55:43] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[22:55:43] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[22:55:43] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[22:55:43] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[22:55:43] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[22:55:43] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[22:55:43] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[22:55:43] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[22:55:43] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/hostage/hostage_02.mdl
+[22:55:43] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[22:55:43] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/hostage/hostage_02.mdl
+[22:55:43] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[22:55:44] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[22:55:44] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[22:55:44] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[22:55:44] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[22:55:44] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/hostage/hostage_02.mdl
+[22:55:44] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[22:55:44] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/hostage/hostage_02.mdl
+[22:55:44] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[22:55:44] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[22:55:44] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[22:55:44] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[22:55:44] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[22:55:44] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/hostage/hostage_02.mdl
+[22:55:44] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[22:55:44] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/hostage/hostage_02.mdl
+[22:55:44] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[22:55:45] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[22:55:45] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[22:55:45] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[22:55:45] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[22:55:45] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[22:55:45] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[22:55:45] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[22:55:45] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[22:55:45] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[22:55:45] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[22:55:45] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/hostage/hostage_02.mdl
+[22:55:45] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[22:55:45] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/hostage/hostage_02.mdl
+[22:55:45] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[22:55:46] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[22:55:46] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[22:55:46] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[22:55:46] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[22:55:51] jackattack20203: I tried to pocket mine
+[22:56:12] jackattack20203: Fine i wont pocket it agian
+[22:56:25] jackattack20203: Listen ok dio 
+[22:56:31] jackattack20203: I could use it agisnt him
+[22:56:49] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_grenade
+[22:56:50] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_healthvial
+[22:56:50] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_healthvial
+[22:56:50] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_healthvial
+[22:56:50] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_healthvial
+[22:56:50] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_healthvial
+[22:56:50] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_healthvial
+[22:56:52] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_healthkit
+[22:56:52] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_healthkit
+[22:56:52] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_healthkit
+[22:56:53] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_healthkit
+[22:56:53] jackattack20203 killed DrDerpenstein using rpg_missile
+[22:56:53] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[22:56:53] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[22:56:53] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[22:56:53] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[22:57:05] jackattack20203 killed Derpyhsi using rpg_missile
+[22:57:05] jackattack20203 killed DrDerpenstein using rpg_missile
+[22:57:08] jackattack20203: HA HE CAN
+[22:57:25] jackattack20203<STEAM_0:0:153616243> spawned model models/props_c17/fence03a.mdl
+[22:57:32] Client "eddv247" connected.
+[22:57:34] jackattack20203<STEAM_0:0:153616243> spawned model models/props_c17/fence02b.mdl
+[22:57:44] jackattack20203: LMAO
+[22:57:57] jackattack20203 killed Derpyhsi using rpg_missile
+[22:57:57] jackattack20203 suicided!
+[22:57:59] jackattack20203: NO
+[22:58:14] jackattack20203<STEAM_0:0:153616243> spawned model models/props_c17/fence02a.mdl
+[22:58:24] jackattack20203<STEAM_0:0:153616243> spawned model models/props_c17/fence02b.mdl
+[22:58:26] jackattack20203<STEAM_0:0:153616243> spawned model models/props_c17/fence03a.mdl
+[22:58:31] jackattack20203<STEAM_0:0:153616243> spawned model models/props_c17/fence03a.mdl
+[22:58:48] jackattack20203: Welcome to auswhitcz
+[22:58:49] DrDerpenstein<STEAM_0:0:13562763> spawned sent prop_thumper
+[22:58:52] jackattack20203<STEAM_0:0:153616243> spawned model models/props_c17/fence03a.mdl
+[22:58:58] jackattack20203<STEAM_0:0:153616243> spawned model models/props_c17/fence03a.mdl
+[22:59:07] jackattack20203: GET ME THE GAS GERNADES
+[22:59:13] jackattack20203<STEAM_0:0:153616243> spawned model models/props_c17/fence03a.mdl
+[22:59:14] DrDerpenstein<STEAM_0:0:13562763> spawned vehicle models/tdmcars/hummerh1_open.mdl
+[22:59:19] DrDerpenstein<STEAM_0:0:13562763> used the tool colour on models/tdmcars/hummerh1_open.mdl
+[22:59:19] jackattack20203<STEAM_0:0:153616243> spawned model models/props_c17/fence02a.mdl
+[22:59:29] jackattack20203: ITS AN ERROR
+[22:59:37] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[22:59:37] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[22:59:37] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[22:59:37] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[22:59:37] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[22:59:38] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[22:59:38] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[22:59:38] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[22:59:38] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[22:59:38] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[22:59:38] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[22:59:47] jackattack20203: Get me the minigun 
+[22:59:53] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_smoke_grenade
+[22:59:53] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_smoke_grenade
+[22:59:54] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[22:59:54] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[22:59:54] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[22:59:54] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[22:59:54] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[22:59:55] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[22:59:55] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[22:59:55] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[22:59:55] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[22:59:55] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[22:59:55] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[22:59:55] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[22:59:56] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[22:59:56] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:00:28] jackattack20203: Its in an weapon pack that installed
+[23:00:31] jackattack20203: Right
+[23:00:38] Derpyhsi suicided!
+[23:00:45] Derpyhsi: /ooc are you sure about that purge
+[23:00:48] jackattack20203: I need a stack
+[23:00:54] jackattack20203: For this purge
+[23:01:21] jackattack20203: Hmm
+[23:01:47] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[23:01:47] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[23:01:47] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[23:01:47] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[23:01:47] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[23:01:58] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_healthkit
+[23:01:58] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_healthkit
+[23:01:58] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_healthkit
+[23:01:58] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_healthkit
+[23:01:58] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_healthkit
+[23:02:17] jackattack20203: it aint working
+[23:02:23] jackattack20203: /drop
+[23:02:31] jackattack20203: Ha
+[23:03:20] DrDerpenstein killed jackattack20203 using player
+[23:03:32] Client "nat3_8" connected.
+[23:03:59] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/group01/male_06.mdl
+[23:03:59] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:04:00] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:04:00] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:04:00] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:04:00] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:04:00] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/group01/male_06.mdl
+[23:04:00] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:04:00] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/group01/male_06.mdl
+[23:04:00] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:04:01] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/group01/male_06.mdl
+[23:04:01] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:04:01] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/group01/male_06.mdl
+[23:04:01] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:04:01] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/group01/male_06.mdl
+[23:04:01] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:04:01] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/group01/male_06.mdl
+[23:04:01] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:04:01] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/group01/male_06.mdl
+[23:04:01] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:04:01] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/group01/male_06.mdl
+[23:04:01] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:04:01] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/group01/male_06.mdl
+[23:04:01] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:04:01] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/group01/male_06.mdl
+[23:04:01] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:04:02] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/group01/male_06.mdl
+[23:04:02] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:04:02] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/group01/male_06.mdl
+[23:04:02] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:04:02] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/group01/male_06.mdl
+[23:04:02] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:04:02] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/group01/male_06.mdl
+[23:04:02] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:04:02] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/group01/male_06.mdl
+[23:04:02] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:04:02] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/group01/male_06.mdl
+[23:04:02] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:04:02] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/group01/male_06.mdl
+[23:04:02] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:04:03] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/group01/male_06.mdl
+[23:04:03] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:04:03] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/group01/male_06.mdl
+[23:04:03] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:04:15] DrDerpenstein: /drop
+[23:04:39] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/group01/male_06.mdl
+[23:04:39] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:04:42] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/group01/male_06.mdl
+[23:04:42] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:04:43] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/group01/male_06.mdl
+[23:04:43] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:04:47] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:04:47] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:04:48] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:04:48] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:04:48] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/group01/male_06.mdl
+[23:04:48] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:04:48] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:04:48] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:04:48] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/group01/male_06.mdl
+[23:04:48] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:04:54] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/group01/male_06.mdl
+[23:04:54] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:04:54] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:04:54] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:04:54] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:04:54] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:04:54] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:04:54] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:04:54] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:04:54] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:04:55] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:04:55] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:04:55] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:04:55] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:04:55] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:04:55] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:04:55] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:04:55] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:04:55] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/group01/male_06.mdl
+[23:04:55] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:04:55] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:04:55] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:04:55] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:04:55] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:04:56] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:04:56] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:04:56] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:04:56] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:04:56] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:04:56] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:04:56] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/group01/male_06.mdl
+[23:04:56] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:04:56] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:04:56] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:04:56] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:04:56] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:04:56] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:04:56] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:04:56] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:04:56] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:04:59] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/group01/male_06.mdl
+[23:04:59] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:04:59] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/group01/male_06.mdl
+[23:04:59] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:04:59] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/group01/male_06.mdl
+[23:04:59] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:05:00] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/group01/male_06.mdl
+[23:05:00] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:05:00] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/group01/male_06.mdl
+[23:05:00] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:05:00] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/group01/male_06.mdl
+[23:05:00] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:05:00] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/group01/male_06.mdl
+[23:05:00] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:05:00] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/group01/male_06.mdl
+[23:05:00] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:05:00] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/group01/male_06.mdl
+[23:05:00] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:05:02] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:05:02] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:05:03] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:05:03] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:05:03] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:05:03] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:05:03] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:05:03] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:05:03] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:05:03] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:05:03] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:05:03] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:05:03] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:05:03] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:05:03] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:05:03] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:05:04] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:05:04] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:05:04] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:05:04] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:05:04] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:05:04] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:05:04] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:05:04] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:05:07] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/group01/male_06.mdl
+[23:05:07] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:05:38] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:05:38] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:05:40] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:05:40] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:01] Derpyhsi: @ my butt hurt
+[23:06:01] Derpyhsi to admins: my butt hurt
+[23:06:16] Derpyhsi: @ burt hurt
+[23:06:16] Derpyhsi to admins: burt hurt
+[23:06:26] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:06:26] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:29] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/hostage/hostage_02.mdl
+[23:06:29] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:29] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/hostage/hostage_02.mdl
+[23:06:29] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:30] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/hostage/hostage_02.mdl
+[23:06:30] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:30] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/hostage/hostage_02.mdl
+[23:06:30] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:30] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/hostage/hostage_02.mdl
+[23:06:30] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:30] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/hostage/hostage_02.mdl
+[23:06:30] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:30] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/hostage/hostage_02.mdl
+[23:06:30] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:30] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/hostage/hostage_02.mdl
+[23:06:30] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:30] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:06:30] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:30] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:06:30] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:31] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/hostage/hostage_02.mdl
+[23:06:31] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:31] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/hostage/hostage_02.mdl
+[23:06:31] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:31] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/hostage/hostage_02.mdl
+[23:06:31] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:31] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/hostage/hostage_02.mdl
+[23:06:31] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:31] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/hostage/hostage_02.mdl
+[23:06:31] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:31] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/hostage/hostage_02.mdl
+[23:06:31] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:31] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/hostage/hostage_02.mdl
+[23:06:31] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:32] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/hostage/hostage_02.mdl
+[23:06:32] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:32] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/hostage/hostage_02.mdl
+[23:06:32] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:32] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/hostage/hostage_02.mdl
+[23:06:32] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:32] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/hostage/hostage_02.mdl
+[23:06:32] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:32] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/hostage/hostage_02.mdl
+[23:06:32] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:32] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/hostage/hostage_02.mdl
+[23:06:32] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:32] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/hostage/hostage_02.mdl
+[23:06:32] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:33] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/hostage/hostage_02.mdl
+[23:06:33] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:33] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/hostage/hostage_02.mdl
+[23:06:33] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:33] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/hostage/hostage_02.mdl
+[23:06:33] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:33] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/hostage/hostage_02.mdl
+[23:06:33] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:33] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/hostage/hostage_02.mdl
+[23:06:33] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:33] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/hostage/hostage_02.mdl
+[23:06:33] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:33] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:06:33] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:33] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:06:33] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:34] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/hostage/hostage_02.mdl
+[23:06:34] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:34] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:06:34] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:34] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:06:34] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:34] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/hostage/hostage_02.mdl
+[23:06:34] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:34] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/hostage/hostage_02.mdl
+[23:06:34] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:34] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/hostage/hostage_02.mdl
+[23:06:34] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:37] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/hostage/hostage_02.mdl
+[23:06:37] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:37] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:06:37] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:37] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:06:37] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:37] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:06:37] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:37] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:06:37] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:37] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/hostage/hostage_02.mdl
+[23:06:37] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:37] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/hostage/hostage_02.mdl
+[23:06:37] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:38] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/hostage/hostage_02.mdl
+[23:06:38] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:38] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/hostage/hostage_02.mdl
+[23:06:38] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:38] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/hostage/hostage_02.mdl
+[23:06:38] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:38] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/hostage/hostage_02.mdl
+[23:06:38] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:39] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:06:39] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:39] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:06:39] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:39] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:06:39] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:39] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:06:39] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:39] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:06:39] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:39] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:06:39] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:39] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:06:39] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:39] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:06:39] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:40] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:06:40] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:40] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:06:40] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:40] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:06:40] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:40] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:06:40] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:40] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:06:40] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:40] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:06:40] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:40] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:06:40] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:40] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:06:40] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:41] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:06:41] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:41] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:06:41] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:41] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:06:41] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:41] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:06:41] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:41] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:06:41] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:41] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/hostage/hostage_02.mdl
+[23:06:41] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:42] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:06:42] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:42] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:06:42] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:42] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:06:42] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:42] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:06:42] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:42] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:06:42] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:42] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:06:42] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:42] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:06:42] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:42] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:06:42] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:43] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:06:43] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:43] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:06:43] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:43] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:06:43] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:43] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:06:43] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:43] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:06:43] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:43] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:06:43] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:43] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:06:43] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:44] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:06:44] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:44] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:06:44] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:44] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:06:44] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:44] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:06:44] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:44] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:06:44] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:44] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:06:44] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:44] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:06:44] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:45] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:06:45] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:45] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:06:45] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:45] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:06:45] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:45] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:06:45] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:45] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:06:45] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:06:45] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:06:45] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:07:03] jackattack20203: /drop
+[23:07:16] jackattack20203: Lol
+[23:07:36] DrDerpenstein: !menu
+[23:07:42] jackattack20203: Wat about a nuke may i have one of dem?
+[23:07:50] jackattack20203: I reqeust the nuke
+[23:07:55] jackattack20203: FUCKING DIO
+[23:08:01] jackattack20203: Its because of him
+[23:08:08] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep climb_swep2
+[23:08:09] jackattack20203: /drop
+[23:08:10] DrDerpenstein: /drop
+[23:08:54] jackattack20203: I have used that fucking shit
+[23:09:25] jackattack20203: /name DrDerpenstein helper
+[23:09:43] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:09:43] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[23:09:44] Derpyhsi: /name jackattack20203 helper
+[23:09:45] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:09:45] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[23:09:52] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:09:52] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[23:09:54] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/hostage/hostage_02.mdl
+[23:09:54] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[23:09:54] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/hostage/hostage_02.mdl
+[23:09:54] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[23:09:54] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/hostage/hostage_02.mdl
+[23:09:54] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[23:09:55] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/hostage/hostage_02.mdl
+[23:09:55] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[23:09:55] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/hostage/hostage_02.mdl
+[23:09:55] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[23:09:55] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/hostage/hostage_02.mdl
+[23:09:55] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[23:09:55] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/hostage/hostage_02.mdl
+[23:09:55] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[23:09:55] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/hostage/hostage_02.mdl
+[23:09:55] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[23:09:55] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/hostage/hostage_02.mdl
+[23:09:55] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[23:09:55] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/hostage/hostage_02.mdl
+[23:09:55] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[23:09:55] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/hostage/hostage_02.mdl
+[23:09:55] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[23:09:56] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/player/hostage/hostage_02.mdl
+[23:09:56] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[23:09:56] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:09:56] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[23:09:56] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:09:56] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[23:10:09] DrDerpenstein: /job Derpyhsi's helper
+[23:10:26] jackattack20203 helper: /job Jackattack20203 helper
+[23:10:30] DrDerpenstein helper: WHOMST SUMMONS THE ALL MIGHTYONE
+[23:10:38] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:10:38] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[23:10:39] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:10:39] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[23:10:39] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:10:39] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[23:10:40] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:10:40] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[23:10:40] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:10:40] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[23:10:41] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:10:41] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[23:10:41] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:10:41] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[23:10:41] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:10:41] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[23:10:42] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:10:42] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[23:10:42] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:10:42] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[23:10:42] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:10:42] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[23:10:42] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on models/weapons/w_c4.mdl
+[23:10:42] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[23:10:42] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:10:42] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[23:10:42] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:10:42] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[23:10:42] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:10:42] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[23:10:43] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:10:43] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[23:10:43] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:10:43] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[23:10:43] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:10:43] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[23:10:43] DrDerpenstein<STEAM_0:0:13562763> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[23:10:43] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[23:10:44] DrDerpenstein helper: Says the demon rising from the ground
+[23:10:45] Client "eddv247" connected.
+[23:11:00] DrDerpenstein helper: LMAO
+[23:11:10] DrDerpenstein helper: =
+[23:11:41] Client "eddv247" spawned in server <STEAM_0:0:47351013> (took 56 seconds).
+[23:12:01] DrDerpenstein: /give 22100
+[23:12:05] DrDerpenstein: /give 22100
+[23:12:40] DrDerpenstein: /
+[23:12:43] DrDerpenstein: /casino
+[23:13:16] DrDerpenstein helper: Rigged
+[23:13:54] DrDerpenstein: /give 30000
+[23:13:57] DrDerpenstein: /give 30000
+[23:15:06] eddv247<STEAM_0:0:47351013> spawned model models/props_lab/blastdoor001a.mdl
+[23:16:01] DrDerpenstein: /give 30000
+[23:16:02] eddv247<STEAM_0:0:47351013> spawned model models/props_lab/blastdoor001a.mdl
+[23:16:02] DrDerpenstein helper: Royal rip
+[23:16:13] DrDerpenstein: /give 30000
+[23:16:14] eddv247<STEAM_0:0:47351013> spawned model models/props_lab/blastdoor001c.mdl
+[23:16:14] DrDerpenstein helper: Suger dad
+[23:16:16] DrDerpenstein: /give 30000
+[23:16:20] eddv247<STEAM_0:0:47351013> spawned model models/props_lab/blastdoor001c.mdl
+[23:16:47] DrDerpenstein helper: Lmao
+[23:17:24] DrDerpenstein helper: RIP
+[23:17:37] jackattack20203 helper: /DROPMONEY 2925
+[23:17:51] DrDerpenstein helper: LOL
+[23:17:56] DrDerpenstein: /casino
+[23:18:09] DrDerpenstein helper: They will nver
+[23:18:11] DrDerpenstein: /give 30000
+[23:18:13] DrDerpenstein: /give 30000
+[23:18:16] DrDerpenstein: /give 30000
+[23:18:48] DrDerpenstein: /give 30000
+[23:18:52] DrDerpenstein: /give 30000
+[23:19:10] DrDerpenstein helper: NOOO
+[23:21:29] DrDerpenstein helper: wUT
+[23:21:34] DrDerpenstein helper: NOOOOOOOOOOO
+[23:21:34] jackattack20203 helper: x7
+[23:22:18] DrDerpenstein helper: cASH OUT AT THE x9
+[23:22:52] DrDerpenstein helper: 99
+[23:23:33] DrDerpenstein helper: wHAT HAPPENS IF WE BLEW THREW UH
+[23:23:41] DrDerpenstein helper: Another mil?
+[23:23:52] DrDerpenstein helper: 300K EACH
+[23:23:59] DrDerpenstein: /casino
+[23:24:11] DrDerpenstein: /give 300000
+[23:24:15] DrDerpenstein: /give 300000
+[23:24:20] DrDerpenstein: /give 300000
+[23:24:54] DrDerpenstein helper: ya gave me 30K?
+[23:26:28] DrDerpenstein helper: lol
+[23:26:34] DrDerpenstein helper: im dont 100k
+[23:26:39] DrDerpenstein helper: done
+[23:28:01] DrDerpenstein helper: lol im at 131m
+[23:28:36] jackattack20203 helper<STEAM_0:0:120978528> spawned model models/props_c17/furniturewashingmachine001a.mdl
+[23:28:37] jackattack20203 helper<STEAM_0:0:120978528> spawned model models/props_c17/furniturewashingmachine001a.mdl
+[23:29:06] DrDerpenstein helper: FUCK ME IN THE AS
+[23:29:27] DrDerpenstein: /casino
+[23:29:47] DrDerpenstein: /give 100000
+[23:29:51] DrDerpenstein: /give 100000
+[23:29:54] DrDerpenstein: /give 100000
+[23:29:59] DrDerpenstein: /give 100000
+[23:30:38] DrDerpenstein helper: oK IM OUT
+[23:30:46] jackattack20203 helper: /OOC WHERE ARE YOU
+[23:31:10] DrDerpenstein helper: Ok stop at 3 and build up
+[23:31:30] (TEAM) DrDerpenstein helper: /ADVERT GAMBLING 101
+[23:31:39] DrDerpenstein helper: /ADVERT gAMBLING 101
+[23:31:45] jackattack20203 helper: /ADVERT GAMB
+[23:31:52] DrDerpenstein: /advert gambles!
+[23:31:52] jackattack20203 helper: /advert GAMBLING AT SPAWN
+[23:32:08] DrDerpenstein helper: lucky 7 bullshit
+[23:33:24] DrDerpenstein helper: Pfft nonsense
+[23:33:28] DrDerpenstein helper: another 300k each
+[23:34:40] DrDerpenstein: /give 100000
+[23:34:44] DrDerpenstein: /give 100000
+[23:35:46] DrDerpenstein helper: /me Gives slot blowjob
+[23:35:56] DrDerpenstein helper: 99 percent chance
+[23:37:52] DrDerpenstein helper: Derp
+[23:38:36] DrDerpenstein: /give 100000
+[23:39:05] DrDerpenstein: /casino
+[23:39:12] DrDerpenstein helper: Lets make drugs
+[23:39:27] DrDerpenstein: /give 100000
+[23:39:31] DrDerpenstein: /give 100000
+[23:39:35] DrDerpenstein: /give 100000
+[23:39:37] DrDerpenstein: /give 100000
+[23:39:39] DrDerpenstein: /give 100000
+[23:40:20] (TEAM) DrDerpenstein helper: OH SHIT
+[23:40:26] DrDerpenstein helper: oH SHIT
+[23:42:05] DrDerpenstein helper: Yeah
+[23:43:14] DrDerpenstein: /give 100000
+[23:43:56] DrDerpenstein: k
+[23:44:08] Client "Derp" connected.
+[23:44:55] Client "Derp" spawned in server <STEAM_0:0:52504530> (took 47 seconds).
+[23:46:33] William: no i couldnt hear what u were talking about
+[23:46:36] William: what did you say
+[23:46:40] DrDerpenstein: /goto eddv247
+[23:46:45] jackattack20203 helper<STEAM_0:0:120978528> spawned model models/props_c17/furniturefridge001a.mdl
+[23:46:56] William: can u type
+[23:47:00] jackattack20203 helper<STEAM_0:0:120978528> spawned model models/hunter/blocks/cube025x5x025.mdl
+[23:47:01] William: my voice chat is bugged
+[23:47:10] DrDerpenstein helper: Ive loved your server for the time i have been on it
+[23:47:17] DrDerpenstein helper: I was
+[23:47:35] DrDerpenstein helper: Wondering if i could become a T-mod one day
+[23:47:46] jackattack20203 helper killed DrDerpenstein helper using player
+[23:47:51] William: he almost got you
+[23:47:55] DrDerpenstein helper: Indeed
+[23:48:06] William<STEAM_0:0:52504530> spawned/gave himself swep cw_m249_official
+[23:48:08] DrDerpenstein helper: So derp i was wondering if you could consider
+[23:48:20] DrDerpenstein helper: I have ulx experience?
+[23:48:22] William: he means me
+[23:48:28] DrDerpenstein helper: Thats handy
+[23:48:52] DrDerpenstein<STEAM_0:0:13562763> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[23:48:53] DrDerpenstein<STEAM_0:0:13562763> used the tool remover on models/props_lab/jar01a.mdl
+[23:48:54] William: i mean sure i could consider that as long as you play often on the server i dont see why not
+[23:49:02] (TEAM) DrDerpenstein helper: Yeah i can play often
+[23:49:08] DrDerpenstein helper: I can play often
+[23:49:15] DrDerpenstein: /goto will
+[23:49:22] William: C
+[23:49:31] DrDerpenstein helper: I mean during the school season support might be limited but i will fit in time
+[23:49:33] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_healthkit
+[23:49:34] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_healthkit
+[23:49:34] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_healthkit
+[23:49:34] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_healthkit
+[23:49:34] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_healthkit
+[23:49:37] William: thats fine
+[23:49:46] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_healthvial
+[23:49:47] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[23:49:47] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[23:49:49] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[23:49:49] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[23:49:49] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[23:49:50] DrDerpenstein helper: Soo what would ya say
+[23:50:04] William: get like 24 hours on the server and then apply on the forums and i will most likely give it to you
+[23:50:11] DrDerpenstein helper: I will
+[23:50:20] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_healthvial
+[23:50:21] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_healthvial
+[23:50:21] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_healthvial
+[23:50:29] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_healthkit
+[23:50:36] jackattack20203 helper: /dropweapon
+[23:50:56] DrDerpenstein helper killed jackattack20203 helper using player
+[23:51:13] William: im thinking about making the mayor have more serious models
+[23:51:35] DrDerpenstein killed DrDerpenstein helper using player
+[23:51:38] jackattack20203 helper: @bring me to u
+[23:51:38] jackattack20203 helper to admins: bring me to u
+[23:51:39] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[23:51:39] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[23:51:39] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[23:51:39] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[23:51:39] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[23:51:40] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_healthkit
+[23:51:40] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_healthkit
+[23:51:43] William: honestly breen works just fine even tho its basic af
+[23:52:02] DrDerpenstein: /tp jackattack20203 
+[23:52:19] William suicided!
+[23:52:46] DrDerpenstein killed jackattack20203 helper using player
+[23:52:47] jackattack20203 helper<STEAM_0:0:120978528> spawned model models/hunter/blocks/cube025x025x025.mdl
+[23:52:51] DrDerpenstein: /tp jack
+[23:53:00] DrDerpenstein: /tp derpy
+[23:53:04] jackattack20203 helper: @
+[23:53:39] jackattack20203 helper: /OOC OS HITWE
+[23:53:50] jackattack20203 helper: /lockdown
+[23:53:59] jackattack20203 helper: /lockdown
+[23:54:13] DrDerpenstein helper<STEAM_0:0:153616243> spawned model models/props_c17/gravestone_statue001a.mdl
+[23:54:27] jackattack20203 helper: /stoplockdown
+[23:54:31] jackattack20203 helper: /unlockdown
+[23:54:56] William: /setmoney william 25000
+[23:55:05] DrDerpenstein helper<STEAM_0:0:153616243> spawned model models/props_c17/gravestone_statue001a.mdl
+[23:55:09] William: lol
+[23:55:14] William: edd is a pretty chill guy
+[23:55:18] William: ive talked to him before
+[23:55:38] William: yeah i dont think he knows but whatever thats his money not mine
+[23:55:48] William: or maybe he doesnt care
+[23:56:07] William: dude the server is gonna be looking so fucking good next update
+[23:56:08] William: im hyped af
+[23:56:17] jackattack20203 helper: @bring me to a staff
+[23:56:17] jackattack20203 helper to admins: bring me to a staff
+[23:56:22] William: ye
+[23:56:33] William: my trailer aint nothing special but its enough for people to understand whats going on
+[23:56:37] William: it also has kind of a creepy vibe to it
+[23:56:41] DrDerpenstein helper<STEAM_0:0:153616243> spawned model models/props_c17/gravestone_statue001a.mdl
+[23:57:03] William: where did he go
+[23:57:04] jackattack20203 helper: /ooc rip
+[23:57:06] DrDerpenstein: /tp jack
+[23:57:15] William: DONT TAKE THAT MONEY
+[23:57:31] DrDerpenstein: /return drderpenst
+[23:57:58] DrDerpenstein helper killed jackattack20203 helper using player
+[23:58:01] William: lmao
+[23:58:27] jackattack20203 helper: /ooc OORF
+[23:58:30] William:  hes still taking the money
+[23:58:47] jackattack20203 helper: /ooc admins bring me to you
+[23:59:09] DrDerpenstein helper killed jackattack20203 helper using player
+[23:59:12] DrDerpenstein killed DrDerpenstein helper using player
+[23:59:43] DrDerpenstein helper: Can an admin bring me
+[23:59:44] William: /addmoney edd 200000
+[23:59:55] William: i gave edd 200k because thats how much jack stole
+<Logging continued in "data/ulx_logs/08-12-19.txt">

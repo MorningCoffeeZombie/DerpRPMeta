@@ -1,0 +1,34 @@
+2019-08-08 00.19.41: <General> Logging started, map: rp_downtown_tits_v2.
+2019-08-08 00.19.41: <General> Welcome to VCMod Auto-Updater version 9.61.
+2019-08-08 00.19.41: <General> Pre-initialization complete, preparing to load addon data.
+2019-08-08 00.19.41: <General> Addons found: VCMod ELS, VCMod Main.
+2019-08-08 00.20.16: <General> Preparations started. Server needs to have atleast one player on it for preparations to continue.
+2019-08-08 00.20.20: <General> Preparations are complete, handshaking API.
+2019-08-08 00.20.22: <General> Handshake successful.
+2019-08-08 00.20.22: <General> Handshake finished.
+2019-08-08 00.20.23: <General> Contacting preload API.
+2019-08-08 00.20.24: <General> Initializing preload.
+2019-08-08 00.20.24: <General> Preload finished. Initializing addons.
+2019-08-08 00.20.24: <General> Started loading serverside.
+2019-08-08 00.20.24: <General> Loaded Main v1.737 serverside.
+2019-08-08 00.20.24: <General> Loaded ELS v1.1426 serverside.
+2019-08-08 00.20.24: <General> Finished loading serverside.
+2019-08-08 00.20.25: <General> Vehicle data "Airboat" loaded.
+2019-08-08 00.20.25: <General> All repair man NPC's have been placed on the map.
+2019-08-08 00.20.25: <Repair man> all Repair men have been placed on the map.
+2019-08-08 00.20.30: <General> Scanning for potentially incompatible hooks.
+2019-08-08 00.20.30: <General> No incompatibilities found.
+2019-08-08 00.20.30: <General> General vehicle data is up to date.
+2019-08-08 00.20.30: <Fuel> All fuel stations have been respawned.
+2019-08-08 00.21.03: <General> Player William has loaded and is waiting for a temp-key.
+2019-08-08 00.21.04: <General> Sent API key to player William. 99 keys left.
+2019-08-08 00.21.04: <General> Initializing player William.
+2019-08-08 00.21.09: <General> Player DrDerpenstein has loaded and is waiting for a temp-key.
+2019-08-08 00.21.10: <General> Sent API key to player DrDerpenstein. 98 keys left.
+2019-08-08 00.21.10: <General> Initializing player DrDerpenstein.
+2019-08-08 00.23.05: <General> Player DrDerpenstein has loaded and is waiting for a temp-key.
+2019-08-08 00.23.06: <General> Player William has loaded and is waiting for a temp-key.
+2019-08-08 00.23.06: <General> Sent API key to player William. 97 keys left.
+2019-08-08 00.23.06: <General> Initializing player William.
+2019-08-08 00.23.06: <General> Sent API key to player DrDerpenstein. 96 keys left.
+2019-08-08 00.23.06: <General> Initializing player DrDerpenstein.

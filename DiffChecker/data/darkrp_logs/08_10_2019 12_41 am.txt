@@ -1,0 +1,1567 @@
+Sat Aug 10 00:41:11 2019	DrDerpenstein sups.gg (STEAM_0:0:13562763) has joined the game
+Sat Aug 10 00:41:11 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Sat Aug 10 00:41:56 2019	DrDerpenstein was killed by Himself with a suicide trick
+Sat Aug 10 00:42:08 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Sat Aug 10 00:42:38 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Sat Aug 10 00:46:07 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Sat Aug 10 00:48:08 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Sat Aug 10 01:06:52 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_healthkit
+Sat Aug 10 01:06:52 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_healthkit
+Sat Aug 10 01:06:52 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_healthkit
+Sat Aug 10 01:06:52 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_healthkit
+Sat Aug 10 01:06:52 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_healthkit
+Sat Aug 10 01:06:53 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_healthkit
+Sat Aug 10 01:06:53 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Sat Aug 10 01:06:53 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Sat Aug 10 01:06:54 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Sat Aug 10 01:06:54 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Sat Aug 10 01:06:54 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Sat Aug 10 01:06:54 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Sat Aug 10 01:06:55 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Sat Aug 10 01:06:55 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Sat Aug 10 01:06:55 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Sat Aug 10 01:06:55 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Sat Aug 10 01:06:55 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Sat Aug 10 01:06:55 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Sat Aug 10 01:06:55 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Sat Aug 10 01:06:56 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Sat Aug 10 01:06:56 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Sat Aug 10 01:06:56 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Sat Aug 10 01:06:57 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_357_large
+Sat Aug 10 01:06:57 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_357_large
+Sat Aug 10 01:06:58 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_357_large
+Sat Aug 10 01:06:58 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_smg1_large
+Sat Aug 10 01:06:58 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_smg1_large
+Sat Aug 10 01:06:59 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_smg1_large
+Sat Aug 10 01:06:59 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_smg1_large
+Sat Aug 10 01:06:59 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_pistol_large
+Sat Aug 10 01:06:59 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_pistol_large
+Sat Aug 10 01:07:00 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_pistol_large
+Sat Aug 10 01:08:26 2019	DrDerpenstein (STEAM_0:0:13562763) disconnected
+Sat Aug 10 11:43:30 2019	Dio (STEAM_0:0:497465680) has joined the game
+Sat Aug 10 11:43:30 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 11:45:21 2019	Dio (STEAM_0:0:497465680) disconnected
+Sat Aug 10 14:31:31 2019	acewinters (STEAM_0:0:38568814) has joined the game
+Sat Aug 10 14:31:31 2019	acewinters (STEAM_0:0:38568814) spawned
+Sat Aug 10 14:34:44 2019	Dio (STEAM_0:0:497465680) has joined the game
+Sat Aug 10 14:34:44 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 14:34:55 2019	acewinters (STEAM_0:0:38568814): // bonjour
+Sat Aug 10 14:35:09 2019	Dio (STEAM_0:0:497465680): // bonjour
+Sat Aug 10 14:35:59 2019	acewinters was killed by Himself with a suicide trick
+Sat Aug 10 14:36:28 2019	acewinters (STEAM_0:0:38568814) spawned
+Sat Aug 10 14:37:43 2019	Dio (STEAM_0:0:497465680) disconnected
+Sat Aug 10 14:40:13 2019	Derp (STEAM_0:0:52504530) has joined the game
+Sat Aug 10 14:40:13 2019	William (STEAM_0:0:52504530) spawned
+Sat Aug 10 14:40:56 2019	William (STEAM_0:0:52504530): hello
+Sat Aug 10 14:41:03 2019	William (STEAM_0:0:52504530): im doing good how about you
+Sat Aug 10 14:41:11 2019	William (STEAM_0:0:52504530): yes
+Sat Aug 10 14:41:16 2019	William (STEAM_0:0:52504530): yes
+Sat Aug 10 14:41:26 2019	William (STEAM_0:0:52504530): i have decided to remove the weed mod 
+Sat Aug 10 14:41:28 2019	William (STEAM_0:0:52504530): jk
+Sat Aug 10 14:41:44 2019	William (STEAM_0:0:52504530): we dont have FA:S guns anymore
+Sat Aug 10 14:42:08 2019	William (STEAM_0:0:52504530): addons and mods are like the same thing
+Sat Aug 10 14:42:11 2019	William (STEAM_0:0:52504530): in gmod at least
+Sat Aug 10 14:42:32 2019	William (STEAM_0:0:52504530): hold on can u type that 
+Sat Aug 10 14:42:45 2019	acewinters (STEAM_0:0:38568814): am i still able to take you up on the offer of free vip?
+Sat Aug 10 14:43:35 2019	William (STEAM_0:0:52504530): i wouldnt mind giving you vip its just that DC (first vip) donated like 30 bucks a long ass time ago and ive given free vip to
+Sat Aug 10 14:43:37 2019	William (STEAM_0:0:52504530): 3 people since
+Sat Aug 10 14:43:47 2019	William (STEAM_0:0:52504530): so he kind of got pissed
+Sat Aug 10 14:43:51 2019	William (STEAM_0:0:52504530): and i understand why
+Sat Aug 10 14:44:18 2019	William (STEAM_0:0:52504530): so i dont mind giving u free vip because i know ur a cool dude but im probably gonna need at least the 12 bucks to buy that oi
+Sat Aug 10 14:44:21 2019	William (STEAM_0:0:52504530): oil addon
+Sat Aug 10 14:45:01 2019	William (STEAM_0:0:52504530): paypal and banks are pretty much just as annoying
+Sat Aug 10 14:45:26 2019	William (STEAM_0:0:52504530): although banks are probably worst in the long run because setting up a bank account is a pain in the ass
+Sat Aug 10 14:46:02 2019	William (STEAM_0:0:52504530): i dont even know how im using my current paypal
+Sat Aug 10 14:46:22 2019	William (STEAM_0:0:52504530): i had problems where they kept asking for info so i made a new account and now they just are asking for it but its not mandato
+Sat Aug 10 14:46:24 2019	William (STEAM_0:0:52504530): mandatory
+Sat Aug 10 14:47:16 2019	William (STEAM_0:0:52504530): when you paid through paypal did u do it using a paypal account?
+Sat Aug 10 14:47:58 2019	William (STEAM_0:0:52504530): maybe u can like go buy a shitty visa card that has like 15 bucks on it and use that
+Sat Aug 10 14:48:17 2019	William (STEAM_0:0:52504530): i had to use that for the longest time ever since im still a minor
+Sat Aug 10 14:48:20 2019	William (STEAM_0:0:52504530): but now i have my own bank account
+Sat Aug 10 14:48:31 2019	William (STEAM_0:0:52504530): alright
+Sat Aug 10 14:48:36 2019	William (STEAM_0:0:52504530): https://derprpdonationsite.mistforums.com/donate
+Sat Aug 10 14:51:19 2019	William (STEAM_0:0:52504530): well if you are gonna make sure that u will donate eventually i can give u vip in the meanwhile
+Sat Aug 10 14:51:29 2019	William (STEAM_0:0:52504530): its fine
+Sat Aug 10 14:51:47 2019	William (STEAM_0:0:52504530): lmao
+Sat Aug 10 14:52:04 2019	William (STEAM_0:0:52504530): dude i wish i could use something else other than paypal but EVERY donation system uses it
+Sat Aug 10 14:52:42 2019	William (STEAM_0:0:52504530): my biggest issue with paypal is their fees and people can do chargebacks
+Sat Aug 10 14:52:53 2019	William (STEAM_0:0:52504530): ik
+Sat Aug 10 14:53:21 2019	William (STEAM_0:0:52504530): i hope by then we can use something else
+Sat Aug 10 14:54:40 2019	William (STEAM_0:0:52504530): alright whatever fix the donation issue whenever u have the time to
+Sat Aug 10 14:54:43 2019	William (STEAM_0:0:52504530): dont worry about it now
+Sat Aug 10 14:54:53 2019	William (STEAM_0:0:52504530) spawned
+Sat Aug 10 14:55:04 2019	William (STEAM_0:0:52504530): lol
+Sat Aug 10 14:55:07 2019	William (STEAM_0:0:52504530): drderp wants to remove that 
+Sat Aug 10 14:55:08 2019	William (STEAM_0:0:52504530): the noise
+Sat Aug 10 14:55:15 2019	William (STEAM_0:0:52504530): i think we should leave it personally
+Sat Aug 10 14:55:30 2019	William (STEAM_0:0:52504530): if u wanna tp silently u can just spectate the person and then press R
+Sat Aug 10 14:55:42 2019	William (STEAM_0:0:52504530): now im behind u
+Sat Aug 10 14:56:05 2019	William (STEAM_0:0:52504530): im always watching people
+Sat Aug 10 14:56:11 2019	William (STEAM_0:0:52504530): i like almost never roleplay
+Sat Aug 10 14:56:23 2019	William (STEAM_0:0:52504530): yeah it sucks
+Sat Aug 10 14:56:32 2019	William (STEAM_0:0:52504530): u dont know how many people ask me questions every day
+Sat Aug 10 14:56:43 2019	William (STEAM_0:0:52504530): oh god
+Sat Aug 10 14:57:30 2019	William (STEAM_0:0:52504530): i bought minecraft in april 28 2011
+Sat Aug 10 14:57:48 2019	William (STEAM_0:0:52504530): i just went on my mom's email and found the receipt
+Sat Aug 10 14:57:58 2019	William (STEAM_0:0:52504530): lol
+Sat Aug 10 14:59:02 2019	William (STEAM_0:0:52504530): nice
+Sat Aug 10 14:59:14 2019	William (STEAM_0:0:52504530): i remember playing the demo in the browser
+Sat Aug 10 14:59:25 2019	William (STEAM_0:0:52504530): that shit was so weird
+Sat Aug 10 14:59:52 2019	William (STEAM_0:0:52504530): there were even servers on the browser and i would go on there and grief LMAO
+Sat Aug 10 15:00:14 2019	William (STEAM_0:0:52504530): i griefed the shit out of those
+Sat Aug 10 15:00:30 2019	William (STEAM_0:0:52504530): i was like fucking 8 years old just breaking all the blocks that people built
+Sat Aug 10 15:00:44 2019	William (STEAM_0:0:52504530): i miss the times when there wasnt a hunger bar
+Sat Aug 10 15:01:14 2019	William (STEAM_0:0:52504530): i always played on singleplayer
+Sat Aug 10 15:01:34 2019	William (STEAM_0:0:52504530): nah dude i waited for like 2 years before my mom could buy it for me
+Sat Aug 10 15:01:51 2019	William (STEAM_0:0:52504530): (hint) was not a good boy
+Sat Aug 10 15:02:08 2019	William (STEAM_0:0:52504530): i was and still am a terrible son
+Sat Aug 10 15:02:20 2019	William (STEAM_0:0:52504530): i do but ive treated her like shit my entire life 
+Sat Aug 10 15:02:48 2019	William (STEAM_0:0:52504530): but its not like i want to i just have a lot of anger issues and severe depression from past life experiences
+Sat Aug 10 15:03:19 2019	William (STEAM_0:0:52504530): i didnt grow up with a dad and i never had friends in school so
+Sat Aug 10 15:03:29 2019	William (STEAM_0:0:52504530): i was always really depressed and angry all the time
+Sat Aug 10 15:03:35 2019	William (STEAM_0:0:52504530): i would literally cry every morning to not go to school
+Sat Aug 10 15:03:51 2019	Dio (STEAM_0:0:497465680) has joined the game
+Sat Aug 10 15:03:51 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 15:04:18 2019	William (STEAM_0:0:52504530): thats horrible
+Sat Aug 10 15:04:54 2019	William (STEAM_0:0:52504530): i probably did but i still like to listen to other people's lives and hear what they went through
+Sat Aug 10 15:05:17 2019	William (STEAM_0:0:52504530): ive been homeless like at least 3 times in my life
+Sat Aug 10 15:05:58 2019	William (STEAM_0:0:52504530): um i cant talk but sure
+Sat Aug 10 15:08:01 2019	Bobbicus (STEAM_0:0:86269452) has joined the game
+Sat Aug 10 15:08:01 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Sat Aug 10 15:09:00 2019	Bobbicus (STEAM_0:0:86269452): !casino
+Sat Aug 10 15:09:04 2019	Bobbicus (STEAM_0:0:86269452): 
+Sat Aug 10 15:11:58 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Sat Aug 10 15:12:07 2019	acewinters (STEAM_0:0:38568814): // Hi Bob o/
+Sat Aug 10 15:12:11 2019	Bobbicus (STEAM_0:0:86269452): /ooc hey
+Sat Aug 10 15:14:09 2019	acewinters (STEAM_0:0:38568814) spawned Vehicle prop_vehicle_jeep (wrangler_fnftdm)
+Sat Aug 10 15:15:55 2019	William (STEAM_0:0:52504530): he used his 50th amendment right
+Sat Aug 10 15:16:06 2019	William (STEAM_0:0:52504530): lmao
+Sat Aug 10 15:16:18 2019	William (STEAM_0:0:52504530): party time
+Sat Aug 10 15:16:30 2019	Dio (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_jeep (porcycletdm)
+Sat Aug 10 15:16:38 2019	William (STEAM_0:0:52504530): hmm
+Sat Aug 10 15:16:42 2019	William (STEAM_0:0:52504530): im guessing its gonna be 800
+Sat Aug 10 15:16:59 2019	William (STEAM_0:0:52504530) spawned
+Sat Aug 10 15:17:22 2019	William (STEAM_0:0:52504530): /setmoney william 1000000
+Sat Aug 10 15:17:22 2019	William (STEAM_0:0:52504530) set Derp's money to $1,000,000
+Sat Aug 10 15:17:48 2019	William (STEAM_0:0:52504530): we replaced the FA:S weapons with CW2.0 weapons
+Sat Aug 10 15:17:58 2019	William (STEAM_0:0:52504530): take some if u want
+Sat Aug 10 15:18:06 2019	William (STEAM_0:0:52504530): its gone but the new shotguns are super strong too
+Sat Aug 10 15:18:18 2019	William (STEAM_0:0:52504530): this is like the new ks
+Sat Aug 10 15:18:24 2019	William (STEAM_0:0:52504530): but imo its better
+Sat Aug 10 15:18:40 2019	William (STEAM_0:0:52504530): and u can customize them
+Sat Aug 10 15:18:41 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 15:18:54 2019	William (STEAM_0:0:52504530): like in bf3
+Sat Aug 10 15:19:08 2019	William (STEAM_0:0:52504530): its better
+Sat Aug 10 15:19:17 2019	William (STEAM_0:0:52504530): yup
+Sat Aug 10 15:19:28 2019	William (STEAM_0:0:52504530): take them all if u want
+Sat Aug 10 15:19:30 2019	William (STEAM_0:0:52504530): try them out
+Sat Aug 10 15:19:46 2019	Dio (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_jeep (dodgeramtdm)
+Sat Aug 10 15:19:53 2019	Dio (STEAM_0:0:497465680) spawned SENT pvault_moneybag
+Sat Aug 10 15:19:54 2019	Dio (STEAM_0:0:497465680) spawned SENT pvault_moneybag
+Sat Aug 10 15:19:55 2019	Dio (STEAM_0:0:497465680) spawned SENT pvault_moneybag
+Sat Aug 10 15:19:56 2019	Dio (STEAM_0:0:497465680) spawned SENT pvault_moneybag
+Sat Aug 10 15:19:58 2019	Dio (STEAM_0:0:497465680) spawned SENT pvault_moneybag
+Sat Aug 10 15:20:15 2019	William (STEAM_0:0:52504530): oh yeah
+Sat Aug 10 15:20:18 2019	William (STEAM_0:0:52504530): i knew about that
+Sat Aug 10 15:20:29 2019	William (STEAM_0:0:52504530): a lot of people dont know that u can have a tracking camera
+Sat Aug 10 15:20:48 2019	William (STEAM_0:0:52504530): dude so many people dont know about it
+Sat Aug 10 15:21:01 2019	William (STEAM_0:0:52504530): its kinda broken
+Sat Aug 10 15:21:02 2019	William (STEAM_0:0:52504530): but it works
+Sat Aug 10 15:21:07 2019	William (STEAM_0:0:52504530): big rip
+Sat Aug 10 15:21:10 2019	Dio (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_jeep (charger12poltdm)
+Sat Aug 10 15:21:22 2019	Dio (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_jeep (charger12poltdm)
+Sat Aug 10 15:21:25 2019	William (STEAM_0:0:52504530): shoot me once with it 
+Sat Aug 10 15:21:32 2019	William (STEAM_0:0:52504530): body
+Sat Aug 10 15:21:48 2019	William (STEAM_0:0:52504530): the shorty is also really good
+Sat Aug 10 15:21:52 2019	William (STEAM_0:0:52504530): !hp william 100
+Sat Aug 10 15:22:01 2019	William was killed by acewinters with a cw_m3super90
+Sat Aug 10 15:22:05 2019	William (STEAM_0:0:52504530) spawned
+Sat Aug 10 15:22:17 2019	Dio (STEAM_0:0:497465680): /police
+Sat Aug 10 15:22:18 2019	William (STEAM_0:0:52504530): lol
+Sat Aug 10 15:22:19 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 15:22:31 2019	William was killed by acewinters with a cw_m3super90
+Sat Aug 10 15:22:34 2019	William (STEAM_0:0:52504530) spawned
+Sat Aug 10 15:22:35 2019	Dio (STEAM_0:0:497465680): 
+Sat Aug 10 15:22:47 2019	William (STEAM_0:0:52504530): thats why it costs 150k
+Sat Aug 10 15:22:49 2019	Dio (STEAM_0:0:497465680): 
+Sat Aug 10 15:22:57 2019	acewinters (STEAM_0:0:38568814): /DROP
+Sat Aug 10 15:23:08 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 15:23:12 2019	William (STEAM_0:0:52504530): yeah 
+Sat Aug 10 15:23:50 2019	William (STEAM_0:0:52504530): /dropweapon
+Sat Aug 10 15:24:08 2019	William (STEAM_0:0:52504530): u can even have a m203 launcher on there
+Sat Aug 10 15:25:09 2019	William (STEAM_0:0:52504530): sure
+Sat Aug 10 15:25:21 2019	William (STEAM_0:0:52504530): !hp william 100
+Sat Aug 10 15:25:33 2019	William (STEAM_0:0:52504530): !hp william 100
+Sat Aug 10 15:25:36 2019	William (STEAM_0:0:52504530): !hp william 100
+Sat Aug 10 15:25:50 2019	William (STEAM_0:0:52504530): yea
+Sat Aug 10 15:26:08 2019	William (STEAM_0:0:52504530): if u can do crazy shit and get away with it then it wasnt crazy from the beginning
+Sat Aug 10 15:26:15 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 15:26:33 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_pot_hydro
+Sat Aug 10 15:26:36 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_pot_hydro
+Sat Aug 10 15:26:37 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_pot_hydro
+Sat Aug 10 15:26:37 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_pot_hydro
+Sat Aug 10 15:26:39 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_pot_hydro
+Sat Aug 10 15:26:40 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_pot_hydro
+Sat Aug 10 15:26:47 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_soil
+Sat Aug 10 15:26:48 2019	William (STEAM_0:0:52504530): the grenade launcher?
+Sat Aug 10 15:26:50 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_soil
+Sat Aug 10 15:26:58 2019	William (STEAM_0:0:52504530): E+right click
+Sat Aug 10 15:27:00 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_soil
+Sat Aug 10 15:27:07 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_soil
+Sat Aug 10 15:27:09 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_soil
+Sat Aug 10 15:27:10 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_soil
+Sat Aug 10 15:27:20 2019	William (STEAM_0:0:52504530): ikr
+Sat Aug 10 15:27:22 2019	William (STEAM_0:0:52504530): brb
+Sat Aug 10 15:28:01 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_lamp
+Sat Aug 10 15:28:03 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_lamp
+Sat Aug 10 15:28:13 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_ventilator
+Sat Aug 10 15:28:16 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_ventilator
+Sat Aug 10 15:28:24 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_generator
+Sat Aug 10 15:28:26 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_fuel
+Sat Aug 10 15:28:27 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_fuel
+Sat Aug 10 15:28:39 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_outlet
+Sat Aug 10 15:28:59 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_soil
+Sat Aug 10 15:29:01 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_soil
+Sat Aug 10 15:29:02 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_soil
+Sat Aug 10 15:29:03 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_soil
+Sat Aug 10 15:29:04 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_soil
+Sat Aug 10 15:30:34 2019	William (STEAM_0:0:52504530): lmao
+Sat Aug 10 15:30:42 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_watertank
+Sat Aug 10 15:30:53 2019	William (STEAM_0:0:52504530): m203 launcher only has 1 round and then ur done
+Sat Aug 10 15:30:55 2019	William (STEAM_0:0:52504530): no more ammo
+Sat Aug 10 15:31:08 2019	William (STEAM_0:0:52504530): i can sell the ammo but nah thats too OP
+Sat Aug 10 15:31:14 2019	William (STEAM_0:0:52504530): i think if u fuck up ur one shot thats ur fault
+Sat Aug 10 15:31:50 2019	William (STEAM_0:0:52504530): jesus
+Sat Aug 10 15:32:07 2019	William (STEAM_0:0:52504530): be careful when u buy ammo kits
+Sat Aug 10 15:32:08 2019	jtroll1942 (STEAM_0:1:119864290) has joined the game
+Sat Aug 10 15:32:08 2019	jtroll19 (STEAM_0:1:119864290) spawned
+Sat Aug 10 15:32:09 2019	William (STEAM_0:0:52504530): they can blow up
+Sat Aug 10 15:32:44 2019	William (STEAM_0:0:52504530): well its just a box of ammo
+Sat Aug 10 15:32:53 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 15:32:54 2019	William (STEAM_0:0:52504530): ik
+Sat Aug 10 15:33:00 2019	William (STEAM_0:0:52504530): but in gmod we have limitations
+Sat Aug 10 15:33:13 2019	William (STEAM_0:0:52504530): lmao
+Sat Aug 10 15:33:29 2019	William (STEAM_0:0:52504530): you know im gonna be spending a couple of years learning how to program in c# to prepare for S&box
+Sat Aug 10 15:33:49 2019	William (STEAM_0:0:52504530): so that when S&box comes out i can make addons
+Sat Aug 10 15:34:14 2019	Dio (STEAM_0:0:497465680): !bring jtroll19
+Sat Aug 10 15:34:23 2019	William (STEAM_0:0:52504530): i hope c# isnt too bad for someone who has never programmed
+Sat Aug 10 15:34:25 2019	jtroll19 was killed by Dio with a cw_l115
+Sat Aug 10 15:34:47 2019	William (STEAM_0:0:52504530): ik what u mean
+Sat Aug 10 15:34:55 2019	William (STEAM_0:0:52504530): right
+Sat Aug 10 15:35:19 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 15:35:19 2019	William (STEAM_0:0:52504530): im scared
+Sat Aug 10 15:35:20 2019	jtroll19 (STEAM_0:1:119864290) spawned
+Sat Aug 10 15:35:39 2019	William (STEAM_0:0:52504530): please dont ruin the economy lmao
+Sat Aug 10 15:36:02 2019	William (STEAM_0:0:52504530): how much does a block of gen 11 go for
+Sat Aug 10 15:36:16 2019	Dio (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_jeep (gallardospydtdm)
+Sat Aug 10 15:37:34 2019	William (STEAM_0:0:52504530): well i mean it seems high risk high reward
+Sat Aug 10 15:37:45 2019	William (STEAM_0:0:52504530): if u go outside with a shit ton of weed and a cop sees you
+Sat Aug 10 15:38:03 2019	William (STEAM_0:0:52504530): yup
+Sat Aug 10 15:38:15 2019	William (STEAM_0:0:52504530): i like the feature in pocket where ur stuff falls out when u die
+Sat Aug 10 15:39:00 2019	William (STEAM_0:0:52504530): yup
+Sat Aug 10 15:39:32 2019	William (STEAM_0:0:52504530): that was a blunt of OG kush
+Sat Aug 10 15:39:36 2019	William (STEAM_0:0:52504530): i dont want anything stronger than that
+Sat Aug 10 15:39:40 2019	William (STEAM_0:0:52504530): oh god no
+Sat Aug 10 15:39:53 2019	William (STEAM_0:0:52504530): lmao
+Sat Aug 10 15:40:05 2019	William (STEAM_0:0:52504530): honestly irl i wouldnt pass shit
+Sat Aug 10 15:40:13 2019	William (STEAM_0:0:52504530): its my fuckin weed
+Sat Aug 10 15:40:21 2019	William (STEAM_0:0:52504530): hell no fuck everyone at the party
+Sat Aug 10 15:40:31 2019	William (STEAM_0:0:52504530): first off i dont like parties
+Sat Aug 10 15:40:41 2019	William (STEAM_0:0:52504530): and second if im smoking weed which isnt super cheap i aint giving it out to everyone
+Sat Aug 10 15:41:24 2019	William (STEAM_0:0:52504530): i live in florida so weed is only allowed medically
+Sat Aug 10 15:41:29 2019	William (STEAM_0:0:52504530): but its on the way to being used recreationally
+Sat Aug 10 15:41:42 2019	William (STEAM_0:0:52504530): personally i cant see myself doing drugs or drinking regularly
+Sat Aug 10 15:42:14 2019	William (STEAM_0:0:52504530): to me it tastes like shit and makes you feel like shit so im good 
+Sat Aug 10 15:42:49 2019	William (STEAM_0:0:52504530): speaking of alcohol
+Sat Aug 10 15:42:56 2019	William (STEAM_0:0:52504530): there is a brewery mod that zero made
+Sat Aug 10 15:43:01 2019	William (STEAM_0:0:52504530): zero is the guy who made the weed and meth mod
+Sat Aug 10 15:43:17 2019	jtroll19 (STEAM_0:1:119864290) spawned
+Sat Aug 10 15:43:26 2019	William (STEAM_0:0:52504530): i doubt its a girl
+Sat Aug 10 15:43:36 2019	William (STEAM_0:0:52504530): no girl would ever be this petty LMAO
+Sat Aug 10 15:43:54 2019	William (STEAM_0:0:52504530): making fuckin drug addons in a game thats like more than 10 years old
+Sat Aug 10 15:44:27 2019	William (STEAM_0:0:52504530): i know but the only reason this game is still kind of popular is because of addons
+Sat Aug 10 15:44:31 2019	William (STEAM_0:0:52504530): otherwise it gets old fast af
+Sat Aug 10 15:44:54 2019	William (STEAM_0:0:52504530): i havent played multiplayer in the longest time ever dude
+Sat Aug 10 15:45:17 2019	William (STEAM_0:0:52504530): before i started the server i had been playing gmod singleplayer mainly
+Sat Aug 10 15:45:19 2019	William (STEAM_0:0:52504530): for like 6 years
+Sat Aug 10 15:45:29 2019	William (STEAM_0:0:52504530): dude that shit is fun as hell
+Sat Aug 10 15:45:37 2019	William (STEAM_0:0:52504530): i used to make a bunch of NPC wars
+Sat Aug 10 15:45:45 2019	William (STEAM_0:0:52504530): roleplay with myself 
+Sat Aug 10 15:45:54 2019	William (STEAM_0:0:52504530): pretend im talking to other people
+Sat Aug 10 15:45:58 2019	William (STEAM_0:0:52504530): cry because i have no friends
+Sat Aug 10 15:46:18 2019	William (STEAM_0:0:52504530): it does and the gamecube apparently also fucking became long as shit
+Sat Aug 10 15:46:34 2019	William (STEAM_0:0:52504530): do i still have the gamecube title
+Sat Aug 10 15:46:44 2019	William (STEAM_0:0:52504530): me
+Sat Aug 10 15:46:53 2019	William (STEAM_0:0:52504530): gamecube is the best console hands down
+Sat Aug 10 15:46:55 2019	William (STEAM_0:0:52504530): idc what anyone says
+Sat Aug 10 15:47:34 2019	William (STEAM_0:0:52504530): i feel like gamecube is better than wii because wii was just a really well made gimmick
+Sat Aug 10 15:47:48 2019	William (STEAM_0:0:52504530): me too but jesus christ
+Sat Aug 10 15:48:30 2019	William (STEAM_0:0:52504530): gamecube has had so many good games its not even funny
+Sat Aug 10 15:49:14 2019	William (STEAM_0:0:52504530): i had the original xbox but i didnt know what halo was until reach came out
+Sat Aug 10 15:49:42 2019	William (STEAM_0:0:52504530): i was too busy playing jurassic park operation genesis on my gamecube
+Sat Aug 10 15:49:43 2019	William (STEAM_0:0:52504530): oops
+Sat Aug 10 15:49:44 2019	William (STEAM_0:0:52504530): not gamecube
+Sat Aug 10 15:49:52 2019	William (STEAM_0:0:52504530): i meant xbox
+Sat Aug 10 15:49:54 2019	William (STEAM_0:0:52504530): fuck
+Sat Aug 10 15:50:03 2019	William (STEAM_0:0:52504530): jurassic park operation genesis on the original xbox
+Sat Aug 10 15:50:10 2019	William (STEAM_0:0:52504530): that game was fun af
+Sat Aug 10 15:50:46 2019	William (STEAM_0:0:52504530): i like strategy games
+Sat Aug 10 15:51:09 2019	William (STEAM_0:0:52504530): i know people really like the new mario games but
+Sat Aug 10 15:51:18 2019	William (STEAM_0:0:52504530): super mario sunshine
+Sat Aug 10 15:51:20 2019	William (STEAM_0:0:52504530): will always be my favorite
+Sat Aug 10 15:51:37 2019	William (STEAM_0:0:52504530): i used to also play animal crossing on gamecube
+Sat Aug 10 15:51:46 2019	William (STEAM_0:0:52504530): hell yeah man 
+Sat Aug 10 15:51:52 2019	jtroll19 (STEAM_0:1:119864290) spawned Vehicle prop_vehicle_jeep (kwt800tdm)
+Sat Aug 10 15:51:55 2019	William (STEAM_0:0:52504530): no idea
+Sat Aug 10 15:52:04 2019	William (STEAM_0:0:52504530): i tried playing luigi's mansion
+Sat Aug 10 15:52:07 2019	William (STEAM_0:0:52504530): quit within the first 30 minutes
+Sat Aug 10 15:53:18 2019	William (STEAM_0:0:52504530): hold on
+Sat Aug 10 15:53:19 2019	Bobbicus was killed by Himself with a suicide trick
+Sat Aug 10 15:53:20 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Sat Aug 10 15:53:20 2019	William (STEAM_0:0:52504530): i gotta take a huge shit
+Sat Aug 10 15:53:28 2019	William (STEAM_0:0:52504530): aight man
+Sat Aug 10 15:54:07 2019	jtroll19 was killed by Bobbicus with a fas2_rem870
+Sat Aug 10 15:54:09 2019	jtroll19 (STEAM_0:1:119864290) spawned
+Sat Aug 10 15:55:35 2019	acewinters (STEAM_0:0:38568814): // where everyone at?
+Sat Aug 10 15:55:45 2019	Bobbicus (STEAM_0:0:86269452): /ooc my weed shack
+Sat Aug 10 15:55:53 2019	jtroll19 (STEAM_0:1:119864290): by dios foot seeing to shot or not
+Sat Aug 10 15:55:57 2019	Bobbicus (STEAM_0:0:86269452): /ooc at least, im there
+Sat Aug 10 15:56:05 2019	acewinters (STEAM_0:0:38568814): // we purgin"?
+Sat Aug 10 15:56:19 2019	Bobbicus (STEAM_0:0:86269452): /ooc im tryna remember how weed works
+Sat Aug 10 15:56:26 2019	jtroll19 (STEAM_0:1:119864290): ya but i have extreme lag right now
+Sat Aug 10 15:57:26 2019	jtroll19 was killed by acewinters with a cw_ar15
+Sat Aug 10 15:57:44 2019	jtroll19 (STEAM_0:1:119864290) spawned
+Sat Aug 10 15:58:03 2019	acewinters (STEAM_0:0:38568814): // if you purgin go to fourntain
+Sat Aug 10 15:58:31 2019	Bobbicus was killed by acewinters with a cw_ar15
+Sat Aug 10 15:58:35 2019	Bobbicus (STEAM_0:0:86269452): /ooc ow
+Sat Aug 10 15:58:35 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Sat Aug 10 15:59:20 2019	acewinters (STEAM_0:0:38568814): // I'll teach you weed after purge Bob
+Sat Aug 10 15:59:24 2019	Bobbicus (STEAM_0:0:86269452): /ooc k
+Sat Aug 10 15:59:53 2019	acewinters was killed by Bobbicus with a fas2_ak12
+Sat Aug 10 15:59:55 2019	acewinters (STEAM_0:0:38568814) spawned
+Sat Aug 10 16:00:42 2019	Bobbicus was killed by acewinters with a cw_ak74
+Sat Aug 10 16:00:43 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Sat Aug 10 16:01:06 2019	acewinters was killed by Bobbicus with a fas2_ak12
+Sat Aug 10 16:01:07 2019	acewinters (STEAM_0:0:38568814) spawned
+Sat Aug 10 16:01:32 2019	Bobbicus was killed by acewinters with a cw_mac11
+Sat Aug 10 16:01:33 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Sat Aug 10 16:02:08 2019	Bobbicus was killed by acewinters with a cw_mac11
+Sat Aug 10 16:02:09 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Sat Aug 10 16:02:15 2019	William (STEAM_0:0:52504530): hello
+Sat Aug 10 16:02:21 2019	William (STEAM_0:0:52504530): maybe
+Sat Aug 10 16:02:28 2019	jtroll19 was killed by Bobbicus with a fas2_rem870
+Sat Aug 10 16:02:29 2019	jtroll19 (STEAM_0:1:119864290) spawned
+Sat Aug 10 16:02:31 2019	Bobbicus was killed by acewinters with a cw_mac11
+Sat Aug 10 16:02:33 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Sat Aug 10 16:02:38 2019	William (STEAM_0:0:52504530): how so
+Sat Aug 10 16:02:51 2019	William (STEAM_0:0:52504530): to the what?
+Sat Aug 10 16:03:10 2019	William (STEAM_0:0:52504530) spawned
+Sat Aug 10 16:03:31 2019	William (STEAM_0:0:52504530): works fine for me
+Sat Aug 10 16:04:13 2019	William (STEAM_0:0:52504530): alright 
+Sat Aug 10 16:04:20 2019	William (STEAM_0:0:52504530): we have a medic job now
+Sat Aug 10 16:04:40 2019	William (STEAM_0:0:52504530) spawned
+Sat Aug 10 16:05:06 2019	William (STEAM_0:0:52504530): hi
+Sat Aug 10 16:05:22 2019	William (STEAM_0:0:52504530): mr kill everyone because i dont like my brother
+Sat Aug 10 16:05:31 2019	William (STEAM_0:0:52504530): lol
+Sat Aug 10 16:06:18 2019	William (STEAM_0:0:52504530): yeah
+Sat Aug 10 16:06:35 2019	William (STEAM_0:0:52504530): rinnegan
+Sat Aug 10 16:06:41 2019	William (STEAM_0:0:52504530): sharingan
+Sat Aug 10 16:06:48 2019	William (STEAM_0:0:52504530): thats just gmod
+Sat Aug 10 16:06:51 2019	acewinters (STEAM_0:0:38568814): /DROP
+Sat Aug 10 16:06:52 2019	William (STEAM_0:0:52504530): it has both of those
+Sat Aug 10 16:06:53 2019	William (STEAM_0:0:52504530): in sandbox
+Sat Aug 10 16:07:37 2019	acewinters (STEAM_0:0:38568814): 
+Sat Aug 10 16:07:40 2019	William (STEAM_0:0:52504530): hey ace
+Sat Aug 10 16:07:49 2019	William (STEAM_0:0:52504530): sorry if ive asked u this question before
+Sat Aug 10 16:07:54 2019	William (STEAM_0:0:52504530): im obsessed with this question
+Sat Aug 10 16:08:07 2019	William (STEAM_0:0:52504530): what music do you like?
+Sat Aug 10 16:08:28 2019	William (STEAM_0:0:52504530): a normal person?
+Sat Aug 10 16:08:30 2019	William (STEAM_0:0:52504530): is this possible?
+Sat Aug 10 16:08:59 2019	William (STEAM_0:0:52504530): why do u just have that ready to be played
+Sat Aug 10 16:09:07 2019	William (STEAM_0:0:52504530): oh
+Sat Aug 10 16:09:19 2019	William (STEAM_0:0:52504530): this is terrifying
+Sat Aug 10 16:09:26 2019	William (STEAM_0:0:52504530): u just have ur mouth open and music comes out
+Sat Aug 10 16:10:05 2019	William (STEAM_0:0:52504530): oh god
+Sat Aug 10 16:10:46 2019	William was killed by Himself with a suicide trick
+Sat Aug 10 16:10:48 2019	William (STEAM_0:0:52504530) spawned
+Sat Aug 10 16:10:51 2019	jtroll19 (STEAM_0:1:119864290): /DROPWEPON
+Sat Aug 10 16:11:05 2019	William (STEAM_0:0:52504530): u wanna see something terrifying?
+Sat Aug 10 16:11:08 2019	jtroll19 (STEAM_0:1:119864290): /drop
+Sat Aug 10 16:11:12 2019	William (STEAM_0:0:52504530) spawned
+Sat Aug 10 16:11:20 2019	William (STEAM_0:0:52504530): LOL
+Sat Aug 10 16:11:21 2019	acewinters (STEAM_0:0:38568814): 
+Sat Aug 10 16:11:56 2019	William (STEAM_0:0:52504530): i usually listen to Nirvana
+Sat Aug 10 16:12:11 2019	jtroll19 was killed by William with a cw_deagle
+Sat Aug 10 16:12:16 2019	William (STEAM_0:0:52504530): lol
+Sat Aug 10 16:12:21 2019	jtroll19 (STEAM_0:1:119864290) spawned
+Sat Aug 10 16:12:40 2019	William (STEAM_0:0:52504530): i have some
+Sat Aug 10 16:13:36 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 16:13:38 2019	Dio (STEAM_0:0:497465680): 
+Sat Aug 10 16:14:18 2019	Dio (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_prisoner_pod (phx_seat)
+Sat Aug 10 16:14:22 2019	Dio (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_prisoner_pod (phx_seat)
+Sat Aug 10 16:15:04 2019	William (STEAM_0:0:52504530): dont u hate it when u eat a muffin and naruto is playing nirvana from his mouth
+Sat Aug 10 16:15:14 2019	William (STEAM_0:0:52504530): lmao
+Sat Aug 10 16:16:08 2019	acewinters (STEAM_0:0:38568814): // where tf did you go?
+Sat Aug 10 16:16:57 2019	William (STEAM_0:0:52504530): idk lets test it out 
+Sat Aug 10 16:17:24 2019	William (STEAM_0:0:52504530): well ur house is fire proof
+Sat Aug 10 16:17:36 2019	William (STEAM_0:0:52504530): well good thing i have a molotov then
+Sat Aug 10 16:17:47 2019	William (STEAM_0:0:52504530): i cant hear u
+Sat Aug 10 16:18:10 2019	William was killed by Entity [1773][rj_molotov_hull] with a unknown
+Sat Aug 10 16:18:12 2019	William (STEAM_0:0:52504530) spawned
+Sat Aug 10 16:20:46 2019	William (STEAM_0:0:52504530): this dude really just said mexican anthem
+Sat Aug 10 16:20:55 2019	William (STEAM_0:0:52504530) spawned
+Sat Aug 10 16:21:23 2019	William (STEAM_0:0:52504530): im gonna send u something cool that someone made in unreal engine 4
+Sat Aug 10 16:22:13 2019	William (STEAM_0:0:52504530): ikr
+Sat Aug 10 16:22:21 2019	William (STEAM_0:0:52504530): thats what im gonna be doing when S&box comes out
+Sat Aug 10 16:22:30 2019	William (STEAM_0:0:52504530): making addons
+Sat Aug 10 16:22:44 2019	William (STEAM_0:0:52504530): and making those crazy particle effects using unreal engine
+Sat Aug 10 16:23:04 2019	William (STEAM_0:0:52504530): im gonna start learning how to program in c# soon
+Sat Aug 10 16:23:05 2019	William (STEAM_0:0:52504530): to prepare
+Sat Aug 10 16:23:16 2019	William (STEAM_0:0:52504530): what are u gonna do with ur life bobby
+Sat Aug 10 16:23:47 2019	William (STEAM_0:0:52504530): slim boi gonna turn into thicc boi
+Sat Aug 10 16:23:48 2019	jtroll19 was killed by acewinters with a fas2_deagle
+Sat Aug 10 16:23:54 2019	jtroll19 (STEAM_0:1:119864290) spawned
+Sat Aug 10 16:24:03 2019	William (STEAM_0:0:52504530): in my dreams i dont have to worry about having a heart attack at the age of 23
+Sat Aug 10 16:24:18 2019	William (STEAM_0:0:52504530): speaking of dreams i had one and i forogt what it was
+Sat Aug 10 16:24:20 2019	William (STEAM_0:0:52504530): ok anyways
+Sat Aug 10 16:24:27 2019	William (STEAM_0:0:52504530): i think i was killing people
+Sat Aug 10 16:24:29 2019	William (STEAM_0:0:52504530): in a school
+Sat Aug 10 16:24:31 2019	William (STEAM_0:0:52504530): but i cant remember
+Sat Aug 10 16:24:40 2019	William (STEAM_0:0:52504530): i mean it was fun but whatever
+Sat Aug 10 16:24:57 2019	William (STEAM_0:0:52504530): we will watch aot later my boy
+Sat Aug 10 16:25:08 2019	William (STEAM_0:0:52504530): i swear on my life we will finish that show
+Sat Aug 10 16:25:20 2019	William (STEAM_0:0:52504530): YOU BETTER NOT 
+Sat Aug 10 16:25:26 2019	William (STEAM_0:0:52504530): BOY I KNOW WHERE YOU LIVE
+Sat Aug 10 16:25:30 2019	William (STEAM_0:0:52504530): ONLY 1 MORE YEAR UNTIL IM 18
+Sat Aug 10 16:25:33 2019	William (STEAM_0:0:52504530): AND THEN I CAN BOOK A FLIGHT
+Sat Aug 10 16:25:45 2019	William (STEAM_0:0:52504530): but yeah ill watch like 2 or 3 episodes today with u
+Sat Aug 10 16:25:46 2019	acewinters (STEAM_0:0:38568814): // Jtroll you may need to relog
+Sat Aug 10 16:25:52 2019	William (STEAM_0:0:52504530): aight cya my dude
+Sat Aug 10 16:26:05 2019	William (STEAM_0:0:52504530): god damn it
+Sat Aug 10 16:26:21 2019	jtroll19 was killed by William with a cw_shorty
+Sat Aug 10 16:26:24 2019	jtroll19 (STEAM_0:1:119864290) spawned
+Sat Aug 10 16:26:28 2019	William (STEAM_0:0:52504530): my 180 no scope
+Sat Aug 10 16:26:34 2019	William (STEAM_0:0:52504530): jesus christ
+Sat Aug 10 16:26:39 2019	William (STEAM_0:0:52504530): i love incest
+Sat Aug 10 16:26:49 2019	William (STEAM_0:0:52504530): nothing better than spit swapping with ur mom or sister
+Sat Aug 10 16:26:54 2019	William (STEAM_0:0:52504530): LOL
+Sat Aug 10 16:26:58 2019	jtroll19 was killed by acewinters with a cw_mac11
+Sat Aug 10 16:27:00 2019	William (STEAM_0:0:52504530): ok u know what
+Sat Aug 10 16:27:05 2019	William (STEAM_0:0:52504530): i might stay in here after what i just heard
+Sat Aug 10 16:27:15 2019	jtroll19 (STEAM_0:1:119864290) spawned
+Sat Aug 10 16:27:44 2019	jtroll19 was killed by acewinters with a fas2_deagle
+Sat Aug 10 16:27:51 2019	jtroll19 (STEAM_0:1:119864290) spawned
+Sat Aug 10 16:28:23 2019	William (STEAM_0:0:52504530) spawned
+Sat Aug 10 16:28:38 2019	William was killed by jtroll19 with a cw_m3super90
+Sat Aug 10 16:28:42 2019	jtroll19 was killed by acewinters with a fas2_deagle
+Sat Aug 10 16:28:43 2019	William (STEAM_0:0:52504530) spawned
+Sat Aug 10 16:28:46 2019	jtroll19 (STEAM_0:1:119864290) spawned
+Sat Aug 10 16:28:54 2019	William (STEAM_0:0:52504530): lmao
+Sat Aug 10 16:29:05 2019	Bobbicus (STEAM_0:0:86269452): /ooc please stop gunning down vietcong farmers outside of my home
+Sat Aug 10 16:29:12 2019	William (STEAM_0:0:52504530): LOL
+Sat Aug 10 16:29:15 2019	William (STEAM_0:0:52504530): WHAT BOBBY SAID
+Sat Aug 10 16:29:20 2019	jtroll19 was killed by acewinters with a fas2_deagle
+Sat Aug 10 16:29:23 2019	jtroll19 (STEAM_0:1:119864290) spawned
+Sat Aug 10 16:29:42 2019	jtroll19 was killed by acewinters with a fas2_deagle
+Sat Aug 10 16:29:54 2019	jtroll19 (STEAM_0:1:119864290) spawned
+Sat Aug 10 16:32:24 2019	jtroll19 was killed by acewinters with a cw_mac11
+Sat Aug 10 16:32:28 2019	jtroll19 (STEAM_0:1:119864290) spawned
+Sat Aug 10 16:32:53 2019	William (STEAM_0:0:52504530) spawned
+Sat Aug 10 16:33:20 2019	William (STEAM_0:0:52504530) spawned
+Sat Aug 10 16:36:07 2019	acewinters (STEAM_0:0:38568814): /DROP
+Sat Aug 10 16:36:20 2019	William (STEAM_0:0:52504530): /drop
+Sat Aug 10 16:37:22 2019	jtroll19 was killed by William with a cw_mr96
+Sat Aug 10 16:37:25 2019	jtroll19 (STEAM_0:1:119864290) spawned
+Sat Aug 10 16:37:43 2019	jtroll19 was killed by acewinters with a cw_mac11
+Sat Aug 10 16:37:44 2019	jtroll19 (STEAM_0:1:119864290) spawned
+Sat Aug 10 16:38:21 2019	jtroll19 was killed by William with a weapon_fists
+Sat Aug 10 16:38:22 2019	jtroll19 (STEAM_0:1:119864290) spawned
+Sat Aug 10 16:39:13 2019	jtroll19 was killed by acewinters with a cw_mac11
+Sat Aug 10 16:39:15 2019	jtroll19 (STEAM_0:1:119864290) spawned
+Sat Aug 10 16:40:30 2019	William (STEAM_0:0:52504530) spawned
+Sat Aug 10 16:40:47 2019	acewinters (STEAM_0:0:38568814): /drop
+Sat Aug 10 16:41:23 2019	DrDerpenstein sups.gg (STEAM_0:0:13562763) has joined the game
+Sat Aug 10 16:41:23 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Sat Aug 10 16:41:43 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth_baggy
+Sat Aug 10 16:41:43 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth_baggy
+Sat Aug 10 16:41:43 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth_baggy
+Sat Aug 10 16:41:44 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth_baggy
+Sat Aug 10 16:41:44 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth_baggy
+Sat Aug 10 16:41:44 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth_baggy
+Sat Aug 10 16:42:04 2019	jtroll19 was killed by William with a cw_ak74
+Sat Aug 10 16:42:05 2019	jtroll19 (STEAM_0:1:119864290) spawned
+Sat Aug 10 16:42:09 2019	DrDerpenstein was killed by Himself with a suicide trick
+Sat Aug 10 16:42:11 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Sat Aug 10 16:42:16 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth_baggy
+Sat Aug 10 16:42:17 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth_baggy
+Sat Aug 10 16:42:17 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth_baggy
+Sat Aug 10 16:42:22 2019	William was killed by Himself with a suicide trick
+Sat Aug 10 16:42:24 2019	William (STEAM_0:0:52504530) spawned
+Sat Aug 10 16:42:28 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth_baggy
+Sat Aug 10 16:42:28 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth_baggy
+Sat Aug 10 16:42:40 2019	jtroll19 was killed by acewinters with a weapon_fists
+Sat Aug 10 16:42:42 2019	jtroll19 (STEAM_0:1:119864290) spawned
+Sat Aug 10 16:42:57 2019	acewinters was killed by jtroll19 with a cw_mp5
+Sat Aug 10 16:43:02 2019	acewinters (STEAM_0:0:38568814) spawned
+Sat Aug 10 16:43:20 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_healthkit
+Sat Aug 10 16:43:20 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_healthkit
+Sat Aug 10 16:43:20 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_healthkit
+Sat Aug 10 16:43:20 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_healthkit
+Sat Aug 10 16:43:21 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_healthkit
+Sat Aug 10 16:43:21 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_healthkit
+Sat Aug 10 16:43:21 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_healthkit
+Sat Aug 10 16:43:35 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth_baggy
+Sat Aug 10 16:43:36 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth_baggy
+Sat Aug 10 16:43:36 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth_baggy
+Sat Aug 10 16:43:45 2019	acewinters (STEAM_0:0:38568814): // It's wabbit season. I'm goin' huntin
+Sat Aug 10 16:43:59 2019	jtroll19 was killed by acewinters with a cw_m3super90
+Sat Aug 10 16:44:06 2019	jtroll19 (STEAM_0:1:119864290) spawned
+Sat Aug 10 16:44:42 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth_baggy
+Sat Aug 10 16:44:42 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth_baggy
+Sat Aug 10 16:44:42 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth_baggy
+Sat Aug 10 16:44:42 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth_baggy
+Sat Aug 10 16:44:56 2019	DrDerpenstein (STEAM_0:0:13562763): /drop
+Sat Aug 10 16:44:57 2019	DrDerpenstein was killed by Himself with a suicide trick
+Sat Aug 10 16:44:58 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Sat Aug 10 16:44:58 2019	jtroll19 (STEAM_0:1:119864290): i was testing something
+Sat Aug 10 16:45:13 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth_baggy
+Sat Aug 10 16:45:13 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth_baggy
+Sat Aug 10 16:45:13 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth_baggy
+Sat Aug 10 16:45:22 2019	jtroll19 was killed by acewinters with a cw_m3super90
+Sat Aug 10 16:45:28 2019	jtroll19 (STEAM_0:1:119864290) spawned
+Sat Aug 10 16:45:34 2019	DrDerpenstein (STEAM_0:0:13562763) disconnected
+Sat Aug 10 16:45:37 2019	acewinters (STEAM_0:0:38568814): /drop
+Sat Aug 10 16:48:25 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Sat Aug 10 16:48:25 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Sat Aug 10 16:48:25 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Sat Aug 10 16:48:25 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Sat Aug 10 16:48:25 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Sat Aug 10 16:48:25 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Sat Aug 10 16:48:26 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Sat Aug 10 16:48:26 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Sat Aug 10 16:48:26 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Sat Aug 10 16:48:26 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Sat Aug 10 16:48:26 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Sat Aug 10 16:48:26 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Sat Aug 10 16:48:26 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Sat Aug 10 16:48:27 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Sat Aug 10 16:48:27 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Sat Aug 10 16:48:27 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Sat Aug 10 16:48:27 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Sat Aug 10 16:48:27 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Sat Aug 10 16:48:27 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Sat Aug 10 16:48:27 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Sat Aug 10 16:48:27 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Sat Aug 10 16:48:28 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Sat Aug 10 16:48:28 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Sat Aug 10 16:48:28 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Sat Aug 10 16:48:28 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Sat Aug 10 16:48:28 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Sat Aug 10 16:48:28 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Sat Aug 10 16:48:28 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Sat Aug 10 16:48:28 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Sat Aug 10 16:48:28 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Sat Aug 10 16:48:29 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Sat Aug 10 16:48:29 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Sat Aug 10 16:48:29 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Sat Aug 10 16:48:29 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Sat Aug 10 16:48:29 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Sat Aug 10 16:48:29 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Sat Aug 10 16:48:29 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Sat Aug 10 16:48:29 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Sat Aug 10 16:48:30 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Sat Aug 10 16:48:30 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Sat Aug 10 16:48:30 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Sat Aug 10 16:48:30 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Sat Aug 10 16:48:30 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Sat Aug 10 16:48:30 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Sat Aug 10 16:48:30 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Sat Aug 10 16:48:30 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Sat Aug 10 16:48:30 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Sat Aug 10 16:48:30 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Sat Aug 10 16:48:31 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Sat Aug 10 16:48:31 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Sat Aug 10 16:48:31 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Sat Aug 10 16:48:31 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Sat Aug 10 16:48:31 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Sat Aug 10 16:48:31 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Sat Aug 10 16:48:31 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Sat Aug 10 16:51:23 2019	acewinters (STEAM_0:0:38568814): // NACK
+Sat Aug 10 16:51:30 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 16:51:32 2019	acewinters (STEAM_0:0:38568814): // back*
+Sat Aug 10 16:51:45 2019	acewinters (STEAM_0:0:38568814): // also wb dio
+Sat Aug 10 16:51:51 2019	Dio (STEAM_0:0:497465680): // yeye
+Sat Aug 10 16:52:05 2019	acewinters (STEAM_0:0:38568814): /drop
+Sat Aug 10 16:52:11 2019	William (STEAM_0:0:52504530): ik i saw
+Sat Aug 10 16:52:49 2019	Dio (STEAM_0:0:497465680): /pm Bobbicus https://youtu.be/Wk5tvSfUMmg
+Sat Aug 10 16:53:14 2019	Dio (STEAM_0:0:497465680): /pm jtroll19 https://youtu.be/Wk5tvSfUMmg
+Sat Aug 10 16:54:29 2019	jtroll19 (STEAM_0:1:119864290) spawned
+Sat Aug 10 16:54:57 2019	acewinters (STEAM_0:0:38568814): // dio come here i want to compare
+Sat Aug 10 16:55:11 2019	jtroll19 (STEAM_0:1:119864290) spawned
+Sat Aug 10 17:00:05 2019	acewinters (STEAM_0:0:38568814): \
+Sat Aug 10 17:00:06 2019	acewinters was killed by Himself with a suicide trick
+Sat Aug 10 17:00:07 2019	acewinters (STEAM_0:0:38568814) spawned
+Sat Aug 10 17:00:10 2019	jeremy2 (STEAM_0:1:6097071) has joined the game
+Sat Aug 10 17:00:10 2019	jeremy2 (STEAM_0:1:6097071) spawned
+Sat Aug 10 17:01:25 2019	jtroll19 was killed by acewinters with a cw_shorty
+Sat Aug 10 17:01:33 2019	jtroll19 (STEAM_0:1:119864290) spawned
+Sat Aug 10 17:01:38 2019	acewinters (STEAM_0:0:38568814): /drop
+Sat Aug 10 17:01:45 2019	acewinters (STEAM_0:0:38568814): /DROP
+Sat Aug 10 17:02:10 2019	William (STEAM_0:0:52504530) spawned
+Sat Aug 10 17:02:13 2019	acewinters (STEAM_0:0:38568814): /DROP
+Sat Aug 10 17:02:33 2019	jtroll19 (STEAM_0:1:119864290): 
+Sat Aug 10 17:02:39 2019	jtroll19 (STEAM_0:1:119864290) spawned
+Sat Aug 10 17:02:46 2019	acewinters (STEAM_0:0:38568814): 
+Sat Aug 10 17:03:11 2019	acewinters (STEAM_0:0:38568814): // Whalecum jeremy
+Sat Aug 10 17:03:46 2019	Dio (STEAM_0:0:497465680): /pm acewinters https://youtu.be/Wk5tvSfUMmg
+Sat Aug 10 17:04:12 2019	jtroll19 (STEAM_0:1:119864290) spawned
+Sat Aug 10 17:08:10 2019	jtroll19 was killed by Dio with a cw_m249_official
+Sat Aug 10 17:08:22 2019	jtroll19 (STEAM_0:1:119864290) spawned
+Sat Aug 10 17:08:53 2019	jtroll19 was killed by Dio with a cw_m249_official
+Sat Aug 10 17:08:59 2019	Bobbicus (STEAM_0:0:86269452): 
+Sat Aug 10 17:09:04 2019	jtroll19 (STEAM_0:1:119864290) spawned
+Sat Aug 10 17:09:11 2019	jeremy2 (STEAM_0:1:6097071) spawned Vehicle prop_vehicle_airboat (Airboat)
+Sat Aug 10 17:09:18 2019	acewinters (STEAM_0:0:38568814): // Free Shit POG
+Sat Aug 10 17:09:22 2019	acewinters (STEAM_0:0:38568814): /drop
+Sat Aug 10 17:10:59 2019	Dio (STEAM_0:0:497465680): /warrant Bobbicus Weed
+Sat Aug 10 17:11:15 2019	jtroll19 was killed by Dio with a cw_m249_official
+Sat Aug 10 17:11:22 2019	jeremy2 (STEAM_0:1:6097071) disconnected
+Sat Aug 10 17:11:23 2019	jtroll19 (STEAM_0:1:119864290) spawned
+Sat Aug 10 17:14:08 2019	jtroll19 has made Dio wanted, reason: being an ass
+Sat Aug 10 17:14:08 2019	Dio is no longer wanted by the Police. Revoked by: jtroll19
+Sat Aug 10 17:14:08 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 17:14:08 2019	jtroll19 (STEAM_0:1:119864290) arrested Dio
+Sat Aug 10 17:14:10 2019	jtroll19 was killed by Himself with a suicide trick
+Sat Aug 10 17:14:13 2019	jtroll19 (STEAM_0:1:119864290) spawned
+Sat Aug 10 17:14:27 2019	jtroll19 was killed by Himself with a suicide trick
+Sat Aug 10 17:14:31 2019	jtroll19 (STEAM_0:1:119864290): abuse
+Sat Aug 10 17:14:33 2019	jtroll19 (STEAM_0:1:119864290) spawned
+Sat Aug 10 17:14:49 2019	jtroll19 (STEAM_0:1:119864290) spawned
+Sat Aug 10 17:15:08 2019	Dio was killed by jtroll19 with a cw_g36c
+Sat Aug 10 17:15:15 2019	jtroll19 (STEAM_0:1:119864290) disconnected
+Sat Aug 10 17:15:16 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 17:16:32 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_fuel
+Sat Aug 10 17:16:34 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_fuel
+Sat Aug 10 17:17:08 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_splice_lab
+Sat Aug 10 17:17:10 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_splice_lab
+Sat Aug 10 17:17:13 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_splice_lab
+Sat Aug 10 17:17:18 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_splice_lab
+Sat Aug 10 17:19:23 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_seed_bank
+Sat Aug 10 17:20:48 2019	William (STEAM_0:0:52504530): alright man
+Sat Aug 10 17:20:54 2019	William (STEAM_0:0:52504530): cya later bro
+Sat Aug 10 17:20:56 2019	Dio was killed by Himself with a suicide trick
+Sat Aug 10 17:20:57 2019	William was killed by Himself with a suicide trick
+Sat Aug 10 17:20:58 2019	Dio (STEAM_0:0:497465680) disconnected
+Sat Aug 10 17:20:58 2019	William (STEAM_0:0:52504530) spawned
+Sat Aug 10 17:21:10 2019	William (STEAM_0:0:52504530): bulbus
+Sat Aug 10 17:21:18 2019	William (STEAM_0:0:52504530): that is ur new name
+Sat Aug 10 17:21:19 2019	William (STEAM_0:0:52504530): bulbus
+Sat Aug 10 17:21:43 2019	William (STEAM_0:0:52504530): expect me to watch aot with u in like 2 hours
+Sat Aug 10 17:24:07 2019	acewinters (STEAM_0:0:38568814): /DROP
+Sat Aug 10 17:26:41 2019	William (STEAM_0:0:52504530) disconnected
+Sat Aug 10 17:32:02 2019	acewinters (STEAM_0:0:38568814): /DROP
+Sat Aug 10 17:41:08 2019	acewinters (STEAM_0:0:38568814): /dropmoney
+Sat Aug 10 17:41:13 2019	acewinters (STEAM_0:0:38568814): /dropmoney 1000000
+Sat Aug 10 17:41:14 2019	acewinters (STEAM_0:0:38568814) has dropped $1,000,000
+Sat Aug 10 17:42:49 2019	acewinters (STEAM_0:0:38568814): 
+Sat Aug 10 17:43:59 2019	Bastixx (STEAM_0:1:91231746) has joined the game
+Sat Aug 10 17:43:59 2019	Bastixx (STEAM_0:1:91231746) spawned
+Sat Aug 10 17:44:48 2019	Bastixx (STEAM_0:1:91231746): // i got past the money wipe
+Sat Aug 10 17:44:55 2019	Bastixx (STEAM_0:1:91231746) spawned
+Sat Aug 10 17:45:05 2019	Bastixx (STEAM_0:1:91231746): // yall changed alot
+Sat Aug 10 17:45:31 2019	Bastixx (STEAM_0:1:91231746): i love you
+Sat Aug 10 17:45:42 2019	Bastixx (STEAM_0:1:91231746): // yall got rid of slams?
+Sat Aug 10 17:45:45 2019	Bastixx (STEAM_0:1:91231746): // mnooooo
+Sat Aug 10 17:46:32 2019	Bastixx (STEAM_0:1:91231746): // yall made ammo so much better
+Sat Aug 10 17:49:54 2019	Bastixx was killed by Himself with a suicide trick
+Sat Aug 10 17:49:56 2019	Bastixx (STEAM_0:1:91231746) spawned
+Sat Aug 10 17:50:13 2019	𝐸𝓉𝑒𝓇𝓃𝒾𝓉� (STEAM_0:0:437581052) has joined the game
+Sat Aug 10 17:50:13 2019	𝐸𝓉𝑒𝓇𝓃𝒾𝓉� (STEAM_0:0:437581052) spawned
+Sat Aug 10 17:51:01 2019	Bobbicus (STEAM_0:0:86269452): /ooc hippity hoopity please stay away from my property
+Sat Aug 10 17:51:10 2019	𝐸𝓉𝑒𝓇𝓃𝒾𝓉� (STEAM_0:0:437581052) disconnected
+Sat Aug 10 17:51:59 2019	acewinters was killed by Bastixx with a cw_ak74
+Sat Aug 10 17:52:02 2019	acewinters (STEAM_0:0:38568814) spawned
+Sat Aug 10 17:54:04 2019	acewinters was killed by Bastixx with a cw_ak74
+Sat Aug 10 17:54:05 2019	acewinters (STEAM_0:0:38568814) spawned
+Sat Aug 10 17:55:16 2019	acewinters was killed by Bastixx with a cw_ak74
+Sat Aug 10 17:55:17 2019	acewinters (STEAM_0:0:38568814) spawned
+Sat Aug 10 17:55:31 2019	acewinters was killed by Bastixx with a cw_ak74
+Sat Aug 10 17:55:34 2019	acewinters (STEAM_0:0:38568814) spawned
+Sat Aug 10 17:55:57 2019	Bastixx was killed by Bobbicus with a cw_shorty
+Sat Aug 10 17:55:59 2019	Bobbicus was killed by acewinters with a cw_mac11
+Sat Aug 10 17:56:01 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Sat Aug 10 17:56:04 2019	Bastixx (STEAM_0:1:91231746) spawned
+Sat Aug 10 17:56:20 2019	Bobbicus was killed by acewinters with a cw_mac11
+Sat Aug 10 17:56:25 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Sat Aug 10 17:56:33 2019	Bastixx (STEAM_0:1:91231746): // in my defense you shot first
+Sat Aug 10 17:56:40 2019	Bobbicus (STEAM_0:0:86269452): /ooc true
+Sat Aug 10 17:56:48 2019	Bastixx (STEAM_0:1:91231746): // 
+Sat Aug 10 17:57:02 2019	Bastixx was killed by acewinters with a cw_mac11
+Sat Aug 10 17:57:03 2019	Bastixx (STEAM_0:1:91231746) spawned
+Sat Aug 10 17:57:06 2019	acewinters was killed by Bobbicus with a fas2_ak12
+Sat Aug 10 17:57:15 2019	acewinters (STEAM_0:0:38568814) spawned
+Sat Aug 10 17:57:41 2019	𝐸𝓉𝑒𝓇𝓃𝒾𝓉� (STEAM_0:0:437581052) has joined the game
+Sat Aug 10 17:57:41 2019	𝐸𝓉𝑒𝓇𝓃𝒾𝓉� (STEAM_0:0:437581052) spawned
+Sat Aug 10 17:57:41 2019	Bobbicus was killed by Bastixx with a cw_ak74
+Sat Aug 10 17:57:42 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Sat Aug 10 17:58:00 2019	Bastixx was killed by Bobbicus with a fas2_ak12
+Sat Aug 10 17:58:01 2019	Bastixx (STEAM_0:1:91231746) spawned
+Sat Aug 10 17:58:18 2019	acewinters (STEAM_0:0:38568814) spawned
+Sat Aug 10 17:58:36 2019	Bastixx was killed by acewinters with a cw_ak74
+Sat Aug 10 17:58:39 2019	Bastixx (STEAM_0:1:91231746) spawned
+Sat Aug 10 17:58:59 2019	Bobbicus was killed by acewinters with a cw_ak74
+Sat Aug 10 17:59:00 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Sat Aug 10 17:59:07 2019	Bastixx was killed by acewinters with a cw_ak74
+Sat Aug 10 17:59:09 2019	Bastixx (STEAM_0:1:91231746) spawned
+Sat Aug 10 17:59:33 2019	Bobbicus was killed by Bastixx with a cw_ak74
+Sat Aug 10 17:59:34 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Sat Aug 10 17:59:38 2019	Bastixx was killed by acewinters with a cw_ak74
+Sat Aug 10 17:59:41 2019	Bastixx (STEAM_0:1:91231746) spawned
+Sat Aug 10 18:00:02 2019	𝐸𝓉𝑒𝓇𝓃𝒾𝓉� was killed by Bobbicus with a fas2_rem870
+Sat Aug 10 18:00:08 2019	Bastixx (STEAM_0:1:91231746): // you kileld a new player ree
+Sat Aug 10 18:00:09 2019	Bobbicus was killed by acewinters with a cw_ak74
+Sat Aug 10 18:00:10 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Sat Aug 10 18:00:13 2019	acewinters was killed by Bastixx with a cw_ak74
+Sat Aug 10 18:00:13 2019	𝐸𝓉𝑒𝓇𝓃𝒾𝓉� (STEAM_0:0:437581052): ruh ro
+Sat Aug 10 18:00:14 2019	𝐸𝓉𝑒𝓇𝓃𝒾𝓉� (STEAM_0:0:437581052) spawned
+Sat Aug 10 18:00:21 2019	acewinters (STEAM_0:0:38568814) spawned
+Sat Aug 10 18:01:01 2019	Bobbicus (STEAM_0:0:86269452): 
+Sat Aug 10 18:01:10 2019	Bastixx (STEAM_0:1:91231746): // id rather get that dick
+Sat Aug 10 18:01:17 2019	Bobbicus (STEAM_0:0:86269452): /ooc i mean ok
+Sat Aug 10 18:01:34 2019	Bastixx (STEAM_0:1:91231746) spawned Vehicle prop_vehicle_jeep (jag_ftypetdm)
+Sat Aug 10 18:01:56 2019	acewinters was killed by Bastixx with a prop_vehicle_jeep
+Sat Aug 10 18:02:00 2019	acewinters (STEAM_0:0:38568814) spawned
+Sat Aug 10 18:03:47 2019	𝐸𝓉𝑒𝓇𝓃𝒾𝓉� (STEAM_0:0:437581052) spawned
+Sat Aug 10 18:04:38 2019	acewinters was killed by Bastixx with a cw_ak74
+Sat Aug 10 18:04:43 2019	acewinters (STEAM_0:0:38568814) spawned
+Sat Aug 10 18:04:50 2019	Bastixx (STEAM_0:1:91231746): 
+Sat Aug 10 18:04:50 2019	Bobbicus was killed by Bastixx with a cw_ak74
+Sat Aug 10 18:04:53 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Sat Aug 10 18:05:01 2019	acewinters (STEAM_0:0:38568814): 
+Sat Aug 10 18:05:02 2019	Bastixx (STEAM_0:1:91231746): // i said i was finna get that nut
+Sat Aug 10 18:05:10 2019	Bobbicus (STEAM_0:0:86269452): 
+Sat Aug 10 18:05:16 2019	Bastixx (STEAM_0:1:91231746): // nlr?
+Sat Aug 10 18:05:21 2019	Bobbicus (STEAM_0:0:86269452): /ooc oh yea
+Sat Aug 10 18:05:25 2019	Bastixx (STEAM_0:1:91231746): // your an admin
+Sat Aug 10 18:05:35 2019	Bastixx (STEAM_0:1:91231746): // lol
+Sat Aug 10 18:06:01 2019	Bobbicus (STEAM_0:0:86269452): /ooc im gonna leave in a bit anyway
+Sat Aug 10 18:06:04 2019	Bastixx (STEAM_0:1:91231746): 
+Sat Aug 10 18:06:07 2019	Bastixx (STEAM_0:1:91231746): // love you bobb
+Sat Aug 10 18:06:23 2019	acewinters (STEAM_0:0:38568814): 
+Sat Aug 10 18:06:23 2019	𝐸𝓉𝑒𝓇𝓃𝒾𝓉� (STEAM_0:0:437581052) spawned
+Sat Aug 10 18:06:27 2019	Bobbicus (STEAM_0:0:86269452): /oochmmmmmmmmmmmmmmmmmmmmm
+Sat Aug 10 18:06:31 2019	Bobbicus (STEAM_0:0:86269452): /ooc hmmmmmmmm
+Sat Aug 10 18:06:46 2019	Bobbicus (STEAM_0:0:86269452): /ooc i doubt
+Sat Aug 10 18:06:50 2019	Bastixx (STEAM_0:1:91231746): // i lvoe you
+Sat Aug 10 18:08:00 2019	Bastixx (STEAM_0:1:91231746): 
+Sat Aug 10 18:09:12 2019	acewinters (STEAM_0:0:38568814) spawned Vehicle prop_vehicle_jeep (morgaerosstdm)
+Sat Aug 10 18:09:23 2019	Dio (STEAM_0:0:497465680) has joined the game
+Sat Aug 10 18:09:23 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 18:10:48 2019	Bastixx (STEAM_0:1:91231746): 
+Sat Aug 10 18:10:59 2019	Dio was killed by Himself with a suicide trick
+Sat Aug 10 18:11:13 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 18:11:43 2019	Bobbicus (STEAM_0:0:86269452): /ooc imma go yall have fun
+Sat Aug 10 18:11:47 2019	Bastixx (STEAM_0:1:91231746): // no stay baby
+Sat Aug 10 18:11:48 2019	Bobbicus (STEAM_0:0:86269452) disconnected
+Sat Aug 10 18:11:50 2019	Bastixx (STEAM_0:1:91231746): // come back to bed <>3
+Sat Aug 10 18:11:51 2019	Bastixx (STEAM_0:1:91231746): // <3
+Sat Aug 10 18:11:54 2019	Dio was killed by Himself with a suicide trick
+Sat Aug 10 18:11:58 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 18:12:08 2019	𝐸𝓉𝑒𝓇𝓃𝒾𝓉� (STEAM_0:0:437581052): dont do coidene
+Sat Aug 10 18:12:11 2019	𝐸𝓉𝑒𝓇𝓃𝒾𝓉� (STEAM_0:0:437581052): sell it
+Sat Aug 10 18:12:41 2019	Dio (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_airboat (Airboat)
+Sat Aug 10 18:13:04 2019	acewinters was killed by Vehicle [1539][prop_vehicle_airboat] with a prop_vehicle_airboat
+Sat Aug 10 18:13:07 2019	acewinters (STEAM_0:0:38568814) spawned
+Sat Aug 10 18:13:42 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 18:13:44 2019	acewinters (STEAM_0:0:38568814) spawned
+Sat Aug 10 18:14:03 2019	Dio (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_airboat (Airboat)
+Sat Aug 10 18:14:10 2019	Dio was killed by Bastixx with a cw_ak74
+Sat Aug 10 18:14:14 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 18:14:27 2019	acewinters was killed by Entity [0][worldspawn] with a unknown
+Sat Aug 10 18:14:31 2019	Dio was killed by Bastixx with a cw_ak74
+Sat Aug 10 18:14:32 2019	acewinters (STEAM_0:0:38568814) spawned
+Sat Aug 10 18:14:32 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 18:15:10 2019	Dio was killed by acewinters with a prop_vehicle_jeep
+Sat Aug 10 18:15:13 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 18:15:26 2019	Dio was killed by acewinters with a prop_vehicle_jeep
+Sat Aug 10 18:15:30 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 18:15:43 2019	Dio (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_airboat (Airboat)
+Sat Aug 10 18:15:49 2019	acewinters was killed by Himself with a suicide trick
+Sat Aug 10 18:15:56 2019	acewinters (STEAM_0:0:38568814) spawned
+Sat Aug 10 18:17:08 2019	Bastixx was killed by Himself with a suicide trick
+Sat Aug 10 18:17:32 2019	Bastixx (STEAM_0:1:91231746) spawned
+Sat Aug 10 18:17:34 2019	Dio (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_jeep (bustdm)
+Sat Aug 10 18:17:36 2019	Dio (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_jeep (bustdm)
+Sat Aug 10 18:18:10 2019	𝐸𝓉𝑒𝓇𝓃𝒾𝓉� (STEAM_0:0:437581052) spawned
+Sat Aug 10 18:19:43 2019	Bastixx (STEAM_0:1:91231746): /pm dio dont shoot trust me
+Sat Aug 10 18:19:46 2019	acewinters was killed by Bastixx with a cw_ak74
+Sat Aug 10 18:19:49 2019	acewinters (STEAM_0:0:38568814) spawned
+Sat Aug 10 18:19:59 2019	acewinters was killed by Bastixx with a cw_ak74
+Sat Aug 10 18:20:02 2019	acewinters (STEAM_0:0:38568814) spawned
+Sat Aug 10 18:20:22 2019	Dio was killed by Bastixx with a cw_ak74
+Sat Aug 10 18:20:23 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 18:22:37 2019	acewinters was killed by Bastixx with a cw_ak74
+Sat Aug 10 18:22:41 2019	acewinters (STEAM_0:0:38568814) spawned
+Sat Aug 10 18:24:01 2019	acewinters was killed by Dio with a cw_grenade_thrown
+Sat Aug 10 18:24:02 2019	acewinters (STEAM_0:0:38568814) spawned
+Sat Aug 10 18:24:50 2019	Dio was killed by Entity [1730][cw_40mm_explosive] with a cw_40mm_explosive
+Sat Aug 10 18:24:52 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 18:26:41 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_fuel
+Sat Aug 10 18:27:53 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_splice_lab
+Sat Aug 10 18:27:54 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_splice_lab
+Sat Aug 10 18:27:55 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_splice_lab
+Sat Aug 10 18:27:58 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_splice_lab
+Sat Aug 10 18:27:59 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_splice_lab
+Sat Aug 10 18:27:59 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_splice_lab
+Sat Aug 10 18:28:02 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_soil
+Sat Aug 10 18:28:03 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_soil
+Sat Aug 10 18:28:04 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_soil
+Sat Aug 10 18:28:06 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_soil
+Sat Aug 10 18:28:08 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_soil
+Sat Aug 10 18:29:27 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_fuel
+Sat Aug 10 18:29:32 2019	Bastixx was killed by Himself with a suicide trick
+Sat Aug 10 18:29:33 2019	Bastixx (STEAM_0:1:91231746) spawned
+Sat Aug 10 18:33:02 2019	Bastixx (STEAM_0:1:91231746): // no one raid me ima go play a game of solo fortnite
+Sat Aug 10 18:33:08 2019	Bastixx (STEAM_0:1:91231746): // get them big plays for my sick youtube montage
+Sat Aug 10 18:33:11 2019	Bastixx (STEAM_0:1:91231746): // hehe
+Sat Aug 10 18:33:16 2019	Bastixx (STEAM_0:1:91231746): // ima kms if i say that again
+Sat Aug 10 18:33:24 2019	Bastixx (STEAM_0:1:91231746): // no dont raid me ima go grab a soda
+Sat Aug 10 18:34:19 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_pot_hydro
+Sat Aug 10 18:34:24 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_pot_hydro
+Sat Aug 10 18:34:37 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_pot_hydro
+Sat Aug 10 18:34:46 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_pot_hydro
+Sat Aug 10 18:34:52 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_pot_hydro
+Sat Aug 10 18:35:34 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_watertank
+Sat Aug 10 18:35:44 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_watertank
+Sat Aug 10 18:35:52 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_generator
+Sat Aug 10 18:36:02 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_fuel
+Sat Aug 10 18:36:15 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_fuel
+Sat Aug 10 18:36:38 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_soil
+Sat Aug 10 18:36:39 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_soil
+Sat Aug 10 18:36:40 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_soil
+Sat Aug 10 18:36:42 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_soil
+Sat Aug 10 18:36:43 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_soil
+Sat Aug 10 18:37:02 2019	acewinters (STEAM_0:0:38568814): /drop
+Sat Aug 10 18:37:28 2019	Bastixx (STEAM_0:1:91231746): // blue is a cutie
+Sat Aug 10 18:37:34 2019	Bastixx (STEAM_0:1:91231746): // <3
+Sat Aug 10 18:37:40 2019	Bastixx (STEAM_0:1:91231746): // dios a sexy
+Sat Aug 10 18:37:50 2019	Bastixx (STEAM_0:1:91231746): // sexy hot stuff
+Sat Aug 10 18:37:57 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_drystation
+Sat Aug 10 18:38:05 2019	Bastixx (STEAM_0:1:91231746): //  ace tho
+Sat Aug 10 18:38:10 2019	Bastixx (STEAM_0:1:91231746): // oo ace is a
+Sat Aug 10 18:38:16 2019	Bastixx (STEAM_0:1:91231746): // MMMM i wanna suck him so bad!
+Sat Aug 10 18:38:18 2019	Bastixx (STEAM_0:1:91231746): // ima kms
+Sat Aug 10 18:39:33 2019	Bastixx (STEAM_0:1:91231746): // where are you guys
+Sat Aug 10 18:40:31 2019	𝐸𝓉𝑒𝓇𝓃𝒾𝓉� (STEAM_0:0:437581052) spawned
+Sat Aug 10 18:41:41 2019	acewinters was killed by Bastixx with a cw_ak74
+Sat Aug 10 18:41:43 2019	acewinters (STEAM_0:0:38568814) spawned
+Sat Aug 10 18:42:14 2019	Dio was killed by Bastixx with a cw_ak74
+Sat Aug 10 18:42:16 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 18:43:21 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_drystation
+Sat Aug 10 18:44:04 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_soil
+Sat Aug 10 18:44:06 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_soil
+Sat Aug 10 18:44:08 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_soil
+Sat Aug 10 18:44:08 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_soil
+Sat Aug 10 18:44:09 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_soil
+Sat Aug 10 18:44:30 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_soil
+Sat Aug 10 18:44:31 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_soil
+Sat Aug 10 18:44:32 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_soil
+Sat Aug 10 18:44:33 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_soil
+Sat Aug 10 18:44:34 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_soil
+Sat Aug 10 18:45:03 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_mixer
+Sat Aug 10 18:45:26 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_fuel
+Sat Aug 10 18:45:28 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_fuel
+Sat Aug 10 18:46:14 2019	acewinters (STEAM_0:0:38568814): /drop
+Sat Aug 10 18:47:04 2019	Dio was killed by acewinters with a cw_deagle
+Sat Aug 10 18:47:08 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 18:47:11 2019	acewinters (STEAM_0:0:38568814): /DROP
+Sat Aug 10 18:48:18 2019	acewinters was killed by Dio with a cw_m249_official
+Sat Aug 10 18:48:23 2019	acewinters (STEAM_0:0:38568814) spawned
+Sat Aug 10 18:49:21 2019	Bastixx (STEAM_0:1:91231746): // nut
+Sat Aug 10 18:49:43 2019	Bastixx (STEAM_0:1:91231746): // if your pussy has corners you should probably take the tampons out of the box before you put them in
+Sat Aug 10 18:49:51 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_generator
+Sat Aug 10 18:50:23 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_generator
+Sat Aug 10 18:50:40 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_fuel
+Sat Aug 10 18:50:47 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_fuel
+Sat Aug 10 18:50:54 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_fuel
+Sat Aug 10 18:51:08 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_muffinmix
+Sat Aug 10 18:51:09 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_mixer
+Sat Aug 10 18:51:24 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_oven
+Sat Aug 10 18:52:12 2019	Bastixx (STEAM_0:1:91231746): // top 10 questions scientists cant awnser
+Sat Aug 10 18:52:14 2019	Bastixx (STEAM_0:1:91231746): // is dio really cute?>
+Sat Aug 10 18:53:02 2019	Bastixx (STEAM_0:1:91231746): // i want to cuddle my dummy head
+Sat Aug 10 18:53:08 2019	Bastixx (STEAM_0:1:91231746): // but shes out of town ;-;
+Sat Aug 10 18:53:53 2019	Bastixx (STEAM_0:1:91231746): // blue is a cutie
+Sat Aug 10 18:54:03 2019	Bastixx (STEAM_0:1:91231746): // AND NO ONE CAN STOP ME
+Sat Aug 10 18:55:02 2019	Bastixx (STEAM_0:1:91231746): // 36 hours from now ill be in a car ride heading to my student dorm ;-;
+Sat Aug 10 18:56:47 2019	𝐸𝓉𝑒𝓇𝓃𝒾𝓉� was killed by Dio with a cw_m249_official
+Sat Aug 10 18:56:53 2019	𝐸𝓉𝑒𝓇𝓃𝒾𝓉� (STEAM_0:0:437581052) spawned
+Sat Aug 10 18:58:09 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_muffinmix
+Sat Aug 10 18:58:26 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_muffinmix
+Sat Aug 10 18:58:33 2019	Bastixx (STEAM_0:1:91231746): // ima go play tf2
+Sat Aug 10 18:58:33 2019	jtroll1942 (STEAM_0:1:119864290) has joined the game
+Sat Aug 10 18:58:33 2019	jtroll19 (STEAM_0:1:119864290) spawned
+Sat Aug 10 18:58:36 2019	Bastixx (STEAM_0:1:91231746) disconnected
+Sat Aug 10 19:00:06 2019	Dio was killed by acewinters with a fas2_deagle
+Sat Aug 10 19:00:08 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 19:00:35 2019	acewinters (STEAM_0:0:38568814) spawned
+Sat Aug 10 19:00:59 2019	Dio (STEAM_0:0:497465680): 
+Sat Aug 10 19:03:09 2019	Morbidly Obese Kermit (STEAM_0:0:178963550) has joined the game
+Sat Aug 10 19:03:09 2019	Morbidly Obese Kermit (STEAM_0:0:178963550) spawned
+Sat Aug 10 19:04:28 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 19:06:01 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 19:06:11 2019	Morbidly Obese Kermit (STEAM_0:0:178963550): 
+Sat Aug 10 19:06:26 2019	Morbidly Obese Kermit (STEAM_0:0:178963550): 
+Sat Aug 10 19:06:53 2019	Dio was killed by Morbidly Obese Kermit with a weapon_fists
+Sat Aug 10 19:07:07 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 19:07:29 2019	acewinters (STEAM_0:0:38568814) spawned Vehicle prop_vehicle_jeep (morgaerosstdm)
+Sat Aug 10 19:07:38 2019	Dio was killed by Morbidly Obese Kermit with a weapon_fists
+Sat Aug 10 19:07:43 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 19:08:26 2019	Morbidly Obese Kermit was killed by jtroll19 with a cw_m3super90
+Sat Aug 10 19:08:28 2019	Morbidly Obese Kermit (STEAM_0:0:178963550) spawned
+Sat Aug 10 19:08:38 2019	Morbidly Obese Kermit (STEAM_0:0:178963550) spawned
+Sat Aug 10 19:08:43 2019	Morbidly Obese Kermit (STEAM_0:0:178963550) spawned
+Sat Aug 10 19:09:01 2019	Morbidly Obese Kermit (STEAM_0:0:178963550) spawned
+Sat Aug 10 19:09:23 2019	Morbidly Obese Kermit was killed by acewinters with a prop_vehicle_jeep
+Sat Aug 10 19:09:25 2019	Morbidly Obese Kermit (STEAM_0:0:178963550) spawned
+Sat Aug 10 19:09:55 2019	Morbidly Obese Kermit (STEAM_0:0:178963550): fuck you jack
+Sat Aug 10 19:10:08 2019	jtroll19 was killed by Morbidly Obese Kermit with a cw_l115
+Sat Aug 10 19:10:10 2019	jtroll19 (STEAM_0:1:119864290) spawned
+Sat Aug 10 19:10:13 2019	Morbidly Obese Kermit was killed by acewinters with a prop_vehicle_jeep
+Sat Aug 10 19:10:14 2019	Morbidly Obese Kermit (STEAM_0:0:178963550) spawned
+Sat Aug 10 19:10:56 2019	Dio (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_airboat (Airboat)
+Sat Aug 10 19:11:12 2019	𝐸𝓉𝑒𝓇𝓃𝒾𝓉� (STEAM_0:0:437581052) disconnected
+Sat Aug 10 19:11:34 2019	Dio (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_airboat (Airboat)
+Sat Aug 10 19:12:07 2019	Dio (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_airboat (Airboat)
+Sat Aug 10 19:12:43 2019	Morbidly Obese Kermit (STEAM_0:0:178963550): fuck you
+Sat Aug 10 19:13:23 2019	Morbidly Obese Kermit was killed by Himself with a suicide trick
+Sat Aug 10 19:13:28 2019	Morbidly Obese Kermit (STEAM_0:0:178963550) spawned
+Sat Aug 10 19:14:58 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 19:15:03 2019	Dio (STEAM_0:0:497465680): 
+Sat Aug 10 19:16:17 2019	jtroll19 (STEAM_0:1:119864290) spawned
+Sat Aug 10 19:16:49 2019	jtroll19 (STEAM_0:1:119864290) spawned
+Sat Aug 10 19:17:20 2019	acewinters was killed by Himself with a suicide trick
+Sat Aug 10 19:17:22 2019	acewinters (STEAM_0:0:38568814) spawned
+Sat Aug 10 19:18:31 2019	jtroll19 was killed by Morbidly Obese Kermit with a cw_l115
+Sat Aug 10 19:18:34 2019	jtroll19 (STEAM_0:1:119864290) spawned
+Sat Aug 10 19:19:05 2019	Dio (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_airboat (Airboat)
+Sat Aug 10 19:19:12 2019	Morbidly Obese Kermit was killed by jtroll19 with a cw_m3super90
+Sat Aug 10 19:19:14 2019	Morbidly Obese Kermit (STEAM_0:0:178963550) spawned
+Sat Aug 10 19:19:45 2019	jtroll19 was killed by Dio with a cw_m3super90
+Sat Aug 10 19:19:47 2019	jtroll19 (STEAM_0:1:119864290) spawned
+Sat Aug 10 19:20:15 2019	Morbidly Obese Kermit was killed by Dio with a cw_m3super90
+Sat Aug 10 19:20:16 2019	Morbidly Obese Kermit (STEAM_0:0:178963550) spawned
+Sat Aug 10 19:20:31 2019	Dio was killed by acewinters with a cw_shorty
+Sat Aug 10 19:20:33 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 19:20:47 2019	Morbidly Obese Kermit was killed by acewinters with a cw_shorty
+Sat Aug 10 19:20:48 2019	Morbidly Obese Kermit (STEAM_0:0:178963550) spawned
+Sat Aug 10 19:20:49 2019	acewinters was killed by jtroll19 with a cw_m3super90
+Sat Aug 10 19:20:52 2019	acewinters (STEAM_0:0:38568814) spawned
+Sat Aug 10 19:20:58 2019	Dio was killed by Himself with a suicide trick
+Sat Aug 10 19:21:00 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 19:21:10 2019	Dio was killed by Morbidly Obese Kermit with a cw_l115
+Sat Aug 10 19:21:22 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 19:21:26 2019	Morbidly Obese Kermit was killed by jtroll19 with a cw_m3super90
+Sat Aug 10 19:21:27 2019	jtroll19 was killed by Dio with a cw_m3super90
+Sat Aug 10 19:21:28 2019	jtroll19 (STEAM_0:1:119864290) spawned
+Sat Aug 10 19:21:29 2019	Morbidly Obese Kermit (STEAM_0:0:178963550) spawned
+Sat Aug 10 19:21:30 2019	Dio was killed by Himself with a suicide trick
+Sat Aug 10 19:21:31 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 19:21:44 2019	Morbidly Obese Kermit was killed by acewinters with a cw_m3super90
+Sat Aug 10 19:21:46 2019	Morbidly Obese Kermit (STEAM_0:0:178963550) spawned
+Sat Aug 10 19:23:08 2019	Dio was killed by acewinters with a cw_m3super90
+Sat Aug 10 19:23:09 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 19:23:15 2019	acewinters was killed by jtroll19 with a cw_scarh
+Sat Aug 10 19:23:17 2019	acewinters (STEAM_0:0:38568814) spawned
+Sat Aug 10 19:23:44 2019	Morbidly Obese Kermit (STEAM_0:0:178963550) spawned
+Sat Aug 10 19:24:00 2019	acewinters was killed by Dio with a cw_m3super90
+Sat Aug 10 19:24:06 2019	acewinters (STEAM_0:0:38568814) spawned
+Sat Aug 10 19:24:08 2019	Morbidly Obese Kermit was killed by Dio with a cw_m3super90
+Sat Aug 10 19:24:09 2019	Morbidly Obese Kermit (STEAM_0:0:178963550) spawned
+Sat Aug 10 19:24:17 2019	Dio was killed by Morbidly Obese Kermit with a cw_deagle
+Sat Aug 10 19:24:18 2019	acewinters (STEAM_0:0:38568814): /DROP
+Sat Aug 10 19:24:18 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 19:24:28 2019	acewinters (STEAM_0:0:38568814) spawned
+Sat Aug 10 19:24:34 2019	jtroll19 (STEAM_0:1:119864290): dio stop giving your self guns
+Sat Aug 10 19:24:37 2019	Morbidly Obese Kermit was killed by Dio with a cw_m3super90
+Sat Aug 10 19:24:40 2019	Morbidly Obese Kermit (STEAM_0:0:178963550) spawned
+Sat Aug 10 19:24:45 2019	acewinters was killed by Morbidly Obese Kermit with a cw_deagle
+Sat Aug 10 19:24:48 2019	acewinters (STEAM_0:0:38568814) spawned
+Sat Aug 10 19:25:00 2019	Morbidly Obese Kermit (STEAM_0:0:178963550): fuck you
+Sat Aug 10 19:25:02 2019	Morbidly Obese Kermit was killed by Dio with a cw_m3super90
+Sat Aug 10 19:25:03 2019	Morbidly Obese Kermit (STEAM_0:0:178963550): bitch
+Sat Aug 10 19:25:04 2019	Morbidly Obese Kermit (STEAM_0:0:178963550) spawned
+Sat Aug 10 19:25:09 2019	acewinters was killed by Morbidly Obese Kermit with a cw_deagle
+Sat Aug 10 19:25:10 2019	acewinters (STEAM_0:0:38568814) spawned
+Sat Aug 10 19:25:14 2019	Dio was killed by Morbidly Obese Kermit with a cw_deagle
+Sat Aug 10 19:25:15 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 19:25:23 2019	Morbidly Obese Kermit (STEAM_0:0:178963550): fuck you
+Sat Aug 10 19:25:24 2019	Morbidly Obese Kermit (STEAM_0:0:178963550): fuck you
+Sat Aug 10 19:25:25 2019	Morbidly Obese Kermit (STEAM_0:0:178963550): fuck you
+Sat Aug 10 19:25:26 2019	Morbidly Obese Kermit was killed by acewinters with a weapon_fists
+Sat Aug 10 19:25:27 2019	Morbidly Obese Kermit (STEAM_0:0:178963550): fuck you
+Sat Aug 10 19:25:28 2019	Morbidly Obese Kermit (STEAM_0:0:178963550) spawned
+Sat Aug 10 19:25:46 2019	Morbidly Obese Kermit was killed by jtroll19 with a cw_scarh
+Sat Aug 10 19:25:46 2019	Morbidly Obese Kermit (STEAM_0:0:178963550): bitch ass pussy bithc
+Sat Aug 10 19:25:47 2019	Morbidly Obese Kermit (STEAM_0:0:178963550) spawned
+Sat Aug 10 19:25:55 2019	Dio was killed by Himself with a suicide trick
+Sat Aug 10 19:25:56 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 19:26:02 2019	Morbidly Obese Kermit (STEAM_0:0:178963550): fucking cunt
+Sat Aug 10 19:26:07 2019	Morbidly Obese Kermit was killed by Dio with a fas2_ak12
+Sat Aug 10 19:26:08 2019	jtroll19 (STEAM_0:1:119864290): dio i swear to god
+Sat Aug 10 19:26:08 2019	Morbidly Obese Kermit (STEAM_0:0:178963550) spawned
+Sat Aug 10 19:26:10 2019	Dio was killed by acewinters with a cw_deagle
+Sat Aug 10 19:26:11 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 19:26:23 2019	Morbidly Obese Kermit was killed by Dio with a fas2_ak12
+Sat Aug 10 19:26:24 2019	Morbidly Obese Kermit (STEAM_0:0:178963550) spawned
+Sat Aug 10 19:26:25 2019	Dio was killed by jtroll19 with a cw_scarh
+Sat Aug 10 19:26:27 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 19:26:28 2019	jtroll19 was killed by acewinters with a cw_deagle
+Sat Aug 10 19:26:31 2019	jtroll19 (STEAM_0:1:119864290) spawned
+Sat Aug 10 19:26:45 2019	Morbidly Obese Kermit was killed by acewinters with a cw_deagle
+Sat Aug 10 19:26:46 2019	Morbidly Obese Kermit (STEAM_0:0:178963550) spawned
+Sat Aug 10 19:26:53 2019	acewinters was killed by Dio with a fas2_ak12
+Sat Aug 10 19:26:54 2019	acewinters (STEAM_0:0:38568814) spawned
+Sat Aug 10 19:26:59 2019	Morbidly Obese Kermit was killed by jtroll19 with a cw_scarh
+Sat Aug 10 19:27:00 2019	Morbidly Obese Kermit (STEAM_0:0:178963550) spawned
+Sat Aug 10 19:27:08 2019	Morbidly Obese Kermit was killed by acewinters with a cw_deagle
+Sat Aug 10 19:27:09 2019	Morbidly Obese Kermit (STEAM_0:0:178963550) spawned
+Sat Aug 10 19:27:10 2019	acewinters was killed by jtroll19 with a cw_scarh
+Sat Aug 10 19:27:11 2019	acewinters (STEAM_0:0:38568814) spawned
+Sat Aug 10 19:27:21 2019	acewinters was killed by Dio with a fas2_ak12
+Sat Aug 10 19:27:22 2019	acewinters (STEAM_0:0:38568814) spawned
+Sat Aug 10 19:27:24 2019	Morbidly Obese Kermit (STEAM_0:0:178963550): fuck you
+Sat Aug 10 19:27:26 2019	Morbidly Obese Kermit was killed by acewinters with a cw_deagle
+Sat Aug 10 19:27:26 2019	Morbidly Obese Kermit (STEAM_0:0:178963550): cunt
+Sat Aug 10 19:27:28 2019	Morbidly Obese Kermit (STEAM_0:0:178963550) spawned
+Sat Aug 10 19:27:29 2019	acewinters was killed by Dio with a fas2_ak12
+Sat Aug 10 19:27:30 2019	acewinters (STEAM_0:0:38568814) spawned
+Sat Aug 10 19:27:34 2019	Morbidly Obese Kermit was killed by Dio with a fas2_ak12
+Sat Aug 10 19:27:35 2019	Morbidly Obese Kermit (STEAM_0:0:178963550) spawned
+Sat Aug 10 19:27:40 2019	acewinters was killed by Dio with a fas2_ak12
+Sat Aug 10 19:27:41 2019	Dio was killed by Morbidly Obese Kermit with a cw_deagle
+Sat Aug 10 19:27:41 2019	acewinters (STEAM_0:0:38568814) spawned
+Sat Aug 10 19:27:43 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 19:27:49 2019	Morbidly Obese Kermit (STEAM_0:0:178963550): cunt
+Sat Aug 10 19:27:52 2019	Morbidly Obese Kermit (STEAM_0:0:178963550): fuck you
+Sat Aug 10 19:27:55 2019	Morbidly Obese Kermit was killed by acewinters with a cw_deagle
+Sat Aug 10 19:27:56 2019	Morbidly Obese Kermit (STEAM_0:0:178963550): cunt
+Sat Aug 10 19:27:57 2019	Morbidly Obese Kermit (STEAM_0:0:178963550) spawned
+Sat Aug 10 19:28:03 2019	acewinters was killed by jtroll19 with a cw_40mm_explosive
+Sat Aug 10 19:28:03 2019	Dio was killed by jtroll19 with a cw_40mm_explosive
+Sat Aug 10 19:28:05 2019	acewinters (STEAM_0:0:38568814) spawned
+Sat Aug 10 19:28:05 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 19:28:16 2019	Morbidly Obese Kermit (STEAM_0:0:178963550): fuck all of you
+Sat Aug 10 19:28:20 2019	Morbidly Obese Kermit was killed by Dio with a fas2_ak12
+Sat Aug 10 19:28:22 2019	Morbidly Obese Kermit (STEAM_0:0:178963550) spawned
+Sat Aug 10 19:28:24 2019	acewinters (STEAM_0:0:38568814) spawned
+Sat Aug 10 19:28:25 2019	Dio was killed by Morbidly Obese Kermit with a cw_deagle
+Sat Aug 10 19:28:26 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 19:29:00 2019	acewinters (STEAM_0:0:38568814) disconnected
+Sat Aug 10 19:29:16 2019	jackattack20203 (STEAM_0:0:153616243) has joined the game
+Sat Aug 10 19:29:16 2019	jackattack20203 (STEAM_0:0:153616243) spawned
+Sat Aug 10 19:29:19 2019	jtroll19 was killed by Dio with a weapon_fists
+Sat Aug 10 19:29:22 2019	jtroll19 (STEAM_0:1:119864290) spawned
+Sat Aug 10 19:29:27 2019	Morbidly Obese Kermit (STEAM_0:0:178963550): nigger ban my ass right now or so help me
+Sat Aug 10 19:29:39 2019	jtroll19 (STEAM_0:1:119864290): rdm
+Sat Aug 10 19:30:16 2019	Dio was killed by Morbidly Obese Kermit with a cw_deagle
+Sat Aug 10 19:30:19 2019	jackattack20203 (STEAM_0:0:153616243): WTF is talk control
+Sat Aug 10 19:30:19 2019	jtroll19 was killed by Morbidly Obese Kermit with a cw_deagle
+Sat Aug 10 19:30:21 2019	jtroll19 (STEAM_0:1:119864290) spawned
+Sat Aug 10 19:30:24 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 19:30:27 2019	Morbidly Obese Kermit (STEAM_0:0:178963550): ban me fuckker
+Sat Aug 10 19:30:44 2019	Morbidly Obese Kermit (STEAM_0:0:178963550): shit head piece of fuck
+Sat Aug 10 19:31:00 2019	Morbidly Obese Kermit (STEAM_0:0:178963550): thanks dumbass
+Sat Aug 10 19:31:03 2019	Morbidly Obese Kermit (STEAM_0:0:178963550) spawned
+Sat Aug 10 19:31:05 2019	jackattack20203 (STEAM_0:0:153616243) spawned
+Sat Aug 10 19:31:05 2019	Dio was killed by Morbidly Obese Kermit with a cw_deagle
+Sat Aug 10 19:31:13 2019	Morbidly Obese Kermit (STEAM_0:0:178963550): mother fucker
+Sat Aug 10 19:31:18 2019	jackattack20203 (STEAM_0:0:153616243): lol
+Sat Aug 10 19:31:19 2019	[B2E] Jew (STEAM_0:1:124371905) has joined the game
+Sat Aug 10 19:31:19 2019	[B2E] Jew (STEAM_0:1:124371905) spawned
+Sat Aug 10 19:31:21 2019	jackattack20203 (STEAM_0:0:153616243) spawned
+Sat Aug 10 19:31:30 2019	Morbidly Obese Kermit (STEAM_0:0:178963550) disconnected
+Sat Aug 10 19:31:31 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 19:33:49 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 19:34:21 2019	jackattack20203 (STEAM_0:0:153616243): /lockdown
+Sat Aug 10 19:34:26 2019	jackattack20203 (STEAM_0:0:153616243): /lockdown
+Sat Aug 10 19:34:37 2019	jackattack20203 (STEAM_0:0:153616243): /lockdown
+Sat Aug 10 19:34:54 2019	jackattack20203 (STEAM_0:0:153616243): /purge
+Sat Aug 10 19:35:01 2019	jackattack20203 (STEAM_0:0:153616243): Fack
+Sat Aug 10 19:35:10 2019	jackattack20203 (STEAM_0:0:153616243): /lockdown
+Sat Aug 10 19:37:06 2019	Dio was killed by Himself with a suicide trick
+Sat Aug 10 19:37:20 2019	jtroll19 (STEAM_0:1:119864290): /drop wepon
+Sat Aug 10 19:37:23 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 19:37:33 2019	jtroll19 (STEAM_0:1:119864290) spawned
+Sat Aug 10 19:37:43 2019	jackattack20203 (STEAM_0:0:153616243) spawned
+Sat Aug 10 19:38:01 2019	Dio (STEAM_0:0:497465680): /dropmoney 10000
+Sat Aug 10 19:38:02 2019	Dio (STEAM_0:0:497465680) has dropped $10,000
+Sat Aug 10 19:38:09 2019	Hitman Dio accepted a hit on jtroll19, ordered by jackattack20203 for $200
+Sat Aug 10 19:39:06 2019	jtroll19 (STEAM_0:1:119864290): dio are you an idiot
+Sat Aug 10 19:39:37 2019	jtroll19 (STEAM_0:1:119864290): yes you are an idiot theres 4 people online and everyone was at spawn
+Sat Aug 10 19:40:44 2019	jtroll19 has made Dio wanted, reason: shooting at a police offecer
+Sat Aug 10 19:41:06 2019	jackattack20203 (STEAM_0:0:153616243) spawned
+Sat Aug 10 19:41:14 2019	[B2E] Jew (STEAM_0:1:124371905) disconnected
+Sat Aug 10 19:41:30 2019	jackattack20203 (STEAM_0:0:153616243) spawned
+Sat Aug 10 19:42:25 2019	jackattack20203 (STEAM_0:0:153616243): FUCK SAKES why doors so much 1.5 K???
+Sat Aug 10 19:42:44 2019	Dio is no longer wanted by the Police.
+Sat Aug 10 19:43:32 2019	jtroll19 (STEAM_0:1:119864290): dio stop giving your self wepons
+Sat Aug 10 19:44:27 2019	jtroll19 has made Dio wanted, reason: advading a cop
+Sat Aug 10 19:44:33 2019	Hitman Dio finished a hit on jtroll19, ordered by jackattack20203 for $200
+Sat Aug 10 19:44:33 2019	jtroll19 was killed by Dio with a cw_mp5
+Sat Aug 10 19:44:35 2019	jtroll19 (STEAM_0:1:119864290) spawned
+Sat Aug 10 19:44:50 2019	jackattack20203 (STEAM_0:0:153616243): 
+Sat Aug 10 19:45:08 2019	jackattack20203 (STEAM_0:0:153616243): 
+Sat Aug 10 19:45:26 2019	Dio is no longer wanted by the Police. Revoked by: jtroll19
+Sat Aug 10 19:45:26 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 19:45:26 2019	jtroll19 (STEAM_0:1:119864290) arrested Dio
+Sat Aug 10 19:46:32 2019	Dio was killed by jtroll19 with a cw_p99
+Sat Aug 10 19:46:35 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 19:47:00 2019	jackattack20203 (STEAM_0:0:153616243): /admin Help me
+Sat Aug 10 19:47:15 2019	Hitman Dio accepted a hit on jtroll19, ordered by jackattack20203 for $200
+Sat Aug 10 19:47:46 2019	Hitman Dio finished a hit on jtroll19, ordered by jackattack20203 for $200
+Sat Aug 10 19:47:46 2019	jtroll19 was killed by Dio with a cw_l115
+Sat Aug 10 19:47:56 2019	jtroll19 (STEAM_0:1:119864290): dio it hasnt started thats rdm
+Sat Aug 10 19:47:58 2019	jtroll19 (STEAM_0:1:119864290) spawned
+Sat Aug 10 19:48:11 2019	jackattack20203 was killed by jtroll19 with a cw_g36c
+Sat Aug 10 19:48:15 2019	jackattack20203 (STEAM_0:0:153616243) spawned
+Sat Aug 10 19:49:00 2019	jtroll19 has made Dio wanted, reason: shooting at a cop
+Sat Aug 10 19:49:07 2019	Dio was killed by jtroll19 with a cw_p99
+Sat Aug 10 19:49:09 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 19:50:00 2019	jtroll19 was killed by Dio with a cw_m3super90
+Sat Aug 10 19:50:07 2019	jtroll19 (STEAM_0:1:119864290) spawned
+Sat Aug 10 19:50:29 2019	jtroll19 was killed by Dio with a cw_m3super90
+Sat Aug 10 19:50:30 2019	jtroll19 (STEAM_0:1:119864290) spawned
+Sat Aug 10 19:50:59 2019	jtroll19 has made Dio wanted, reason: being a cunt
+Sat Aug 10 19:52:20 2019	Dio (STEAM_0:0:497465680): https://youtu.be/Wk5tvSfUMmg
+Sat Aug 10 19:52:53 2019	Dio (STEAM_0:0:497465680): // get out of spawn you wimp
+Sat Aug 10 19:52:59 2019	Dio is no longer wanted by the Police.
+Sat Aug 10 19:53:44 2019	Hitman Dio accepted a hit on jtroll19, ordered by jackattack20203 for $200
+Sat Aug 10 19:54:07 2019	jtroll19 (STEAM_0:1:119864290): you can go fuck your self you abuser
+Sat Aug 10 19:56:56 2019	jackattack20203 (STEAM_0:0:153616243): /play
+Sat Aug 10 19:59:50 2019	jtroll19 (STEAM_0:1:119864290) spawned
+Sat Aug 10 20:00:44 2019	jtroll19 (STEAM_0:1:119864290): i just muted both of you toxic fucks
+Sat Aug 10 20:02:13 2019	jtroll19 (STEAM_0:1:119864290): /hitman
+Sat Aug 10 20:03:06 2019	jackattack20203 (STEAM_0:0:153616243): 90k is orginal price 
+Sat Aug 10 20:03:19 2019	jackattack20203 (STEAM_0:0:153616243): hm
+Sat Aug 10 20:03:46 2019	jackattack20203 (STEAM_0:0:153616243): 90k is the price tho XD
+Sat Aug 10 20:04:17 2019	Hit on jtroll19 failed. Reason: The hitman died!
+Sat Aug 10 20:04:17 2019	Dio was killed by jtroll19 with a cw_p99
+Sat Aug 10 20:04:19 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 20:04:55 2019	Dio was killed by Himself with a suicide trick
+Sat Aug 10 20:04:59 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 20:05:45 2019	jackattack20203 (STEAM_0:0:153616243): DIO where ya at
+Sat Aug 10 20:05:49 2019	jackattack20203 (STEAM_0:0:153616243): i need help
+Sat Aug 10 20:06:32 2019	jtroll19 (STEAM_0:1:119864290): wow 
+Sat Aug 10 20:06:57 2019	Hitman Dio accepted a hit on jtroll19, ordered by jackattack20203 for $200
+Sat Aug 10 20:07:36 2019	jackattack20203 (STEAM_0:0:153616243): Jtroll mega gay
+Sat Aug 10 20:08:02 2019	Hitman Dio finished a hit on jtroll19, ordered by jackattack20203 for $200
+Sat Aug 10 20:08:02 2019	jtroll19 was killed by Dio with a cw_p99
+Sat Aug 10 20:08:12 2019	jtroll19 (STEAM_0:1:119864290) spawned
+Sat Aug 10 20:08:15 2019	jackattack20203 (STEAM_0:0:153616243): lfmao
+Sat Aug 10 20:08:21 2019	jackattack20203 (STEAM_0:0:153616243): lmafo
+Sat Aug 10 20:10:42 2019	jackattack20203 (STEAM_0:0:153616243): /unownalldoors
+Sat Aug 10 20:10:45 2019	jackattack20203 (STEAM_0:0:153616243) spawned
+Sat Aug 10 20:11:06 2019	Hitman Dio accepted a hit on jtroll19, ordered by jackattack20203 for $200
+Sat Aug 10 20:11:42 2019	jackattack20203 (STEAM_0:0:153616243): !discord
+Sat Aug 10 20:11:45 2019	jackattack20203 (STEAM_0:0:153616243): /discord
+Sat Aug 10 20:11:50 2019	Hitman Dio finished a hit on jtroll19, ordered by jackattack20203 for $200
+Sat Aug 10 20:11:50 2019	jtroll19 was killed by Dio with a cw_p99
+Sat Aug 10 20:11:51 2019	jtroll19 (STEAM_0:1:119864290) spawned
+Sat Aug 10 20:11:54 2019	Dio (STEAM_0:0:497465680): https://discord.gg/XzDEvc
+Sat Aug 10 20:11:57 2019	jtroll19 (STEAM_0:1:119864290): abuse
+Sat Aug 10 20:12:12 2019	Dio (STEAM_0:0:497465680): https://discord.gg/XzDEvc
+Sat Aug 10 20:12:27 2019	jtroll19 (STEAM_0:1:119864290): you CANT FUCKING VCLIP INTO A BASE TO KILL PEOPLE
+Sat Aug 10 20:12:48 2019	jackattack20203 (STEAM_0:0:153616243): xx
+Sat Aug 10 20:14:23 2019	jtroll19 (STEAM_0:1:119864290): !report Dio abusing powers to annoy and kill people
+Sat Aug 10 20:15:13 2019	Hitman Dio accepted a hit on jtroll19, ordered by jackattack20203 for $200
+Sat Aug 10 20:15:28 2019	Hitman Dio finished a hit on jtroll19, ordered by jackattack20203 for $200
+Sat Aug 10 20:15:28 2019	jtroll19 was killed by Dio with a cw_p99
+Sat Aug 10 20:15:37 2019	jackattack20203 (STEAM_0:0:153616243): Lmao
+Sat Aug 10 20:15:45 2019	jtroll19 (STEAM_0:1:119864290) spawned
+Sat Aug 10 20:15:46 2019	jackattack20203 (STEAM_0:0:153616243): jtroll is getin trolled HARD
+Sat Aug 10 20:16:25 2019	Dio (STEAM_0:0:497465680): /police
+Sat Aug 10 20:16:52 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 20:17:02 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 20:17:24 2019	jackattack20203 (STEAM_0:0:153616243): Not enough players it says
+Sat Aug 10 20:17:45 2019	jackattack20203 (STEAM_0:0:153616243) spawned
+Sat Aug 10 20:17:49 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 20:18:08 2019	jackattack20203 (STEAM_0:0:153616243) spawned
+Sat Aug 10 20:18:50 2019	jtroll19 was killed by Dio with a cw_ak74
+Sat Aug 10 20:18:52 2019	jtroll19 (STEAM_0:1:119864290) spawned
+Sat Aug 10 20:18:56 2019	jackattack20203 (STEAM_0:0:153616243): No dio i was bout to fukin rob it tooo
+Sat Aug 10 20:19:03 2019	Dio was killed by jtroll19 with a cw_p99
+Sat Aug 10 20:19:08 2019	jtroll19 was killed by Himself with a suicide trick
+Sat Aug 10 20:19:08 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 20:19:09 2019	jtroll19 (STEAM_0:1:119864290) spawned
+Sat Aug 10 20:20:20 2019	jtroll19 was killed by Dio with a cw_ak74
+Sat Aug 10 20:20:21 2019	jtroll19 (STEAM_0:1:119864290) spawned
+Sat Aug 10 20:20:59 2019	jtroll19 (STEAM_0:1:119864290): go fuck your self
+Sat Aug 10 20:23:38 2019	jackattack20203 was killed by Entity [0][worldspawn] with a unknown
+Sat Aug 10 20:23:42 2019	jackattack20203 (STEAM_0:0:153616243): Fuck
+Sat Aug 10 20:23:44 2019	jackattack20203 (STEAM_0:0:153616243) spawned
+Sat Aug 10 20:24:34 2019	jtroll19 was killed by Dio with a cw_p99
+Sat Aug 10 20:24:36 2019	jtroll19 (STEAM_0:1:119864290) spawned
+Sat Aug 10 20:24:38 2019	jackattack20203 was killed by Dio with a cw_p99
+Sat Aug 10 20:24:40 2019	jackattack20203 (STEAM_0:0:153616243) spawned
+Sat Aug 10 20:25:16 2019	jackattack20203 was killed by Dio with a cw_p99
+Sat Aug 10 20:25:17 2019	jackattack20203 (STEAM_0:0:153616243) spawned
+Sat Aug 10 20:26:10 2019	jtroll19 was killed by jackattack20203 with a weapon_fists
+Sat Aug 10 20:26:12 2019	jtroll19 (STEAM_0:1:119864290) spawned
+Sat Aug 10 20:26:50 2019	jackattack20203 (STEAM_0:0:153616243): AA
+Sat Aug 10 20:26:54 2019	jackattack20203 (STEAM_0:0:153616243): come on unfair bud
+Sat Aug 10 20:26:59 2019	jackattack20203 (STEAM_0:0:153616243): you cant do dat shit
+Sat Aug 10 20:27:07 2019	jackattack20203 (STEAM_0:0:153616243): betteer
+Sat Aug 10 20:28:09 2019	jackattack20203 (STEAM_0:0:153616243) spawned
+Sat Aug 10 20:28:12 2019	jtroll19 was killed by Entity [136][prop_physics] with a prop_physics
+Sat Aug 10 20:28:15 2019	jtroll19 (STEAM_0:1:119864290) spawned
+Sat Aug 10 20:28:54 2019	Dio (STEAM_0:0:497465680): 
+Sat Aug 10 20:28:59 2019	jackattack20203 was killed by jtroll19 with a weapon_fists
+Sat Aug 10 20:29:08 2019	jackattack20203 (STEAM_0:0:153616243): Yes get him my boy
+Sat Aug 10 20:29:10 2019	jackattack20203 (STEAM_0:0:153616243) spawned
+Sat Aug 10 20:29:52 2019	jtroll19 was killed by Entity [136][prop_physics] with a prop_physics
+Sat Aug 10 20:29:54 2019	jtroll19 (STEAM_0:1:119864290) spawned
+Sat Aug 10 20:31:37 2019	jtroll19 (STEAM_0:1:119864290): dio this is abuse
+Sat Aug 10 20:32:33 2019	Dio was killed by jtroll19 with a cw_g3a3
+Sat Aug 10 20:32:39 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 20:32:46 2019	jtroll19 (STEAM_0:1:119864290): you just vclipped in here
+Sat Aug 10 20:32:48 2019	Dio was killed by jtroll19 with a cw_g3a3
+Sat Aug 10 20:32:49 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 20:33:25 2019	Dio was killed by jtroll19 with a cw_g3a3
+Sat Aug 10 20:33:29 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 20:33:51 2019	Dio was killed by Himself with a suicide trick
+Sat Aug 10 20:34:03 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 20:35:01 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 20:36:31 2019	jtroll19 (STEAM_0:1:119864290): you cant taser a hobo
+Sat Aug 10 20:37:03 2019	Dio was killed by jtroll19 with a cw_g3a3
+Sat Aug 10 20:37:12 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 20:37:15 2019	jackattack20203 (STEAM_0:0:153616243): RDM!
+Sat Aug 10 20:37:24 2019	Dio was killed by jtroll19 with a cw_g3a3
+Sat Aug 10 20:38:47 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 20:41:51 2019	jackattack20203 (STEAM_0:0:153616243): Hey dip shit
+Sat Aug 10 20:41:57 2019	jackattack20203 (STEAM_0:0:153616243): Knock knock
+Sat Aug 10 20:42:42 2019	jackattack20203 (STEAM_0:0:153616243): Pls
+Sat Aug 10 20:42:47 2019	jackattack20203 (STEAM_0:0:153616243): I give blow job?
+Sat Aug 10 20:43:07 2019	jackattack20203 (STEAM_0:0:153616243): Fine fine
+Sat Aug 10 20:43:17 2019	jackattack20203 (STEAM_0:0:153616243): i GIVE JOB BLOW
+Sat Aug 10 20:43:38 2019	jackattack20203 (STEAM_0:0:153616243): No rule agisnt it!
+Sat Aug 10 20:44:21 2019	jtroll19 (STEAM_0:1:119864290): 
+Sat Aug 10 20:44:38 2019	jtroll19 (STEAM_0:1:119864290): 
+Sat Aug 10 20:44:47 2019	jtroll19 (STEAM_0:1:119864290): 
+Sat Aug 10 20:45:59 2019	jackattack20203 (STEAM_0:0:153616243) spawned
+Sat Aug 10 20:46:39 2019	jtroll19 (STEAM_0:1:119864290): you cant do that
+Sat Aug 10 20:47:18 2019	Dio was killed by jackattack20203 with a cw_deagle
+Sat Aug 10 20:47:20 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 20:47:35 2019	jackattack20203 was killed by Dio with a cw_g36c
+Sat Aug 10 20:47:51 2019	jackattack20203 (STEAM_0:0:153616243) spawned
+Sat Aug 10 20:47:59 2019	jackattack20203 (STEAM_0:0:153616243): Im gonna go afk for a sec
+Sat Aug 10 20:48:11 2019	Dio was killed by jtroll19 with a cw_g3a3
+Sat Aug 10 20:48:47 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 20:51:52 2019	Dio was killed by jtroll19 with a cw_g3a3
+Sat Aug 10 20:51:54 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 20:52:25 2019	jackattack20203 (STEAM_0:0:153616243): ?
+Sat Aug 10 20:52:56 2019	jackattack20203 (STEAM_0:0:153616243): Hmm am i muted?
+Sat Aug 10 20:53:19 2019	jackattack20203 (STEAM_0:0:153616243): Am i muted tho
+Sat Aug 10 20:53:29 2019	jackattack20203 (STEAM_0:0:153616243): Y cant i talk then
+Sat Aug 10 20:56:23 2019	jackattack20203 was killed by jtroll19 with a cw_g3a3
+Sat Aug 10 20:56:32 2019	jackattack20203 (STEAM_0:0:153616243) spawned
+Sat Aug 10 20:58:08 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 20:58:42 2019	jackattack20203 was killed by jtroll19 with a cw_g3a3
+Sat Aug 10 20:58:55 2019	jackattack20203 (STEAM_0:0:153616243): Awwwwwwwww i fogot the purge was overr
+Sat Aug 10 20:58:56 2019	jackattack20203 (STEAM_0:0:153616243) spawned
+Sat Aug 10 20:59:37 2019	jackattack20203 (STEAM_0:0:153616243): 
+Sat Aug 10 20:59:46 2019	jtroll19 was killed by jackattack20203 with a cw_deagle
+Sat Aug 10 20:59:47 2019	jtroll19 (STEAM_0:1:119864290) spawned
+Sat Aug 10 21:00:05 2019	Dio (STEAM_0:0:497465680): 
+Sat Aug 10 21:00:26 2019	jtroll19 (STEAM_0:1:119864290): theres nothing in there because of you fucks constinly fucking with me
+Sat Aug 10 21:00:40 2019	Dio (STEAM_0:0:497465680): 
+Sat Aug 10 21:00:49 2019	Dio (STEAM_0:0:497465680): // yeet
+Sat Aug 10 21:00:52 2019	jackattack20203 (STEAM_0:0:153616243): What you mean?
+Sat Aug 10 21:00:57 2019	jackattack20203 (STEAM_0:0:153616243): I never died
+Sat Aug 10 21:01:03 2019	Dio was killed by jtroll19 with a cw_p99
+Sat Aug 10 21:01:06 2019	jtroll19 was killed by Himself with a suicide trick
+Sat Aug 10 21:01:07 2019	jackattack20203 (STEAM_0:0:153616243): 
+Sat Aug 10 21:01:09 2019	jtroll19 (STEAM_0:1:119864290) spawned
+Sat Aug 10 21:01:10 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 21:02:41 2019	jtroll19 was killed by jackattack20203 with a cw_deagle
+Sat Aug 10 21:02:44 2019	jtroll19 (STEAM_0:1:119864290) spawned
+Sat Aug 10 21:02:50 2019	jackattack20203 (STEAM_0:0:153616243): Im in raid
+Sat Aug 10 21:03:19 2019	jackattack20203 was killed by Entity [776][prop_physics] with a prop_physics
+Sat Aug 10 21:03:30 2019	jackattack20203 (STEAM_0:0:153616243): 
+Sat Aug 10 21:03:32 2019	jackattack20203 (STEAM_0:0:153616243) spawned
+Sat Aug 10 21:04:40 2019	Dio was killed by jtroll19 with a cw_p99
+Sat Aug 10 21:04:56 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 21:06:53 2019	jackattack20203 (STEAM_0:0:153616243): 
+Sat Aug 10 21:07:01 2019	jackattack20203 (STEAM_0:0:153616243): Owww
+Sat Aug 10 21:07:07 2019	jackattack20203 (STEAM_0:0:153616243): I wanna a fukin medkit
+Sat Aug 10 21:07:11 2019	jackattack20203 (STEAM_0:0:153616243): !motd
+Sat Aug 10 21:07:42 2019	jackattack20203 was killed by Dio with a cw_ak74
+Sat Aug 10 21:07:43 2019	jackattack20203 (STEAM_0:0:153616243) spawned
+Sat Aug 10 21:07:47 2019	jackattack20203 (STEAM_0:0:153616243): rlly
+Sat Aug 10 21:08:06 2019	jackattack20203 (STEAM_0:0:153616243): 
+Sat Aug 10 21:08:41 2019	jackattack20203 was killed by jtroll19 with a cw_g3a3
+Sat Aug 10 21:08:48 2019	Dio was killed by jtroll19 with a cw_g3a3
+Sat Aug 10 21:08:50 2019	jackattack20203 (STEAM_0:0:153616243) spawned
+Sat Aug 10 21:09:04 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 21:09:22 2019	Dio was killed by Himself with a suicide trick
+Sat Aug 10 21:09:25 2019	Dio (STEAM_0:0:497465680) disconnected
+Sat Aug 10 21:10:13 2019	jackattack20203 (STEAM_0:0:153616243): Im geting bored :/
+Sat Aug 10 21:10:20 2019	jackattack20203 (STEAM_0:0:153616243): can we do something
+Sat Aug 10 21:10:37 2019	jackattack20203 (STEAM_0:0:153616243): i mean jtroll is your base gonna stay when you leave
+Sat Aug 10 21:10:44 2019	jackattack20203 (STEAM_0:0:153616243): No it will not
+Sat Aug 10 21:10:54 2019	jackattack20203 (STEAM_0:0:153616243): So actully fucking do something
+Sat Aug 10 21:11:53 2019	jackattack20203 was killed by jtroll19 with a cw_g3a3
+Sat Aug 10 21:12:05 2019	jackattack20203 (STEAM_0:0:153616243): Fuk beh
+Sat Aug 10 21:12:27 2019	jackattack20203 (STEAM_0:0:153616243) disconnected
+Sat Aug 10 21:14:27 2019	jtroll19 (STEAM_0:1:119864290): /drop
+Sat Aug 10 21:14:42 2019	jtroll19 (STEAM_0:1:119864290) disconnected
+Sat Aug 10 21:24:19 2019	Falconidae (STEAM_0:0:80798445) has joined the game
+Sat Aug 10 21:24:19 2019	Falconidae (STEAM_0:0:80798445) spawned
+Sat Aug 10 21:25:37 2019	Falconidae (STEAM_0:0:80798445): !motd
+Sat Aug 10 21:27:23 2019	Falconidae (STEAM_0:0:80798445) spawned
+Sat Aug 10 21:30:42 2019	Falconidae (STEAM_0:0:80798445) spawned
+Sat Aug 10 21:31:27 2019	Dio (STEAM_0:0:497465680) has joined the game
+Sat Aug 10 21:31:27 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 21:31:32 2019	Falconidae (STEAM_0:0:80798445): 
+Sat Aug 10 21:32:11 2019	Dio was killed by Himself with a suicide trick
+Sat Aug 10 21:32:16 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 21:34:14 2019	Dio was killed by Himself with a suicide trick
+Sat Aug 10 21:34:19 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 21:34:35 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 21:35:06 2019	Falconidae (STEAM_0:0:80798445) spawned
+Sat Aug 10 21:36:42 2019	Derp (STEAM_0:0:52504530) has joined the game
+Sat Aug 10 21:36:42 2019	William (STEAM_0:0:52504530) spawned
+Sat Aug 10 21:37:30 2019	William (STEAM_0:0:52504530) spawned
+Sat Aug 10 21:38:40 2019	William (STEAM_0:0:52504530) spawned Vehicle prop_vehicle_jeep (gallardospydtdm)
+Sat Aug 10 21:39:12 2019	Bastixx (STEAM_0:1:91231746) has joined the game
+Sat Aug 10 21:39:12 2019	Bastixx (STEAM_0:1:91231746) spawned
+Sat Aug 10 21:40:16 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_splice_lab
+Sat Aug 10 21:41:59 2019	William (STEAM_0:0:52504530): i got the lighter right here
+Sat Aug 10 21:42:32 2019	William (STEAM_0:0:52504530): we have an emo on our hands
+Sat Aug 10 21:42:36 2019	Falconidae (STEAM_0:0:80798445): hell yeah
+Sat Aug 10 21:42:46 2019	William (STEAM_0:0:52504530): run onto his weed 
+Sat Aug 10 21:42:46 2019	Falconidae (STEAM_0:0:80798445): through the fire and the flames
+Sat Aug 10 21:43:10 2019	William (STEAM_0:0:52504530): holy shit are u on fire forever
+Sat Aug 10 21:43:12 2019	Falconidae (STEAM_0:0:80798445): lmao
+Sat Aug 10 21:43:21 2019	William (STEAM_0:0:52504530): lol
+Sat Aug 10 21:43:26 2019	William (STEAM_0:0:52504530): well now people should be really scared of being on fire
+Sat Aug 10 21:43:37 2019	William (STEAM_0:0:52504530): should i make a firefigher job
+Sat Aug 10 21:44:07 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_splice_lab
+Sat Aug 10 21:44:08 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_splice_lab
+Sat Aug 10 21:44:09 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_splice_lab
+Sat Aug 10 21:44:16 2019	William (STEAM_0:0:52504530): well i cant give him a flamethrower it has unlimited ammo
+Sat Aug 10 21:44:24 2019	William (STEAM_0:0:52504530): molotovs sure
+Sat Aug 10 21:44:49 2019	William (STEAM_0:0:52504530): well would u look at the time
+Sat Aug 10 21:46:00 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_soil
+Sat Aug 10 21:46:01 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_soil
+Sat Aug 10 21:46:02 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_soil
+Sat Aug 10 21:46:02 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_soil
+Sat Aug 10 21:46:03 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_soil
+Sat Aug 10 21:46:27 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_fuel
+Sat Aug 10 21:46:43 2019	Bastixx (STEAM_0:1:91231746): // ooga booga
+Sat Aug 10 21:47:00 2019	Bastixx (STEAM_0:1:91231746) spawned
+Sat Aug 10 21:47:05 2019	William (STEAM_0:0:52504530): hello
+Sat Aug 10 21:47:05 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_packingstation
+Sat Aug 10 21:47:09 2019	Bastixx (STEAM_0:1:91231746): can i raid?
+Sat Aug 10 21:47:14 2019	William (STEAM_0:0:52504530): raid who
+Sat Aug 10 21:47:19 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_palette
+Sat Aug 10 21:47:19 2019	Bastixx (STEAM_0:1:91231746): dylan
+Sat Aug 10 21:47:20 2019	Bastixx (STEAM_0:1:91231746): or falcon
+Sat Aug 10 21:47:23 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_autopacker
+Sat Aug 10 21:47:23 2019	Bastixx (STEAM_0:1:91231746): close friend of mine
+Sat Aug 10 21:47:28 2019	Bastixx (STEAM_0:1:91231746): ima not take or shoot anything
+Sat Aug 10 21:47:36 2019	Bastixx (STEAM_0:1:91231746): just pop up and be like RONALDS GOT A GUN MOTHAFUCKA
+Sat Aug 10 21:47:39 2019	William (STEAM_0:0:52504530): i mean sure why not
+Sat Aug 10 21:47:42 2019	William (STEAM_0:0:52504530): its the purge
+Sat Aug 10 21:47:42 2019	Bastixx (STEAM_0:1:91231746): bet
+Sat Aug 10 21:47:47 2019	Bastixx (STEAM_0:1:91231746): \
+Sat Aug 10 21:48:18 2019	Dio was killed by Bastixx with a cw_shorty
+Sat Aug 10 21:48:19 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 21:48:30 2019	Falconidae was killed by Entity [0][worldspawn] with a unknown
+Sat Aug 10 21:48:31 2019	William (STEAM_0:0:52504530): not bad
+Sat Aug 10 21:48:35 2019	Falconidae (STEAM_0:0:80798445): /ooc ow fuck
+Sat Aug 10 21:48:36 2019	Falconidae (STEAM_0:0:80798445) spawned
+Sat Aug 10 21:48:37 2019	Dio was killed by Bastixx with a cw_shorty
+Sat Aug 10 21:48:38 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 21:48:47 2019	Dio was killed by Bastixx with a cw_shorty
+Sat Aug 10 21:48:49 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 21:49:02 2019	Bastixx (STEAM_0:1:91231746): // dylan where are youuuu
+Sat Aug 10 21:49:09 2019	Falconidae (STEAM_0:0:80798445): /ooc fuck off
+Sat Aug 10 21:49:13 2019	Bastixx (STEAM_0:1:91231746): // you love meee
+Sat Aug 10 21:49:19 2019	Falconidae (STEAM_0:0:80798445): /ooc suck my left big toe
+Sat Aug 10 21:49:24 2019	William (STEAM_0:0:52504530): nice 
+Sat Aug 10 21:49:24 2019	Bastixx (STEAM_0:1:91231746): // bet
+Sat Aug 10 21:49:30 2019	Bastixx (STEAM_0:1:91231746): /pm wil where is falcon
+Sat Aug 10 21:49:30 2019	Falconidae (STEAM_0:0:80798445): /ooc bruh
+Sat Aug 10 21:49:38 2019	Bastixx (STEAM_0:1:91231746): // we both know your bi just cmere
+Sat Aug 10 21:49:47 2019	Falconidae (STEAM_0:0:80798445): /ooc S T O P
+Sat Aug 10 21:49:58 2019	Bastixx (STEAM_0:1:91231746): // cmereee
+Sat Aug 10 21:50:06 2019	William (STEAM_0:0:52504530): i have no idea
+Sat Aug 10 21:50:17 2019	William (STEAM_0:0:52504530): hes in the sewer
+Sat Aug 10 21:50:38 2019	Bastixx (STEAM_0:1:91231746): /pm william where in sewersw
+Sat Aug 10 21:52:04 2019	Falconidae was killed by Bastixx with a cw_shorty
+Sat Aug 10 21:52:08 2019	Falconidae (STEAM_0:0:80798445): i swear to god
+Sat Aug 10 21:52:13 2019	Falconidae (STEAM_0:0:80798445): you're not even fucking funny you twat
+Sat Aug 10 21:52:14 2019	Falconidae (STEAM_0:0:80798445) spawned
+Sat Aug 10 21:52:24 2019	William was killed by Bastixx with a cw_shorty
+Sat Aug 10 21:52:27 2019	William (STEAM_0:0:52504530) spawned
+Sat Aug 10 21:52:44 2019	Dio was killed by Bastixx with a cw_scarh
+Sat Aug 10 21:52:46 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 21:52:49 2019	Bastixx (STEAM_0:1:91231746): /drop
+Sat Aug 10 21:52:54 2019	William (STEAM_0:0:52504530): i threw it over the ramp lol
+Sat Aug 10 21:52:57 2019	Falconidae (STEAM_0:0:80798445): thanks
+Sat Aug 10 21:52:59 2019	William (STEAM_0:0:52504530): np
+Sat Aug 10 21:53:00 2019	Bastixx (STEAM_0:1:91231746): /drop
+Sat Aug 10 21:53:07 2019	Bastixx (STEAM_0:1:91231746): // RONALDS GOT A GUN
+Sat Aug 10 21:53:08 2019	Bastixx (STEAM_0:1:91231746): 
+Sat Aug 10 21:53:15 2019	Bastixx (STEAM_0:1:91231746) spawned
+Sat Aug 10 21:53:49 2019	William (STEAM_0:0:52504530) spawned
+Sat Aug 10 21:54:09 2019	Bastixx (STEAM_0:1:91231746): // dio that gonna be permanenty?
+Sat Aug 10 21:54:23 2019	Dio was killed by Bastixx with a cw_scarh
+Sat Aug 10 21:54:25 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 21:54:30 2019	Bastixx (STEAM_0:1:91231746): /drop
+Sat Aug 10 21:54:38 2019	William (STEAM_0:0:52504530): the ramp will be permanent because it prevents people from camping spawn
+Sat Aug 10 21:54:45 2019	Bastixx (STEAM_0:1:91231746): // if this is your base whyd you phys gun me offi t
+Sat Aug 10 21:54:49 2019	Bastixx (STEAM_0:1:91231746): // ??? ADMIN ABOOSE
+Sat Aug 10 21:55:02 2019	Dio was killed by Himself with a suicide trick
+Sat Aug 10 21:55:06 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 21:55:16 2019	Dio was killed by Bastixx with a cw_ak74
+Sat Aug 10 21:55:17 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 21:55:19 2019	William was killed by Himself with a suicide trick
+Sat Aug 10 21:55:23 2019	William (STEAM_0:0:52504530) spawned
+Sat Aug 10 21:55:24 2019	Dio was killed by Bastixx with a cw_ak74
+Sat Aug 10 21:55:26 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 21:55:31 2019	Bastixx (STEAM_0:1:91231746): // btw the ramp doesnt stop shit
+Sat Aug 10 21:55:43 2019	Dio was killed by Bastixx with a cw_ak74
+Sat Aug 10 21:55:45 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 21:55:52 2019	Bastixx (STEAM_0:1:91231746): // i can still kill over it lol
+Sat Aug 10 21:55:53 2019	William was killed by Bastixx with a cw_ak74
+Sat Aug 10 21:55:55 2019	Dio was killed by Bastixx with a cw_ak74
+Sat Aug 10 21:55:55 2019	William (STEAM_0:0:52504530) spawned
+Sat Aug 10 21:55:56 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 21:56:02 2019	Bastixx (STEAM_0:1:91231746): // ill stop now
+Sat Aug 10 21:56:08 2019	Dio was killed by Bastixx with a cw_ak74
+Sat Aug 10 21:56:09 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 21:56:21 2019	Dio was killed by Bastixx with a cw_ak74
+Sat Aug 10 21:56:21 2019	William (STEAM_0:0:52504530): i mean it helps
+Sat Aug 10 21:56:22 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 21:56:34 2019	William (STEAM_0:0:52504530): well thats breaking the rules
+Sat Aug 10 21:56:38 2019	William (STEAM_0:0:52504530): yes it is
+Sat Aug 10 21:56:45 2019	William (STEAM_0:0:52504530): its breaking the rules because u cant spawn camp
+Sat Aug 10 21:56:58 2019	William (STEAM_0:0:52504530): well how else would i do it
+Sat Aug 10 21:57:07 2019	Dio was killed by Bastixx with a cw_ak74
+Sat Aug 10 21:57:09 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 21:57:16 2019	William (STEAM_0:0:52504530): dio i swear to god
+Sat Aug 10 21:57:18 2019	Dio was killed by Bastixx with a cw_ak74
+Sat Aug 10 21:57:31 2019	William (STEAM_0:0:52504530): thats why i didnt wanna add climb swep
+Sat Aug 10 21:57:35 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 21:57:50 2019	Dio (STEAM_0:0:497465680): 
+Sat Aug 10 21:57:58 2019	Dio (STEAM_0:0:497465680): 
+Sat Aug 10 21:57:59 2019	William (STEAM_0:0:52504530): if no one reads the rules and then breaks them thats completely their fault
+Sat Aug 10 21:58:27 2019	Bastixx was killed by Dio with a weapon_fists
+Sat Aug 10 21:58:32 2019	Bastixx (STEAM_0:1:91231746) spawned
+Sat Aug 10 21:58:46 2019	William (STEAM_0:0:52504530): i only added the ramp to make it harder to spawn camping to happen
+Sat Aug 10 21:58:54 2019	William (STEAM_0:0:52504530): its literally impossible to fix the issue
+Sat Aug 10 21:59:16 2019	Dio was killed by Bastixx with a cw_ak74
+Sat Aug 10 21:59:18 2019	William (STEAM_0:0:52504530): extend the spawn protection but then they just go to the point where it ends and just wait
+Sat Aug 10 21:59:19 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 21:59:34 2019	William (STEAM_0:0:52504530): also i like the ramp because it makes people think twice before leaving spawn
+Sat Aug 10 21:59:38 2019	William (STEAM_0:0:52504530): i hate people who just live inside of spawn
+Sat Aug 10 21:59:52 2019	William (STEAM_0:0:52504530): into the mountain and fountain
+Sat Aug 10 22:00:01 2019	Falconidae (STEAM_0:0:80798445) spawned
+Sat Aug 10 22:00:14 2019	William (STEAM_0:0:52504530): well changing spawns on a map is literally impossible unless u edit the map
+Sat Aug 10 22:00:24 2019	William (STEAM_0:0:52504530): the only other way is setting spawns for jobs which would take me fucking forever
+Sat Aug 10 22:00:26 2019	Dio was killed by Bastixx with a cw_ak74
+Sat Aug 10 22:00:28 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 22:01:02 2019	Dio was killed by Bastixx with a cw_ak74
+Sat Aug 10 22:01:04 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 22:01:24 2019	Bastixx (STEAM_0:1:91231746): // wow
+Sat Aug 10 22:01:27 2019	Bastixx (STEAM_0:1:91231746): // hold on
+Sat Aug 10 22:01:38 2019	Bastixx (STEAM_0:1:91231746): // there we go
+Sat Aug 10 22:02:18 2019	William (STEAM_0:0:52504530): lol
+Sat Aug 10 22:02:20 2019	Dio was killed by Bastixx with a cw_ak74
+Sat Aug 10 22:02:21 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 22:02:26 2019	Dio (STEAM_0:0:497465680): 
+Sat Aug 10 22:02:33 2019	William (STEAM_0:0:52504530): im making a short trailer for the server
+Sat Aug 10 22:02:43 2019	Bastixx (STEAM_0:1:91231746): // dio already released
+Sat Aug 10 22:02:49 2019	William (STEAM_0:0:52504530): yeah but im making my own
+Sat Aug 10 22:02:54 2019	Falconidae was killed by Entity [0][worldspawn] with a unknown
+Sat Aug 10 22:02:57 2019	Dio was killed by Bastixx with a cw_ak74
+Sat Aug 10 22:02:58 2019	Falconidae (STEAM_0:0:80798445) spawned
+Sat Aug 10 22:02:59 2019	William (STEAM_0:0:52504530): LMAO
+Sat Aug 10 22:03:02 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 22:03:10 2019	Dio was killed by Bastixx with a cw_ak74
+Sat Aug 10 22:03:13 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 22:03:26 2019	Dio was killed by Bastixx with a cw_ak74
+Sat Aug 10 22:03:29 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 22:03:33 2019	William (STEAM_0:0:52504530): actually mine will have copyrighted music too but like its not the sonic movie theme song 
+Sat Aug 10 22:03:47 2019	William (STEAM_0:0:52504530): i know
+Sat Aug 10 22:03:50 2019	William (STEAM_0:0:52504530): but its now the theme song
+Sat Aug 10 22:03:52 2019	Dio was killed by Bastixx with a cw_ak74
+Sat Aug 10 22:03:54 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 22:04:00 2019	Dio was killed by Bastixx with a cw_ak74
+Sat Aug 10 22:04:03 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 22:04:04 2019	Bastixx was killed by Himself with a suicide trick
+Sat Aug 10 22:04:09 2019	William (STEAM_0:0:52504530): what is this
+Sat Aug 10 22:04:13 2019	Dio was killed by Himself with a suicide trick
+Sat Aug 10 22:04:18 2019	Bastixx (STEAM_0:1:91231746) spawned
+Sat Aug 10 22:04:18 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 22:04:29 2019	William (STEAM_0:0:52504530): i mean yeah if u wanna make money
+Sat Aug 10 22:04:31 2019	William (STEAM_0:0:52504530): but like
+Sat Aug 10 22:04:43 2019	William (STEAM_0:0:52504530): copyrighted music is better in terms of quality lol
+Sat Aug 10 22:04:55 2019	William (STEAM_0:0:52504530): i chose a pretty good song too for the trailer
+Sat Aug 10 22:05:04 2019	William (STEAM_0:0:52504530): what now?
+Sat Aug 10 22:05:16 2019	Dio was killed by Himself with a suicide trick
+Sat Aug 10 22:05:21 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 22:05:22 2019	William (STEAM_0:0:52504530): what is short cock
+Sat Aug 10 22:05:27 2019	Dio was killed by Bastixx with a cw_ak74
+Sat Aug 10 22:05:29 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 22:05:33 2019	William (STEAM_0:0:52504530): lol
+Sat Aug 10 22:05:37 2019	Dio was killed by Bastixx with a cw_ak74
+Sat Aug 10 22:05:40 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 22:05:41 2019	William (STEAM_0:0:52504530): OH MY FUCKING GOD PLEASE STOP
+Sat Aug 10 22:06:08 2019	William (STEAM_0:0:52504530): well then dont use it
+Sat Aug 10 22:06:20 2019	William (STEAM_0:0:52504530): i cant remove it
+Sat Aug 10 22:06:24 2019	William (STEAM_0:0:52504530): its a workshop addon
+Sat Aug 10 22:06:41 2019	William (STEAM_0:0:52504530): lmao
+Sat Aug 10 22:06:51 2019	William (STEAM_0:0:52504530): im not the one who did that
+Sat Aug 10 22:07:04 2019	William (STEAM_0:0:52504530): ooh
+Sat Aug 10 22:07:06 2019	William (STEAM_0:0:52504530): unarrest batons
+Sat Aug 10 22:07:09 2019	William (STEAM_0:0:52504530): for free too
+Sat Aug 10 22:07:11 2019	William (STEAM_0:0:52504530): ok wait
+Sat Aug 10 22:07:22 2019	Falconidae (STEAM_0:0:80798445): /ooc bruh the meth is just forbidden blue slushie
+Sat Aug 10 22:07:32 2019	Bastixx (STEAM_0:1:91231746): // its jamba juice
+Sat Aug 10 22:07:36 2019	Dio (STEAM_0:0:497465680): // bruh
+Sat Aug 10 22:07:43 2019	Dio was killed by Bastixx with a cw_ak74
+Sat Aug 10 22:07:46 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 22:07:57 2019	William (STEAM_0:0:52504530): ban who
+Sat Aug 10 22:08:00 2019	Dio (STEAM_0:0:497465680) disconnected
+Sat Aug 10 22:08:06 2019	Falconidae (STEAM_0:0:80798445): wh
+Sat Aug 10 22:08:09 2019	Falconidae (STEAM_0:0:80798445): /ooc why the fuck
+Sat Aug 10 22:08:13 2019	Bastixx (STEAM_0:1:91231746): // lol
+Sat Aug 10 22:08:15 2019	William (STEAM_0:0:52504530): lmao
+Sat Aug 10 22:08:30 2019	William (STEAM_0:0:52504530): next big change is probably gonna be the UI
+Sat Aug 10 22:08:43 2019	William (STEAM_0:0:52504530): i have 1 week and 19 hours
+Sat Aug 10 22:09:01 2019	Bastixx was killed by Himself with a suicide trick
+Sat Aug 10 22:09:02 2019	William was killed by Himself with a suicide trick
+Sat Aug 10 22:09:04 2019	William (STEAM_0:0:52504530) spawned
+Sat Aug 10 22:09:11 2019	William (STEAM_0:0:52504530): 
+Sat Aug 10 22:09:16 2019	Bastixx (STEAM_0:1:91231746) spawned
+Sat Aug 10 22:09:16 2019	William (STEAM_0:0:52504530): 
+Sat Aug 10 22:09:20 2019	William (STEAM_0:0:52504530) disconnected
+Sat Aug 10 22:09:55 2019	Dio (STEAM_0:0:497465680) has joined the game
+Sat Aug 10 22:09:55 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 22:10:24 2019	Dio was killed by Himself with a suicide trick
+Sat Aug 10 22:10:32 2019	Dio (STEAM_0:0:497465680): 
+Sat Aug 10 22:10:35 2019	Dio (STEAM_0:0:497465680) spawned
+Sat Aug 10 22:11:02 2019	Bastixx (STEAM_0:1:91231746): // falcon is a cutie
+Sat Aug 10 22:11:04 2019	Bastixx (STEAM_0:1:91231746) disconnected
+Sat Aug 10 22:12:11 2019	Dio (STEAM_0:0:497465680) disconnected
+Sat Aug 10 22:19:44 2019	Falconidae (STEAM_0:0:80798445) disconnected
+Sat Aug 10 23:21:22 2019	Bobbicus (STEAM_0:0:86269452) has joined the game
+Sat Aug 10 23:21:22 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Sat Aug 10 23:22:30 2019	Bobbicus was killed by Himself with a suicide trick
+Sat Aug 10 23:23:04 2019	Bobbicus (STEAM_0:0:86269452) disconnected
+Sun Aug 11 15:23:43 2019	Dio (STEAM_0:0:497465680) has joined the game
+Sun Aug 11 15:23:43 2019	Dio (STEAM_0:0:497465680) spawned
+Sun Aug 11 15:39:16 2019	Dio (STEAM_0:0:497465680) disconnected

@@ -1,0 +1,422 @@
+Sun Sep  8 21:06:30 2019	DrDerpenstein sups.gg (STEAM_0:0:13562763) has joined the game
+Sun Sep  8 21:06:30 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Sun Sep  8 21:07:10 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Sun Sep  8 21:10:30 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Sun Sep  8 21:12:38 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Sun Sep  8 21:13:09 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Sun Sep  8 21:13:50 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Sun Sep  8 21:17:42 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Sun Sep  8 21:18:20 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Sun Sep  8 21:18:44 2019	DrDerpenstein (STEAM_0:0:13562763): /drp[
+Sun Sep  8 21:18:46 2019	DrDerpenstein (STEAM_0:0:13562763): /drop
+Sun Sep  8 21:20:08 2019	DrDerpenstein was killed by Himself with a suicide trick
+Sun Sep  8 21:20:10 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Sun Sep  8 21:20:58 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Sun Sep  8 21:21:24 2019	DrDerpenstein (STEAM_0:0:13562763) disconnected
+Sun Sep  8 21:22:01 2019	DrDerpenstein sups.gg (STEAM_0:0:13562763) has joined the game
+Sun Sep  8 21:22:01 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Sun Sep  8 21:22:23 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Sun Sep  8 21:22:36 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT cw_ammo_338lapua
+Sun Sep  8 21:22:41 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_fuel
+Sun Sep  8 21:22:52 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Sun Sep  8 21:23:16 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_weedblock
+Sun Sep  8 21:23:22 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_weedblock
+Sun Sep  8 21:23:22 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_weedblock
+Sun Sep  8 21:23:22 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_weedblock
+Sun Sep  8 21:23:22 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_weedblock
+Sun Sep  8 21:23:22 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_weedblock
+Sun Sep  8 21:23:23 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_weedblock
+Sun Sep  8 21:23:23 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_weedblock
+Sun Sep  8 21:23:23 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_weedblock
+Sun Sep  8 21:23:23 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_weedblock
+Sun Sep  8 21:23:23 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_weedblock
+Sun Sep  8 21:23:23 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_weedblock
+Sun Sep  8 21:23:23 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_weedblock
+Sun Sep  8 21:23:24 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_weedblock
+Sun Sep  8 21:23:24 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_weedblock
+Sun Sep  8 21:23:24 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_weedblock
+Sun Sep  8 21:23:24 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_weedblock
+Sun Sep  8 21:23:24 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_weedblock
+Sun Sep  8 21:23:24 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_weedblock
+Sun Sep  8 21:23:56 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Sun Sep  8 21:26:18 2019	DrDerpenstein (STEAM_0:0:13562763): !leancfg
+Sun Sep  8 21:27:14 2019	DrDerpenstein (STEAM_0:0:13562763): !leancfg
+Sun Sep  8 21:27:20 2019	Derp (STEAM_0:0:52504530) has joined the game
+Sun Sep  8 21:27:20 2019	Derp (STEAM_0:0:52504530) spawned
+Sun Sep  8 21:27:38 2019	Sodium Chloride (STEAM_0:0:497465680) has joined the game
+Sun Sep  8 21:27:38 2019	Dio (STEAM_0:0:497465680) spawned
+Sun Sep  8 21:27:54 2019	DrDerpenstein (STEAM_0:0:13562763): !leancfg
+Sun Sep  8 21:28:04 2019	Derp (STEAM_0:0:52504530): its the return of Dio
+Sun Sep  8 21:28:23 2019	DrDerpenstein (STEAM_0:0:13562763): !leancfg
+Sun Sep  8 21:28:26 2019	Derp (STEAM_0:0:52504530): well u do whatever u want man
+Sun Sep  8 21:28:45 2019	Derp (STEAM_0:0:52504530): me and drderp have been pretty busy since u have been gone
+Sun Sep  8 21:29:02 2019	Derp (STEAM_0:0:52504530): i dont know how long its been since u left but uh
+Sun Sep  8 21:29:11 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Sun Sep  8 21:29:19 2019	Derp (STEAM_0:0:52504530): dio is back 
+Sun Sep  8 21:29:42 2019	Derp (STEAM_0:0:52504530): lmao 1 week a day
+Sun Sep  8 21:30:07 2019	Dio was killed by Himself with a suicide trick
+Sun Sep  8 21:30:08 2019	Dio (STEAM_0:0:497465680) spawned
+Sun Sep  8 21:30:44 2019	Derp (STEAM_0:0:52504530): ok
+Sun Sep  8 21:30:51 2019	Derp (STEAM_0:0:52504530): most of them are gonna be naruto emotes lmao
+Sun Sep  8 21:31:02 2019	Derp (STEAM_0:0:52504530): nah i dont wanna hear it
+Sun Sep  8 21:32:06 2019	Derp (STEAM_0:0:52504530): adding custom emotes looks pretty easy
+Sun Sep  8 21:32:17 2019	Derp (STEAM_0:0:52504530): help u with what
+Sun Sep  8 21:32:41 2019	Derp (STEAM_0:0:52504530): what is ur job
+Sun Sep  8 21:32:53 2019	Derp (STEAM_0:0:52504530): how good are u at modelling?
+Sun Sep  8 21:33:11 2019	Derp (STEAM_0:0:52504530): lmao
+Sun Sep  8 21:33:20 2019	Derp (STEAM_0:0:52504530): this dude is making stuff in roblox not gmod
+Sun Sep  8 21:33:50 2019	Derp (STEAM_0:0:52504530): what is the game about tho
+Sun Sep  8 21:34:15 2019	Derp (STEAM_0:0:52504530): that is one of the most bizarre things ive ever heard of
+Sun Sep  8 21:35:03 2019	Derp (STEAM_0:0:52504530): i honestly cant take any of that seriously considering its fucking roblox
+Sun Sep  8 21:35:13 2019	Derp (STEAM_0:0:52504530): i just remember when i used to play when i was like 7
+Sun Sep  8 21:35:36 2019	Derp (STEAM_0:0:52504530): i have good ideas i just dont have the tools nor do i have the motivation
+Sun Sep  8 21:36:09 2019	Derp (STEAM_0:0:52504530): unity with lua...
+Sun Sep  8 21:37:03 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Sun Sep  8 21:44:49 2019	DrDerpenstein was killed by Dio with a prop_physics
+Sun Sep  8 21:44:49 2019	Dio was killed by Himself with a suicide trick
+Sun Sep  8 21:44:52 2019	Dio (STEAM_0:0:497465680) spawned
+Sun Sep  8 21:44:57 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Sun Sep  8 21:46:50 2019	DrDerpenstein was killed by Dio with a prop_physics
+Sun Sep  8 21:46:50 2019	Dio was killed by Himself with a suicide trick
+Sun Sep  8 21:46:53 2019	Dio (STEAM_0:0:497465680) spawned
+Sun Sep  8 21:46:53 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Sun Sep  8 21:49:21 2019	DrDerpenstein (STEAM_0:0:13562763): models/props_phx/torpedo.mdl
+Sun Sep  8 22:02:10 2019	Dio (STEAM_0:0:497465680) disconnected
+Sun Sep  8 22:02:21 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Sun Sep  8 22:04:42 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Sun Sep  8 22:25:29 2019	Derp (STEAM_0:0:52504530) disconnected
+Sun Sep  8 22:53:33 2019	bert simson (STEAM_0:1:179345279) has joined the game
+Sun Sep  8 22:53:33 2019	bert simson (STEAM_0:1:179345279) spawned
+Sun Sep  8 22:57:45 2019	DrDerpenstein (STEAM_0:0:13562763) disconnected
+Sun Sep  8 22:58:58 2019	bert simson (STEAM_0:1:179345279) disconnected
+Mon Sep  9 17:47:08 2019	Sukebena-Chan (STEAM_0:1:63382511) has joined the game
+Mon Sep  9 17:47:08 2019	Bexgasm~ (STEAM_0:1:63382511) spawned
+Mon Sep  9 17:55:10 2019	Big Dog Poker (STEAM_0:1:87579999) has joined the game
+Mon Sep  9 17:55:10 2019	Big Dog Poker (STEAM_0:1:87579999) spawned
+Mon Sep  9 17:56:02 2019	Bexgasm~ (STEAM_0:1:63382511): 
+Mon Sep  9 17:56:07 2019	Bexgasm~ (STEAM_0:1:63382511): 
+Mon Sep  9 17:56:53 2019	Bexgasm~ (STEAM_0:1:63382511) spawned
+Mon Sep  9 17:57:27 2019	Big Dog Poker (STEAM_0:1:87579999) spawned
+Mon Sep  9 17:57:38 2019	Big Dog Poker (STEAM_0:1:87579999): /ooc Howdy
+Mon Sep  9 17:57:42 2019	Bexgasm~ (STEAM_0:1:63382511): // Heya
+Mon Sep  9 17:58:57 2019	Big Dog Poker (STEAM_0:1:87579999): // I keep forgetting that i need a gun to get in my base lmao
+Mon Sep  9 17:59:08 2019	Bexgasm~ (STEAM_0:1:63382511): // Lol
+Mon Sep  9 17:59:10 2019	Bexgasm~ (STEAM_0:1:63382511): 
+Mon Sep  9 18:00:39 2019	Big Dog Poker (STEAM_0:1:87579999): !motd
+Mon Sep  9 18:02:09 2019	Bexgasm~ (STEAM_0:1:63382511): 
+Mon Sep  9 18:02:15 2019	Big Dog Poker (STEAM_0:1:87579999): // Since my keys for fading doors are "t","g", and "h" I have to deal with hotkeys for other stuff too lol
+Mon Sep  9 18:02:32 2019	Big Dog Poker (STEAM_0:1:87579999): // Well only g but that shouldn't be to annoying
+Mon Sep  9 18:02:41 2019	Bexgasm~ (STEAM_0:1:63382511): // I bind mine to the numpad
+Mon Sep  9 18:03:05 2019	Big Dog Poker (STEAM_0:1:87579999): // See I like to be able to move and look at the same time as I open doors
+Mon Sep  9 18:03:42 2019	Big Dog Poker (STEAM_0:1:87579999): // Hell yeah I can have 2 combiners instead of 1. Let's go
+Mon Sep  9 18:04:12 2019	Bexgasm~ (STEAM_0:1:63382511): // sir you just admitted to having drugs in your house i'mma have to arrest you
+Mon Sep  9 18:04:22 2019	Big Dog Poker (STEAM_0:1:87579999): // I'm ooc you can't do shit XD
+Mon Sep  9 18:04:40 2019	Big Dog Poker (STEAM_0:1:87579999): // Maybe I'm talking about something else though
+Mon Sep  9 18:04:53 2019	Bexgasm~ (STEAM_0:1:63382511): // sir dont make this harder than it has to be
+Mon Sep  9 18:05:23 2019	Big Dog Poker (STEAM_0:1:87579999): // I'm just trying to make this sandwich with my combiner damn it
+Mon Sep  9 18:08:17 2019	Big Dog Poker (STEAM_0:1:87579999): // I'm going to give it to you. If I make bank with this then the servers great. Smart Snap, able to buy things quicker in th
+Mon Sep  9 18:08:21 2019	Big Dog Poker (STEAM_0:1:87579999): // the f4 menu
+Mon Sep  9 18:08:25 2019	Big Dog Poker (STEAM_0:1:87579999): // sexy jobs
+Mon Sep  9 18:08:43 2019	Bexgasm~ (STEAM_0:1:63382511): // Yuh huh, the servers still in development tho
+Mon Sep  9 18:08:48 2019	Bexgasm~ (STEAM_0:1:63382511): // It is easy to get money
+Mon Sep  9 18:09:17 2019	Big Dog Poker (STEAM_0:1:87579999): // Hunger so I don't sit in my base all day. Just means there's more to improve and make the server even better lol.
+Mon Sep  9 18:09:25 2019	Big Dog Poker (STEAM_0:1:87579999): // (not a 2 year old by the by)
+Mon Sep  9 18:09:54 2019	Bexgasm~ (STEAM_0:1:63382511): // oh okay glad you clarified, i had a sneaking suspicion you were a 2 year old.
+Mon Sep  9 18:10:07 2019	Big Dog Poker (STEAM_0:1:87579999): // Lol no I'm in high school
+Mon Sep  9 18:10:15 2019	Bexgasm~ (STEAM_0:1:63382511): // Same.
+Mon Sep  9 18:11:41 2019	Big Dog Poker (STEAM_0:1:87579999): <c=255555555,0,0> Why hello there </c>
+Mon Sep  9 18:11:47 2019	Big Dog Poker (STEAM_0:1:87579999): <c=255,0,0> Why hello there </c>
+Mon Sep  9 18:18:29 2019	Big Dog Poker (STEAM_0:1:87579999): // This carrying the crate around is scary lol
+Mon Sep  9 18:18:41 2019	Bexgasm~ (STEAM_0:1:63382511): // Yeh a bit
+Mon Sep  9 18:18:44 2019	Bexgasm~ (STEAM_0:1:63382511): // I wont do shit to ya though lol
+Mon Sep  9 18:18:55 2019	Bexgasm~ (STEAM_0:1:63382511): // I'm just chilling in my base growin stuff, you good
+Mon Sep  9 18:19:05 2019	Bexgasm~ (STEAM_0:1:63382511): // unless other people get on
+Mon Sep  9 18:19:40 2019	Big Dog Poker (STEAM_0:1:87579999): // You should make it so you can like "pocket it" (press E) and it'll be placed on you so you can carry it but if you die
+Mon Sep  9 18:19:48 2019	Bexgasm~ (STEAM_0:1:63382511): // Oh yeah definitely.
+Mon Sep  9 18:19:51 2019	Big Dog Poker (STEAM_0:1:87579999): // before you sell it, it drops
+Mon Sep  9 18:20:09 2019	Bexgasm~ (STEAM_0:1:63382511): // I liek how you can carry it on large playforms though
+Mon Sep  9 18:20:17 2019	Bexgasm~ (STEAM_0:1:63382511): // if you buy the truck you can haul it around in the back
+Mon Sep  9 18:20:31 2019	Big Dog Poker (STEAM_0:1:87579999): // True
+Mon Sep  9 18:20:42 2019	Big Dog Poker (STEAM_0:1:87579999): // I ain't the rich XD
+Mon Sep  9 18:21:14 2019	Big Dog Poker (STEAM_0:1:87579999): // speaking of which I only have 300
+Mon Sep  9 18:21:18 2019	UG | M A S T E R (STEAM_0:1:180622613) has joined the game
+Mon Sep  9 18:21:18 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Mon Sep  9 18:21:33 2019	Big Dog Poker (STEAM_0:1:87579999): // oh wait 1800
+Mon Sep  9 18:21:57 2019	Big Dog Poker (STEAM_0:1:87579999) spawned
+Mon Sep  9 18:22:24 2019	Daniel (STEAM_0:0:55667004) has joined the game
+Mon Sep  9 18:22:24 2019	Daniel (STEAM_0:0:55667004) spawned
+Mon Sep  9 18:22:30 2019	Bexgasm~ (STEAM_0:1:63382511): !warn
+Mon Sep  9 18:23:07 2019	Big Dog Poker (STEAM_0:1:87579999): // Make that 0 XD. Ok no more info about me lol
+Mon Sep  9 18:24:15 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Mon Sep  9 18:24:29 2019	Big Dog Poker (STEAM_0:1:87579999): /pm bex I need a gun 
+Mon Sep  9 18:24:33 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Mon Sep  9 18:24:38 2019	UG | M A S T E R (STEAM_0:1:180622613): !warns
+Mon Sep  9 18:24:41 2019	Big Dog Poker (STEAM_0:1:87579999): /pm bex lol nvm
+Mon Sep  9 18:24:59 2019	Bexgasm~ (STEAM_0:1:63382511): /pm big I have a fuck ton in my bank/inv
+Mon Sep  9 18:25:16 2019	Big Dog Poker (STEAM_0:1:87579999): /pm bex Should totally give me 1 or 2 
+Mon Sep  9 18:25:39 2019	Bexgasm~ (STEAM_0:1:63382511): /pm big I'm not a gun dealer lmao
+Mon Sep  9 18:26:05 2019	Big Dog Poker (STEAM_0:1:87579999): /pm bex does it matter lol. I only got 17 bucks give a man some protection 
+Mon Sep  9 18:26:18 2019	Bexgasm~ (STEAM_0:1:63382511): /pm big Who needs protection when you got meth?
+Mon Sep  9 18:26:25 2019	Bexgasm~ (STEAM_0:1:63382511): /pm big Nah i gotchu lol 1 se
+Mon Sep  9 18:26:34 2019	Big Dog Poker (STEAM_0:1:87579999): /pm bex I switched to lean
+Mon Sep  9 18:26:57 2019	Bexgasm~ (STEAM_0:1:63382511): /pm big I'm here lmao
+Mon Sep  9 18:27:36 2019	Daniel (STEAM_0:0:55667004): /ADVErt The server druggie is hear and im buying drugs meet me at foutain
+Mon Sep  9 18:27:48 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Mon Sep  9 18:27:49 2019	Daniel (STEAM_0:0:55667004): 
+Mon Sep  9 18:27:58 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Mon Sep  9 18:29:15 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Mon Sep  9 18:30:58 2019	Big Dog Poker (STEAM_0:1:87579999): 
+Mon Sep  9 18:32:18 2019	Bexgasm~ (STEAM_0:1:63382511): !goto big
+Mon Sep  9 18:32:33 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Mon Sep  9 18:32:36 2019	Bexgasm~ (STEAM_0:1:63382511): !return bex
+Mon Sep  9 18:33:15 2019	Daniel (STEAM_0:0:55667004): 
+Mon Sep  9 18:33:23 2019	Daniel (STEAM_0:0:55667004): 
+Mon Sep  9 18:33:35 2019	Daniel (STEAM_0:0:55667004): 
+Mon Sep  9 18:33:38 2019	Bexgasm~ (STEAM_0:1:63382511): // boy aint nobody selling you d r u g s
+Mon Sep  9 18:33:49 2019	Daniel (STEAM_0:0:55667004): /ooc fuck you bex you weeb
+Mon Sep  9 18:33:59 2019	Bexgasm~ (STEAM_0:1:63382511): // Shut yo broke ass up
+Mon Sep  9 18:34:14 2019	Bexgasm~ (STEAM_0:1:63382511): // tryna buy my weed
+Mon Sep  9 18:34:21 2019	Daniel (STEAM_0:0:55667004): /OOC FUCKIN YES
+Mon Sep  9 18:34:24 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned Vehicle prop_vehicle_jeep (sw_old_hotrod)
+Mon Sep  9 18:34:27 2019	Bexgasm~ (STEAM_0:1:63382511): // YOU AINT GETTIN NUN FELLER
+Mon Sep  9 18:34:37 2019	Daniel (STEAM_0:0:55667004): /OOC IM GONNA RAPE A LOLI TONIGHT
+Mon Sep  9 18:34:54 2019	Bexgasm~ (STEAM_0:1:63382511): // you best be getting ready to do the sex offender shuffle then
+Mon Sep  9 18:35:38 2019	Daniel (STEAM_0:0:55667004): /OOC Nah ill kill you and go to mexico
+Mon Sep  9 18:35:46 2019	Bexgasm~ (STEAM_0:1:63382511): // Eat my shorts
+Mon Sep  9 18:35:46 2019	Daniel (STEAM_0:0:55667004): /ooc after splaying HOT GUMMMMMMMMM
+Mon Sep  9 18:35:47 2019	Big Dog Poker (STEAM_0:1:87579999) spawned
+Mon Sep  9 18:35:51 2019	Daniel (STEAM_0:0:55667004): /OOC EVERYWHERE
+Mon Sep  9 18:35:58 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Mon Sep  9 18:36:03 2019	Bexgasm~ (STEAM_0:1:63382511): // yo gum weak
+Mon Sep  9 18:37:07 2019	Bexgasm~ (STEAM_0:1:63382511): 
+Mon Sep  9 18:37:16 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_methylamin
+Mon Sep  9 18:37:19 2019	Daniel (STEAM_0:0:55667004): /drop
+Mon Sep  9 18:37:20 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_meth
+Mon Sep  9 18:37:21 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_meth_baggy
+Mon Sep  9 18:37:37 2019	Daniel (STEAM_0:0:55667004) spawned
+Mon Sep  9 18:38:24 2019	UG | M A S T E R (STEAM_0:1:180622613): !motd
+Mon Sep  9 18:38:30 2019	Bexgasm~ (STEAM_0:1:63382511): // ah man
+Mon Sep  9 18:38:31 2019	Bexgasm~ (STEAM_0:1:63382511): 
+Mon Sep  9 18:38:40 2019	Big Dog Poker (STEAM_0:1:87579999): // Almost pissed myself damn it
+Mon Sep  9 18:38:44 2019	Bexgasm~ (STEAM_0:1:63382511): // Rofl
+Mon Sep  9 18:38:54 2019	Bexgasm~ (STEAM_0:1:63382511): // Yehh they need to have a countdown for that
+Mon Sep  9 18:39:21 2019	Bexgasm~ (STEAM_0:1:63382511): // Thats kind of a dumb message
+Mon Sep  9 18:39:28 2019	Bexgasm~ (STEAM_0:1:63382511): // The purge has now begun, prepare yourself.
+Mon Sep  9 18:39:35 2019	Big Dog Poker (STEAM_0:1:87579999): // I'm a be a pussy and hide
+Mon Sep  9 18:39:37 2019	Bexgasm~ (STEAM_0:1:63382511): // aren't you supposed to prepare yourself before something begins
+Mon Sep  9 18:39:41 2019	Bexgasm~ (STEAM_0:1:63382511): // like
+Mon Sep  9 18:39:43 2019	Big Dog Poker (STEAM_0:1:87579999): // Yeah
+Mon Sep  9 18:39:46 2019	Bexgasm~ (STEAM_0:1:63382511): // shit stupid
+Mon Sep  9 18:41:37 2019	Bexgasm~ (STEAM_0:1:63382511): 
+Mon Sep  9 18:41:48 2019	Bexgasm~ (STEAM_0:1:63382511): 
+Mon Sep  9 18:42:23 2019	Daniel was killed by UG | M A S T E R with a cw_vss
+Mon Sep  9 18:42:25 2019	Daniel (STEAM_0:0:55667004) spawned
+Mon Sep  9 18:42:52 2019	UG | M A S T E R was killed by Daniel with a cw_m3super90
+Mon Sep  9 18:42:52 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Mon Sep  9 18:43:24 2019	UG | M A S T E R was killed by Daniel with a cw_nen_glock17
+Mon Sep  9 18:43:26 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Mon Sep  9 18:45:22 2019	Daniel was killed by UG | M A S T E R with a cw_ump45
+Mon Sep  9 18:45:25 2019	Daniel (STEAM_0:0:55667004): /OOC DAMN
+Mon Sep  9 18:45:26 2019	Daniel (STEAM_0:0:55667004) spawned
+Mon Sep  9 18:45:28 2019	UG | M A S T E R (STEAM_0:1:180622613): /drop
+Mon Sep  9 18:45:34 2019	UG | M A S T E R (STEAM_0:1:180622613) disconnected
+Mon Sep  9 18:45:39 2019	Bexgasm~ (STEAM_0:1:63382511): // rage quit
+Mon Sep  9 18:45:43 2019	Bexgasm~ (STEAM_0:1:63382511): // L
+Mon Sep  9 18:46:53 2019	UG | M A S T E R (STEAM_0:1:180622613) has joined the game
+Mon Sep  9 18:46:53 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Mon Sep  9 18:47:01 2019	Daniel (STEAM_0:0:55667004): /ooc I AM BLASTED OUT OF MY ASS
+Mon Sep  9 18:47:06 2019	Daniel (STEAM_0:0:55667004): /OOC YOUR COCK IS MINE BEX
+Mon Sep  9 18:47:15 2019	Bexgasm~ (STEAM_0:1:63382511): // explain
+Mon Sep  9 18:47:19 2019	Bexgasm~ (STEAM_0:1:63382511): 
+Mon Sep  9 18:48:16 2019	Bexgasm~ (STEAM_0:1:63382511): 
+Mon Sep  9 18:48:20 2019	Daniel (STEAM_0:0:55667004): /OOC IM AT THE FOUTAIN WE END THIS
+Mon Sep  9 18:48:31 2019	Bexgasm~ (STEAM_0:1:63382511): // whatchu tryna do?
+Mon Sep  9 18:48:43 2019	Daniel (STEAM_0:0:55667004): /OOC YOULL DIE
+Mon Sep  9 18:48:45 2019	Daniel (STEAM_0:0:55667004): /OOC NOW CMON
+Mon Sep  9 18:48:49 2019	Bexgasm~ (STEAM_0:1:63382511): // you right lol
+Mon Sep  9 18:49:23 2019	Daniel (STEAM_0:0:55667004): /OOC EZ Clap
+Mon Sep  9 18:49:26 2019	Bexgasm~ (STEAM_0:1:63382511): // gg
+Mon Sep  9 18:49:30 2019	Daniel (STEAM_0:0:55667004): /ooc gg
+Mon Sep  9 18:50:05 2019	Bexgasm~ (STEAM_0:1:63382511): // gg
+Mon Sep  9 18:50:09 2019	Bexgasm~ (STEAM_0:1:63382511): 
+Mon Sep  9 18:50:29 2019	Bexgasm~ (STEAM_0:1:63382511): 
+Mon Sep  9 18:54:57 2019	bert simson (STEAM_0:1:179345279) has joined the game
+Mon Sep  9 18:54:57 2019	bert simson (STEAM_0:1:179345279) spawned
+Mon Sep  9 18:55:17 2019	Big Dog Poker (STEAM_0:1:87579999): /sellalldoors
+Mon Sep  9 18:55:35 2019	Big Dog Poker (STEAM_0:1:87579999): // Why the hell is a door 1.5k XD
+Mon Sep  9 18:55:39 2019	Big Dog Poker (STEAM_0:1:87579999): /sellalldoors
+Mon Sep  9 18:55:44 2019	Bexgasm~ (STEAM_0:1:63382511): // we low on doors
+Mon Sep  9 18:55:47 2019	Bexgasm~ (STEAM_0:1:63382511): // low door economy
+Mon Sep  9 18:55:48 2019	Big Dog Poker (STEAM_0:1:87579999): // lol
+Mon Sep  9 18:55:49 2019	Bexgasm~ (STEAM_0:1:63382511): // door inflation
+Mon Sep  9 18:55:54 2019	Bexgasm~ (STEAM_0:1:63382511): // Shits crazy bro
+Mon Sep  9 18:56:02 2019	bert simson (STEAM_0:1:179345279): // oh bexgasm
+Mon Sep  9 18:56:08 2019	Bexgasm~ (STEAM_0:1:63382511): // Yuh?
+Mon Sep  9 18:56:08 2019	Big Dog Poker (STEAM_0:1:87579999): // Well yall have fun. I'mma hope off for the day
+Mon Sep  9 18:56:09 2019	bert simson (STEAM_0:1:179345279): // cheat engine
+Mon Sep  9 18:56:24 2019	Bexgasm~ (STEAM_0:1:63382511): // Cya dog
+Mon Sep  9 18:56:29 2019	Bexgasm~ (STEAM_0:1:63382511): // Yeah you got it on?
+Mon Sep  9 18:56:36 2019	Daniel (STEAM_0:0:55667004): /ooc I NEED DRUGS
+Mon Sep  9 18:56:37 2019	bert simson (STEAM_0:1:179345279): // yeah definitely
+Mon Sep  9 18:56:39 2019	Big Dog Poker (STEAM_0:1:87579999) disconnected
+Mon Sep  9 18:56:47 2019	Daniel (STEAM_0:0:55667004): /ADVERT ILL PAY HEAVILY
+Mon Sep  9 18:57:01 2019	Bexgasm~ (STEAM_0:1:63382511): // kk
+Mon Sep  9 18:57:41 2019	Bexgasm~ (STEAM_0:1:63382511): 
+Mon Sep  9 18:57:44 2019	Daniel was killed by bert simson with a cw_nen_beretta92fs
+Mon Sep  9 18:57:45 2019	Daniel (STEAM_0:0:55667004) spawned
+Mon Sep  9 18:59:39 2019	Bexgasm~ (STEAM_0:1:63382511): 
+Mon Sep  9 18:59:42 2019	bert simson (STEAM_0:1:179345279) spawned
+Mon Sep  9 18:59:49 2019	Bexgasm~ (STEAM_0:1:63382511): 
+Mon Sep  9 19:00:25 2019	Bexgasm~ (STEAM_0:1:63382511): 
+Mon Sep  9 19:00:25 2019	bert simson (STEAM_0:1:179345279): /drop
+Mon Sep  9 19:00:34 2019	Bexgasm~ (STEAM_0:1:63382511): 
+Mon Sep  9 19:00:36 2019	bert simson (STEAM_0:1:179345279) spawned
+Mon Sep  9 19:01:03 2019	Bexgasm~ (STEAM_0:1:63382511): 
+Mon Sep  9 19:01:14 2019	bert simson (STEAM_0:1:179345279): 
+Mon Sep  9 19:01:24 2019	Bexgasm~ (STEAM_0:1:63382511): 
+Mon Sep  9 19:01:30 2019	Bexgasm~ (STEAM_0:1:63382511): // you picked the wrong house fool
+Mon Sep  9 19:01:40 2019	bert simson (STEAM_0:1:179345279): // well shit
+Mon Sep  9 19:01:50 2019	Bexgasm~ (STEAM_0:1:63382511): 
+Mon Sep  9 19:02:06 2019	bert simson (STEAM_0:1:179345279): /y 1 sec changing songs
+Mon Sep  9 19:02:11 2019	Bexgasm~ (STEAM_0:1:63382511): 
+Mon Sep  9 19:02:24 2019	bert simson was killed by Bexgasm~ with a cw_ump45
+Mon Sep  9 19:02:27 2019	bert simson (STEAM_0:1:179345279) spawned
+Mon Sep  9 19:02:28 2019	Bexgasm~ (STEAM_0:1:63382511): 
+Mon Sep  9 19:02:37 2019	Bexgasm~ (STEAM_0:1:63382511): // Lmao
+Mon Sep  9 19:02:38 2019	bert simson (STEAM_0:1:179345279) spawned
+Mon Sep  9 19:02:42 2019	Bexgasm~ (STEAM_0:1:63382511): // Advert over stinky
+Mon Sep  9 19:02:43 2019	bert simson (STEAM_0:1:179345279): // :(((
+Mon Sep  9 19:02:55 2019	bert simson (STEAM_0:1:179345279): // i was told i didnt even have to advert smh
+Mon Sep  9 19:03:07 2019	Bexgasm~ (STEAM_0:1:63382511): // You dont
+Mon Sep  9 19:03:12 2019	Bexgasm~ (STEAM_0:1:63382511): // I just wanted to call you stinky
+Mon Sep  9 19:03:14 2019	Bexgasm~ (STEAM_0:1:63382511): // s t i n k y
+Mon Sep  9 19:03:17 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Mon Sep  9 19:03:19 2019	bert simson (STEAM_0:1:179345279) spawned
+Mon Sep  9 19:03:23 2019	bert simson (STEAM_0:1:179345279) spawned
+Mon Sep  9 19:03:27 2019	UG | M A S T E R (STEAM_0:1:180622613): !god
+Mon Sep  9 19:03:52 2019	UG | M A S T E R (STEAM_0:1:180622613): How's it goin?
+Mon Sep  9 19:04:00 2019	UG | M A S T E R was killed by Himself with a suicide trick
+Mon Sep  9 19:04:01 2019	Daniel was killed by bert simson with a cw_nen_beretta92fs
+Mon Sep  9 19:04:02 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Mon Sep  9 19:04:06 2019	Daniel (STEAM_0:0:55667004) spawned
+Mon Sep  9 19:04:06 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Mon Sep  9 19:04:49 2019	bert simson was killed by Daniel with a cw_makarov
+Mon Sep  9 19:04:50 2019	bert simson (STEAM_0:1:179345279) spawned
+Mon Sep  9 19:05:02 2019	Bexgasm~ (STEAM_0:1:63382511): 
+Mon Sep  9 19:05:15 2019	bert simson (STEAM_0:1:179345279): // why hide
+Mon Sep  9 19:05:17 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Mon Sep  9 19:05:22 2019	Bexgasm~ (STEAM_0:1:63382511): // whatchu mean
+Mon Sep  9 19:05:26 2019	bert simson (STEAM_0:1:179345279): // not you
+Mon Sep  9 19:05:39 2019	bert simson was killed by Daniel with a cw_makarov
+Mon Sep  9 19:05:40 2019	bert simson (STEAM_0:1:179345279) spawned
+Mon Sep  9 19:05:40 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Mon Sep  9 19:06:00 2019	Daniel was killed by bert simson with a cw_nen_beretta92fs
+Mon Sep  9 19:06:03 2019	UG | M A S T E R (STEAM_0:1:180622613): /setmoney UG 999e+999
+Mon Sep  9 19:06:03 2019	UG | M A S T E R (STEAM_0:1:180622613) set UG | M A S T E R's money to $inf
+Mon Sep  9 19:06:06 2019	Daniel (STEAM_0:0:55667004) spawned
+Mon Sep  9 19:07:28 2019	Bexgasm~ (STEAM_0:1:63382511): 
+Mon Sep  9 19:08:08 2019	bert simson (STEAM_0:1:179345279): /drop
+Mon Sep  9 19:08:09 2019	Bexgasm~ (STEAM_0:1:63382511): 
+Mon Sep  9 19:08:22 2019	UG | M A S T E R (STEAM_0:1:180622613) disconnected
+Mon Sep  9 19:08:22 2019	bert simson (STEAM_0:1:179345279) spawned
+Mon Sep  9 19:08:36 2019	bert simson (STEAM_0:1:179345279): /write hey xd
+Mon Sep  9 19:09:21 2019	Daniel was killed by bert simson with a cw_nen_beretta92fs
+Mon Sep  9 19:09:31 2019	Daniel (STEAM_0:0:55667004) spawned
+Mon Sep  9 19:09:55 2019	Bexgasm~ (STEAM_0:1:63382511): 
+Mon Sep  9 19:09:59 2019	UG | M A S T E R (STEAM_0:1:180622613) has joined the game
+Mon Sep  9 19:09:59 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Mon Sep  9 19:10:04 2019	Daniel (STEAM_0:0:55667004) disconnected
+Mon Sep  9 19:11:28 2019	Bexgasm~ (STEAM_0:1:63382511): 
+Mon Sep  9 19:12:23 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Mon Sep  9 19:13:18 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Mon Sep  9 19:13:19 2019	DrDerpenstein sups.gg (STEAM_0:0:13562763) has joined the game
+Mon Sep  9 19:13:19 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Mon Sep  9 19:13:45 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Mon Sep  9 19:13:49 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Mon Sep  9 19:14:17 2019	UG | M A S T E R (STEAM_0:1:180622613): okay...
+Mon Sep  9 19:14:23 2019	bert simson (STEAM_0:1:179345279): // bruh derpenstein tp to me
+Mon Sep  9 19:14:29 2019	Bexgasm~ (STEAM_0:1:63382511): 
+Mon Sep  9 19:14:31 2019	UG | M A S T E R (STEAM_0:1:180622613): yes
+Mon Sep  9 19:15:09 2019	bert simson (STEAM_0:1:179345279): 
+Mon Sep  9 19:15:16 2019	DrDerpenstein (STEAM_0:0:13562763): // busy staffing rn
+Mon Sep  9 19:15:21 2019	bert simson (STEAM_0:1:179345279): // hmm
+Mon Sep  9 19:15:41 2019	DrDerpenstein (STEAM_0:0:13562763): // i should say doing dev work 
+Mon Sep  9 19:15:51 2019	bert simson (STEAM_0:1:179345279): // bruh can i sell muffins, tell me that
+Mon Sep  9 19:15:55 2019	Bexgasm~ (STEAM_0:1:63382511): // Yes
+Mon Sep  9 19:15:58 2019	Bexgasm~ (STEAM_0:1:63382511): 
+Mon Sep  9 19:15:58 2019	bert simson (STEAM_0:1:179345279): // where
+Mon Sep  9 19:16:03 2019	Bexgasm~ (STEAM_0:1:63382511): // To people
+Mon Sep  9 19:16:12 2019	bert simson (STEAM_0:1:179345279): // genius
+Mon Sep  9 19:16:20 2019	Bexgasm~ (STEAM_0:1:63382511): // Ikr
+Mon Sep  9 19:21:33 2019	bert simson (STEAM_0:1:179345279): // can i  sell weed?
+Mon Sep  9 19:21:37 2019	Bexgasm~ (STEAM_0:1:63382511): // Yes
+Mon Sep  9 19:21:43 2019	bert simson (STEAM_0:1:179345279): // to actual npcs?
+Mon Sep  9 19:21:47 2019	Bexgasm~ (STEAM_0:1:63382511): // Yuh
+Mon Sep  9 19:21:57 2019	bert simson (STEAM_0:1:179345279): // shocking
+Mon Sep  9 19:24:38 2019	UG | M A S T E R (STEAM_0:1:180622613): /job Administrator
+Mon Sep  9 19:26:30 2019	bert simson (STEAM_0:1:179345279): 
+Mon Sep  9 19:26:53 2019	bert simson (STEAM_0:1:179345279): // i'd like to make a formal staff complaint
+Mon Sep  9 19:27:05 2019	bert simson (STEAM_0:1:179345279): he just randomly teleported to me!!?
+Mon Sep  9 19:27:23 2019	bert simson (STEAM_0:1:179345279): how is his job to randomly teleport to me
+Mon Sep  9 19:27:24 2019	bert simson (STEAM_0:1:179345279): ???
+Mon Sep  9 19:27:27 2019	bert simson (STEAM_0:1:179345279): Im doing nothing
+Mon Sep  9 19:27:28 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Mon Sep  9 19:27:39 2019	bert simson (STEAM_0:1:179345279): hmm okay
+Mon Sep  9 19:27:44 2019	bert simson (STEAM_0:1:179345279): /y i am sorry master
+Mon Sep  9 19:27:53 2019	UG | M A S T E R (STEAM_0:1:180622613): /dropmoney 1
+Mon Sep  9 19:27:54 2019	UG | M A S T E R (STEAM_0:1:180622613) has dropped $1
+Mon Sep  9 19:28:50 2019	DrDerpenstein (STEAM_0:0:13562763): you can move the soundbox
+Mon Sep  9 19:29:50 2019	bert simson (STEAM_0:1:179345279): 
+Mon Sep  9 19:29:55 2019	Bexgasm~ (STEAM_0:1:63382511): !goto bert
+Mon Sep  9 19:30:04 2019	bert simson (STEAM_0:1:179345279): what do i do with these power strips
+Mon Sep  9 19:30:08 2019	bert simson (STEAM_0:1:179345279): theres no plugs man
+Mon Sep  9 19:30:13 2019	bert simson (STEAM_0:1:179345279): MHM
+Mon Sep  9 19:30:25 2019	bert simson (STEAM_0:1:179345279): talk louder
+Mon Sep  9 19:30:33 2019	bert simson (STEAM_0:1:179345279): oh
+Mon Sep  9 19:30:35 2019	bert simson (STEAM_0:1:179345279): makes sense
+Mon Sep  9 19:30:37 2019	bert simson (STEAM_0:1:179345279): you can go away now
+Mon Sep  9 19:30:37 2019	bert simson (STEAM_0:1:179345279): dw
+Mon Sep  9 19:30:45 2019	Bexgasm~ (STEAM_0:1:63382511): !return bex
+Mon Sep  9 19:30:49 2019	bert simson (STEAM_0:1:179345279): // ill rate your performance well
+Mon Sep  9 19:30:54 2019	Bexgasm~ (STEAM_0:1:63382511): // kk
+Mon Sep  9 19:31:31 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Mon Sep  9 19:35:03 2019	Bexgasm~ (STEAM_0:1:63382511): 
+Mon Sep  9 19:36:52 2019	Bexgasm~ (STEAM_0:1:63382511): 
+Mon Sep  9 19:38:04 2019	DrDerpenstein (STEAM_0:0:13562763) disconnected
+Mon Sep  9 19:38:31 2019	DrDerpenstein sups.gg (STEAM_0:0:13562763) has joined the game
+Mon Sep  9 19:38:31 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Mon Sep  9 19:39:07 2019	DrDerpenstein (STEAM_0:0:13562763) disconnected
+Mon Sep  9 19:39:33 2019	DrDerpenstein sups.gg (STEAM_0:0:13562763) has joined the game
+Mon Sep  9 19:39:33 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Mon Sep  9 19:42:47 2019	Bexgasm~ (STEAM_0:1:63382511): // yo can someone raid me
+Mon Sep  9 19:42:50 2019	Bexgasm~ (STEAM_0:1:63382511): // im bored
+Mon Sep  9 19:44:38 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Mon Sep  9 19:44:43 2019	bert simson (STEAM_0:1:179345279): // this water can  deadass got the capacity of a 12 year olds balls smh invest in a better watering can
+Mon Sep  9 19:45:00 2019	DrDerpenstein (STEAM_0:0:13562763): // invest in hydro pots
+Mon Sep  9 19:45:13 2019	bert simson (STEAM_0:1:179345279): // i would
+Mon Sep  9 19:45:17 2019	bert simson (STEAM_0:1:179345279): // but they kinda vip only
+Mon Sep  9 19:45:22 2019	DrDerpenstein (STEAM_0:0:13562763): // invest in vip
+Mon Sep  9 19:45:26 2019	Bexgasm~ (STEAM_0:1:63382511): // become vip 4head
+Mon Sep  9 19:45:27 2019	bert simson (STEAM_0:1:179345279): 
+Mon Sep  9 19:45:33 2019	bert simson (STEAM_0:1:179345279): // ill pass
+Mon Sep  9 19:45:41 2019	Bexgasm~ (STEAM_0:1:63382511): // not my problem 
+Mon Sep  9 19:45:43 2019	DrDerpenstein (STEAM_0:0:13562763): // thanks for believing in us
+Mon Sep  9 19:46:16 2019	bert simson (STEAM_0:1:179345279): // i just believe there are better investments!
+Mon Sep  9 19:46:24 2019	Bexgasm~ (STEAM_0:1:63382511): // ok bud
+Mon Sep  9 19:46:45 2019	Bexgasm~ (STEAM_0:1:63382511): // sounds like you dont want that hydropot then
+Mon Sep  9 19:46:46 2019	Bexgasm~ (STEAM_0:1:63382511): // smh
+Mon Sep  9 19:46:50 2019	Bexgasm~ (STEAM_0:1:63382511): // smh
+Mon Sep  9 19:46:56 2019	bert simson (STEAM_0:1:179345279): // dUde not the hydropot
+Mon Sep  9 19:47:00 2019	bert simson (STEAM_0:1:179345279): // dw ill just cheatengine it in
+Mon Sep  9 19:47:09 2019	Bexgasm~ (STEAM_0:1:63382511): // damn, gon get banned again
+Mon Sep  9 19:47:43 2019	Bexgasm~ (STEAM_0:1:63382511): // anyways imma head out
+Mon Sep  9 19:48:54 2019	Bexgasm~ (STEAM_0:1:63382511) disconnected
+Mon Sep  9 19:53:13 2019	DrDerpenstein (STEAM_0:0:13562763): // brb, going to dev server for a lil
+Mon Sep  9 19:53:17 2019	DrDerpenstein (STEAM_0:0:13562763) disconnected
+Mon Sep  9 19:58:06 2019	bert simson (STEAM_0:1:179345279): /drop
+Mon Sep  9 20:02:11 2019	UG | M A S T E R (STEAM_0:1:180622613): hi
+Mon Sep  9 20:02:15 2019	bert simson (STEAM_0:1:179345279): im good dude
+Mon Sep  9 20:02:20 2019	UG | M A S T E R (STEAM_0:1:180622613) disconnected
+Mon Sep  9 20:10:26 2019	bert simson was killed by Himself with a suicide trick
+Mon Sep  9 20:10:27 2019	bert simson (STEAM_0:1:179345279) spawned
+Mon Sep  9 20:33:45 2019	bert simson (STEAM_0:1:179345279) disconnected

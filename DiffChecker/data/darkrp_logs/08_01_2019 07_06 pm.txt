@@ -1,0 +1,5 @@
+Thu Aug  1 19:06:33 2019	DrDerpenstein sups.gg (STEAM_0:0:13562763) has joined the game
+Thu Aug  1 19:06:33 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Thu Aug  1 19:07:14 2019	Derp (STEAM_0:0:52504530) has joined the game
+Thu Aug  1 19:07:14 2019	William (STEAM_0:0:52504530) spawned
+Thu Aug  1 19:07:28 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT arcade_pacman

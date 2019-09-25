@@ -1,0 +1,1 @@
+[{"Data":{"Amount":10.0,"Clip1":300.0,"Ammo":600.0,"Class":"fas2_rk95","Model":"models/weapons/world/rifles/rk95.mdl"},"Class":"spawned_weapon"},{"Data":{"Amount":10.0,"Clip1":300.0,"Ammo":600.0,"Class":"fas2_rk95","Model":"models/weapons/world/rifles/rk95.mdl"},"Class":"spawned_weapon"}]

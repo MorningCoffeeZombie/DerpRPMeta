@@ -1,0 +1,1 @@
+[{"ang":"{0 188.5703 0}","pos":"[3606.0549 1311.1305 -195.9688]","class":"jewelryrobbery_blackmarket_npc"}]

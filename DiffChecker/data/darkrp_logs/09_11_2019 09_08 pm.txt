@@ -1,0 +1,480 @@
+Wed Sep 11 21:08:40 2019	DrDerpenstein sups.gg (STEAM_0:0:13562763) has joined the game
+Wed Sep 11 21:08:40 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Wed Sep 11 21:08:53 2019	DrDerpenstein (STEAM_0:0:13562763): asdfasdf
+Wed Sep 11 21:08:55 2019	DrDerpenstein (STEAM_0:0:13562763): /cards
+Wed Sep 11 21:10:26 2019	DrDerpenstein (STEAM_0:0:13562763) disconnected
+Wed Sep 11 22:28:51 2019	Sukebena-Chan (STEAM_0:1:63382511) has joined the game
+Wed Sep 11 22:28:51 2019	Bexgasm~ (STEAM_0:1:63382511) spawned
+Wed Sep 11 22:29:39 2019	Bexgasm~ (STEAM_0:1:63382511): # nigga nigga nigga bitch nigga nigga
+Wed Sep 11 22:30:29 2019	Bexgasm~ (STEAM_0:1:63382511) spawned
+Wed Sep 11 22:32:53 2019	Bexgasm~ (STEAM_0:1:63382511): /drop
+Thu Sep 12 00:11:45 2019	Bexgasm~ (STEAM_0:1:63382511) disconnected
+Thu Sep 12 18:53:54 2019	Derp (STEAM_0:0:52504530) has joined the game
+Thu Sep 12 18:53:54 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Sep 12 19:06:46 2019	DevL (STEAM_0:0:97157625) has joined the game
+Thu Sep 12 19:06:46 2019	DevL (STEAM_0:0:97157625) spawned
+Thu Sep 12 19:07:27 2019	Derp (STEAM_0:0:52504530): hello
+Thu Sep 12 19:07:40 2019	DevL was killed by Himself with a suicide trick
+Thu Sep 12 19:07:43 2019	Derp was killed by Himself with a suicide trick
+Thu Sep 12 19:07:45 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Sep 12 19:07:48 2019	DevL (STEAM_0:0:97157625) spawned
+Thu Sep 12 19:07:58 2019	Derp (STEAM_0:0:52504530): ik
+Thu Sep 12 19:08:01 2019	Derp (STEAM_0:0:52504530): i have a task for u
+Thu Sep 12 19:08:03 2019	Derp (STEAM_0:0:52504530): if u dont mind
+Thu Sep 12 19:08:07 2019	Derp (STEAM_0:0:52504530): its fucking tedious
+Thu Sep 12 19:08:25 2019	Derp (STEAM_0:0:52504530): can u spawn a single prop and test out the materials and copy to clipboard every material that can be seen through
+Thu Sep 12 19:08:35 2019	Derp (STEAM_0:0:52504530): put it in a text file
+Thu Sep 12 19:08:37 2019	Derp (STEAM_0:0:52504530): and then send it to me
+Thu Sep 12 19:08:39 2019	Derp (STEAM_0:0:52504530): when ur done
+Thu Sep 12 19:08:47 2019	Derp (STEAM_0:0:52504530): idk 
+Thu Sep 12 19:08:56 2019	Derp (STEAM_0:0:52504530): both ways i suppose
+Thu Sep 12 19:08:59 2019	Derp (STEAM_0:0:52504530): one ways should be fine
+Thu Sep 12 19:09:10 2019	Derp (STEAM_0:0:52504530): i think there are like 20 or so of these materials that i need u to copy
+Thu Sep 12 19:09:28 2019	Derp (STEAM_0:0:52504530): if u dont wanna do it thats fine just msg me on discord
+Thu Sep 12 19:09:44 2019	Derp (STEAM_0:0:52504530): materials that u can see through like this
+Thu Sep 12 19:09:52 2019	Derp (STEAM_0:0:52504530): not one ways
+Thu Sep 12 19:09:58 2019	Derp (STEAM_0:0:52504530): // thanks man
+Thu Sep 12 19:10:04 2019	DevL (STEAM_0:0:97157625): // no prob
+Thu Sep 12 19:10:04 2019	Derp (STEAM_0:0:52504530): // ill be back on later in like 40 minutes
+Thu Sep 12 19:10:09 2019	DevL (STEAM_0:0:97157625): // k
+Thu Sep 12 19:10:12 2019	Derp (STEAM_0:0:52504530) disconnected
+Thu Sep 12 19:16:51 2019	DevL (STEAM_0:0:97157625) disconnected
+Thu Sep 12 19:18:25 2019	DevL (STEAM_0:0:97157625) has joined the game
+Thu Sep 12 19:18:25 2019	DevL (STEAM_0:0:97157625) spawned
+Thu Sep 12 19:23:54 2019	Doof (STEAM_0:1:426762407) has joined the game
+Thu Sep 12 19:23:54 2019	Doof (STEAM_0:1:426762407) spawned
+Thu Sep 12 19:28:12 2019	Doof (STEAM_0:1:426762407) disconnected
+Thu Sep 12 19:28:15 2019	DevL (STEAM_0:0:97157625) spawned
+Thu Sep 12 19:33:04 2019	DevL (STEAM_0:0:97157625) spawned Vehicle prop_vehicle_jeep (sw_fcc)
+Thu Sep 12 19:35:06 2019	DevL was killed by Himself with a suicide trick
+Thu Sep 12 19:35:07 2019	DevL (STEAM_0:0:97157625) spawned
+Thu Sep 12 19:38:18 2019	DevL (STEAM_0:0:97157625): /sell all doors
+Thu Sep 12 19:38:23 2019	DevL (STEAM_0:0:97157625): /sellalldoors
+Thu Sep 12 19:41:56 2019	Derp (STEAM_0:0:52504530) has joined the game
+Thu Sep 12 19:41:56 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Sep 12 19:42:03 2019	Wescyde (STEAM_0:0:29310582) has joined the game
+Thu Sep 12 19:42:03 2019	Wescyde (STEAM_0:0:29310582) spawned
+Thu Sep 12 19:44:37 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Sep 12 19:46:02 2019	Wescyde (STEAM_0:0:29310582) disconnected
+Thu Sep 12 19:51:55 2019	DevL was killed by Himself with a suicide trick
+Thu Sep 12 19:51:59 2019	DevL (STEAM_0:0:97157625) spawned
+Thu Sep 12 19:52:15 2019	DevL (STEAM_0:0:97157625): 
+Thu Sep 12 19:53:53 2019	Derp was killed by DevL with a cw_mac11
+Thu Sep 12 19:53:56 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Sep 12 19:54:35 2019	Derp was killed by DevL with a cw_mac11
+Thu Sep 12 19:54:40 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Sep 12 19:55:11 2019	DevL (STEAM_0:0:97157625): /invholster
+Thu Sep 12 19:55:14 2019	DevL was killed by Himself with a suicide trick
+Thu Sep 12 19:55:17 2019	DevL (STEAM_0:0:97157625) spawned
+Thu Sep 12 19:56:39 2019	DevL was killed by Himself with a suicide trick
+Thu Sep 12 19:56:42 2019	DevL (STEAM_0:0:97157625) spawned
+Thu Sep 12 19:57:51 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Sep 12 19:58:09 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Sep 12 19:58:09 2019	DevL (STEAM_0:0:97157625) spawned
+Thu Sep 12 19:58:09 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Sep 12 19:58:45 2019	Bobbicus (STEAM_0:0:86269452) has joined the game
+Thu Sep 12 19:58:45 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Thu Sep 12 19:59:29 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Sep 12 19:59:47 2019	Bobbicus (STEAM_0:0:86269452): /ooc A
+Thu Sep 12 20:00:17 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Thu Sep 12 20:00:40 2019	DevL was killed by Himself with a suicide trick
+Thu Sep 12 20:00:45 2019	DevL (STEAM_0:0:97157625) spawned
+Thu Sep 12 20:00:55 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Thu Sep 12 20:00:55 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Sep 12 20:01:05 2019	Bobbicus was killed by Derp with a cw_nen_glock17
+Thu Sep 12 20:01:14 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Thu Sep 12 20:01:34 2019	Bobbicus was killed by Derp with a cw_nen_glock17
+Thu Sep 12 20:01:39 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Thu Sep 12 20:01:54 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Thu Sep 12 20:01:54 2019	DevL (STEAM_0:0:97157625) spawned
+Thu Sep 12 20:03:05 2019	DevL was killed by Himself with a suicide trick
+Thu Sep 12 20:03:07 2019	DevL (STEAM_0:0:97157625) spawned
+Thu Sep 12 20:03:28 2019	DevL was killed by Himself with a suicide trick
+Thu Sep 12 20:03:30 2019	DevL (STEAM_0:0:97157625) spawned
+Thu Sep 12 20:03:40 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Thu Sep 12 20:03:50 2019	Bobbicus (STEAM_0:0:86269452): /ooc i actually fucking spit on myself
+Thu Sep 12 20:03:57 2019	DevL (STEAM_0:0:97157625): // lol
+Thu Sep 12 20:03:58 2019	Derp (STEAM_0:0:52504530): // good job u fucking inbred sack of shit
+Thu Sep 12 20:04:03 2019	Bobbicus (STEAM_0:0:86269452): /ooc excuse me, *spat
+Thu Sep 12 20:04:18 2019	Bobbicus (STEAM_0:0:86269452): /ooc pls help
+Thu Sep 12 20:05:48 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Sep 12 20:06:32 2019	Bobbicus was killed by Derp with a cw_shorty
+Thu Sep 12 20:06:46 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Thu Sep 12 20:06:59 2019	Bobbicus was killed by Derp with a cw_shorty
+Thu Sep 12 20:07:00 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Thu Sep 12 20:07:03 2019	Derp (STEAM_0:0:52504530): // XD
+Thu Sep 12 20:07:11 2019	Derp (STEAM_0:0:52504530): AAAAAAAAAAAAAAA
+Thu Sep 12 20:07:16 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Thu Sep 12 20:07:16 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Sep 12 20:07:26 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Thu Sep 12 20:07:26 2019	DevL (STEAM_0:0:97157625) spawned
+Thu Sep 12 20:07:28 2019	Bobbicus was killed by Derp with a cw_ws_m16a4
+Thu Sep 12 20:07:43 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Thu Sep 12 20:07:54 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Thu Sep 12 20:09:41 2019	Bobbicus was killed by Derp with a cw_ws_m16a4
+Thu Sep 12 20:09:43 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Thu Sep 12 20:09:54 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Thu Sep 12 20:10:42 2019	Bobbicus was killed by Derp with a cw_shorty
+Thu Sep 12 20:10:43 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Thu Sep 12 20:11:26 2019	Derp was killed by Bobbicus with a cw_m3super90
+Thu Sep 12 20:11:27 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Sep 12 20:12:13 2019	Bobbicus was killed by Derp with a weapon_fists
+Thu Sep 12 20:12:15 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Thu Sep 12 20:12:28 2019	Derp was killed by Bobbicus with a cw_m3super90
+Thu Sep 12 20:12:31 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Sep 12 20:14:25 2019	Derp was killed by Bobbicus with a cw_p99
+Thu Sep 12 20:14:26 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Sep 12 20:15:30 2019	Bobbicus (STEAM_0:0:86269452) spawned SENT item_healthkit
+Thu Sep 12 20:15:31 2019	Bobbicus (STEAM_0:0:86269452) spawned SENT item_healthkit
+Thu Sep 12 20:16:09 2019	Bobbicus was killed by Derp with a weapon_fists
+Thu Sep 12 20:16:10 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Thu Sep 12 20:16:29 2019	Derp was killed by Bobbicus with a cw_m3super90
+Thu Sep 12 20:16:31 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Sep 12 20:16:56 2019	Derp was killed by Bobbicus with a cw_m3super90
+Thu Sep 12 20:16:57 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Sep 12 20:17:19 2019	Derp was killed by Bobbicus with a cw_m3super90
+Thu Sep 12 20:17:21 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Sep 12 20:17:45 2019	Derp was killed by Bobbicus with a cw_m3super90
+Thu Sep 12 20:17:46 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Sep 12 20:18:06 2019	Derp was killed by Bobbicus with a cw_m3super90
+Thu Sep 12 20:18:07 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Sep 12 20:18:13 2019	Bobbicus was killed by Derp with a weapon_fists
+Thu Sep 12 20:18:16 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Thu Sep 12 20:19:38 2019	Derp was killed by Bobbicus with a cw_m3super90
+Thu Sep 12 20:19:40 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Sep 12 20:20:07 2019	Derp was killed by Bobbicus with a cw_m3super90
+Thu Sep 12 20:20:09 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Sep 12 20:20:23 2019	DevL (STEAM_0:0:97157625) spawned Vehicle prop_vehicle_jeep (sw_blue-x11_blue)
+Thu Sep 12 20:20:30 2019	Derp was killed by Bobbicus with a cw_m3super90
+Thu Sep 12 20:20:31 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Sep 12 20:20:49 2019	Bobbicus was killed by Derp with a weapon_fists
+Thu Sep 12 20:20:51 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Thu Sep 12 20:20:59 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Thu Sep 12 20:21:33 2019	Derp was killed by DevL with a prop_vehicle_jeep
+Thu Sep 12 20:21:36 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Sep 12 20:22:26 2019	Derp was killed by Bobbicus with a cw_nen_glock17
+Thu Sep 12 20:22:26 2019	DevL was killed by Bobbicus with a cw_nen_glock17
+Thu Sep 12 20:22:29 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Sep 12 20:22:33 2019	DevL (STEAM_0:0:97157625) spawned
+Thu Sep 12 20:22:47 2019	Derp was killed by Bobbicus with a cw_shorty
+Thu Sep 12 20:23:03 2019	DevL was killed by Bobbicus with a cw_ws_m16a4
+Thu Sep 12 20:23:04 2019	DevL (STEAM_0:0:97157625) spawned
+Thu Sep 12 20:23:24 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Sep 12 20:24:05 2019	bert simson (STEAM_0:1:179345279) has joined the game
+Thu Sep 12 20:24:05 2019	bert simson (STEAM_0:1:179345279) spawned
+Thu Sep 12 20:24:08 2019	Derp was killed by Bobbicus with a cw_ws_m16a4
+Thu Sep 12 20:24:09 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Sep 12 20:24:20 2019	Derp was killed by Bobbicus with a cw_ws_m16a4
+Thu Sep 12 20:24:21 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Sep 12 20:24:39 2019	DevL was killed by Bobbicus with a cw_ws_m16a4
+Thu Sep 12 20:24:40 2019	Bobbicus was killed by Derp with a prop_vehicle_jeep
+Thu Sep 12 20:24:40 2019	DevL (STEAM_0:0:97157625) spawned
+Thu Sep 12 20:24:49 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Thu Sep 12 20:24:57 2019	DevL (STEAM_0:0:97157625) spawned
+Thu Sep 12 20:25:30 2019	Derp was killed by Entity [1656][sent_breachingcharge] with a sent_breachingcharge
+Thu Sep 12 20:25:30 2019	DevL was killed by Entity [1655][sent_breachingcharge] with a sent_breachingcharge
+Thu Sep 12 20:25:30 2019	Derp was killed by Entity [1656][sent_breachingcharge] with a sent_breachingcharge
+Thu Sep 12 20:25:32 2019	DevL (STEAM_0:0:97157625) spawned
+Thu Sep 12 20:25:32 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Sep 12 20:25:40 2019	bert simson (STEAM_0:1:179345279): // bobbicussss
+Thu Sep 12 20:25:40 2019	DevL (STEAM_0:0:97157625) spawned
+Thu Sep 12 20:25:47 2019	Bobbicus (STEAM_0:0:86269452): /ooc hello
+Thu Sep 12 20:25:53 2019	DevL (STEAM_0:0:97157625) spawned
+Thu Sep 12 20:25:53 2019	bert simson (STEAM_0:1:179345279) spawned
+Thu Sep 12 20:26:00 2019	bert simson (STEAM_0:1:179345279) spawned
+Thu Sep 12 20:26:01 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Thu Sep 12 20:26:11 2019	Derp (STEAM_0:0:52504530): permabanned
+Thu Sep 12 20:26:13 2019	bert simson (STEAM_0:1:179345279): // im about to crash ngl
+Thu Sep 12 20:26:15 2019	DevL (STEAM_0:0:97157625) spawned
+Thu Sep 12 20:26:15 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Sep 12 20:26:26 2019	Derp (STEAM_0:0:52504530): !menu
+Thu Sep 12 20:26:31 2019	DevL was killed by bert simson with a cw_p99
+Thu Sep 12 20:26:32 2019	DevL (STEAM_0:0:97157625) spawned
+Thu Sep 12 20:26:47 2019	DevL (STEAM_0:0:97157625) spawned
+Thu Sep 12 20:26:51 2019	bert simson (STEAM_0:1:179345279): bobbicus has a wonderful voice
+Thu Sep 12 20:26:55 2019	bert simson was killed by Bobbicus with a cw_ak74
+Thu Sep 12 20:26:56 2019	bert simson (STEAM_0:1:179345279) spawned
+Thu Sep 12 20:26:58 2019	DevL (STEAM_0:0:97157625) spawned
+Thu Sep 12 20:26:58 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Thu Sep 12 20:27:03 2019	DevL was killed by Bobbicus with a cw_ak74
+Thu Sep 12 20:27:04 2019	DevL (STEAM_0:0:97157625) spawned
+Thu Sep 12 20:27:29 2019	DevL (STEAM_0:0:97157625) spawned
+Thu Sep 12 20:27:29 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Thu Sep 12 20:27:34 2019	DevL was killed by bert simson with a cw_m3super90
+Thu Sep 12 20:27:37 2019	DevL (STEAM_0:0:97157625) spawned
+Thu Sep 12 20:27:40 2019	bert simson was killed by Bobbicus with a cw_ak74
+Thu Sep 12 20:27:41 2019	bert simson (STEAM_0:1:179345279) spawned
+Thu Sep 12 20:27:45 2019	Derp was killed by Bobbicus with a cw_ak74
+Thu Sep 12 20:27:46 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Sep 12 20:28:01 2019	DevL was killed by Bobbicus with a cw_ak74
+Thu Sep 12 20:28:03 2019	DevL (STEAM_0:0:97157625) spawned
+Thu Sep 12 20:28:05 2019	Derp was killed by Bobbicus with a cw_p99
+Thu Sep 12 20:28:06 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Sep 12 20:28:18 2019	DevL was killed by bert simson with a cw_p99
+Thu Sep 12 20:28:20 2019	Derp was killed by Bobbicus with a cw_ak74
+Thu Sep 12 20:28:22 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Sep 12 20:28:25 2019	DevL (STEAM_0:0:97157625) spawned
+Thu Sep 12 20:28:34 2019	Bobbicus was killed by bert simson with a cw_p99
+Thu Sep 12 20:28:36 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Thu Sep 12 20:28:41 2019	Derp was killed by bert simson with a cw_m3super90
+Thu Sep 12 20:28:44 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Sep 12 20:28:49 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Thu Sep 12 20:28:51 2019	Derp was killed by bert simson with a cw_m3super90
+Thu Sep 12 20:28:54 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Sep 12 20:29:01 2019	DevL was killed by bert simson with a cw_m3super90
+Thu Sep 12 20:29:02 2019	DevL (STEAM_0:0:97157625) spawned
+Thu Sep 12 20:29:19 2019	Derp was killed by bert simson with a cw_p99
+Thu Sep 12 20:29:20 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Sep 12 20:30:00 2019	DevL (STEAM_0:0:97157625): /invholster
+Thu Sep 12 20:30:01 2019	DevL (STEAM_0:0:97157625): /invholster
+Thu Sep 12 20:30:14 2019	DevL (STEAM_0:0:97157625) spawned
+Thu Sep 12 20:30:15 2019	bert simson was killed by Bobbicus with a cw_ws_m16a4
+Thu Sep 12 20:30:16 2019	bert simson (STEAM_0:1:179345279) spawned
+Thu Sep 12 20:30:36 2019	Bobbicus was killed by bert simson with a cw_p99
+Thu Sep 12 20:30:38 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Thu Sep 12 20:30:46 2019	Derp was killed by bert simson with a cw_m3super90
+Thu Sep 12 20:30:51 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Sep 12 20:31:14 2019	bert simson (STEAM_0:1:179345279): /drop
+Thu Sep 12 20:31:15 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Sep 12 20:31:26 2019	DevL (STEAM_0:0:97157625): // i heard you like choking derp?
+Thu Sep 12 20:32:03 2019	Bobbicus was killed by Himself with a suicide trick
+Thu Sep 12 20:32:08 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Thu Sep 12 20:32:17 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Thu Sep 12 20:32:36 2019	Derp was killed by bert simson with a cw_p99
+Thu Sep 12 20:32:38 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Sep 12 20:33:03 2019	Derp was killed by bert simson with a cw_p99
+Thu Sep 12 20:33:07 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Sep 12 20:33:18 2019	Derp was killed by Bobbicus with a cw_g36c
+Thu Sep 12 20:33:18 2019	bert simson was killed by Bobbicus with a cw_g36c
+Thu Sep 12 20:33:20 2019	bert simson (STEAM_0:1:179345279) spawned
+Thu Sep 12 20:33:24 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Sep 12 20:33:31 2019	Derp was killed by bert simson with a cw_m3super90
+Thu Sep 12 20:33:34 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Sep 12 20:33:47 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Sep 12 20:33:53 2019	Bobbicus was killed by bert simson with a cw_p99
+Thu Sep 12 20:33:53 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Thu Sep 12 20:33:58 2019	Bobbicus (STEAM_0:0:86269452) disconnected
+Thu Sep 12 20:34:32 2019	Derp was killed by bert simson with a cw_m3super90
+Thu Sep 12 20:34:35 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Sep 12 20:34:59 2019	DevL (STEAM_0:0:97157625): /me salute
+Thu Sep 12 20:35:31 2019	Derp was killed by bert simson with a cw_p99
+Thu Sep 12 20:35:41 2019	DevL was killed by bert simson with a cw_p99
+Thu Sep 12 20:35:41 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Sep 12 20:35:43 2019	DevL (STEAM_0:0:97157625) spawned
+Thu Sep 12 20:36:18 2019	DevL (STEAM_0:0:97157625): 
+Thu Sep 12 20:38:48 2019	bert simson (STEAM_0:1:179345279): type a minus sign for me and put it in chat
+Thu Sep 12 20:38:56 2019	DevL (STEAM_0:0:97157625): -
+Thu Sep 12 20:39:01 2019	bert simson (STEAM_0:1:179345279): thanks dude
+Thu Sep 12 20:40:40 2019	Derp was killed by Himself with a suicide trick
+Thu Sep 12 20:41:45 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Sep 12 20:45:26 2019	bert simson was killed by Himself with a suicide trick
+Thu Sep 12 20:45:27 2019	bert simson (STEAM_0:1:179345279) spawned
+Thu Sep 12 20:46:28 2019	Derp (STEAM_0:0:52504530): oops
+Thu Sep 12 20:46:37 2019	Derp (STEAM_0:0:52504530) spawned Vehicle prop_vehicle_prisoner_pod (Seat_Airboat)
+Thu Sep 12 20:46:39 2019	Derp (STEAM_0:0:52504530) spawned Vehicle prop_vehicle_prisoner_pod (Chair_Wood)
+Thu Sep 12 20:46:40 2019	Derp (STEAM_0:0:52504530) spawned Vehicle prop_vehicle_prisoner_pod (Chair_Plastic)
+Thu Sep 12 20:46:44 2019	Derp (STEAM_0:0:52504530) spawned Vehicle prop_vehicle_prisoner_pod (Chair_Office1)
+Thu Sep 12 20:46:44 2019	Derp (STEAM_0:0:52504530) spawned Vehicle prop_vehicle_prisoner_pod (Seat_Jeep)
+Thu Sep 12 20:46:44 2019	Derp (STEAM_0:0:52504530) spawned Vehicle prop_vehicle_prisoner_pod (Chair_Plastic)
+Thu Sep 12 20:49:49 2019	Derp (STEAM_0:0:52504530): 
+Thu Sep 12 21:03:30 2019	Derp (STEAM_0:0:52504530): you are one dedicated weed man
+Thu Sep 12 21:03:32 2019	Doof (STEAM_0:1:426762407) has joined the game
+Thu Sep 12 21:03:32 2019	Doof (STEAM_0:1:426762407) spawned
+Thu Sep 12 21:03:36 2019	Derp (STEAM_0:0:52504530): you are one dedicated weed man
+Thu Sep 12 21:08:50 2019	Derp (STEAM_0:0:52504530): lol
+Thu Sep 12 21:08:55 2019	Doof (STEAM_0:1:426762407): idk about you
+Thu Sep 12 21:08:59 2019	Doof (STEAM_0:1:426762407): but i dont like fortnite
+Thu Sep 12 21:09:04 2019	Doof (STEAM_0:1:426762407): plz dont destroy me
+Thu Sep 12 21:09:10 2019	Derp (STEAM_0:0:52504530): fortnite sucks fucking balls
+Thu Sep 12 21:09:13 2019	Doof (STEAM_0:1:426762407): thank you
+Thu Sep 12 21:09:22 2019	Doof (STEAM_0:1:426762407): but
+Thu Sep 12 21:09:27 2019	Doof (STEAM_0:1:426762407): it does attract people
+Thu Sep 12 21:09:28 2019	Doof (STEAM_0:1:426762407): who suck balls
+Thu Sep 12 21:09:30 2019	Doof (STEAM_0:1:426762407): lol
+Thu Sep 12 21:09:35 2019	Doof (STEAM_0:1:426762407): so +respect
+Thu Sep 12 21:10:26 2019	Doof (STEAM_0:1:426762407): lol
+Thu Sep 12 21:12:14 2019	Doof (STEAM_0:1:426762407): how do i get products?
+Thu Sep 12 21:12:27 2019	Derp (STEAM_0:0:52504530): if u wanna add products drop a gun for example and then smash it into the machine
+Thu Sep 12 21:12:40 2019	Doof (STEAM_0:1:426762407): i do not have a gun
+Thu Sep 12 21:12:48 2019	Derp (STEAM_0:0:52504530): AAAAAAAA
+Thu Sep 12 21:13:08 2019	Doof (STEAM_0:1:426762407): im gonna go play the wii with my mom
+Thu Sep 12 21:13:17 2019	Doof (STEAM_0:1:426762407): can you uh cover up the sewers entrance?
+Thu Sep 12 21:14:04 2019	DevL (STEAM_0:0:97157625): 
+Thu Sep 12 21:19:59 2019	bert simson (STEAM_0:1:179345279) spawned Vehicle prop_vehicle_jeep (sw_gokart)
+Thu Sep 12 21:20:43 2019	bert simson (STEAM_0:1:179345279) spawned Vehicle prop_vehicle_jeep (sw_gokart)
+Thu Sep 12 21:21:28 2019	bert simson (STEAM_0:1:179345279): // go kart best car
+Thu Sep 12 21:21:52 2019	Derp (STEAM_0:0:52504530) spawned Vehicle prop_vehicle_jeep (sw_fcc)
+Thu Sep 12 21:22:14 2019	bert simson was killed by Derp with a prop_vehicle_jeep
+Thu Sep 12 21:22:16 2019	bert simson (STEAM_0:1:179345279) spawned
+Thu Sep 12 21:23:03 2019	Derp was killed by bert simson with a prop_vehicle_jeep
+Thu Sep 12 21:23:06 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Sep 12 21:24:32 2019	bert simson (STEAM_0:1:179345279) spawned Vehicle prop_vehicle_jeep (sw_blue-x13)
+Thu Sep 12 21:25:04 2019	bert simson (STEAM_0:1:179345279): // bruh these cars get stuck on every curb
+Thu Sep 12 21:25:17 2019	Derp (STEAM_0:0:52504530): // i know
+Thu Sep 12 21:25:26 2019	Derp was killed by bert simson with a prop_vehicle_jeep
+Thu Sep 12 21:25:28 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Sep 12 21:26:03 2019	Derp (STEAM_0:0:52504530): // once we change the map we are gonna replace the vehicles
+Thu Sep 12 21:26:13 2019	bert simson (STEAM_0:1:179345279): // bruh i just spent like 200k on them
+Thu Sep 12 21:26:22 2019	DevL (STEAM_0:0:97157625): 
+Thu Sep 12 21:26:31 2019	Derp (STEAM_0:0:52504530): /addmoney bert 200000
+Thu Sep 12 21:26:31 2019	Derp (STEAM_0:0:52504530) added $200,000 to bert simson's wallet
+Thu Sep 12 21:26:40 2019	Derp (STEAM_0:0:52504530): // there now u have ur 200k again
+Thu Sep 12 21:27:00 2019	DevL (STEAM_0:0:97157625): 
+Thu Sep 12 21:27:03 2019	bert simson (STEAM_0:1:179345279): // where is a free spot for my vehicle
+Thu Sep 12 21:27:08 2019	bert simson (STEAM_0:1:179345279): // this makes no sense smh
+Thu Sep 12 21:27:28 2019	DevL (STEAM_0:0:97157625): // derp the casinos fucking broking lmfao
+Thu Sep 12 21:27:34 2019	Derp (STEAM_0:0:52504530): 
+Thu Sep 12 21:27:35 2019	DevL (STEAM_0:0:97157625): // roulete just hit green twice
+Thu Sep 12 21:27:39 2019	DevL (STEAM_0:0:97157625): // bacl to back
+Thu Sep 12 21:27:41 2019	DevL (STEAM_0:0:97157625): /acsino
+Thu Sep 12 21:27:43 2019	DevL (STEAM_0:0:97157625): 
+Thu Sep 12 21:28:06 2019	Derp (STEAM_0:0:52504530): // god damn it
+Thu Sep 12 21:28:10 2019	DevL (STEAM_0:0:97157625): // damn it
+Thu Sep 12 21:28:16 2019	DevL (STEAM_0:0:97157625): // it almost hit it a third time
+Thu Sep 12 21:28:18 2019	DevL (STEAM_0:0:97157625): // rip
+Thu Sep 12 21:28:39 2019	DevL (STEAM_0:0:97157625): 
+Thu Sep 12 21:29:48 2019	bert simson (STEAM_0:1:179345279): 3 fps
+Thu Sep 12 21:31:00 2019	Derp was killed by Entity [0][worldspawn] with a unknown
+Thu Sep 12 21:31:07 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Sep 12 21:32:09 2019	DevL (STEAM_0:0:97157625): // when wieners give 1 food rip
+Thu Sep 12 21:32:13 2019	Derp (STEAM_0:0:52504530): // yeah ik
+Thu Sep 12 21:32:18 2019	Derp (STEAM_0:0:52504530): // will be fixed next update
+Thu Sep 12 21:32:23 2019	DevL (STEAM_0:0:97157625): // noice
+Thu Sep 12 21:34:12 2019	Derp was killed by bert simson with a cw_p99
+Thu Sep 12 21:34:14 2019	Derp (STEAM_0:0:52504530): HACKER
+Thu Sep 12 21:34:25 2019	Derp (STEAM_0:0:52504530): STOP USING YOUR JTAGGED XBOX 360
+Thu Sep 12 21:34:40 2019	bert simson (STEAM_0:1:179345279): want a ghost camo
+Thu Sep 12 21:34:49 2019	Derp (STEAM_0:0:52504530): i want fall camo for all of my guns in mw2
+Thu Sep 12 21:34:51 2019	Derp (STEAM_0:0:52504530): and i want 10th prestige
+Thu Sep 12 21:34:55 2019	iFreshFruit (STEAM_0:1:187793822) has joined the game
+Thu Sep 12 21:34:55 2019	iFreshFruit (STEAM_0:1:187793822) spawned
+Thu Sep 12 21:34:57 2019	bert simson (STEAM_0:1:179345279): fall camo trash
+Thu Sep 12 21:35:00 2019	bert simson (STEAM_0:1:179345279): ill reset your rank
+Thu Sep 12 21:35:03 2019	Derp (STEAM_0:0:52504530): FAMMMMMMMMMMMMM
+Thu Sep 12 21:35:08 2019	bert simson (STEAM_0:1:179345279): reset
+Thu Sep 12 21:35:14 2019	bert simson (STEAM_0:1:179345279): enjoy getting booted offline dude
+Thu Sep 12 21:35:18 2019	Derp (STEAM_0:0:52504530): AAAAAAAAAAAAAAAAAAA
+Thu Sep 12 21:35:27 2019	Derp (STEAM_0:0:52504530): MY UNCLE WORKS AT MICHAEL SOFT
+Thu Sep 12 21:35:29 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Sep 12 21:35:34 2019	DevL was killed by Himself with a suicide trick
+Thu Sep 12 21:35:35 2019	DevL (STEAM_0:0:97157625) spawned
+Thu Sep 12 21:35:42 2019	Derp (STEAM_0:0:52504530): my uncle works at minclesoft
+Thu Sep 12 21:35:47 2019	bert simson (STEAM_0:1:179345279): dUde
+Thu Sep 12 21:35:58 2019	bert simson (STEAM_0:1:179345279): ay dude
+Thu Sep 12 21:36:08 2019	iFreshFruit (STEAM_0:1:187793822) disconnected
+Thu Sep 12 21:36:09 2019	Derp (STEAM_0:0:52504530): what do we have here
+Thu Sep 12 21:36:10 2019	Derp (STEAM_0:0:52504530): ok
+Thu Sep 12 21:36:29 2019	DevL (STEAM_0:0:97157625): /invholster
+Thu Sep 12 21:36:49 2019	DevL (STEAM_0:0:97157625): 
+Thu Sep 12 21:37:00 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Sep 12 21:37:16 2019	Derp was killed by DevL with a cw_ws_m16a4
+Thu Sep 12 21:37:18 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Sep 12 21:37:20 2019	bert simson was killed by DevL with a cw_ws_m16a4
+Thu Sep 12 21:37:21 2019	bert simson (STEAM_0:1:179345279) spawned
+Thu Sep 12 21:37:37 2019	bert simson (STEAM_0:1:179345279) disconnected
+Thu Sep 12 21:37:41 2019	Derp was killed by DevL with a cw_ws_m16a4
+Thu Sep 12 21:37:47 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Sep 12 21:37:48 2019	iFreshFruit (STEAM_0:1:187793822) has joined the game
+Thu Sep 12 21:37:48 2019	iFreshFruit (STEAM_0:1:187793822) spawned
+Thu Sep 12 21:38:04 2019	Derp was killed by DevL with a cw_ws_m16a4
+Thu Sep 12 21:38:07 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Sep 12 21:38:33 2019	Derp was killed by DevL with a cw_ws_m16a4
+Thu Sep 12 21:38:34 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Sep 12 21:38:49 2019	Derp was killed by DevL with a cw_ws_m16a4
+Thu Sep 12 21:38:51 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Sep 12 21:38:57 2019	Derp was killed by DevL with a cw_ws_m16a4
+Thu Sep 12 21:38:58 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Sep 12 21:39:08 2019	Derp was killed by DevL with a cw_ws_m16a4
+Thu Sep 12 21:39:09 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Sep 12 21:39:11 2019	iFreshFruit (STEAM_0:1:187793822) disconnected
+Thu Sep 12 21:39:21 2019	DevL was killed by Derp with a cw_p99
+Thu Sep 12 21:39:24 2019	DevL (STEAM_0:0:97157625) spawned
+Thu Sep 12 21:39:52 2019	Derp was killed by Entity [0][worldspawn] with a unknown
+Thu Sep 12 21:39:54 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Sep 12 21:39:58 2019	DevL was killed by Derp with a cw_p99
+Thu Sep 12 21:39:59 2019	DevL (STEAM_0:0:97157625) spawned
+Thu Sep 12 21:40:41 2019	DevL (STEAM_0:0:97157625): /invholster
+Thu Sep 12 21:40:49 2019	DevL was killed by Himself with a suicide trick
+Thu Sep 12 21:40:52 2019	Derp (STEAM_0:0:52504530): lmao
+Thu Sep 12 21:40:54 2019	DevL (STEAM_0:0:97157625) spawned
+Thu Sep 12 21:43:14 2019	Derp was killed by Entity [0][worldspawn] with a unknown
+Thu Sep 12 21:43:15 2019	Derp (STEAM_0:0:52504530) spawned
+Thu Sep 12 21:51:08 2019	DevL (STEAM_0:0:97157625) disconnected
+Thu Sep 12 21:51:55 2019	Derp (STEAM_0:0:52504530) disconnected
+Thu Sep 12 22:04:39 2019	Doof was killed by Himself with a suicide trick
+Thu Sep 12 22:12:47 2019	Doof (STEAM_0:1:426762407) spawned
+Thu Sep 12 22:26:26 2019	Doof (STEAM_0:1:426762407) spawned
+Thu Sep 12 22:28:18 2019	DrDerpenstein sups.gg (STEAM_0:0:13562763) has joined the game
+Thu Sep 12 22:28:18 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Thu Sep 12 22:28:42 2019	DrDerpenstein (STEAM_0:0:13562763) disconnected
+Thu Sep 12 22:35:02 2019	Doof (STEAM_0:1:426762407) spawned
+Thu Sep 12 22:38:26 2019	Doof (STEAM_0:1:426762407) spawned
+Thu Sep 12 22:40:26 2019	Doof (STEAM_0:1:426762407) spawned Vehicle prop_vehicle_jeep (sw_motorbike)
+Thu Sep 12 22:44:53 2019	Doof (STEAM_0:1:426762407) spawned Vehicle prop_vehicle_jeep (sw_blue-x13)
+Thu Sep 12 22:55:54 2019	DrDerpenstein sups.gg (STEAM_0:0:13562763) has joined the game
+Thu Sep 12 22:55:54 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Thu Sep 12 22:56:05 2019	Doof (STEAM_0:1:426762407): aye
+Thu Sep 12 22:57:18 2019	Doof (STEAM_0:1:426762407): /ooc wait will i lose my money
+Thu Sep 12 22:59:57 2019	Doof (STEAM_0:1:426762407) spawned Vehicle prop_vehicle_airboat (sw_hovercraft)
+Thu Sep 12 23:00:49 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT sent_breachingchargeammo
+Thu Sep 12 23:00:54 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT sent_breachingchargeammo
+Thu Sep 12 23:01:03 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT sent_breachingchargeammo
+Thu Sep 12 23:01:03 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT sent_breachingchargeammo
+Thu Sep 12 23:01:03 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT sent_breachingchargeammo
+Thu Sep 12 23:01:03 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT sent_breachingchargeammo
+Thu Sep 12 23:01:03 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT sent_breachingchargeammo
+Thu Sep 12 23:01:03 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT sent_breachingchargeammo
+Thu Sep 12 23:01:03 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT sent_breachingchargeammo
+Thu Sep 12 23:03:45 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT sent_breachingchargeammo
+Thu Sep 12 23:03:46 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT sent_breachingchargeammo
+Thu Sep 12 23:13:16 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT pvault_moneybag
+Thu Sep 12 23:13:35 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT pvault_moneybag
+Thu Sep 12 23:13:55 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT pvault_moneybag
+Thu Sep 12 23:14:03 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT pvault_moneybag
+Thu Sep 12 23:14:17 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT pvault_moneybag
+Thu Sep 12 23:16:51 2019	DrDerpenstein (STEAM_0:0:13562763) spawned Vehicle prop_vehicle_airboat (Airboat)
+Thu Sep 12 23:16:58 2019	Doof (STEAM_0:1:426762407) spawned Vehicle prop_vehicle_airboat (Airboat)
+Thu Sep 12 23:17:25 2019	Doof (STEAM_0:1:426762407) spawned Vehicle prop_vehicle_airboat (sw_powerboat)
+Thu Sep 12 23:17:59 2019	DrDerpenstein (STEAM_0:0:13562763) spawned Vehicle prop_vehicle_airboat (Airboat)
+Thu Sep 12 23:18:17 2019	DrDerpenstein (STEAM_0:0:13562763) spawned Vehicle prop_vehicle_airboat (sw_speedboat)
+Thu Sep 12 23:18:52 2019	DrDerpenstein (STEAM_0:0:13562763) spawned Vehicle prop_vehicle_airboat (sw_speedboat)
+Thu Sep 12 23:21:47 2019	DrDerpenstein was killed by Entity [1545][sent_breachingcharge] with a sent_breachingcharge
+Thu Sep 12 23:21:57 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Thu Sep 12 23:22:16 2019	Doof was killed by Himself with a suicide trick
+Thu Sep 12 23:22:17 2019	Doof (STEAM_0:1:426762407) spawned
+Thu Sep 12 23:23:21 2019	Doof was killed by Himself with a suicide trick
+Thu Sep 12 23:23:32 2019	Doof (STEAM_0:1:426762407) spawned
+Thu Sep 12 23:25:43 2019	DrDerpenstein (STEAM_0:0:13562763): /drop
+Thu Sep 12 23:32:51 2019	DrDerpenstein (STEAM_0:0:13562763): !wcd
+Thu Sep 12 23:44:26 2019	DrDerpenstein (STEAM_0:0:13562763): /dropmoney 1
+Thu Sep 12 23:44:27 2019	DrDerpenstein (STEAM_0:0:13562763) has dropped $1
+Thu Sep 12 23:44:44 2019	Doof (STEAM_0:1:426762407) has dropped $1
+Thu Sep 12 23:45:54 2019	DrDerpenstein (STEAM_0:0:13562763): /dropmoney 1000
+Thu Sep 12 23:45:55 2019	DrDerpenstein (STEAM_0:0:13562763) has dropped $1,000
+Thu Sep 12 23:47:12 2019	DrDerpenstein (STEAM_0:0:13562763) spawned Vehicle prop_vehicle_jeep (sw_blue-x14_normal)
+Thu Sep 12 23:48:42 2019	DrDerpenstein (STEAM_0:0:13562763): /dropmoney 20000
+Thu Sep 12 23:48:43 2019	DrDerpenstein (STEAM_0:0:13562763) has dropped $20,000
+Thu Sep 12 23:50:11 2019	DrDerpenstein (STEAM_0:0:13562763): /drop
+Thu Sep 12 23:50:16 2019	DrDerpenstein (STEAM_0:0:13562763): /drop
+Thu Sep 12 23:50:20 2019	DrDerpenstein (STEAM_0:0:13562763): /drop
+Thu Sep 12 23:50:24 2019	DrDerpenstein (STEAM_0:0:13562763): /drop
+Thu Sep 12 23:50:28 2019	DrDerpenstein (STEAM_0:0:13562763): /drop
+Thu Sep 12 23:50:59 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Thu Sep 12 23:51:35 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Thu Sep 12 23:55:20 2019	DrDerpenstein was killed by Doof with a weapon_fists
+Thu Sep 12 23:55:27 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Thu Sep 12 23:55:34 2019	Doof was killed by Himself with a suicide trick
+Thu Sep 12 23:55:35 2019	Doof (STEAM_0:1:426762407) spawned
+Thu Sep 12 23:56:37 2019	DrDerpenstein was killed by Doof with a weapon_fists
+Thu Sep 12 23:56:44 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Thu Sep 12 23:56:56 2019	DrDerpenstein (STEAM_0:0:13562763): /dropmoney 10000
+Thu Sep 12 23:56:57 2019	DrDerpenstein (STEAM_0:0:13562763) has dropped $10,000
+Thu Sep 12 23:57:17 2019	Doof was killed by Himself with a suicide trick
+Thu Sep 12 23:57:20 2019	Doof (STEAM_0:1:426762407) spawned
+Thu Sep 12 23:58:14 2019	DrDerpenstein was killed by Doof with a weapon_fists
+Thu Sep 12 23:58:26 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Thu Sep 12 23:58:28 2019	DrDerpenstein (STEAM_0:0:13562763): /y This is a mug drop 1k in 10sec or I paint the sidewalk with your brains...unless I can't mug- 10sec to GTFO or you all die
+Thu Sep 12 23:59:00 2019	Doof (STEAM_0:1:426762407) disconnected
+Thu Sep 12 23:59:00 2019	DrDerpenstein (STEAM_0:0:13562763): /dropmoney 1000
+Thu Sep 12 23:59:01 2019	DrDerpenstein (STEAM_0:0:13562763) has dropped $1,000
+Thu Sep 12 23:59:21 2019	DrDerpenstein (STEAM_0:0:13562763) disconnected

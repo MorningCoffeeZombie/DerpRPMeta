@@ -1,0 +1,124 @@
+2019-08-02 21.13.46: <General> Logging started, map: rp_downtown_tits_v2.
+2019-08-02 21.13.46: <General> Welcome to VCMod Auto-Updater version 9.61.
+2019-08-02 21.13.46: <General> Pre-initialization complete, preparing to load addon data.
+2019-08-02 21.13.46: <General> Addons found: VCMod ELS, VCMod Main.
+2019-08-02 21.14.23: <General> Preparations started. Server needs to have atleast one player on it for preparations to continue.
+2019-08-02 21.14.27: <General> Preparations are complete, handshaking API.
+2019-08-02 21.14.29: <General> Handshake successful.
+2019-08-02 21.14.29: <General> Handshake finished.
+2019-08-02 21.14.30: <General> Contacting preload API.
+2019-08-02 21.14.30: <General> Initializing preload.
+2019-08-02 21.14.30: <General> Preload finished. Initializing addons.
+2019-08-02 21.14.30: <General> Started loading serverside.
+2019-08-02 21.14.31: <General> Loaded Main v1.737 serverside.
+2019-08-02 21.14.31: <General> Loaded ELS v1.1426 serverside.
+2019-08-02 21.14.31: <General> Finished loading serverside.
+2019-08-02 21.14.32: <General> All repair man NPC's have been placed on the map.
+2019-08-02 21.14.32: <Repair man> all Repair men have been placed on the map.
+2019-08-02 21.14.35: <General> Scanning for potentially incompatible hooks.
+2019-08-02 21.14.35: <General> No incompatibilities found.
+2019-08-02 21.14.35: <General> General vehicle data is up to date.
+2019-08-02 21.14.36: <Fuel> All fuel stations have been respawned.
+2019-08-02 21.17.45: <General> Player DrDerpenstein has loaded and is waiting for a temp-key.
+2019-08-02 21.17.46: <General> Sent API key to player DrDerpenstein. 99 keys left.
+2019-08-02 21.17.46: <General> Initializing player DrDerpenstein.
+2019-08-02 21.34.40: <General> Player William has loaded and is waiting for a temp-key.
+2019-08-02 21.34.41: <General> Sent API key to player William. 98 keys left.
+2019-08-02 21.34.41: <General> Initializing player William.
+2019-08-02 21.48.48: <Car dealer> Player: William(76561198065274788) has sold a vehicle Tesla Model S (TDM Cars) from Car dealer called: "Vroom-Vroom Dealer" for 7500000.
+2019-08-02 21.48.51: <Car dealer> Player: William(76561198065274788) has sold a vehicle Mitsubishi Lancer Evolution X GSR (TDM Cars) from Car dealer called: "Vroom-Vroom Dealer" for 247500.
+2019-08-02 21.48.55: <Car dealer> Player: William(76561198065274788) has sold a vehicle Mini Cooper Coupe (TDM Cars) from Car dealer called: "Vroom-Vroom Dealer" for 1350000.
+2019-08-02 21.49.00: <Car dealer> Player: William(76561198065274788) has sold a vehicle Ford Transit (TDM Cars) from Car dealer called: "Vroom-Vroom Dealer" for 412500.
+2019-08-02 21.49.05: <Car dealer> Player: William(76561198065274788) has sold a vehicle Courier Truck (TDM Commercial) from Car dealer called: "Vroom-Vroom Dealer" for 450000.
+2019-08-02 21.57.35: <General> Player bert simson has loaded and is waiting for a temp-key.
+2019-08-02 21.57.36: <General> Sent API key to player bert simson. 97 keys left.
+2019-08-02 21.57.36: <General> Initializing player bert simson.
+2019-08-02 22.09.10: <General> Player DrDerpenstein has loaded and is waiting for a temp-key.
+2019-08-02 22.09.12: <General> Sent API key to player DrDerpenstein. 96 keys left.
+2019-08-02 22.09.12: <General> Initializing player DrDerpenstein.
+2019-08-02 22.16.21: <Car dealer> Player: DrDerpenstein(76561197987391254) has bought a vehicle Ford Transit (TDM Cars) from Car dealer called: "Get Away Driver" for 250000.
+2019-08-02 22.16.26: <Car dealer> Player: DrDerpenstein(76561197987391254) has bought a vehicle Courier Truck (TDM Commercial) from Car dealer called: "Get Away Driver" for 400000.
+2019-08-02 22.21.02: <General> Player abrienc12 has loaded and is waiting for a temp-key.
+2019-08-02 22.21.03: <General> Sent API key to player abrienc12. 95 keys left.
+2019-08-02 22.21.03: <General> Initializing player abrienc12.
+2019-08-02 22.29.34: <General> Player abrienc12 has loaded and is waiting for a temp-key.
+2019-08-02 22.29.34: <General> Sent API key to player abrienc12. 94 keys left.
+2019-08-02 22.29.34: <General> Initializing player abrienc12.
+2019-08-02 22.38.16: <General> Player Jayden has loaded and is waiting for a temp-key.
+2019-08-02 22.38.16: <General> Sent API key to player Jayden. 93 keys left.
+2019-08-02 22.38.17: <General> Initializing player Jayden.
+2019-08-02 22.46.31: <General> Player bsn has loaded and is waiting for a temp-key.
+2019-08-02 22.46.31: <General> Sent API key to player bsn. 92 keys left.
+2019-08-02 22.46.31: <General> Initializing player bsn.
+2019-08-02 22.50.05: <Car dealer> Player: Jayden(76561198353935275) has spawned a vehicle Ford Crown Victoria (TDM Emergency) from Car dealer called: "Government Dealer".
+2019-08-02 22.50.06: <General> Vehicle data "Ford Crown Victoria" loaded.
+2019-08-02 22.50.24: <Car dealer> Player: Jayden(76561198353935275) has spawned a vehicle Dodge Charger SRT8 Police (TDM Emergency) from Car dealer called: "Government Dealer".
+2019-08-02 22.50.25: <General> Vehicle data "Unknown" loaded.
+2019-08-02 22.50.46: <Car dealer> Player: Jayden(76561198353935275) has spawned a vehicle Holden HSV W427 Police (TDM Emergency) from Car dealer called: "Government Dealer".
+2019-08-02 22.50.46: <General> Vehicle data "Holden HSV W427 Police" loaded.
+2019-08-02 22.51.20: <General> vehicle "Holden HSV W427 Police(TDM Emergency)" has exploded.
+2019-08-02 22.51.20: <General> vehicle "Holden HSV W427 Police(TDM Emergency)" has exploded.
+2019-08-02 23.01.30: <Car dealer> Player: DrDerpenstein(76561197987391254) has bought a vehicle Holden HSV W427 Police (TDM Emergency) from Car dealer called: "Government Dealer" for 0.
+2019-08-02 23.01.46: <Car dealer> Player: DrDerpenstein(76561197987391254) has changed settings for Car dealer called: "Government Dealer".
+2019-08-02 23.36.03: <General> Player abrienc12 has loaded and is waiting for a temp-key.
+2019-08-02 23.36.04: <General> Sent API key to player abrienc12. 91 keys left.
+2019-08-02 23.36.04: <General> Initializing player abrienc12.
+2019-08-02 23.47.01: <Car dealer> Player: bert simson(76561198318956287) has bought a vehicle Courier Truck (TDM Commercial) from Car dealer called: "Get Away Driver" for 400000.
+2019-08-02 23.47.03: <Car dealer> Player: bert simson(76561198318956287) has spawned a vehicle Courier Truck (TDM Commercial) from Car dealer called: "Get Away Driver".
+2019-08-02 23.47.04: <General> Vehicle data "Courier Truck" loaded.
+2019-08-02 23.49.55: <Car dealer> Player: bert simson(76561198318956287) has bought a vehicle Ford Transit (TDM Cars) from Car dealer called: "Get Away Driver" for 250000.
+2019-08-02 23.49.57: <Car dealer> Player: bert simson(76561198318956287) has changed settings for Car dealer called: "Get Away Driver".
+2019-08-02 23.49.59: <Car dealer> Player: bert simson(76561198318956287) has spawned a vehicle Ford Transit (TDM Cars) from Car dealer called: "Get Away Driver".
+2019-08-02 23.50.03: <General> Vehicle data "Ford Transit" loaded.
+2019-08-02 23.51.02: <General> player "bert simson" has changed jobs and can no longer have vehicle: "Ford Transit", removing it.
+2019-08-02 23.51.02: <Car dealer> Player: bert simson(76561198318956287) can not have vehicle "Unknown" ("Unknown") in job: "Police Officer".
+2019-08-03 00.45.45: <General> Player ImTwisted has loaded and is waiting for a temp-key.
+2019-08-03 00.45.47: <General> Sent API key to player ImTwisted. 90 keys left.
+2019-08-03 00.45.47: <General> Initializing player ImTwisted.
+2019-08-03 00.50.57: <General> Player [HBBN] [TUS] codeghostd32 has loaded and is waiting for a temp-key.
+2019-08-03 00.50.58: <General> Sent API key to player [HBBN] [TUS] codeghostd32. 89 keys left.
+2019-08-03 00.50.58: <General> Initializing player [HBBN] [TUS] codeghostd32.
+2019-08-03 00.51.01: <General> Player xXActualBotXx has loaded and is waiting for a temp-key.
+2019-08-03 00.51.02: <General> Sent API key to player xXActualBotXx. 88 keys left.
+2019-08-03 00.51.02: <General> Initializing player xXActualBotXx.
+2019-08-03 00.53.37: <General> Player DrDerpenstein has loaded and is waiting for a temp-key.
+2019-08-03 00.53.37: <General> Sent API key to player DrDerpenstein. 87 keys left.
+2019-08-03 00.53.37: <General> Initializing player DrDerpenstein.
+2019-08-03 00.56.44: <Car dealer> Player: Jayden(76561198353935275) has bought a vehicle Ford Taurus 2013 (TDM Emergency) from Car dealer called: "Government Dealer" for 0.
+2019-08-03 00.56.47: <Car dealer> Player: Jayden(76561198353935275) has spawned a vehicle Ford Taurus 2013 (TDM Emergency) from Car dealer called: "Government Dealer".
+2019-08-03 00.56.47: <General> Vehicle data "Ford Taurus 2013" loaded.
+2019-08-03 00.57.06: <Car dealer> Player: Jayden(76561198353935275) has spawned a vehicle Ford Taurus 2013 (TDM Emergency) from Car dealer called: "Government Dealer".
+2019-08-03 01.01.44: <General> Player xXActualBotXx has loaded and is waiting for a temp-key.
+2019-08-03 01.01.45: <General> Sent API key to player xXActualBotXx. 86 keys left.
+2019-08-03 01.01.45: <General> Initializing player xXActualBotXx.
+2019-08-03 01.02.35: <General> Player [HBBN] [TUS] codeghostd32 has loaded and is waiting for a temp-key.
+2019-08-03 01.02.35: <General> Sent API key to player [HBBN] [TUS] codeghostd32. 85 keys left.
+2019-08-03 01.02.35: <General> Initializing player [HBBN] [TUS] codeghostd32.
+2019-08-03 01.04.36: <General> Player William has loaded and is waiting for a temp-key.
+2019-08-03 01.04.38: <General> Sent API key to player William. 84 keys left.
+2019-08-03 01.04.38: <General> Initializing player William.
+2019-08-03 01.07.03: <General> Player: xXActualBotXx(76561198073025541) has disconnected removing spikestrips.
+2019-08-03 01.10.47: <General> Player xXActualBotXx has loaded and is waiting for a temp-key.
+2019-08-03 01.10.48: <General> Sent API key to player xXActualBotXx. 83 keys left.
+2019-08-03 01.10.48: <General> Initializing player xXActualBotXx.
+2019-08-03 01.11.20: <General> Player ImTwisted has loaded and is waiting for a temp-key.
+2019-08-03 01.11.20: <General> Sent API key to player ImTwisted. 82 keys left.
+2019-08-03 01.11.20: <General> Initializing player ImTwisted.
+2019-08-03 01.12.09: <General> Player Pimpzyy has loaded and is waiting for a temp-key.
+2019-08-03 01.12.10: <General> Sent API key to player Pimpzyy. 81 keys left.
+2019-08-03 01.12.10: <General> Initializing player Pimpzyy.
+2019-08-03 01.14.01: <Car dealer> Player: ImTwisted(76561198354769396) has bought a vehicle Mitsubishi Evo X Police (TDM Emergency) from Car dealer called: "Government Dealer" for 0.
+2019-08-03 01.17.47: <General> Player Pimpzyy has loaded and is waiting for a temp-key.
+2019-08-03 01.17.48: <General> Sent API key to player Pimpzyy. 80 keys left.
+2019-08-03 01.17.48: <General> Initializing player Pimpzyy.
+2019-08-03 01.33.14: <Car dealer> Player: xXActualBotXx(76561198073025541) has bought a vehicle Dodge Charger SRT8 Police (TDM Emergency) from Car dealer called: "Government Dealer" for 0.
+2019-08-03 01.33.15: <Car dealer> Player: xXActualBotXx(76561198073025541) has spawned a vehicle Dodge Charger SRT8 Police (TDM Emergency) from Car dealer called: "Government Dealer".
+2019-08-03 01.34.04: <General> vehicle "Dodge Charger SRT8 Police(TDM Emergency)" has exploded.
+2019-08-03 01.34.04: <General> vehicle "Dodge Charger SRT8 Police(TDM Emergency)" has exploded.
+2019-08-03 01.35.02: <Car dealer> Player: William(76561198065274788) has spawned a vehicle BMW Isetta 300 Export (TDM Cars) from Car dealer called: "Vroom-Vroom Dealer".
+2019-08-03 01.35.04: <General> Vehicle data "BMW Isetta 300 Export" loaded.
+2019-08-03 01.38.23: <General> player "xXActualBotXx" has changed jobs and can no longer have vehicle: "Dodge Charger SRT8 Police", removing it.
+2019-08-03 01.38.23: <Car dealer> Player: xXActualBotXx(76561198073025541) can not have vehicle "Unknown" ("Unknown") in job: "Gun Dealer".
+2019-08-03 03.16.21: <General> Player William has loaded and is waiting for a temp-key.
+2019-08-03 03.16.23: <General> Sent API key to player William. 79 keys left.
+2019-08-03 03.16.23: <General> Initializing player William.

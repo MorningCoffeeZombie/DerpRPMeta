@@ -1,0 +1,159 @@
+; These settings describe the default configuration and text to be shown on the MOTD. This only applies if ulx showMotd is set to 1.
+; All style configuration is set, and the values must be valid CSS.
+; Under info, you may have as many sections as you like. Valid types include "text", "ordered_list", "list".
+; Special type "mods" will automatically list workshop and regular addons in an unordered list.
+; Special type "admins" will automatically list all users within the groups specified in contents.
+; For an example of all of these items, please see the default file generated in ulx\lua\data.lua
+
+"info"	
+{
+	
+	{
+		"type"	"text"
+		"title"	"Rules"
+		"contents"	
+		{
+			"1. Don't minge."
+			"2. Don't troll."
+			"3. Don't RDM."
+			"4. Don't CDM."
+			"5. Don't break NLR. (5 MINUTES) "
+			"6. Don't prop block or prop fly."
+			"7. Don't raid without adverting first unless it's the purge then you don't have to advert. Example: /advert raid "
+			"8. Don't job abuse."
+			"9. Don't abuse exploits."
+			"10. Don't waste admins time."
+			"11. Respect other players."
+			"12. Respect the admins."
+			"13. No putting cameras in other players bases."
+			"14. No crouch bases."
+			"15. Do not go around giving players a bunch of money."
+			"16. Do not ask for money from the staff."
+			"17. Self supplying is allowed as long as you are constantly selling to others."
+			"18. No mic spamming/playing music unless you're a hobo."
+			"19. Do not say racist/sexist/homophobic words directly to affend another player."
+			"20. Do not ask to be made staff."
+			"21. Do not ask for the owner unless it's something only the owner can do."
+			"22. Cops can not wait at the corrupt banker and ambush the robbers when they arrive with money bags."
+			"23. Do not bunnyhop using a script. Do it the hard way."
+			"24. Bribing police to look the other way is allowed."
+			"25. Do not color or put any materials on your vehicles using the tool gun."
+			"26. NO MEGA BASES!"
+			"27. No camping safezones/spawn. This applies to both during the purge and not during the purge."
+			"28. ANY JOB IS ALLOWED TO GIVE THE CORRUPT BANKER MONEY BAGS TO GET CLEAN MONEY BUT POLICE MUST STOP OTHERS FROM DOING SO IF THEY SEE THEM!"
+			"29. NO ADVERTISING OTHER SERVERS OR TRYING TO GET PEOPLE TO LEAVE! THE PUNISHMENT WILL ALWAYS BE A PERMABAN!"
+			"30. If you are to build outside DO NOT block any building's doors and DO NOT block vehicles from driving down streets."
+		}
+	}
+	
+	{
+		"type"	"text"
+		"title"	"Important URLS (Paste the URLS into your browser)"
+		"contents"	
+		{
+			"Forums: http://rpforum.derpdarkrp.nn.pe"
+			"Content: https://steamcommunity.com/sharedfiles/filedetails/?id=1797327391"
+		}
+	}
+	
+	{
+		"type"	"ordered_list"
+		"title"	"Special Commands"
+		"contents"	
+		{
+			"/acc will open the accessory shop."
+			"/casino will open the casino."
+			"!purge_info will show you information about the purge."
+			"@ typing this into chat will allow you to report players or alternatively you can type a message after typing @ to send a message to online admins."
+		}
+	}
+	
+	{
+		"type"	"admins"
+		"title"	"Owners"
+		"contents"	
+		{
+			"owner"
+		}
+	}
+	
+	{
+		"type"	"admins"
+		"title"	"VIP"
+		"contents"	
+		{
+			"vip"
+		}
+	}
+	
+	{
+		"type"	"admins"
+		"title"	"Super Admins"
+		"contents"	
+		{
+			"superadmin"
+		}
+	}
+	
+	{
+		"type"	"admins"
+		"title"	"Admins"
+		"contents"	
+		{
+			"admin"
+		}
+	}
+	
+	{
+		"type"	"admins"
+		"title"	"Moderators"
+		"contents"	
+		{
+			"moderator"
+		}
+	}
+	"description"	"Welcome to DerpRP! Have a good time!"
+}
+"style"	
+{
+	"borders"	
+	{
+		"border_color"	"#000000"
+		"border_thickness"	"2"
+	}
+	"colors"	
+	{
+		"header_text_color"	"#ffffff"
+		"header_color"	"#0081b5"
+		"text_color"	"#ffffff"
+		"background_color"	"#474747"
+		"section_text_color"	"#00d0ff"
+	}
+	"fonts"	
+	{
+		"server_name"	
+		{
+			"weight"	"normal"
+			"family"	"Impact"
+			"size"	"65"
+		}
+		"regular"	
+		{
+			"weight"	"normal"
+			"family"	"Arial Black"
+			"size"	"20"
+		}
+		"subtitle"	
+		{
+			"weight"	"normal"
+			"family"	"Impact"
+			"size"	"40"
+		}
+		"section_title"	
+		{
+			"weight"	"lighter"
+			"family"	"Impact"
+			"size"	"30"
+		}
+	}
+}

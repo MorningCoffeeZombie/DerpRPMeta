@@ -1,0 +1,13 @@
+Sun Aug  4 05:22:26 2019	Derp (STEAM_0:0:52504530) has joined the game
+Sun Aug  4 05:22:26 2019	William (STEAM_0:0:52504530) spawned
+Sun Aug  4 05:24:19 2019	William (STEAM_0:0:52504530): /police
+Sun Aug  4 05:24:28 2019	William (STEAM_0:0:52504530): /chief
+Sun Aug  4 05:24:37 2019	William (STEAM_0:0:52504530): /swat
+Sun Aug  4 05:29:44 2019	William (STEAM_0:0:52504530) disconnected
+Sun Aug  4 05:30:22 2019	Derp (STEAM_0:0:52504530) has joined the game
+Sun Aug  4 05:30:22 2019	William (STEAM_0:0:52504530) spawned
+Sun Aug  4 05:33:05 2019	William was killed by Himself with a suicide trick
+Sun Aug  4 05:33:07 2019	William (STEAM_0:0:52504530) spawned
+Sun Aug  4 05:38:05 2019	William (STEAM_0:0:52504530) disconnected
+Sun Aug  4 05:38:43 2019	Derp (STEAM_0:0:52504530) has joined the game
+Sun Aug  4 05:38:43 2019	William (STEAM_0:0:52504530) spawned

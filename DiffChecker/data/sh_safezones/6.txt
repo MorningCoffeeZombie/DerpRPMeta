@@ -1,0 +1,1 @@
+{"points":["[-1192.0313 -5840.1563 -46.0313]","[-2207.75 -6496.5625 -195.9688]"],"shape":1.0,"opts":{"namecolor":"52,152,219","ptime":30.0,"noprop":false,"noatk":true,"leavemsg":"","entermsg":"","pusg":"","name":"Car Shop","noveh":true,"hud":true,"nonpc":false},"date":1565198221.0,"creator":"STEAM_0:0:52504530","size":319.0,"map":"rp_downtown_tits_v2"}

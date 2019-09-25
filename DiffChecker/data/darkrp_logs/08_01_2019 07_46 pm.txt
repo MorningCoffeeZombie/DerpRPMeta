@@ -1,0 +1,57 @@
+Thu Aug  1 19:46:04 2019	DrDerpenstein sups.gg (STEAM_0:0:13562763) has joined the game
+Thu Aug  1 19:46:04 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Thu Aug  1 19:56:07 2019	Derp (STEAM_0:0:52504530) has joined the game
+Thu Aug  1 19:56:07 2019	William (STEAM_0:0:52504530) spawned
+Thu Aug  1 19:56:32 2019	DrDerpenstein (STEAM_0:0:13562763): its working!
+Thu Aug  1 19:56:38 2019	DrDerpenstein (STEAM_0:0:13562763): mine 1 btc
+Thu Aug  1 19:56:43 2019	DrDerpenstein (STEAM_0:0:13562763): its 750
+Thu Aug  1 19:56:47 2019	DrDerpenstein (STEAM_0:0:13562763): also 6 fuel
+Thu Aug  1 19:56:56 2019	William (STEAM_0:0:52504530): is it worth using bitminers?
+Thu Aug  1 19:57:07 2019	William (STEAM_0:0:52504530): like is it to the point where its not even worth it
+Thu Aug  1 19:57:08 2019	DrDerpenstein (STEAM_0:0:13562763): its a fun gimmic so why not lol
+Thu Aug  1 19:57:25 2019	William (STEAM_0:0:52504530): especially with how much a rack and server costs
+Thu Aug  1 19:57:44 2019	DrDerpenstein (STEAM_0:0:13562763): we can taper those prices at some point
+Thu Aug  1 19:58:05 2019	DrDerpenstein (STEAM_0:0:13562763): im going to make the fuel deplete a lil faster next time
+Thu Aug  1 19:58:09 2019	DrDerpenstein (STEAM_0:0:13562763): this is wayyy too slow
+Thu Aug  1 19:58:16 2019	DrDerpenstein (STEAM_0:0:13562763): but at least its no longer wayyy to fast
+Thu Aug  1 19:58:19 2019	William (STEAM_0:0:52504530): true
+Thu Aug  1 19:59:00 2019	DrDerpenstein (STEAM_0:0:13562763): wanna try installing another one?
+Thu Aug  1 19:59:01 2019	William (STEAM_0:0:52504530): i think the weed mod is gonna require the least amount of tweaking
+Thu Aug  1 19:59:14 2019	DrDerpenstein (STEAM_0:0:13562763): i dont think ive looked at that one yet
+Thu Aug  1 19:59:18 2019	William (STEAM_0:0:52504530): by default it was already a pain in the ass to make money so i buffed it and still it is
+Thu Aug  1 19:59:30 2019	William (STEAM_0:0:52504530): only thing we need to change is the price of seeds
+Thu Aug  1 19:59:33 2019	William (STEAM_0:0:52504530): really thats about it
+Thu Aug  1 19:59:41 2019	William (STEAM_0:0:52504530): before they were too expensive for the risk u had to take
+Thu Aug  1 19:59:43 2019	William (STEAM_0:0:52504530): now they are too cheap
+Thu Aug  1 19:59:56 2019	William (STEAM_0:0:52504530): but still almost no one uses them because of how long and how much work it takes to grow weed
+Thu Aug  1 20:00:17 2019	DrDerpenstein (STEAM_0:0:13562763): its a fun hustle
+Thu Aug  1 20:00:21 2019	DrDerpenstein (STEAM_0:0:13562763): just needs some work
+Thu Aug  1 20:00:48 2019	DrDerpenstein (STEAM_0:0:13562763): meth was changed to require dealers carry the bags
+Thu Aug  1 20:00:50 2019	DrDerpenstein (STEAM_0:0:13562763): // meth was changed to require dealers carry the bags
+Thu Aug  1 20:00:58 2019	William (STEAM_0:0:52504530): oh
+Thu Aug  1 20:01:13 2019	DrDerpenstein (STEAM_0:0:13562763): also using the drug makes you high longer
+Thu Aug  1 20:01:21 2019	DrDerpenstein (STEAM_0:0:13562763): that can be built apon tho
+Thu Aug  1 20:01:23 2019	DrDerpenstein (STEAM_0:0:13562763): upon
+Thu Aug  1 20:01:37 2019	William (STEAM_0:0:52504530): sounds good
+Thu Aug  1 20:01:48 2019	William (STEAM_0:0:52504530): i think the printers are gonna be the biggest pain in the ass to fix
+Thu Aug  1 20:02:02 2019	DrDerpenstein (STEAM_0:0:13562763): i edited the bronze one to see how doable it is
+Thu Aug  1 20:02:15 2019	DrDerpenstein (STEAM_0:0:13562763): we could install the latest printer pack from the repo
+Thu Aug  1 20:02:28 2019	William (STEAM_0:0:52504530): should we just get entirely new printers
+Thu Aug  1 20:02:33 2019	DrDerpenstein (STEAM_0:0:13562763): nah
+Thu Aug  1 20:02:37 2019	William (STEAM_0:0:52504530): these printers are kind of boring and some of the functions are broken
+Thu Aug  1 20:02:41 2019	DrDerpenstein (STEAM_0:0:13562763): these are fairly standard
+Thu Aug  1 20:02:46 2019	DrDerpenstein (STEAM_0:0:13562763): most people know how to use them
+Thu Aug  1 20:02:59 2019	DrDerpenstein (STEAM_0:0:13562763): yea, i adjusted for broken stuff in the code
+Thu Aug  1 20:03:06 2019	DrDerpenstein (STEAM_0:0:13562763): the printers literally break every print rn
+Thu Aug  1 20:03:21 2019	DrDerpenstein (STEAM_0:0:13562763): so i made it less likely but they take longer to payout with a smaller amount
+Thu Aug  1 20:22:39 2019	[DS]KingTurtle (STEAM_0:0:110347521) has joined the game
+Thu Aug  1 20:22:39 2019	Turtle (STEAM_0:0:110347521) spawned
+Thu Aug  1 20:23:01 2019	DrDerpenstein (STEAM_0:0:13562763): // hello turtle
+Thu Aug  1 20:23:30 2019	Turtle (STEAM_0:0:110347521): sup
+Thu Aug  1 20:24:04 2019	DrDerpenstein (STEAM_0:0:13562763): we're developing stuff rn
+Thu Aug  1 20:24:09 2019	Turtle (STEAM_0:0:110347521): cool
+Thu Aug  1 20:24:29 2019	William (STEAM_0:0:52504530): expect the server to restart pretty soon
+Thu Aug  1 20:24:35 2019	Turtle (STEAM_0:0:110347521): ok
+Thu Aug  1 20:25:53 2019	William (STEAM_0:0:52504530): restarting now
+Thu Aug  1 20:26:01 2019	DrDerpenstein (STEAM_0:0:13562763): yeet!
+Thu Aug  1 20:26:04 2019	William was killed by Himself with a suicide trick

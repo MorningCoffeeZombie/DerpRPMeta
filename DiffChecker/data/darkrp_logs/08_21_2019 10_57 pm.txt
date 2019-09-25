@@ -1,0 +1,156 @@
+Wed Aug 21 22:57:23 2019	DrDerpenstein sups.gg (STEAM_0:0:13562763) has joined the game
+Wed Aug 21 22:57:23 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Wed Aug 21 22:57:30 2019	Derp (STEAM_0:0:52504530) has joined the game
+Wed Aug 21 22:57:30 2019	William (STEAM_0:0:52504530) spawned
+Wed Aug 21 22:59:08 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Wed Aug 21 23:00:36 2019	DrDerpenstein (STEAM_0:0:13562763): cw_dp_ar15
+Wed Aug 21 23:07:26 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_healthkit
+Wed Aug 21 23:07:26 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_healthkit
+Wed Aug 21 23:07:26 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_healthkit
+Wed Aug 21 23:07:27 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_healthkit
+Wed Aug 21 23:07:27 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_healthkit
+Wed Aug 21 23:07:27 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Wed Aug 21 23:07:27 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Wed Aug 21 23:07:27 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Wed Aug 21 23:07:28 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Wed Aug 21 23:07:28 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Wed Aug 21 23:07:28 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Wed Aug 21 23:07:28 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Wed Aug 21 23:07:28 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Wed Aug 21 23:08:34 2019	DrDerpenstein (STEAM_0:0:13562763) disconnected
+Wed Aug 21 23:16:17 2019	William was killed by Entity [0][worldspawn] with a unknown
+Wed Aug 21 23:16:19 2019	William (STEAM_0:0:52504530) spawned
+Thu Aug 22 00:07:47 2019	DrDerpenstein sups.gg (STEAM_0:0:13562763) has joined the game
+Thu Aug 22 00:07:47 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Thu Aug 22 00:10:09 2019	William (STEAM_0:0:52504530) spawned SENT bm2_bitminer_server
+Thu Aug 22 00:10:10 2019	William (STEAM_0:0:52504530) spawned SENT bm2_bitminer_rack
+Thu Aug 22 00:10:13 2019	William (STEAM_0:0:52504530) spawned SENT bm2_bitminer_rack
+Thu Aug 22 00:10:13 2019	William (STEAM_0:0:52504530) spawned SENT bm2_bitminer_rack
+Thu Aug 22 00:10:14 2019	William (STEAM_0:0:52504530) spawned SENT bm2_bitminer_rack
+Thu Aug 22 00:10:14 2019	William (STEAM_0:0:52504530) spawned SENT bm2_bitminer_rack
+Thu Aug 22 00:12:54 2019	William was killed by Entity [0][worldspawn] with a unknown
+Thu Aug 22 00:12:56 2019	William (STEAM_0:0:52504530) spawned
+Thu Aug 22 00:16:43 2019	William was killed by Entity [0][worldspawn] with a unknown
+Thu Aug 22 00:16:47 2019	William (STEAM_0:0:52504530) spawned
+Thu Aug 22 00:27:49 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Thu Aug 22 00:30:37 2019	DrDerpenstein (STEAM_0:0:13562763): cw_m14
+Thu Aug 22 00:30:48 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Thu Aug 22 00:30:48 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Thu Aug 22 00:30:48 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Thu Aug 22 00:30:48 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Thu Aug 22 00:30:55 2019	DrDerpenstein (STEAM_0:0:13562763): cw_m14
+Thu Aug 22 00:34:47 2019	DrDerpenstein (STEAM_0:0:13562763): /cacino
+Thu Aug 22 00:34:51 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Thu Aug 22 00:35:09 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Thu Aug 22 00:37:06 2019	William (STEAM_0:0:52504530): 
+Thu Aug 22 00:39:49 2019	William (STEAM_0:0:52504530): 
+Thu Aug 22 00:40:06 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Thu Aug 22 00:40:31 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Thu Aug 22 00:41:59 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Thu Aug 22 00:44:04 2019	William was killed by DrDerpenstein with a weapon_fists
+Thu Aug 22 00:44:05 2019	William (STEAM_0:0:52504530) spawned
+Thu Aug 22 00:44:15 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_healthkit
+Thu Aug 22 00:44:15 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_healthkit
+Thu Aug 22 00:44:15 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_healthkit
+Thu Aug 22 00:44:16 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Thu Aug 22 00:44:16 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Thu Aug 22 00:44:22 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_suitcharger
+Thu Aug 22 00:44:24 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_suitcharger
+Thu Aug 22 00:44:36 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Thu Aug 22 00:44:36 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Thu Aug 22 00:44:36 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Thu Aug 22 00:44:36 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Thu Aug 22 00:44:36 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Thu Aug 22 00:46:14 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_healthkit
+Thu Aug 22 00:46:15 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_healthkit
+Thu Aug 22 00:56:29 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_smg1_large
+Thu Aug 22 00:56:29 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_smg1_large
+Thu Aug 22 00:56:29 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_smg1_large
+Thu Aug 22 00:56:30 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_smg1_large
+Thu Aug 22 00:56:30 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_smg1_large
+Thu Aug 22 01:01:21 2019	Tank man (STEAM_0:0:512079587) has joined the game
+Thu Aug 22 01:01:21 2019	Tank man (STEAM_0:0:512079587) spawned
+Thu Aug 22 01:02:00 2019	Tank man (STEAM_0:0:512079587) spawned
+Thu Aug 22 01:03:07 2019	William (STEAM_0:0:52504530): hi
+Thu Aug 22 01:03:11 2019	Tank man (STEAM_0:0:512079587): yo
+Thu Aug 22 01:03:23 2019	William was killed by Tank man with a cw_dpe_mp412_rex
+Thu Aug 22 01:03:25 2019	William (STEAM_0:0:52504530) spawned
+Thu Aug 22 01:03:36 2019	Tank man (STEAM_0:0:512079587): i love my life
+Thu Aug 22 01:03:53 2019	Tank man (STEAM_0:0:512079587): earth is fucked
+Thu Aug 22 01:04:23 2019	Tank man (STEAM_0:0:512079587): tank man#7436
+Thu Aug 22 01:05:03 2019	DrDerpenstein (STEAM_0:0:13562763): .
+Thu Aug 22 01:05:15 2019	Tank man (STEAM_0:0:512079587): 30,000
+Thu Aug 22 01:05:24 2019	Tank man (STEAM_0:0:512079587): for the gun
+Thu Aug 22 01:05:37 2019	William (STEAM_0:0:52504530): /dropmoney 25000
+Thu Aug 22 01:05:38 2019	William (STEAM_0:0:52504530) has dropped $25,000
+Thu Aug 22 01:05:47 2019	William (STEAM_0:0:52504530): /dropmoney 25000
+Thu Aug 22 01:05:48 2019	William (STEAM_0:0:52504530) has dropped $25,000
+Thu Aug 22 01:05:50 2019	William (STEAM_0:0:52504530): /dropmoney 25000
+Thu Aug 22 01:05:51 2019	William (STEAM_0:0:52504530) has dropped $25,000
+Thu Aug 22 01:05:54 2019	William (STEAM_0:0:52504530): /dropmoney 25000
+Thu Aug 22 01:05:55 2019	William (STEAM_0:0:52504530) has dropped $25,000
+Thu Aug 22 01:06:00 2019	Tank man (STEAM_0:0:512079587): y
+Thu Aug 22 01:06:08 2019	Tank man (STEAM_0:0:512079587): well shit
+Thu Aug 22 01:06:28 2019	Tank man (STEAM_0:0:512079587) spawned
+Thu Aug 22 01:06:38 2019	William was killed by DrDerpenstein with a cw_dpe_mp412_rex
+Thu Aug 22 01:06:43 2019	William (STEAM_0:0:52504530) spawned
+Thu Aug 22 01:06:49 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_healthkit
+Thu Aug 22 01:06:49 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Thu Aug 22 01:06:50 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Thu Aug 22 01:06:50 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Thu Aug 22 01:06:50 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Thu Aug 22 01:06:50 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Thu Aug 22 01:07:32 2019	Tank man (STEAM_0:0:512079587) disconnected
+Thu Aug 22 01:10:25 2019	William (STEAM_0:0:52504530): well im gonna go to bed now
+Thu Aug 22 01:10:34 2019	William (STEAM_0:0:52504530): have a goodnight bro
+Thu Aug 22 01:10:34 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_healthkit
+Thu Aug 22 01:10:35 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_healthkit
+Thu Aug 22 01:10:36 2019	DrDerpenstein (STEAM_0:0:13562763): ok
+Thu Aug 22 01:10:40 2019	DrDerpenstein (STEAM_0:0:13562763): u tooo
+Thu Aug 22 01:10:42 2019	William was killed by Himself with a suicide trick
+Thu Aug 22 01:10:45 2019	William (STEAM_0:0:52504530) disconnected
+Thu Aug 22 01:10:58 2019	DrDerpenstein (STEAM_0:0:13562763) disconnected
+Thu Aug 22 16:43:07 2019	theresamaston (STEAM_0:1:442389183) has joined the game
+Thu Aug 22 16:43:07 2019	CJC (STEAM_0:1:442389183) spawned
+Thu Aug 22 16:44:09 2019	CJC (STEAM_0:1:442389183) spawned
+Thu Aug 22 16:44:26 2019	CJC (STEAM_0:1:442389183) spawned
+Thu Aug 22 16:44:43 2019	CJC (STEAM_0:1:442389183): /invholster
+Thu Aug 22 16:44:56 2019	CJC (STEAM_0:1:442389183) disconnected
+Thu Aug 22 17:18:33 2019	Turtleluck (STEAM_0:0:4113812) has joined the game
+Thu Aug 22 17:18:33 2019	Turtleluck (STEAM_0:0:4113812) spawned
+Thu Aug 22 17:22:53 2019	Turtleluck (STEAM_0:0:4113812) spawned
+Thu Aug 22 17:23:54 2019	Turtleluck (STEAM_0:0:4113812) spawned
+Thu Aug 22 17:29:41 2019	Derp (STEAM_0:0:52504530) has joined the game
+Thu Aug 22 17:29:41 2019	William (STEAM_0:0:52504530) spawned
+Thu Aug 22 17:30:18 2019	William (STEAM_0:0:52504530): hello
+Thu Aug 22 17:30:26 2019	Turtleluck was killed by Himself with a suicide trick
+Thu Aug 22 17:30:32 2019	Turtleluck (STEAM_0:0:4113812) spawned
+Thu Aug 22 17:31:30 2019	William (STEAM_0:0:52504530): say that again sorry
+Thu Aug 22 17:31:39 2019	William (STEAM_0:0:52504530): oh
+Thu Aug 22 17:31:55 2019	William (STEAM_0:0:52504530): i can send u the collection if u want
+Thu Aug 22 17:31:58 2019	William (STEAM_0:0:52504530): u can download the addons there
+Thu Aug 22 17:32:12 2019	William (STEAM_0:0:52504530): https://steamcommunity.com/sharedfiles/filedetails/?id=1797327391
+Thu Aug 22 17:32:27 2019	William (STEAM_0:0:52504530): if that doesnt work just press F4 and go to info and then click on workshop
+Thu Aug 22 17:40:12 2019	Turtleluck (STEAM_0:0:4113812) disconnected
+Thu Aug 22 17:41:38 2019	William (STEAM_0:0:52504530) disconnected
+Thu Aug 22 17:45:39 2019	Turtleluck (STEAM_0:0:4113812) has joined the game
+Thu Aug 22 17:45:39 2019	Turtleluck (STEAM_0:0:4113812) spawned
+Thu Aug 22 17:46:34 2019	Turtleluck (STEAM_0:0:4113812) spawned
+Thu Aug 22 17:47:01 2019	Turtleluck (STEAM_0:0:4113812) spawned
+Thu Aug 22 17:47:30 2019	Turtleluck (STEAM_0:0:4113812) spawned
+Thu Aug 22 17:48:17 2019	Turtleluck (STEAM_0:0:4113812) spawned
+Thu Aug 22 17:48:33 2019	Turtleluck (STEAM_0:0:4113812) spawned
+Thu Aug 22 17:49:27 2019	Turtleluck (STEAM_0:0:4113812) spawned
+Thu Aug 22 17:51:39 2019	Turtleluck (STEAM_0:0:4113812) spawned Vehicle prop_vehicle_jeep (gallardospydtdm)
+Thu Aug 22 17:52:14 2019	Turtleluck (STEAM_0:0:4113812) spawned Vehicle prop_vehicle_jeep (furaitdm)
+Thu Aug 22 17:53:06 2019	Turtleluck (STEAM_0:0:4113812) spawned Vehicle prop_vehicle_jeep (gallardospydtdm)
+Thu Aug 22 17:55:41 2019	Turtleluck (STEAM_0:0:4113812) spawned Vehicle prop_vehicle_jeep (gallardospydtdm)
+Thu Aug 22 19:15:33 2019	Turtleluck was killed by Himself with a suicide trick
+Thu Aug 22 19:45:46 2019	theresamaston (STEAM_0:1:442389183) has joined the game
+Thu Aug 22 19:45:46 2019	CJC (STEAM_0:1:442389183) spawned
+Thu Aug 22 19:47:01 2019	CJC (STEAM_0:1:442389183): /invholster
+Thu Aug 22 19:47:22 2019	CJC (STEAM_0:1:442389183): /invholster
+Thu Aug 22 19:47:39 2019	CJC (STEAM_0:1:442389183): turtle
+Thu Aug 22 19:48:43 2019	CJC (STEAM_0:1:442389183) spawned Vehicle prop_vehicle_jeep (gallardospydtdm)
+Thu Aug 22 19:48:43 2019	Turtleluck (STEAM_0:0:4113812) disconnected
+Thu Aug 22 19:49:34 2019	CJC (STEAM_0:1:442389183) disconnected

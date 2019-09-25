@@ -1,0 +1,164 @@
+"STEAM_0:1:91231746"	
+{
+	"name"	"Bastixx"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"vip"
+}
+"STEAM_0:1:54419867"	
+{
+	"allow"	
+	{
+	}
+	"name"	"bananap00p"
+	"deny"	
+	{
+	}
+	"group"	"superadmin"
+}
+"STEAM_0:1:63382511"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"Sukebena-Chan"
+	"group"	"superadmin"
+}
+"STEAM_0:0:52504530"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"Derp"
+	"group"	"owner"
+}
+"STEAM_0:0:13562763"	
+{
+	"name"	"DrDerpenstein"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"owner"
+}
+"STEAM_0:1:80896282"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"b3ar"
+	"group"	"moderator"
+}
+"STEAM_0:0:38568814"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"acewinters"
+	"group"	"vip"
+}
+"STEAM_0:0:86269452"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"Bobbicus"
+	"group"	"admin"
+}
+"STEAM_0:0:121940340"	
+{
+	"allow"	
+	{
+	}
+	"name"	"xd MrShrimp"
+	"deny"	
+	{
+	}
+	"group"	"moderator"
+}
+"STEAM_0:1:508601712"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"malicousbee"
+}
+"STEAM_0:1:119864290"	
+{
+	"allow"	
+	{
+	}
+	"name"	"jtroll1942"
+	"deny"	
+	{
+	}
+	"group"	"moderator"
+}
+"STEAM_0:1:95023662"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"(͠≖ ͜ʖ͠≖)"
+	"group"	"vip"
+}
+"STEAM_0:0:97157625"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"DevL"
+	"group"	"admin"
+}
+"STEAM_0:0:497465680"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Sodium Chloride"
+	"deny"	
+	{
+	}
+	"group"	"superadmin"
+}
+"STEAM_0:1:180622613"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"UG | M A S T E R"
+	"group"	"owner"
+}

@@ -1,0 +1,77 @@
+Thu Jul 18 17:32:44 2019	Derp (STEAM_0:0:52504530) has joined the game
+Thu Jul 18 17:32:44 2019	William (STEAM_0:0:52504530) spawned
+Thu Jul 18 17:32:52 2019	Bobbicus (STEAM_0:0:86269452) has joined the game
+Thu Jul 18 17:32:52 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Thu Jul 18 17:32:57 2019	RICARDO (STEAM_0:1:125273257) has joined the game
+Thu Jul 18 17:32:57 2019	RICARDO (STEAM_0:1:125273257) spawned
+Thu Jul 18 17:32:59 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) has joined the game
+Thu Jul 18 17:32:59 2019	BexGasm (STEAM_0:1:63382511) spawned
+Thu Jul 18 17:33:01 2019	LV (STEAM_0:0:460419170) has joined the game
+Thu Jul 18 17:33:01 2019	LV (STEAM_0:0:460419170) spawned
+Thu Jul 18 17:33:28 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662) has joined the game
+Thu Jul 18 17:33:28 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662) spawned
+Thu Jul 18 17:33:33 2019	UG | M A S T E R (STEAM_0:1:180622613) has joined the game
+Thu Jul 18 17:33:33 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Thu Jul 18 17:33:34 2019	BexGasm (STEAM_0:1:63382511): // what just happened
+Thu Jul 18 17:33:42 2019	BexGasm (STEAM_0:1:63382511): // why did the server restart
+Thu Jul 18 17:33:46 2019	Bobbicus (STEAM_0:0:86269452): it just did
+Thu Jul 18 17:34:21 2019	LV (STEAM_0:0:460419170) disconnected
+Thu Jul 18 17:34:56 2019	jtroll1942 (STEAM_0:1:119864290) has joined the game
+Thu Jul 18 17:34:56 2019	jtroll1942 (STEAM_0:1:119864290) spawned
+Thu Jul 18 17:35:30 2019	LV (STEAM_0:0:460419170) has joined the game
+Thu Jul 18 17:35:30 2019	LV (STEAM_0:0:460419170) spawned
+Thu Jul 18 17:36:59 2019	BexGasm was killed by (͠≖ ͜ʖ͠≖) (DC) with a fas2_ks23
+Thu Jul 18 17:37:00 2019	jtroll1942 (STEAM_0:1:119864290): /drop wepon
+Thu Jul 18 17:37:01 2019	BexGasm (STEAM_0:1:63382511) spawned
+Thu Jul 18 17:37:24 2019	BexGasm (STEAM_0:1:63382511): !warns
+Thu Jul 18 17:38:16 2019	William (STEAM_0:0:52504530) spawned
+Thu Jul 18 17:38:16 2019	UG | M A S T E R (STEAM_0:1:180622613): !unragdoll Will
+Thu Jul 18 17:38:27 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Thu Jul 18 17:38:45 2019	UG | M A S T E R (STEAM_0:1:180622613): Alright, one more restart and fadmin should be disabled fully
+Thu Jul 18 17:40:02 2019	RICARDO (STEAM_0:1:125273257): !goto will
+Thu Jul 18 17:40:39 2019	BexGasm (STEAM_0:1:63382511): /pm will how do you check someones bank
+Thu Jul 18 17:41:57 2019	BexGasm (STEAM_0:1:63382511): !cloak bex 255
+Thu Jul 18 17:42:12 2019	BexGasm (STEAM_0:1:63382511): /pm will f4 menu doesnt work
+Thu Jul 18 17:42:43 2019	BexGasm (STEAM_0:1:63382511): /pm will what
+Thu Jul 18 17:42:47 2019	BexGasm (STEAM_0:1:63382511) spawned SENT itemstore_bank
+Thu Jul 18 17:42:54 2019	BexGasm (STEAM_0:1:63382511) spawned SENT titlestore_corenpc
+Thu Jul 18 17:42:58 2019	BexGasm (STEAM_0:1:63382511): 
+Thu Jul 18 17:43:41 2019	BexGasm (STEAM_0:1:63382511): 
+Thu Jul 18 17:44:51 2019	BexGasm (STEAM_0:1:63382511): 
+Thu Jul 18 17:45:08 2019	The Companion Cube (STEAM_0:0:94296198) has joined the game
+Thu Jul 18 17:45:08 2019	The Companion Cube (STEAM_0:0:94296198) spawned
+Thu Jul 18 17:45:23 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /drop
+Thu Jul 18 17:45:31 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /drop
+Thu Jul 18 17:46:40 2019	The Companion Cube (STEAM_0:0:94296198) disconnected
+Thu Jul 18 17:46:45 2019	BexGasm (STEAM_0:1:63382511): 
+Thu Jul 18 17:49:02 2019	The Companion Cube (STEAM_0:0:94296198) has joined the game
+Thu Jul 18 17:49:02 2019	The Companion Cube (STEAM_0:0:94296198) spawned
+Thu Jul 18 17:49:09 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): 
+Thu Jul 18 17:49:15 2019	BexGasm (STEAM_0:1:63382511): // Bobbicus please stop
+Thu Jul 18 17:49:20 2019	Bobbicus (STEAM_0:0:86269452): :( ok
+Thu Jul 18 17:49:20 2019	BexGasm (STEAM_0:1:63382511): // You're lagging the server
+Thu Jul 18 17:49:36 2019	LV (STEAM_0:0:460419170): /pm bex hey bex can you come to me
+Thu Jul 18 17:49:36 2019	jtroll1942 (STEAM_0:1:119864290): its not the vape its them editing the sever
+Thu Jul 18 17:49:43 2019	BexGasm (STEAM_0:1:63382511): !uncloak bex
+Thu Jul 18 17:49:44 2019	BexGasm (STEAM_0:1:63382511): !goto lv
+Thu Jul 18 17:49:50 2019	LV (STEAM_0:0:460419170): my f4 wont work
+Thu Jul 18 17:49:54 2019	UG | M A S T E R (STEAM_0:1:180622613): // I'm restrict mega vape!
+Thu Jul 18 17:50:05 2019	BexGasm (STEAM_0:1:63382511): // Please dont use the megavape.
+Thu Jul 18 17:50:06 2019	LV (STEAM_0:0:460419170): can you tell me the command to buy the lean cups
+Thu Jul 18 17:50:07 2019	BexGasm (STEAM_0:1:63382511): // It lags.
+Thu Jul 18 17:50:13 2019	The Companion Cube (STEAM_0:0:94296198): /ooc PLZ NO CRASH
+Thu Jul 18 17:50:15 2019	BexGasm (STEAM_0:1:63382511): // It lags.
+Thu Jul 18 17:50:22 2019	The Companion Cube (STEAM_0:0:94296198) disconnected
+Thu Jul 18 17:50:26 2019	LV (STEAM_0:0:460419170): /buyleancup
+Thu Jul 18 17:50:29 2019	LV (STEAM_0:0:460419170): press f1
+Thu Jul 18 17:50:34 2019	LV (STEAM_0:0:460419170): there is commands
+Thu Jul 18 17:50:52 2019	LV (STEAM_0:0:460419170): if any one needs help there are the commands
+Thu Jul 18 17:51:00 2019	BexGasm (STEAM_0:1:63382511): !cloak bex 255
+Thu Jul 18 17:51:00 2019	LV (STEAM_0:0:460419170): /buyleancup
+Thu Jul 18 17:51:01 2019	LV (STEAM_0:0:460419170): /buyleancup
+Thu Jul 18 17:51:08 2019	BexGasm (STEAM_0:1:63382511): 
+Thu Jul 18 17:51:10 2019	LV (STEAM_0:0:460419170): /buyleancup
+Thu Jul 18 17:51:15 2019	LV (STEAM_0:0:460419170): /buyleancup
+Thu Jul 18 17:51:25 2019	BexGasm (STEAM_0:1:63382511): 
+Thu Jul 18 17:51:31 2019	UG | M A S T E R (STEAM_0:1:180622613): hi
+Thu Jul 18 17:52:03 2019	UG | M A S T E R was killed by RICARDO with a csgo_huntsman_case

@@ -1,0 +1,43 @@
+Sun Jul 14 00:26:11 2019	UG | M A S T E R (STEAM_0:1:180622613) has joined the game
+Sun Jul 14 00:26:11 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Sun Jul 14 00:27:00 2019	Derp (STEAM_0:0:52504530) has joined the game
+Sun Jul 14 00:27:00 2019	Derp (STEAM_0:0:52504530) spawned
+Sun Jul 14 00:27:52 2019	Derp (STEAM_0:0:52504530) spawned SENT double_or_nothing
+Sun Jul 14 00:34:09 2019	UG | M A S T E R (STEAM_0:1:180622613) disconnected
+Sun Jul 14 00:34:26 2019	UG | M A S T E R (STEAM_0:1:180622613) has joined the game
+Sun Jul 14 00:34:26 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Sun Jul 14 00:34:48 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT ariechart
+Sun Jul 14 00:34:50 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT arieinformation
+Sun Jul 14 00:34:51 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT arierules
+Sun Jul 14 00:34:51 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT ariesite
+Sun Jul 14 00:35:09 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT ariechart
+Sun Jul 14 00:35:13 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT ariechart
+Sun Jul 14 00:35:16 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT arieinformation
+Sun Jul 14 00:35:18 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT arieinformation
+Sun Jul 14 00:35:28 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT arierules
+Sun Jul 14 00:35:34 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT ariesite
+Sun Jul 14 00:35:42 2019	UG | M A S T E R (STEAM_0:1:180622613): hi
+Sun Jul 14 00:35:45 2019	UG | M A S T E R (STEAM_0:1:180622613): this looks nice
+Sun Jul 14 00:36:26 2019	Derp (STEAM_0:0:52504530): that looks really good
+Sun Jul 14 00:38:48 2019	Derp (STEAM_0:0:52504530): /ad fuck u
+Sun Jul 14 00:38:51 2019	Derp (STEAM_0:0:52504530): 
+Sun Jul 14 00:40:09 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT arieinformation
+Sun Jul 14 00:40:15 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT arieinformation
+Sun Jul 14 00:40:23 2019	UG | M A S T E R (STEAM_0:1:180622613): I can change the model to something else/
+Sun Jul 14 00:42:25 2019	Derp (STEAM_0:0:52504530) disconnected
+Sun Jul 14 00:43:01 2019	Derp (STEAM_0:0:52504530) has joined the game
+Sun Jul 14 00:43:01 2019	Derp (STEAM_0:0:52504530) spawned
+Sun Jul 14 00:43:26 2019	Derp (STEAM_0:0:52504530) spawned SENT double_or_nothing
+Sun Jul 14 00:45:03 2019	UG | M A S T E R (STEAM_0:1:180622613) disconnected
+Sun Jul 14 00:46:37 2019	UG | M A S T E R (STEAM_0:1:180622613) has joined the game
+Sun Jul 14 00:46:37 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Sun Jul 14 00:48:45 2019	UG | M A S T E R (STEAM_0:1:180622613): like the hud?
+Sun Jul 14 00:53:01 2019	Derp (STEAM_0:0:52504530): oh yeah
+Sun Jul 14 00:54:15 2019	Derp (STEAM_0:0:52504530) spawned SENT double_or_nothing
+Sun Jul 14 00:54:19 2019	Derp (STEAM_0:0:52504530) spawned SENT double_or_nothing
+Sun Jul 14 00:54:20 2019	Derp (STEAM_0:0:52504530) spawned SENT double_or_nothing
+Sun Jul 14 00:54:41 2019	Derp (STEAM_0:0:52504530) spawned SENT double_or_nothing
+Sun Jul 14 00:55:22 2019	Derp (STEAM_0:0:52504530) spawned SENT double_or_nothing
+Sun Jul 14 00:58:23 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Sun Jul 14 01:20:23 2019	UG | M A S T E R (STEAM_0:1:180622613): hi
+Sun Jul 14 01:20:27 2019	Derp (STEAM_0:0:52504530): did u see what i sent u

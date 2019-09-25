@@ -1,0 +1,92 @@
+local function formatUlxData()
+    local data = table.Copy( ULib.ucl.users );
+
+    local byGroups = {}
+
+    for k,v in pairs( data ) do
+        if ( !v or !type(v) == "table" or !v.group ) then
+            continue;
+        end
+
+        if ( !byGroups[ v.group ] ) then
+            byGroups[ v.group ] = 0
+        end
+
+        byGroups[ v.group ] = byGroups[ v.group ] + 1
+    end
+
+    for groupName,groupCount in pairs( byGroups ) do
+        if ( groupCount >= 500 ) then
+             MistForum:consoleMessage('Ulx users with rank of "'..groupName..'" has over 500 records, we are not going to sync them.')
+
+             for k,v in pairs( data ) do
+                if ( v.group == groupName ) then
+                    data[ k ] = null;
+                end
+             end
+
+        end
+    end
+
+    if ( table.Count( data ) >= 1000 ) then
+        MistForum:consoleMessage('You have too many ULX users (>=1000), this will most likely not work with ingame syncing. Its a bad practice to have this many ranks.')
+    end
+
+    return data;
+end
+
+local function syncUlxRanks()
+	if ( ULib && MistForum.getForum() && MistForum.getForum().no_ulx_sync == 0 ) then
+		MistForum:post('ulx/sync', { ['ulx_roles'] = util.TableToJSON( formatUlxData( ULib.ucl.users ) ) })
+	end
+end
+
+hook.Add("UCLChanged", "mistForum.ucl.users.changed", syncUlxRanks)
+hook.Add("OnServerSynced", "mistforums.syncRoles", syncUlxRanks);
+
+timer.Simple( 1, function()
+	if ( ULib ) then
+		ULib.addOldBan = ULib.addOldBan or ULib.addBan
+		
+		function ULib.addBan( steamid, time, reason, name, admin )
+			local ipaddress = MistForum.getServerIp()
+
+			if ( time > 999999 ) then
+				time = 0
+			end
+			
+			local data = {}
+			data['ipaddress'] = ipaddress
+			data['steamid'] = util.SteamIDTo64( steamid )
+			data['length'] = time
+			data['reason'] = reason
+
+			local admin_name
+
+			if admin then
+				admin_name = "(Console)"
+				if IsValid( admin ) then
+					admin_name = string.format( "%s(%s)", admin:Name(), util.SteamIDTo64( admin:SteamID() ) )
+				end
+			end
+
+			data['admin'] = admin_name
+
+			MistForum:post( 'ban', data )
+
+			return ULib.addOldBan( steamid, time, reason, name, admin )
+		end
+		
+		ULib.oldUnBan = ULib.oldUnBan or ULib.unban
+		
+		function ULib.unban( steamid, admin )
+			MistForum:post( 'unban', {['steamid'] = util.SteamIDTo64( steamid )} )
+			
+			return ULib.oldUnBan( steamid, admin )
+		end
+		
+		print("[MistForums] Rewriten ULX functions")
+	else
+		print("[MistForums] No ULX identified")
+	end	
+end)

@@ -1,0 +1,10 @@
+{"url":"https://derprpdonationsite.mistforums.com/api/ban",
+"data":"{\"api_secret\":\"jguWNKiEiAm9TkHS6MI60YZyG5JGXt\",
+\"reason\":\"Saying the nword. Honestly fuck off and kys racist bastard\",
+\"ipaddress\":\"131.153.31.254\",
+\"admin\":\"DrDerpenstein(76561197987391254)\",
+\"api_key\":\"M9E17SKcEt1Bqj2kfjJavz9a67mQET\",
+\"length\":\"0\",
+\"game_server_id\":\"27063\",
+\"steamid\":\"76561198174398355\"}",
+"errorMsg":"unsuccessful"}

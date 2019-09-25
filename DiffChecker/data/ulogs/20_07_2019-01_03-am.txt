@@ -1,0 +1,107 @@
+20/07/2019 - 01:03:28 AM	Derp(Joining/Connecting) connected from the server
+20/07/2019 - 01:03:39 AM	Dio(Joining/Connecting) connected from the server
+20/07/2019 - 01:03:47 AM	(͠≖ ͜ʖ͠≖) (DC)(Joining/Connecting) connected from the server
+20/07/2019 - 01:03:55 AM	Zookie 〈メイド〉(Joining/Connecting) connected from the server
+20/07/2019 - 01:04:01 AM	Doof(Joining/Connecting) connected from the server
+20/07/2019 - 01:04:05 AM	Blumbing(Joining/Connecting) connected from the server
+20/07/2019 - 01:04:16 AM	RICARDO(Joining/Connecting) connected from the server
+20/07/2019 - 01:04:17 AM	Dio(Citizen) said '!warn'
+20/07/2019 - 01:04:40 AM	William(Citizen) said 'alright next restart i will be disabling voice chat'
+20/07/2019 - 01:04:44 AM	Littl3Drumm3rBoi(Joining/Connecting) connected from the server
+20/07/2019 - 01:04:52 AM	Assistant Blumbing(Citizen) entered 'FPP_SetBuddy'
+20/07/2019 - 01:05:01 AM	BexGasm(Citizen) said '!slay dio'
+20/07/2019 - 01:05:01 AM	BexGasm(Citizen) used ULX command ' slay dio'
+20/07/2019 - 01:05:01 AM	[KILL] Dio(Citizen) killed himself
+20/07/2019 - 01:05:07 AM	William(Citizen) used ULX command ' slay $1265441469'
+20/07/2019 - 01:05:07 AM	[KILL] BexGasm(Citizen) killed himself
+20/07/2019 - 01:05:09 AM	[KILL] Dio(Citizen) killed himself
+20/07/2019 - 01:05:12 AM	BexGasm(Citizen) used ULX command ' noclip'
+20/07/2019 - 01:05:14 AM	[KILL] BexGasm(Citizen) killed William(Citizen) with 120 damage using fas2_ks23
+20/07/2019 - 01:05:15 AM	Dio(Dio Brando) changed his team from 'Citizen' to 'Dio Brando'
+20/07/2019 - 01:05:18 AM	BexGasm(Citizen) used ULX command ' noclip'
+20/07/2019 - 01:05:18 AM	Assistant Blumbing(City Worker) changed his team from 'Citizen' to 'City Worker'
+20/07/2019 - 01:05:18 AM	William(Citizen) used ULX command ' slay $1265441469'
+20/07/2019 - 01:05:18 AM	[KILL] BexGasm(Citizen) killed himself
+20/07/2019 - 01:05:21 AM	BexGasm(Citizen) used ULX command ' noclip'
+20/07/2019 - 01:05:21 AM	[KILL] Dio(Dio Brando) killed himself
+20/07/2019 - 01:05:22 AM	BexGasm(Citizen) used ULX command ' noclip'
+20/07/2019 - 01:05:24 AM	William(Citizen) said 'i cant talk rn'
+20/07/2019 - 01:05:27 AM	[KILL] Dio(Dio Brando) killed himself
+20/07/2019 - 01:05:28 AM	BexGasm(Citizen) said 'why'
+20/07/2019 - 01:05:33 AM	William(Citizen) said 'because its 1 AM'
+20/07/2019 - 01:05:36 AM	William(Citizen) said 'and i live in an apartment'
+20/07/2019 - 01:05:47 AM	BexGasm(Citizen) said '!titles'
+20/07/2019 - 01:05:56 AM	William(Citizen) used ULX command ' adduserid STEAM_0:1:125273257 god'
+20/07/2019 - 01:06:00 AM	RICARDO(The God Ricardo) changed his team from 'Citizen' to 'The God Ricardo'
+20/07/2019 - 01:06:02 AM	Littl3Drumm3rBoi(Hitman) changed his team from 'Citizen' to 'Hitman'
+20/07/2019 - 01:06:04 AM	William(Citizen) said 'what werent u able to do that superadmin could?'
+20/07/2019 - 01:06:17 AM	BexGasm(Citizen) said '!slap @ 0'
+20/07/2019 - 01:06:17 AM	BexGasm(Citizen) used ULX command ' slap @ 0'
+20/07/2019 - 01:06:17 AM	BexGasm(Citizen) said '!slap @ 0'
+20/07/2019 - 01:06:17 AM	BexGasm(Citizen) used ULX command ' slap @ 0'
+20/07/2019 - 01:06:19 AM	BexGasm(Citizen) said '!slap @ 0'
+20/07/2019 - 01:06:19 AM	BexGasm(Citizen) used ULX command ' slap @ 0'
+20/07/2019 - 01:06:20 AM	BexGasm(Citizen) said '!slap @ 0'
+20/07/2019 - 01:06:20 AM	BexGasm(Citizen) used ULX command ' slap @ 0'
+20/07/2019 - 01:06:23 AM	[KILL] BexGasm(Citizen) killed Doof(Citizen) with 120 damage using fas2_ks23
+20/07/2019 - 01:06:26 AM	BexGasm(Citizen) said '/drop'
+20/07/2019 - 01:06:26 AM	Angryspacegod(Joining/Connecting) connected from the server
+20/07/2019 - 01:06:30 AM	BexGasm(Citizen) used ULX command ' noclip'
+20/07/2019 - 01:06:31 AM	BexGasm(Citizen) used ULX command ' noclip'
+20/07/2019 - 01:06:31 AM	BexGasm(Citizen) used ULX command ' noclip'
+20/07/2019 - 01:06:32 AM	BexGasm(Citizen) used ULX command ' noclip'
+20/07/2019 - 01:06:34 AM	Littl3Drumm3rBoi(Lean Producer) changed his team from 'Hitman' to 'Lean Producer'
+20/07/2019 - 01:06:37 AM	BexGasm(Citizen) said '!titles'
+20/07/2019 - 01:06:40 AM	Doof(Hitman) changed his team from 'Citizen' to 'Hitman'
+20/07/2019 - 01:06:46 AM	Dio(Dio Brando) spawned a 'models/props_junk/wood_crate001a.mdl'
+20/07/2019 - 01:06:46 AM	Littl3Drumm3rBoi(Lean Producer) bought 'Lean Crate' for $6000
+20/07/2019 - 01:06:50 AM	Assistant Blumbing(City Worker) said '!unbox'
+20/07/2019 - 01:06:53 AM	Doof(Hitman) accepted a hit on William(Citizen) ordered by BexGasm(Citizen)
+20/07/2019 - 01:07:01 AM	William(Citizen) said 'no idea why that is '
+20/07/2019 - 01:07:02 AM	[KILL] Doof(Hitman) killed Littl3Drumm3rBoi(Lean Producer) with 110 damage using fas2_m24
+20/07/2019 - 01:07:02 AM	William(Citizen) said 'gonna be honest'
+20/07/2019 - 01:07:08 AM	[KILL] RICARDO(The God Ricardo) killed Doof(Hitman) with 180 damage using csgo_karambit_tiger
+20/07/2019 - 01:07:08 AM	Doof(Hitman) failed the hit on William(Citizen) for 'The hitman died!'
+20/07/2019 - 01:07:08 AM	William(Citizen) said 'i can try removing god and making it again'
+20/07/2019 - 01:07:19 AM	William(Citizen) used ULX command ' removegroup god'
+20/07/2019 - 01:07:27 AM	William(Citizen) used ULX command ' addgroup god superadmin'
+20/07/2019 - 01:07:27 AM	William(Citizen) used ULX command ' setgroupcantarget god !%god'
+20/07/2019 - 01:07:28 AM	BexGasm(Citizen) said '!unbox'
+20/07/2019 - 01:07:30 AM	Assistant Blumbing(City Worker) entered 'FSpectate'
+20/07/2019 - 01:07:33 AM	William(Citizen) said 'try now'
+20/07/2019 - 01:07:38 AM	William(Citizen) said 'fuck'
+20/07/2019 - 01:07:39 AM	Assistant Blumbing(City Worker) entered '_FSpectatePosUpdate'
+20/07/2019 - 01:07:39 AM	Assistant Blumbing(City Worker) entered '_FSpectatePosUpdate'
+20/07/2019 - 01:07:40 AM	Assistant Blumbing(City Worker) entered '_FSpectatePosUpdate'
+20/07/2019 - 01:07:40 AM	[HURT] BexGasm(Citizen) hurt RICARDO(Unassigned) with 90 damage using csgo_m9_marblefade
+20/07/2019 - 01:07:41 AM	[KILL] BexGasm(Citizen) killed RICARDO(Unassigned) with 90 damage using csgo_m9_marblefade
+20/07/2019 - 01:07:41 AM	Assistant Blumbing(City Worker) entered '_FSpectatePosUpdate'
+20/07/2019 - 01:07:42 AM	Assistant Blumbing(City Worker) entered '_FSpectatePosUpdate'
+20/07/2019 - 01:07:42 AM	Assistant Blumbing(City Worker) entered '_FSpectatePosUpdate'
+20/07/2019 - 01:07:47 AM	Assistant Blumbing(City Worker) entered '_FSpectatePosUpdate'
+20/07/2019 - 01:07:48 AM	Assistant Blumbing(City Worker) entered '_FSpectatePosUpdate'
+20/07/2019 - 01:07:48 AM	[HURT] BexGasm(Citizen) hurt RICARDO(Unassigned) with 65 damage using csgo_m9_marblefade
+20/07/2019 - 01:07:49 AM	[HURT] BexGasm(Citizen) hurt RICARDO(Unassigned) with 25 damage using csgo_m9_marblefade
+20/07/2019 - 01:07:50 AM	[KILL] BexGasm(Citizen) killed RICARDO(Unassigned) with 25 damage using csgo_m9_marblefade
+20/07/2019 - 01:07:56 AM	[KILL] BexGasm(Citizen) killed RICARDO(Unassigned) with 180 damage using csgo_m9_marblefade
+20/07/2019 - 01:07:58 AM	[HURT] BexGasm(Citizen) hurt RICARDO(Unassigned) with 65 damage using csgo_m9_marblefade
+20/07/2019 - 01:07:59 AM	[HURT] BexGasm(Citizen) hurt RICARDO(Unassigned) with 25 damage using csgo_m9_marblefade
+20/07/2019 - 01:07:59 AM	William(Citizen) entered 'gm_giveswep'
+20/07/2019 - 01:08:04 AM	Assistant Blumbing(City Worker) entered 'FSpectate_StopSpectating'
+20/07/2019 - 01:08:08 AM	[KILL] Doof(Hitman) killed RICARDO(Unassigned) with 110 damage using fas2_m24
+20/07/2019 - 01:08:09 AM	[KILL] BexGasm(Citizen) killed Doof(Hitman) with 180 damage using csgo_m9_marblefade
+20/07/2019 - 01:08:14 AM	William(Citizen) used ULX command ' setgroupcantarget god !%superadmin'
+20/07/2019 - 01:08:15 AM	[HURT] The world hurt Assistant Blumbing(City Worker) with 47 damage using fall damage
+20/07/2019 - 01:08:21 AM	William(Citizen) used ULX command ' removeuserid STEAM_0:1:125273257'
+20/07/2019 - 01:08:26 AM	[KILL] BexGasm(Citizen) killed Doof(Hitman) with 240 damage using fas2_ks23
+20/07/2019 - 01:08:29 AM	William(Citizen) used ULX command ' removeuserid STEAM_0:1:125273257'
+20/07/2019 - 01:08:36 AM	[KILL] BexGasm(Citizen) killed Doof(Hitman) with 120 damage using fas2_ks23
+20/07/2019 - 01:08:37 AM	William(Citizen) used ULX command ' adduserid STEAM_0:1:125273257 god'
+20/07/2019 - 01:08:43 AM	William(Citizen) said 'dude u broke my ULX'
+20/07/2019 - 01:08:52 AM	William(Citizen) used ULX command ' removeuserid STEAM_0:1:125273257'
+20/07/2019 - 01:08:54 AM	[KILL] BexGasm(Citizen) killed Doof(Hitman) with 240 damage using fas2_ks23
+20/07/2019 - 01:08:55 AM	[KILL] BexGasm(Citizen) killed Doof(Hitman) with 240 damage using fas2_ks23
+20/07/2019 - 01:08:57 AM	[KILL] BexGasm(Citizen) killed Doof(Hitman) with 240 damage using fas2_ks23
+20/07/2019 - 01:08:58 AM	William(Citizen) entered 'FSpectate'
+20/07/2019 - 01:08:59 AM	William(Citizen) entered 'FSpectate_StopSpectating'
+20/07/2019 - 01:09:03 AM	William(Citizen) used ULX command ' map rp_downtown_tits_v2'

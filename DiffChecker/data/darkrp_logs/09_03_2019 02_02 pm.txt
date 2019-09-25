@@ -1,0 +1,605 @@
+Tue Sep  3 14:02:12 2019	Derp (STEAM_0:0:52504530) has joined the game
+Tue Sep  3 14:02:12 2019	Derp (STEAM_0:0:52504530) spawned
+Tue Sep  3 14:13:55 2019	Derp (STEAM_0:0:52504530) disconnected
+Tue Sep  3 17:06:16 2019	Turtleluck (STEAM_0:0:4113812) has joined the game
+Tue Sep  3 17:06:16 2019	Turtleluck (STEAM_0:0:4113812) spawned
+Tue Sep  3 17:10:11 2019	Turtleluck (STEAM_0:0:4113812) spawned
+Tue Sep  3 17:12:30 2019	Turtleluck (STEAM_0:0:4113812) disconnected
+Wed Sep  4 15:27:51 2019	fwop.memes (STEAM_0:1:503236195) has joined the game
+Wed Sep  4 15:27:51 2019	what are you doing step bro (STEAM_0:1:503236195) spawned
+Wed Sep  4 15:29:31 2019	what are you doing step bro (STEAM_0:1:503236195): /unbox
+Wed Sep  4 15:29:41 2019	what are you doing step bro (STEAM_0:1:503236195) spawned
+Wed Sep  4 15:30:44 2019	what are you doing step bro (STEAM_0:1:503236195) spawned
+Wed Sep  4 15:31:36 2019	DrDerpenstein sups.gg (STEAM_0:0:13562763) has joined the game
+Wed Sep  4 15:31:36 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Wed Sep  4 15:33:25 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Wed Sep  4 15:36:50 2019	what are you doing step bro (STEAM_0:1:503236195): /invholster
+Wed Sep  4 15:36:57 2019	what are you doing step bro (STEAM_0:1:503236195) spawned
+Wed Sep  4 15:50:26 2019	what are you doing step bro (STEAM_0:1:503236195) spawned
+Wed Sep  4 15:54:13 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Wed Sep  4 15:54:13 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Wed Sep  4 15:54:13 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Wed Sep  4 15:54:14 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Wed Sep  4 15:54:14 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Wed Sep  4 15:54:14 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Wed Sep  4 15:54:14 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Wed Sep  4 15:54:14 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Wed Sep  4 15:54:14 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Wed Sep  4 15:54:14 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Wed Sep  4 15:54:15 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_357_large
+Wed Sep  4 15:54:15 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_357_large
+Wed Sep  4 15:54:15 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_357_large
+Wed Sep  4 15:54:15 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_357_large
+Wed Sep  4 15:54:16 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_357_large
+Wed Sep  4 15:54:16 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_smg1_large
+Wed Sep  4 15:54:16 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_smg1_large
+Wed Sep  4 15:54:16 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_smg1_large
+Wed Sep  4 15:54:17 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_smg1_large
+Wed Sep  4 15:54:17 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Wed Sep  4 15:54:17 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Wed Sep  4 15:54:17 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Wed Sep  4 15:54:17 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Wed Sep  4 15:54:18 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Wed Sep  4 15:54:18 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_smg1_grenade
+Wed Sep  4 15:54:19 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_pistol_large
+Wed Sep  4 15:54:19 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_pistol_large
+Wed Sep  4 15:54:19 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_pistol_large
+Wed Sep  4 15:54:19 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT combine_mine
+Wed Sep  4 15:54:21 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Wed Sep  4 15:54:21 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Wed Sep  4 15:54:22 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Wed Sep  4 15:54:23 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_smg1_grenade
+Wed Sep  4 15:54:24 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_smg1_grenade
+Wed Sep  4 15:54:24 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_smg1_grenade
+Wed Sep  4 15:54:24 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_smg1_large
+Wed Sep  4 15:54:24 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_smg1_large
+Wed Sep  4 15:54:25 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_pistol_large
+Wed Sep  4 15:54:25 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_pistol_large
+Wed Sep  4 15:54:25 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_pistol_large
+Wed Sep  4 15:54:25 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_pistol_large
+Wed Sep  4 15:54:25 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_pistol_large
+Wed Sep  4 15:54:26 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_pistol_large
+Wed Sep  4 15:54:26 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_altfire
+Wed Sep  4 15:54:26 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_altfire
+Wed Sep  4 15:54:26 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_altfire
+Wed Sep  4 15:54:27 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_crossbow
+Wed Sep  4 15:54:27 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_crossbow
+Wed Sep  4 15:54:27 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_rpg_round
+Wed Sep  4 15:54:27 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_rpg_round
+Wed Sep  4 15:54:28 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_box_buckshot
+Wed Sep  4 15:54:28 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_box_buckshot
+Wed Sep  4 15:54:28 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_box_buckshot
+Wed Sep  4 15:54:28 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_box_buckshot
+Wed Sep  4 15:54:28 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_box_buckshot
+Wed Sep  4 15:54:29 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Wed Sep  4 15:54:29 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Wed Sep  4 15:54:45 2019	what are you doing step bro (STEAM_0:1:503236195) spawned
+Wed Sep  4 15:55:48 2019	what are you doing step bro (STEAM_0:1:503236195) spawned Vehicle prop_vehicle_jeep (sw_gokart)
+Wed Sep  4 15:56:21 2019	DrDerpenstein (STEAM_0:0:13562763) spawned Vehicle prop_vehicle_jeep (sw_tractor)
+Wed Sep  4 15:59:36 2019	what are you doing step bro (STEAM_0:1:503236195) spawned Vehicle prop_vehicle_jeep (swbuggyv3)
+Wed Sep  4 16:00:33 2019	what are you doing step bro (STEAM_0:1:503236195) spawned Vehicle prop_vehicle_jeep (sw_trabant_v1)
+Wed Sep  4 16:00:41 2019	DrDerpenstein (STEAM_0:0:13562763) spawned Vehicle prop_vehicle_jeep (sw_fcc)
+Wed Sep  4 16:00:56 2019	what are you doing step bro (STEAM_0:1:503236195) disconnected
+Wed Sep  4 16:02:55 2019	fwop.memes (STEAM_0:1:503236195) has joined the game
+Wed Sep  4 16:02:55 2019	what are you doing step bro (STEAM_0:1:503236195) spawned
+Wed Sep  4 16:04:02 2019	what are you doing step bro (STEAM_0:1:503236195) spawned
+Wed Sep  4 16:05:36 2019	what are you doing step bro (STEAM_0:1:503236195) spawned Vehicle prop_vehicle_jeep (swbuggyv3)
+Wed Sep  4 16:06:43 2019	what are you doing step bro (STEAM_0:1:503236195) spawned Vehicle prop_vehicle_jeep (Jeep)
+Wed Sep  4 16:07:20 2019	what are you doing step bro (STEAM_0:1:503236195) spawned Vehicle prop_vehicle_jeep (swbuggyv3)
+Wed Sep  4 16:08:45 2019	what are you doing step bro (STEAM_0:1:503236195) spawned Vehicle prop_vehicle_jeep (sw_blue-x13)
+Wed Sep  4 16:09:15 2019	what are you doing step bro (STEAM_0:1:503236195) spawned Vehicle prop_vehicle_jeep (sw_old_hotrod)
+Wed Sep  4 16:11:05 2019	what are you doing step bro (STEAM_0:1:503236195): /UNBOX
+Wed Sep  4 16:11:11 2019	what are you doing step bro (STEAM_0:1:503236195) spawned
+Wed Sep  4 16:12:13 2019	what are you doing step bro (STEAM_0:1:503236195): !WARNS
+Wed Sep  4 16:12:25 2019	DrDerpenstein (STEAM_0:0:13562763): ill buy an uzi plox
+Wed Sep  4 16:12:52 2019	DrDerpenstein (STEAM_0:0:13562763): uzi!
+Wed Sep  4 16:14:03 2019	what are you doing step bro (STEAM_0:1:503236195): /ADVERT AFK
+Wed Sep  4 16:14:10 2019	what are you doing step bro (STEAM_0:1:503236195): AFK
+Wed Sep  4 16:17:00 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Wed Sep  4 16:19:07 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT bm2_bitminer_server
+Wed Sep  4 16:19:17 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT bm2_bitminer_rack
+Wed Sep  4 16:19:54 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zwf_fuel
+Wed Sep  4 16:19:56 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT bm2_bitminer_1
+Wed Sep  4 16:19:56 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT bm2_bitminer_2
+Wed Sep  4 16:19:57 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT bm2_bitminer_rack
+Wed Sep  4 16:19:58 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT bm2_bitminer_rack
+Wed Sep  4 16:19:58 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT bm2_bitminer_server
+Wed Sep  4 16:19:59 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT bm2_extention_lead
+Wed Sep  4 16:20:16 2019	DrDerpenstein (STEAM_0:0:13562763) disconnected
+Wed Sep  4 16:21:51 2019	DrDerpenstein sups.gg (STEAM_0:0:13562763) has joined the game
+Wed Sep  4 16:21:51 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Wed Sep  4 16:22:12 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT bm2_bitminer_rack
+Wed Sep  4 16:23:37 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT bm2_bitminer_server
+Wed Sep  4 16:31:51 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Wed Sep  4 16:34:10 2019	what are you doing step bro (STEAM_0:1:503236195): /INVHOLSTER
+Wed Sep  4 16:34:30 2019	what are you doing step bro (STEAM_0:1:503236195): /INVHOLSTER
+Wed Sep  4 16:34:38 2019	DrDerpenstein (STEAM_0:0:13562763): /drop
+Wed Sep  4 16:35:41 2019	what are you doing step bro (STEAM_0:1:503236195) spawned
+Wed Sep  4 16:37:25 2019	DrDerpenstein (STEAM_0:0:13562763) spawned Vehicle prop_vehicle_jeep (airtugtdm)
+Wed Sep  4 16:37:57 2019	DrDerpenstein (STEAM_0:0:13562763) spawned Vehicle prop_vehicle_jeep (sw_trabant_v1)
+Wed Sep  4 16:38:41 2019	what are you doing step bro (STEAM_0:1:503236195): /INVHOLSTER
+Wed Sep  4 16:39:11 2019	what are you doing step bro (STEAM_0:1:503236195): /INVHOLSTER
+Wed Sep  4 16:39:43 2019	what are you doing step bro (STEAM_0:1:503236195): /INVHOLSTER
+Wed Sep  4 16:41:06 2019	DrDerpenstein (STEAM_0:0:13562763) spawned NPC npc_monk
+Wed Sep  4 16:41:50 2019	DrDerpenstein (STEAM_0:0:13562763) spawned NPC npc_crow
+Wed Sep  4 16:41:51 2019	what are you doing step bro (STEAM_0:1:503236195) disconnected
+Wed Sep  4 16:42:01 2019	DrDerpenstein (STEAM_0:0:13562763) spawned NPC npc_citizen
+Wed Sep  4 16:42:08 2019	DrDerpenstein (STEAM_0:0:13562763) spawned NPC npc_citizen
+Wed Sep  4 16:42:25 2019	DrDerpenstein (STEAM_0:0:13562763) spawned NPC npc_citizen
+Wed Sep  4 16:43:18 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Wed Sep  4 16:45:09 2019	DrDerpenstein (STEAM_0:0:13562763) spawned NPC npc_citizen
+Wed Sep  4 16:45:12 2019	DrDerpenstein (STEAM_0:0:13562763) spawned NPC npc_combine_s
+Wed Sep  4 16:47:25 2019	DrDerpenstein (STEAM_0:0:13562763) disconnected
+Wed Sep  4 17:15:20 2019	Derp (STEAM_0:0:52504530) has joined the game
+Wed Sep  4 17:15:20 2019	Derp (STEAM_0:0:52504530) spawned
+Wed Sep  4 17:16:10 2019	Derp (STEAM_0:0:52504530): /sniper
+Wed Sep  4 17:16:12 2019	Derp (STEAM_0:0:52504530) spawned
+Wed Sep  4 17:16:31 2019	Derp (STEAM_0:0:52504530): /setspawn sniper
+Wed Sep  4 17:16:55 2019	Derp (STEAM_0:0:52504530) spawned
+Wed Sep  4 17:17:45 2019	Derp (STEAM_0:0:52504530): 
+Wed Sep  4 17:19:21 2019	Derp (STEAM_0:0:52504530): 
+Wed Sep  4 17:19:40 2019	DrDerpenstein sups.gg (STEAM_0:0:13562763) has joined the game
+Wed Sep  4 17:19:40 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Wed Sep  4 17:20:00 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Wed Sep  4 17:20:15 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT bm2_bitminer_server
+Wed Sep  4 17:20:17 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT bm2_bitminer_rack
+Wed Sep  4 17:20:28 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Wed Sep  4 17:20:52 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Wed Sep  4 17:26:47 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Wed Sep  4 17:28:04 2019	LV (STEAM_0:0:460419170) has joined the game
+Wed Sep  4 17:28:04 2019	LV (STEAM_0:0:460419170) spawned
+Wed Sep  4 17:29:42 2019	Derp (STEAM_0:0:52504530): hello
+Wed Sep  4 17:29:45 2019	LV (STEAM_0:0:460419170): hey long time no see
+Wed Sep  4 17:29:47 2019	Derp (STEAM_0:0:52504530): yeah
+Wed Sep  4 17:29:49 2019	Derp (STEAM_0:0:52504530): how u been
+Wed Sep  4 17:29:57 2019	LV (STEAM_0:0:460419170): pretty good how are you
+Wed Sep  4 17:30:01 2019	Derp (STEAM_0:0:52504530): im doing alright myself
+Wed Sep  4 17:30:06 2019	LV (STEAM_0:0:460419170): are there sounds on the server
+Wed Sep  4 17:30:18 2019	Derp (STEAM_0:0:52504530): uh yeah
+Wed Sep  4 17:30:26 2019	LV (STEAM_0:0:460419170): i cant hear any thing
+Wed Sep  4 17:30:36 2019	Derp (STEAM_0:0:52504530): did u hear his gunshots?
+Wed Sep  4 17:30:41 2019	LV (STEAM_0:0:460419170): no
+Wed Sep  4 17:30:49 2019	Derp (STEAM_0:0:52504530): thats probably a local issue
+Wed Sep  4 17:30:55 2019	Derp (STEAM_0:0:52504530): no idea why thats happening to u
+Wed Sep  4 17:31:03 2019	LV (STEAM_0:0:460419170): ok hold on i will be back
+Wed Sep  4 17:31:06 2019	Derp (STEAM_0:0:52504530): ok
+Wed Sep  4 17:31:41 2019	LV (STEAM_0:0:460419170): i can hear
+Wed Sep  4 17:31:45 2019	Derp (STEAM_0:0:52504530): why can u hear now
+Wed Sep  4 17:31:51 2019	LV (STEAM_0:0:460419170): my headsets volume
+Wed Sep  4 17:31:58 2019	Derp (STEAM_0:0:52504530): jesus christ dude
+Wed Sep  4 17:32:04 2019	LV (STEAM_0:0:460419170): i know i heard before
+Wed Sep  4 17:32:07 2019	Derp (STEAM_0:0:52504530): lol
+Wed Sep  4 17:32:09 2019	LV (STEAM_0:0:460419170): but then it cut out
+Wed Sep  4 17:32:19 2019	LV (STEAM_0:0:460419170): server going good
+Wed Sep  4 17:32:35 2019	Derp (STEAM_0:0:52504530): in terms of quality its pretty good but now we are working to get more people to play
+Wed Sep  4 17:32:42 2019	LV (STEAM_0:0:460419170): yeah
+Wed Sep  4 17:32:47 2019	LV (STEAM_0:0:460419170): there is food now
+Wed Sep  4 17:32:49 2019	Derp (STEAM_0:0:52504530): yup
+Wed Sep  4 17:33:23 2019	LV (STEAM_0:0:460419170): what is that
+Wed Sep  4 17:33:28 2019	Derp (STEAM_0:0:52504530): that is a fire hydrant
+Wed Sep  4 17:33:34 2019	LV (STEAM_0:0:460419170): oh i cant see it
+Wed Sep  4 17:33:45 2019	LV (STEAM_0:0:460419170): is spells out error
+Wed Sep  4 17:33:52 2019	Derp (STEAM_0:0:52504530): press F4 and then click on Info and then click on workshop and there u can download the addons u need
+Wed Sep  4 17:35:01 2019	Derp (STEAM_0:0:52504530) spawned
+Wed Sep  4 17:36:01 2019	LV (STEAM_0:0:460419170): is there a way i can press one button to download them all
+Wed Sep  4 17:36:04 2019	Derp (STEAM_0:0:52504530): yes
+Wed Sep  4 17:36:08 2019	LV (STEAM_0:0:460419170): how
+Wed Sep  4 17:36:18 2019	Derp (STEAM_0:0:52504530): right on top of the first addon u see in the list there is a subscribe to all button
+Wed Sep  4 17:37:26 2019	Derp (STEAM_0:0:52504530) spawned SENT zvm_machine
+Wed Sep  4 17:38:00 2019	LV (STEAM_0:0:460419170) spawned
+Wed Sep  4 17:39:37 2019	LV (STEAM_0:0:460419170): want to place a hit
+Wed Sep  4 17:40:00 2019	LV (STEAM_0:0:460419170): how do i accept
+Wed Sep  4 17:40:20 2019	Hitman LV accepted a hit on DrDerpenstein, ordered by Derp for $2,500
+Wed Sep  4 17:41:13 2019	LV (STEAM_0:0:460419170): this is pistol
+Wed Sep  4 17:41:16 2019	DrDerpenstein (STEAM_0:0:13562763): /dropmoney 5000
+Wed Sep  4 17:41:17 2019	DrDerpenstein (STEAM_0:0:13562763) has dropped $5,000
+Wed Sep  4 17:41:17 2019	LV (STEAM_0:0:460419170): oh
+Wed Sep  4 17:41:20 2019	LV (STEAM_0:0:460419170): sniper
+Wed Sep  4 17:41:26 2019	Hitman LV finished a hit on DrDerpenstein, ordered by Derp for $2,500
+Wed Sep  4 17:41:26 2019	DrDerpenstein was killed by LV with a cw_l115
+Wed Sep  4 17:41:35 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Wed Sep  4 17:41:58 2019	LV (STEAM_0:0:460419170): i am broke for this
+Wed Sep  4 17:42:25 2019	Hitman LV accepted a hit on Derp, ordered by DrDerpenstein for $2,500
+Wed Sep  4 17:42:26 2019	Derp (STEAM_0:0:52504530): !savezvm
+Wed Sep  4 17:43:18 2019	LV (STEAM_0:0:460419170): you :(
+Wed Sep  4 17:43:39 2019	Hitman LV finished a hit on Derp, ordered by DrDerpenstein for $2,500
+Wed Sep  4 17:43:39 2019	Derp was killed by LV with a cw_l115
+Wed Sep  4 17:43:40 2019	Derp (STEAM_0:0:52504530) spawned
+Wed Sep  4 17:44:02 2019	LV (STEAM_0:0:460419170): 48 health
+Wed Sep  4 17:44:15 2019	LV (STEAM_0:0:460419170): /invholster
+Wed Sep  4 17:44:48 2019	theresamaston (STEAM_0:1:442389183) has joined the game
+Wed Sep  4 17:44:48 2019	CJC (STEAM_0:1:442389183) spawned
+Wed Sep  4 17:45:19 2019	LV (STEAM_0:0:460419170): /invholster
+Wed Sep  4 17:45:27 2019	LV (STEAM_0:0:460419170): /invholster
+Wed Sep  4 17:45:30 2019	CJC (STEAM_0:1:442389183): /pm dr hi
+Wed Sep  4 17:45:42 2019	DrDerpenstein (STEAM_0:0:13562763): /pm cjc hola
+Wed Sep  4 17:45:53 2019	CJC (STEAM_0:1:442389183): /pm dr where ya at
+Wed Sep  4 17:45:55 2019	LV (STEAM_0:0:460419170): how do you work this
+Wed Sep  4 17:46:03 2019	DrDerpenstein (STEAM_0:0:13562763): /pm cjc fountain with everyone else
+Wed Sep  4 17:46:15 2019	CJC (STEAM_0:1:442389183): /pm dr comin
+Wed Sep  4 17:46:23 2019	LV (STEAM_0:0:460419170): can you self supply on this
+Wed Sep  4 17:46:36 2019	CJC (STEAM_0:1:442389183) spawned Vehicle prop_vehicle_jeep (sw_blue-x14_normal)
+Wed Sep  4 17:46:38 2019	DrDerpenstein (STEAM_0:0:13562763): yea its an admin vending machine
+Wed Sep  4 17:46:45 2019	DrDerpenstein (STEAM_0:0:13562763): for when no cooks are on
+Wed Sep  4 17:46:45 2019	CJC (STEAM_0:1:442389183) spawned Vehicle prop_vehicle_jeep (sw_blue-x14_normal)
+Wed Sep  4 17:46:51 2019	LV (STEAM_0:0:460419170): oh
+Wed Sep  4 17:46:57 2019	LV (STEAM_0:0:460419170): can you self supply on this
+Wed Sep  4 17:47:05 2019	LV (STEAM_0:0:460419170): guns
+Wed Sep  4 17:47:38 2019	LV (STEAM_0:0:460419170): can i self supply with gun dealer though
+Wed Sep  4 17:48:03 2019	LV (STEAM_0:0:460419170) spawned
+Wed Sep  4 17:48:08 2019	Derp (STEAM_0:0:52504530): !savezvm
+Wed Sep  4 17:48:50 2019	LV (STEAM_0:0:460419170): /pm derp my money got reset again
+Wed Sep  4 17:48:58 2019	CJC (STEAM_0:1:442389183): /invholster
+Wed Sep  4 17:49:05 2019	LV (STEAM_0:0:460419170) spawned
+Wed Sep  4 17:49:06 2019	Derp (STEAM_0:0:52504530): /pm LV everyone's money got reset
+Wed Sep  4 17:49:11 2019	LV (STEAM_0:0:460419170): /pm derp oh
+Wed Sep  4 17:49:16 2019	LV (STEAM_0:0:460419170): /pm derp did cars
+Wed Sep  4 17:49:23 2019	LV (STEAM_0:0:460419170): /invholster
+Wed Sep  4 17:49:26 2019	Derp (STEAM_0:0:52504530): /pm LV cars have been completely replaced
+Wed Sep  4 17:49:26 2019	CJC (STEAM_0:1:442389183): /invholster
+Wed Sep  4 17:49:34 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth_baggy
+Wed Sep  4 17:49:35 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth_baggy
+Wed Sep  4 17:49:35 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth_baggy
+Wed Sep  4 17:49:36 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth_baggy
+Wed Sep  4 17:49:37 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth_baggy
+Wed Sep  4 17:50:03 2019	LV (STEAM_0:0:460419170): /invholster
+Wed Sep  4 17:50:27 2019	DrDerpenstein was killed by CJC with a prop_vehicle_jeep
+Wed Sep  4 17:50:33 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Wed Sep  4 17:50:38 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Wed Sep  4 17:50:38 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Wed Sep  4 17:50:38 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Wed Sep  4 17:50:38 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Wed Sep  4 17:50:38 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Wed Sep  4 17:50:40 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_357_large
+Wed Sep  4 17:50:40 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_357_large
+Wed Sep  4 17:50:40 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_357_large
+Wed Sep  4 17:50:40 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_357_large
+Wed Sep  4 17:50:40 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Wed Sep  4 17:50:41 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Wed Sep  4 17:50:41 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Wed Sep  4 17:50:41 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Wed Sep  4 17:50:41 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Wed Sep  4 17:50:42 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_smg1_large
+Wed Sep  4 17:50:42 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_smg1_large
+Wed Sep  4 17:50:42 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_smg1_large
+Wed Sep  4 17:50:42 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_smg1_large
+Wed Sep  4 17:50:43 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_pistol_large
+Wed Sep  4 17:50:43 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_pistol_large
+Wed Sep  4 17:50:43 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_pistol_large
+Wed Sep  4 17:50:43 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_pistol_large
+Wed Sep  4 17:50:44 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_crossbow
+Wed Sep  4 17:50:44 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_crossbow
+Wed Sep  4 17:50:44 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_rpg_round
+Wed Sep  4 17:50:44 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_rpg_round
+Wed Sep  4 17:50:45 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_box_buckshot
+Wed Sep  4 17:50:45 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_box_buckshot
+Wed Sep  4 17:50:45 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_box_buckshot
+Wed Sep  4 17:50:46 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_smg1_grenade
+Wed Sep  4 17:50:46 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_smg1_grenade
+Wed Sep  4 17:50:47 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_altfire
+Wed Sep  4 17:50:49 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Wed Sep  4 17:50:50 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Wed Sep  4 17:50:55 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth_baggy
+Wed Sep  4 17:50:55 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth_baggy
+Wed Sep  4 17:50:55 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth_baggy
+Wed Sep  4 17:50:55 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth_baggy
+Wed Sep  4 17:50:55 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth_baggy
+Wed Sep  4 17:50:56 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth_baggy
+Wed Sep  4 17:50:56 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth_baggy
+Wed Sep  4 17:50:56 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth_baggy
+Wed Sep  4 17:50:56 2019	CJC (STEAM_0:1:442389183) spawned Vehicle prop_vehicle_jeep (sw_fcc)
+Wed Sep  4 17:50:57 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth_baggy
+Wed Sep  4 17:50:58 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth_baggy
+Wed Sep  4 17:50:58 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth_baggy
+Wed Sep  4 17:50:58 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth_baggy
+Wed Sep  4 17:50:58 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth_baggy
+Wed Sep  4 17:52:22 2019	LV (STEAM_0:0:460419170): 425 health how
+Wed Sep  4 17:52:29 2019	LV (STEAM_0:0:460419170): oh
+Wed Sep  4 17:52:33 2019	LV (STEAM_0:0:460419170): /invholster
+Wed Sep  4 17:52:36 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth_baggy
+Wed Sep  4 17:52:38 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth_baggy
+Wed Sep  4 17:52:39 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth_baggy
+Wed Sep  4 17:53:09 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth_baggy
+Wed Sep  4 17:53:10 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth_baggy
+Wed Sep  4 17:53:11 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth_baggy
+Wed Sep  4 17:53:13 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth_baggy
+Wed Sep  4 17:53:15 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth_baggy
+Wed Sep  4 17:53:16 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth_baggy
+Wed Sep  4 17:53:34 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth_baggy
+Wed Sep  4 17:53:48 2019	LV (STEAM_0:0:460419170): /pm derp what does this job do
+Wed Sep  4 17:54:40 2019	LV (STEAM_0:0:460419170): /invholster
+Wed Sep  4 17:54:51 2019	CJC (STEAM_0:1:442389183): /invholster
+Wed Sep  4 17:55:05 2019	LV (STEAM_0:0:460419170): what drug is that
+Wed Sep  4 17:55:26 2019	LV (STEAM_0:0:460419170): how do you get poison
+Wed Sep  4 17:55:51 2019	LV (STEAM_0:0:460419170): how do i make the more health drug
+Wed Sep  4 17:56:06 2019	LV (STEAM_0:0:460419170): i have weed
+Wed Sep  4 17:57:17 2019	DrDerpenstein was killed by CJC with a cw_ak74
+Wed Sep  4 17:57:24 2019	CJC (STEAM_0:1:442389183): /invholster
+Wed Sep  4 17:57:24 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Wed Sep  4 17:57:45 2019	LV (STEAM_0:0:460419170): what drug makes you faster
+Wed Sep  4 17:58:11 2019	LV (STEAM_0:0:460419170): the one you dropped before
+Wed Sep  4 17:59:17 2019	LV (STEAM_0:0:460419170) spawned
+Wed Sep  4 17:59:21 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth_baggy
+Wed Sep  4 17:59:22 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth_baggy
+Wed Sep  4 17:59:22 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth_baggy
+Wed Sep  4 17:59:22 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth_baggy
+Wed Sep  4 17:59:22 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth_baggy
+Wed Sep  4 17:59:22 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth_baggy
+Wed Sep  4 17:59:22 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth_baggy
+Wed Sep  4 17:59:22 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth_baggy
+Wed Sep  4 17:59:23 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth_baggy
+Wed Sep  4 17:59:23 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth_baggy
+Wed Sep  4 17:59:39 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT lean_cup
+Wed Sep  4 17:59:39 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT lean_cup
+Wed Sep  4 17:59:40 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT lean_cup
+Wed Sep  4 17:59:40 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT lean_cup
+Wed Sep  4 17:59:40 2019	LV (STEAM_0:0:460419170): i dont have enough money i dont think
+Wed Sep  4 17:59:42 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT lean_barrel
+Wed Sep  4 17:59:52 2019	CJC (STEAM_0:1:442389183): /dropmoney 1000000
+Wed Sep  4 17:59:53 2019	CJC (STEAM_0:1:442389183) has dropped $1,000,000
+Wed Sep  4 18:00:03 2019	CJC (STEAM_0:1:442389183): /dropmoney 100000
+Wed Sep  4 18:00:04 2019	CJC (STEAM_0:1:442389183) has dropped $100,000
+Wed Sep  4 18:01:01 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT lean_smallcrate
+Wed Sep  4 18:02:34 2019	LV (STEAM_0:0:460419170): where
+Wed Sep  4 18:02:44 2019	CJC (STEAM_0:1:442389183): /invholster
+Wed Sep  4 18:03:07 2019	LV (STEAM_0:0:460419170): i am poor
+Wed Sep  4 18:03:08 2019	CJC (STEAM_0:1:442389183): /dropmoney 1000000
+Wed Sep  4 18:03:09 2019	CJC (STEAM_0:1:442389183) has dropped $1,000,000
+Wed Sep  4 18:03:18 2019	LV (STEAM_0:0:460419170): wow
+Wed Sep  4 18:03:27 2019	LV (STEAM_0:0:460419170): how did you get that
+Wed Sep  4 18:03:49 2019	LV (STEAM_0:0:460419170): your an admin
+Wed Sep  4 18:03:58 2019	CJC (STEAM_0:1:442389183) spawned
+Wed Sep  4 18:04:09 2019	LV (STEAM_0:0:460419170): i dont know
+Wed Sep  4 18:04:25 2019	LV (STEAM_0:0:460419170) spawned
+Wed Sep  4 18:05:00 2019	LV (STEAM_0:0:460419170): how do i do this job
+Wed Sep  4 18:05:34 2019	LV (STEAM_0:0:460419170) spawned
+Wed Sep  4 18:05:34 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Wed Sep  4 18:05:54 2019	LV (STEAM_0:0:460419170) spawned
+Wed Sep  4 18:05:54 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Wed Sep  4 18:06:14 2019	DrDerpenstein was killed by CJC with a cw_ak74
+Wed Sep  4 18:06:19 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Wed Sep  4 18:06:46 2019	LV (STEAM_0:0:460419170): /invholster
+Wed Sep  4 18:07:01 2019	DrDerpenstein was killed by CJC with a cw_ak74
+Wed Sep  4 18:07:03 2019	LV (STEAM_0:0:460419170): can i test these on you
+Wed Sep  4 18:07:04 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Wed Sep  4 18:07:07 2019	LV (STEAM_0:0:460419170): can i test these on you
+Wed Sep  4 18:07:17 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth_baggy
+Wed Sep  4 18:07:17 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth_baggy
+Wed Sep  4 18:07:17 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth_baggy
+Wed Sep  4 18:07:17 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth_baggy
+Wed Sep  4 18:07:17 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth_baggy
+Wed Sep  4 18:07:18 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth_baggy
+Wed Sep  4 18:07:18 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth_baggy
+Wed Sep  4 18:07:18 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth_baggy
+Wed Sep  4 18:07:18 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth_baggy
+Wed Sep  4 18:07:18 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth_baggy
+Wed Sep  4 18:07:18 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth_baggy
+Wed Sep  4 18:07:18 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth_baggy
+Wed Sep  4 18:07:25 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth_baggy
+Wed Sep  4 18:07:25 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth_baggy
+Wed Sep  4 18:07:25 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth_baggy
+Wed Sep  4 18:07:29 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT zmlab_meth_baggy
+Wed Sep  4 18:07:34 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Wed Sep  4 18:07:34 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Wed Sep  4 18:07:34 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Wed Sep  4 18:07:34 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Wed Sep  4 18:07:34 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Wed Sep  4 18:07:34 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Wed Sep  4 18:07:34 2019	LV (STEAM_0:0:460419170): my handcuffs are gone
+Wed Sep  4 18:07:38 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_battery
+Wed Sep  4 18:07:38 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_smg1_large
+Wed Sep  4 18:07:38 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_smg1_large
+Wed Sep  4 18:07:39 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_smg1_large
+Wed Sep  4 18:07:39 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_smg1_large
+Wed Sep  4 18:07:39 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_smg1_large
+Wed Sep  4 18:07:39 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_357_large
+Wed Sep  4 18:07:39 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_357_large
+Wed Sep  4 18:07:40 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_357_large
+Wed Sep  4 18:07:40 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Wed Sep  4 18:07:40 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Wed Sep  4 18:07:40 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Wed Sep  4 18:07:41 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Wed Sep  4 18:07:41 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Wed Sep  4 18:07:41 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_pistol_large
+Wed Sep  4 18:07:41 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_pistol_large
+Wed Sep  4 18:07:41 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_pistol_large
+Wed Sep  4 18:07:42 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_pistol_large
+Wed Sep  4 18:07:44 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_box_buckshot
+Wed Sep  4 18:07:44 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_box_buckshot
+Wed Sep  4 18:07:44 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_box_buckshot
+Wed Sep  4 18:07:44 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_rpg_round
+Wed Sep  4 18:07:44 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_rpg_round
+Wed Sep  4 18:07:45 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_rpg_round
+Wed Sep  4 18:07:45 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_crossbow
+Wed Sep  4 18:07:45 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_crossbow
+Wed Sep  4 18:07:45 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_crossbow
+Wed Sep  4 18:07:47 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_smg1_grenade
+Wed Sep  4 18:07:47 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_smg1_grenade
+Wed Sep  4 18:07:48 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_pistol_large
+Wed Sep  4 18:07:48 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_pistol_large
+Wed Sep  4 18:07:49 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Wed Sep  4 18:07:49 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_ar2_large
+Wed Sep  4 18:08:07 2019	Derp was killed by CJC with a cw_ak74
+Wed Sep  4 18:08:09 2019	Derp (STEAM_0:0:52504530) spawned
+Wed Sep  4 18:08:12 2019	CJC was killed by DrDerpenstein with a cw_ak74
+Wed Sep  4 18:08:14 2019	CJC (STEAM_0:1:442389183) spawned
+Wed Sep  4 18:08:17 2019	Derp (STEAM_0:0:52504530) spawned
+Wed Sep  4 18:08:30 2019	Derp (STEAM_0:0:52504530): you did
+Wed Sep  4 18:08:47 2019	LV (STEAM_0:0:460419170) spawned
+Wed Sep  4 18:08:47 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Wed Sep  4 18:08:54 2019	LV (STEAM_0:0:460419170): my skin changed
+Wed Sep  4 18:09:11 2019	LV (STEAM_0:0:460419170) spawned
+Wed Sep  4 18:09:11 2019	Derp (STEAM_0:0:52504530) spawned
+Wed Sep  4 18:09:19 2019	LV (STEAM_0:0:460419170): ok different person
+Wed Sep  4 18:09:23 2019	LV (STEAM_0:0:460419170): sorry derp
+Wed Sep  4 18:09:42 2019	LV (STEAM_0:0:460419170): save
+Wed Sep  4 18:09:50 2019	LV (STEAM_0:0:460419170): what
+Wed Sep  4 18:10:17 2019	LV (STEAM_0:0:460419170): i think it was
+Wed Sep  4 18:10:38 2019	LV (STEAM_0:0:460419170) spawned
+Wed Sep  4 18:10:38 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Wed Sep  4 18:10:43 2019	LV was killed by DrDerpenstein with a cw_ak74
+Wed Sep  4 18:10:48 2019	LV (STEAM_0:0:460419170) spawned
+Wed Sep  4 18:11:35 2019	LV (STEAM_0:0:460419170): do /kill
+Wed Sep  4 18:11:37 2019	Derp (STEAM_0:0:52504530): drop *
+Wed Sep  4 18:11:53 2019	DrDerpenstein (STEAM_0:0:13562763): /killall
+Wed Sep  4 18:11:57 2019	DrDerpenstein (STEAM_0:0:13562763): /slayall
+Wed Sep  4 18:12:05 2019	CJC (STEAM_0:1:442389183) disconnected
+Wed Sep  4 18:12:19 2019	LV (STEAM_0:0:460419170): /pm derp hey derp can i have mod or admin
+Wed Sep  4 18:12:45 2019	LV (STEAM_0:0:460419170): i was before
+Wed Sep  4 18:13:01 2019	LV (STEAM_0:0:460419170): i was wondering if i could get it again
+Wed Sep  4 18:13:33 2019	LV (STEAM_0:0:460419170): what
+Wed Sep  4 18:13:39 2019	LV (STEAM_0:0:460419170): thank you
+Wed Sep  4 18:14:04 2019	LV (STEAM_0:0:460419170): am i allowed to do this whenever and to anyone
+Wed Sep  4 18:14:15 2019	LV (STEAM_0:0:460419170): oh ok
+Wed Sep  4 18:14:16 2019	theresamaston (STEAM_0:1:442389183) has joined the game
+Wed Sep  4 18:14:16 2019	CJC (STEAM_0:1:442389183) spawned
+Wed Sep  4 18:14:21 2019	LV (STEAM_0:0:460419170): can they kill you afet
+Wed Sep  4 18:14:24 2019	LV (STEAM_0:0:460419170): after
+Wed Sep  4 18:15:34 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Wed Sep  4 18:15:34 2019	Derp (STEAM_0:0:52504530) spawned
+Wed Sep  4 18:15:49 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Wed Sep  4 18:15:49 2019	Derp (STEAM_0:0:52504530) spawned
+Wed Sep  4 18:16:03 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Wed Sep  4 18:16:03 2019	Derp (STEAM_0:0:52504530) spawned
+Wed Sep  4 18:16:06 2019	CJC (STEAM_0:1:442389183): /invholster
+Wed Sep  4 18:16:14 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Wed Sep  4 18:16:14 2019	Derp (STEAM_0:0:52504530) spawned
+Wed Sep  4 18:16:20 2019	CJC (STEAM_0:1:442389183): /invholster
+Wed Sep  4 18:16:26 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Wed Sep  4 18:16:26 2019	Derp (STEAM_0:0:52504530) spawned
+Wed Sep  4 18:16:41 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Wed Sep  4 18:16:41 2019	Derp (STEAM_0:0:52504530) spawned
+Wed Sep  4 18:16:48 2019	LV (STEAM_0:0:460419170): i am in you
+Wed Sep  4 18:16:54 2019	LV (STEAM_0:0:460419170): what happen
+Wed Sep  4 18:17:10 2019	LV (STEAM_0:0:460419170): /pm derp hey derp i think i broke the job
+Wed Sep  4 18:17:25 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Wed Sep  4 18:17:26 2019	LV (STEAM_0:0:460419170): /pm derp i am stuck inside CJC
+Wed Sep  4 18:17:33 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Wed Sep  4 18:17:49 2019	CJC (STEAM_0:1:442389183): /invholster
+Wed Sep  4 18:17:50 2019	LV (STEAM_0:0:460419170): can you here me
+Wed Sep  4 18:17:54 2019	LV (STEAM_0:0:460419170): see
+Wed Sep  4 18:17:57 2019	LV (STEAM_0:0:460419170): read my chat
+Wed Sep  4 18:18:00 2019	DrDerpenstein (STEAM_0:0:13562763): yea
+Wed Sep  4 18:18:06 2019	CJC (STEAM_0:1:442389183): /ooc ill do it
+Wed Sep  4 18:18:07 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Wed Sep  4 18:18:08 2019	LV (STEAM_0:0:460419170): where am i
+Wed Sep  4 18:18:18 2019	LV (STEAM_0:0:460419170): i am spectating CJC
+Wed Sep  4 18:18:25 2019	LV was killed by Himself with a suicide trick
+Wed Sep  4 18:18:27 2019	LV (STEAM_0:0:460419170) spawned
+Wed Sep  4 18:18:31 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Wed Sep  4 18:18:42 2019	CJC (STEAM_0:1:442389183): 
+Wed Sep  4 18:18:43 2019	LV (STEAM_0:0:460419170): thank you i dont know either was i invisible
+Wed Sep  4 18:18:55 2019	Derp was killed by CJC with a prop_sh_doorcharge
+Wed Sep  4 18:18:58 2019	Derp (STEAM_0:0:52504530) spawned
+Wed Sep  4 18:19:11 2019	CJC was killed by Himself with a suicide trick
+Wed Sep  4 18:19:18 2019	CJC (STEAM_0:1:442389183) spawned
+Wed Sep  4 18:19:18 2019	LV (STEAM_0:0:460419170): /y what happen
+Wed Sep  4 18:19:23 2019	LV (STEAM_0:0:460419170): /y the door
+Wed Sep  4 18:19:29 2019	LV (STEAM_0:0:460419170): will it go back
+Wed Sep  4 18:19:51 2019	LV (STEAM_0:0:460419170): /invholster
+Wed Sep  4 18:20:29 2019	CJC was killed by Himself with a suicide trick
+Wed Sep  4 18:20:33 2019	CJC (STEAM_0:1:442389183) spawned
+Wed Sep  4 18:20:51 2019	CJC (STEAM_0:1:442389183): /ooc i want my money back
+Wed Sep  4 18:20:58 2019	DrDerpenstein (STEAM_0:0:13562763): // what money
+Wed Sep  4 18:21:01 2019	DrDerpenstein (STEAM_0:0:13562763): // the mil?
+Wed Sep  4 18:21:05 2019	CJC (STEAM_0:1:442389183): the 1 mil
+Wed Sep  4 18:21:13 2019	Derp (STEAM_0:0:52504530) spawned
+Wed Sep  4 18:21:31 2019	LV (STEAM_0:0:460419170): 1234
+Wed Sep  4 18:21:44 2019	CJC (STEAM_0:1:442389183): i want y moneyyyyyyyyyyyyyyyyyyyyy
+Wed Sep  4 18:21:49 2019	LV (STEAM_0:0:460419170): i like this
+Wed Sep  4 18:22:01 2019	CJC (STEAM_0:1:442389183): /ooc i wannnnnnnnt mmyyyyyyy moneeeeeyyyyyyyyy
+Wed Sep  4 18:22:08 2019	Derp (STEAM_0:0:52504530): // u have 6 mil u dont need anymore
+Wed Sep  4 18:22:15 2019	CJC (STEAM_0:1:442389183): /ooc i do tho
+Wed Sep  4 18:22:21 2019	LV (STEAM_0:0:460419170): do you want to donate
+Wed Sep  4 18:22:29 2019	CJC (STEAM_0:1:442389183): /ooc its not enghth
+Wed Sep  4 18:22:35 2019	LV (STEAM_0:0:460419170): and lean
+Wed Sep  4 18:23:07 2019	CJC (STEAM_0:1:442389183): /ooc ill leave if i dont get my money
+Wed Sep  4 18:23:13 2019	LV (STEAM_0:0:460419170): what money
+Wed Sep  4 18:23:21 2019	DrDerpenstein (STEAM_0:0:13562763): // "ITS MY MONEY AND I WANT IT NOW"
+Wed Sep  4 18:23:32 2019	LV (STEAM_0:0:460419170): nice joke
+Wed Sep  4 18:23:43 2019	CJC (STEAM_0:1:442389183): /ooc i spent the 7 milthat u gave
+Wed Sep  4 18:23:46 2019	LV (STEAM_0:0:460419170): what is that
+Wed Sep  4 18:23:55 2019	LV (STEAM_0:0:460419170): can you buy that
+Wed Sep  4 18:23:59 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_healthkit
+Wed Sep  4 18:23:59 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_healthkit
+Wed Sep  4 18:23:59 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_healthkit
+Wed Sep  4 18:23:59 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_healthkit
+Wed Sep  4 18:24:04 2019	Derp (STEAM_0:0:52504530): /dropmoney 1000000
+Wed Sep  4 18:24:05 2019	Derp (STEAM_0:0:52504530) has dropped $1,000,000
+Wed Sep  4 18:24:17 2019	LV (STEAM_0:0:460419170): oh
+Wed Sep  4 18:24:22 2019	CJC (STEAM_0:1:442389183): /ooc i got to go
+Wed Sep  4 18:24:28 2019	CJC (STEAM_0:1:442389183) disconnected
+Wed Sep  4 18:26:20 2019	LV (STEAM_0:0:460419170): can i be in it
+Wed Sep  4 18:27:02 2019	LV (STEAM_0:0:460419170): i dont know what just happen honestly
+Wed Sep  4 18:27:37 2019	LV (STEAM_0:0:460419170): do i have noclip commands on mod
+Wed Sep  4 18:27:55 2019	LV (STEAM_0:0:460419170): i have a bind
+Wed Sep  4 18:28:05 2019	LV (STEAM_0:0:460419170): how
+Wed Sep  4 18:28:23 2019	LV (STEAM_0:0:460419170): are you in the discord server
+Wed Sep  4 18:28:42 2019	LV (STEAM_0:0:460419170) spawned
+Wed Sep  4 18:29:35 2019	LV (STEAM_0:0:460419170): you have rape swep
+Wed Sep  4 18:29:52 2019	LV (STEAM_0:0:460419170): why does it say you have rape swep
+Wed Sep  4 18:30:15 2019	LV (STEAM_0:0:460419170): i told you it is weird
+Wed Sep  4 18:30:24 2019	LV (STEAM_0:0:460419170): i cant really hear you
+Wed Sep  4 18:30:40 2019	LV (STEAM_0:0:460419170): how do i kill you like you did yo me
+Wed Sep  4 18:30:48 2019	DrDerpenstein was killed by Himself with a suicide trick
+Wed Sep  4 18:30:51 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Wed Sep  4 18:31:20 2019	LV (STEAM_0:0:460419170): i think it is broken
+Wed Sep  4 18:31:32 2019	LV (STEAM_0:0:460419170): wow
+Wed Sep  4 18:31:36 2019	LV (STEAM_0:0:460419170): i like this
+Wed Sep  4 18:32:06 2019	LV (STEAM_0:0:460419170): take it off
+Wed Sep  4 18:32:08 2019	LV (STEAM_0:0:460419170): how
+Wed Sep  4 18:34:00 2019	LV (STEAM_0:0:460419170): derp
+Wed Sep  4 18:34:10 2019	LV (STEAM_0:0:460419170): oh
+Wed Sep  4 18:34:26 2019	LV (STEAM_0:0:460419170): can you do this to me
+Wed Sep  4 18:34:31 2019	LV (STEAM_0:0:460419170): i want to see what it is like
+Wed Sep  4 18:34:59 2019	LV (STEAM_0:0:460419170): am i dancing
+Wed Sep  4 18:36:03 2019	LV (STEAM_0:0:460419170): do you see the laser
+Wed Sep  4 18:36:07 2019	DrDerpenstein (STEAM_0:0:13562763): yes
+Wed Sep  4 18:36:32 2019	LV (STEAM_0:0:460419170): /agenda
+Wed Sep  4 18:36:40 2019	LV (STEAM_0:0:460419170): i have no agenda
+Wed Sep  4 18:36:51 2019	DrDerpenstein (STEAM_0:0:13562763): mayor needs to mae wone
+Wed Sep  4 18:36:58 2019	LV (STEAM_0:0:460419170): oh
+Wed Sep  4 18:37:22 2019	LV (STEAM_0:0:460419170): /agenda work
+Wed Sep  4 18:37:23 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Wed Sep  4 18:37:34 2019	DrDerpenstein (STEAM_0:0:13562763): /agenda go do stuff
+Wed Sep  4 18:37:54 2019	LV (STEAM_0:0:460419170): what is that
+Wed Sep  4 18:39:22 2019	LV was killed by DrDerpenstein with a weapon_fists
+Wed Sep  4 18:39:24 2019	LV (STEAM_0:0:460419170) spawned
+Wed Sep  4 18:39:39 2019	LV (STEAM_0:0:460419170): how did you do that
+Wed Sep  4 18:39:45 2019	LV (STEAM_0:0:460419170): fine
+Wed Sep  4 18:39:59 2019	LV (STEAM_0:0:460419170): oh
+Wed Sep  4 18:40:48 2019	LV (STEAM_0:0:460419170): bye
+Wed Sep  4 18:40:57 2019	LV (STEAM_0:0:460419170): bye
+Wed Sep  4 18:41:09 2019	LV (STEAM_0:0:460419170): i think i know the command
+Wed Sep  4 18:41:13 2019	LV (STEAM_0:0:460419170): !goto derp
+Wed Sep  4 18:41:17 2019	LV (STEAM_0:0:460419170): Bye
+Wed Sep  4 18:41:20 2019	Derp (STEAM_0:0:52504530): why
+Wed Sep  4 18:41:24 2019	LV (STEAM_0:0:460419170): i have to go
+Wed Sep  4 18:41:25 2019	Derp (STEAM_0:0:52504530): oh
+Wed Sep  4 18:41:29 2019	Derp (STEAM_0:0:52504530): alright man catch u later
+Wed Sep  4 18:41:34 2019	LV (STEAM_0:0:460419170): i will be on tommorow
+Wed Sep  4 18:41:36 2019	Derp (STEAM_0:0:52504530): sounds good
+Wed Sep  4 18:41:43 2019	Derp (STEAM_0:0:52504530): cya
+Wed Sep  4 18:41:47 2019	Derp was killed by Himself with a suicide trick
+Wed Sep  4 18:41:52 2019	Derp (STEAM_0:0:52504530) spawned
+Wed Sep  4 18:41:54 2019	LV (STEAM_0:0:460419170): bye
+Wed Sep  4 18:41:56 2019	LV (STEAM_0:0:460419170) disconnected
+Wed Sep  4 18:42:47 2019	Derp (STEAM_0:0:52504530): !savezvm
+Wed Sep  4 18:46:52 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Wed Sep  4 18:46:52 2019	Derp (STEAM_0:0:52504530) spawned
+Wed Sep  4 19:07:43 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Wed Sep  4 19:07:43 2019	Derp (STEAM_0:0:52504530) spawned
+Wed Sep  4 19:11:36 2019	Derp (STEAM_0:0:52504530) disconnected
+Wed Sep  4 19:17:32 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Wed Sep  4 19:17:38 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Wed Sep  4 19:19:24 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_crossbow
+Wed Sep  4 19:19:29 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_rpg_round
+Wed Sep  4 19:19:31 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_ammo_smg1_grenade
+Wed Sep  4 19:21:06 2019	DrDerpenstein (STEAM_0:0:13562763): models/Items/BoxFlares.mdl
+Wed Sep  4 19:30:47 2019	DrDerpenstein (STEAM_0:0:13562763) disconnected
+Wed Sep  4 20:19:34 2019	Vibes (STEAM_0:1:180882884) has joined the game
+Wed Sep  4 20:19:34 2019	Vibes (STEAM_0:1:180882884) spawned
+Wed Sep  4 20:24:38 2019	Vibes (STEAM_0:1:180882884) disconnected
+Wed Sep  4 20:37:25 2019	DrDerpenstein sups.gg (STEAM_0:0:13562763) has joined the game
+Wed Sep  4 20:37:25 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Wed Sep  4 20:37:38 2019	DrDerpenstein (STEAM_0:0:13562763) disconnected

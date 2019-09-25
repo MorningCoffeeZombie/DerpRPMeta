@@ -1,0 +1,40 @@
+2019-08-04 19.54.03: <General> Logging started, map: rp_downtown_tits_v2.
+2019-08-04 19.54.03: <General> Welcome to VCMod Auto-Updater version 9.61.
+2019-08-04 19.54.03: <General> Pre-initialization complete, preparing to load addon data.
+2019-08-04 19.54.03: <General> Addons found: VCMod ELS, VCMod Main.
+2019-08-04 19.54.38: <General> Preparations started. Server needs to have atleast one player on it for preparations to continue.
+2019-08-04 19.54.43: <General> Preparations are complete, handshaking API.
+2019-08-04 19.54.44: <General> Handshake successful.
+2019-08-04 19.54.44: <General> Handshake finished.
+2019-08-04 19.54.45: <General> Contacting preload API.
+2019-08-04 19.54.46: <General> Initializing preload.
+2019-08-04 19.54.46: <General> Preload finished. Initializing addons.
+2019-08-04 19.54.46: <General> Started loading serverside.
+2019-08-04 19.54.46: <General> Loaded Main v1.737 serverside.
+2019-08-04 19.54.46: <General> Loaded ELS v1.1426 serverside.
+2019-08-04 19.54.46: <General> Finished loading serverside.
+2019-08-04 19.54.47: <General> All repair man NPC's have been placed on the map.
+2019-08-04 19.54.47: <Repair man> all Repair men have been placed on the map.
+2019-08-04 19.54.52: <General> Scanning for potentially incompatible hooks.
+2019-08-04 19.54.52: <General> No incompatibilities found.
+2019-08-04 19.54.52: <General> General vehicle data is up to date.
+2019-08-04 19.54.52: <Fuel> All fuel stations have been respawned.
+2019-08-04 19.55.32: <General> Player DrDerpenstein has loaded and is waiting for a temp-key.
+2019-08-04 19.55.34: <General> Sent API key to player DrDerpenstein. 99 keys left.
+2019-08-04 19.55.34: <General> Initializing player DrDerpenstein.
+2019-08-04 19.55.36: <General> Player William has loaded and is waiting for a temp-key.
+2019-08-04 19.55.36: <General> Sent API key to player William. 98 keys left.
+2019-08-04 19.55.36: <General> Initializing player William.
+2019-08-04 20.02.24: <General> Player Dio has loaded and is waiting for a temp-key.
+2019-08-04 20.02.24: <General> Sent API key to player Dio. 97 keys left.
+2019-08-04 20.02.24: <General> Initializing player Dio.
+2019-08-04 20.03.35: <General> Player DrDerpenstein has loaded and is waiting for a temp-key.
+2019-08-04 20.03.35: <General> Sent API key to player DrDerpenstein. 96 keys left.
+2019-08-04 20.03.35: <General> Initializing player DrDerpenstein.
+2019-08-04 20.06.39: <General> Player DevL has loaded and is waiting for a temp-key.
+2019-08-04 20.06.39: <General> Sent API key to player DevL. 95 keys left.
+2019-08-04 20.06.39: <General> Initializing player DevL.
+2019-08-04 20.13.44: <Car dealer> Player: Dio(76561198955197088) has spawned a vehicle Ford Raptor SVT (TDM Cars) from Car dealer called: "Vroom-Vroom Dealer".
+2019-08-04 20.13.44: <General> Vehicle data "Ford Raptor SVT" loaded.
+2019-08-04 20.17.39: <General> Vehicle data "Cadillac LMP" loaded.
+2019-08-04 20.25.42: <General> vehicle "Ford Raptor SVT(TDM Cars)" has exploded.

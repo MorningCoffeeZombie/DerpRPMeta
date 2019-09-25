@@ -1,0 +1,54 @@
+Sat Jul 13 21:27:47 2019	Derp (STEAM_0:0:52504530) has joined the game
+Sat Jul 13 21:27:47 2019	Derp (STEAM_0:0:52504530) spawned
+Sat Jul 13 21:28:06 2019	Derp (STEAM_0:0:52504530): /owner
+Sat Jul 13 21:28:08 2019	Derp (STEAM_0:0:52504530): /owner
+Sat Jul 13 21:28:09 2019	Derp (STEAM_0:0:52504530): /owner
+Sat Jul 13 21:28:47 2019	UG | M A S T E R (STEAM_0:1:180622613) has joined the game
+Sat Jul 13 21:28:47 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Sat Jul 13 21:28:52 2019	Derp (STEAM_0:0:52504530): hi again
+Sat Jul 13 21:29:00 2019	UG | M A S T E R (STEAM_0:1:180622613): so
+Sat Jul 13 21:29:02 2019	Derp (STEAM_0:0:52504530): can u change the friction back please
+Sat Jul 13 21:29:15 2019	UG | M A S T E R (STEAM_0:1:180622613): // You are funny
+Sat Jul 13 21:29:19 2019	UG | M A S T E R (STEAM_0:1:180622613): sure
+Sat Jul 13 21:29:20 2019	Derp (STEAM_0:0:52504530): did u come in here to flex 
+Sat Jul 13 21:29:26 2019	Derp (STEAM_0:0:52504530): u literally flexed on me with ur lua power 
+Sat Jul 13 21:29:56 2019	Derp (STEAM_0:0:52504530): thank you
+Sat Jul 13 21:30:09 2019	Derp (STEAM_0:0:52504530): how do u even prevent something like this from happening
+Sat Jul 13 21:30:12 2019	UG | M A S T E R (STEAM_0:1:180622613): So, someone wanted to have this server attacked.
+Sat Jul 13 21:30:19 2019	Derp (STEAM_0:0:52504530): really?
+Sat Jul 13 21:30:21 2019	UG | M A S T E R (STEAM_0:1:180622613): yeah
+Sat Jul 13 21:30:33 2019	Derp (STEAM_0:0:52504530): is that why u were able to become the owner
+Sat Jul 13 21:30:48 2019	UG | M A S T E R (STEAM_0:1:180622613): Nah, my script allowed me to.
+Sat Jul 13 21:30:53 2019	Derp (STEAM_0:0:52504530): wow thats some powerful stuff
+Sat Jul 13 21:31:08 2019	Derp (STEAM_0:0:52504530): how do i make it so people cant just come in and rape my server
+Sat Jul 13 21:31:21 2019	UG | M A S T E R (STEAM_0:1:180622613): idk, hire someone to make a anti cheat
+Sat Jul 13 21:31:31 2019	Derp (STEAM_0:0:52504530): funnily enough the guy i was talking to u about is the co owner
+Sat Jul 13 21:31:35 2019	Derp (STEAM_0:0:52504530): and he supposedly has an anti cheat
+Sat Jul 13 21:31:47 2019	Derp (STEAM_0:0:52504530): he is the guy using the same stuff as u
+Sat Jul 13 21:32:07 2019	UG | M A S T E R (STEAM_0:1:180622613): Hm, does he go by the name DDOX?
+Sat Jul 13 21:32:10 2019	Derp (STEAM_0:0:52504530): yup
+Sat Jul 13 21:32:26 2019	UG | M A S T E R (STEAM_0:1:180622613): welp, now I have a death wish on the server.
+Sat Jul 13 21:32:31 2019	Derp (STEAM_0:0:52504530): why
+Sat Jul 13 21:32:37 2019	UG | M A S T E R (STEAM_0:1:180622613): I hate ddox
+Sat Jul 13 21:32:49 2019	Derp (STEAM_0:0:52504530): /ooc what does he do
+Sat Jul 13 21:34:32 2019	This Steam account has been VAC banned from secure servers due to a cheating infraction. (STEAM_0:0:52504530): i just want to make a server dude im paying for this stuff
+Sat Jul 13 21:36:08 2019	This Steam account has been VAC banned from secure servers due to a cheating infraction. (STEAM_0:1:180622613): /rpname Nitrous Networks Administrator
+Sat Jul 13 21:36:49 2019	This Steam account has been VAC banned from secure servers due to a cheating infraction. (STEAM_0:0:52504530): :l
+Sat Jul 13 21:36:50 2019	This Steam account has been VAC banned from secure servers due to a cheating infraction. (STEAM_0:1:180622613): you are looking sexy
+Sat Jul 13 21:37:02 2019	This Steam account has been VAC banned from secure servers due to a cheating infraction. (STEAM_0:0:52504530): please man i just want to set up my server
+Sat Jul 13 21:37:07 2019	This Steam account has been VAC banned from secure servers due to a cheating infraction. (STEAM_0:0:52504530): im paying 20 bucks a month for it
+Sat Jul 13 21:37:28 2019	This Steam account has been VAC banned from secure servers due to a cheating infraction. (STEAM_0:1:180622613): Hm, have you know there is cheaper hosts for garry's mod.
+Sat Jul 13 21:37:43 2019	This Steam account has been VAC banned from secure servers due to a cheating infraction. (STEAM_0:1:180622613): /rpname System Administrator
+Sat Jul 13 21:37:47 2019	This Steam account has been VAC banned from secure servers due to a cheating infraction. (STEAM_0:0:52504530): probably but that doesnt mean i have to deal with people ruining my server every 5 seconds like this
+Sat Jul 13 21:37:53 2019	This Steam account has been VAC banned from secure servers due to a cheating infraction. (STEAM_0:1:180622613): why do you even use my host?
+Sat Jul 13 21:38:01 2019	This Steam account has been VAC banned from secure servers due to a cheating infraction. (STEAM_0:0:52504530): /ooc what host?
+Sat Jul 13 21:38:28 2019	This Steam account has been VAC banned from secure servers due to a cheating infraction. (STEAM_0:1:180622613): // nitrous networks
+Sat Jul 13 21:38:35 2019	This Steam account has been VAC banned from secure servers due to a cheating infraction. (STEAM_0:0:52504530): /ooc whats wrong with nitrous
+Sat Jul 13 21:38:48 2019	This Steam account has been VAC banned from secure servers due to a cheating infraction. (STEAM_0:1:180622613): well, I made it.
+Sat Jul 13 21:39:04 2019	This Steam account has been VAC banned from secure servers due to a cheating infraction. (STEAM_0:0:52504530): u made nitrous networks?
+Sat Jul 13 21:39:10 2019	This Steam account has been VAC banned from secure servers due to a cheating infraction. (STEAM_0:1:180622613): Yes, do you like it?
+Sat Jul 13 21:39:16 2019	This Steam account has been VAC banned from secure servers due to a cheating infraction. (STEAM_0:0:52504530): how am i supposed to believe u
+Sat Jul 13 21:39:32 2019	This Steam account has been VAC banned from secure servers due to a cheating infraction. (STEAM_0:1:180622613): What is a other way I can access your server
+Sat Jul 13 21:39:44 2019	This Steam account has been VAC banned from secure servers due to a cheating infraction. (STEAM_0:0:52504530): masterware probably gave u the information i gave him
+Sat Jul 13 21:39:48 2019	This Steam account has been VAC banned from secure servers due to a cheating infraction. (STEAM_0:0:52504530): thats probably why u have access to this
+Sat Jul 13 21:40:21 2019	This Steam account has been VAC banned from secure servers due to a cheating infraction. (STEAM_0:1:180622613): well, I'm fix your server now. This stuff isn't perm.

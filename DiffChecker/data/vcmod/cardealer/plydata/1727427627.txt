@@ -1,0 +1,198 @@
+{
+	"Vehicles": {
+		"models/tdmcars/emergency/for_crownvic.mdl$$$_VC_$$$Ford Crown Victoria$$$_VC_$$$0": {
+			"Health": 100.0,
+			"Fuel": 99.0,
+			"Spawned": 1601.0
+		},
+		"models/tdmcars/emergency/for_taurus_13.mdl$$$_VC_$$$Ford Taurus 2013$$$_VC_$$$1": [],
+		"models/tdmcars/lex_is300.mdl$$$_VC_$$$Lexus IS 300$$$_VC_$$$0": [],
+		"models/tdmcars/emergency/chargersrt8.mdl$$$_VC_$$$Dodge Charger SRT8 Police$$$_VC_$$$1": {
+			"Health": 0.0,
+			"Fuel": 0.0,
+			"DamagedObjects": {
+				"light": {
+					"1": [],
+					"2": [],
+					"3": [],
+					"4": [],
+					"6": [],
+					"8": [],
+					"10": [],
+					"11": [],
+					"13": [],
+					"16": [],
+					"67": [],
+					"235": [],
+					"187": [],
+					"91": [],
+					"98": [],
+					"75": [],
+					"56": [],
+					"82": [],
+					"101": [],
+					"108": [],
+					"258": [],
+					"77": [],
+					"92": [],
+					"84": [],
+					"262": [],
+					"76": [],
+					"51": [],
+					"43": [],
+					"102": [],
+					"259": [],
+					"94": [],
+					"86": [],
+					"97": [],
+					"52": [],
+					"89": [],
+					"33": [],
+					"257": [],
+					"49": []
+				},
+				"exhaust": [
+					[]
+				]
+			}
+		},
+		"models/tdmcars/emergency/mitsu_evox.mdl$$$_VC_$$$Mitsubishi Evo X Police$$$_VC_$$$0": [],
+		"models/airboat.mdl$$$_VC_$$$Airboat$$$_VC_$$$0": {
+			"Color": {
+				"r": 0.0,
+				"b": 255.0,
+				"a": 255.0,
+				"g": 255.0
+			},
+			"Spawned": 1662.0,
+			"BGroups": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		"models/tdmcars/trucks/kenworth_t800.mdl$$$_VC_$$$Kenworth T800$$$_VC_$$$0": {
+			"Health": 100.0,
+			"Fuel": 98.0,
+			"Spawned": 1588.0
+		},
+		"models/tdmcars/mclaren_p1.mdl$$$_VC_$$$McLaren P1$$$_VC_$$$0": {
+			"Skin": 15.0,
+			"DamagedObjects": {
+				"wheel": [
+					[],
+					[],
+					[],
+					[]
+				],
+				"light": {
+					"1": [],
+					"3": [],
+					"4": [],
+					"5": [],
+					"6": [],
+					"7": [],
+					"8": [],
+					"9": [],
+					"10": [],
+					"11": [],
+					"13": [],
+					"14": [],
+					"15": [],
+					"16": [],
+					"17": [],
+					"19": [],
+					"20": []
+				},
+				"exhaust": [
+					[],
+					[]
+				]
+			},
+			"Color": {
+				"r": 255.0,
+				"b": 255.0,
+				"a": 255.0,
+				"g": 255.0
+			},
+			"Health": 95.6973,
+			"Fuel": 97.0,
+			"BGroups": {
+				"7": 1.0,
+				"6": 1.0
+			}
+		},
+		"models/tdmcars/dod_ram_1500.mdl$$$_VC_$$$Dodge RAM 1500$$$_VC_$$$0": {
+			"Skin": 15.0,
+			"Spawned": 1605.0,
+			"Color": {
+				"r": 255.0,
+				"b": 0.0,
+				"a": 255.0,
+				"g": 0.0
+			},
+			"Health": 99.8338,
+			"Fuel": 99.0
+		},
+		"models/tdmcars/jag_ftype.mdl$$$_VC_$$$Jaguar F-Type$$$_VC_$$$0": {
+			"Health": 100.0,
+			"Skin": 15.0,
+			"Fuel": 0.0,
+			"DamagedObjects": {
+				"light": {
+					"1": [],
+					"2": [],
+					"5": [],
+					"6": [],
+					"7": [],
+					"8": [],
+					"10": [],
+					"12": [],
+					"13": [],
+					"14": [],
+					"15": []
+				},
+				"exhaust": [
+					[],
+					[]
+				]
+			}
+		},
+		"models/tdmcars/dod_challenger15.mdl$$$_VC_$$$Dodge Challenger 2015$$$_VC_$$$0": {
+			"Skin": 15.0,
+			"DamagedObjects": {
+				"wheel": {
+					"2": []
+				},
+				"light": {
+					"2": [],
+					"3": [],
+					"4": [],
+					"6": [],
+					"7": [],
+					"16": [],
+					"17": []
+				},
+				"exhaust": {
+					"2": []
+				}
+			},
+			"Color": {
+				"r": 255.0,
+				"b": 0.0,
+				"a": 255.0,
+				"g": 0.0
+			},
+			"Health": 47.5558,
+			"Fuel": 98.0,
+			"BGroups": {
+				"4": 1.0,
+				"5": 1.0,
+				"6": 2.0,
+				"7": 1.0,
+				"8": 1.0,
+				"10": 1.0
+			}
+		}
+	}
+}

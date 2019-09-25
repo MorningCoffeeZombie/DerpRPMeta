@@ -1,0 +1,25 @@
+{
+	"Vehicles": {
+		"models/tdmcars/ktm_xbow.mdl$$$_VC_$$$KTM X-BOW$$$_VC_$$$0": [],
+		"models/tdmcars/mas_quattroporte.mdl$$$_VC_$$$Maserati Quattroporte Sport GT S$$$_VC_$$$0": [],
+		"models/tdmcars/minicooper_offroad.mdl$$$_VC_$$$Miri Coorer 4x4$$$_VC_$$$0": [],
+		"models/tdmcars/lam_gallardospyd.mdl$$$_VC_$$$Lamborghini Gallardo LP570-4 Spyder Performante$$$_VC_$$$0": [],
+		"models/tdmcars/por_918.mdl$$$_VC_$$$Porsche 918 Spyder$$$_VC_$$$0": [],
+		"models/tdmcars/jeep_wrangler_fnf.mdl$$$_VC_$$$Jeep Wrangler F&F$$$_VC_$$$0": [],
+		"models/tdmcars/bmw_isetta.mdl$$$_VC_$$$BMW Isetta 300 Export$$$_VC_$$$0": {
+			"DamagedObjects": {
+				"light": {
+					"3": []
+				}
+			},
+			"Health": 99.8034,
+			"Fuel": 99.0,
+			"Spawned": 224.0
+		},
+		"models/tdmcars/mclaren_p1.mdl$$$_VC_$$$McLaren P1$$$_VC_$$$0": [],
+		"models/tdmcars/bmw507.mdl$$$_VC_$$$BMW 507$$$_VC_$$$0": [],
+		"models/tdmcars/fer_458spid.mdl$$$_VC_$$$Ferrari 458 Spider$$$_VC_$$$0": [],
+		"models/tdmcars/dod_challenger15.mdl$$$_VC_$$$Dodge Challenger 2015$$$_VC_$$$0": [],
+		"models/tdmcars/zen_st1.mdl$$$_VC_$$$Zenvo ST1$$$_VC_$$$0": []
+	}
+}

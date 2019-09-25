@@ -1,0 +1,525 @@
+<Logging continued from "data/ulx_logs/09-17-19.txt">
+[00:00:31] Derp: if u wanna be a mod or something just apply and ill approve u
+[00:00:34] Client "b3ar" spawned in server <STEAM_0:1:80896282> (took 60 seconds).
+[00:00:53] Derp: the guy joining right now wants to be a mod really bad
+[00:01:07] b3ar<STEAM_0:1:80896282> spawned model models/props_c17/metalladder002.mdl
+[00:01:08] b3ar was killed by prop_physics
+[00:01:23] Derp: im gonna give him a chance since he seems pretty persistent and he listens to me
+[00:02:49] Derp: are u looking forward to S＆box?
+[00:03:09] Derp: my voice chat is all fucked up
+[00:03:10] b3ar: /ooc hello?
+[00:03:11] Derp: can u type
+[00:03:21] Delightful: What is S＆BOX
+[00:03:26] Derp added b3ar to group moderator
+[00:03:28] Derp: there
+[00:03:32] b3ar: ... 0_0
+[00:03:39] b3ar: /ooc thanks 
+[00:03:43] Derp: now just follow the rules and be chill aight
+[00:03:46] b3ar: alright 
+[00:03:55] Derp: S＆box is gmod 2
+[00:04:04] b3ar: /ooc thank you
+[00:04:07] Derp: // no problem
+[00:04:07] Delightful: OHHH I DIDNT EVEN KNOW THAT WAS A THING
+[00:04:11] Delightful: HOLY SHIT
+[00:04:13] Delightful: WHAT
+[00:04:34] Derp: yup its legit gmod 2 its being made by facepunch and its either gonna be on source 2 or unreal engine 4
+[00:04:42] Delightful: That is weird af
+[00:05:05] Delightful: cause thats like the making HL3 Because there is so much expectations 
+[00:05:28] Delightful: But obv hl3 is harder to match what we believe
+[00:05:36] Derp: the biggest difference will be optimization and programming
+[00:05:56] b3ar: /hp b3ar 10000000
+[00:05:59] Derp: S＆box is gonna run and look a lot better than gmod and the programming language will be C# not lua
+[00:06:10] Client "DrDerpenstein sups.gg" connected.
+[00:06:33] Derp: because of the change in programming languages we will have a more stable game and way more high quality mods for the most part
+[00:06:38] Client "DrDerpenstein sups.gg" spawned in server <STEAM_0:0:13562763> (took 28 seconds).
+[00:06:59] Delightful: I mean im making my game in C# atm so that is gonna be so fricking easy to work with but i also love lua
+[00:07:14] Derp: lua is easy to learn but jesus christ its so clumsy
+[00:07:20] Delightful: yes it is
+[00:07:31] DrDerpenstein: // internet dropped
+[00:07:32] Derp: u make a single mistake no matter how small and the entire shit goes down
+[00:07:38] DrDerpenstein: // back ( i think )
+[00:08:02] Delightful: yeah but nowaday i reread everyhing i do 
+[00:08:06] Delightful: to prevent that
+[00:08:34] Delightful: but hey ima get off and goto bed i gotta be up real early tomorrow so gn
+[00:08:56] Derp: alright man it was nice talking to u again
+[00:09:09] b3ar<STEAM_0:1:80896282> spawned model models/props_c17/metalladder001.mdl
+[00:09:41] DrDerpenstein: /pm derp did you set bear to mod?
+[00:10:01] Derp: /pm drderp yeah i was hesitant at first but he seems like a chill dude now
+[00:10:16] Derp: /pm drderp i just wanna give him a chance and if he fucks up then he gets demoted
+[00:10:47] Derp: looks like poo rolled on grass
+[00:10:56] Derp: great
+[00:11:56] Derp: can we disable the grav gun noise? lol
+[00:13:15] Derp: btw when u start roleplaying and shit try not to noclip lol
+[00:13:23] b3ar: ye im not rping rn lol
+[00:13:30] Derp: if u wanna noclip around just become the moderator on duty job and ur good to go
+[00:13:38] b3ar: how do i do that 
+[00:13:46] b3ar: do i get my own skin and stuff
+[00:13:51] Derp: it should be at the bottom of the jobs
+[00:14:00] b3ar: i font see it
+[00:14:16] b3ar: last think is civil protection
+[00:14:21] b3ar: *thing
+[00:14:42] Derp: ill fix that later for now u can just be like a citizen or something and do /job mod on duty
+[00:14:47] b3ar: ok
+[00:14:50] b3ar: mb
+[00:14:54] Derp: lol
+[00:14:58] b3ar: /job mod on duty
+[00:15:08] Derp: imma get off soon
+[00:15:10] Derp: im tired
+[00:15:13] b3ar: alright
+[00:15:18] Derp: if u need anything just msg me on steam
+[00:16:23] Dropped "Delightful" from server<STEAM_0:0:69143418>
+[00:18:15] Derp: is it the missing spawnmenu stuff?
+[00:18:25] Derp: that already took effect
+[00:18:38] Derp: yeah i only see the props
+[00:18:49] b3ar<STEAM_0:1:80896282> spawned vehicle models/sligwolf/fcc/flying_crawler_car.mdl
+[00:18:53] Derp: mhm
+[00:19:03] Derp: one problem is that i was still able to see sasuke and owner on duty
+[00:19:05] Derp: oh wait
+[00:19:06] Derp: im dumb
+[00:19:07] Derp: nvm
+[00:19:55] Derp: oh yeah i wanted to apologize for getting angry the other time we were talking im just not feeling well lately
+[00:20:37] Derp: !gas
+[00:22:09] Dropped "DrDerpenstein" from server<STEAM_0:0:13562763>
+[00:23:30] Derp: u know how to make it fly right?
+[00:23:35] Derp: R
+[00:23:42] Derp: hold space
+[00:23:51] Derp: space to go up and alt to go down
+[00:24:13] Derp: LOL
+[00:24:19] b3ar suicided!
+[00:24:21] Derp: OH MY GOD
+[00:24:44] Derp: FLY UP GOD DAMN IT PRESS SPACE
+[00:24:51] Derp: hold alt to go down
+[00:25:10] Derp: jesus christ XD
+[00:25:22] Derp: we are gonna destroy every building before we get to our destination
+[00:25:35] Derp: wtf just happened
+[00:25:43] b3ar<STEAM_0:1:80896282> spawned vehicle models/sligwolf/blue-x11/blue-x11.mdl
+[00:26:07] Derp: i think its just a normal car
+[00:26:12] Derp: shift is turbo i think
+[00:26:20] b3ar<STEAM_0:1:80896282> spawned vehicle models/sligwolf/fcc/flying_crawler_car.mdl
+[00:27:02] Derp<STEAM_0:0:52504530> spawned model models/props_c17/fence02a.mdl
+[00:27:16] Derp<STEAM_0:0:52504530> spawned model models/props_c17/furnituredrawer001a_chunk06.mdl
+[00:27:23] Derp<STEAM_0:0:52504530> spawned model models/props_c17/furniturechair001a.mdl
+[00:27:26] Derp<STEAM_0:0:52504530> spawned model models/props_c17/chair02a.mdl
+[00:27:29] Derp<STEAM_0:0:52504530> spawned model models/props_c17/furniturechair001a.mdl
+[00:27:56] Dropped "Derp" from server<STEAM_0:0:52504530>
+[00:37:53] Dropped "b3ar" from server<STEAM_0:1:80896282>
+[13:31:56] Client "Delightful" connected.
+[13:34:32] Client "Delightful" spawned in server <STEAM_0:0:69143418> (took 156 seconds).
+[13:37:29] Client "Derp" connected.
+[13:38:12] Delightful<STEAM_0:0:69143418> spawned model models/props_phx/construct/metal_plate1x2.mdl
+[13:38:27] Client "Derp" spawned in server <STEAM_0:0:52504530> (took 58 seconds).
+[13:38:33] Delightful<STEAM_0:0:69143418> used the tool stacker_improved on models/props_phx/construct/metal_plate1x2.mdl
+[13:38:33] Delightful<STEAM_0:0:69143418> spawned model models/props_phx/construct/metal_plate1x2.mdl
+[13:38:53] Delightful<STEAM_0:0:69143418> spawned model models/props_phx/construct/metal_wire1x2.mdl
+[13:39:07] Delightful<STEAM_0:0:69143418> used the tool stacker_improved on models/props_phx/construct/metal_wire1x2.mdl
+[13:39:07] Delightful<STEAM_0:0:69143418> spawned model models/props_phx/construct/metal_wire1x2.mdl
+[13:40:15] Derp: nothing much
+[13:40:16] Derp: what about u
+[13:40:42] Derp: i just came on because i saw u joined
+[13:40:53] Derp: i dont like to leave my players alone lol
+[13:45:14] Derp: u know how when u join the server u have to mount addons in-game
+[13:45:31] Derp: i will make sure its much faster next server restart
+[13:45:53] Derp: its because we were using it incorrectly
+[13:46:12] Derp: in reality it should mount everything that we gave it in like 30 seconds but its mounting like almost the entire collection
+[13:47:36] Derp: everyone on the server loves using the weed mod
+[13:47:55] Derp: whenever i join i see so many people using it
+[13:47:58] Derp: its insane
+[13:48:18] Derp: its probably because it makes u active
+[13:48:21] Derp: doesnt get u bored
+[13:48:44] Derp: well uh lol be careful ur plants or gen dont start fucking up on u
+[13:48:50] Derp: and u come back to a blown up generator and no weed
+[13:50:27] Derp: no
+[13:50:34] Derp: i know what it is tho
+[13:51:49] Derp: i added u on discord
+[14:19:50] Delightful<STEAM_0:0:69143418> spawned model models/props_wasteland/controlroom_desk001a.mdl
+[14:31:06] Derp<STEAM_0:0:52504530> spawned sent zwf_palette
+[14:31:10] Derp<STEAM_0:0:52504530> spawned sent zwf_weedblock
+[14:31:26] Derp<STEAM_0:0:52504530> spawned sent zwf_palette
+[14:31:27] Derp<STEAM_0:0:52504530> spawned sent zwf_weedblock
+[14:31:33] Derp<STEAM_0:0:52504530> spawned sent zwf_palette
+[14:31:35] Derp<STEAM_0:0:52504530> spawned sent zwf_weedblock
+[14:31:36] Derp<STEAM_0:0:52504530> spawned sent zwf_weedblock
+[14:31:36] Derp<STEAM_0:0:52504530> spawned sent zwf_weedblock
+[14:31:36] Derp<STEAM_0:0:52504530> spawned sent zwf_weedblock
+[14:31:36] Derp<STEAM_0:0:52504530> spawned sent zwf_weedblock
+[14:31:36] Derp<STEAM_0:0:52504530> spawned sent zwf_weedblock
+[14:31:37] Derp<STEAM_0:0:52504530> spawned sent zwf_weedblock
+[14:31:37] Derp<STEAM_0:0:52504530> spawned sent zwf_weedblock
+[14:31:37] Derp<STEAM_0:0:52504530> spawned sent zwf_weedblock
+[14:31:38] Derp<STEAM_0:0:52504530> spawned sent zwf_weedblock
+[14:31:38] Derp<STEAM_0:0:52504530> spawned sent zwf_weedblock
+[14:31:39] Derp<STEAM_0:0:52504530> spawned sent zwf_weedblock
+[14:31:43] Derp<STEAM_0:0:52504530> spawned sent zwf_weedblock
+[14:31:43] Derp<STEAM_0:0:52504530> spawned sent zwf_weedblock
+[14:31:43] Derp<STEAM_0:0:52504530> spawned sent zwf_weedblock
+[14:31:44] Derp<STEAM_0:0:52504530> spawned sent zwf_weedblock
+[14:31:44] Derp<STEAM_0:0:52504530> spawned sent zwf_weedblock
+[14:31:44] Derp<STEAM_0:0:52504530> spawned sent zwf_weedblock
+[14:31:44] Derp<STEAM_0:0:52504530> spawned sent zwf_weedblock
+[14:31:45] Derp<STEAM_0:0:52504530> spawned sent zwf_weedblock
+[14:31:45] Derp<STEAM_0:0:52504530> spawned sent zwf_weedblock
+[14:31:45] Derp<STEAM_0:0:52504530> spawned sent zwf_weedblock
+[14:31:45] Derp<STEAM_0:0:52504530> spawned sent zwf_weedblock
+[14:37:18] Client "Regen" connected.
+[14:40:43] Client "Regen" spawned in server <STEAM_0:0:46794624> (took 205 seconds).
+[14:43:16] Dropped "Regen" from server<STEAM_0:0:46794624>
+[14:43:48] Derp<STEAM_0:0:52504530> spawned/gave himself swep zwf_bong03
+[15:16:04] Delightful: /dropweapon
+[15:22:32] Dropped "Derp" from server<STEAM_0:0:52504530>
+
+
+
+[15:25:19] New map: rp_downtown_tits_v2
+[18:25:44] Client "Sukebena-Chan" connected.
+[18:30:05] Client "Sukebena-Chan" spawned in server <STEAM_0:1:63382511> (took 261 seconds).
+[18:37:24] Client "DrDerpenstein sups.gg" connected.
+[18:38:18] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_c17/chair02a.mdl
+[18:38:38] Client "DrDerpenstein sups.gg" spawned in server <STEAM_0:0:13562763> (took 74 seconds).
+[18:38:57] DrDerpenstein: !billys
+[18:38:59] DrDerpenstein: !billy
+[18:39:56] DrDerpenstein: !menu
+[18:43:47] DrDerpenstein revoked access "ulx armor" to group moderator
+[18:43:56] DrDerpenstein revoked access "ulx cloak" to group moderator
+[18:44:23] DrDerpenstein granted access "ulx send" to group moderator
+[18:44:24] DrDerpenstein revoked access "ulx send" to group moderator
+[18:45:53] DrDerpenstein revoked access "ulx physgunplayer" to group moderator
+[18:46:28] DrDerpenstein: !who
+[18:46:33] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_combine/weaponstripper.mdl
+[18:46:37] DrDerpenstein: !who
+[18:46:38] DrDerpenstein: !menu
+[18:47:39] DrDerpenstein revoked access "awarn_remove" to group moderator
+[18:47:44] DrDerpenstein revoked access "awarn_delete" to group moderator
+[18:48:44] Bexgasm~: // I just  spoke with derp about demoting tangor.
+[18:49:30] Bexgasm~: /acc
+[18:49:36] Bexgasm~: /acc
+[18:49:38] DrDerpenstein: !darkrp_getjob_mayor 
+[18:49:40] DrDerpenstein: /darkrp_getjob_mayor 
+[18:49:42] DrDerpenstein: darkrp_getjob_mayor 
+[18:49:46] DrDerpenstein: !menu
+[18:50:16] Client "Derp" connected.
+[18:50:21] DrDerpenstein revoked access "ulx blind" to group admin
+[18:50:24] DrDerpenstein revoked access "ulx cloak" to group admin
+[18:50:29] DrDerpenstein revoked access "ulx ignite" to group admin
+[18:50:34] DrDerpenstein revoked access "ulx armor" to group admin
+[18:50:36] DrDerpenstein revoked access "ulx playsound" to group admin
+[18:50:37] DrDerpenstein revoked access "ulx ragdoll" to group admin
+[18:50:44] DrDerpenstein revoked access "ulx sslay" to group admin
+[18:51:07] Client "Derp" spawned in server <STEAM_0:0:52504530> (took 51 seconds).
+[18:51:20] Bexgasm~ suicided!
+[18:51:30] Bexgasm~: /acc
+[18:51:53] DrDerpenstein revoked access "ulx votemap2" to group admin
+[18:51:57] Bexgasm~: /acc
+[18:51:58] DrDerpenstein revoked access "ulx votekick" to group admin
+[18:51:58] DrDerpenstein revoked access "ulx voteban" to group admin
+[18:52:09] Bexgasm~: whens map change
+[18:52:10] Derp removed all access rights from TangorVogan
+[18:52:22] Derp: probably on the weekend 
+[18:52:25] Bexgasm~: Bruhh
+[18:52:27] DrDerpenstein revoked access "ulx vstartfire" to group admin
+[18:52:29] Bexgasm~: Why though
+[18:52:36] Derp: its gonna help us a lot
+[18:52:41] Bexgasm~: Why not today?
+[18:52:59] Derp: because setting up the map is gonna be tiring and long so we wanna do it when we have the most amount of energy and time
+[18:53:05] Bexgasm~: Kk
+[18:53:12] DrDerpenstein revoked access "ulx motdurl" to group admin
+[18:53:13] DrDerpenstein revoked access "ulx motdfile" to group admin
+[18:53:20] DrDerpenstein revoked access "ulx rslots" to group admin
+[18:53:21] DrDerpenstein revoked access "ulx rslotsmode" to group admin
+[18:53:22] DrDerpenstein revoked access "ulx rslotsvisible" to group admin
+[18:53:23] Derp: we have to setup textscreens, npcs, entities, door groups, spawns
+[18:53:25] Derp: all that shit
+[18:53:33] Bexgasm~: That's alright
+[18:53:39] Bexgasm~: We'll get it finished
+[18:53:55] Bexgasm~: !title
+[18:53:55] DrDerpenstein revoked access "ulx votekickminvotes" to group admin
+[18:53:57] DrDerpenstein revoked access "ulx votekicksuccessratio" to group admin
+[18:53:58] DrDerpenstein revoked access "ulx votemap2minvotes" to group admin
+[18:53:58] Bexgasm~: !titles
+[18:53:59] DrDerpenstein revoked access "ulx votemap2successratio" to group admin
+[18:54:00] DrDerpenstein revoked access "ulx votemapenabled" to group admin
+[18:54:01] DrDerpenstein revoked access "ulx votemapmapmode" to group admin
+[18:54:02] DrDerpenstein revoked access "ulx votemapmintime" to group admin
+[18:54:04] DrDerpenstein revoked access "ulx votemapsuccessratio" to group admin
+[18:54:05] DrDerpenstein revoked access "ulx votemapminvotes" to group admin
+[18:54:05] DrDerpenstein revoked access "ulx votemapvetotime" to group admin
+[18:54:06] DrDerpenstein revoked access "ulx votemapwaittime" to group admin
+[18:54:11] DrDerpenstein revoked access "ulx votebansuccessratio" to group admin
+[18:54:12] DrDerpenstein revoked access "ulx votebanminvotes" to group admin
+[18:55:19] Bexgasm~: /acc
+[18:56:22] Bexgasm~<STEAM_0:1:63382511> used the tool camera on maps/rp_downtown_tits_v2.bsp
+[18:56:31] Bexgasm~: /acc
+[18:56:33] DrDerpenstein revoked access "ulx blind" to group superadmin
+[18:56:37] Bexgasm~: // L
+[18:56:42] Bexgasm~: /acc
+[18:56:43] DrDerpenstein revoked access "ulx ignite" to group superadmin
+[18:56:46] DrDerpenstein revoked access "ulx maul" to group superadmin
+[18:56:47] Bexgasm~: // L
+[18:56:51] DrDerpenstein revoked access "ulx playsound" to group superadmin
+[18:56:53] Bexgasm~: // L
+[18:56:57] Bexgasm~: /acc
+[18:57:13] DrDerpenstein: // lol
+[18:57:30] DrDerpenstein revoked access "ulx setlimit" to group superadmin
+[18:57:38] Bexgasm~: // bruh
+[18:57:46] Bexgasm~<STEAM_0:1:63382511> used the tool camera on maps/rp_downtown_tits_v2.bsp
+[18:57:48] DrDerpenstein revoked access "ulx votemap2" to group superadmin
+[18:57:49] DrDerpenstein revoked access "ulx votemap" to group superadmin
+[18:58:06] Bexgasm~: // oml i cant even votemap
+[18:58:37] DrDerpenstein revoked access "ulx votemap2minvotes" to group superadmin
+[18:58:38] DrDerpenstein revoked access "ulx votemap2successratio" to group superadmin
+[18:58:38] DrDerpenstein granted access "ulx votemap2successratio" to group superadmin
+[18:58:40] DrDerpenstein revoked access "ulx votemap2successratio" to group superadmin
+[18:58:41] DrDerpenstein revoked access "ulx votemapenabled" to group superadmin
+[18:58:42] DrDerpenstein revoked access "ulx votemapmapmode" to group superadmin
+[18:58:42] DrDerpenstein revoked access "ulx votemapmintime" to group superadmin
+[18:58:43] DrDerpenstein revoked access "ulx votemapminvotes" to group superadmin
+[18:58:44] DrDerpenstein revoked access "ulx votemapsuccessratio" to group superadmin
+[18:58:45] DrDerpenstein revoked access "ulx votemapvetotime" to group superadmin
+[18:58:45] DrDerpenstein revoked access "ulx votemapwaittime" to group superadmin
+[19:00:53] Derp<STEAM_0:0:52504530> used the tool material on models/player/group01/female_02.mdl
+[19:00:56] Derp<STEAM_0:0:52504530> used the tool material on models/player/group01/female_02.mdl
+[19:00:59] Derp<STEAM_0:0:52504530> used the tool material on models/player/group01/female_02.mdl
+[19:01:00] Derp<STEAM_0:0:52504530> used the tool material on models/player/group01/female_02.mdl
+[19:01:01] Derp<STEAM_0:0:52504530> used the tool material on models/player/group01/female_02.mdl
+[19:01:01] Derp<STEAM_0:0:52504530> used the tool material on models/player/group01/female_02.mdl
+[19:01:03] Derp<STEAM_0:0:52504530> used the tool material on models/player/group01/female_02.mdl
+[19:01:04] Derp<STEAM_0:0:52504530> used the tool material on models/player/group01/female_02.mdl
+[19:01:05] Derp<STEAM_0:0:52504530> used the tool material on models/player/group01/female_02.mdl
+[19:01:06] Derp<STEAM_0:0:52504530> used the tool material on models/player/group01/female_02.mdl
+[19:01:07] Derp<STEAM_0:0:52504530> used the tool material on models/player/group01/female_02.mdl
+[19:01:09] Derp<STEAM_0:0:52504530> used the tool material on models/player/group01/female_02.mdl
+[19:01:10] Derp<STEAM_0:0:52504530> used the tool material on models/player/group01/female_02.mdl
+[19:01:11] Derp<STEAM_0:0:52504530> used the tool material on models/player/group01/female_02.mdl
+[19:01:15] Derp<STEAM_0:0:52504530> used the tool material on models/player/group01/female_02.mdl
+[19:01:22] Derp<STEAM_0:0:52504530> used the tool material on models/player/group01/female_02.mdl
+[19:01:24] Derp<STEAM_0:0:52504530> used the tool material on models/player/group01/female_02.mdl
+[19:01:25] Derp<STEAM_0:0:52504530> used the tool material on models/player/group01/female_02.mdl
+[19:01:27] Derp<STEAM_0:0:52504530> used the tool material on models/player/group01/female_02.mdl
+[19:01:29] Derp<STEAM_0:0:52504530> used the tool material on models/player/group01/female_02.mdl
+[19:01:48] Derp: yo
+[19:01:57] Dropped "DrDerpenstein" from server<STEAM_0:0:13562763>
+[19:02:00] Client "DrDerpenstein sups.gg" connected.
+[19:02:08] Bexgasm~: // yo will
+[19:02:11] Derp: ye
+[19:02:18] Bexgasm~: ricardos still administrator on the forum
+[19:02:21] Client "DrDerpenstein sups.gg" spawned in server <STEAM_0:0:13562763> (took 21 seconds).
+[19:02:42] Derp: i will see if i can undo that
+[19:02:43] DrDerpenstein: !menu
+[19:02:50] Bexgasm~: // Kk
+[19:03:11] DrDerpenstein suicided!
+[19:03:36] (Console) added DrDerpenstein to group owner
+[19:03:43] DrDerpenstein: !menu
+[19:04:15] Derp: ok i demoted him and UG lol
+[19:04:26] Bexgasm~: // Is UG no longer an admin?
+[19:04:39] Derp: he somehow set himself to owner rank on this server but he doesnt really play often at all
+[19:04:50] Bexgasm~: L
+[19:04:52] Derp: but he doesnt need to worry about the forums anyways
+[19:04:58] Bexgasm~: Yuh
+[19:05:06] Derp: he can stay as owner on here thats fine i told him not to hack anymore and he said ok
+[19:06:29] Bexgasm~: L
+[19:07:04] Derp: !gas
+[19:09:13] Derp: /logs
+[19:09:15] Derp: !logs
+[19:13:40] Bexgasm~: // L
+[19:13:40] (Console) added DrDerpenstein to group admin
+[19:13:52] Bexgasm~: // oh shit
+[19:14:18] (Console) added DrDerpenstein to group moderator
+[19:14:38] (Console) added DrDerpenstein to group owner
+[19:16:29] (Console) added DrDerpenstein to group owner
+[19:16:44] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_c17/door01_left.mdl
+[19:17:29] (Console) added DrDerpenstein to group owner
+[19:17:43] DrDerpenstein: !menu
+[19:17:56] Derp: do i still have my gamecube sponsorship?
+[19:18:54] Derp: change what?
+[19:19:02] Derp: i legit just made that a ticket
+[19:19:19] Derp: i mean ticket like support ticket on gmodstore
+[19:19:37] Derp: we do have a trial moderator rank
+[19:20:07] Derp revoked access "ulx hp" to group trialmoderator
+[19:20:11] (Console) added DrDerpenstein to group owner
+[19:21:15] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_c17/furnituresink001a.mdl
+[19:21:22] DrDerpenstein: !menu
+[19:21:27] Derp granted access "ulx freeze" to group trialmoderator
+[19:21:30] Derp granted access "ulx unfreeze" to group trialmoderator
+[19:21:31] (Console) added DrDerpenstein to group owner
+[19:21:49] Derp granted access "ulx gag" to group trialmoderator
+[19:21:50] Derp granted access "ulx mute" to group trialmoderator
+[19:21:50] DrDerpenstein revoked access "ulx hp" to group moderator
+[19:21:56] Derp granted access "ulx ungag" to group trialmoderator
+[19:22:12] Derp granted access "ulx unmute" to group trialmoderator
+[19:22:39] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_trainstation/trainstation_clock001.mdl
+[19:22:46] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_trainstation/trainstation_clock001.mdl
+[19:22:53] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_trainstation/trainstation_clock001.mdl
+[19:22:53] Derp: ow
+[19:22:58] Derp: it fucking bounced off and hit me
+[19:23:00] Bexgasm~ was killed by prop_physics
+[19:23:07] Bexgasm~: !goto derp
+[19:23:07] Bexgasm~ teleported to Derp
+[19:24:15] Derp was killed by prop_physics
+[19:24:21] Derp: !menu
+[19:24:42] Derp slapped Bexgasm~ with 0 damage
+[19:25:32] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_borealis/borealis_door001a.mdl
+[19:25:47] Derp: fucking stop or i will castrate u 
+[19:26:00] Derp ragdolled Bexgasm~
+[19:26:05] Bexgasm~: !unragdoll bex
+[19:26:05] Bexgasm~ unragdolled Themself
+[19:26:10] Derp: now ur bald
+[19:26:11] DrDerpenstein: /me test
+[19:26:11] Derp: take that
+[19:26:32] Derp killed Bexgasm~ using weapon_fists
+[19:26:35] Bexgasm~: !goto derp
+[19:26:35] Bexgasm~ teleported to Derp
+[19:26:44] Derp: oh shit its a school shooter
+[19:26:47] Derp: everyone run
+[19:26:51] Bexgasm~ suicided!
+[19:26:53] Derp suicided!
+[19:26:55] Bexgasm~: // L
+[19:26:57] Bexgasm~: !goto derpen
+[19:27:00] Bexgasm~: /goto derp
+[19:27:33] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:27:35] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:27:35] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:27:35] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:27:35] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:27:35] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:27:35] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:27:35] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:27:35] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:27:35] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:27:35] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:27:35] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:27:35] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:27:47] Derp: u mean dominos?
+[19:28:05] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:28:05] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:28:05] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:28:05] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:28:05] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:28:05] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:28:05] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:28:06] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:28:06] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:28:06] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:28:06] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:28:06] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:28:06] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:28:06] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:28:06] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:28:06] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:28:06] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:28:06] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:28:06] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:28:06] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:28:06] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:28:06] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:28:06] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:28:06] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:28:06] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:28:06] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:28:06] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:28:06] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:28:06] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:28:06] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:28:06] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:28:06] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:28:06] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:28:06] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:28:06] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:28:06] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:28:06] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:28:06] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:28:06] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:28:06] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:28:06] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:28:06] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:28:06] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:28:06] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:28:06] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:28:06] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:28:06] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:28:06] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:28:06] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:28:06] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:28:06] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:28:06] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:28:06] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:28:06] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:28:06] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:28:06] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:28:06] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:28:06] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:28:06] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:28:06] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:28:07] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:28:07] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:28:07] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:28:07] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:28:07] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:28:07] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:28:07] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:28:07] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:28:07] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:28:07] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:28:07] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:28:07] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:28:07] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:28:07] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_doors/door03_slotted_left.mdl
+[19:28:11] Derp: jesus christ
+[19:29:00] Derp: UR GETTING BANNED
+[19:29:10] Derp<STEAM_0:0:52504530> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[19:29:10] Derp<STEAM_0:0:52504530> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[19:29:11] Derp<STEAM_0:0:52504530> used the tool remover on models/props_doors/door03_slotted_left.mdl
+[19:29:11] Derp<STEAM_0:0:52504530> used the tool remover on models/props_doors/door03_slotted_left.mdl
+[19:29:11] Derp<STEAM_0:0:52504530> used the tool remover on models/props_doors/door03_slotted_left.mdl
+[19:29:11] Derp<STEAM_0:0:52504530> used the tool remover on models/props_doors/door03_slotted_left.mdl
+[19:29:12] Derp<STEAM_0:0:52504530> used the tool remover on models/props_doors/door03_slotted_left.mdl
+[19:29:12] Derp<STEAM_0:0:52504530> used the tool remover on models/props_doors/door03_slotted_left.mdl
+[19:29:12] Derp<STEAM_0:0:52504530> used the tool remover on models/props_doors/door03_slotted_left.mdl
+[19:29:12] Derp<STEAM_0:0:52504530> used the tool remover on models/props_doors/door03_slotted_left.mdl
+[19:29:12] Derp<STEAM_0:0:52504530> used the tool remover on models/props_doors/door03_slotted_left.mdl
+[19:29:12] Derp<STEAM_0:0:52504530> used the tool remover on models/props_doors/door03_slotted_left.mdl
+[19:29:12] Derp<STEAM_0:0:52504530> used the tool remover on models/props_doors/door03_slotted_left.mdl
+[19:29:12] Derp<STEAM_0:0:52504530> used the tool remover on models/props_doors/door03_slotted_left.mdl
+[19:29:12] Derp<STEAM_0:0:52504530> used the tool remover on models/props_doors/door03_slotted_left.mdl
+[19:29:13] Derp<STEAM_0:0:52504530> used the tool remover on models/props_doors/door03_slotted_left.mdl
+[19:29:13] Derp<STEAM_0:0:52504530> used the tool remover on models/props_doors/door03_slotted_left.mdl
+[19:29:13] Derp<STEAM_0:0:52504530> used the tool remover on models/props_doors/door03_slotted_left.mdl
+[19:29:13] Derp<STEAM_0:0:52504530> used the tool remover on models/props_doors/door03_slotted_left.mdl
+[19:29:13] Derp<STEAM_0:0:52504530> used the tool remover on models/props_doors/door03_slotted_left.mdl
+[19:29:13] Derp<STEAM_0:0:52504530> used the tool remover on models/props_doors/door03_slotted_left.mdl
+[19:29:13] Derp<STEAM_0:0:52504530> used the tool remover on models/props_doors/door03_slotted_left.mdl
+[19:29:13] Derp<STEAM_0:0:52504530> used the tool remover on models/props_doors/door03_slotted_left.mdl
+[19:29:14] Derp<STEAM_0:0:52504530> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[19:29:14] Derp<STEAM_0:0:52504530> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[19:29:14] Derp<STEAM_0:0:52504530> used the tool remover on models/props_doors/door03_slotted_left.mdl
+[19:29:14] Derp<STEAM_0:0:52504530> used the tool remover on models/props_doors/door03_slotted_left.mdl
+[19:29:14] Derp<STEAM_0:0:52504530> used the tool remover on models/props_doors/door03_slotted_left.mdl
+[19:29:14] Derp<STEAM_0:0:52504530> used the tool remover on models/props_doors/door03_slotted_left.mdl
+[19:29:14] Derp<STEAM_0:0:52504530> used the tool remover on models/props_doors/door03_slotted_left.mdl
+[19:29:15] Derp<STEAM_0:0:52504530> used the tool remover on models/props_doors/door03_slotted_left.mdl
+[19:29:15] Derp<STEAM_0:0:52504530> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[19:29:15] Derp<STEAM_0:0:52504530> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[19:29:15] Derp<STEAM_0:0:52504530> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[19:29:15] Derp<STEAM_0:0:52504530> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[19:29:15] Derp<STEAM_0:0:52504530> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[19:29:15] Derp<STEAM_0:0:52504530> used the tool remover on models/props_doors/door03_slotted_left.mdl
+[19:29:18] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_junk/bicycle01a.mdl
+[19:29:34] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_junk/garbage_newspaper001a.mdl
+[19:29:50] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_junk/garbage_newspaper001a.mdl
+[19:29:55] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_junk/garbage_newspaper001a.mdl
+[19:30:19] Derp<STEAM_0:0:52504530> spawned/gave himself swep cw_ak74
+[19:30:23] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_junk/garbage_newspaper001a.mdl
+[19:30:32] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_junk/harpoon002a.mdl
+[19:31:03] Derp: ow
+[19:31:05] Derp: ow
+[19:31:13] Derp: fucking native american man
+[19:31:29] Derp: woah
+[19:31:32] Derp: it can get stuck
+[19:32:33] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_junk/garbage_newspaper001a.mdl
+[19:32:57] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_junk/garbage_newspaper001a.mdl
+[19:33:00] DrDerpenstein<STEAM_0:0:13562763> spawned/used swep weapon_vape_mega -=RESTRICTED=-
+[19:33:24] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_junk/garbage_newspaper001a.mdl
+[19:33:51] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_junk/gascan001a.mdl
+[19:34:36] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_junk/gascan001a.mdl
+[19:34:57] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_interiors/pot01a.mdl
+[19:35:06] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_interiors/radiator01a.mdl
+[19:35:08] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_interiors/refrigeratordoor01a.mdl
+[19:35:10] Bexgasm~<STEAM_0:1:63382511> spawned model models/props_interiors/refrigeratordoor02a.mdl

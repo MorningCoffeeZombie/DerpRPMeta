@@ -1,0 +1,8 @@
+{
+	"Vehicles": {
+		"models/tdmcars/dod_challenger15.mdl$$$_VC_$$$Dodge Challenger 2015$$$_VC_$$$0": {
+			"Health": 100.0,
+			"Fuel": 96.0
+		}
+	}
+}

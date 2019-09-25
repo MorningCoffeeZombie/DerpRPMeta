@@ -1,0 +1,31 @@
+Thu Aug  8 01:06:32 2019	Derp (STEAM_0:0:52504530) has joined the game
+Thu Aug  8 01:06:32 2019	William (STEAM_0:0:52504530) spawned
+Thu Aug  8 01:06:54 2019	William (STEAM_0:0:52504530) spawned
+Thu Aug  8 01:07:18 2019	DrDerpenstein sups.gg (STEAM_0:0:13562763) has joined the game
+Thu Aug  8 01:07:18 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Thu Aug  8 01:07:22 2019	DrDerpenstein (STEAM_0:0:13562763) disconnected
+Thu Aug  8 01:07:27 2019	William (STEAM_0:0:52504530): /setmoney william 5000000000
+Thu Aug  8 01:07:27 2019	William (STEAM_0:0:52504530) set Derp's money to $5,000,000,000
+Thu Aug  8 01:09:34 2019	DrDerpenstein sups.gg (STEAM_0:0:13562763) has joined the game
+Thu Aug  8 01:09:34 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Thu Aug  8 01:09:57 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Thu Aug  8 01:12:05 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Thu Aug  8 01:12:39 2019	DrDerpenstein (STEAM_0:0:13562763): /destroy
+Thu Aug  8 01:12:44 2019	DrDerpenstein (STEAM_0:0:13562763): !destroy
+Thu Aug  8 01:13:25 2019	DrDerpenstein (STEAM_0:0:13562763): /want william
+Thu Aug  8 01:13:32 2019	DrDerpenstein (STEAM_0:0:13562763): /wanted william
+Thu Aug  8 01:13:43 2019	DrDerpenstein (STEAM_0:0:13562763): /wanted william bruh
+Thu Aug  8 01:13:43 2019	DrDerpenstein has made William wanted, reason: bruh
+Thu Aug  8 01:13:54 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Thu Aug  8 01:15:43 2019	William is no longer wanted by the Police.
+Thu Aug  8 01:31:31 2019	DevL (STEAM_0:0:97157625) has joined the game
+Thu Aug  8 01:31:31 2019	DevL (STEAM_0:0:97157625) spawned
+Thu Aug  8 01:34:49 2019	DevL (STEAM_0:0:97157625) spawned
+Thu Aug  8 01:35:47 2019	DevL (STEAM_0:0:97157625): /invholster
+Thu Aug  8 01:46:52 2019	DevL (STEAM_0:0:97157625): 
+Thu Aug  8 01:49:46 2019	DevL was killed by Himself with a suicide trick
+Thu Aug  8 01:49:48 2019	DevL (STEAM_0:0:97157625) spawned
+Thu Aug  8 01:49:59 2019	DevL (STEAM_0:0:97157625): /unbox
+Thu Aug  8 01:52:27 2019	William (STEAM_0:0:52504530): med_kit
+Thu Aug  8 01:53:43 2019	DevL (STEAM_0:0:97157625) disconnected
+Thu Aug  8 01:58:36 2019	DrDerpenstein (STEAM_0:0:13562763) disconnected

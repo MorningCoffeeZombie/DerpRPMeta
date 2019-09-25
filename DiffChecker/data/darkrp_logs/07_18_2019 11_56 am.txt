@@ -1,0 +1,1571 @@
+Thu Jul 18 11:56:40 2019	Dio (STEAM_0:0:497465680) has joined the game
+Thu Jul 18 11:56:40 2019	On Anime Break (STEAM_0:0:497465680) spawned
+Thu Jul 18 12:01:15 2019	AidanFTW (STEAM_0:0:102264109) has joined the game
+Thu Jul 18 12:01:15 2019	AidanFTW (STEAM_0:0:102264109) spawned
+Thu Jul 18 12:03:18 2019	Derp (STEAM_0:0:52504530) has joined the game
+Thu Jul 18 12:03:18 2019	William (STEAM_0:0:52504530) spawned
+Thu Jul 18 12:05:18 2019	William (STEAM_0:0:52504530): hi
+Thu Jul 18 12:05:22 2019	William (STEAM_0:0:52504530): im good
+Thu Jul 18 12:05:24 2019	William (STEAM_0:0:52504530): what about u
+Thu Jul 18 12:05:31 2019	William (STEAM_0:0:52504530): thats nice
+Thu Jul 18 12:05:39 2019	William (STEAM_0:0:52504530): our server usually has more players later on in the day
+Thu Jul 18 12:05:43 2019	William (STEAM_0:0:52504530): towards the night
+Thu Jul 18 12:05:53 2019	William (STEAM_0:0:52504530): i just added meth and lean
+Thu Jul 18 12:06:04 2019	William (STEAM_0:0:52504530): u make a shit ton of money
+Thu Jul 18 12:06:11 2019	William (STEAM_0:0:52504530): a crate of lean is 150k
+Thu Jul 18 12:06:16 2019	William (STEAM_0:0:52504530): all u need is one barrel to get started
+Thu Jul 18 12:06:35 2019	William (STEAM_0:0:52504530): well if u sell 2 lean crates u already made profit
+Thu Jul 18 12:06:47 2019	William (STEAM_0:0:52504530): its not a good way to start making money
+Thu Jul 18 12:06:55 2019	William (STEAM_0:0:52504530): but when u already have some
+Thu Jul 18 12:07:00 2019	William (STEAM_0:0:52504530): its good then
+Thu Jul 18 12:07:09 2019	William (STEAM_0:0:52504530): probably printers 
+Thu Jul 18 12:07:17 2019	William (STEAM_0:0:52504530): bronze and silver are kinda shit but once u get the gold printer
+Thu Jul 18 12:07:20 2019	William (STEAM_0:0:52504530): its game over for poverty
+Thu Jul 18 12:07:33 2019	William (STEAM_0:0:52504530): weed is pretty good too
+Thu Jul 18 12:07:37 2019	William (STEAM_0:0:52504530): it used to be really bad for making money
+Thu Jul 18 12:07:39 2019	William (STEAM_0:0:52504530): but i buffed it
+Thu Jul 18 12:07:48 2019	William (STEAM_0:0:52504530): u definitely will
+Thu Jul 18 12:07:57 2019	William (STEAM_0:0:52504530): do u want me to help u with anything?
+Thu Jul 18 12:08:07 2019	William (STEAM_0:0:52504530): i can teach u
+Thu Jul 18 12:08:16 2019	William (STEAM_0:0:52504530): we can start in a warehouse here
+Thu Jul 18 12:09:03 2019	William (STEAM_0:0:52504530): im teaching this guy how to make weed
+Thu Jul 18 12:09:12 2019	UG | M A S T E R (STEAM_0:1:180622613) has joined the game
+Thu Jul 18 12:09:12 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Thu Jul 18 12:09:16 2019	William (STEAM_0:0:52504530): so u pretty much buy everything with the tablet u spawn with
+Thu Jul 18 12:09:28 2019	William (STEAM_0:0:52504530): u need most of the stuff on there
+Thu Jul 18 12:09:55 2019	William (STEAM_0:0:52504530): ill show u the only stuff u need to make weed
+Thu Jul 18 12:10:17 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Thu Jul 18 12:10:19 2019	William (STEAM_0:0:52504530): this is everything u need over here
+Thu Jul 18 12:10:54 2019	William (STEAM_0:0:52504530): sup UG
+Thu Jul 18 12:11:10 2019	On Anime Break (STEAM_0:0:497465680) spawned SENT zmlab_methbuyer
+Thu Jul 18 12:11:15 2019	On Anime Break (STEAM_0:0:497465680) spawned SENT zmlab_methdropoff
+Thu Jul 18 12:11:34 2019	William (STEAM_0:0:52504530): if u need more money i suggest getting a printer so u have an income
+Thu Jul 18 12:12:11 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Thu Jul 18 12:12:29 2019	William (STEAM_0:0:52504530): this dropoff zone wont work
+Thu Jul 18 12:12:42 2019	UG | M A S T E R (STEAM_0:1:180622613): /pm Derp Like the modification of the colors sh_chat, sh_reports are changed now!
+Thu Jul 18 12:12:43 2019	William (STEAM_0:0:52504530): the buyer chooses a random one and im pretty sure he chooses ones that are far away
+Thu Jul 18 12:12:55 2019	William (STEAM_0:0:52504530): UG did u see what i sent u on discord
+Thu Jul 18 12:12:58 2019	William (STEAM_0:0:52504530): the messages
+Thu Jul 18 12:13:54 2019	William (STEAM_0:0:52504530): that tank is just to refill ur water can
+Thu Jul 18 12:14:55 2019	William (STEAM_0:0:52504530): what do u wanna connect
+Thu Jul 18 12:15:08 2019	William (STEAM_0:0:52504530): watertank doesnt need power its just a tank filled with water
+Thu Jul 18 12:15:41 2019	William (STEAM_0:0:52504530): the lamp and the seed itself
+Thu Jul 18 12:16:02 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Thu Jul 18 12:16:41 2019	William (STEAM_0:0:52504530): now u just need to connect the gen to the lamp and turn on the devices 
+Thu Jul 18 12:16:49 2019	William (STEAM_0:0:52504530): i mean the lamp to the port
+Thu Jul 18 12:17:14 2019	William (STEAM_0:0:52504530): now u water ur plant
+Thu Jul 18 12:17:24 2019	William (STEAM_0:0:52504530): fuck
+Thu Jul 18 12:17:26 2019	William (STEAM_0:0:52504530): the seed died
+Thu Jul 18 12:17:30 2019	William (STEAM_0:0:52504530): buy more soil
+Thu Jul 18 12:17:48 2019	William (STEAM_0:0:52504530): dont water it too much
+Thu Jul 18 12:17:54 2019	On Anime Break (STEAM_0:0:497465680) spawned SENT zmlab_meth_baggy
+Thu Jul 18 12:18:14 2019	William (STEAM_0:0:52504530): dont aim straight at it try looking up a bit
+Thu Jul 18 12:18:23 2019	UG | M A S T E R (STEAM_0:1:180622613): .
+Thu Jul 18 12:18:23 2019	William (STEAM_0:0:52504530): see the water actually hit the pot
+Thu Jul 18 12:18:36 2019	UG | M A S T E R (STEAM_0:1:180622613): fuck
+Thu Jul 18 12:18:36 2019	William (STEAM_0:0:52504530): is water even coming out of the can?
+Thu Jul 18 12:18:52 2019	William (STEAM_0:0:52504530): thats weird
+Thu Jul 18 12:18:58 2019	William (STEAM_0:0:52504530): never seen that before
+Thu Jul 18 12:19:18 2019	William (STEAM_0:0:52504530): well when it does start working make sure the blue bar is always in good
+Thu Jul 18 12:19:33 2019	William (STEAM_0:0:52504530): spam e on the plant
+Thu Jul 18 12:19:48 2019	William (STEAM_0:0:52504530): u can grow multiple plants at the same time btw 
+Thu Jul 18 12:19:52 2019	William (STEAM_0:0:52504530): just buy more soil and pots
+Thu Jul 18 12:20:18 2019	William (STEAM_0:0:52504530): i think its done now
+Thu Jul 18 12:20:20 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_aluminium
+Thu Jul 18 12:20:23 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_meth
+Thu Jul 18 12:20:34 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_collectcrate
+Thu Jul 18 12:20:41 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_meth
+Thu Jul 18 12:20:41 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_meth
+Thu Jul 18 12:20:42 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_meth
+Thu Jul 18 12:20:54 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_meth
+Thu Jul 18 12:20:57 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_meth
+Thu Jul 18 12:20:58 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_meth
+Thu Jul 18 12:20:59 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_meth
+Thu Jul 18 12:21:00 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_meth
+Thu Jul 18 12:21:09 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_meth
+Thu Jul 18 12:21:25 2019	William (STEAM_0:0:52504530): try refilling at the tank maybe its bugged
+Thu Jul 18 12:21:27 2019	William (STEAM_0:0:52504530): right click the tank
+Thu Jul 18 12:21:55 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_collectcrate
+Thu Jul 18 12:21:57 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_meth_baggy
+Thu Jul 18 12:22:11 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_palette
+Thu Jul 18 12:22:13 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_collectcrate
+Thu Jul 18 12:22:26 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_meth
+Thu Jul 18 12:22:26 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_meth
+Thu Jul 18 12:22:26 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_meth
+Thu Jul 18 12:22:27 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_meth
+Thu Jul 18 12:22:27 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_meth
+Thu Jul 18 12:22:27 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_meth
+Thu Jul 18 12:22:27 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_meth
+Thu Jul 18 12:22:27 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_meth
+Thu Jul 18 12:22:28 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_meth
+Thu Jul 18 12:22:28 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_meth
+Thu Jul 18 12:22:28 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_meth
+Thu Jul 18 12:22:28 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_meth
+Thu Jul 18 12:22:28 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_meth
+Thu Jul 18 12:22:29 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_meth
+Thu Jul 18 12:22:29 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_meth
+Thu Jul 18 12:22:29 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_meth
+Thu Jul 18 12:22:29 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_meth
+Thu Jul 18 12:22:29 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_meth
+Thu Jul 18 12:22:29 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_meth
+Thu Jul 18 12:22:30 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_meth
+Thu Jul 18 12:22:30 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_meth
+Thu Jul 18 12:22:30 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_meth
+Thu Jul 18 12:22:30 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_meth
+Thu Jul 18 12:22:30 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_meth
+Thu Jul 18 12:22:31 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_meth
+Thu Jul 18 12:22:31 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_meth
+Thu Jul 18 12:22:31 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_meth
+Thu Jul 18 12:22:31 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_meth
+Thu Jul 18 12:22:31 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_meth
+Thu Jul 18 12:22:31 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_meth
+Thu Jul 18 12:22:48 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_collectcrate
+Thu Jul 18 12:22:57 2019	William (STEAM_0:0:52504530): thats a good question
+Thu Jul 18 12:22:59 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_collectcrate
+Thu Jul 18 12:23:06 2019	William (STEAM_0:0:52504530): thats true
+Thu Jul 18 12:23:12 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_collectcrate
+Thu Jul 18 12:23:12 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_collectcrate
+Thu Jul 18 12:23:13 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_collectcrate
+Thu Jul 18 12:23:15 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_meth
+Thu Jul 18 12:23:15 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_meth
+Thu Jul 18 12:23:15 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_meth
+Thu Jul 18 12:23:16 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_meth
+Thu Jul 18 12:23:16 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_meth
+Thu Jul 18 12:23:16 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_meth
+Thu Jul 18 12:23:16 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_meth
+Thu Jul 18 12:23:16 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_meth
+Thu Jul 18 12:23:17 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_meth
+Thu Jul 18 12:23:17 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_meth
+Thu Jul 18 12:23:17 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_meth
+Thu Jul 18 12:23:17 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_meth
+Thu Jul 18 12:23:18 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_meth
+Thu Jul 18 12:23:19 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_meth
+Thu Jul 18 12:23:19 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_meth
+Thu Jul 18 12:23:19 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_meth
+Thu Jul 18 12:23:19 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_meth
+Thu Jul 18 12:23:20 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_meth
+Thu Jul 18 12:23:20 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_meth
+Thu Jul 18 12:23:20 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_meth
+Thu Jul 18 12:23:20 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_meth
+Thu Jul 18 12:23:20 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_meth
+Thu Jul 18 12:23:20 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_meth
+Thu Jul 18 12:23:21 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_meth
+Thu Jul 18 12:23:21 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_meth
+Thu Jul 18 12:23:21 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_meth
+Thu Jul 18 12:23:21 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_meth
+Thu Jul 18 12:23:21 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_meth
+Thu Jul 18 12:23:22 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_meth
+Thu Jul 18 12:23:22 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_meth
+Thu Jul 18 12:23:22 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_meth
+Thu Jul 18 12:23:22 2019	William (STEAM_0:0:52504530): dude honestly ive never seen that glitch with the water
+Thu Jul 18 12:23:45 2019	William (STEAM_0:0:52504530): kill urself and ill tp u back maybe it will work then
+Thu Jul 18 12:23:49 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_meth
+Thu Jul 18 12:23:51 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_collectcrate
+Thu Jul 18 12:23:58 2019	AidanFTW was killed by Himself with a suicide trick
+Thu Jul 18 12:23:59 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_meth
+Thu Jul 18 12:23:59 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_meth
+Thu Jul 18 12:23:59 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_meth
+Thu Jul 18 12:23:59 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_meth
+Thu Jul 18 12:23:59 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_meth
+Thu Jul 18 12:24:00 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_meth
+Thu Jul 18 12:24:00 2019	AidanFTW (STEAM_0:0:102264109) spawned
+Thu Jul 18 12:24:11 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_meth
+Thu Jul 18 12:24:13 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_meth
+Thu Jul 18 12:24:23 2019	On Anime Break (STEAM_0:0:497465680) spawned SENT gmt_instrument_piano
+Thu Jul 18 12:24:25 2019	William (STEAM_0:0:52504530): oh wait a minute dude
+Thu Jul 18 12:24:32 2019	William (STEAM_0:0:52504530): are u holding it down or clicking?
+Thu Jul 18 12:24:38 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zmlab_aluminium
+Thu Jul 18 12:24:45 2019	William (STEAM_0:0:52504530): u need to hold it
+Thu Jul 18 12:24:45 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT lean_barrel
+Thu Jul 18 12:24:48 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT lean_buyer
+Thu Jul 18 12:24:50 2019	William (STEAM_0:0:52504530): there
+Thu Jul 18 12:24:50 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT lean_crate
+Thu Jul 18 12:24:51 2019	William (STEAM_0:0:52504530): i saw it
+Thu Jul 18 12:24:54 2019	On Anime Break was killed by Himself with a suicide trick
+Thu Jul 18 12:24:57 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT lean_cup
+Thu Jul 18 12:24:58 2019	On Anime Break (STEAM_0:0:497465680) spawned
+Thu Jul 18 12:25:01 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT lean_smallcrate
+Thu Jul 18 12:25:05 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT lean_smallcrate
+Thu Jul 18 12:25:10 2019	On Anime Break (STEAM_0:0:497465680): /rpname Dio
+Thu Jul 18 12:25:13 2019	William (STEAM_0:0:52504530): sorry about that confusion 
+Thu Jul 18 12:25:16 2019	William (STEAM_0:0:52504530): it happened to me too when i first got it
+Thu Jul 18 12:25:57 2019	William (STEAM_0:0:52504530): u need 4 to pack it
+Thu Jul 18 12:26:01 2019	William (STEAM_0:0:52504530): 4 jars = 1 weed block
+Thu Jul 18 12:26:55 2019	William (STEAM_0:0:52504530): well u gotta keep growing u already spent money on the equipment now its just soil and seeds
+Thu Jul 18 12:27:58 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_jar
+Thu Jul 18 12:28:20 2019	William (STEAM_0:0:52504530): well to get to lean u could make money from printers and weed for me its all just a tower of money making
+Thu Jul 18 12:28:30 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT lean_cup
+Thu Jul 18 12:28:30 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT lean_cup
+Thu Jul 18 12:28:31 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT lean_cup
+Thu Jul 18 12:28:31 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT lean_cup
+Thu Jul 18 12:28:31 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT lean_cup
+Thu Jul 18 12:28:31 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT lean_cup
+Thu Jul 18 12:28:31 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT lean_cup
+Thu Jul 18 12:28:34 2019	William (STEAM_0:0:52504530): one is supposed to be shittier than the other
+Thu Jul 18 12:28:42 2019	William (STEAM_0:0:52504530): thats the point otherwise no one would use all of them only one 
+Thu Jul 18 12:29:00 2019	William (STEAM_0:0:52504530): ur weed is done drying
+Thu Jul 18 12:29:08 2019	William (STEAM_0:0:52504530): over here
+Thu Jul 18 12:29:27 2019	William (STEAM_0:0:52504530): btw the weed buyers have a profit thing above their head so u could get more or less money than the pallet says
+Thu Jul 18 12:29:59 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT lean_cup
+Thu Jul 18 12:30:16 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT lean_crate
+Thu Jul 18 12:30:18 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT lean_barrel
+Thu Jul 18 12:30:28 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT lean_barrel
+Thu Jul 18 12:30:28 2019	William (STEAM_0:0:52504530): lmao
+Thu Jul 18 12:30:30 2019	William (STEAM_0:0:52504530): thats cool
+Thu Jul 18 12:30:40 2019	William (STEAM_0:0:52504530): did u sell the meth?
+Thu Jul 18 12:30:54 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT lean_barrel
+Thu Jul 18 12:30:54 2019	William (STEAM_0:0:52504530): like the money?
+Thu Jul 18 12:31:15 2019	William (STEAM_0:0:52504530): combiner needs to cost more?
+Thu Jul 18 12:31:23 2019	William (STEAM_0:0:52504530): 20k
+Thu Jul 18 12:31:25 2019	William (STEAM_0:0:52504530): how much is it now
+Thu Jul 18 12:31:38 2019	William (STEAM_0:0:52504530): ok well thats definitely gonna change
+Thu Jul 18 12:31:47 2019	William (STEAM_0:0:52504530): along with the weed ill make it like 30% more profitable
+Thu Jul 18 12:32:04 2019	Dio (STEAM_0:0:497465680) spawned SENT zmlab_methbuyer
+Thu Jul 18 12:32:15 2019	William (STEAM_0:0:52504530): wow bro ur stealing money from ur partner?
+Thu Jul 18 12:32:16 2019	William (STEAM_0:0:52504530): permaban
+Thu Jul 18 12:32:18 2019	William (STEAM_0:0:52504530): never come back
+Thu Jul 18 12:32:22 2019	William (STEAM_0:0:52504530): lol
+Thu Jul 18 12:32:56 2019	UG | M A S T E R (STEAM_0:1:180622613): /y Did someone order drinks?
+Thu Jul 18 12:33:02 2019	William (STEAM_0:0:52504530): u better hope that the weed buyer has a nice profit number above his head so u can make more
+Thu Jul 18 12:33:15 2019	William (STEAM_0:0:52504530): EXCUSE ME
+Thu Jul 18 12:33:58 2019	William (STEAM_0:0:52504530): lol
+Thu Jul 18 12:34:01 2019	William (STEAM_0:0:52504530): we are all making drugs too
+Thu Jul 18 12:34:07 2019	UG | M A S T E R (STEAM_0:1:180622613): Did someone order drinks?
+Thu Jul 18 12:34:18 2019	William (STEAM_0:0:52504530): hell yeah
+Thu Jul 18 12:34:46 2019	William (STEAM_0:0:52504530): /dropmoney 2400
+Thu Jul 18 12:34:47 2019	William (STEAM_0:0:52504530) has dropped $2,400
+Thu Jul 18 12:34:57 2019	William (STEAM_0:0:52504530): no problem
+Thu Jul 18 12:35:35 2019	UG | M A S T E R (STEAM_0:1:180622613): Need a cup
+Thu Jul 18 12:35:41 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT lean_cup
+Thu Jul 18 12:36:07 2019	UG | M A S T E R (STEAM_0:1:180622613): oh fuck
+Thu Jul 18 12:36:39 2019	UG | M A S T E R (STEAM_0:1:180622613): Drink
+Thu Jul 18 12:36:52 2019	UG | M A S T E R (STEAM_0:1:180622613): The cops will come
+Thu Jul 18 12:37:07 2019	UG | M A S T E R (STEAM_0:1:180622613): /swat
+Thu Jul 18 12:37:11 2019	William (STEAM_0:0:52504530): LMAO
+Thu Jul 18 12:37:15 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_combine_s
+Thu Jul 18 12:37:27 2019	William (STEAM_0:0:52504530): because UG is crazy
+Thu Jul 18 12:37:35 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_combine_s
+Thu Jul 18 12:37:45 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_combine_s
+Thu Jul 18 12:37:45 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_combine_s
+Thu Jul 18 12:37:46 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_combine_s
+Thu Jul 18 12:37:46 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_combine_s
+Thu Jul 18 12:37:47 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_combine_s
+Thu Jul 18 12:37:47 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_combine_s
+Thu Jul 18 12:37:47 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_combine_s
+Thu Jul 18 12:37:48 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_combine_s
+Thu Jul 18 12:37:50 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_combine_s
+Thu Jul 18 12:37:51 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_combine_s
+Thu Jul 18 12:37:54 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_combine_s
+Thu Jul 18 12:37:54 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_combine_s
+Thu Jul 18 12:37:55 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_combine_s
+Thu Jul 18 12:37:56 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_combine_s
+Thu Jul 18 12:37:56 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_combine_s
+Thu Jul 18 12:37:57 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_combine_s
+Thu Jul 18 12:37:58 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_combine_s
+Thu Jul 18 12:37:59 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_combine_s
+Thu Jul 18 12:38:00 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_combine_s
+Thu Jul 18 12:38:00 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_combine_s
+Thu Jul 18 12:38:01 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_combine_s
+Thu Jul 18 12:38:06 2019	UG | M A S T E R (STEAM_0:1:180622613): /y hello
+Thu Jul 18 12:38:12 2019	UG | M A S T E R (STEAM_0:1:180622613): /y May we come in
+Thu Jul 18 12:38:12 2019	William (STEAM_0:0:52504530): make sure u start watering the seed as soon as u plant it
+Thu Jul 18 12:38:20 2019	Dio (STEAM_0:0:497465680): no
+Thu Jul 18 12:38:32 2019	William (STEAM_0:0:52504530): um hi
+Thu Jul 18 12:38:36 2019	UG | M A S T E R (STEAM_0:1:180622613): hi
+Thu Jul 18 12:38:40 2019	UG | M A S T E R (STEAM_0:1:180622613): I see some weed.
+Thu Jul 18 12:38:46 2019	William (STEAM_0:0:52504530): no thats eukalyptus
+Thu Jul 18 12:38:47 2019	UG | M A S T E R (STEAM_0:1:180622613): And printers
+Thu Jul 18 12:38:54 2019	UG | M A S T E R (STEAM_0:1:180622613): I ask you to step back
+Thu Jul 18 12:38:56 2019	William (STEAM_0:0:52504530): um
+Thu Jul 18 12:39:40 2019	UG | M A S T E R was killed by NPC [1434][npc_combine_s] with a npc_combine_s
+Thu Jul 18 12:39:44 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Thu Jul 18 12:39:47 2019	William (STEAM_0:0:52504530): lmao they killed him
+Thu Jul 18 12:39:53 2019	William (STEAM_0:0:52504530): XD
+Thu Jul 18 12:40:15 2019	UG | M A S T E R was killed by NPC [1419][npc_combine_s] with a npc_combine_s
+Thu Jul 18 12:40:17 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Thu Jul 18 12:40:55 2019	UG | M A S T E R (STEAM_0:1:180622613): /medic
+Thu Jul 18 12:41:16 2019	William (STEAM_0:0:52504530): /dropweapon
+Thu Jul 18 12:41:32 2019	William (STEAM_0:0:52504530): hey
+Thu Jul 18 12:41:36 2019	William (STEAM_0:0:52504530): over here
+Thu Jul 18 12:41:42 2019	UG | M A S T E R (STEAM_0:1:180622613): /job Medical Officer
+Thu Jul 18 12:41:46 2019	William (STEAM_0:0:52504530): ur weed is done
+Thu Jul 18 12:42:00 2019	William (STEAM_0:0:52504530): oh shit
+Thu Jul 18 12:42:34 2019	William (STEAM_0:0:52504530): lol
+Thu Jul 18 12:42:39 2019	William (STEAM_0:0:52504530): just dont destroy the weed stuff
+Thu Jul 18 12:42:44 2019	UG | M A S T E R was killed by Himself with a suicide trick
+Thu Jul 18 12:42:44 2019	William was killed by UG | M A S T E R with a fas2_thrown_m67
+Thu Jul 18 12:42:51 2019	William (STEAM_0:0:52504530) spawned
+Thu Jul 18 12:42:57 2019	UG | M A S T E R (STEAM_0:1:180622613): ow
+Thu Jul 18 12:43:02 2019	William (STEAM_0:0:52504530): wheres the weed
+Thu Jul 18 12:43:14 2019	William (STEAM_0:0:52504530): HE BLEW IT UP
+Thu Jul 18 12:43:26 2019	William (STEAM_0:0:52504530): ill give u some free weed block
+Thu Jul 18 12:43:28 2019	William (STEAM_0:0:52504530) spawned SENT zwf_weedblock
+Thu Jul 18 12:43:32 2019	William (STEAM_0:0:52504530) spawned SENT zwf_weedblock
+Thu Jul 18 12:43:38 2019	William (STEAM_0:0:52504530): fuck
+Thu Jul 18 12:43:39 2019	William (STEAM_0:0:52504530) spawned SENT zwf_weedstick
+Thu Jul 18 12:43:42 2019	William (STEAM_0:0:52504530) spawned SENT zwf_weedstick
+Thu Jul 18 12:43:44 2019	William (STEAM_0:0:52504530) spawned SENT zwf_weedstick
+Thu Jul 18 12:43:46 2019	William (STEAM_0:0:52504530) spawned SENT zwf_weedstick
+Thu Jul 18 12:43:54 2019	William (STEAM_0:0:52504530): god damn it
+Thu Jul 18 12:44:32 2019	William (STEAM_0:0:52504530): no i think hes just fucking around
+Thu Jul 18 12:44:36 2019	Dio (STEAM_0:0:497465680): /drop
+Thu Jul 18 12:44:40 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Thu Jul 18 12:45:30 2019	William (STEAM_0:0:52504530) spawned SENT zwf_weedblock
+Thu Jul 18 12:45:31 2019	William (STEAM_0:0:52504530) spawned SENT zwf_weedblock
+Thu Jul 18 12:45:32 2019	William (STEAM_0:0:52504530) spawned SENT zwf_weedblock
+Thu Jul 18 12:45:57 2019	William (STEAM_0:0:52504530): i could enable it so that u can do that
+Thu Jul 18 12:46:04 2019	William (STEAM_0:0:52504530): oh
+Thu Jul 18 12:46:13 2019	William (STEAM_0:0:52504530): fuck
+Thu Jul 18 12:46:15 2019	William (STEAM_0:0:52504530): sorry
+Thu Jul 18 12:46:44 2019	Dio was killed by William with a fas2_deagle
+Thu Jul 18 12:46:47 2019	Dio (STEAM_0:0:497465680) spawned
+Thu Jul 18 12:46:48 2019	William (STEAM_0:0:52504530): lol
+Thu Jul 18 12:47:01 2019	William (STEAM_0:0:52504530): damn son
+Thu Jul 18 12:49:16 2019	William (STEAM_0:0:52504530): ok dio stop or i will kill u i swear to god
+Thu Jul 18 12:49:28 2019	William (STEAM_0:0:52504530): dont drink them unless u dont want to make money
+Thu Jul 18 12:49:45 2019	Dio (STEAM_0:0:497465680) spawned SENT lean_buyer
+Thu Jul 18 12:50:12 2019	William (STEAM_0:0:52504530): the lean buyer is in the corner
+Thu Jul 18 12:50:43 2019	Dio (STEAM_0:0:497465680) spawned SENT zwf_jar
+Thu Jul 18 12:51:12 2019	William (STEAM_0:0:52504530): lol
+Thu Jul 18 12:51:13 2019	William (STEAM_0:0:52504530): ok
+Thu Jul 18 12:51:13 2019	Dio was killed by Himself with a suicide trick
+Thu Jul 18 12:51:15 2019	Dio (STEAM_0:0:497465680) spawned
+Thu Jul 18 12:51:37 2019	Dio (STEAM_0:0:497465680): 
+Thu Jul 18 12:52:51 2019	RICARDO (STEAM_0:1:125273257) has joined the game
+Thu Jul 18 12:52:51 2019	RICARDO (STEAM_0:1:125273257) spawned
+Thu Jul 18 12:53:48 2019	RICARDO (STEAM_0:1:125273257): // Hello
+Thu Jul 18 12:54:11 2019	RICARDO (STEAM_0:1:125273257): /citizen
+Thu Jul 18 12:55:02 2019	William (STEAM_0:0:52504530): hello
+Thu Jul 18 12:55:09 2019	William (STEAM_0:0:52504530): do u wanna make meth?
+Thu Jul 18 12:55:20 2019	William (STEAM_0:0:52504530): lets make some meth jesse
+Thu Jul 18 12:55:32 2019	William (STEAM_0:0:52504530): rp_downtown_tits_v2
+Thu Jul 18 12:55:47 2019	William (STEAM_0:0:52504530): how much?
+Thu Jul 18 12:55:59 2019	William (STEAM_0:0:52504530): what do u mean? i dont charge anyone
+Thu Jul 18 12:56:10 2019	William (STEAM_0:0:52504530): not really ive done 2 for 2 guys already for free
+Thu Jul 18 12:56:25 2019	William (STEAM_0:0:52504530): do u see the dio job and malicous bee job?
+Thu Jul 18 12:56:42 2019	William (STEAM_0:0:52504530): i mean i guess so if i like the person sure
+Thu Jul 18 13:03:51 2019	UG | M A S T E R was killed by Himself with a suicide trick
+Thu Jul 18 13:04:00 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Thu Jul 18 13:05:27 2019	UG | M A S T E R (STEAM_0:1:180622613) disconnected
+Thu Jul 18 13:05:32 2019	AidanFTW (STEAM_0:0:102264109) disconnected
+Thu Jul 18 13:06:42 2019	iWolfz -ERP- (STEAM_0:0:443923189) has joined the game
+Thu Jul 18 13:06:42 2019	iWolfz -ERP- (STEAM_0:0:443923189) spawned
+Thu Jul 18 13:06:58 2019	iWolfz -ERP- (STEAM_0:0:443923189) disconnected
+Thu Jul 18 13:15:44 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_palette
+Thu Jul 18 13:15:46 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_collectcrate
+Thu Jul 18 13:15:53 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth_baggy
+Thu Jul 18 13:15:55 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth_baggy
+Thu Jul 18 13:15:55 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth_baggy
+Thu Jul 18 13:15:55 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth_baggy
+Thu Jul 18 13:15:55 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Thu Jul 18 13:15:58 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Thu Jul 18 13:15:58 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Thu Jul 18 13:15:58 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Thu Jul 18 13:15:59 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Thu Jul 18 13:15:59 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Thu Jul 18 13:15:59 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Thu Jul 18 13:15:59 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Thu Jul 18 13:16:02 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Thu Jul 18 13:16:03 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Thu Jul 18 13:16:03 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Thu Jul 18 13:16:03 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Thu Jul 18 13:16:04 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Thu Jul 18 13:16:04 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Thu Jul 18 13:16:04 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Thu Jul 18 13:16:04 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Thu Jul 18 13:16:05 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Thu Jul 18 13:16:06 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Thu Jul 18 13:16:51 2019	Bobbicus (STEAM_0:0:86269452) has joined the game
+Thu Jul 18 13:16:51 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Thu Jul 18 13:17:26 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_methbuyer
+Thu Jul 18 13:20:01 2019	RICARDO (STEAM_0:1:125273257): /dio
+Thu Jul 18 13:20:02 2019	RICARDO (STEAM_0:1:125273257): /zmlab_MethCook
+Thu Jul 18 13:20:06 2019	RICARDO (STEAM_0:1:125273257): 
+Thu Jul 18 13:31:52 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Thu Jul 18 13:32:03 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_collectcrate
+Thu Jul 18 13:32:08 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Thu Jul 18 13:32:09 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Thu Jul 18 13:32:09 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Thu Jul 18 13:32:09 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Thu Jul 18 13:32:09 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Thu Jul 18 13:32:09 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Thu Jul 18 13:32:10 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Thu Jul 18 13:32:10 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Thu Jul 18 13:32:10 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Thu Jul 18 13:32:10 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Thu Jul 18 13:32:10 2019	William (STEAM_0:0:52504530) spawned SENT zmlab_meth
+Thu Jul 18 13:32:14 2019	Dio (STEAM_0:0:497465680): 
+Thu Jul 18 13:32:19 2019	Dio (STEAM_0:0:497465680) disconnected
+Thu Jul 18 13:32:20 2019	RICARDO (STEAM_0:1:125273257): // Bye bye
+Thu Jul 18 13:32:20 2019	William (STEAM_0:0:52504530): /pm dio cya bud
+Thu Jul 18 13:32:27 2019	Bobbicus (STEAM_0:0:86269452): 
+Thu Jul 18 13:36:03 2019	William (STEAM_0:0:52504530): !model william models/tyrantphase3.mdl
+Thu Jul 18 13:38:18 2019	William (STEAM_0:0:52504530) spawned Vehicle prop_vehicle_jeep (alfa_giuliettatdm)
+Thu Jul 18 13:38:23 2019	William (STEAM_0:0:52504530) spawned Vehicle prop_vehicle_jeep (bowlexrstdm)
+Thu Jul 18 13:40:35 2019	William (STEAM_0:0:52504530) spawned Vehicle prop_vehicle_jeep (for_she_gt500tdm)
+Thu Jul 18 13:43:13 2019	RICARDO (STEAM_0:1:125273257): 58850
+Thu Jul 18 13:43:25 2019	RICARDO (STEAM_0:1:125273257): !setmoney 100000000
+Thu Jul 18 13:43:39 2019	RICARDO (STEAM_0:1:125273257): /setmoney rica 1000000000000
+Thu Jul 18 13:43:39 2019	RICARDO (STEAM_0:1:125273257) set RICARDO's money to $1,000,000,000,000
+Thu Jul 18 13:43:53 2019	RICARDO (STEAM_0:1:125273257): /setmoney ricardo 58850
+Thu Jul 18 13:43:53 2019	RICARDO (STEAM_0:1:125273257) set RICARDO's money to $58,850
+Thu Jul 18 13:45:36 2019	Bobbicus (STEAM_0:0:86269452): 993530
+Thu Jul 18 13:47:35 2019	RICARDO (STEAM_0:1:125273257): !sellalldoors
+Thu Jul 18 13:47:39 2019	RICARDO (STEAM_0:1:125273257): /sellalldoors
+Thu Jul 18 13:47:46 2019	William (STEAM_0:0:52504530): /sellalldoors
+Thu Jul 18 13:49:36 2019	William (STEAM_0:0:52504530): hi
+Thu Jul 18 13:52:51 2019	RICARDO (STEAM_0:1:125273257): !goto will
+Thu Jul 18 13:57:09 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Thu Jul 18 13:57:19 2019	Bobbicus was killed by Himself with a suicide trick
+Thu Jul 18 13:57:24 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Thu Jul 18 14:00:52 2019	RICARDO (STEAM_0:1:125273257): /setmoney rica 75000
+Thu Jul 18 14:00:52 2019	RICARDO (STEAM_0:1:125273257) set RICARDO's money to $75,000
+Thu Jul 18 14:09:28 2019	Duby23 (STEAM_0:1:43218020) has joined the game
+Thu Jul 18 14:09:28 2019	Duby23 (STEAM_0:1:43218020) spawned
+Thu Jul 18 14:09:40 2019	William was killed by RICARDO with a fas2_ragingbull
+Thu Jul 18 14:09:47 2019	William (STEAM_0:0:52504530) spawned
+Thu Jul 18 14:09:56 2019	William was killed by RICARDO with a fas2_ragingbull
+Thu Jul 18 14:09:58 2019	William (STEAM_0:0:52504530) spawned
+Thu Jul 18 14:10:35 2019	RICARDO (STEAM_0:1:125273257): // NOOOOOOOOOOOO
+Thu Jul 18 14:10:41 2019	William (STEAM_0:0:52504530): /ooc LMAO
+Thu Jul 18 14:10:50 2019	William (STEAM_0:0:52504530) spawned
+Thu Jul 18 14:10:50 2019	RICARDO (STEAM_0:1:125273257) spawned
+Thu Jul 18 14:11:00 2019	William was killed by RICARDO with a fas2_m82
+Thu Jul 18 14:11:03 2019	William (STEAM_0:0:52504530) spawned
+Thu Jul 18 14:11:36 2019	William was killed by RICARDO with a fas2_thrown_m67
+Thu Jul 18 14:11:52 2019	William (STEAM_0:0:52504530) spawned
+Thu Jul 18 14:13:18 2019	William was killed by RICARDO with a fas2_rem870
+Thu Jul 18 14:13:25 2019	William (STEAM_0:0:52504530): !respawn
+Thu Jul 18 14:13:28 2019	William (STEAM_0:0:52504530) spawned
+Thu Jul 18 14:14:50 2019	Duby23 (STEAM_0:1:43218020) spawned
+Thu Jul 18 14:15:59 2019	Duby23 (STEAM_0:1:43218020): fuck you buddy
+Thu Jul 18 14:16:57 2019	Duby23 was killed by RICARDO with a fas2_mp5k
+Thu Jul 18 14:18:00 2019	Duby23 (STEAM_0:1:43218020) spawned
+Thu Jul 18 14:18:48 2019	Duby23 was killed by RICARDO with a fas2_m21
+Thu Jul 18 14:18:54 2019	Duby23 (STEAM_0:1:43218020) spawned
+Thu Jul 18 14:20:46 2019	Duby23 was killed by RICARDO with a fas2_sr25
+Thu Jul 18 14:20:48 2019	Duby23 (STEAM_0:1:43218020) spawned
+Thu Jul 18 14:20:57 2019	Duby23 (STEAM_0:1:43218020): // ur server's broke
+Thu Jul 18 14:21:21 2019	Duby23 (STEAM_0:1:43218020): // inv pickup doesnt work
+Thu Jul 18 14:21:48 2019	Duby23 (STEAM_0:1:43218020): not the shipment
+Thu Jul 18 14:21:50 2019	Duby23 (STEAM_0:1:43218020): one sec
+Thu Jul 18 14:21:53 2019	Duby23 (STEAM_0:1:43218020): watch
+Thu Jul 18 14:22:05 2019	Duby23 (STEAM_0:1:43218020): yupo
+Thu Jul 18 14:22:12 2019	Duby23 (STEAM_0:1:43218020): I can't
+Thu Jul 18 14:22:34 2019	Duby23 (STEAM_0:1:43218020): bang
+Thu Jul 18 14:22:47 2019	Duby23 (STEAM_0:1:43218020): server machine broke
+Thu Jul 18 14:22:58 2019	Duby23 (STEAM_0:1:43218020): you're in spawn
+Thu Jul 18 14:23:00 2019	Duby23 (STEAM_0:1:43218020): thats why
+Thu Jul 18 14:23:03 2019	RICARDO was killed by Duby23 with a fas2_glock20
+Thu Jul 18 14:23:06 2019	Duby23 (STEAM_0:1:43218020): haha
+Thu Jul 18 14:23:06 2019	RICARDO (STEAM_0:1:125273257) spawned
+Thu Jul 18 14:23:15 2019	Duby23 (STEAM_0:1:43218020): oh yeah
+Thu Jul 18 14:23:26 2019	Duby23 (STEAM_0:1:43218020): spawn prevents picking up shit? lmao
+Thu Jul 18 14:23:32 2019	Duby23 (STEAM_0:1:43218020): thupid
+Thu Jul 18 14:23:38 2019	RICARDO (STEAM_0:1:125273257): !dropmoney 28000
+Thu Jul 18 14:23:45 2019	RICARDO (STEAM_0:1:125273257): /dropmoney 28000
+Thu Jul 18 14:23:46 2019	RICARDO (STEAM_0:1:125273257) has dropped $28,000
+Thu Jul 18 14:23:54 2019	William was killed by Himself with a suicide trick
+Thu Jul 18 14:23:56 2019	William (STEAM_0:0:52504530) spawned
+Thu Jul 18 14:24:16 2019	Duby23 was killed by William with a fas2_sks
+Thu Jul 18 14:24:18 2019	Duby23 (STEAM_0:1:43218020) spawned
+Thu Jul 18 14:24:44 2019	Duby23 was killed by RICARDO with a fas2_sr25
+Thu Jul 18 14:24:46 2019	Duby23 (STEAM_0:1:43218020) spawned
+Thu Jul 18 14:25:17 2019	Duby23 (STEAM_0:1:43218020): // no snipers?
+Thu Jul 18 14:25:20 2019	Duby23 (STEAM_0:1:43218020): // weak
+Thu Jul 18 14:25:28 2019	RICARDO (STEAM_0:1:125273257): // Okay ill use pistol
+Thu Jul 18 14:26:14 2019	cookie (STEAM_0:0:86736760) has joined the game
+Thu Jul 18 14:26:14 2019	cookie (STEAM_0:0:86736760) spawned
+Thu Jul 18 14:26:26 2019	Duby23 was killed by William with a fas2_ragingbull
+Thu Jul 18 14:26:28 2019	Duby23 (STEAM_0:1:43218020) spawned
+Thu Jul 18 14:26:38 2019	TheBoiBagz (STEAM_0:0:493251400) has joined the game
+Thu Jul 18 14:26:38 2019	TheBoiBagz (STEAM_0:0:493251400) spawned
+Thu Jul 18 14:26:55 2019	TheBoiBagz (STEAM_0:0:493251400) disconnected
+Thu Jul 18 14:26:56 2019	RICARDO was killed by Duby23 with a fas2_m4a1
+Thu Jul 18 14:26:58 2019	RICARDO (STEAM_0:1:125273257) spawned
+Thu Jul 18 14:27:08 2019	Duby23 was killed by William with a fas2_ragingbull
+Thu Jul 18 14:27:15 2019	Duby23 (STEAM_0:1:43218020) spawned
+Thu Jul 18 14:27:21 2019	cookie (STEAM_0:0:86736760): im back boys
+Thu Jul 18 14:27:28 2019	William was killed by RICARDO with a fas2_deagle
+Thu Jul 18 14:27:35 2019	RICARDO (STEAM_0:1:125273257): !respawn will
+Thu Jul 18 14:27:59 2019	RICARDO was killed by Duby23 with a fas2_m4a1
+Thu Jul 18 14:28:00 2019	William (STEAM_0:0:52504530) spawned
+Thu Jul 18 14:28:01 2019	RICARDO (STEAM_0:1:125273257) spawned
+Thu Jul 18 14:28:08 2019	RICARDO was killed by Duby23 with a fas2_m4a1
+Thu Jul 18 14:28:10 2019	RICARDO (STEAM_0:1:125273257) spawned
+Thu Jul 18 14:28:30 2019	RICARDO (STEAM_0:1:125273257): // Go where we were
+Thu Jul 18 14:30:07 2019	Duby23 was killed by RICARDO with a fas2_m24
+Thu Jul 18 14:30:11 2019	Duby23 (STEAM_0:1:43218020) spawned
+Thu Jul 18 14:30:31 2019	RICARDO (STEAM_0:1:125273257): /drop
+Thu Jul 18 14:30:42 2019	RICARDO (STEAM_0:1:125273257): !sethealth rica 100
+Thu Jul 18 14:31:14 2019	RICARDO was killed by Duby23 with a fas2_m4a1
+Thu Jul 18 14:31:16 2019	RICARDO (STEAM_0:1:125273257) spawned
+Thu Jul 18 14:31:35 2019	Duby23 was killed by RICARDO with a fas2_40mm_frag
+Thu Jul 18 14:31:39 2019	RICARDO (STEAM_0:1:125273257): // XD
+Thu Jul 18 14:31:39 2019	Duby23 (STEAM_0:1:43218020): cheap
+Thu Jul 18 14:31:42 2019	Duby23 (STEAM_0:1:43218020): // cheep
+Thu Jul 18 14:31:43 2019	Duby23 (STEAM_0:1:43218020) spawned
+Thu Jul 18 14:31:48 2019	Duby23 (STEAM_0:1:43218020): // cheep bro
+Thu Jul 18 14:32:29 2019	RICARDO was killed by Duby23 with a fas2_glock20
+Thu Jul 18 14:32:31 2019	RICARDO (STEAM_0:1:125273257) spawned
+Thu Jul 18 14:33:27 2019	Duby23 was killed by RICARDO with a fas2_sr25
+Thu Jul 18 14:33:29 2019	Duby23 (STEAM_0:1:43218020) spawned
+Thu Jul 18 14:34:05 2019	Duby23 was killed by William with a fas2_ks23
+Thu Jul 18 14:34:07 2019	Duby23 (STEAM_0:1:43218020) spawned
+Thu Jul 18 14:34:27 2019	William was killed by RICARDO with a fas2_sr25
+Thu Jul 18 14:34:39 2019	Duby23 was killed by RICARDO with a fas2_sr25
+Thu Jul 18 14:34:41 2019	cookie (STEAM_0:0:86736760): 
+Thu Jul 18 14:34:42 2019	Duby23 (STEAM_0:1:43218020) spawned
+Thu Jul 18 14:35:05 2019	RICARDO (STEAM_0:1:125273257): !reports
+Thu Jul 18 14:35:09 2019	RICARDO (STEAM_0:1:125273257): /reports
+Thu Jul 18 14:35:14 2019	RICARDO (STEAM_0:1:125273257): !report
+Thu Jul 18 14:35:17 2019	RICARDO (STEAM_0:1:125273257): 
+Thu Jul 18 14:35:21 2019	William (STEAM_0:0:52504530) spawned
+Thu Jul 18 14:35:30 2019	cookie (STEAM_0:0:86736760): aye
+Thu Jul 18 14:35:32 2019	cookie (STEAM_0:0:86736760): wtf
+Thu Jul 18 14:35:35 2019	cookie (STEAM_0:0:86736760): yea
+Thu Jul 18 14:35:39 2019	cookie (STEAM_0:0:86736760): does this job work
+Thu Jul 18 14:35:42 2019	cookie (STEAM_0:0:86736760): its already on
+Thu Jul 18 14:35:52 2019	cookie (STEAM_0:0:86736760): yea
+Thu Jul 18 14:35:54 2019	cookie (STEAM_0:0:86736760): ok
+Thu Jul 18 14:36:07 2019	cookie (STEAM_0:0:86736760): cant
+Thu Jul 18 14:36:09 2019	cookie (STEAM_0:0:86736760): ty
+Thu Jul 18 14:36:09 2019	Dio (STEAM_0:0:497465680) has joined the game
+Thu Jul 18 14:36:09 2019	Dio (STEAM_0:0:497465680) spawned
+Thu Jul 18 14:36:17 2019	cookie (STEAM_0:0:86736760): ok
+Thu Jul 18 14:36:22 2019	cookie (STEAM_0:0:86736760): mhm
+Thu Jul 18 14:36:28 2019	RICARDO (STEAM_0:1:125273257): 
+Thu Jul 18 14:36:29 2019	William (STEAM_0:0:52504530): were u on last night
+Thu Jul 18 14:36:38 2019	William (STEAM_0:0:52504530): sorry voice chat on gmod is shit
+Thu Jul 18 14:36:38 2019	cookie (STEAM_0:0:86736760): nothing like a 15 year old making some meth am i right
+Thu Jul 18 14:36:50 2019	William (STEAM_0:0:52504530): it gets more full at night
+Thu Jul 18 14:36:57 2019	William (STEAM_0:0:52504530): where do u sell meth?
+Thu Jul 18 14:37:02 2019	William (STEAM_0:0:52504530): at meth buyers
+Thu Jul 18 14:37:04 2019	William (STEAM_0:0:52504530): there are 3
+Thu Jul 18 14:37:06 2019	William (STEAM_0:0:52504530): on the map
+Thu Jul 18 14:37:08 2019	cookie (STEAM_0:0:86736760): DIO my boy
+Thu Jul 18 14:37:13 2019	cookie (STEAM_0:0:86736760): lol
+Thu Jul 18 14:37:38 2019	cookie (STEAM_0:0:86736760): /PM Dio come to me
+Thu Jul 18 14:41:33 2019	RICARDO was killed by Duby23 with a fas2_glock20
+Thu Jul 18 14:41:40 2019	RICARDO (STEAM_0:1:125273257) spawned
+Thu Jul 18 14:44:21 2019	cookie (STEAM_0:0:86736760): yes
+Thu Jul 18 14:44:45 2019	Duby23 (STEAM_0:1:43218020) disconnected
+Thu Jul 18 14:46:38 2019	cookie (STEAM_0:0:86736760): /PM Dio hey wru im at  the base rember where it is
+Thu Jul 18 14:47:20 2019	cookie (STEAM_0:0:86736760): /name Roman Cookie
+Thu Jul 18 14:48:01 2019	Roman Cookie (STEAM_0:0:86736760): wtf
+Thu Jul 18 14:48:03 2019	Roman Cookie (STEAM_0:0:86736760): satan
+Thu Jul 18 14:48:13 2019	Roman Cookie (STEAM_0:0:86736760): hello
+Thu Jul 18 14:48:38 2019	Dio (STEAM_0:0:497465680): !freeze @
+Thu Jul 18 14:48:41 2019	Dio (STEAM_0:0:497465680): 
+Thu Jul 18 14:48:41 2019	Roman Cookie (STEAM_0:0:86736760): fuck
+Thu Jul 18 14:49:05 2019	Roman Cookie (STEAM_0:0:86736760): nooooo
+Thu Jul 18 14:49:07 2019	Dio (STEAM_0:0:497465680): !unfreeze @
+Thu Jul 18 14:49:10 2019	Roman Cookie (STEAM_0:0:86736760): mhm
+Thu Jul 18 14:49:46 2019	Dio (STEAM_0:0:497465680): ignite Dio 100
+Thu Jul 18 14:49:52 2019	Roman Cookie (STEAM_0:0:86736760) spawned Vehicle prop_vehicle_jeep (fer_lafertdm)
+Thu Jul 18 14:50:05 2019	Dio (STEAM_0:0:497465680): 
+Thu Jul 18 14:50:23 2019	Dio (STEAM_0:0:497465680): 
+Thu Jul 18 14:50:33 2019	Roman Cookie (STEAM_0:0:86736760) spawned Vehicle prop_vehicle_jeep (fer_lafertdm)
+Thu Jul 18 14:50:39 2019	stalnakerz (STEAM_0:1:67597454) has joined the game
+Thu Jul 18 14:50:39 2019	stalnakerz (STEAM_0:1:67597454) spawned
+Thu Jul 18 14:51:13 2019	Roman Cookie (STEAM_0:0:86736760): /PM Dio are you going to put the admin gun shop again or no cause i want to buy som thing
+Thu Jul 18 14:51:19 2019	Roman Cookie (STEAM_0:0:86736760): /PM Dio some
+Thu Jul 18 14:51:28 2019	William was killed by RICARDO with a fas2_sr25
+Thu Jul 18 14:51:33 2019	William (STEAM_0:0:52504530) spawned
+Thu Jul 18 14:51:38 2019	William was killed by RICARDO with a fas2_sr25
+Thu Jul 18 14:51:41 2019	William (STEAM_0:0:52504530) spawned
+Thu Jul 18 14:51:48 2019	Roman Cookie (STEAM_0:0:86736760): need help or
+Thu Jul 18 14:51:50 2019	William was killed by RICARDO with a fas2_m24
+Thu Jul 18 14:51:52 2019	William (STEAM_0:0:52504530) spawned
+Thu Jul 18 14:51:52 2019	Roman Cookie (STEAM_0:0:86736760): ok
+Thu Jul 18 14:51:58 2019	William was killed by RICARDO with a fas2_m24
+Thu Jul 18 14:52:03 2019	William (STEAM_0:0:52504530) spawned
+Thu Jul 18 14:52:07 2019	stalnakerz (STEAM_0:1:67597454) disconnected
+Thu Jul 18 14:52:31 2019	William was killed by RICARDO with a fas2_m24
+Thu Jul 18 14:52:34 2019	William (STEAM_0:0:52504530) spawned
+Thu Jul 18 14:52:51 2019	Dio (STEAM_0:0:497465680) disconnected
+Thu Jul 18 14:52:53 2019	William was killed by RICARDO with a fas2_sr25
+Thu Jul 18 14:52:57 2019	William (STEAM_0:0:52504530) spawned
+Thu Jul 18 14:53:09 2019	Roman Cookie (STEAM_0:0:86736760) spawned Vehicle prop_vehicle_jeep (courier_trucktdm)
+Thu Jul 18 14:53:25 2019	Roman Cookie (STEAM_0:0:86736760): 
+Thu Jul 18 14:53:34 2019	RICARDO (STEAM_0:1:125273257): 
+Thu Jul 18 14:53:42 2019	Roman Cookie (STEAM_0:0:86736760): i cant get out
+Thu Jul 18 14:54:35 2019	RICARDO (STEAM_0:1:125273257): // Will can you come here
+Thu Jul 18 14:54:41 2019	Roman Cookie (STEAM_0:0:86736760): mhm
+Thu Jul 18 14:55:10 2019	Roman Cookie (STEAM_0:0:86736760): couier truck
+Thu Jul 18 14:55:44 2019	Roman Cookie (STEAM_0:0:86736760): wtf
+Thu Jul 18 14:55:56 2019	Roman Cookie (STEAM_0:0:86736760) spawned Vehicle prop_vehicle_jeep (courier_trucktdm)
+Thu Jul 18 14:56:06 2019	Roman Cookie (STEAM_0:0:86736760): mhm
+Thu Jul 18 14:56:06 2019	jtroll1942 (STEAM_0:1:119864290) has joined the game
+Thu Jul 18 14:56:06 2019	jtroll1942 (STEAM_0:1:119864290) spawned
+Thu Jul 18 14:56:16 2019	Roman Cookie (STEAM_0:0:86736760) spawned Vehicle prop_vehicle_jeep (porcycletdm)
+Thu Jul 18 14:56:47 2019	Roman Cookie (STEAM_0:0:86736760): lol
+Thu Jul 18 14:56:49 2019	RICARDO (STEAM_0:1:125273257): 
+Thu Jul 18 14:57:02 2019	RICARDO (STEAM_0:1:125273257): !warns
+Thu Jul 18 14:57:08 2019	Roman Cookie (STEAM_0:0:86736760): !warns
+Thu Jul 18 14:57:19 2019	Roman Cookie (STEAM_0:0:86736760) spawned Vehicle prop_vehicle_jeep (courier_trucktdm)
+Thu Jul 18 14:57:24 2019	Roman Cookie (STEAM_0:0:86736760): eh
+Thu Jul 18 14:57:33 2019	Roman Cookie (STEAM_0:0:86736760) spawned Vehicle prop_vehicle_jeep (courier_trucktdm)
+Thu Jul 18 14:58:52 2019	Roman Cookie (STEAM_0:0:86736760) spawned Vehicle prop_vehicle_jeep (fer_lafertdm)
+Thu Jul 18 14:59:38 2019	Roman Cookie (STEAM_0:0:86736760) spawned Vehicle prop_vehicle_jeep (fer_lafertdm)
+Thu Jul 18 14:59:44 2019	Roman Cookie (STEAM_0:0:86736760): i have all the cars
+Thu Jul 18 14:59:53 2019	Roman Cookie (STEAM_0:0:86736760): lol
+Thu Jul 18 14:59:54 2019	Roman Cookie (STEAM_0:0:86736760): ye
+Thu Jul 18 15:00:05 2019	Roman Cookie (STEAM_0:0:86736760): lol
+Thu Jul 18 15:00:21 2019	Roman Cookie (STEAM_0:0:86736760): noo
+Thu Jul 18 15:00:31 2019	Roman Cookie (STEAM_0:0:86736760): yes
+Thu Jul 18 15:00:48 2019	Roman Cookie (STEAM_0:0:86736760): lol
+Thu Jul 18 15:00:55 2019	jtroll1942 (STEAM_0:1:119864290): is everyone else getting a ton of lag
+Thu Jul 18 15:01:06 2019	Roman Cookie (STEAM_0:0:86736760) spawned Vehicle prop_vehicle_jeep (dod_ram_1500tdm)
+Thu Jul 18 15:01:23 2019	Roman Cookie (STEAM_0:0:86736760) spawned Vehicle prop_vehicle_jeep (porcycletdm)
+Thu Jul 18 15:01:40 2019	William (STEAM_0:0:52504530): http://rpforum.derpdarkrp.nn.pe/index.php
+Thu Jul 18 15:02:55 2019	Roman Cookie (STEAM_0:0:86736760): ow fuck i just hit my leg on my fucking desk
+Thu Jul 18 15:03:22 2019	Roman Cookie (STEAM_0:0:86736760): wait william
+Thu Jul 18 15:03:32 2019	Roman Cookie (STEAM_0:0:86736760): did they add the meth dealer
+Thu Jul 18 15:03:48 2019	Roman Cookie (STEAM_0:0:86736760): meth addict
+Thu Jul 18 15:04:00 2019	Roman Cookie (STEAM_0:0:86736760) spawned Vehicle prop_vehicle_jeep (civic97tdm)
+Thu Jul 18 15:04:11 2019	Roman Cookie (STEAM_0:0:86736760): hey
+Thu Jul 18 15:04:17 2019	Roman Cookie (STEAM_0:0:86736760): ye
+Thu Jul 18 15:06:31 2019	Roman Cookie (STEAM_0:0:86736760) spawned Vehicle prop_vehicle_jeep (fer_lafertdm)
+Thu Jul 18 15:07:15 2019	Roman Cookie (STEAM_0:0:86736760): 
+Thu Jul 18 15:07:15 2019	William (STEAM_0:0:52504530): hold that thought
+Thu Jul 18 15:07:24 2019	RICARDO (STEAM_0:1:125273257): 
+Thu Jul 18 15:07:38 2019	Roman Cookie (STEAM_0:0:86736760): a inv bank
+Thu Jul 18 15:07:54 2019	Roman Cookie (STEAM_0:0:86736760): inventory bank
+Thu Jul 18 15:08:01 2019	Roman Cookie (STEAM_0:0:86736760): really
+Thu Jul 18 15:08:04 2019	Roman Cookie (STEAM_0:0:86736760): dio did it
+Thu Jul 18 15:08:10 2019	Roman Cookie (STEAM_0:0:86736760): mother
+Thu Jul 18 15:08:15 2019	RICARDO (STEAM_0:1:125273257) spawned SENT itemstore_bank
+Thu Jul 18 15:08:18 2019	RICARDO (STEAM_0:1:125273257) spawned SENT itemstore_bank
+Thu Jul 18 15:08:21 2019	Roman Cookie (STEAM_0:0:86736760): ok
+Thu Jul 18 15:08:32 2019	Roman Cookie (STEAM_0:0:86736760): you want to buy this
+Thu Jul 18 15:08:45 2019	Roman Cookie (STEAM_0:0:86736760): where
+Thu Jul 18 15:10:07 2019	Roman Cookie (STEAM_0:0:86736760): its not working
+Thu Jul 18 15:10:25 2019	Roman Cookie (STEAM_0:0:86736760): why cant i use this weed
+Thu Jul 18 15:10:27 2019	Roman Cookie (STEAM_0:0:86736760): /drop
+Thu Jul 18 15:10:32 2019	William (STEAM_0:0:52504530) spawned SENT zrush_oilspot
+Thu Jul 18 15:10:38 2019	RICARDO (STEAM_0:1:125273257): 
+Thu Jul 18 15:10:48 2019	Roman Cookie (STEAM_0:0:86736760): HEY 
+Thu Jul 18 15:10:52 2019	Roman Cookie (STEAM_0:0:86736760): BRRING ME BACK TO MY CAR
+Thu Jul 18 15:11:16 2019	RICARDO (STEAM_0:1:125273257): !goto will
+Thu Jul 18 15:12:15 2019	Roman Cookie (STEAM_0:0:86736760): can there be an event
+Thu Jul 18 15:12:18 2019	William (STEAM_0:0:52504530) spawned SENT zwf_weedblock
+Thu Jul 18 15:13:50 2019	William (STEAM_0:0:52504530) spawned SENT zrush_fuelbuyer_npc
+Thu Jul 18 15:14:13 2019	William (STEAM_0:0:52504530) spawned SENT zwf_weedblock
+Thu Jul 18 15:14:21 2019	William (STEAM_0:0:52504530) spawned SENT zwf_palette
+Thu Jul 18 15:14:22 2019	William (STEAM_0:0:52504530) spawned SENT zwf_weedblock
+Thu Jul 18 15:15:44 2019	Bobbicus was killed by Himself with a suicide trick
+Thu Jul 18 15:15:49 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Thu Jul 18 15:17:57 2019	jtroll1942 was killed by Bobbicus with a m9k_coltpython
+Thu Jul 18 15:18:00 2019	jtroll1942 (STEAM_0:1:119864290) spawned
+Thu Jul 18 15:18:11 2019	RICARDO (STEAM_0:1:125273257): !goto cook
+Thu Jul 18 15:18:23 2019	RICARDO (STEAM_0:1:125273257): !goto will
+Thu Jul 18 15:20:32 2019	Zach (STEAM_0:1:5036327) has joined the game
+Thu Jul 18 15:20:32 2019	Zach (STEAM_0:1:5036327) spawned
+Thu Jul 18 15:22:37 2019	Roman Cookie (STEAM_0:0:86736760): hi
+Thu Jul 18 15:22:47 2019	Roman Cookie (STEAM_0:0:86736760): i was a meth cook
+Thu Jul 18 15:22:49 2019	Roman Cookie (STEAM_0:0:86736760): at that time
+Thu Jul 18 15:22:50 2019	Bobbicus was killed by Himself with a suicide trick
+Thu Jul 18 15:22:52 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Thu Jul 18 15:22:56 2019	Roman Cookie (STEAM_0:0:86736760): i kept it
+Thu Jul 18 15:22:59 2019	Roman Cookie (STEAM_0:0:86736760): in bank
+Thu Jul 18 15:23:05 2019	Roman Cookie (STEAM_0:0:86736760): ye
+Thu Jul 18 15:23:11 2019	Roman Cookie (STEAM_0:0:86736760): yea
+Thu Jul 18 15:23:25 2019	Roman Cookie (STEAM_0:0:86736760): lol
+Thu Jul 18 15:23:34 2019	Roman Cookie (STEAM_0:0:86736760): bye
+Thu Jul 18 15:24:05 2019	Roman Cookie (STEAM_0:0:86736760): 
+Thu Jul 18 15:24:13 2019	RICARDO (STEAM_0:1:125273257): 
+Thu Jul 18 15:24:36 2019	Roman Cookie (STEAM_0:0:86736760): see
+Thu Jul 18 15:24:42 2019	Roman Cookie (STEAM_0:0:86736760): ye
+Thu Jul 18 15:25:00 2019	Roman Cookie (STEAM_0:0:86736760): i gotta rebuild the seed again
+Thu Jul 18 15:25:06 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662) has joined the game
+Thu Jul 18 15:25:06 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662) spawned
+Thu Jul 18 15:25:07 2019	RICARDO (STEAM_0:1:125273257): 
+Thu Jul 18 15:25:09 2019	Roman Cookie (STEAM_0:0:86736760): mhm
+Thu Jul 18 15:25:24 2019	William (STEAM_0:0:52504530) spawned SENT zrush_oilspot_generator
+Thu Jul 18 15:25:28 2019	William (STEAM_0:0:52504530) spawned SENT zrush_oilspot
+Thu Jul 18 15:25:53 2019	RICARDO (STEAM_0:1:125273257): !goto will
+Thu Jul 18 15:26:23 2019	Bobbicus (STEAM_0:0:86269452) spawned SENT item_healthkit
+Thu Jul 18 15:26:24 2019	Bobbicus (STEAM_0:0:86269452) spawned SENT item_healthkit
+Thu Jul 18 15:26:26 2019	Bobbicus (STEAM_0:0:86269452) spawned SENT item_healthvial
+Thu Jul 18 15:26:33 2019	William (STEAM_0:0:52504530) spawned SENT zrush_oilspot_generator
+Thu Jul 18 15:26:35 2019	William (STEAM_0:0:52504530) spawned SENT zrush_oilspot_generator
+Thu Jul 18 15:26:38 2019	William (STEAM_0:0:52504530) spawned SENT zrush_oilspot_generator
+Thu Jul 18 15:27:04 2019	RICARDO (STEAM_0:1:125273257): // Will tp to me
+Thu Jul 18 15:27:12 2019	Roman Cookie (STEAM_0:0:86736760): I AM SOO BORED
+Thu Jul 18 15:27:15 2019	Roman Cookie (STEAM_0:0:86736760): NOTHING TO DO
+Thu Jul 18 15:27:18 2019	Roman Cookie (STEAM_0:0:86736760): NO ONE TO RAID ME
+Thu Jul 18 15:28:11 2019	Bobbicus (STEAM_0:0:86269452) spawned SENT item_healthkit
+Thu Jul 18 15:28:12 2019	Bobbicus (STEAM_0:0:86269452) spawned SENT item_healthkit
+Thu Jul 18 15:28:13 2019	Bobbicus (STEAM_0:0:86269452) spawned SENT item_healthkit
+Thu Jul 18 15:31:04 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /pm will hey so about the FreeRunner job XD
+Thu Jul 18 15:31:58 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /a wow a Super Admin
+Thu Jul 18 15:32:15 2019	RICARDO (STEAM_0:1:125273257): !goto dc
+Thu Jul 18 15:32:59 2019	RICARDO (STEAM_0:1:125273257): !warns
+Thu Jul 18 15:33:26 2019	RICARDO (STEAM_0:1:125273257): !goto will
+Thu Jul 18 15:33:45 2019	Bobbicus (STEAM_0:0:86269452) spawned SENT item_healthkit
+Thu Jul 18 15:33:45 2019	Bobbicus (STEAM_0:0:86269452) spawned SENT item_healthkit
+Thu Jul 18 15:33:45 2019	Bobbicus (STEAM_0:0:86269452) spawned SENT item_healthkit
+Thu Jul 18 15:33:48 2019	Bobbicus (STEAM_0:0:86269452) spawned SENT item_healthkit
+Thu Jul 18 15:34:02 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): 
+Thu Jul 18 15:34:11 2019	UG | M A S T E R (STEAM_0:1:180622613) has joined the game
+Thu Jul 18 15:34:11 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Thu Jul 18 15:35:01 2019	Bobbicus (STEAM_0:0:86269452) spawned SENT item_healthkit
+Thu Jul 18 15:35:02 2019	Bobbicus (STEAM_0:0:86269452) spawned SENT item_healthkit
+Thu Jul 18 15:35:08 2019	Bobbicus (STEAM_0:0:86269452) spawned SENT item_healthkit
+Thu Jul 18 15:35:10 2019	Bobbicus (STEAM_0:0:86269452) spawned SENT item_healthkit
+Thu Jul 18 15:35:11 2019	Bobbicus (STEAM_0:0:86269452) spawned SENT item_healthkit
+Thu Jul 18 15:36:41 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /pm rom i got your car for ya
+Thu Jul 18 15:36:55 2019	Roman Cookie (STEAM_0:0:86736760): lol
+Thu Jul 18 15:37:11 2019	UG | M A S T E R (STEAM_0:1:180622613) disconnected
+Thu Jul 18 15:37:18 2019	RICARDO was killed by Entity [0][worldspawn] with a unknown
+Thu Jul 18 15:37:20 2019	RICARDO (STEAM_0:1:125273257) spawned
+Thu Jul 18 15:37:36 2019	RICARDO (STEAM_0:1:125273257): !goto derp
+Thu Jul 18 15:37:40 2019	RICARDO (STEAM_0:1:125273257): !goto will
+Thu Jul 18 15:37:58 2019	RICARDO (STEAM_0:1:125273257): 
+Thu Jul 18 15:37:59 2019	William (STEAM_0:0:52504530): 
+Thu Jul 18 15:38:29 2019	William (STEAM_0:0:52504530): 
+Thu Jul 18 15:38:56 2019	William (STEAM_0:0:52504530): 
+Thu Jul 18 15:39:00 2019	RICARDO (STEAM_0:1:125273257): 
+Thu Jul 18 15:39:04 2019	Bobbicus (STEAM_0:0:86269452) spawned SENT item_healthvial
+Thu Jul 18 15:39:24 2019	William (STEAM_0:0:52504530): !warn
+Thu Jul 18 15:40:15 2019	Roman Cookie (STEAM_0:0:86736760): sure
+Thu Jul 18 15:40:16 2019	William (STEAM_0:0:52504530) spawned SENT zrush_oilspot_generator
+Thu Jul 18 15:40:27 2019	jtroll1942 (STEAM_0:1:119864290): /drop wepon
+Thu Jul 18 15:40:33 2019	jtroll1942 (STEAM_0:1:119864290): /drop wepon
+Thu Jul 18 15:41:04 2019	William (STEAM_0:0:52504530) spawned SENT zrush_oilspot
+Thu Jul 18 15:41:06 2019	William (STEAM_0:0:52504530) spawned SENT zrush_oilspot
+Thu Jul 18 15:41:09 2019	RICARDO (STEAM_0:1:125273257): !goto will
+Thu Jul 18 15:41:13 2019	William (STEAM_0:0:52504530) spawned SENT zrush_oilspot
+Thu Jul 18 15:41:14 2019	William (STEAM_0:0:52504530) spawned SENT zrush_oilspot
+Thu Jul 18 15:41:15 2019	William (STEAM_0:0:52504530) spawned SENT zrush_oilspot
+Thu Jul 18 15:42:20 2019	William (STEAM_0:0:52504530) spawned SENT zrush_drilltower
+Thu Jul 18 15:43:49 2019	William (STEAM_0:0:52504530) spawned SENT zrush_oilspot
+Thu Jul 18 15:44:15 2019	I require sustenance (STEAM_0:1:97146044) has joined the game
+Thu Jul 18 15:44:15 2019	I require sustenance (STEAM_0:1:97146044) spawned
+Thu Jul 18 15:44:28 2019	UG | M A S T E R (STEAM_0:1:180622613) has joined the game
+Thu Jul 18 15:44:28 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Thu Jul 18 15:44:40 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /pm wil is the lean job done yet or are you still working on it???
+Thu Jul 18 15:45:22 2019	jtroll1942 (STEAM_0:1:119864290): /drop wepon
+Thu Jul 18 15:46:25 2019	UG | M A S T E R (STEAM_0:1:180622613) disconnected
+Thu Jul 18 15:47:06 2019	William was killed by RICARDO with a fas2_dv2
+Thu Jul 18 15:47:09 2019	William (STEAM_0:0:52504530) spawned
+Thu Jul 18 15:47:19 2019	I require sustenance (STEAM_0:1:97146044) disconnected
+Thu Jul 18 15:47:21 2019	RICARDO was killed by Himself with a suicide trick
+Thu Jul 18 15:47:26 2019	RICARDO (STEAM_0:1:125273257) spawned
+Thu Jul 18 15:50:02 2019	Bobbicus (STEAM_0:0:86269452) spawned SENT item_healthkit
+Thu Jul 18 15:50:19 2019	UG | M A S T E R (STEAM_0:1:180622613) has joined the game
+Thu Jul 18 15:50:19 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Thu Jul 18 15:51:12 2019	Roman Cookie (STEAM_0:0:86736760): 
+Thu Jul 18 15:51:25 2019	RICARDO (STEAM_0:1:125273257): 
+Thu Jul 18 15:51:36 2019	Roman Cookie (STEAM_0:0:86736760): i have tooo much stuff
+Thu Jul 18 15:51:43 2019	Roman Cookie (STEAM_0:0:86736760): i gotta make 4 trips
+Thu Jul 18 15:51:52 2019	I require sustenance (STEAM_0:1:97146044) has joined the game
+Thu Jul 18 15:51:52 2019	I require sustenance (STEAM_0:1:97146044) spawned
+Thu Jul 18 15:52:12 2019	RICARDO (STEAM_0:1:125273257): !goto will
+Thu Jul 18 15:52:14 2019	UG | M A S T E R (STEAM_0:1:180622613) disconnected
+Thu Jul 18 15:52:33 2019	RICARDO (STEAM_0:1:125273257): 
+Thu Jul 18 15:52:45 2019	RICARDO (STEAM_0:1:125273257): /report
+Thu Jul 18 15:52:47 2019	Roman Cookie (STEAM_0:0:86736760): ARE YOU FUCKING SERIOURS
+Thu Jul 18 15:52:53 2019	RICARDO (STEAM_0:1:125273257): !report
+Thu Jul 18 15:52:58 2019	RICARDO (STEAM_0:1:125273257): !r
+Thu Jul 18 15:53:01 2019	RICARDO (STEAM_0:1:125273257): /r
+Thu Jul 18 15:53:03 2019	jtroll1942 (STEAM_0:1:119864290): /drop wepon
+Thu Jul 18 15:53:03 2019	RICARDO (STEAM_0:1:125273257): 
+Thu Jul 18 15:53:08 2019	RICARDO (STEAM_0:1:125273257): !goto will
+Thu Jul 18 15:53:52 2019	Roman Cookie (STEAM_0:0:86736760): /drop
+Thu Jul 18 15:53:55 2019	Roman Cookie (STEAM_0:0:86736760): /drop
+Thu Jul 18 15:53:57 2019	Roman Cookie (STEAM_0:0:86736760): /drop
+Thu Jul 18 15:53:59 2019	jtroll1942 (STEAM_0:1:119864290): 
+Thu Jul 18 15:54:01 2019	Roman Cookie (STEAM_0:0:86736760): /drop
+Thu Jul 18 15:54:24 2019	RICARDO (STEAM_0:1:125273257): !goto troll
+Thu Jul 18 15:54:29 2019	I require sustenance (STEAM_0:1:97146044) disconnected
+Thu Jul 18 15:55:02 2019	Roman Cookie (STEAM_0:0:86736760): its mee
+Thu Jul 18 15:56:09 2019	jtroll1942 was killed by Bobbicus with a m9k_magpulpdr
+Thu Jul 18 15:56:15 2019	jtroll1942 (STEAM_0:1:119864290) spawned
+Thu Jul 18 15:56:30 2019	Roman Cookie (STEAM_0:0:86736760): /drop
+Thu Jul 18 15:56:31 2019	RICARDO was killed by jtroll1942 with a fas2_deagle
+Thu Jul 18 15:56:33 2019	Roman Cookie (STEAM_0:0:86736760): /drop
+Thu Jul 18 15:56:35 2019	Roman Cookie (STEAM_0:0:86736760): /drop
+Thu Jul 18 15:56:37 2019	RICARDO (STEAM_0:1:125273257) spawned
+Thu Jul 18 15:56:37 2019	Roman Cookie (STEAM_0:0:86736760): /drop
+Thu Jul 18 15:57:17 2019	Bobbicus (STEAM_0:0:86269452): 
+Thu Jul 18 15:57:28 2019	Roman Cookie (STEAM_0:0:86736760): its your base
+Thu Jul 18 15:57:32 2019	Roman Cookie (STEAM_0:0:86736760): you dont have to
+Thu Jul 18 15:57:37 2019	jtroll1942 (STEAM_0:1:119864290): that was your base you didnt need to say that
+Thu Jul 18 15:57:37 2019	Roman Cookie (STEAM_0:0:86736760): or was it your base
+Thu Jul 18 15:57:49 2019	Roman Cookie (STEAM_0:0:86736760): 
+Thu Jul 18 15:58:03 2019	Bobbicus (STEAM_0:0:86269452): 
+Thu Jul 18 15:58:03 2019	jtroll1942 (STEAM_0:1:119864290): 
+Thu Jul 18 15:58:37 2019	jtroll1942 was killed by Bobbicus with a m9k_magpulpdr
+Thu Jul 18 15:58:41 2019	jtroll1942 (STEAM_0:1:119864290) spawned
+Thu Jul 18 15:58:47 2019	Zach (STEAM_0:1:5036327) disconnected
+Thu Jul 18 16:00:13 2019	UG | M A S T E R (STEAM_0:1:180622613) has joined the game
+Thu Jul 18 16:00:13 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Thu Jul 18 16:00:18 2019	Roman Cookie was killed by Bobbicus with a m9k_magpulpdr
+Thu Jul 18 16:00:19 2019	Roman Cookie (STEAM_0:0:86736760): how
+Thu Jul 18 16:00:20 2019	Roman Cookie (STEAM_0:0:86736760): wtf
+Thu Jul 18 16:00:21 2019	Roman Cookie (STEAM_0:0:86736760) spawned
+Thu Jul 18 16:00:24 2019	Roman Cookie (STEAM_0:0:86736760): 
+Thu Jul 18 16:00:43 2019	Bobbicus (STEAM_0:0:86269452): 
+Thu Jul 18 16:00:58 2019	jtroll1942 (STEAM_0:1:119864290): said the one using admin wepons
+Thu Jul 18 16:01:13 2019	Roman Cookie (STEAM_0:0:86736760): we are going to raid you and win believe it
+Thu Jul 18 16:01:59 2019	Roman Cookie (STEAM_0:0:86736760): /drop
+Thu Jul 18 16:02:02 2019	Roman Cookie (STEAM_0:0:86736760): /drop
+Thu Jul 18 16:02:04 2019	Roman Cookie (STEAM_0:0:86736760): /drop
+Thu Jul 18 16:02:08 2019	Roman Cookie (STEAM_0:0:86736760): /drop
+Thu Jul 18 16:02:38 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /pm will i can't fit my crate in the door
+Thu Jul 18 16:03:28 2019	UG | M A S T E R (STEAM_0:1:180622613): https://youtube.com/
+Thu Jul 18 16:04:04 2019	jtroll1942 (STEAM_0:1:119864290): /drop wepon
+Thu Jul 18 16:04:05 2019	Roman Cookie (STEAM_0:0:86736760): /drop
+Thu Jul 18 16:04:07 2019	RICARDO (STEAM_0:1:125273257): !UNLOCK
+Thu Jul 18 16:04:07 2019	Roman Cookie (STEAM_0:0:86736760): /drop
+Thu Jul 18 16:04:10 2019	Roman Cookie (STEAM_0:0:86736760): /drop
+Thu Jul 18 16:04:12 2019	RICARDO (STEAM_0:1:125273257): !uncloak
+Thu Jul 18 16:04:15 2019	Bobbicus (STEAM_0:0:86269452) spawned SENT item_healthkit
+Thu Jul 18 16:04:15 2019	Roman Cookie (STEAM_0:0:86736760): /drop
+Thu Jul 18 16:04:16 2019	Bobbicus (STEAM_0:0:86269452) spawned SENT item_healthkit
+Thu Jul 18 16:04:16 2019	Bobbicus (STEAM_0:0:86269452) spawned SENT item_healthkit
+Thu Jul 18 16:04:19 2019	Roman Cookie (STEAM_0:0:86736760): /drop
+Thu Jul 18 16:04:23 2019	Roman Cookie (STEAM_0:0:86736760): /drop
+Thu Jul 18 16:04:37 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /pm Ug i can't fit a lean crate through my door
+Thu Jul 18 16:05:18 2019	UG | M A S T E R (STEAM_0:1:180622613): https://youtube.com/
+Thu Jul 18 16:05:33 2019	UG | M A S T E R (STEAM_0:1:180622613): /pm will https://youtube.com
+Thu Jul 18 16:05:42 2019	UG | M A S T E R (STEAM_0:1:180622613): /pm will Yes
+Thu Jul 18 16:05:48 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): 
+Thu Jul 18 16:05:55 2019	RICARDO (STEAM_0:1:125273257): !goto dc
+Thu Jul 18 16:06:41 2019	Roman Cookie (STEAM_0:0:86736760): 
+Thu Jul 18 16:06:43 2019	Bobbicus was killed by Roman Cookie with a fas2_famas
+Thu Jul 18 16:06:50 2019	Roman Cookie (STEAM_0:0:86736760): ez
+Thu Jul 18 16:06:51 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Thu Jul 18 16:06:53 2019	jtroll1942 (STEAM_0:1:119864290): 
+Thu Jul 18 16:06:56 2019	Roman Cookie (STEAM_0:0:86736760): lel
+Thu Jul 18 16:07:02 2019	Roman Cookie (STEAM_0:0:86736760): dont leave it will be failrp
+Thu Jul 18 16:07:04 2019	Bobbicus (STEAM_0:0:86269452): 
+Thu Jul 18 16:07:19 2019	Roman Cookie was killed by Bobbicus with a m9k_magpulpdr
+Thu Jul 18 16:07:20 2019	UG | M A S T E R (STEAM_0:1:180622613): https://youtube.com/
+Thu Jul 18 16:07:21 2019	Roman Cookie (STEAM_0:0:86736760): ok'
+Thu Jul 18 16:07:22 2019	Roman Cookie (STEAM_0:0:86736760) spawned
+Thu Jul 18 16:07:26 2019	RICARDO (STEAM_0:1:125273257): /setmoney ric 100000
+Thu Jul 18 16:07:26 2019	RICARDO (STEAM_0:1:125273257) set RICARDO's money to $100,000
+Thu Jul 18 16:07:27 2019	Roman Cookie (STEAM_0:0:86736760): 
+Thu Jul 18 16:07:29 2019	Bobbicus was killed by jtroll1942 with a fas2_ks23
+Thu Jul 18 16:07:31 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Thu Jul 18 16:07:33 2019	RICARDO (STEAM_0:1:125273257): /dropmoney 100000
+Thu Jul 18 16:07:34 2019	RICARDO (STEAM_0:1:125273257) has dropped $100,000
+Thu Jul 18 16:07:34 2019	Bobbicus (STEAM_0:0:86269452): 
+Thu Jul 18 16:07:44 2019	RICARDO (STEAM_0:1:125273257): 
+Thu Jul 18 16:07:53 2019	Roman Cookie (STEAM_0:0:86736760): he nlred
+Thu Jul 18 16:08:00 2019	UG | M A S T E R (STEAM_0:1:180622613): really
+Thu Jul 18 16:08:03 2019	Roman Cookie (STEAM_0:0:86736760): ye
+Thu Jul 18 16:08:14 2019	RICARDO (STEAM_0:1:125273257): 
+Thu Jul 18 16:08:15 2019	UG | M A S T E R (STEAM_0:1:180622613): /pm Roman You killed him, and he came back?
+Thu Jul 18 16:08:18 2019	Roman Cookie (STEAM_0:0:86736760): yes
+Thu Jul 18 16:08:24 2019	UG | M A S T E R (STEAM_0:1:180622613): /pm ROman And killed you
+Thu Jul 18 16:08:28 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Thu Jul 18 16:08:30 2019	Roman Cookie (STEAM_0:0:86736760): ye
+Thu Jul 18 16:08:42 2019	Roman Cookie (STEAM_0:0:86736760): he nlred
+Thu Jul 18 16:08:54 2019	Roman Cookie (STEAM_0:0:86736760): i killed him right there
+Thu Jul 18 16:08:59 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Thu Jul 18 16:09:00 2019	jtroll1942 (STEAM_0:1:119864290): 
+Thu Jul 18 16:09:16 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Thu Jul 18 16:09:21 2019	UG | M A S T E R (STEAM_0:1:180622613): Hi
+Thu Jul 18 16:09:24 2019	Roman Cookie (STEAM_0:0:86736760): HI
+Thu Jul 18 16:09:28 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Thu Jul 18 16:09:51 2019	RICARDO (STEAM_0:1:125273257): !cloak
+Thu Jul 18 16:10:03 2019	Roman Cookie (STEAM_0:0:86736760): come over here jtrool
+Thu Jul 18 16:10:14 2019	Roman Cookie (STEAM_0:0:86736760): jtroll
+Thu Jul 18 16:10:20 2019	Roman Cookie (STEAM_0:0:86736760): you killed me 
+Thu Jul 18 16:10:26 2019	Roman Cookie (STEAM_0:0:86736760): but i killed you first
+Thu Jul 18 16:10:28 2019	UG | M A S T E R (STEAM_0:1:180622613): I'm just going to give you a verbal warn. And I believe at least maybe 3 minutes.
+Thu Jul 18 16:10:36 2019	RICARDO (STEAM_0:1:125273257): !god
+Thu Jul 18 16:10:47 2019	Roman Cookie (STEAM_0:0:86736760): 
+Thu Jul 18 16:10:52 2019	Roman Cookie (STEAM_0:0:86736760): that was last raid
+Thu Jul 18 16:10:56 2019	Roman Cookie (STEAM_0:0:86736760): not this raid]
+Thu Jul 18 16:11:08 2019	Roman Cookie (STEAM_0:0:86736760): did you get anything
+Thu Jul 18 16:11:21 2019	RICARDO (STEAM_0:1:125273257): // AFK MAKING CHICKEN
+Thu Jul 18 16:11:22 2019	¢αятι (STEAM_0:1:124994924) has joined the game
+Thu Jul 18 16:11:22 2019	¢αятι [NWA] (STEAM_0:1:124994924) spawned
+Thu Jul 18 16:11:58 2019	Roman Cookie (STEAM_0:0:86736760): did you get anything jtroll
+Thu Jul 18 16:12:04 2019	Roman Cookie (STEAM_0:0:86736760): what was it
+Thu Jul 18 16:12:27 2019	Roman Cookie (STEAM_0:0:86736760): i got 16mil
+Thu Jul 18 16:13:53 2019	jtroll1942 (STEAM_0:1:119864290): 
+Thu Jul 18 16:14:36 2019	UG | M A S T E R (STEAM_0:1:180622613) disconnected
+Thu Jul 18 16:14:56 2019	Bobbicus (STEAM_0:0:86269452): 
+Thu Jul 18 16:16:06 2019	William (STEAM_0:0:52504530): oh hello
+Thu Jul 18 16:16:14 2019	William (STEAM_0:0:52504530): its goin pretty good
+Thu Jul 18 16:16:19 2019	Roman Cookie (STEAM_0:0:86736760): mother
+Thu Jul 18 16:16:21 2019	jtroll1942 (STEAM_0:1:119864290): whats wrong
+Thu Jul 18 16:16:23 2019	Roman Cookie (STEAM_0:0:86736760): fuckey
+Thu Jul 18 16:16:26 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /a wasn't looking but i got 20 hours BOIS
+Thu Jul 18 16:16:26 2019	William (STEAM_0:0:52504530): ive had like 3 people join today that sound like u
+Thu Jul 18 16:16:31 2019	Bobbicus (STEAM_0:0:86269452): niiiice
+Thu Jul 18 16:16:34 2019	William (STEAM_0:0:52504530): im starting to think that im being attacked by clones
+Thu Jul 18 16:16:46 2019	William (STEAM_0:0:52504530): like a week
+Thu Jul 18 16:16:49 2019	Roman Cookie (STEAM_0:0:86736760): no
+Thu Jul 18 16:16:54 2019	Roman Cookie (STEAM_0:0:86736760): not to mug him
+Thu Jul 18 16:16:57 2019	William (STEAM_0:0:52504530): uh technically yes
+Thu Jul 18 16:16:59 2019	Roman Cookie (STEAM_0:0:86736760): i did 
+Thu Jul 18 16:17:02 2019	Roman Cookie (STEAM_0:0:86736760): but not to mug him
+Thu Jul 18 16:17:06 2019	Roman Cookie (STEAM_0:0:86736760): idk
+Thu Jul 18 16:17:06 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) has joined the game
+Thu Jul 18 16:17:06 2019	BexGasm (STEAM_0:1:63382511) spawned
+Thu Jul 18 16:17:10 2019	William (STEAM_0:0:52504530): u can apply at the forum
+Thu Jul 18 16:17:13 2019	Roman Cookie (STEAM_0:0:86736760): THERE IS NOTHING TO DO
+Thu Jul 18 16:17:16 2019	¢αятι [NWA] (STEAM_0:1:124994924): !forum
+Thu Jul 18 16:17:16 2019	RICARDO (STEAM_0:1:125273257): !warn
+Thu Jul 18 16:17:18 2019	Roman Cookie (STEAM_0:0:86736760): imma raid you 
+Thu Jul 18 16:17:19 2019	¢αятι [NWA] (STEAM_0:1:124994924): !forums
+Thu Jul 18 16:17:28 2019	William (STEAM_0:0:52504530): u can get to the forum by using the scoreboard and clicking on website to the left
+Thu Jul 18 16:17:28 2019	Roman Cookie (STEAM_0:0:86736760): and destory you dimond printer
+Thu Jul 18 16:17:38 2019	Roman Cookie (STEAM_0:0:86736760): diamond
+Thu Jul 18 16:17:49 2019	BexGasm (STEAM_0:1:63382511): !jail @ 120
+Thu Jul 18 16:17:57 2019	jtroll1942 (STEAM_0:1:119864290): 
+Thu Jul 18 16:18:14 2019	BexGasm (STEAM_0:1:63382511): !gag nwa 0
+Thu Jul 18 16:18:18 2019	BexGasm (STEAM_0:1:63382511): !unjail nwa
+Thu Jul 18 16:18:19 2019	¢αятι [NWA] (STEAM_0:1:124994924): why
+Thu Jul 18 16:18:19 2019	RICARDO (STEAM_0:1:125273257): !goto bex
+Thu Jul 18 16:18:24 2019	¢αятι [NWA] (STEAM_0:1:124994924): //
+Thu Jul 18 16:18:28 2019	¢αятι [NWA] (STEAM_0:1:124994924): // ungag me
+Thu Jul 18 16:18:34 2019	¢αятι [NWA] (STEAM_0:1:124994924): 
+Thu Jul 18 16:18:44 2019	¢αятι [NWA] (STEAM_0:1:124994924): 
+Thu Jul 18 16:18:50 2019	¢αятι [NWA] (STEAM_0:1:124994924): AYE I WAS PLAYING
+Thu Jul 18 16:18:58 2019	¢αятι [NWA] (STEAM_0:1:124994924): I am also in a discord call
+Thu Jul 18 16:19:06 2019	Roman Cookie (STEAM_0:0:86736760): lol
+Thu Jul 18 16:19:06 2019	¢αятι [NWA] (STEAM_0:1:124994924): I am sincerly sorry sir
+Thu Jul 18 16:19:14 2019	Roman Cookie (STEAM_0:0:86736760): whats discord link 
+Thu Jul 18 16:19:22 2019	¢αятι [NWA] (STEAM_0:1:124994924): // Please ungag me
+Thu Jul 18 16:19:33 2019	Roman Cookie (STEAM_0:0:86736760): hey william
+Thu Jul 18 16:19:36 2019	¢αятι [NWA] (STEAM_0:1:124994924): 
+Thu Jul 18 16:19:48 2019	BexGasm (STEAM_0:1:63382511): !jail @ 120
+Thu Jul 18 16:19:51 2019	Roman Cookie (STEAM_0:0:86736760): lel
+Thu Jul 18 16:19:57 2019	¢αятι [NWA] (STEAM_0:1:124994924): 
+Thu Jul 18 16:20:03 2019	Roman Cookie (STEAM_0:0:86736760): ive been on
+Thu Jul 18 16:20:04 2019	Roman Cookie (STEAM_0:0:86736760): for
+Thu Jul 18 16:20:07 2019	¢αятι [NWA] (STEAM_0:1:124994924): 
+Thu Jul 18 16:20:10 2019	UG | M A S T E R (STEAM_0:1:180622613) has joined the game
+Thu Jul 18 16:20:10 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Thu Jul 18 16:20:12 2019	RICARDO (STEAM_0:1:125273257): /me high five
+Thu Jul 18 16:20:15 2019	BexGasm (STEAM_0:1:63382511): // :kami:
+Thu Jul 18 16:20:16 2019	RICARDO (STEAM_0:1:125273257): !cloak\
+Thu Jul 18 16:20:17 2019	Roman Cookie (STEAM_0:0:86736760): 
+Thu Jul 18 16:20:20 2019	RICARDO (STEAM_0:1:125273257): !cloak
+Thu Jul 18 16:20:29 2019	RICARDO (STEAM_0:1:125273257): !uncloak
+Thu Jul 18 16:20:29 2019	¢αятι [NWA] (STEAM_0:1:124994924): 
+Thu Jul 18 16:20:32 2019	Roman Cookie (STEAM_0:0:86736760): hey william
+Thu Jul 18 16:20:52 2019	¢αятι [NWA] (STEAM_0:1:124994924): // ty
+Thu Jul 18 16:21:07 2019	Roman Cookie (STEAM_0:0:86736760): 
+Thu Jul 18 16:21:17 2019	Roman Cookie (STEAM_0:0:86736760): lol
+Thu Jul 18 16:21:21 2019	Roman Cookie (STEAM_0:0:86736760): idc
+Thu Jul 18 16:21:23 2019	Roman Cookie (STEAM_0:0:86736760): its for fun
+Thu Jul 18 16:21:29 2019	UG | M A S T E R (STEAM_0:1:180622613): .
+Thu Jul 18 16:21:30 2019	Roman Cookie (STEAM_0:0:86736760): also to fuck with him
+Thu Jul 18 16:21:50 2019	¢αятι [NWA] (STEAM_0:1:124994924): /job ape
+Thu Jul 18 16:22:05 2019	jtroll1942 (STEAM_0:1:119864290): /drop wepon
+Thu Jul 18 16:22:14 2019	Roman Cookie (STEAM_0:0:86736760): you guys should add breaching charges
+Thu Jul 18 16:22:46 2019	UG | M A S T E R (STEAM_0:1:180622613): https://youtube.com/
+Thu Jul 18 16:22:51 2019	Bobbicus was killed by Roman Cookie with a fas2_m4a1
+Thu Jul 18 16:22:54 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Thu Jul 18 16:23:06 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /a wow he got a promotion
+Thu Jul 18 16:23:10 2019	BexGasm (STEAM_0:1:63382511): // gg
+Thu Jul 18 16:23:35 2019	Roman Cookie (STEAM_0:0:86736760): dont nlr
+Thu Jul 18 16:23:40 2019	Roman Cookie (STEAM_0:0:86736760): or leave
+Thu Jul 18 16:23:43 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Thu Jul 18 16:23:51 2019	BexGasm (STEAM_0:1:63382511): !return nwa
+Thu Jul 18 16:25:23 2019	UG | M A S T E R (STEAM_0:1:180622613): your welcome
+Thu Jul 18 16:25:24 2019	Roman Cookie (STEAM_0:0:86736760): 
+Thu Jul 18 16:25:34 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Thu Jul 18 16:25:51 2019	¢αятι [NWA] (STEAM_0:1:124994924): // i opened front door
+Thu Jul 18 16:25:52 2019	BexGasm (STEAM_0:1:63382511): !jail @ 120
+Thu Jul 18 16:26:02 2019	¢αятι [NWA] (STEAM_0:1:124994924): // damn
+Thu Jul 18 16:26:15 2019	¢αятι [NWA] (STEAM_0:1:124994924): // :grin:
+Thu Jul 18 16:26:20 2019	BexGasm (STEAM_0:1:63382511): // :kami:
+Thu Jul 18 16:26:40 2019	UG | M A S T E R (STEAM_0:1:180622613): Probably
+Thu Jul 18 16:26:43 2019	¢αятι [NWA] (STEAM_0:1:124994924): // I have stage 4 autism
+Thu Jul 18 16:26:49 2019	BexGasm (STEAM_0:1:63382511): // we can tell
+Thu Jul 18 16:26:54 2019	BexGasm (STEAM_0:1:63382511): !jail @ 120
+Thu Jul 18 16:26:56 2019	BexGasm (STEAM_0:1:63382511): !jail @ 120
+Thu Jul 18 16:26:57 2019	BexGasm (STEAM_0:1:63382511): !jail @ 120
+Thu Jul 18 16:26:59 2019	BexGasm (STEAM_0:1:63382511): !jail @ 120
+Thu Jul 18 16:27:04 2019	¢αятι [NWA] (STEAM_0:1:124994924): // :gring:
+Thu Jul 18 16:27:08 2019	¢αятι [NWA] (STEAM_0:1:124994924): // xd
+Thu Jul 18 16:27:11 2019	¢αятι [NWA] (STEAM_0:1:124994924): // :grin:
+Thu Jul 18 16:27:22 2019	BexGasm (STEAM_0:1:63382511): !jail @ 120
+Thu Jul 18 16:27:48 2019	¢αятι [NWA] (STEAM_0:1:124994924): // !xban RICARDO
+Thu Jul 18 16:27:53 2019	¢αятι [NWA] (STEAM_0:1:124994924): 
+Thu Jul 18 16:28:11 2019	¢αятι [NWA] (STEAM_0:1:124994924): // please unjail me
+Thu Jul 18 16:28:15 2019	RICARDO (STEAM_0:1:125273257): !goto will
+Thu Jul 18 16:28:20 2019	¢αятι [NWA] (STEAM_0:1:124994924): // I have to get my fucking bannanas
+Thu Jul 18 16:28:42 2019	RICARDO (STEAM_0:1:125273257): // AFK CHECKING ON CHICKEN
+Thu Jul 18 16:28:49 2019	¢αятι [NWA] (STEAM_0:1:124994924): // 
+Thu Jul 18 16:29:02 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /pm will is it more profit to make lean or the "master meth" meth
+Thu Jul 18 16:29:07 2019	¢αятι [NWA] was killed by Himself with a suicide trick
+Thu Jul 18 16:29:09 2019	¢αятι [NWA] (STEAM_0:1:124994924) spawned
+Thu Jul 18 16:29:15 2019	Bobbicus was killed by Roman Cookie with a fas2_ks23
+Thu Jul 18 16:29:22 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Thu Jul 18 16:29:28 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /pm will *"master meth cooker"
+Thu Jul 18 16:29:48 2019	¢αятι [NWA] was killed by Himself with a suicide trick
+Thu Jul 18 16:30:04 2019	¢αятι [NWA] (STEAM_0:1:124994924) spawned
+Thu Jul 18 16:30:04 2019	¢αятι [NWA] (STEAM_0:1:124994924) disconnected
+Thu Jul 18 16:30:11 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Thu Jul 18 16:30:25 2019	Roman Cookie (STEAM_0:0:86736760): 
+Thu Jul 18 16:30:27 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /a is it more profit to make lean or the "master meth cooker" meth
+Thu Jul 18 16:30:59 2019	Roman Cookie (STEAM_0:0:86736760): what
+Thu Jul 18 16:31:07 2019	Roman Cookie (STEAM_0:0:86736760): what
+Thu Jul 18 16:31:16 2019	Roman Cookie (STEAM_0:0:86736760): btw we can hear u
+Thu Jul 18 16:31:18 2019	jtroll1942 (STEAM_0:1:119864290): i am listioning to there covo
+Thu Jul 18 16:31:24 2019	Roman Cookie (STEAM_0:0:86736760): lol
+Thu Jul 18 16:31:26 2019	jtroll1942 was killed by Himself with a suicide trick
+Thu Jul 18 16:31:26 2019	BexGasm (STEAM_0:1:63382511): !slay jtroll
+Thu Jul 18 16:31:30 2019	jtroll1942 (STEAM_0:1:119864290) spawned
+Thu Jul 18 16:32:14 2019	RICARDO (STEAM_0:1:125273257): 
+Thu Jul 18 16:32:23 2019	Roman Cookie (STEAM_0:0:86736760): fuck
+Thu Jul 18 16:32:30 2019	Roman Cookie (STEAM_0:0:86736760): you are not william
+Thu Jul 18 16:32:42 2019	BexGasm (STEAM_0:1:63382511): !jail @ 120
+Thu Jul 18 16:32:45 2019	BexGasm (STEAM_0:1:63382511): !gag jtroll
+Thu Jul 18 16:32:54 2019	Roman Cookie (STEAM_0:0:86736760): heyo
+Thu Jul 18 16:33:09 2019	jtroll1942 (STEAM_0:1:119864290): aa
+Thu Jul 18 16:33:28 2019	UG | M A S T E R (STEAM_0:1:180622613): hi
+Thu Jul 18 16:33:31 2019	BexGasm (STEAM_0:1:63382511): hi
+Thu Jul 18 16:33:34 2019	Roman Cookie (STEAM_0:0:86736760): hi
+Thu Jul 18 16:33:35 2019	BexGasm (STEAM_0:1:63382511): cheese
+Thu Jul 18 16:33:35 2019	UG | M A S T E R (STEAM_0:1:180622613): How's it goin
+Thu Jul 18 16:33:38 2019	Roman Cookie (STEAM_0:0:86736760): figures
+Thu Jul 18 16:33:40 2019	BexGasm (STEAM_0:1:63382511): decent
+Thu Jul 18 16:33:40 2019	Roman Cookie (STEAM_0:0:86736760): figures
+Thu Jul 18 16:33:43 2019	Roman Cookie (STEAM_0:0:86736760): freeman
+Thu Jul 18 16:33:45 2019	Roman Cookie (STEAM_0:0:86736760): freeman
+Thu Jul 18 16:33:48 2019	BexGasm (STEAM_0:1:63382511): sorry for not being on for the past two days
+Thu Jul 18 16:33:49 2019	UG | M A S T E R (STEAM_0:1:180622613): cheese
+Thu Jul 18 16:33:49 2019	Roman Cookie (STEAM_0:0:86736760): cp
+Thu Jul 18 16:33:50 2019	Roman Cookie (STEAM_0:0:86736760): cp
+Thu Jul 18 16:33:52 2019	Roman Cookie (STEAM_0:0:86736760): cp
+Thu Jul 18 16:33:55 2019	Roman Cookie (STEAM_0:0:86736760): cheese
+Thu Jul 18 16:33:57 2019	Roman Cookie (STEAM_0:0:86736760): cheese
+Thu Jul 18 16:34:00 2019	UG | M A S T E R (STEAM_0:1:180622613): dejavu
+Thu Jul 18 16:34:07 2019	UG | M A S T E R (STEAM_0:1:180622613): dejavu
+Thu Jul 18 16:34:09 2019	UG | M A S T E R (STEAM_0:1:180622613): dejavu
+Thu Jul 18 16:34:42 2019	UG | M A S T E R was killed by Himself with a suicide trick
+Thu Jul 18 16:34:42 2019	RICARDO (STEAM_0:1:125273257): 
+Thu Jul 18 16:34:44 2019	William (STEAM_0:0:52504530): im gonna take a lunch break
+Thu Jul 18 16:34:46 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Thu Jul 18 16:34:52 2019	RICARDO (STEAM_0:1:125273257): // Okay
+Thu Jul 18 16:35:01 2019	William (STEAM_0:0:52504530): 
+Thu Jul 18 16:35:02 2019	Roman Cookie (STEAM_0:0:86736760): got em
+Thu Jul 18 16:35:06 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Thu Jul 18 16:35:07 2019	BexGasm (STEAM_0:1:63382511): 
+Thu Jul 18 16:35:32 2019	Roman Cookie (STEAM_0:0:86736760): fuck
+Thu Jul 18 16:35:37 2019	Roman Cookie was killed by Entity [0][worldspawn] with a unknown
+Thu Jul 18 16:35:41 2019	BexGasm (STEAM_0:1:63382511): !jail @ 120
+Thu Jul 18 16:35:41 2019	Roman Cookie (STEAM_0:0:86736760) spawned
+Thu Jul 18 16:36:16 2019	BexGasm (STEAM_0:1:63382511): !warn roman Prop climb
+Thu Jul 18 16:36:34 2019	Roman Cookie (STEAM_0:0:86736760) spawned
+Thu Jul 18 16:36:34 2019	BexGasm (STEAM_0:1:63382511): !unjail roman
+Thu Jul 18 16:36:50 2019	BexGasm was killed by RICARDO with a fas2_sr25
+Thu Jul 18 16:36:53 2019	BexGasm (STEAM_0:1:63382511) spawned
+Thu Jul 18 16:36:55 2019	BexGasm (STEAM_0:1:63382511): !slay rica
+Thu Jul 18 16:36:56 2019	RICARDO (STEAM_0:1:125273257): !god
+Thu Jul 18 16:36:56 2019	UG | M A S T E R (STEAM_0:1:180622613): !ungod @
+Thu Jul 18 16:36:58 2019	RICARDO was killed by UG | M A S T E R with a sniper_overpowered
+Thu Jul 18 16:37:01 2019	BexGasm (STEAM_0:1:63382511): !god BexGasm
+Thu Jul 18 16:37:02 2019	RICARDO (STEAM_0:1:125273257) spawned
+Thu Jul 18 16:37:08 2019	UG | M A S T E R was killed by RICARDO with a fas2_sr25
+Thu Jul 18 16:37:11 2019	RICARDO (STEAM_0:1:125273257): /drop
+Thu Jul 18 16:37:18 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Thu Jul 18 16:37:20 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Thu Jul 18 16:37:34 2019	RICARDO was killed by Roman Cookie with a fas2_m4a1
+Thu Jul 18 16:37:40 2019	RICARDO (STEAM_0:1:125273257) spawned
+Thu Jul 18 16:37:46 2019	RICARDO was killed by UG | M A S T E R with a overpowered_minigun
+Thu Jul 18 16:37:48 2019	RICARDO (STEAM_0:1:125273257) spawned
+Thu Jul 18 16:37:53 2019	RICARDO was killed by UG | M A S T E R with a overpowered_minigun
+Thu Jul 18 16:37:55 2019	RICARDO (STEAM_0:1:125273257) spawned
+Thu Jul 18 16:38:00 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Thu Jul 18 16:38:00 2019	RICARDO (STEAM_0:1:125273257) arrested UG | M A S T E R
+Thu Jul 18 16:38:05 2019	UG | M A S T E R (STEAM_0:1:180622613): /unarrest *
+Thu Jul 18 16:38:05 2019	UG | M A S T E R (STEAM_0:1:180622613) force-unarrested Bobbicus
+Thu Jul 18 16:38:05 2019	UG | M A S T E R (STEAM_0:1:180622613) force-unarrested Derp
+Thu Jul 18 16:38:05 2019	UG | M A S T E R (STEAM_0:1:180622613) force-unarrested cookie
+Thu Jul 18 16:38:05 2019	UG | M A S T E R (STEAM_0:1:180622613) force-unarrested RICARDO
+Thu Jul 18 16:38:05 2019	UG | M A S T E R (STEAM_0:1:180622613) force-unarrested (͠≖ ͜ʖ͠≖) (DC)
+Thu Jul 18 16:38:05 2019	UG | M A S T E R (STEAM_0:1:180622613) force-unarrested UG | M A S T E R
+Thu Jul 18 16:38:05 2019	UG | M A S T E R (STEAM_0:1:180622613) force-unarrested jtroll1942
+Thu Jul 18 16:38:05 2019	UG | M A S T E R (STEAM_0:1:180622613) force-unarrested Zookie 〈メイド〉
+Thu Jul 18 16:38:08 2019	jtroll1942 was killed by UG | M A S T E R with a overpowered_minigun
+Thu Jul 18 16:38:09 2019	RICARDO was killed by UG | M A S T E R with a overpowered_minigun
+Thu Jul 18 16:38:10 2019	jtroll1942 (STEAM_0:1:119864290) spawned
+Thu Jul 18 16:38:11 2019	RICARDO (STEAM_0:1:125273257) spawned
+Thu Jul 18 16:38:26 2019	UG | M A S T E R was killed by RICARDO with a fas2_m82
+Thu Jul 18 16:38:30 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Thu Jul 18 16:38:37 2019	UG | M A S T E R (STEAM_0:1:180622613): dejavu
+Thu Jul 18 16:38:41 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Thu Jul 18 16:38:41 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Thu Jul 18 16:38:44 2019	Roman Cookie (STEAM_0:0:86736760): ME
+Thu Jul 18 16:38:45 2019	RICARDO was killed by UG | M A S T E R with a overpowered_minigun
+Thu Jul 18 16:38:47 2019	RICARDO (STEAM_0:1:125273257) spawned
+Thu Jul 18 16:38:56 2019	RICARDO was killed by UG | M A S T E R with a overpowered_minigun
+Thu Jul 18 16:38:58 2019	RICARDO (STEAM_0:1:125273257) spawned
+Thu Jul 18 16:39:04 2019	UG | M A S T E R was killed by Roman Cookie with a fas2_ks23
+Thu Jul 18 16:39:05 2019	UG | M A S T E R (STEAM_0:1:180622613): !ungod *
+Thu Jul 18 16:39:07 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Thu Jul 18 16:39:09 2019	BexGasm (STEAM_0:1:63382511): !god BexGasm
+Thu Jul 18 16:39:13 2019	UG | M A S T E R (STEAM_0:1:180622613): !ungod *
+Thu Jul 18 16:39:14 2019	BexGasm was killed by UG | M A S T E R with a overpowered_minigun
+Thu Jul 18 16:39:16 2019	BexGasm (STEAM_0:1:63382511) spawned
+Thu Jul 18 16:39:18 2019	jtroll1942 was killed by UG | M A S T E R with a overpowered_minigun
+Thu Jul 18 16:39:18 2019	RICARDO was killed by UG | M A S T E R with a overpowered_minigun
+Thu Jul 18 16:39:20 2019	jtroll1942 (STEAM_0:1:119864290) spawned
+Thu Jul 18 16:39:21 2019	BexGasm (STEAM_0:1:63382511): !god BexGasm
+Thu Jul 18 16:39:21 2019	RICARDO (STEAM_0:1:125273257) spawned
+Thu Jul 18 16:39:21 2019	UG | M A S T E R was killed by BexGasm with a csgo_butterfly_slaughter
+Thu Jul 18 16:39:24 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Thu Jul 18 16:39:27 2019	RICARDO was killed by UG | M A S T E R with a overpowered_minigun
+Thu Jul 18 16:39:28 2019	BexGasm was killed by UG | M A S T E R with a overpowered_minigun
+Thu Jul 18 16:39:30 2019	RICARDO (STEAM_0:1:125273257) spawned
+Thu Jul 18 16:39:30 2019	BexGasm (STEAM_0:1:63382511) spawned
+Thu Jul 18 16:39:30 2019	BexGasm (STEAM_0:1:63382511): !god BexGasm
+Thu Jul 18 16:39:32 2019	UG | M A S T E R was killed by Roman Cookie with a fas2_ks23
+Thu Jul 18 16:39:34 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Thu Jul 18 16:39:40 2019	Roman Cookie was killed by UG | M A S T E R with a overpowered_minigun
+Thu Jul 18 16:39:42 2019	RICARDO was killed by UG | M A S T E R with a overpowered_minigun
+Thu Jul 18 16:39:42 2019	Roman Cookie (STEAM_0:0:86736760) spawned
+Thu Jul 18 16:39:44 2019	RICARDO (STEAM_0:1:125273257) spawned
+Thu Jul 18 16:39:48 2019	RICARDO (STEAM_0:1:125273257): // Bex
+Thu Jul 18 16:40:04 2019	Roman Cookie was killed by UG | M A S T E R with a overpowered_minigun
+Thu Jul 18 16:40:07 2019	Roman Cookie (STEAM_0:0:86736760) spawned
+Thu Jul 18 16:40:10 2019	jtroll1942 was killed by UG | M A S T E R with a overpowered_minigun
+Thu Jul 18 16:40:12 2019	jtroll1942 (STEAM_0:1:119864290) spawned
+Thu Jul 18 16:40:22 2019	UG | M A S T E R was killed by Roman Cookie with a fas2_m24
+Thu Jul 18 16:40:26 2019	BexGasm (STEAM_0:1:63382511): !god
+Thu Jul 18 16:40:26 2019	jtroll1942 (STEAM_0:1:119864290): REPLACE MY VAPE YOU BISH
+Thu Jul 18 16:40:27 2019	Roman Cookie was killed by Himself with a suicide trick
+Thu Jul 18 16:40:27 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Thu Jul 18 16:40:28 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Thu Jul 18 16:40:29 2019	Roman Cookie (STEAM_0:0:86736760) spawned
+Thu Jul 18 16:40:38 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Thu Jul 18 16:40:42 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Thu Jul 18 16:40:55 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Thu Jul 18 16:40:55 2019	RICARDO (STEAM_0:1:125273257) arrested UG | M A S T E R
+Thu Jul 18 16:40:59 2019	UG | M A S T E R (STEAM_0:1:180622613): /arrest Ric
+Thu Jul 18 16:40:59 2019	RICARDO (STEAM_0:1:125273257) spawned
+Thu Jul 18 16:40:59 2019	UG | M A S T E R (STEAM_0:1:180622613) force-arrested RICARDO
+Thu Jul 18 16:41:03 2019	UG | M A S T E R (STEAM_0:1:180622613): hey
+Thu Jul 18 16:41:07 2019	UG | M A S T E R (STEAM_0:1:180622613): should I do *
+Thu Jul 18 16:41:16 2019	UG | M A S T E R (STEAM_0:1:180622613): arrest *
+Thu Jul 18 16:41:22 2019	Roman Cookie was killed by BexGasm with a m9k_model500
+Thu Jul 18 16:41:23 2019	UG | M A S T E R (STEAM_0:1:180622613): /arrest *
+Thu Jul 18 16:41:23 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Thu Jul 18 16:41:23 2019	UG | M A S T E R (STEAM_0:1:180622613) force-arrested Bobbicus
+Thu Jul 18 16:41:23 2019	William (STEAM_0:0:52504530) spawned
+Thu Jul 18 16:41:23 2019	UG | M A S T E R (STEAM_0:1:180622613) force-arrested Derp
+Thu Jul 18 16:41:23 2019	Roman Cookie (STEAM_0:0:86736760) spawned
+Thu Jul 18 16:41:23 2019	UG | M A S T E R (STEAM_0:1:180622613) force-arrested cookie
+Thu Jul 18 16:41:23 2019	RICARDO (STEAM_0:1:125273257) spawned
+Thu Jul 18 16:41:23 2019	UG | M A S T E R (STEAM_0:1:180622613) force-arrested RICARDO
+Thu Jul 18 16:41:23 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662) spawned
+Thu Jul 18 16:41:23 2019	UG | M A S T E R (STEAM_0:1:180622613) force-arrested (͠≖ ͜ʖ͠≖) (DC)
+Thu Jul 18 16:41:23 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Thu Jul 18 16:41:23 2019	UG | M A S T E R (STEAM_0:1:180622613) force-arrested UG | M A S T E R
+Thu Jul 18 16:41:23 2019	jtroll1942 (STEAM_0:1:119864290) spawned
+Thu Jul 18 16:41:23 2019	UG | M A S T E R (STEAM_0:1:180622613) force-arrested jtroll1942
+Thu Jul 18 16:41:23 2019	BexGasm (STEAM_0:1:63382511) spawned
+Thu Jul 18 16:41:23 2019	UG | M A S T E R (STEAM_0:1:180622613) force-arrested Zookie 〈メイド〉
+Thu Jul 18 16:41:27 2019	BexGasm (STEAM_0:1:63382511): /unarrest bex
+Thu Jul 18 16:41:27 2019	BexGasm (STEAM_0:1:63382511) force-unarrested Zookie 〈メイド〉
+Thu Jul 18 16:41:30 2019	Roman Cookie (STEAM_0:0:86736760): wtf
+Thu Jul 18 16:41:30 2019	BexGasm (STEAM_0:1:63382511): /unarrest *
+Thu Jul 18 16:41:30 2019	BexGasm (STEAM_0:1:63382511) force-unarrested Bobbicus
+Thu Jul 18 16:41:30 2019	BexGasm (STEAM_0:1:63382511) force-unarrested Derp
+Thu Jul 18 16:41:30 2019	BexGasm (STEAM_0:1:63382511) force-unarrested cookie
+Thu Jul 18 16:41:30 2019	BexGasm (STEAM_0:1:63382511) force-unarrested RICARDO
+Thu Jul 18 16:41:30 2019	BexGasm (STEAM_0:1:63382511) force-unarrested (͠≖ ͜ʖ͠≖) (DC)
+Thu Jul 18 16:41:30 2019	BexGasm (STEAM_0:1:63382511) force-unarrested UG | M A S T E R
+Thu Jul 18 16:41:30 2019	BexGasm (STEAM_0:1:63382511) force-unarrested jtroll1942
+Thu Jul 18 16:41:30 2019	BexGasm (STEAM_0:1:63382511) force-unarrested Zookie 〈メイド〉
+Thu Jul 18 16:41:36 2019	UG | M A S T E R (STEAM_0:1:180622613): /arrest *
+Thu Jul 18 16:41:36 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Thu Jul 18 16:41:36 2019	UG | M A S T E R (STEAM_0:1:180622613) force-arrested Bobbicus
+Thu Jul 18 16:41:36 2019	William (STEAM_0:0:52504530) spawned
+Thu Jul 18 16:41:36 2019	UG | M A S T E R (STEAM_0:1:180622613) force-arrested Derp
+Thu Jul 18 16:41:36 2019	Roman Cookie (STEAM_0:0:86736760) spawned
+Thu Jul 18 16:41:36 2019	UG | M A S T E R (STEAM_0:1:180622613) force-arrested cookie
+Thu Jul 18 16:41:36 2019	RICARDO (STEAM_0:1:125273257) spawned
+Thu Jul 18 16:41:36 2019	UG | M A S T E R (STEAM_0:1:180622613) force-arrested RICARDO
+Thu Jul 18 16:41:36 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662) spawned
+Thu Jul 18 16:41:36 2019	UG | M A S T E R (STEAM_0:1:180622613) force-arrested (͠≖ ͜ʖ͠≖) (DC)
+Thu Jul 18 16:41:36 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Thu Jul 18 16:41:36 2019	UG | M A S T E R (STEAM_0:1:180622613) force-arrested UG | M A S T E R
+Thu Jul 18 16:41:36 2019	jtroll1942 (STEAM_0:1:119864290) spawned
+Thu Jul 18 16:41:36 2019	UG | M A S T E R (STEAM_0:1:180622613) force-arrested jtroll1942
+Thu Jul 18 16:41:36 2019	BexGasm (STEAM_0:1:63382511) spawned
+Thu Jul 18 16:41:36 2019	UG | M A S T E R (STEAM_0:1:180622613) force-arrested Zookie 〈メイド〉
+Thu Jul 18 16:41:39 2019	BexGasm (STEAM_0:1:63382511): /unarrest *
+Thu Jul 18 16:41:39 2019	BexGasm (STEAM_0:1:63382511) force-unarrested Bobbicus
+Thu Jul 18 16:41:39 2019	BexGasm (STEAM_0:1:63382511) force-unarrested Derp
+Thu Jul 18 16:41:39 2019	BexGasm (STEAM_0:1:63382511) force-unarrested cookie
+Thu Jul 18 16:41:39 2019	BexGasm (STEAM_0:1:63382511) force-unarrested RICARDO
+Thu Jul 18 16:41:39 2019	BexGasm (STEAM_0:1:63382511) force-unarrested (͠≖ ͜ʖ͠≖) (DC)
+Thu Jul 18 16:41:39 2019	BexGasm (STEAM_0:1:63382511) force-unarrested UG | M A S T E R
+Thu Jul 18 16:41:39 2019	BexGasm (STEAM_0:1:63382511) force-unarrested jtroll1942
+Thu Jul 18 16:41:39 2019	BexGasm (STEAM_0:1:63382511) force-unarrested Zookie 〈メイド〉
+Thu Jul 18 16:41:41 2019	UG | M A S T E R (STEAM_0:1:180622613): /arrest *
+Thu Jul 18 16:41:41 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Thu Jul 18 16:41:41 2019	UG | M A S T E R (STEAM_0:1:180622613) force-arrested Bobbicus
+Thu Jul 18 16:41:41 2019	William (STEAM_0:0:52504530) spawned
+Thu Jul 18 16:41:41 2019	UG | M A S T E R (STEAM_0:1:180622613) force-arrested Derp
+Thu Jul 18 16:41:41 2019	Roman Cookie (STEAM_0:0:86736760) spawned
+Thu Jul 18 16:41:41 2019	UG | M A S T E R (STEAM_0:1:180622613) force-arrested cookie
+Thu Jul 18 16:41:41 2019	RICARDO (STEAM_0:1:125273257) spawned
+Thu Jul 18 16:41:41 2019	UG | M A S T E R (STEAM_0:1:180622613) force-arrested RICARDO
+Thu Jul 18 16:41:41 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662) spawned
+Thu Jul 18 16:41:41 2019	UG | M A S T E R (STEAM_0:1:180622613) force-arrested (͠≖ ͜ʖ͠≖) (DC)
+Thu Jul 18 16:41:42 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Thu Jul 18 16:41:42 2019	UG | M A S T E R (STEAM_0:1:180622613) force-arrested UG | M A S T E R
+Thu Jul 18 16:41:42 2019	jtroll1942 (STEAM_0:1:119864290) spawned
+Thu Jul 18 16:41:42 2019	UG | M A S T E R (STEAM_0:1:180622613) force-arrested jtroll1942
+Thu Jul 18 16:41:42 2019	BexGasm (STEAM_0:1:63382511) spawned
+Thu Jul 18 16:41:42 2019	UG | M A S T E R (STEAM_0:1:180622613) force-arrested Zookie 〈メイド〉
+Thu Jul 18 16:41:45 2019	BexGasm (STEAM_0:1:63382511): /unarrest *
+Thu Jul 18 16:41:45 2019	BexGasm (STEAM_0:1:63382511) force-unarrested Bobbicus
+Thu Jul 18 16:41:45 2019	BexGasm (STEAM_0:1:63382511) force-unarrested Derp
+Thu Jul 18 16:41:45 2019	BexGasm (STEAM_0:1:63382511) force-unarrested cookie
+Thu Jul 18 16:41:45 2019	BexGasm (STEAM_0:1:63382511) force-unarrested RICARDO
+Thu Jul 18 16:41:45 2019	BexGasm (STEAM_0:1:63382511) force-unarrested (͠≖ ͜ʖ͠≖) (DC)
+Thu Jul 18 16:41:45 2019	BexGasm (STEAM_0:1:63382511) force-unarrested UG | M A S T E R
+Thu Jul 18 16:41:45 2019	BexGasm (STEAM_0:1:63382511) force-unarrested jtroll1942
+Thu Jul 18 16:41:45 2019	BexGasm (STEAM_0:1:63382511) force-unarrested Zookie 〈メイド〉
+Thu Jul 18 16:41:47 2019	RICARDO (STEAM_0:1:125273257): // No stoppppp
+Thu Jul 18 16:41:47 2019	Roman Cookie (STEAM_0:0:86736760) disconnected
+Thu Jul 18 16:41:49 2019	BexGasm (STEAM_0:1:63382511): // stop it
+Thu Jul 18 16:41:57 2019	BexGasm (STEAM_0:1:63382511): !god BexGasm
+Thu Jul 18 16:42:02 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Thu Jul 18 16:42:02 2019	UG | M A S T E R (STEAM_0:1:180622613) force-arrested Bobbicus
+Thu Jul 18 16:42:02 2019	William (STEAM_0:0:52504530) spawned
+Thu Jul 18 16:42:02 2019	UG | M A S T E R (STEAM_0:1:180622613) force-arrested Derp
+Thu Jul 18 16:42:02 2019	RICARDO (STEAM_0:1:125273257) spawned
+Thu Jul 18 16:42:02 2019	UG | M A S T E R (STEAM_0:1:180622613) force-arrested RICARDO
+Thu Jul 18 16:42:02 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662) spawned
+Thu Jul 18 16:42:02 2019	UG | M A S T E R (STEAM_0:1:180622613) force-arrested (͠≖ ͜ʖ͠≖) (DC)
+Thu Jul 18 16:42:02 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Thu Jul 18 16:42:02 2019	UG | M A S T E R (STEAM_0:1:180622613) force-arrested UG | M A S T E R
+Thu Jul 18 16:42:02 2019	jtroll1942 (STEAM_0:1:119864290) spawned
+Thu Jul 18 16:42:02 2019	UG | M A S T E R (STEAM_0:1:180622613) force-arrested jtroll1942
+Thu Jul 18 16:42:02 2019	BexGasm (STEAM_0:1:63382511) spawned
+Thu Jul 18 16:42:02 2019	UG | M A S T E R (STEAM_0:1:180622613) force-arrested Zookie 〈メイド〉
+Thu Jul 18 16:42:06 2019	BexGasm (STEAM_0:1:63382511): /unarrest bex
+Thu Jul 18 16:42:06 2019	BexGasm (STEAM_0:1:63382511) force-unarrested Zookie 〈メイド〉
+Thu Jul 18 16:42:08 2019	BexGasm (STEAM_0:1:63382511): /unarrest *
+Thu Jul 18 16:42:08 2019	BexGasm (STEAM_0:1:63382511) force-unarrested Bobbicus
+Thu Jul 18 16:42:08 2019	BexGasm (STEAM_0:1:63382511) force-unarrested Derp
+Thu Jul 18 16:42:08 2019	BexGasm (STEAM_0:1:63382511) force-unarrested RICARDO
+Thu Jul 18 16:42:08 2019	BexGasm (STEAM_0:1:63382511) force-unarrested (͠≖ ͜ʖ͠≖) (DC)
+Thu Jul 18 16:42:08 2019	BexGasm (STEAM_0:1:63382511) force-unarrested UG | M A S T E R
+Thu Jul 18 16:42:08 2019	BexGasm (STEAM_0:1:63382511) force-unarrested jtroll1942
+Thu Jul 18 16:42:08 2019	BexGasm (STEAM_0:1:63382511) force-unarrested Zookie 〈メイド〉
+Thu Jul 18 16:42:09 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Thu Jul 18 16:42:09 2019	UG | M A S T E R (STEAM_0:1:180622613) force-arrested Bobbicus
+Thu Jul 18 16:42:09 2019	William (STEAM_0:0:52504530) spawned
+Thu Jul 18 16:42:09 2019	UG | M A S T E R (STEAM_0:1:180622613) force-arrested Derp
+Thu Jul 18 16:42:10 2019	RICARDO (STEAM_0:1:125273257) spawned
+Thu Jul 18 16:42:10 2019	UG | M A S T E R (STEAM_0:1:180622613) force-arrested RICARDO
+Thu Jul 18 16:42:10 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662) spawned
+Thu Jul 18 16:42:10 2019	UG | M A S T E R (STEAM_0:1:180622613) force-arrested (͠≖ ͜ʖ͠≖) (DC)
+Thu Jul 18 16:42:10 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Thu Jul 18 16:42:10 2019	UG | M A S T E R (STEAM_0:1:180622613) force-arrested UG | M A S T E R
+Thu Jul 18 16:42:10 2019	jtroll1942 (STEAM_0:1:119864290) spawned
+Thu Jul 18 16:42:10 2019	UG | M A S T E R (STEAM_0:1:180622613) force-arrested jtroll1942
+Thu Jul 18 16:42:10 2019	BexGasm (STEAM_0:1:63382511) spawned
+Thu Jul 18 16:42:10 2019	UG | M A S T E R (STEAM_0:1:180622613) force-arrested Zookie 〈メイド〉
+Thu Jul 18 16:42:17 2019	BexGasm (STEAM_0:1:63382511): 
+Thu Jul 18 16:42:29 2019	UG | M A S T E R (STEAM_0:1:180622613) force-unarrested Bobbicus
+Thu Jul 18 16:42:29 2019	UG | M A S T E R (STEAM_0:1:180622613) force-unarrested Derp
+Thu Jul 18 16:42:29 2019	UG | M A S T E R (STEAM_0:1:180622613) force-unarrested RICARDO
+Thu Jul 18 16:42:29 2019	UG | M A S T E R (STEAM_0:1:180622613) force-unarrested (͠≖ ͜ʖ͠≖) (DC)
+Thu Jul 18 16:42:29 2019	UG | M A S T E R (STEAM_0:1:180622613) force-unarrested UG | M A S T E R
+Thu Jul 18 16:42:29 2019	UG | M A S T E R (STEAM_0:1:180622613) force-unarrested jtroll1942
+Thu Jul 18 16:42:29 2019	UG | M A S T E R (STEAM_0:1:180622613) force-unarrested Zookie 〈メイド〉
+Thu Jul 18 16:42:31 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Thu Jul 18 16:42:31 2019	UG | M A S T E R (STEAM_0:1:180622613) force-arrested Bobbicus
+Thu Jul 18 16:42:31 2019	William (STEAM_0:0:52504530) spawned
+Thu Jul 18 16:42:31 2019	UG | M A S T E R (STEAM_0:1:180622613) force-arrested Derp
+Thu Jul 18 16:42:31 2019	RICARDO (STEAM_0:1:125273257) spawned
+Thu Jul 18 16:42:31 2019	UG | M A S T E R (STEAM_0:1:180622613) force-arrested RICARDO
+Thu Jul 18 16:42:31 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662) spawned
+Thu Jul 18 16:42:31 2019	UG | M A S T E R (STEAM_0:1:180622613) force-arrested (͠≖ ͜ʖ͠≖) (DC)
+Thu Jul 18 16:42:31 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Thu Jul 18 16:42:31 2019	UG | M A S T E R (STEAM_0:1:180622613) force-arrested UG | M A S T E R
+Thu Jul 18 16:42:31 2019	jtroll1942 (STEAM_0:1:119864290) spawned
+Thu Jul 18 16:42:31 2019	UG | M A S T E R (STEAM_0:1:180622613) force-arrested jtroll1942
+Thu Jul 18 16:42:31 2019	BexGasm (STEAM_0:1:63382511) spawned
+Thu Jul 18 16:42:31 2019	UG | M A S T E R (STEAM_0:1:180622613) force-arrested Zookie 〈メイド〉
+Thu Jul 18 16:42:31 2019	UG | M A S T E R (STEAM_0:1:180622613) force-unarrested Bobbicus
+Thu Jul 18 16:42:31 2019	UG | M A S T E R (STEAM_0:1:180622613) force-unarrested Derp
+Thu Jul 18 16:42:31 2019	UG | M A S T E R (STEAM_0:1:180622613) force-unarrested RICARDO
+Thu Jul 18 16:42:31 2019	UG | M A S T E R (STEAM_0:1:180622613) force-unarrested (͠≖ ͜ʖ͠≖) (DC)
+Thu Jul 18 16:42:31 2019	UG | M A S T E R (STEAM_0:1:180622613) force-unarrested UG | M A S T E R
+Thu Jul 18 16:42:31 2019	UG | M A S T E R (STEAM_0:1:180622613) force-unarrested jtroll1942
+Thu Jul 18 16:42:31 2019	UG | M A S T E R (STEAM_0:1:180622613) force-unarrested Zookie 〈メイド〉
+Thu Jul 18 16:42:31 2019	BexGasm (STEAM_0:1:63382511): !unarrest *
+Thu Jul 18 16:42:32 2019	UG | M A S T E R (STEAM_0:1:180622613) force-unarrested Bobbicus
+Thu Jul 18 16:42:32 2019	UG | M A S T E R (STEAM_0:1:180622613) force-unarrested Derp
+Thu Jul 18 16:42:32 2019	UG | M A S T E R (STEAM_0:1:180622613) force-unarrested RICARDO
+Thu Jul 18 16:42:32 2019	UG | M A S T E R (STEAM_0:1:180622613) force-unarrested (͠≖ ͜ʖ͠≖) (DC)
+Thu Jul 18 16:42:32 2019	UG | M A S T E R (STEAM_0:1:180622613) force-unarrested UG | M A S T E R
+Thu Jul 18 16:42:32 2019	UG | M A S T E R (STEAM_0:1:180622613) force-unarrested jtroll1942
+Thu Jul 18 16:42:32 2019	UG | M A S T E R (STEAM_0:1:180622613) force-unarrested Zookie 〈メイド〉
+Thu Jul 18 16:42:32 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Thu Jul 18 16:42:32 2019	UG | M A S T E R (STEAM_0:1:180622613) force-arrested Bobbicus
+Thu Jul 18 16:42:32 2019	William (STEAM_0:0:52504530) spawned
+Thu Jul 18 16:42:32 2019	UG | M A S T E R (STEAM_0:1:180622613) force-arrested Derp
+Thu Jul 18 16:42:32 2019	RICARDO (STEAM_0:1:125273257) spawned
+Thu Jul 18 16:42:32 2019	UG | M A S T E R (STEAM_0:1:180622613) force-arrested RICARDO
+Thu Jul 18 16:42:32 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662) spawned
+Thu Jul 18 16:42:32 2019	UG | M A S T E R (STEAM_0:1:180622613) force-arrested (͠≖ ͜ʖ͠≖) (DC)
+Thu Jul 18 16:42:32 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Thu Jul 18 16:42:32 2019	UG | M A S T E R (STEAM_0:1:180622613) force-arrested UG | M A S T E R
+Thu Jul 18 16:42:32 2019	jtroll1942 (STEAM_0:1:119864290) spawned
+Thu Jul 18 16:42:32 2019	UG | M A S T E R (STEAM_0:1:180622613) force-arrested jtroll1942
+Thu Jul 18 16:42:32 2019	BexGasm (STEAM_0:1:63382511) spawned
+Thu Jul 18 16:42:32 2019	UG | M A S T E R (STEAM_0:1:180622613) force-arrested Zookie 〈メイド〉
+Thu Jul 18 16:42:33 2019	UG | M A S T E R (STEAM_0:1:180622613) force-unarrested Bobbicus
+Thu Jul 18 16:42:33 2019	UG | M A S T E R (STEAM_0:1:180622613) force-unarrested Derp
+Thu Jul 18 16:42:33 2019	UG | M A S T E R (STEAM_0:1:180622613) force-unarrested RICARDO
+Thu Jul 18 16:42:33 2019	UG | M A S T E R (STEAM_0:1:180622613) force-unarrested (͠≖ ͜ʖ͠≖) (DC)
+Thu Jul 18 16:42:33 2019	UG | M A S T E R (STEAM_0:1:180622613) force-unarrested UG | M A S T E R
+Thu Jul 18 16:42:33 2019	UG | M A S T E R (STEAM_0:1:180622613) force-unarrested jtroll1942
+Thu Jul 18 16:42:33 2019	UG | M A S T E R (STEAM_0:1:180622613) force-unarrested Zookie 〈メイド〉
+Thu Jul 18 16:42:37 2019	BexGasm (STEAM_0:1:63382511): !warn ug Stop it
+Thu Jul 18 16:42:39 2019	UG | M A S T E R (STEAM_0:1:180622613): stop
+Thu Jul 18 16:42:43 2019	UG | M A S T E R (STEAM_0:1:180622613): stop
+Thu Jul 18 16:42:50 2019	UG | M A S T E R (STEAM_0:1:180622613): why?
+Thu Jul 18 16:42:59 2019	UG | M A S T E R (STEAM_0:1:180622613): who?
+Thu Jul 18 16:43:05 2019	BexGasm (STEAM_0:1:63382511): !slay ricard
+Thu Jul 18 16:43:11 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Thu Jul 18 16:43:25 2019	UG | M A S T E R (STEAM_0:1:180622613): Now
+Thu Jul 18 16:43:27 2019	UG | M A S T E R (STEAM_0:1:180622613): you
+Thu Jul 18 16:43:28 2019	UG | M A S T E R (STEAM_0:1:180622613): are
+Thu Jul 18 16:43:30 2019	UG | M A S T E R (STEAM_0:1:180622613): are
+Thu Jul 18 16:43:32 2019	UG | M A S T E R (STEAM_0:1:180622613): going
+Thu Jul 18 16:43:34 2019	UG | M A S T E R (STEAM_0:1:180622613): to
+Thu Jul 18 16:43:35 2019	UG | M A S T E R (STEAM_0:1:180622613): hear
+Thu Jul 18 16:43:38 2019	UG | M A S T E R (STEAM_0:1:180622613): ear rape
+Thu Jul 18 16:43:40 2019	UG | M A S T E R (STEAM_0:1:180622613): for 
+Thu Jul 18 16:43:42 2019	UG | M A S T E R (STEAM_0:1:180622613): ever
+Thu Jul 18 16:43:56 2019	UG | M A S T E R (STEAM_0:1:180622613): you can't
+Thu Jul 18 16:43:59 2019	jtroll1942 was killed by BexGasm with a overpowered_minigun
+Thu Jul 18 16:44:02 2019	jtroll1942 (STEAM_0:1:119864290) spawned
+Thu Jul 18 16:44:18 2019	RICARDO (STEAM_0:1:125273257): !unjail
+Thu Jul 18 16:44:19 2019	UG | M A S T E R (STEAM_0:1:180622613): enjoy
+Thu Jul 18 16:44:23 2019	RICARDO (STEAM_0:1:125273257): !unjail ricar
+Thu Jul 18 16:44:30 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Thu Jul 18 16:45:10 2019	UG | M A S T E R (STEAM_0:1:180622613): what did you say
+Thu Jul 18 16:45:13 2019	jtroll1942 was killed by BexGasm with a overpowered_minigun
+Thu Jul 18 16:45:15 2019	jtroll1942 (STEAM_0:1:119864290) spawned
+Thu Jul 18 16:45:17 2019	UG | M A S T E R was killed by Himself with a suicide trick
+Thu Jul 18 16:45:18 2019	BexGasm (STEAM_0:1:63382511): !hp * 10
+Thu Jul 18 16:45:22 2019	BexGasm (STEAM_0:1:63382511): !hp * 100
+Thu Jul 18 16:45:22 2019	RICARDO (STEAM_0:1:125273257): !unjail ri
+Thu Jul 18 16:45:24 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Thu Jul 18 16:45:24 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Thu Jul 18 16:45:26 2019	the deadly doctor (STEAM_0:0:223172042) has joined the game
+Thu Jul 18 16:45:26 2019	Mr. Doctor (STEAM_0:0:223172042) spawned
+Thu Jul 18 16:45:29 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Thu Jul 18 16:45:48 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Thu Jul 18 16:45:50 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Thu Jul 18 16:45:51 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Thu Jul 18 16:45:54 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Thu Jul 18 16:45:55 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Thu Jul 18 16:46:00 2019	RICARDO (STEAM_0:1:125273257): !unjail ric
+Thu Jul 18 16:46:00 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Thu Jul 18 16:46:22 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Thu Jul 18 16:46:36 2019	UG | M A S T E R (STEAM_0:1:180622613): everything
+Thu Jul 18 16:46:44 2019	jtroll1942 (STEAM_0:1:119864290) spawned
+Thu Jul 18 16:46:44 2019	RICARDO (STEAM_0:1:125273257) spawned
+Thu Jul 18 16:46:46 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Thu Jul 18 16:47:02 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Thu Jul 18 16:47:14 2019	jtroll1942 (STEAM_0:1:119864290): /drop wepon
+Thu Jul 18 16:47:28 2019	BexGasm (STEAM_0:1:63382511): // :kami:
+Thu Jul 18 16:47:39 2019	BexGasm (STEAM_0:1:63382511): 
+Thu Jul 18 16:47:44 2019	BexGasm (STEAM_0:1:63382511): 
+Thu Jul 18 16:47:44 2019	RICARDO was killed by Himself with a suicide trick
+Thu Jul 18 16:47:49 2019	BexGasm (STEAM_0:1:63382511): 
+Thu Jul 18 16:47:49 2019	UG | M A S T E R was killed by Himself with a suicide trick
+Thu Jul 18 16:47:51 2019	RICARDO (STEAM_0:1:125273257) spawned
+Thu Jul 18 16:47:53 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Thu Jul 18 16:47:55 2019	BexGasm (STEAM_0:1:63382511): 
+Thu Jul 18 16:47:58 2019	UG | M A S T E R was killed by Himself with a suicide trick
+Thu Jul 18 16:48:00 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Thu Jul 18 16:48:00 2019	BexGasm (STEAM_0:1:63382511): 
+Thu Jul 18 16:48:01 2019	BexGasm (STEAM_0:1:63382511): !jail @ 120
+Thu Jul 18 16:48:05 2019	UG | M A S T E R was killed by Himself with a suicide trick
+Thu Jul 18 16:48:07 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Thu Jul 18 16:48:09 2019	BexGasm (STEAM_0:1:63382511): 
+Thu Jul 18 16:48:13 2019	UG | M A S T E R (STEAM_0:1:180622613): no
+Thu Jul 18 16:48:18 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Thu Jul 18 16:48:43 2019	UG | M A S T E R was killed by RICARDO with a fas2_sr25
+Thu Jul 18 16:48:46 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Thu Jul 18 16:49:02 2019	RICARDO (STEAM_0:1:125273257) disconnected
+Thu Jul 18 16:49:09 2019	BexGasm was killed by Himself with a suicide trick
+Thu Jul 18 16:49:12 2019	BexGasm (STEAM_0:1:63382511) spawned
+Thu Jul 18 16:49:17 2019	UG | M A S T E R was killed by Himself with a suicide trick
+Thu Jul 18 16:49:23 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Thu Jul 18 16:49:32 2019	UG | M A S T E R (STEAM_0:1:180622613): /y I'ma jump
+Thu Jul 18 16:49:39 2019	UG | M A S T E R (STEAM_0:1:180622613): I'ma jump
+Thu Jul 18 16:49:45 2019	BexGasm (STEAM_0:1:63382511): !god BexGasm
+Thu Jul 18 16:49:47 2019	UG | M A S T E R was killed by Himself with a suicide trick
+Thu Jul 18 16:49:51 2019	UG | M A S T E R (STEAM_0:1:180622613): /me dies
+Thu Jul 18 16:49:53 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Thu Jul 18 16:49:54 2019	UG | M A S T E R (STEAM_0:1:180622613): /me dies
+Thu Jul 18 16:50:16 2019	jtroll1942 was killed by Mr. Doctor with a fas2_deagle
+Thu Jul 18 16:50:18 2019	jtroll1942 (STEAM_0:1:119864290) spawned
+Thu Jul 18 16:50:20 2019	BexGasm (STEAM_0:1:63382511): !unjail bex
+Thu Jul 18 16:50:21 2019	UG | M A S T E R (STEAM_0:1:180622613): !ungod @
+Thu Jul 18 16:50:23 2019	BexGasm (STEAM_0:1:63382511): !god BexGasm
+Thu Jul 18 16:50:24 2019	RICARDO (STEAM_0:1:125273257) has joined the game
+Thu Jul 18 16:50:24 2019	RICARDO (STEAM_0:1:125273257) spawned
+Thu Jul 18 16:50:27 2019	BexGasm (STEAM_0:1:63382511): !unjail bex
+Thu Jul 18 16:50:31 2019	BexGasm (STEAM_0:1:63382511): !warn ug stop
+Thu Jul 18 16:50:36 2019	BexGasm (STEAM_0:1:63382511): !unjail bex
+Thu Jul 18 16:50:41 2019	BexGasm (STEAM_0:1:63382511): !unjail bex
+Thu Jul 18 16:50:41 2019	UG | M A S T E R (STEAM_0:1:180622613): !warn
+Thu Jul 18 16:50:54 2019	UG | M A S T E R (STEAM_0:1:180622613): I want cooked BexGasm
+Thu Jul 18 16:51:05 2019	UG | M A S T E R (STEAM_0:1:180622613): yes
+Thu Jul 18 16:51:21 2019	UG | M A S T E R (STEAM_0:1:180622613): !unfreeze @
+Thu Jul 18 16:51:26 2019	UG | M A S T E R (STEAM_0:1:180622613): !ungod Besx
+Thu Jul 18 16:51:27 2019	UG | M A S T E R (STEAM_0:1:180622613): !ungod Bex
+Thu Jul 18 16:51:28 2019	BexGasm (STEAM_0:1:63382511): !god BexGasm
+Thu Jul 18 16:51:42 2019	BexGasm (STEAM_0:1:63382511): !god BexGasm
+Thu Jul 18 16:51:58 2019	BexGasm (STEAM_0:1:63382511): !god BexGasm
+Thu Jul 18 16:51:59 2019	BexGasm (STEAM_0:1:63382511): !god BexGasm
+Thu Jul 18 16:52:00 2019	BexGasm (STEAM_0:1:63382511): !god BexGasm
+Thu Jul 18 16:52:01 2019	BexGasm (STEAM_0:1:63382511): !god BexGasm
+Thu Jul 18 16:52:02 2019	BexGasm (STEAM_0:1:63382511): !god BexGasm
+Thu Jul 18 16:52:03 2019	BexGasm (STEAM_0:1:63382511): !god BexGasm
+Thu Jul 18 16:52:04 2019	BexGasm (STEAM_0:1:63382511): !god BexGasm
+Thu Jul 18 16:52:05 2019	BexGasm (STEAM_0:1:63382511): !god BexGasm
+Thu Jul 18 16:52:08 2019	BexGasm (STEAM_0:1:63382511): !hp bex 100
+Thu Jul 18 16:52:14 2019	BexGasm (STEAM_0:1:63382511): !hp bex 200000000
+Thu Jul 18 16:52:37 2019	UG | M A S T E R (STEAM_0:1:180622613): oh fuck
+Thu Jul 18 16:52:40 2019	UG | M A S T E R (STEAM_0:1:180622613): !ban UG 9999
+Thu Jul 18 16:52:40 2019	UG | M A S T E R (STEAM_0:1:180622613) disconnected
+Thu Jul 18 16:52:44 2019	(͠≖ ͜ʖ͠≖) (DC) was killed by jtroll1942 with a fas2_40mm_frag
+Thu Jul 18 16:52:48 2019	Mr. Doctor (STEAM_0:0:223172042) spawned Vehicle prop_vehicle_jeep (dod_ram_1500tdm)
+Thu Jul 18 16:52:50 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662) spawned
+Thu Jul 18 16:52:58 2019	O. (STEAM_0:0:61782673) has joined the game
+Thu Jul 18 16:52:58 2019	O. (STEAM_0:0:61782673) spawned
+Thu Jul 18 16:53:27 2019	jtroll1942 (STEAM_0:1:119864290): /drop wepon
+Thu Jul 18 16:54:32 2019	Dragon_29 (STEAM_0:1:157591949) has joined the game
+Thu Jul 18 16:54:32 2019	Dragon_29 (STEAM_0:1:157591949) spawned
+Thu Jul 18 16:54:41 2019	O. (STEAM_0:0:61782673) disconnected
+Thu Jul 18 16:55:04 2019	BexGasm (STEAM_0:1:63382511): !unban STEAM_1:1:180622613
+Thu Jul 18 16:55:07 2019	BexGasm (STEAM_0:1:63382511): !menu
+Thu Jul 18 16:55:17 2019	BexGasm (STEAM_0:1:63382511): !unban STEAM_1:1:180622613
+Thu Jul 18 16:55:25 2019	BexGasm (STEAM_0:1:63382511): !unban ug
+Thu Jul 18 16:55:45 2019	Dragon_29 (STEAM_0:1:157591949) disconnected
+Thu Jul 18 16:56:14 2019	BexGasm (STEAM_0:1:63382511): !jail @ 120
+Thu Jul 18 16:56:16 2019	BexGasm (STEAM_0:1:63382511): !kick jtroll
+Thu Jul 18 16:56:16 2019	jtroll1942 (STEAM_0:1:119864290) disconnected
+Thu Jul 18 16:56:52 2019	BexGasm (STEAM_0:1:63382511): 
+Thu Jul 18 16:59:27 2019	O. (STEAM_0:0:61782673) has joined the game
+Thu Jul 18 16:59:27 2019	O. (STEAM_0:0:61782673) spawned
+Thu Jul 18 16:59:42 2019	jtroll1942 (STEAM_0:1:119864290) has joined the game
+Thu Jul 18 16:59:43 2019	jtroll1942 (STEAM_0:1:119864290) spawned
+Thu Jul 18 17:00:26 2019	UG | M A S T E R (STEAM_0:1:180622613) has joined the game
+Thu Jul 18 17:00:26 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Thu Jul 18 17:00:51 2019	Dragon_29 (STEAM_0:1:157591949) has joined the game
+Thu Jul 18 17:00:51 2019	Dragon_29 (STEAM_0:1:157591949) spawned
+Thu Jul 18 17:01:12 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Thu Jul 18 17:01:15 2019	BexGasm (STEAM_0:1:63382511): !slap @ 0
+Thu Jul 18 17:01:26 2019	BexGasm (STEAM_0:1:63382511): 
+Thu Jul 18 17:01:46 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /a and what advert it that
+Thu Jul 18 17:01:56 2019	Dragon_29 (STEAM_0:1:157591949) disconnected
+Thu Jul 18 17:02:01 2019	O. (STEAM_0:0:61782673) disconnected
+Thu Jul 18 17:02:04 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /a rape???
+Thu Jul 18 17:02:10 2019	RICARDO (STEAM_0:1:125273257): 
+Thu Jul 18 17:02:18 2019	BexGasm (STEAM_0:1:63382511): !goto ug
+Thu Jul 18 17:02:22 2019	BexGasm (STEAM_0:1:63382511): 
+Thu Jul 18 17:02:24 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Thu Jul 18 17:02:24 2019	RICARDO (STEAM_0:1:125273257) spawned
+Thu Jul 18 17:02:25 2019	BexGasm (STEAM_0:1:63382511): 
+Thu Jul 18 17:02:29 2019	UG | M A S T E R (STEAM_0:1:180622613): yes
+Thu Jul 18 17:02:58 2019	UG | M A S T E R (STEAM_0:1:180622613): It can show people got banned, it uses ulx to ban people..
+Thu Jul 18 17:03:13 2019	UG | M A S T E R (STEAM_0:1:180622613): It did for me.
+Thu Jul 18 17:03:49 2019	UG | M A S T E R (STEAM_0:1:180622613): 1. I kept rejoing 2. I also installed all the content. (Since I reinstalled by gmod)
+Thu Jul 18 17:03:51 2019	Mr. Doctor was killed by Entity [0][worldspawn] with a unknown
+Thu Jul 18 17:04:16 2019	UG | M A S T E R (STEAM_0:1:180622613): Because it was in my D folder. And I wanted it to be inside my 1T hard drive
+Thu Jul 18 17:05:14 2019	UG | M A S T E R (STEAM_0:1:180622613): TheBoiBagz is a hacker
+Thu Jul 18 17:05:22 2019	Mr. Doctor (STEAM_0:0:223172042) disconnected
+Thu Jul 18 17:05:27 2019	UG | M A S T E R (STEAM_0:1:180622613): I don't know, I was looking in the bans
+Thu Jul 18 17:06:04 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Thu Jul 18 17:06:10 2019	BexGasm (STEAM_0:1:63382511): 
+Thu Jul 18 17:06:18 2019	BexGasm (STEAM_0:1:63382511): 
+Thu Jul 18 17:07:40 2019	UG | M A S T E R (STEAM_0:1:180622613): hello?
+Thu Jul 18 17:09:11 2019	UG | M A S T E R (STEAM_0:1:180622613): hello
+Thu Jul 18 17:09:23 2019	UG | M A S T E R (STEAM_0:1:180622613): Would you like to talk to me?
+Thu Jul 18 17:09:31 2019	UG | M A S T E R (STEAM_0:1:180622613): ...
+Thu Jul 18 17:09:36 2019	UG | M A S T E R (STEAM_0:1:180622613): the what
+Thu Jul 18 17:10:30 2019	UG | M A S T E R was killed by RICARDO with a ls_sniper
+Thu Jul 18 17:11:45 2019	RICARDO (STEAM_0:1:125273257): !hp roll 100
+Thu Jul 18 17:12:35 2019	RICARDO was killed by BexGasm with a fas2_galil
+Thu Jul 18 17:12:38 2019	RICARDO (STEAM_0:1:125273257) spawned
+Thu Jul 18 17:12:54 2019	BexGasm was killed by RICARDO with a overpowered_minigun
+Thu Jul 18 17:12:56 2019	BexGasm (STEAM_0:1:63382511) spawned
+Thu Jul 18 17:13:00 2019	BexGasm (STEAM_0:1:63382511): !god BexGasm
+Thu Jul 18 17:13:05 2019	BexGasm was killed by RICARDO with a overpowered_minigun
+Thu Jul 18 17:13:07 2019	BexGasm (STEAM_0:1:63382511) spawned
+Thu Jul 18 17:13:10 2019	BexGasm (STEAM_0:1:63382511): !god BexGasm
+Thu Jul 18 17:13:11 2019	BexGasm (STEAM_0:1:63382511): !god BexGasm
+Thu Jul 18 17:13:12 2019	BexGasm (STEAM_0:1:63382511): !god BexGasm
+Thu Jul 18 17:13:15 2019	BexGasm was killed by RICARDO with a overpowered_minigun
+Thu Jul 18 17:13:17 2019	BexGasm (STEAM_0:1:63382511) spawned
+Thu Jul 18 17:13:19 2019	jtroll1942 was killed by RICARDO with a overpowered_minigun
+Thu Jul 18 17:13:21 2019	jtroll1942 (STEAM_0:1:119864290) spawned
+Thu Jul 18 17:13:58 2019	jtroll1942 (STEAM_0:1:119864290): /drop wepon
+Thu Jul 18 17:14:04 2019	RICARDO was killed by BexGasm with a fas2_galil
+Thu Jul 18 17:14:06 2019	BexGasm (STEAM_0:1:63382511): !god BexGasm
+Thu Jul 18 17:14:06 2019	RICARDO (STEAM_0:1:125273257) spawned
+Thu Jul 18 17:14:11 2019	BexGasm (STEAM_0:1:63382511): !unignite bex
+Thu Jul 18 17:14:40 2019	RICARDO was killed by BexGasm with a fas2_galil
+Thu Jul 18 17:14:43 2019	RICARDO (STEAM_0:1:125273257) spawned
+Thu Jul 18 17:14:51 2019	BexGasm (STEAM_0:1:63382511): !strip jtroll
+Thu Jul 18 17:15:26 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Thu Jul 18 17:15:26 2019	BexGasm (STEAM_0:1:63382511): 
+Thu Jul 18 17:15:29 2019	LV (STEAM_0:0:460419170) has joined the game
+Thu Jul 18 17:15:29 2019	LV (STEAM_0:0:460419170) spawned
+Thu Jul 18 17:16:12 2019	LV (STEAM_0:0:460419170): hey
+Thu Jul 18 17:16:26 2019	LV (STEAM_0:0:460419170): where is meth and lean buyer and does fuel refiner work yet?
+Thu Jul 18 17:17:00 2019	LV (STEAM_0:0:460419170): ok and can i talk to dc
+Thu Jul 18 17:17:21 2019	LV (STEAM_0:0:460419170): like can i no clip in or do i have to do some thing
+Thu Jul 18 17:17:34 2019	LV (STEAM_0:0:460419170): /pm dc where are you
+Thu Jul 18 17:17:36 2019	LV (STEAM_0:0:460419170): can i pm
+Thu Jul 18 17:17:53 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /pm LV meet at spawn
+Thu Jul 18 17:18:29 2019	BexGasm (STEAM_0:1:63382511): !cloak 255
+Thu Jul 18 17:18:35 2019	BexGasm (STEAM_0:1:63382511): !cloak bex 255
+Thu Jul 18 17:18:41 2019	LV (STEAM_0:0:460419170): /pm dc hey dc can i base with you and paste my base
+Thu Jul 18 17:18:44 2019	jtroll1942 (STEAM_0:1:119864290): /drop wepon
+Thu Jul 18 17:18:53 2019	LV (STEAM_0:0:460419170): is that ok
+Thu Jul 18 17:18:59 2019	jtroll1942 (STEAM_0:1:119864290): /drop wepon
+Thu Jul 18 17:19:13 2019	LV (STEAM_0:0:460419170): yes i know i used a base there yesterday
+Thu Jul 18 17:19:21 2019	LV (STEAM_0:0:460419170): /pm dc wait
+Thu Jul 18 17:19:29 2019	LV (STEAM_0:0:460419170): wait
+Thu Jul 18 17:19:33 2019	jtroll1942 (STEAM_0:1:119864290): /drop wepon
+Thu Jul 18 17:19:34 2019	LV (STEAM_0:0:460419170): dont
+Thu Jul 18 17:19:38 2019	RICARDO (STEAM_0:1:125273257) disconnected
+Thu Jul 18 17:19:51 2019	LV (STEAM_0:0:460419170): i need to check if i can paste my other bases first
+Thu Jul 18 17:20:29 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /a 21 HOURS BOIS
+Thu Jul 18 17:20:32 2019	LV (STEAM_0:0:460419170): thank you anyways i will check mine first then i will see you can base if you want
+Thu Jul 18 17:20:39 2019	Bobbicus (STEAM_0:0:86269452): im at 6 hours :/
+Thu Jul 18 17:20:44 2019	BexGasm (STEAM_0:1:63382511): !jail @ 120
+Thu Jul 18 17:20:46 2019	BexGasm (STEAM_0:1:63382511): !jail @ 120
+Thu Jul 18 17:20:47 2019	BexGasm (STEAM_0:1:63382511): !jail @ 120
+Thu Jul 18 17:20:48 2019	BexGasm (STEAM_0:1:63382511): !jail @ 120
+Thu Jul 18 17:21:07 2019	BexGasm (STEAM_0:1:63382511): 
+Thu Jul 18 17:21:17 2019	BexGasm (STEAM_0:1:63382511): !gag jtroll
+Thu Jul 18 17:21:24 2019	jtroll1942 (STEAM_0:1:119864290): yes
+Thu Jul 18 17:21:28 2019	LV (STEAM_0:0:460419170): /unownalldoors
+Thu Jul 18 17:22:03 2019	jtroll1942 (STEAM_0:1:119864290): no
+Thu Jul 18 17:22:07 2019	jtroll1942 (STEAM_0:1:119864290): there is not
+Thu Jul 18 17:22:11 2019	jtroll1942 (STEAM_0:1:119864290): no
+Thu Jul 18 17:22:14 2019	BexGasm (STEAM_0:1:63382511): !jail @ 120
+Thu Jul 18 17:22:59 2019	BexGasm (STEAM_0:1:63382511): !ungag jtroll
+Thu Jul 18 17:23:00 2019	jtroll1942 (STEAM_0:1:119864290): /drop wepon
+Thu Jul 18 17:25:05 2019	LV (STEAM_0:0:460419170): /pm dc hey dc want to base with me

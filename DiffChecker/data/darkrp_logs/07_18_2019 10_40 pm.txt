@@ -1,0 +1,1130 @@
+Thu Jul 18 22:40:06 2019	Derp (STEAM_0:0:52504530) has joined the game
+Thu Jul 18 22:40:06 2019	William (STEAM_0:0:52504530) spawned
+Thu Jul 18 22:40:22 2019	Dio (STEAM_0:0:497465680) has joined the game
+Thu Jul 18 22:40:22 2019	Dio (STEAM_0:0:497465680) spawned
+Thu Jul 18 22:40:41 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662) has joined the game
+Thu Jul 18 22:40:41 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662) spawned
+Thu Jul 18 22:40:52 2019	(づ｡◕‿‿◕｡)づ (STEAM_0:1:152356796) has joined the game
+Thu Jul 18 22:40:52 2019	Blumbing (STEAM_0:1:152356796) spawned
+Thu Jul 18 22:40:58 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) has joined the game
+Thu Jul 18 22:40:58 2019	BexGasm (STEAM_0:1:63382511) spawned
+Thu Jul 18 22:41:07 2019	William (STEAM_0:0:52504530) spawned SENT zwf_weedstick
+Thu Jul 18 22:41:09 2019	William (STEAM_0:0:52504530) spawned SENT zwf_jar
+Thu Jul 18 22:41:10 2019	William (STEAM_0:0:52504530) spawned SENT zwf_jar
+Thu Jul 18 22:41:10 2019	William (STEAM_0:0:52504530) spawned SENT zwf_jar
+Thu Jul 18 22:41:10 2019	William (STEAM_0:0:52504530) spawned SENT zwf_jar
+Thu Jul 18 22:41:16 2019	William (STEAM_0:0:52504530) spawned SENT zwf_packingstation
+Thu Jul 18 22:41:17 2019	William (STEAM_0:0:52504530) spawned SENT zwf_autopacker
+Thu Jul 18 22:41:19 2019	RICARDO (STEAM_0:1:125273257) has joined the game
+Thu Jul 18 22:41:19 2019	RICARDO (STEAM_0:1:125273257) spawned
+Thu Jul 18 22:41:26 2019	UG | M A S T E R (STEAM_0:1:180622613) has joined the game
+Thu Jul 18 22:41:26 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Thu Jul 18 22:41:32 2019	William (STEAM_0:0:52504530) spawned SENT zwf_palette
+Thu Jul 18 22:41:33 2019	BexGasm (STEAM_0:1:63382511): !goto will
+Thu Jul 18 22:42:47 2019	RICARDO (STEAM_0:1:125273257) spawned SENT keypad
+Thu Jul 18 22:42:47 2019	RICARDO (STEAM_0:1:125273257) spawned SENT keypad
+Thu Jul 18 22:42:47 2019	RICARDO (STEAM_0:1:125273257) spawned SENT keypad
+Thu Jul 18 22:42:47 2019	RICARDO (STEAM_0:1:125273257) spawned SENT keypad
+Thu Jul 18 22:42:49 2019	William (STEAM_0:0:52504530) spawned
+Thu Jul 18 22:42:57 2019	BexGasm was killed by William with a fas2_ks23
+Thu Jul 18 22:42:59 2019	BexGasm (STEAM_0:1:63382511) spawned
+Thu Jul 18 22:43:57 2019	BexGasm (STEAM_0:1:63382511): !pm will :3
+Thu Jul 18 22:44:01 2019	BexGasm (STEAM_0:1:63382511): !god BexGasm
+Thu Jul 18 22:44:17 2019	BexGasm (STEAM_0:1:63382511): !jail @ 120
+Thu Jul 18 22:44:42 2019	Dio (STEAM_0:0:497465680) spawned
+Thu Jul 18 22:44:57 2019	BexGasm (STEAM_0:1:63382511): !unjail dio
+Thu Jul 18 22:45:11 2019	RICARDO (STEAM_0:1:125273257) spawned Vehicle prop_vehicle_jeep (courier_trucktdm)
+Thu Jul 18 22:45:44 2019	RICARDO (STEAM_0:1:125273257) spawned Vehicle prop_vehicle_jeep (courier_trucktdm)
+Thu Jul 18 22:47:16 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): 
+Thu Jul 18 22:49:13 2019	The Companion Cube (STEAM_0:0:94296198) has joined the game
+Thu Jul 18 22:49:13 2019	The Companion Cube (STEAM_0:0:94296198) spawned
+Thu Jul 18 22:49:19 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782) has joined the game
+Thu Jul 18 22:49:19 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782) spawned
+Thu Jul 18 22:49:24 2019	RICARDO (STEAM_0:1:125273257): !hp ricar 100
+Thu Jul 18 22:50:40 2019	RICARDO (STEAM_0:1:125273257) spawned Vehicle prop_vehicle_jeep (courier_trucktdm)
+Thu Jul 18 22:51:06 2019	The Companion Cube (STEAM_0:0:94296198): /ooc the n word
+Thu Jul 18 22:51:13 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /a BrUH MoMeNT
+Thu Jul 18 22:51:31 2019	The Companion Cube (STEAM_0:0:94296198): /ooc u are the n word
+Thu Jul 18 22:51:42 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /a i'm white as hell
+Thu Jul 18 22:52:51 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zwf_palette
+Thu Jul 18 22:52:52 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zwf_weedblock
+Thu Jul 18 22:52:56 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zwf_weedblock
+Thu Jul 18 22:52:56 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zwf_weedblock
+Thu Jul 18 22:52:56 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zwf_weedblock
+Thu Jul 18 22:52:57 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zwf_weedblock
+Thu Jul 18 22:53:02 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zwf_weedblock
+Thu Jul 18 22:53:02 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zwf_weedblock
+Thu Jul 18 22:53:02 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zwf_weedblock
+Thu Jul 18 22:53:02 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zwf_weedblock
+Thu Jul 18 22:53:03 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zwf_weedblock
+Thu Jul 18 22:53:03 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zwf_weedblock
+Thu Jul 18 22:53:03 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zwf_weedblock
+Thu Jul 18 22:53:03 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zwf_weedblock
+Thu Jul 18 22:53:09 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zwf_weedblock
+Thu Jul 18 22:53:09 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zwf_weedblock
+Thu Jul 18 22:53:09 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zwf_weedblock
+Thu Jul 18 22:53:09 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zwf_weedblock
+Thu Jul 18 22:53:10 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zwf_weedblock
+Thu Jul 18 22:53:10 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zwf_weedblock
+Thu Jul 18 22:53:10 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zwf_weedblock
+Thu Jul 18 22:53:10 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zwf_weedblock
+Thu Jul 18 22:53:11 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zwf_weedblock
+Thu Jul 18 22:53:11 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zwf_weedblock
+Thu Jul 18 22:53:11 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zwf_weedblock
+Thu Jul 18 22:53:11 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zwf_weedblock
+Thu Jul 18 22:53:11 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zwf_weedblock
+Thu Jul 18 22:54:12 2019	UG | M A S T E R (STEAM_0:1:180622613): /pm will $164700
+Thu Jul 18 22:54:19 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zwf_weedblock
+Thu Jul 18 22:54:28 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Thu Jul 18 22:54:30 2019	UG | M A S T E R (STEAM_0:1:180622613): now
+Thu Jul 18 22:54:39 2019	UG | M A S T E R (STEAM_0:1:180622613): this is the actually block
+Thu Jul 18 22:54:50 2019	William (STEAM_0:0:52504530): thats the perfect block of weed which is hard to get
+Thu Jul 18 22:54:55 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT zwf_palette
+Thu Jul 18 22:54:59 2019	William (STEAM_0:0:52504530): u would need to make ur weed like perfectly
+Thu Jul 18 22:55:04 2019	William (STEAM_0:0:52504530): not a single mistake
+Thu Jul 18 22:55:09 2019	William (STEAM_0:0:52504530): not a single nanosecond wasted
+Thu Jul 18 22:55:21 2019	UG | M A S T E R (STEAM_0:1:180622613): I wanna tell you something about making one mistake
+Thu Jul 18 22:55:24 2019	William (STEAM_0:0:52504530): yes
+Thu Jul 18 22:55:26 2019	William was killed by UG | M A S T E R with a overpowered_minigun
+Thu Jul 18 22:55:31 2019	William (STEAM_0:0:52504530) spawned
+Thu Jul 18 22:55:36 2019	Blumbing (STEAM_0:1:152356796): // i won again
+Thu Jul 18 22:55:44 2019	UG | M A S T E R (STEAM_0:1:180622613): !goto blum
+Thu Jul 18 22:55:51 2019	William (STEAM_0:0:52504530): he won twice today
+Thu Jul 18 22:55:52 2019	Blumbing was killed by Himself with a suicide trick
+Thu Jul 18 22:55:52 2019	UG | M A S T E R (STEAM_0:1:180622613): !slay @
+Thu Jul 18 22:55:54 2019	William (STEAM_0:0:52504530): lmao
+Thu Jul 18 22:55:56 2019	Blumbing (STEAM_0:1:152356796) spawned
+Thu Jul 18 22:56:03 2019	UG | M A S T E R (STEAM_0:1:180622613): So time to remove this
+Thu Jul 18 22:56:09 2019	William (STEAM_0:0:52504530): no no no
+Thu Jul 18 22:56:11 2019	William (STEAM_0:0:52504530): leave it there
+Thu Jul 18 22:56:19 2019	UG | M A S T E R (STEAM_0:1:180622613): nope
+Thu Jul 18 22:56:24 2019	William (STEAM_0:0:52504530): dude wtf
+Thu Jul 18 22:56:37 2019	William (STEAM_0:0:52504530): im getting script errors because of what u did 
+Thu Jul 18 22:56:40 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): how do you play
+Thu Jul 18 22:56:45 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT double_or_nothing
+Thu Jul 18 22:56:47 2019	William (STEAM_0:0:52504530): it was UG lol
+Thu Jul 18 22:57:01 2019	William (STEAM_0:0:52504530): ill give u the money
+Thu Jul 18 22:57:19 2019	William (STEAM_0:0:52504530): /addmoney blumbing 1700000
+Thu Jul 18 22:57:19 2019	William (STEAM_0:0:52504530) added $1,700,000 to (づ｡◕‿‿◕｡)づ's wallet
+Thu Jul 18 22:57:22 2019	William (STEAM_0:0:52504530): /addmoney blumbing 17000000
+Thu Jul 18 22:57:22 2019	William (STEAM_0:0:52504530) added $17,000,000 to (づ｡◕‿‿◕｡)づ's wallet
+Thu Jul 18 22:57:27 2019	William (STEAM_0:0:52504530): no problem
+Thu Jul 18 22:57:34 2019	UG | M A S T E R (STEAM_0:1:180622613): Kill me
+Thu Jul 18 22:57:35 2019	William (STEAM_0:0:52504530): that was pretty good
+Thu Jul 18 22:57:43 2019	William (STEAM_0:0:52504530): he won this shit twice in one day dude
+Thu Jul 18 22:58:02 2019	William (STEAM_0:0:52504530): its not easy to win tho its really hard u have a 13% chance of winning if u play it 250 times
+Thu Jul 18 23:00:37 2019	UG | M A S T E R (STEAM_0:1:180622613): Bet all you'r cash
+Thu Jul 18 23:02:54 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): // im betting everything
+Thu Jul 18 23:03:03 2019	RICARDO (STEAM_0:1:125273257): !UNBOX
+Thu Jul 18 23:03:36 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): // 8x and lost it all
+Thu Jul 18 23:03:37 2019	William (STEAM_0:0:52504530): hi
+Thu Jul 18 23:03:49 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): // and im broke
+Thu Jul 18 23:05:17 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Thu Jul 18 23:05:41 2019	UG | M A S T E R (STEAM_0:1:180622613): cheat
+Thu Jul 18 23:05:44 2019	UG | M A S T E R (STEAM_0:1:180622613): cheat
+Thu Jul 18 23:05:50 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Thu Jul 18 23:05:54 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Thu Jul 18 23:05:55 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): // lost everything rip
+Thu Jul 18 23:06:27 2019	UG | M A S T E R was killed by RICARDO with a fas2_glock20
+Thu Jul 18 23:06:29 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Thu Jul 18 23:06:39 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): hit?
+Thu Jul 18 23:06:44 2019	UG | M A S T E R (STEAM_0:1:180622613): yes
+Thu Jul 18 23:06:44 2019	Hitman Littl3Drumm3rBoi accepted a hit on RICARDO, ordered by UG | M A S T E R for $1,000
+Thu Jul 18 23:07:20 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Thu Jul 18 23:07:25 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): 
+Thu Jul 18 23:07:37 2019	AidanFTW (STEAM_0:0:102264109) has joined the game
+Thu Jul 18 23:07:37 2019	AidanFTW (STEAM_0:0:102264109) spawned
+Thu Jul 18 23:08:36 2019	acatony200 (STEAM_0:0:239154356) has joined the game
+Thu Jul 18 23:08:36 2019	acatony200 (STEAM_0:0:239154356) spawned
+Thu Jul 18 23:09:04 2019	UG | M A S T E R (STEAM_0:1:180622613): /pm littl Give me 13k and I'll give you 3 staff lockpicks
+Thu Jul 18 23:09:16 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): // i have no money
+Thu Jul 18 23:09:25 2019	UG | M A S T E R (STEAM_0:1:180622613): How much do you have?
+Thu Jul 18 23:09:33 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): // i have 2596
+Thu Jul 18 23:09:44 2019	William (STEAM_0:0:52504530): /pm UG i might be able to buy pvault and city worker tomorrow
+Thu Jul 18 23:09:47 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): id be cooking meth
+Thu Jul 18 23:09:55 2019	UG | M A S T E R (STEAM_0:1:180622613): /pm Litt Kill RICARDO and you'll earn more money
+Thu Jul 18 23:09:58 2019	UG | M A S T E R (STEAM_0:1:180622613): Nice
+Thu Jul 18 23:10:05 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): ok
+Thu Jul 18 23:10:12 2019	UG | M A S T E R (STEAM_0:1:180622613): /pm Litt raid the base to kill him
+Thu Jul 18 23:10:18 2019	William (STEAM_0:0:52504530): /pm UG im gonna go to bed im really tired i didnt get a lot of sleep last night
+Thu Jul 18 23:10:31 2019	UG | M A S T E R (STEAM_0:1:180622613): /pm Will Alright!
+Thu Jul 18 23:10:32 2019	William (STEAM_0:0:52504530): /pm UG goodnight brother
+Thu Jul 18 23:10:44 2019	UG | M A S T E R (STEAM_0:1:180622613): /pm Will good night. Have a nice sleep!
+Thu Jul 18 23:10:49 2019	William (STEAM_0:0:52504530): /pm ug thanks :)
+Thu Jul 18 23:10:55 2019	William (STEAM_0:0:52504530): 
+Thu Jul 18 23:11:03 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Thu Jul 18 23:11:06 2019	RICARDO (STEAM_0:1:125273257): 
+Thu Jul 18 23:11:09 2019	UG | M A S T E R (STEAM_0:1:180622613): go
+Thu Jul 18 23:11:13 2019	William (STEAM_0:0:52504530) disconnected
+Thu Jul 18 23:11:28 2019	UG | M A S T E R (STEAM_0:1:180622613): yes
+Thu Jul 18 23:11:40 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): 
+Thu Jul 18 23:11:58 2019	UG | M A S T E R (STEAM_0:1:180622613): use that lockpick
+Thu Jul 18 23:12:13 2019	UG | M A S T E R (STEAM_0:1:180622613): use the staff lockpick
+Thu Jul 18 23:12:34 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Thu Jul 18 23:12:48 2019	UG | M A S T E R (STEAM_0:1:180622613): go
+Thu Jul 18 23:13:39 2019	Hit on RICARDO failed. Reason: The hitman died!
+Thu Jul 18 23:13:39 2019	Littl3Drumm3rBoi was killed by RICARDO with a fas2_glock20
+Thu Jul 18 23:13:44 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782) spawned
+Thu Jul 18 23:13:53 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): 
+Thu Jul 18 23:14:33 2019	Dio was killed by Entity [0][worldspawn] with a unknown
+Thu Jul 18 23:14:40 2019	Dio (STEAM_0:0:497465680) spawned
+Thu Jul 18 23:14:46 2019	UG | M A S T E R (STEAM_0:1:180622613): I know that keypad goes somewhere else
+Thu Jul 18 23:15:06 2019	UG | M A S T E R (STEAM_0:1:180622613): No the staff lockpick isn't broken
+Thu Jul 18 23:15:26 2019	UG | M A S T E R (STEAM_0:1:180622613): Allow me to crack
+Thu Jul 18 23:15:31 2019	UG | M A S T E R (STEAM_0:1:180622613): I'll give you kush
+Thu Jul 18 23:15:35 2019	UG | M A S T E R (STEAM_0:1:180622613): a jar
+Thu Jul 18 23:15:41 2019	UG | M A S T E R (STEAM_0:1:180622613): of
+Thu Jul 18 23:15:43 2019	UG | M A S T E R (STEAM_0:1:180622613): kush
+Thu Jul 18 23:15:49 2019	UG | M A S T E R (STEAM_0:1:180622613): How about a block?
+Thu Jul 18 23:15:52 2019	UG | M A S T E R (STEAM_0:1:180622613): 100g 100%
+Thu Jul 18 23:16:06 2019	UG | M A S T E R (STEAM_0:1:180622613): you asked me to do this
+Thu Jul 18 23:16:16 2019	UG | M A S T E R (STEAM_0:1:180622613): let me in
+Thu Jul 18 23:16:21 2019	UG | M A S T E R (STEAM_0:1:180622613): Then
+Thu Jul 18 23:16:23 2019	UG | M A S T E R (STEAM_0:1:180622613): I'll
+Thu Jul 18 23:16:24 2019	UG | M A S T E R (STEAM_0:1:180622613): fire
+Thu Jul 18 23:16:26 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): hit?
+Thu Jul 18 23:16:27 2019	AidanFTW (STEAM_0:0:102264109): // Aidan's gun store is now open
+Thu Jul 18 23:16:34 2019	UG | M A S T E R (STEAM_0:1:180622613): Nah I added it where you can
+Thu Jul 18 23:16:47 2019	UG | M A S T E R (STEAM_0:1:180622613): and make everyone mad at me?
+Thu Jul 18 23:17:03 2019	UG | M A S T E R (STEAM_0:1:180622613): !gag Bex
+Thu Jul 18 23:17:06 2019	BexGasm (STEAM_0:1:63382511): !ungag ug
+Thu Jul 18 23:17:08 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): hit?
+Thu Jul 18 23:17:11 2019	BexGasm (STEAM_0:1:63382511): !ungag bex
+Thu Jul 18 23:17:23 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): no
+Thu Jul 18 23:17:28 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): thanks tho
+Thu Jul 18 23:17:30 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): you too
+Thu Jul 18 23:17:47 2019	Blumbing (STEAM_0:1:152356796): 
+Thu Jul 18 23:18:02 2019	acatony200 (STEAM_0:0:239154356) disconnected
+Thu Jul 18 23:18:19 2019	Blumbing (STEAM_0:1:152356796): 
+Thu Jul 18 23:18:19 2019	AidanFTW (STEAM_0:0:102264109): // Aidan's gun store is now open
+Thu Jul 18 23:18:30 2019	AidanFTW (STEAM_0:0:102264109): 
+Thu Jul 18 23:18:46 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): hit?
+Thu Jul 18 23:18:58 2019	UG | M A S T E R (STEAM_0:1:180622613): It's for a jobs, that's coming
+Thu Jul 18 23:19:14 2019	Hitman Littl3Drumm3rBoi accepted a hit on The Companion Cube, ordered by Blumbing for $1,000
+Thu Jul 18 23:19:34 2019	UG | M A S T E R (STEAM_0:1:180622613): really
+Thu Jul 18 23:20:33 2019	BexGasm (STEAM_0:1:63382511): !slap @ 0
+Thu Jul 18 23:20:44 2019	AidanFTW (STEAM_0:0:102264109): // come arm yourself with weapons to defend off those nasty stealing robbers. Guns available at Aidan's gun store
+Thu Jul 18 23:21:13 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): // advert hit accepted
+Thu Jul 18 23:21:15 2019	UG | M A S T E R was killed by RICARDO with a fas2_rem870
+Thu Jul 18 23:21:24 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): 
+Thu Jul 18 23:21:51 2019	UG | M A S T E R (STEAM_0:1:180622613):  No crouch bases. Punishment = 1 Week Ban. 
+Thu Jul 18 23:21:51 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Thu Jul 18 23:21:52 2019	BexGasm (STEAM_0:1:63382511): !motd
+Thu Jul 18 23:22:13 2019	UG | M A S T E R (STEAM_0:1:180622613):  No crouch bases. Punishment = 1 Week Ban.
+Thu Jul 18 23:22:22 2019	UG | M A S T E R (STEAM_0:1:180622613): You'r getting banned
+Thu Jul 18 23:22:24 2019	UG | M A S T E R (STEAM_0:1:180622613): 1 week
+Thu Jul 18 23:22:27 2019	UG | M A S T E R (STEAM_0:1:180622613): !xban
+Thu Jul 18 23:22:32 2019	AidanFTW (STEAM_0:0:102264109): /requestlicense
+Thu Jul 18 23:22:33 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): ok
+Thu Jul 18 23:22:37 2019	BexGasm (STEAM_0:1:63382511): !goto will
+Thu Jul 18 23:23:04 2019	Blumbing (STEAM_0:1:152356796): i cant talk but np
+Thu Jul 18 23:23:34 2019	UG | M A S T E R (STEAM_0:1:180622613): ur being banned
+Thu Jul 18 23:23:43 2019	UG | M A S T E R (STEAM_0:1:180622613): Like for real
+Thu Jul 18 23:23:49 2019	UG | M A S T E R (STEAM_0:1:180622613): !xban
+Thu Jul 18 23:23:52 2019	AidanFTW (STEAM_0:0:102264109): 
+Thu Jul 18 23:24:12 2019	UG | M A S T E R (STEAM_0:1:180622613): !xban
+Thu Jul 18 23:24:29 2019	UG | M A S T E R (STEAM_0:1:180622613): !xban
+Thu Jul 18 23:24:40 2019	UG | M A S T E R (STEAM_0:1:180622613): alright
+Thu Jul 18 23:24:43 2019	UG | M A S T E R (STEAM_0:1:180622613): say that now
+Thu Jul 18 23:24:46 2019	UG | M A S T E R (STEAM_0:1:180622613): say that now
+Thu Jul 18 23:24:52 2019	UG | M A S T E R (STEAM_0:1:180622613): So I may ban.
+Thu Jul 18 23:25:06 2019	Hitman Littl3Drumm3rBoi finished a hit on The Companion Cube, ordered by Blumbing for $1,000
+Thu Jul 18 23:25:06 2019	The Companion Cube was killed by Littl3Drumm3rBoi with a fas2_m24
+Thu Jul 18 23:25:13 2019	The Companion Cube (STEAM_0:0:94296198): why
+Thu Jul 18 23:25:14 2019	The Companion Cube (STEAM_0:0:94296198): did
+Thu Jul 18 23:25:17 2019	The Companion Cube (STEAM_0:0:94296198): why
+Thu Jul 18 23:25:18 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): 
+Thu Jul 18 23:25:20 2019	The Companion Cube (STEAM_0:0:94296198) spawned
+Thu Jul 18 23:25:21 2019	AidanFTW (STEAM_0:0:102264109) disconnected
+Thu Jul 18 23:26:03 2019	UG | M A S T E R (STEAM_0:1:180622613): /dropmoney 1
+Thu Jul 18 23:26:04 2019	UG | M A S T E R (STEAM_0:1:180622613) has dropped $1
+Thu Jul 18 23:26:08 2019	Hitman Littl3Drumm3rBoi accepted a hit on (͠≖ ͜ʖ͠≖) (DC), ordered by The Companion Cube for $1,000
+Thu Jul 18 23:26:10 2019	UG | M A S T E R (STEAM_0:1:180622613): /dropmoney 1
+Thu Jul 18 23:26:11 2019	UG | M A S T E R (STEAM_0:1:180622613) has dropped $1
+Thu Jul 18 23:26:31 2019	UG | M A S T E R (STEAM_0:1:180622613): !xban
+Thu Jul 18 23:26:42 2019	RICARDO (STEAM_0:1:125273257) disconnected
+Thu Jul 18 23:27:09 2019	UG | M A S T E R (STEAM_0:1:180622613): Wanna make a autmatic gun shop?
+Thu Jul 18 23:27:11 2019	Dio (STEAM_0:0:497465680): /ooc anyone know any good and short animes??
+Thu Jul 18 23:27:16 2019	UG | M A S T E R (STEAM_0:1:180622613): yes?
+Thu Jul 18 23:27:21 2019	BexGasm (STEAM_0:1:63382511): // Dragon maid
+Thu Jul 18 23:27:24 2019	Blumbing (STEAM_0:1:152356796): // seven deadly sins
+Thu Jul 18 23:27:24 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): w
+Thu Jul 18 23:27:26 2019	BexGasm (STEAM_0:1:63382511): // Blue exorcist
+Thu Jul 18 23:27:46 2019	Dio (STEAM_0:0:497465680): /ooc watched seven and i think blue but ill check out dragon maid
+Thu Jul 18 23:28:10 2019	Dio (STEAM_0:0:497465680): /ooc though is there nudity,nsfw,etc
+Thu Jul 18 23:28:11 2019	UG | M A S T E R (STEAM_0:1:180622613): whoops
+Thu Jul 18 23:28:15 2019	UG | M A S T E R (STEAM_0:1:180622613): not my problem
+Thu Jul 18 23:28:19 2019	UG | M A S T E R (STEAM_0:1:180622613): You did this
+Thu Jul 18 23:28:30 2019	UG | M A S T E R (STEAM_0:1:180622613): xD
+Thu Jul 18 23:28:32 2019	Dio (STEAM_0:0:497465680): /ooc cus i dont like that stuff
+Thu Jul 18 23:28:37 2019	[rainbow2] Marshmello (STEAM_0:0:187663403) has joined the game
+Thu Jul 18 23:28:37 2019	[rainbow2] Marshmello (STEAM_0:0:187663403) spawned
+Thu Jul 18 23:28:39 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): dc
+Thu Jul 18 23:28:40 2019	BexGasm (STEAM_0:1:63382511): // no, no nudity
+Thu Jul 18 23:28:45 2019	BexGasm (STEAM_0:1:63382511): // dragon maid is hella funny
+Thu Jul 18 23:28:48 2019	Dio (STEAM_0:0:497465680): /ooc bet
+Thu Jul 18 23:28:49 2019	BexGasm (STEAM_0:1:63382511): //
+Thu Jul 18 23:28:55 2019	BexGasm (STEAM_0:1:63382511): // blue exorcist is great as well
+Thu Jul 18 23:28:59 2019	BexGasm (STEAM_0:1:63382511): // has like 30 episodes brucv
+Thu Jul 18 23:29:02 2019	UG | M A S T E R (STEAM_0:1:180622613): /gundealer
+Thu Jul 18 23:29:12 2019	UG | M A S T E R (STEAM_0:1:180622613): /price 100
+Thu Jul 18 23:29:16 2019	UG | M A S T E R (STEAM_0:1:180622613): fack
+Thu Jul 18 23:29:17 2019	Dio (STEAM_0:0:497465680): /ooc i think ive seen blue dont remeber though
+Thu Jul 18 23:29:20 2019	UG | M A S T E R (STEAM_0:1:180622613): /price 100
+Thu Jul 18 23:29:23 2019	BexGasm (STEAM_0:1:63382511): // watch iiiiit
+Thu Jul 18 23:29:24 2019	BexGasm (STEAM_0:1:63382511): // :3
+Thu Jul 18 23:29:25 2019	UG | M A S T E R (STEAM_0:1:180622613): the /price doesn't work
+Thu Jul 18 23:29:33 2019	UG | M A S T E R (STEAM_0:1:180622613): !motd
+Thu Jul 18 23:29:36 2019	Blumbing (STEAM_0:1:152356796) disconnected
+Thu Jul 18 23:29:44 2019	Dio (STEAM_0:0:497465680): /ooc i willll
+Thu Jul 18 23:30:20 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): DC
+Thu Jul 18 23:30:55 2019	(づ｡◕‿‿◕｡)づ (STEAM_0:1:152356796) has joined the game
+Thu Jul 18 23:30:55 2019	Blumbing (STEAM_0:1:152356796) spawned
+Thu Jul 18 23:31:13 2019	UG | M A S T E R (STEAM_0:1:180622613): Read the rules
+Thu Jul 18 23:31:15 2019	UG | M A S T E R (STEAM_0:1:180622613): !motd
+Thu Jul 18 23:31:16 2019	BexGasm (STEAM_0:1:63382511): !motd
+Thu Jul 18 23:31:16 2019	Dio (STEAM_0:0:497465680): /ooc brb
+Thu Jul 18 23:31:27 2019	UG | M A S T E R (STEAM_0:1:180622613): Alright you s admin
+Thu Jul 18 23:31:40 2019	UG | M A S T E R (STEAM_0:1:180622613): ?
+Thu Jul 18 23:31:44 2019	UG | M A S T E R (STEAM_0:1:180622613): Okay
+Thu Jul 18 23:32:00 2019	UG | M A S T E R (STEAM_0:1:180622613): there
+Thu Jul 18 23:32:06 2019	UG | M A S T E R (STEAM_0:1:180622613): Ur welcome daddy
+Thu Jul 18 23:32:26 2019	UG | M A S T E R (STEAM_0:1:180622613): I mean
+Thu Jul 18 23:32:30 2019	UG | M A S T E R (STEAM_0:1:180622613): I only have 35 fps
+Thu Jul 18 23:32:46 2019	UG | M A S T E R (STEAM_0:1:180622613): Looking at this smoke gives me more fps
+Thu Jul 18 23:33:01 2019	UG | M A S T E R (STEAM_0:1:180622613): when I look at you, you give me 20 fps
+Thu Jul 18 23:33:19 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /a BrUH MoMeNT
+Thu Jul 18 23:33:23 2019	BexGasm (STEAM_0:1:63382511): !ungod
+Thu Jul 18 23:33:24 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /a BrUH MoMeNT
+Thu Jul 18 23:33:25 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /a BrUH MoMeNT
+Thu Jul 18 23:33:26 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /a BrUH MoMeNT
+Thu Jul 18 23:33:26 2019	BexGasm (STEAM_0:1:63382511): !unignite bex
+Thu Jul 18 23:33:27 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /a BrUH MoMeNT
+Thu Jul 18 23:33:27 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /a BrUH MoMeNT
+Thu Jul 18 23:33:29 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /a BrUH MoMeNT
+Thu Jul 18 23:33:29 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /a BrUH MoMeNT
+Thu Jul 18 23:33:38 2019	[rainbow2] Marshmello (STEAM_0:0:187663403) disconnected
+Thu Jul 18 23:33:43 2019	BexGasm (STEAM_0:1:63382511): !unignite bex
+Thu Jul 18 23:33:47 2019	BexGasm (STEAM_0:1:63382511): !unignite bex
+Thu Jul 18 23:33:52 2019	UG | M A S T E R (STEAM_0:1:180622613): yes
+Thu Jul 18 23:33:53 2019	UG | M A S T E R (STEAM_0:1:180622613): I
+Thu Jul 18 23:33:55 2019	UG | M A S T E R (STEAM_0:1:180622613): should
+Thu Jul 18 23:33:59 2019	UG | M A S T E R (STEAM_0:1:180622613): yes
+Thu Jul 18 23:34:08 2019	UG | M A S T E R (STEAM_0:1:180622613): now that's a lot of damage
+Thu Jul 18 23:34:20 2019	UG | M A S T E R was killed by Himself with a suicide trick
+Thu Jul 18 23:34:20 2019	UG | M A S T E R (STEAM_0:1:180622613): !slay ^
+Thu Jul 18 23:34:21 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /a BrUH MoMeNT
+Thu Jul 18 23:34:23 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Thu Jul 18 23:34:34 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Thu Jul 18 23:34:43 2019	Hit on (͠≖ ͜ʖ͠≖) (DC) failed. Reason: The hitman died!
+Thu Jul 18 23:34:43 2019	Littl3Drumm3rBoi was killed by (͠≖ ͜ʖ͠≖) (DC) with a m9k_model627
+Thu Jul 18 23:34:54 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): 
+Thu Jul 18 23:34:55 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782) spawned
+Thu Jul 18 23:35:25 2019	(͠≖ ͜ʖ͠≖) (DC) was killed by BexGasm with a fas2_galil
+Thu Jul 18 23:35:27 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662) spawned
+Thu Jul 18 23:35:37 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /a BrUH MoMeNT
+Thu Jul 18 23:35:51 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /a BrUH MoMeNT
+Thu Jul 18 23:37:03 2019	UG | M A S T E R (STEAM_0:1:180622613): hi
+Thu Jul 18 23:37:07 2019	UG | M A S T E R (STEAM_0:1:180622613): What do you want?
+Thu Jul 18 23:37:12 2019	UG | M A S T E R (STEAM_0:1:180622613): No
+Thu Jul 18 23:37:13 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): hit? cuz im really broke
+Thu Jul 18 23:37:19 2019	Hitman Littl3Drumm3rBoi accepted a hit on Blumbing, ordered by (͠≖ ͜ʖ͠≖) (DC) for $1,000
+Thu Jul 18 23:39:11 2019	UG | M A S T E R (STEAM_0:1:180622613): hm?
+Thu Jul 18 23:39:14 2019	UG | M A S T E R (STEAM_0:1:180622613): Nah
+Thu Jul 18 23:39:26 2019	UG | M A S T E R (STEAM_0:1:180622613): Nah
+Thu Jul 18 23:39:34 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): fuck
+Thu Jul 18 23:39:37 2019	The Companion Cube (STEAM_0:0:94296198): /drop
+Thu Jul 18 23:39:44 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): im broke
+Thu Jul 18 23:39:46 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /a BrUH MoMeNT
+Thu Jul 18 23:39:56 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): i have 846 $$$
+Thu Jul 18 23:40:19 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): yeah found out the hard way
+Thu Jul 18 23:40:25 2019	(͠≖ ͜ʖ͠≖) (DC) was killed by BexGasm with a fas2_galil
+Thu Jul 18 23:40:27 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662) spawned
+Thu Jul 18 23:40:50 2019	(͠≖ ͜ʖ͠≖) (DC) was killed by BexGasm with a sniper_overpowered
+Thu Jul 18 23:40:52 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662) spawned
+Thu Jul 18 23:41:14 2019	BexGasm was killed by (͠≖ ͜ʖ͠≖) (DC) with a fas2_ks23
+Thu Jul 18 23:41:16 2019	BexGasm (STEAM_0:1:63382511) spawned
+Thu Jul 18 23:41:22 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /a BrUH MoMeNT
+Thu Jul 18 23:43:05 2019	Dio (STEAM_0:0:497465680): 
+Thu Jul 18 23:43:07 2019	Dio (STEAM_0:0:497465680): !freeze @
+Thu Jul 18 23:43:18 2019	Dio (STEAM_0:0:497465680): !unfreeze @
+Thu Jul 18 23:43:54 2019	Dio (STEAM_0:0:497465680): 
+Thu Jul 18 23:43:56 2019	Dio (STEAM_0:0:497465680): !freeze @
+Thu Jul 18 23:44:01 2019	Dio (STEAM_0:0:497465680): !freeze @
+Thu Jul 18 23:44:11 2019	Dio (STEAM_0:0:497465680): !unfreeze @
+Thu Jul 18 23:44:28 2019	Hit on Blumbing failed. Reason: The hitman changed team!
+Thu Jul 18 23:44:53 2019	Dio (STEAM_0:0:497465680): 
+Thu Jul 18 23:44:57 2019	Dio (STEAM_0:0:497465680): !freeze @
+Thu Jul 18 23:44:59 2019	Dio (STEAM_0:0:497465680): !unfreeze @
+Thu Jul 18 23:45:06 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /drop
+Thu Jul 18 23:45:09 2019	BexGasm (STEAM_0:1:63382511): 
+Thu Jul 18 23:45:17 2019	UG | M A S T E R (STEAM_0:1:180622613): /dropmoney 1
+Thu Jul 18 23:45:18 2019	UG | M A S T E R (STEAM_0:1:180622613) has dropped $1
+Thu Jul 18 23:45:21 2019	Dio was killed by Entity [1374][entityflame] with a entityflame
+Thu Jul 18 23:45:23 2019	Dio (STEAM_0:0:497465680) spawned
+Thu Jul 18 23:45:31 2019	The Companion Cube (STEAM_0:0:94296198): /ooc get gud scrub
+Thu Jul 18 23:45:35 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /a suck it Dio
+Thu Jul 18 23:46:00 2019	BexGasm was killed by (͠≖ ͜ʖ͠≖) (DC) with a fas2_ks23
+Thu Jul 18 23:46:02 2019	BexGasm (STEAM_0:1:63382511) spawned
+Thu Jul 18 23:46:06 2019	(͠≖ ͜ʖ͠≖) (DC) was killed by Himself with a suicide trick
+Thu Jul 18 23:46:06 2019	BexGasm (STEAM_0:1:63382511): !slay dc
+Thu Jul 18 23:46:09 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662) spawned
+Thu Jul 18 23:46:46 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): 
+Thu Jul 18 23:47:15 2019	BexGasm (STEAM_0:1:63382511): 
+Thu Jul 18 23:47:20 2019	BexGasm (STEAM_0:1:63382511): !goto dc
+Thu Jul 18 23:47:22 2019	BexGasm (STEAM_0:1:63382511): !goto ug
+Thu Jul 18 23:47:46 2019	UG | M A S T E R (STEAM_0:1:180622613): overpowered?
+Thu Jul 18 23:47:57 2019	UG | M A S T E R (STEAM_0:1:180622613): Like?
+Thu Jul 18 23:48:05 2019	UG | M A S T E R (STEAM_0:1:180622613): mega?
+Thu Jul 18 23:48:08 2019	UG | M A S T E R (STEAM_0:1:180622613): dragon ?
+Thu Jul 18 23:48:14 2019	UG | M A S T E R (STEAM_0:1:180622613): Which?
+Thu Jul 18 23:48:20 2019	UG | M A S T E R (STEAM_0:1:180622613): the what
+Thu Jul 18 23:48:42 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Thu Jul 18 23:48:48 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Thu Jul 18 23:49:05 2019	UG | M A S T E R (STEAM_0:1:180622613): Why did you give someone a vape?
+Thu Jul 18 23:49:14 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): ok
+Thu Jul 18 23:49:22 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): 
+Thu Jul 18 23:49:24 2019	UG | M A S T E R (STEAM_0:1:180622613): Well
+Thu Jul 18 23:49:25 2019	The Companion Cube (STEAM_0:0:94296198): 
+Thu Jul 18 23:49:25 2019	UG | M A S T E R (STEAM_0:1:180622613): stop
+Thu Jul 18 23:49:31 2019	UG | M A S T E R (STEAM_0:1:180622613): or something bad will happen.
+Thu Jul 18 23:49:31 2019	BexGasm (STEAM_0:1:63382511): 
+Thu Jul 18 23:49:31 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): im broke
+Thu Jul 18 23:49:32 2019	The Companion Cube was killed by (͠≖ ͜ʖ͠≖) (DC) with a fas2_ks23
+Thu Jul 18 23:49:35 2019	BexGasm (STEAM_0:1:63382511): !bring shrek
+Thu Jul 18 23:49:35 2019	The Companion Cube (STEAM_0:0:94296198) spawned
+Thu Jul 18 23:49:36 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): so do it
+Thu Jul 18 23:49:39 2019	Littl3Drumm3rBoi was killed by (͠≖ ͜ʖ͠≖) (DC) with a fas2_ks23
+Thu Jul 18 23:49:47 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782) spawned
+Thu Jul 18 23:49:53 2019	UG | M A S T E R (STEAM_0:1:180622613): sure.
+Thu Jul 18 23:50:48 2019	BexGasm (STEAM_0:1:63382511): !unbox
+Thu Jul 18 23:50:52 2019	Blumbing (STEAM_0:1:152356796): !unbox
+Thu Jul 18 23:51:02 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): 
+Thu Jul 18 23:51:04 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): 
+Thu Jul 18 23:51:06 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): 
+Thu Jul 18 23:51:07 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): 
+Thu Jul 18 23:51:08 2019	DummoHead (STEAM_0:0:64298899) has joined the game
+Thu Jul 18 23:51:08 2019	DummoHead (STEAM_0:0:64298899) spawned
+Thu Jul 18 23:51:08 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): 
+Thu Jul 18 23:51:11 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): 
+Thu Jul 18 23:51:13 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): 
+Thu Jul 18 23:51:18 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): 
+Thu Jul 18 23:51:31 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): 
+Thu Jul 18 23:52:01 2019	The Companion Cube (STEAM_0:0:94296198): /ooc Dio Sucks Ball Sacks
+Thu Jul 18 23:52:07 2019	Dio (STEAM_0:0:497465680): /drop
+Thu Jul 18 23:52:10 2019	BexGasm (STEAM_0:1:63382511): !warn companion  Toxicity
+Thu Jul 18 23:52:12 2019	BexGasm (STEAM_0:1:63382511): // Gg
+Thu Jul 18 23:52:20 2019	The Companion Cube (STEAM_0:0:94296198): /ooc damn
+Thu Jul 18 23:52:37 2019	DummoHead (STEAM_0:0:64298899): yes
+Thu Jul 18 23:52:42 2019	UG | M A S T E R (STEAM_0:1:180622613): /pm li Come
+Thu Jul 18 23:53:03 2019	DummoHead (STEAM_0:0:64298899): sorry say again my game froze
+Thu Jul 18 23:53:07 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): // how do you unbox?
+Thu Jul 18 23:53:11 2019	BexGasm (STEAM_0:1:63382511): // !unbox
+Thu Jul 18 23:53:15 2019	BexGasm (STEAM_0:1:63382511): // :kami:
+Thu Jul 18 23:53:16 2019	DummoHead (STEAM_0:0:64298899): whats that
+Thu Jul 18 23:53:22 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): !unbox
+Thu Jul 18 23:53:26 2019	DummoHead (STEAM_0:0:64298899): sure thatd be cool
+Thu Jul 18 23:53:33 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /dropmoney 100000
+Thu Jul 18 23:53:34 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662) has dropped $100,000
+Thu Jul 18 23:53:42 2019	DummoHead (STEAM_0:0:64298899): wow thanks man
+Thu Jul 18 23:54:21 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /dropmoney 1
+Thu Jul 18 23:54:22 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662) has dropped $1
+Thu Jul 18 23:54:51 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): // i dont have the money nor the rank
+Thu Jul 18 23:54:58 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /dropmoney 300635
+Thu Jul 18 23:54:59 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662) has dropped $300,635
+Thu Jul 18 23:55:00 2019	UG | M A S T E R (STEAM_0:1:180622613): /pm bex Hey wanna buy something?
+Thu Jul 18 23:55:02 2019	BexGasm (STEAM_0:1:63382511): // you dont need a rank to unbox
+Thu Jul 18 23:55:06 2019	BexGasm (STEAM_0:1:63382511): /pm ug like what
+Thu Jul 18 23:55:09 2019	Dio (STEAM_0:0:497465680): 
+Thu Jul 18 23:55:15 2019	UG | M A S T E R (STEAM_0:1:180622613): /pm bex Tp
+Thu Jul 18 23:55:18 2019	Dio (STEAM_0:0:497465680): !warn Dio Being a Bad Boi
+Thu Jul 18 23:55:21 2019	BexGasm (STEAM_0:1:63382511): !goto ug
+Thu Jul 18 23:55:23 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): // I do need money lmao
+Thu Jul 18 23:55:44 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /a money case is a scam
+Thu Jul 18 23:55:49 2019	BexGasm (STEAM_0:1:63382511): // no its not
+Thu Jul 18 23:56:07 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): // i gambled all my money away 
+Thu Jul 18 23:56:14 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): 
+Thu Jul 18 23:56:22 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): 
+Thu Jul 18 23:56:25 2019	UG | M A S T E R (STEAM_0:1:180622613): Are you a special client sir?
+Thu Jul 18 23:56:30 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): 20k would do
+Thu Jul 18 23:56:43 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): nah
+Thu Jul 18 23:56:44 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /dropmoney 100000
+Thu Jul 18 23:56:44 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662) has dropped $100,000
+Thu Jul 18 23:56:51 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): thanks 
+Thu Jul 18 23:57:01 2019	UG | M A S T E R (STEAM_0:1:180622613): /write Special client cost: $90,000,000 Perks: Heavy discounts, and other itmes
+Thu Jul 18 23:57:03 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): lmao
+Thu Jul 18 23:57:50 2019	UG | M A S T E R (STEAM_0:1:180622613): /y no
+Thu Jul 18 23:58:01 2019	UG | M A S T E R (STEAM_0:1:180622613): /y any vape 
+Thu Jul 18 23:59:06 2019	UG | M A S T E R (STEAM_0:1:180622613): /write Special client cost: $90,000,000 Perks: Heavy discounts, and other itmes
+Thu Jul 18 23:59:14 2019	UG | M A S T E R (STEAM_0:1:180622613): /write Special client cost: $90,000,000 Perks: Heavy discounts, and other itmes
+Fri Jul 19 00:00:09 2019	UG | M A S T E R (STEAM_0:1:180622613): did you read the paper?
+Fri Jul 19 00:00:25 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /a BrUH MoMeNT
+Fri Jul 19 00:00:33 2019	UG | M A S T E R (STEAM_0:1:180622613): well
+Fri Jul 19 00:00:39 2019	UG | M A S T E R (STEAM_0:1:180622613): then you pay for regular price
+Fri Jul 19 00:00:51 2019	UG | M A S T E R (STEAM_0:1:180622613): So
+Fri Jul 19 00:00:56 2019	UG | M A S T E R (STEAM_0:1:180622613): BexGasm
+Fri Jul 19 00:01:02 2019	UG | M A S T E R (STEAM_0:1:180622613): I have good items
+Fri Jul 19 00:01:11 2019	UG | M A S T E R (STEAM_0:1:180622613): Any thing in weapons
+Fri Jul 19 00:01:19 2019	UG | M A S T E R (STEAM_0:1:180622613): yes
+Fri Jul 19 00:01:59 2019	Blumbing (STEAM_0:1:152356796): 
+Fri Jul 19 00:01:59 2019	UG | M A S T E R (STEAM_0:1:180622613): yes
+Fri Jul 19 00:02:15 2019	UG | M A S T E R (STEAM_0:1:180622613): alright
+Fri Jul 19 00:02:17 2019	UG | M A S T E R (STEAM_0:1:180622613): so
+Fri Jul 19 00:02:20 2019	Dio (STEAM_0:0:497465680): 
+Fri Jul 19 00:02:26 2019	UG | M A S T E R (STEAM_0:1:180622613): I can sell anything.. (For a price)
+Fri Jul 19 00:02:35 2019	UG | M A S T E R (STEAM_0:1:180622613): ...
+Fri Jul 19 00:02:43 2019	UG | M A S T E R (STEAM_0:1:180622613): For now, I can...
+Fri Jul 19 00:02:43 2019	Blumbing (STEAM_0:1:152356796): 
+Fri Jul 19 00:02:50 2019	UG | M A S T E R (STEAM_0:1:180622613): What do you want?
+Fri Jul 19 00:03:03 2019	Dio was killed by Entity [0][worldspawn] with a unknown
+Fri Jul 19 00:03:05 2019	Dio (STEAM_0:0:497465680) spawned
+Fri Jul 19 00:03:14 2019	Fish (STEAM_0:0:97466176) has joined the game
+Fri Jul 19 00:03:14 2019	Fish (STEAM_0:0:97466176) spawned
+Fri Jul 19 00:03:20 2019	UG | M A S T E R was killed by (͠≖ ͜ʖ͠≖) (DC) with a fas2_ks23
+Fri Jul 19 00:03:25 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Fri Jul 19 00:03:25 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Fri Jul 19 00:03:47 2019	UG | M A S T E R (STEAM_0:1:180622613): want some kush
+Fri Jul 19 00:03:49 2019	UG | M A S T E R (STEAM_0:1:180622613): sure
+Fri Jul 19 00:04:09 2019	BexGasm (STEAM_0:1:63382511): /dropmoney 1
+Fri Jul 19 00:04:10 2019	BexGasm (STEAM_0:1:63382511) has dropped $1
+Fri Jul 19 00:04:14 2019	UG | M A S T E R (STEAM_0:1:180622613): drop 1M
+Fri Jul 19 00:05:34 2019	(͠≖ ͜ʖ͠≖) (DC) was killed by BexGasm with a fas2_galil
+Fri Jul 19 00:05:35 2019	Blumbing (STEAM_0:1:152356796): !unbox
+Fri Jul 19 00:05:36 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662) spawned
+Fri Jul 19 00:05:44 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): 
+Fri Jul 19 00:05:58 2019	UG | M A S T E R (STEAM_0:1:180622613): pat
+Fri Jul 19 00:05:59 2019	UG | M A S T E R (STEAM_0:1:180622613): pay
+Fri Jul 19 00:06:11 2019	UG | M A S T E R (STEAM_0:1:180622613): you'r order
+Fri Jul 19 00:06:17 2019	UG | M A S T E R (STEAM_0:1:180622613): 1M
+Fri Jul 19 00:06:18 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): !unbox
+Fri Jul 19 00:06:27 2019	BexGasm (STEAM_0:1:63382511): /dropmoney 1000000
+Fri Jul 19 00:06:28 2019	BexGasm (STEAM_0:1:63382511) has dropped $1,000,000
+Fri Jul 19 00:06:35 2019	UG | M A S T E R (STEAM_0:1:180622613): *REFUNDS are welcome*
+Fri Jul 19 00:07:49 2019	UG | M A S T E R (STEAM_0:1:180622613): no
+Fri Jul 19 00:08:00 2019	UG | M A S T E R (STEAM_0:1:180622613): /dropmoney 1500000
+Fri Jul 19 00:08:01 2019	UG | M A S T E R (STEAM_0:1:180622613) has dropped $1,500,000
+Fri Jul 19 00:08:11 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): // wow
+Fri Jul 19 00:08:21 2019	Fish was killed by UG | M A S T E R with a fas2_sks
+Fri Jul 19 00:08:26 2019	Fish (STEAM_0:0:97466176) spawned
+Fri Jul 19 00:08:59 2019	UG | M A S T E R was killed by Fish with a fas2_ks23
+Fri Jul 19 00:09:01 2019	The Companion Cube (STEAM_0:0:94296198): !unbox
+Fri Jul 19 00:09:01 2019	BexGasm was killed by Fish with a fas2_ks23
+Fri Jul 19 00:09:04 2019	BexGasm (STEAM_0:1:63382511): !ba
+Fri Jul 19 00:09:04 2019	BexGasm (STEAM_0:1:63382511) spawned
+Fri Jul 19 00:09:06 2019	BexGasm (STEAM_0:1:63382511): !goto fish
+Fri Jul 19 00:09:07 2019	UG | M A S T E R (STEAM_0:1:180622613): !kick Fish minge
+Fri Jul 19 00:09:07 2019	Fish (STEAM_0:0:97466176) disconnected
+Fri Jul 19 00:09:07 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Fri Jul 19 00:09:37 2019	UG | M A S T E R (STEAM_0:1:180622613): want a vape
+Fri Jul 19 00:09:57 2019	UG | M A S T E R (STEAM_0:1:180622613): give me 100k and find out
+Fri Jul 19 00:10:35 2019	Fish (STEAM_0:0:97466176) has joined the game
+Fri Jul 19 00:10:35 2019	Fish (STEAM_0:0:97466176) spawned
+Fri Jul 19 00:10:42 2019	UG | M A S T E R (STEAM_0:1:180622613): /drop
+Fri Jul 19 00:10:45 2019	UG | M A S T E R (STEAM_0:1:180622613): /drop
+Fri Jul 19 00:10:47 2019	UG | M A S T E R (STEAM_0:1:180622613): /drop
+Fri Jul 19 00:10:50 2019	UG | M A S T E R (STEAM_0:1:180622613): /drop
+Fri Jul 19 00:10:52 2019	UG | M A S T E R (STEAM_0:1:180622613): /drop
+Fri Jul 19 00:10:54 2019	UG | M A S T E R (STEAM_0:1:180622613): /drop
+Fri Jul 19 00:11:01 2019	BexGasm was killed by (͠≖ ͜ʖ͠≖) (DC) with a fas2_ks23
+Fri Jul 19 00:11:03 2019	BexGasm (STEAM_0:1:63382511) spawned
+Fri Jul 19 00:11:19 2019	UG | M A S T E R (STEAM_0:1:180622613): /pm Bex It's a shipment of x6 for only 45K
+Fri Jul 19 00:11:43 2019	BexGasm was killed by (͠≖ ͜ʖ͠≖) (DC) with a fas2_ks23
+Fri Jul 19 00:11:47 2019	BexGasm (STEAM_0:1:63382511) spawned
+Fri Jul 19 00:11:49 2019	BexGasm (STEAM_0:1:63382511): !goto dc
+Fri Jul 19 00:11:56 2019	BexGasm (STEAM_0:1:63382511): !unbox
+Fri Jul 19 00:12:00 2019	BexGasm (STEAM_0:1:63382511): !goto ug
+Fri Jul 19 00:12:12 2019	Dio (STEAM_0:0:497465680): 
+Fri Jul 19 00:12:16 2019	UG | M A S T E R (STEAM_0:1:180622613): hey look
+Fri Jul 19 00:12:33 2019	Dio was killed by Entity [1412][entityflame] with a entityflame
+Fri Jul 19 00:12:35 2019	Dio (STEAM_0:0:497465680) spawned
+Fri Jul 19 00:12:44 2019	BexGasm was killed by UG | M A S T E R with a fas2_rk95
+Fri Jul 19 00:12:45 2019	Fish (STEAM_0:0:97466176): i was helping
+Fri Jul 19 00:12:47 2019	BexGasm (STEAM_0:1:63382511) spawned
+Fri Jul 19 00:12:48 2019	BexGasm (STEAM_0:1:63382511): !goto yug
+Fri Jul 19 00:12:50 2019	BexGasm (STEAM_0:1:63382511): !goto ug
+Fri Jul 19 00:12:52 2019	Dio (STEAM_0:0:497465680): 
+Fri Jul 19 00:12:52 2019	Fish (STEAM_0:0:97466176): oh
+Fri Jul 19 00:12:55 2019	UG | M A S T E R (STEAM_0:1:180622613): KOS
+Fri Jul 19 00:13:02 2019	Fish was killed by (͠≖ ͜ʖ͠≖) (DC) with a fas2_ks23
+Fri Jul 19 00:13:05 2019	Fish (STEAM_0:0:97466176): rdm
+Fri Jul 19 00:13:06 2019	UG | M A S T E R (STEAM_0:1:180622613): xD
+Fri Jul 19 00:13:06 2019	Fish (STEAM_0:0:97466176) spawned
+Fri Jul 19 00:13:07 2019	UG | M A S T E R (STEAM_0:1:180622613): yes
+Fri Jul 19 00:13:11 2019	Dio was killed by Entity [1608][entityflame] with a entityflame
+Fri Jul 19 00:13:14 2019	Dio (STEAM_0:0:497465680) spawned
+Fri Jul 19 00:13:28 2019	Fish (STEAM_0:0:97466176): 
+Fri Jul 19 00:13:28 2019	UG | M A S T E R (STEAM_0:1:180622613): So
+Fri Jul 19 00:13:33 2019	UG | M A S T E R (STEAM_0:1:180622613): come over here
+Fri Jul 19 00:13:36 2019	UG | M A S T E R (STEAM_0:1:180622613): buy something
+Fri Jul 19 00:13:44 2019	(͠≖ ͜ʖ͠≖) (DC) was killed by UG | M A S T E R with a fas2_rk95
+Fri Jul 19 00:13:48 2019	Dio (STEAM_0:0:497465680): 
+Fri Jul 19 00:13:50 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662) spawned
+Fri Jul 19 00:13:59 2019	Dio was killed by Himself with a suicide trick
+Fri Jul 19 00:14:02 2019	Dio (STEAM_0:0:497465680) spawned
+Fri Jul 19 00:14:04 2019	The Companion Cube (STEAM_0:0:94296198): f
+Fri Jul 19 00:14:14 2019	UG | M A S T E R (STEAM_0:1:180622613): 45K
+Fri Jul 19 00:14:21 2019	UG | M A S T E R (STEAM_0:1:180622613): for a shipment of special vapes
+Fri Jul 19 00:14:24 2019	BexGasm (STEAM_0:1:63382511): !bring dc
+Fri Jul 19 00:14:31 2019	UG | M A S T E R (STEAM_0:1:180622613): Maybe
+Fri Jul 19 00:14:36 2019	UG | M A S T E R (STEAM_0:1:180622613): But it's better than that
+Fri Jul 19 00:14:51 2019	UG | M A S T E R (STEAM_0:1:180622613): yes
+Fri Jul 19 00:15:00 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): 
+Fri Jul 19 00:15:01 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): 
+Fri Jul 19 00:15:02 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): 
+Fri Jul 19 00:15:03 2019	Dio (STEAM_0:0:497465680): /dropmoney 450000
+Fri Jul 19 00:15:04 2019	Dio (STEAM_0:0:497465680) has dropped $450,000
+Fri Jul 19 00:15:17 2019	Dio (STEAM_0:0:497465680): /dropmoney 45000
+Fri Jul 19 00:15:18 2019	Dio (STEAM_0:0:497465680) has dropped $45,000
+Fri Jul 19 00:15:22 2019	UG | M A S T E R (STEAM_0:1:180622613): Want to have special client?
+Fri Jul 19 00:15:47 2019	UG | M A S T E R (STEAM_0:1:180622613): alright
+Fri Jul 19 00:15:53 2019	BexGasm (STEAM_0:1:63382511): 
+Fri Jul 19 00:16:41 2019	BexGasm (STEAM_0:1:63382511): 
+Fri Jul 19 00:16:48 2019	UG | M A S T E R (STEAM_0:1:180622613): want to buy some kush
+Fri Jul 19 00:16:56 2019	UG | M A S T E R (STEAM_0:1:180622613): 100g 100% ??
+Fri Jul 19 00:17:07 2019	UG | M A S T E R (STEAM_0:1:180622613): 10x ?
+Fri Jul 19 00:17:13 2019	UG | M A S T E R (STEAM_0:1:180622613): Blocks
+Fri Jul 19 00:17:31 2019	UG | M A S T E R (STEAM_0:1:180622613): 7.2K per block $$
+Fri Jul 19 00:17:43 2019	UG | M A S T E R (STEAM_0:1:180622613): Alright
+Fri Jul 19 00:18:15 2019	UG | M A S T E R (STEAM_0:1:180622613): now it's time for you'r death
+Fri Jul 19 00:18:52 2019	Fish was killed by BexGasm with a fas2_galil
+Fri Jul 19 00:18:55 2019	Fish (STEAM_0:0:97466176) spawned
+Fri Jul 19 00:19:01 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): 
+Fri Jul 19 00:19:02 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): 
+Fri Jul 19 00:19:15 2019	Dio (STEAM_0:0:497465680): 
+Fri Jul 19 00:19:17 2019	The Companion Cube was killed by (͠≖ ͜ʖ͠≖) (DC) with a fas2_ks23
+Fri Jul 19 00:19:29 2019	The Companion Cube (STEAM_0:0:94296198) spawned
+Fri Jul 19 00:19:36 2019	Fish was killed by UG | M A S T E R with a fas2_rk95
+Fri Jul 19 00:19:38 2019	BexGasm (STEAM_0:1:63382511): !unignite dio
+Fri Jul 19 00:19:40 2019	Fish (STEAM_0:0:97466176) spawned
+Fri Jul 19 00:20:00 2019	BexGasm (STEAM_0:1:63382511): 
+Fri Jul 19 00:20:26 2019	Fish (STEAM_0:0:97466176): 
+Fri Jul 19 00:20:37 2019	Fish (STEAM_0:0:97466176): // u wanna get outa god?
+Fri Jul 19 00:20:39 2019	Fish (STEAM_0:0:97466176): 
+Fri Jul 19 00:20:43 2019	BexGasm (STEAM_0:1:63382511): // im not in god
+Fri Jul 19 00:20:45 2019	BexGasm (STEAM_0:1:63382511): !ungod bex
+Fri Jul 19 00:20:49 2019	BexGasm (STEAM_0:1:63382511): !ungod bex
+Fri Jul 19 00:20:50 2019	Fish (STEAM_0:0:97466176): // mhm
+Fri Jul 19 00:20:52 2019	Fish (STEAM_0:0:97466176): 
+Fri Jul 19 00:20:53 2019	(͠≖ ͜ʖ͠≖) (DC) was killed by Fish with a fas2_famas
+Fri Jul 19 00:20:54 2019	BexGasm (STEAM_0:1:63382511): // am not
+Fri Jul 19 00:20:57 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662) spawned
+Fri Jul 19 00:21:07 2019	Fish (STEAM_0:0:97466176): // well yea u just took it off
+Fri Jul 19 00:21:12 2019	Fish (STEAM_0:0:97466176): 
+Fri Jul 19 00:21:28 2019	Fish (STEAM_0:0:97466176): 
+Fri Jul 19 00:21:45 2019	Fish (STEAM_0:0:97466176): 
+Fri Jul 19 00:21:46 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Fri Jul 19 00:21:47 2019	Dio (STEAM_0:0:497465680): 
+Fri Jul 19 00:21:50 2019	Fish (STEAM_0:0:97466176): 
+Fri Jul 19 00:21:53 2019	Dio (STEAM_0:0:497465680): /ooc frick
+Fri Jul 19 00:21:55 2019	Fish (STEAM_0:0:97466176): 
+Fri Jul 19 00:21:57 2019	(͠≖ ͜ʖ͠≖) (DC) was killed by Fish with a fas2_ks23
+Fri Jul 19 00:21:58 2019	Dio was killed by Himself with a suicide trick
+Fri Jul 19 00:22:01 2019	Dio (STEAM_0:0:497465680) spawned
+Fri Jul 19 00:22:01 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662) spawned
+Fri Jul 19 00:22:06 2019	UG | M A S T E R (STEAM_0:1:180622613): /y hello
+Fri Jul 19 00:22:12 2019	UG | M A S T E R (STEAM_0:1:180622613): /y Can we speak?
+Fri Jul 19 00:22:32 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT titlestore_corenpc
+Fri Jul 19 00:22:32 2019	BexGasm (STEAM_0:1:63382511): !goto ug
+Fri Jul 19 00:22:38 2019	Fish (STEAM_0:0:97466176): 
+Fri Jul 19 00:22:40 2019	Fish (STEAM_0:0:97466176): 
+Fri Jul 19 00:22:42 2019	UG | M A S T E R (STEAM_0:1:180622613): Settings?
+Fri Jul 19 00:22:45 2019	BexGasm (STEAM_0:1:63382511): !unbox
+Fri Jul 19 00:22:47 2019	Fish (STEAM_0:0:97466176): 
+Fri Jul 19 00:22:48 2019	UG | M A S T E R (STEAM_0:1:180622613): !unbox
+Fri Jul 19 00:22:52 2019	Fish (STEAM_0:0:97466176): 
+Fri Jul 19 00:22:52 2019	(͠≖ ͜ʖ͠≖) (DC) was killed by Fish with a fas2_ks23
+Fri Jul 19 00:22:55 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662) spawned
+Fri Jul 19 00:23:02 2019	gallojoseluis.salta (STEAM_0:1:480672141) has joined the game
+Fri Jul 19 00:23:02 2019	gallojoseluis.salta (STEAM_0:1:480672141) spawned
+Fri Jul 19 00:23:08 2019	UG | M A S T E R (STEAM_0:1:180622613): Alright allow me to go in the settings.
+Fri Jul 19 00:23:13 2019	UG | M A S T E R was killed by Fish with a fas2_ks23
+Fri Jul 19 00:23:16 2019	BexGasm (STEAM_0:1:63382511): !god BexGasm
+Fri Jul 19 00:23:42 2019	BexGasm (STEAM_0:1:63382511): !jail @ 120
+Fri Jul 19 00:23:49 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Fri Jul 19 00:23:59 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Fri Jul 19 00:23:59 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Fri Jul 19 00:24:12 2019	UG | M A S T E R (STEAM_0:1:180622613): !gag @
+Fri Jul 19 00:24:14 2019	Fish (STEAM_0:0:97466176) disconnected
+Fri Jul 19 00:24:15 2019	UG | M A S T E R (STEAM_0:1:180622613): !xban
+Fri Jul 19 00:24:16 2019	BexGasm (STEAM_0:1:63382511): !ban fish 0 Minging, dickhead, mass rdm. Fuck off cunt
+Fri Jul 19 00:24:26 2019	UG | M A S T E R (STEAM_0:1:180622613): !xban
+Fri Jul 19 00:24:32 2019	BexGasm (STEAM_0:1:63382511): !xban
+Fri Jul 19 00:24:41 2019	BexGasm (STEAM_0:1:63382511): 
+Fri Jul 19 00:24:51 2019	UG | M A S T E R (STEAM_0:1:180622613): there
+Fri Jul 19 00:25:04 2019	BexGasm (STEAM_0:1:63382511): STEAM_0:0:97466176
+Fri Jul 19 00:25:05 2019	UG | M A S T E R (STEAM_0:1:180622613): He's banned
+Fri Jul 19 00:25:08 2019	UG | M A S T E R (STEAM_0:1:180622613): Already
+Fri Jul 19 00:25:11 2019	UG | M A S T E R (STEAM_0:1:180622613): yes
+Fri Jul 19 00:25:11 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): 
+Fri Jul 19 00:25:18 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Fri Jul 19 00:25:23 2019	Blumbing (STEAM_0:1:152356796): /dropmoney 5000
+Fri Jul 19 00:25:24 2019	Blumbing (STEAM_0:1:152356796) has dropped $5,000
+Fri Jul 19 00:25:30 2019	UG | M A S T E R was killed by (͠≖ ͜ʖ͠≖) (DC) with a fas2_ks23
+Fri Jul 19 00:25:32 2019	BexGasm (STEAM_0:1:63382511): !ungod bex
+Fri Jul 19 00:25:34 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Fri Jul 19 00:25:44 2019	Blumbing was killed by (͠≖ ͜ʖ͠≖) (DC) with a fas2_ks23
+Fri Jul 19 00:26:07 2019	Blumbing (STEAM_0:1:152356796): 
+Fri Jul 19 00:26:12 2019	Dio (STEAM_0:0:497465680): 
+Fri Jul 19 00:26:15 2019	BexGasm (STEAM_0:1:63382511): !bring blumb
+Fri Jul 19 00:26:15 2019	Dio (STEAM_0:0:497465680) disconnected
+Fri Jul 19 00:26:16 2019	Blumbing (STEAM_0:1:152356796) spawned
+Fri Jul 19 00:26:17 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): 
+Fri Jul 19 00:26:58 2019	BexGasm (STEAM_0:1:63382511): !motd
+Fri Jul 19 00:27:03 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): !motd
+Fri Jul 19 00:27:09 2019	BexGasm (STEAM_0:1:63382511): !bring blumb
+Fri Jul 19 00:27:12 2019	BexGasm (STEAM_0:1:63382511): !jail @ 120
+Fri Jul 19 00:27:37 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /a BrUH MoMeNT
+Fri Jul 19 00:27:37 2019	BexGasm (STEAM_0:1:63382511): !gag blumb
+Fri Jul 19 00:28:01 2019	UG | M A S T E R (STEAM_0:1:180622613): come with me
+Fri Jul 19 00:28:10 2019	UG | M A S T E R (STEAM_0:1:180622613): I want you to be my special client
+Fri Jul 19 00:28:15 2019	BexGasm (STEAM_0:1:63382511): 
+Fri Jul 19 00:28:48 2019	DummoHead (STEAM_0:0:64298899) disconnected
+Fri Jul 19 00:28:54 2019	BexGasm (STEAM_0:1:63382511): !warn dc rdm
+Fri Jul 19 00:28:59 2019	BexGasm (STEAM_0:1:63382511): !ungag blumb
+Fri Jul 19 00:28:59 2019	UG | M A S T E R (STEAM_0:1:180622613): Hey bex
+Fri Jul 19 00:29:01 2019	BexGasm (STEAM_0:1:63382511): !unjail blumb
+Fri Jul 19 00:29:06 2019	UG | M A S T E R (STEAM_0:1:180622613): I am making you my special client
+Fri Jul 19 00:29:07 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): !warns
+Fri Jul 19 00:29:18 2019	UG | M A S T E R (STEAM_0:1:180622613): hi
+Fri Jul 19 00:29:35 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Fri Jul 19 00:29:52 2019	Gooby (STEAM_0:1:61422098) has joined the game
+Fri Jul 19 00:29:52 2019	Gooby (STEAM_0:1:61422098) spawned
+Fri Jul 19 00:29:55 2019	gallojoseluis.salta was killed by UG | M A S T E R with a fas2_rem870
+Fri Jul 19 00:29:58 2019	gallojoseluis.salta (STEAM_0:1:480672141) spawned
+Fri Jul 19 00:29:58 2019	BexGasm (STEAM_0:1:63382511): !goto blumb
+Fri Jul 19 00:30:05 2019	UG | M A S T E R (STEAM_0:1:180622613): come
+Fri Jul 19 00:30:12 2019	jonhuston74 (STEAM_0:0:445042532) has joined the game
+Fri Jul 19 00:30:12 2019	jonhuston74 (STEAM_0:0:445042532) spawned
+Fri Jul 19 00:30:14 2019	Blumbing (STEAM_0:1:152356796): /drop
+Fri Jul 19 00:30:31 2019	BexGasm (STEAM_0:1:63382511): !return bex
+Fri Jul 19 00:30:40 2019	Gooby (STEAM_0:1:61422098) disconnected
+Fri Jul 19 00:30:55 2019	(͠≖ ͜ʖ͠≖) (DC) was killed by BexGasm with a fas2_galil
+Fri Jul 19 00:30:57 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662) spawned
+Fri Jul 19 00:31:01 2019	BexGasm was killed by UG | M A S T E R with a fas2_rem870
+Fri Jul 19 00:31:05 2019	BexGasm (STEAM_0:1:63382511) spawned
+Fri Jul 19 00:31:23 2019	UG | M A S T E R (STEAM_0:1:180622613): wrong person
+Fri Jul 19 00:31:29 2019	UG | M A S T E R (STEAM_0:1:180622613): To?
+Fri Jul 19 00:32:03 2019	UG | M A S T E R (STEAM_0:1:180622613): /pm (DC) I'm willing to complete you'r offer
+Fri Jul 19 00:32:23 2019	Gooby (STEAM_0:1:61422098) has joined the game
+Fri Jul 19 00:32:23 2019	Gooby (STEAM_0:1:61422098) spawned
+Fri Jul 19 00:32:31 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Fri Jul 19 00:32:43 2019	jonhuston74 (STEAM_0:0:445042532) disconnected
+Fri Jul 19 00:32:48 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Fri Jul 19 00:33:11 2019	Gooby (STEAM_0:1:61422098) disconnected
+Fri Jul 19 00:33:33 2019	UG | M A S T E R (STEAM_0:1:180622613): what button
+Fri Jul 19 00:33:49 2019	UG | M A S T E R (STEAM_0:1:180622613): it's a sound emitter.
+Fri Jul 19 00:34:01 2019	UG | M A S T E R (STEAM_0:1:180622613): come over here
+Fri Jul 19 00:34:10 2019	UG | M A S T E R (STEAM_0:1:180622613): I'm allowing you
+Fri Jul 19 00:34:11 2019	Blumbing (STEAM_0:1:152356796): 
+Fri Jul 19 00:34:16 2019	BexGasm (STEAM_0:1:63382511): 
+Fri Jul 19 00:34:23 2019	UG | M A S T E R (STEAM_0:1:180622613): Did you hear that?
+Fri Jul 19 00:34:43 2019	UG | M A S T E R (STEAM_0:1:180622613): So I can only give you 10
+Fri Jul 19 00:35:22 2019	Blumbing was killed by BexGasm with a fas2_galil
+Fri Jul 19 00:35:25 2019	Blumbing (STEAM_0:1:152356796) spawned
+Fri Jul 19 00:35:34 2019	UG | M A S T E R (STEAM_0:1:180622613): there
+Fri Jul 19 00:35:46 2019	UG | M A S T E R (STEAM_0:1:180622613): Would you like to buy a crate for $1k?
+Fri Jul 19 00:35:50 2019	UG | M A S T E R (STEAM_0:1:180622613): & key
+Fri Jul 19 00:36:01 2019	UG | M A S T E R (STEAM_0:1:180622613): Money case.
+Fri Jul 19 00:36:14 2019	UG | M A S T E R (STEAM_0:1:180622613): and or [PERM] Case
+Fri Jul 19 00:36:22 2019	UG | M A S T E R (STEAM_0:1:180622613): 2k
+Fri Jul 19 00:36:31 2019	The Companion Cube (STEAM_0:0:94296198): !unbox
+Fri Jul 19 00:36:39 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /dropmoney 2000
+Fri Jul 19 00:36:40 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662) has dropped $2,000
+Fri Jul 19 00:36:55 2019	UG | M A S T E R (STEAM_0:1:180622613): !unbox
+Fri Jul 19 00:37:16 2019	BexGasm (STEAM_0:1:63382511): !motd
+Fri Jul 19 00:37:32 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): !unbox
+Fri Jul 19 00:37:55 2019	BexGasm (STEAM_0:1:63382511): // What the fuck
+Fri Jul 19 00:37:56 2019	UG | M A S T E R (STEAM_0:1:180622613): !unbox
+Fri Jul 19 00:37:57 2019	BexGasm (STEAM_0:1:63382511): !goto ug
+Fri Jul 19 00:38:05 2019	UG | M A S T E R (STEAM_0:1:180622613): hm?
+Fri Jul 19 00:38:05 2019	Blumbing (STEAM_0:1:152356796): 
+Fri Jul 19 00:38:09 2019	BexGasm (STEAM_0:1:63382511): !god BexGasm
+Fri Jul 19 00:38:10 2019	BexGasm (STEAM_0:1:63382511): !menu
+Fri Jul 19 00:38:13 2019	BexGasm (STEAM_0:1:63382511): !unbox
+Fri Jul 19 00:38:14 2019	UG | M A S T E R (STEAM_0:1:180622613): GET TO IT
+Fri Jul 19 00:38:22 2019	BexGasm (STEAM_0:1:63382511): 
+Fri Jul 19 00:38:24 2019	BexGasm (STEAM_0:1:63382511): !unbox
+Fri Jul 19 00:38:25 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Fri Jul 19 00:38:28 2019	UG | M A S T E R (STEAM_0:1:180622613): hm?
+Fri Jul 19 00:38:39 2019	gallojoseluis.salta (STEAM_0:1:480672141) disconnected
+Fri Jul 19 00:38:41 2019	UG | M A S T E R (STEAM_0:1:180622613): $150K
+Fri Jul 19 00:38:54 2019	UG | M A S T E R (STEAM_0:1:180622613): $150K
+Fri Jul 19 00:38:59 2019	UG | M A S T E R (STEAM_0:1:180622613): !unbox
+Fri Jul 19 00:39:08 2019	UG | M A S T E R (STEAM_0:1:180622613): !unbox
+Fri Jul 19 00:40:37 2019	The Companion Cube (STEAM_0:0:94296198): 
+Fri Jul 19 00:40:54 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /a *clap clap*
+Fri Jul 19 00:40:57 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): // *CLAP CLAP*
+Fri Jul 19 00:41:10 2019	BexGasm (STEAM_0:1:63382511): /unownalldoors
+Fri Jul 19 00:41:11 2019	UG | M A S T E R (STEAM_0:1:180622613): !unbox
+Fri Jul 19 00:41:22 2019	BexGasm (STEAM_0:1:63382511): 
+Fri Jul 19 00:41:30 2019	UG | M A S T E R (STEAM_0:1:180622613): /setmoney UG 9e+99
+Fri Jul 19 00:41:30 2019	UG | M A S T E R (STEAM_0:1:180622613) set UG | M A S T E R's money to $9e+99
+Fri Jul 19 00:41:36 2019	UG | M A S T E R (STEAM_0:1:180622613): /setmoney UG 9e+99
+Fri Jul 19 00:41:36 2019	UG | M A S T E R (STEAM_0:1:180622613) set UG | M A S T E R's money to $9e+99
+Fri Jul 19 00:41:38 2019	UG | M A S T E R (STEAM_0:1:180622613): !unbox
+Fri Jul 19 00:42:26 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /a BrUH MoMeNT
+Fri Jul 19 00:42:41 2019	The Companion Cube (STEAM_0:0:94296198): /ooc BrUH MoMeNT
+Fri Jul 19 00:42:44 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /a BrUH MoMeNT
+Fri Jul 19 00:42:45 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /a BrUH MoMeNT
+Fri Jul 19 00:42:46 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /a BrUH MoMeNT
+Fri Jul 19 00:43:33 2019	BexGasm (STEAM_0:1:63382511): !ungod becx
+Fri Jul 19 00:43:35 2019	BexGasm (STEAM_0:1:63382511): !ungod bex
+Fri Jul 19 00:43:40 2019	UG | M A S T E R (STEAM_0:1:180622613): !unbox
+Fri Jul 19 00:44:09 2019	The Companion Cube (STEAM_0:0:94296198) spawned Vehicle prop_vehicle_jeep (mitsu_evoxtdm)
+Fri Jul 19 00:44:15 2019	UG | M A S T E R (STEAM_0:1:180622613): !unbox
+Fri Jul 19 00:45:53 2019	Blumbing was killed by BexGasm with a fas2_galil
+Fri Jul 19 00:45:55 2019	Blumbing (STEAM_0:1:152356796) spawned
+Fri Jul 19 00:47:43 2019	Blumbing (STEAM_0:1:152356796): !unbox
+Fri Jul 19 00:47:48 2019	BexGasm was killed by (͠≖ ͜ʖ͠≖) (DC) with a fas2_ots33
+Fri Jul 19 00:47:51 2019	BexGasm (STEAM_0:1:63382511) spawned
+Fri Jul 19 00:48:55 2019	UG | M A S T E R (STEAM_0:1:180622613): sure....
+Fri Jul 19 00:49:07 2019	The Companion Cube (STEAM_0:0:94296198) spawned Vehicle prop_vehicle_jeep (mitsu_evoxtdm)
+Fri Jul 19 00:49:09 2019	BexGasm was killed by UG | M A S T E R with a fas2_ks23
+Fri Jul 19 00:49:13 2019	BexGasm (STEAM_0:1:63382511) spawned
+Fri Jul 19 00:49:19 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Fri Jul 19 00:49:30 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): !unbox
+Fri Jul 19 00:49:34 2019	UG | M A S T E R (STEAM_0:1:180622613): So he shot Blumbing
+Fri Jul 19 00:49:43 2019	UG | M A S T E R (STEAM_0:1:180622613): not rdm
+Fri Jul 19 00:49:56 2019	UG | M A S T E R (STEAM_0:1:180622613): follow me
+Fri Jul 19 00:50:10 2019	UG | M A S T E R (STEAM_0:1:180622613): this is
+Fri Jul 19 00:50:13 2019	UG | M A S T E R (STEAM_0:1:180622613): Mr.HaX
+Fri Jul 19 00:50:16 2019	BexGasm (STEAM_0:1:63382511): !unbox
+Fri Jul 19 00:50:18 2019	UG | M A S T E R (STEAM_0:1:180622613): Hax
+Fri Jul 19 00:50:19 2019	BexGasm (STEAM_0:1:63382511): !unbox
+Fri Jul 19 00:50:35 2019	UG | M A S T E R (STEAM_0:1:180622613): He played gmod all the time
+Fri Jul 19 00:50:36 2019	The Companion Cube (STEAM_0:0:94296198) spawned Vehicle prop_vehicle_jeep (mitsu_evoxtdm)
+Fri Jul 19 00:50:57 2019	UG | M A S T E R (STEAM_0:1:180622613): wanna know what 15 years on gmod looks like
+Fri Jul 19 00:51:32 2019	BexGasm (STEAM_0:1:63382511): !unbox
+Fri Jul 19 00:51:33 2019	UG | M A S T E R (STEAM_0:1:180622613): he's a boat
+Fri Jul 19 00:51:39 2019	UG | M A S T E R (STEAM_0:1:180622613): so
+Fri Jul 19 00:51:40 2019	UG | M A S T E R (STEAM_0:1:180622613): he
+Fri Jul 19 00:51:41 2019	UG | M A S T E R (STEAM_0:1:180622613): can
+Fri Jul 19 00:51:42 2019	UG | M A S T E R (STEAM_0:1:180622613): now
+Fri Jul 19 00:51:43 2019	UG | M A S T E R (STEAM_0:1:180622613): suck
+Fri Jul 19 00:51:44 2019	UG | M A S T E R (STEAM_0:1:180622613): his
+Fri Jul 19 00:51:46 2019	UG | M A S T E R (STEAM_0:1:180622613): own
+Fri Jul 19 00:51:47 2019	UG | M A S T E R (STEAM_0:1:180622613): dick
+Fri Jul 19 00:52:20 2019	BexGasm (STEAM_0:1:63382511): !menu
+Fri Jul 19 00:52:22 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): !unbox
+Fri Jul 19 00:52:23 2019	BexGasm (STEAM_0:1:63382511): !unbox
+Fri Jul 19 00:53:02 2019	UG | M A S T E R (STEAM_0:1:180622613): what?
+Fri Jul 19 00:53:09 2019	UG | M A S T E R (STEAM_0:1:180622613): wtf is that?
+Fri Jul 19 00:53:09 2019	BexGasm (STEAM_0:1:63382511): !motd
+Fri Jul 19 00:53:11 2019	Blumbing (STEAM_0:1:152356796) disconnected
+Fri Jul 19 00:53:16 2019	UG | M A S T E R (STEAM_0:1:180622613): !unbox
+Fri Jul 19 00:53:19 2019	BexGasm (STEAM_0:1:63382511): !motd
+Fri Jul 19 00:53:27 2019	UG | M A S T E R (STEAM_0:1:180622613): fuck
+Fri Jul 19 00:53:30 2019	UG | M A S T E R (STEAM_0:1:180622613): it's overpowered
+Fri Jul 19 00:53:48 2019	UG | M A S T E R (STEAM_0:1:180622613): Can you buy it?
+Fri Jul 19 00:55:08 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Fri Jul 19 00:55:52 2019	UG | M A S T E R (STEAM_0:1:180622613): /pm (DC You've been infected with the t-virus
+Fri Jul 19 00:55:58 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /a no
+Fri Jul 19 00:55:58 2019	UG | M A S T E R (STEAM_0:1:180622613): gg
+Fri Jul 19 00:56:13 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /a i need a cure
+Fri Jul 19 00:56:16 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /a NOW
+Fri Jul 19 00:56:21 2019	UG | M A S T E R (STEAM_0:1:180622613): /pm (DC) Suck on others, to infect them. To win!
+Fri Jul 19 00:57:15 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Fri Jul 19 00:57:26 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Fri Jul 19 00:57:45 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /pm UG i sucked him so hard
+Fri Jul 19 00:58:17 2019	UG | M A S T E R (STEAM_0:1:180622613): /pm bex turn around
+Fri Jul 19 00:58:34 2019	BexGasm (STEAM_0:1:63382511): /pm ug Ug, what do  you need.
+Fri Jul 19 00:59:34 2019	The Companion Cube (STEAM_0:0:94296198) disconnected
+Fri Jul 19 00:59:48 2019	UG | M A S T E R (STEAM_0:1:180622613): /pm Bex You've been infected with the t-virus.
+Fri Jul 19 00:59:49 2019	BexGasm (STEAM_0:1:63382511) disconnected
+Fri Jul 19 00:59:53 2019	UG | M A S T E R (STEAM_0:1:180622613): /pm Bex 
+Fri Jul 19 01:00:08 2019	UG | M A S T E R (STEAM_0:1:180622613): Defend you'r home
+Fri Jul 19 01:00:19 2019	UG | M A S T E R (STEAM_0:1:180622613): /y you'r only chance of surviving 
+Fri Jul 19 01:00:27 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Fri Jul 19 01:00:35 2019	UG | M A S T E R (STEAM_0:1:180622613): inside
+Fri Jul 19 01:00:40 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): Y
+Fri Jul 19 01:00:44 2019	UG | M A S T E R (STEAM_0:1:180622613): Infect him
+Fri Jul 19 01:01:01 2019	UG | M A S T E R (STEAM_0:1:180622613): Don't advert
+Fri Jul 19 01:01:05 2019	UG | M A S T E R (STEAM_0:1:180622613): you'r a zombie
+Fri Jul 19 01:01:08 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) has joined the game
+Fri Jul 19 01:01:08 2019	BexGasm (STEAM_0:1:63382511) spawned
+Fri Jul 19 01:01:33 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT edit_fog
+Fri Jul 19 01:01:36 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT edit_sky
+Fri Jul 19 01:01:40 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT edit_sky
+Fri Jul 19 01:02:23 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /pm ug where are u
+Fri Jul 19 01:02:27 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /a where are u
+Fri Jul 19 01:02:30 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT edit_fog
+Fri Jul 19 01:03:14 2019	UG | M A S T E R (STEAM_0:1:180622613): /pm Li You've been infected with the t-virus. Infect others to win.
+Fri Jul 19 01:03:15 2019	The Companion Cube (STEAM_0:0:94296198) has joined the game
+Fri Jul 19 01:03:15 2019	The Companion Cube (STEAM_0:0:94296198) spawned
+Fri Jul 19 01:03:38 2019	The Companion Cube (STEAM_0:0:94296198): !warn
+Fri Jul 19 01:03:59 2019	UG | M A S T E R (STEAM_0:1:180622613): night fall is coming
+Fri Jul 19 01:04:20 2019	BexGasm (STEAM_0:1:63382511): // ug stop
+Fri Jul 19 01:04:24 2019	UG | M A S T E R (STEAM_0:1:180622613): spooky
+Fri Jul 19 01:04:30 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /a BrUH MoMeNT
+Fri Jul 19 01:04:31 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /a BrUH MoMeNT
+Fri Jul 19 01:04:46 2019	The Companion Cube (STEAM_0:0:94296198): /ooc BRuH MoMeNT
+Fri Jul 19 01:04:50 2019	The Companion Cube (STEAM_0:0:94296198): /ooc BRuH MoMeNT
+Fri Jul 19 01:05:04 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /a cOpY CAt
+Fri Jul 19 01:05:13 2019	The Companion Cube (STEAM_0:0:94296198): /A NoU
+Fri Jul 19 01:05:38 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /a uno reverse card
+Fri Jul 19 01:05:45 2019	BexGasm (STEAM_0:1:63382511): 
+Fri Jul 19 01:05:52 2019	The Companion Cube (STEAM_0:0:94296198): /A The N Word
+Fri Jul 19 01:05:55 2019	BexGasm (STEAM_0:1:63382511): 
+Fri Jul 19 01:06:06 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /a your proabobly white so shut up
+Fri Jul 19 01:06:10 2019	The Companion Cube (STEAM_0:0:94296198): /a No u
+Fri Jul 19 01:06:18 2019	BexGasm (STEAM_0:1:63382511) spawned Vehicle prop_vehicle_jeep (cit_2cvtdm)
+Fri Jul 19 01:06:18 2019	BexGasm (STEAM_0:1:63382511) spawned Vehicle prop_vehicle_jeep (cit_2cvtdm)
+Fri Jul 19 01:06:18 2019	BexGasm (STEAM_0:1:63382511) spawned Vehicle prop_vehicle_jeep (cit_2cvtdm)
+Fri Jul 19 01:06:44 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): //Admin?
+Fri Jul 19 01:06:56 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): // Admin?
+Fri Jul 19 01:07:02 2019	BexGasm (STEAM_0:1:63382511): // what
+Fri Jul 19 01:07:14 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): // why the lights off lmao
+Fri Jul 19 01:07:28 2019	BexGasm (STEAM_0:1:63382511): // because ug's messing with things he doesnt need to be messing with.
+Fri Jul 19 01:07:28 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /a who turned of the lights
+Fri Jul 19 01:07:42 2019	UG | M A S T E R (STEAM_0:1:180622613): yes
+Fri Jul 19 01:07:51 2019	UG | M A S T E R (STEAM_0:1:180622613): you can infect them now
+Fri Jul 19 01:08:05 2019	UG | M A S T E R (STEAM_0:1:180622613): /setmoney uG 1
+Fri Jul 19 01:08:05 2019	UG | M A S T E R (STEAM_0:1:180622613) set UG | M A S T E R's money to $1
+Fri Jul 19 01:08:39 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): 
+Fri Jul 19 01:08:40 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /a anybody willing to have me suck them off
+Fri Jul 19 01:08:56 2019	BexGasm (STEAM_0:1:63382511): !goto ug
+Fri Jul 19 01:08:59 2019	BexGasm (STEAM_0:1:63382511): !bring ug
+Fri Jul 19 01:09:01 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /a no homo of course
+Fri Jul 19 01:09:02 2019	BexGasm (STEAM_0:1:63382511): !goto ug
+Fri Jul 19 01:09:11 2019	BexGasm (STEAM_0:1:63382511): /pm ug dude, turn off the darkness.
+Fri Jul 19 01:09:22 2019	BexGasm (STEAM_0:1:63382511) spawned SENT edit_fog
+Fri Jul 19 01:09:32 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): // now you got my interested
+Fri Jul 19 01:09:54 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /a i already sucked you off
+Fri Jul 19 01:10:04 2019	BexGasm (STEAM_0:1:63382511): // the car menu doesnt seem to be working and the server seems kinda dead, im gonna get off.
+Fri Jul 19 01:10:07 2019	BexGasm (STEAM_0:1:63382511) disconnected
+Fri Jul 19 01:10:14 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /a ight see ya
+Fri Jul 19 01:10:19 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): // bye
+Fri Jul 19 01:11:56 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /a uh i got him
+Fri Jul 19 01:12:00 2019	The Companion Cube (STEAM_0:0:94296198): /ooc BRuH MoMeNT
+Fri Jul 19 01:12:21 2019	UG | M A S T E R (STEAM_0:1:180622613): /sellalldoors
+Fri Jul 19 01:12:28 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /a what do i win
+Fri Jul 19 01:12:28 2019	UG | M A S T E R (STEAM_0:1:180622613): /pm (DC) Who
+Fri Jul 19 01:13:05 2019	UG | M A S T E R (STEAM_0:1:180622613): /pm the You've been infected with the t-virus. Infect other people to win.
+Fri Jul 19 01:15:06 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Fri Jul 19 01:15:31 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): could you end me back please
+Fri Jul 19 01:15:50 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /drop
+Fri Jul 19 01:15:50 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): ye
+Fri Jul 19 01:16:04 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): // could you send me back
+Fri Jul 19 01:16:05 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_antlionguard
+Fri Jul 19 01:16:11 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_antlionguard
+Fri Jul 19 01:16:12 2019	The Companion Cube was killed by Himself with a suicide trick
+Fri Jul 19 01:16:14 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_antlionguard
+Fri Jul 19 01:16:16 2019	The Companion Cube (STEAM_0:0:94296198) spawned
+Fri Jul 19 01:16:28 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Fri Jul 19 01:16:36 2019	UG | M A S T E R (STEAM_0:1:180622613): would you look at that
+Fri Jul 19 01:16:38 2019	The Companion Cube (STEAM_0:0:94296198) disconnected
+Fri Jul 19 01:16:39 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_antlionguard
+Fri Jul 19 01:16:40 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_antlionguard
+Fri Jul 19 01:16:40 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_antlionguard
+Fri Jul 19 01:16:50 2019	Littl3Drumm3rBoi was killed by Himself with a suicide trick
+Fri Jul 19 01:16:52 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_zombie
+Fri Jul 19 01:16:52 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_zombie
+Fri Jul 19 01:16:52 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_zombie
+Fri Jul 19 01:16:52 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_zombie
+Fri Jul 19 01:16:52 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_zombie
+Fri Jul 19 01:16:52 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_zombie
+Fri Jul 19 01:16:52 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_zombie
+Fri Jul 19 01:16:52 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_zombie
+Fri Jul 19 01:16:52 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_zombie
+Fri Jul 19 01:16:52 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_zombie
+Fri Jul 19 01:16:52 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_zombie
+Fri Jul 19 01:16:52 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_zombie
+Fri Jul 19 01:16:52 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_zombie
+Fri Jul 19 01:16:52 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_zombie
+Fri Jul 19 01:16:53 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782) spawned
+Fri Jul 19 01:17:11 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_antlion
+Fri Jul 19 01:17:11 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_antlion
+Fri Jul 19 01:17:11 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_antlion
+Fri Jul 19 01:17:11 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_antlion
+Fri Jul 19 01:17:11 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_antlion
+Fri Jul 19 01:17:11 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_antlion
+Fri Jul 19 01:17:11 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_antlion
+Fri Jul 19 01:17:11 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_antlion
+Fri Jul 19 01:17:11 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_antlion
+Fri Jul 19 01:17:11 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_antlion
+Fri Jul 19 01:17:11 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_antlion
+Fri Jul 19 01:17:11 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_antlion
+Fri Jul 19 01:17:12 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_antlion
+Fri Jul 19 01:17:12 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_antlion
+Fri Jul 19 01:17:12 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_antlion
+Fri Jul 19 01:17:12 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_antlion
+Fri Jul 19 01:17:12 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_antlion
+Fri Jul 19 01:17:12 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_antlion
+Fri Jul 19 01:17:12 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_antlion
+Fri Jul 19 01:17:12 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_antlion
+Fri Jul 19 01:17:12 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_antlion
+Fri Jul 19 01:17:12 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_antlion
+Fri Jul 19 01:17:13 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_antlion
+Fri Jul 19 01:17:13 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_antlion
+Fri Jul 19 01:17:13 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_antlion
+Fri Jul 19 01:17:13 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_antlion
+Fri Jul 19 01:17:13 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_antlion
+Fri Jul 19 01:17:13 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_antlion
+Fri Jul 19 01:17:13 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_antlion
+Fri Jul 19 01:17:13 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_antlion
+Fri Jul 19 01:17:13 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_antlion
+Fri Jul 19 01:17:13 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_antlion
+Fri Jul 19 01:17:13 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_antlion
+Fri Jul 19 01:17:13 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_antlion
+Fri Jul 19 01:17:14 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_antlion
+Fri Jul 19 01:17:14 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_antlion
+Fri Jul 19 01:17:14 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_antlion
+Fri Jul 19 01:17:14 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_antlion
+Fri Jul 19 01:17:14 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_antlion
+Fri Jul 19 01:17:20 2019	UG | M A S T E R was killed by NPC [1328][npc_antlion] with a npc_antlion
+Fri Jul 19 01:17:23 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Fri Jul 19 01:17:23 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Fri Jul 19 01:17:35 2019	UG | M A S T E R (STEAM_0:1:180622613): // SURVIVE
+Fri Jul 19 01:17:41 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT edit_fog
+Fri Jul 19 01:18:54 2019	UG | M A S T E R (STEAM_0:1:180622613): go inside
+Fri Jul 19 01:18:58 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_zombie
+Fri Jul 19 01:18:58 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_zombie
+Fri Jul 19 01:18:58 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_zombie
+Fri Jul 19 01:18:58 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_zombie
+Fri Jul 19 01:18:59 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_zombie
+Fri Jul 19 01:18:59 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_zombie
+Fri Jul 19 01:18:59 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_zombie
+Fri Jul 19 01:18:59 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_zombie
+Fri Jul 19 01:18:59 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_zombie
+Fri Jul 19 01:18:59 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_zombie
+Fri Jul 19 01:18:59 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_zombie
+Fri Jul 19 01:18:59 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_zombie
+Fri Jul 19 01:18:59 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_zombie
+Fri Jul 19 01:18:59 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_zombie
+Fri Jul 19 01:18:59 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_zombie
+Fri Jul 19 01:18:59 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_zombie
+Fri Jul 19 01:18:59 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_zombie
+Fri Jul 19 01:18:59 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_zombie
+Fri Jul 19 01:19:00 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_zombie
+Fri Jul 19 01:19:00 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_zombie
+Fri Jul 19 01:19:00 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_zombie
+Fri Jul 19 01:19:00 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_zombie
+Fri Jul 19 01:19:00 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_zombie
+Fri Jul 19 01:19:00 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_zombie
+Fri Jul 19 01:19:00 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_zombie
+Fri Jul 19 01:19:00 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_zombie
+Fri Jul 19 01:19:00 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_zombie
+Fri Jul 19 01:19:00 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_zombie
+Fri Jul 19 01:19:00 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_zombie
+Fri Jul 19 01:19:00 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_zombie
+Fri Jul 19 01:19:00 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_zombie
+Fri Jul 19 01:19:00 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_zombie
+Fri Jul 19 01:19:00 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_zombie
+Fri Jul 19 01:19:01 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_zombie
+Fri Jul 19 01:19:01 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_zombie
+Fri Jul 19 01:19:01 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_zombie
+Fri Jul 19 01:19:01 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_zombie
+Fri Jul 19 01:19:01 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_zombie
+Fri Jul 19 01:19:01 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_zombie
+Fri Jul 19 01:19:01 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_zombie
+Fri Jul 19 01:19:01 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_zombie
+Fri Jul 19 01:19:01 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_zombie
+Fri Jul 19 01:19:01 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_zombie
+Fri Jul 19 01:19:01 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_zombie
+Fri Jul 19 01:19:01 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_zombie
+Fri Jul 19 01:19:01 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_zombie
+Fri Jul 19 01:19:01 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_zombie
+Fri Jul 19 01:19:23 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT ariechart
+Fri Jul 19 01:19:36 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Fri Jul 19 01:20:13 2019	Littl3Drumm3rBoi was killed by Himself with a suicide trick
+Fri Jul 19 01:20:16 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782) spawned
+Fri Jul 19 01:20:34 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned NPC npc_helicopter
+Fri Jul 19 01:20:50 2019	UG | M A S T E R (STEAM_0:1:180622613): !god
+Fri Jul 19 01:21:31 2019	(͠≖ ͜ʖ͠≖) (DC) was killed by NPC [75][npc_headcrab] with a npc_headcrab
+Fri Jul 19 01:21:34 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662) spawned
+Fri Jul 19 01:21:40 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /a had 1 HP XD
+Fri Jul 19 01:21:47 2019	UG | M A S T E R (STEAM_0:1:180622613): !teleport (DC)
+Fri Jul 19 01:22:19 2019	(͠≖ ͜ʖ͠≖) (DC) was killed by UG | M A S T E R with a fas2_thrown_m67
+Fri Jul 19 01:22:22 2019	UG | M A S T E R (STEAM_0:1:180622613): !teleport (DC)
+Fri Jul 19 01:22:24 2019	UG | M A S T E R (STEAM_0:1:180622613): !teleport (DC)
+Fri Jul 19 01:22:24 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662) spawned
+Fri Jul 19 01:22:25 2019	UG | M A S T E R (STEAM_0:1:180622613): !teleport (DC)
+Fri Jul 19 01:22:28 2019	UG | M A S T E R (STEAM_0:1:180622613): /drop
+Fri Jul 19 01:23:24 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /drop
+Fri Jul 19 01:24:12 2019	UG | M A S T E R (STEAM_0:1:180622613): set up camp
+Fri Jul 19 01:24:17 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Fri Jul 19 01:24:20 2019	UG | M A S T E R (STEAM_0:1:180622613): stay
+Fri Jul 19 01:24:39 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): i need to seel my 6000g of meth
+Fri Jul 19 01:25:42 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /drop
+Fri Jul 19 01:26:04 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): lmao
+Fri Jul 19 01:26:29 2019	UG | M A S T E R (STEAM_0:1:180622613): uh
+Fri Jul 19 01:26:30 2019	UG | M A S T E R (STEAM_0:1:180622613): no
+Fri Jul 19 01:26:47 2019	UG | M A S T E R (STEAM_0:1:180622613): Server is shutting down boys
+Fri Jul 19 01:26:58 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): what about my meth
+Fri Jul 19 01:27:02 2019	UG | M A S T E R (STEAM_0:1:180622613): Most likely forever
+Fri Jul 19 01:27:05 2019	Littl3Drumm3rBoi was killed by Himself with a suicide trick
+Fri Jul 19 01:27:10 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): nooooo
+Fri Jul 19 01:27:12 2019	UG | M A S T E R (STEAM_0:1:180622613): THings happened
+Fri Jul 19 01:27:14 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782) spawned
+Fri Jul 19 01:27:19 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): // no
+Fri Jul 19 01:27:22 2019	UG | M A S T E R (STEAM_0:1:180622613): Our playerbase got killed by me
+Fri Jul 19 01:27:29 2019	(͠≖ ͜ʖ͠≖) (DC) was killed by UG | M A S T E R with a fas2_g3
+Fri Jul 19 01:27:44 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662) spawned
+Fri Jul 19 01:27:44 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Fri Jul 19 01:27:49 2019	(͠≖ ͜ʖ͠≖) (DC) was killed by UG | M A S T E R with a fas2_g3
+Fri Jul 19 01:27:57 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662) disconnected
+Fri Jul 19 01:28:54 2019	UG | M A S T E R (STEAM_0:1:180622613) disconnected
+Fri Jul 19 01:29:56 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782): // help 
+Fri Jul 19 01:31:12 2019	Littl3Drumm3rBoi (STEAM_0:1:129326782) disconnected
+Fri Jul 19 10:20:28 2019	AidanFTW (STEAM_0:0:102264109) has joined the game
+Fri Jul 19 10:20:28 2019	AidanFTW (STEAM_0:0:102264109) spawned
+Fri Jul 19 10:38:57 2019	AidanFTW (STEAM_0:0:102264109): /drop
+Fri Jul 19 10:45:15 2019	AidanFTW (STEAM_0:0:102264109): 
+Fri Jul 19 11:06:52 2019	AidanFTW (STEAM_0:0:102264109) disconnected
+Fri Jul 19 11:20:58 2019	TootsieRoll101 (STEAM_0:1:449964175) has joined the game
+Fri Jul 19 11:20:58 2019	TootsieRoll101 (STEAM_0:1:449964175) spawned
+Fri Jul 19 11:26:01 2019	TootsieRoll101 (STEAM_0:1:449964175) disconnected
+Fri Jul 19 12:13:29 2019	UG | M A S T E R (STEAM_0:1:180622613) has joined the game
+Fri Jul 19 12:13:29 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Fri Jul 19 12:17:41 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT bm2_bitminer_rack
+Fri Jul 19 12:17:41 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT bm2_bitminer_server
+Fri Jul 19 12:17:42 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT bm2_bitminer_server
+Fri Jul 19 12:17:42 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT bm2_bitminer_server
+Fri Jul 19 12:17:42 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT bm2_bitminer_server
+Fri Jul 19 12:17:42 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT bm2_bitminer_server
+Fri Jul 19 12:17:43 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT bm2_bitminer_server
+Fri Jul 19 12:17:43 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT bm2_bitminer_server
+Fri Jul 19 12:17:43 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT bm2_bitminer_server
+Fri Jul 19 12:17:43 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT bm2_bitminer_server
+Fri Jul 19 12:17:43 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT bm2_bitminer_server
+Fri Jul 19 12:17:52 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT bm2_fuel
+Fri Jul 19 12:17:52 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT bm2_fuel
+Fri Jul 19 12:17:53 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT bm2_fuel
+Fri Jul 19 12:17:53 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT bm2_generator
+Fri Jul 19 12:17:57 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT bm2_power_lead
+Fri Jul 19 12:18:28 2019	UG | M A S T E R (STEAM_0:1:180622613): /setmoney UG 1
+Fri Jul 19 12:18:28 2019	UG | M A S T E R (STEAM_0:1:180622613) set UG | M A S T E R's money to $1
+Fri Jul 19 12:20:06 2019	UG | M A S T E R (STEAM_0:1:180622613): /robber
+Fri Jul 19 12:20:54 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned Vehicle prop_vehicle_jeep (alfa_stradaletdm)
+Fri Jul 19 13:26:43 2019	RICARDO (STEAM_0:1:125273257) has joined the game
+Fri Jul 19 13:26:43 2019	RICARDO (STEAM_0:1:125273257) spawned
+Fri Jul 19 13:28:39 2019	RICARDO (STEAM_0:1:125273257): !goto ug
+Fri Jul 19 13:28:43 2019	RICARDO (STEAM_0:1:125273257): !goto ug
+Fri Jul 19 13:28:48 2019	RICARDO (STEAM_0:1:125273257): !return
+Fri Jul 19 13:28:55 2019	RICARDO (STEAM_0:1:125273257) spawned SENT keypad
+Fri Jul 19 13:28:55 2019	RICARDO (STEAM_0:1:125273257) spawned SENT keypad
+Fri Jul 19 13:28:55 2019	RICARDO (STEAM_0:1:125273257) spawned SENT keypad
+Fri Jul 19 13:28:55 2019	RICARDO (STEAM_0:1:125273257) spawned SENT keypad
+Fri Jul 19 13:33:12 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Fri Jul 19 13:33:28 2019	UG | M A S T E R (STEAM_0:1:180622613): Enjoy you'r banned?
+Fri Jul 19 13:33:34 2019	UG | M A S T E R (STEAM_0:1:180622613): y?
+Fri Jul 19 13:33:54 2019	RICARDO (STEAM_0:1:125273257): // Come look at my base its fixed
+Fri Jul 19 13:34:05 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Fri Jul 19 13:35:32 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Fri Jul 19 13:35:40 2019	RICARDO was killed by UG | M A S T E R with a overpowered_minigun
+Fri Jul 19 13:35:42 2019	RICARDO (STEAM_0:1:125273257) spawned
+Fri Jul 19 13:36:00 2019	RICARDO was killed by UG | M A S T E R with a overpowered_minigun
+Fri Jul 19 13:36:04 2019	RICARDO (STEAM_0:1:125273257) spawned
+Fri Jul 19 13:43:09 2019	UG | M A S T E R (STEAM_0:1:180622613) disconnected
+Fri Jul 19 13:43:12 2019	RICARDO (STEAM_0:1:125273257) spawned Vehicle prop_vehicle_jeep (mitsu_evoxtdm)
+Fri Jul 19 13:43:45 2019	RICARDO (STEAM_0:1:125273257): // UG did you move a spawn for cars into the garage
+Fri Jul 19 13:44:55 2019	UG | M A S T E R (STEAM_0:1:180622613) has joined the game
+Fri Jul 19 13:44:55 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Fri Jul 19 13:54:52 2019	UG | M A S T E R (STEAM_0:1:180622613): /pm RIC Should I, add vfire?
+Fri Jul 19 13:55:15 2019	UG | M A S T E R (STEAM_0:1:180622613): /pm Ric Should I add a fire system from gmodstore?
+Fri Jul 19 13:55:29 2019	UG | M A S T E R (STEAM_0:1:180622613): maybe
+Fri Jul 19 13:55:35 2019	UG | M A S T E R (STEAM_0:1:180622613): I have a medic mod as well.
+Fri Jul 19 13:56:04 2019	RICARDO was killed by UG | M A S T E R with a m9k_honeybadger
+Fri Jul 19 13:56:07 2019	RICARDO (STEAM_0:1:125273257) spawned
+Fri Jul 19 13:56:09 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Fri Jul 19 13:56:12 2019	UG | M A S T E R (STEAM_0:1:180622613): 

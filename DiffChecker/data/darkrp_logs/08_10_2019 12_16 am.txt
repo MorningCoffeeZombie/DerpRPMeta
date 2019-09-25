@@ -1,0 +1,6 @@
+Sat Aug 10 00:16:35 2019	DrDerpenstein sups.gg (STEAM_0:0:13562763) has joined the game
+Sat Aug 10 00:16:35 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Sat Aug 10 00:18:23 2019	DrDerpenstein (STEAM_0:0:13562763) disconnected
+Sat Aug 10 00:19:01 2019	DrDerpenstein sups.gg (STEAM_0:0:13562763) has joined the game
+Sat Aug 10 00:19:01 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Sat Aug 10 00:19:20 2019	DrDerpenstein (STEAM_0:0:13562763) disconnected

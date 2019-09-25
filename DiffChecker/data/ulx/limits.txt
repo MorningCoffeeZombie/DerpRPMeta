@@ -1,0 +1,1 @@
+{"vehicle":{"owner":999999999999.0,"dio":999.0,"superadmin":999.0},"prop":{"owner":241211.0},"npc":{"owner":999999999999.0},"sent":{"owner":999999999999.0},"effect":{"owner":999999999999.0},"ragdoll":{"owner":999999999999.0}}

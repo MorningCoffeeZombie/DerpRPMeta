@@ -1,0 +1,949 @@
+Tue Aug  6 23:32:16 2019	Derp (STEAM_0:0:52504530) has joined the game
+Tue Aug  6 23:32:16 2019	William (STEAM_0:0:52504530) spawned
+Tue Aug  6 23:32:19 2019	DrDerpenstein sups.gg (STEAM_0:0:13562763) has joined the game
+Tue Aug  6 23:32:19 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Tue Aug  6 23:32:56 2019	DrDerpenstein (STEAM_0:0:13562763) disconnected
+Tue Aug  6 23:36:23 2019	DrDerpenstein sups.gg (STEAM_0:0:13562763) has joined the game
+Tue Aug  6 23:36:23 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Tue Aug  6 23:37:13 2019	DrDerpenstein (STEAM_0:0:13562763): // DEATH ON JOB CHANGE!! YEET
+Tue Aug  6 23:37:13 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Tue Aug  6 23:37:27 2019	DrDerpenstein (STEAM_0:0:13562763): wtf
+Tue Aug  6 23:37:28 2019	William (STEAM_0:0:52504530): god damn
+Tue Aug  6 23:37:45 2019	William (STEAM_0:0:52504530): uhhhhh
+Tue Aug  6 23:38:07 2019	William (STEAM_0:0:52504530): its like our shots go through it
+Tue Aug  6 23:38:22 2019	William (STEAM_0:0:52504530): yup
+Tue Aug  6 23:38:24 2019	William (STEAM_0:0:52504530): its going through
+Tue Aug  6 23:38:26 2019	DrDerpenstein (STEAM_0:0:13562763): lol wtf
+Tue Aug  6 23:38:34 2019	DrDerpenstein (STEAM_0:0:13562763): the only change was color
+Tue Aug  6 23:38:36 2019	William (STEAM_0:0:52504530): dude every time we change something we break like 5 other things
+Tue Aug  6 23:38:38 2019	William (STEAM_0:0:52504530): lol
+Tue Aug  6 23:38:48 2019	DrDerpenstein (STEAM_0:0:13562763): lol thats development for you
+Tue Aug  6 23:38:54 2019	DrDerpenstein (STEAM_0:0:13562763): this is why they call it a "stack"
+Tue Aug  6 23:39:14 2019	William (STEAM_0:0:52504530): cant wait to spend years learning c# so i can spend the rest of my youth screaming at a monitor because my code isnt working f
+Tue Aug  6 23:39:36 2019	fwop.memes (STEAM_0:1:503236195) has joined the game
+Tue Aug  6 23:39:36 2019	fwop.memes (STEAM_0:1:503236195) spawned
+Tue Aug  6 23:39:48 2019	William was killed by DrDerpenstein with a fas2_ak12
+Tue Aug  6 23:39:50 2019	William (STEAM_0:0:52504530): well good luck fixing that one
+Tue Aug  6 23:40:07 2019	William (STEAM_0:0:52504530): i think im just gonna get the other printers lol
+Tue Aug  6 23:40:22 2019	fwop.memes (STEAM_0:1:503236195): /unbox
+Tue Aug  6 23:40:24 2019	William (STEAM_0:0:52504530): we need to make the jobs file work
+Tue Aug  6 23:40:26 2019	William (STEAM_0:0:52504530): its pissing me off
+Tue Aug  6 23:40:30 2019	DrDerpenstein (STEAM_0:0:13562763): // same
+Tue Aug  6 23:40:34 2019	William (STEAM_0:0:52504530) spawned
+Tue Aug  6 23:40:46 2019	William (STEAM_0:0:52504530): wow terrible music 
+Tue Aug  6 23:40:48 2019	William (STEAM_0:0:52504530): what a surprise
+Tue Aug  6 23:41:00 2019	William (STEAM_0:0:52504530): how about u play some nirvana and ill give u superadmin
+Tue Aug  6 23:41:29 2019	DrDerpenstein (STEAM_0:0:13562763): minimizing
+Tue Aug  6 23:41:33 2019	William (STEAM_0:0:52504530): aight
+Tue Aug  6 23:45:34 2019	fwop.memes (STEAM_0:1:503236195): o its ready
+Tue Aug  6 23:46:23 2019	fwop.memes (STEAM_0:1:503236195): happy
+Tue Aug  6 23:47:39 2019	fwop.memes (STEAM_0:1:503236195): happy
+Tue Aug  6 23:48:01 2019	fwop.memes (STEAM_0:1:503236195): discord
+Tue Aug  6 23:48:09 2019	fwop.memes (STEAM_0:1:503236195): !discord
+Tue Aug  6 23:49:35 2019	DevL (STEAM_0:0:97157625) has joined the game
+Tue Aug  6 23:49:35 2019	DevL (STEAM_0:0:97157625) spawned
+Tue Aug  6 23:49:39 2019	fwop.memes (STEAM_0:1:503236195): 
+Tue Aug  6 23:50:34 2019	DevL (STEAM_0:0:97157625) spawned
+Tue Aug  6 23:53:18 2019	fwop.memes (STEAM_0:1:503236195) spawned
+Tue Aug  6 23:53:50 2019	fwop.memes (STEAM_0:1:503236195) spawned
+Tue Aug  6 23:56:48 2019	fwop.memes (STEAM_0:1:503236195): I NEED THE CONTENT PACKS FOR THE CARS
+Tue Aug  6 23:57:45 2019	DrDerpenstein (STEAM_0:0:13562763): https://steamcommunity.com/sharedfiles/filedetails/?id=1797327391
+Wed Aug  7 00:01:44 2019	DrDerpenstein was killed by fwop.memes with a fas2_rem870
+Wed Aug  7 00:01:47 2019	William was killed by fwop.memes with a fas2_rem870
+Wed Aug  7 00:01:48 2019	DevL (STEAM_0:0:97157625) spawned
+Wed Aug  7 00:02:00 2019	fwop.memes was killed by DevL with a fas2_ak12
+Wed Aug  7 00:02:02 2019	fwop.memes (STEAM_0:1:503236195) spawned
+Wed Aug  7 00:02:25 2019	fwop.memes was killed by DevL with a fas2_ak12
+Wed Aug  7 00:02:27 2019	fwop.memes (STEAM_0:1:503236195) spawned
+Wed Aug  7 00:03:10 2019	fwop.memes was killed by DevL with a fas2_ak12
+Wed Aug  7 00:03:17 2019	fwop.memes (STEAM_0:1:503236195) spawned
+Wed Aug  7 00:03:53 2019	fwop.memes was killed by DevL with a fas2_ak12
+Wed Aug  7 00:03:56 2019	fwop.memes (STEAM_0:1:503236195) spawned
+Wed Aug  7 00:04:19 2019	fwop.memes was killed by DevL with a fas2_ak12
+Wed Aug  7 00:04:22 2019	fwop.memes (STEAM_0:1:503236195) spawned
+Wed Aug  7 00:05:05 2019	DevL was killed by fwop.memes with a fas2_rem870
+Wed Aug  7 00:05:05 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Wed Aug  7 00:05:07 2019	DevL (STEAM_0:0:97157625) spawned
+Wed Aug  7 00:05:20 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Wed Aug  7 00:05:22 2019	fwop.memes was killed by DevL with a fas2_ak12
+Wed Aug  7 00:05:27 2019	fwop.memes (STEAM_0:1:503236195) spawned
+Wed Aug  7 00:05:42 2019	fwop.memes was killed by DevL with a fas2_ak12
+Wed Aug  7 00:05:44 2019	fwop.memes (STEAM_0:1:503236195) spawned
+Wed Aug  7 00:06:09 2019	fwop.memes was killed by DevL with a fas2_glock20
+Wed Aug  7 00:06:11 2019	fwop.memes (STEAM_0:1:503236195) spawned
+Wed Aug  7 00:06:22 2019	fwop.memes (STEAM_0:1:503236195): ESP?
+Wed Aug  7 00:06:40 2019	fwop.memes (STEAM_0:1:503236195) spawned
+Wed Aug  7 00:07:28 2019	DevL was killed by fwop.memes with a fas2_deagle
+Wed Aug  7 00:07:37 2019	DevL (STEAM_0:0:97157625) spawned
+Wed Aug  7 00:07:53 2019	fwop.memes was killed by DevL with a fas2_ak12
+Wed Aug  7 00:08:01 2019	fwop.memes (STEAM_0:1:503236195) spawned
+Wed Aug  7 00:08:17 2019	DevL was killed by fwop.memes with a fas2_deagle
+Wed Aug  7 00:08:19 2019	DevL (STEAM_0:0:97157625) spawned
+Wed Aug  7 00:08:22 2019	William (STEAM_0:0:52504530) spawned
+Wed Aug  7 00:08:29 2019	William (STEAM_0:0:52504530) disconnected
+Wed Aug  7 00:08:30 2019	DevL (STEAM_0:0:97157625): /pm will um fwop is invis
+Wed Aug  7 00:08:46 2019	DevL (STEAM_0:0:97157625): /pm derp um fwop is invis
+Wed Aug  7 00:08:51 2019	fwop.memes was killed by DevL with a fas2_ak12
+Wed Aug  7 00:08:55 2019	fwop.memes (STEAM_0:1:503236195) spawned
+Wed Aug  7 00:09:18 2019	fwop.memes was killed by DevL with a fas2_ak12
+Wed Aug  7 00:09:25 2019	fwop.memes (STEAM_0:1:503236195) spawned
+Wed Aug  7 00:09:47 2019	DevL was killed by fwop.memes with a fas2_deagle
+Wed Aug  7 00:09:49 2019	DevL (STEAM_0:0:97157625) spawned
+Wed Aug  7 00:09:55 2019	DrDerpenstein was killed by fwop.memes with a fas2_deagle
+Wed Aug  7 00:09:58 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Wed Aug  7 00:09:59 2019	fwop.memes was killed by DevL with a fas2_ak12
+Wed Aug  7 00:10:02 2019	fwop.memes (STEAM_0:1:503236195) spawned
+Wed Aug  7 00:11:06 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Wed Aug  7 00:11:17 2019	fwop.memes (STEAM_0:1:503236195): /pro
+Wed Aug  7 00:11:19 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Wed Aug  7 00:11:19 2019	fwop.memes (STEAM_0:1:503236195): /pro
+Wed Aug  7 00:11:47 2019	DevL (STEAM_0:0:97157625): /invholster
+Wed Aug  7 00:11:52 2019	fwop.memes (STEAM_0:1:503236195): /UMBOX
+Wed Aug  7 00:11:52 2019	DevL was killed by Himself with a suicide trick
+Wed Aug  7 00:11:56 2019	fwop.memes (STEAM_0:1:503236195): /UNBOX
+Wed Aug  7 00:11:56 2019	DevL (STEAM_0:0:97157625) spawned
+Wed Aug  7 00:12:00 2019	DevL (STEAM_0:0:97157625) disconnected
+Wed Aug  7 00:13:11 2019	fwop.memes (STEAM_0:1:503236195): /UNBOX
+Wed Aug  7 00:13:52 2019	fwop.memes (STEAM_0:1:503236195): /unownalldoors
+Wed Aug  7 00:14:25 2019	Bobbicus (STEAM_0:0:86269452) has joined the game
+Wed Aug  7 00:14:25 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Wed Aug  7 00:15:09 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Wed Aug  7 00:15:44 2019	DevL (STEAM_0:0:97157625) has joined the game
+Wed Aug  7 00:15:44 2019	DevL (STEAM_0:0:97157625) spawned
+Wed Aug  7 00:16:17 2019	DevL (STEAM_0:0:97157625) spawned
+Wed Aug  7 00:16:53 2019	DevL (STEAM_0:0:97157625): /invholster
+Wed Aug  7 00:17:21 2019	DrDerpenstein (STEAM_0:0:13562763): /drop
+Wed Aug  7 00:17:37 2019	DrDerpenstein (STEAM_0:0:13562763): /unbox
+Wed Aug  7 00:17:46 2019	DevL (STEAM_0:0:97157625): /unbox
+Wed Aug  7 00:17:52 2019	fwop.memes (STEAM_0:1:503236195): /UNBOX
+Wed Aug  7 00:17:59 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Wed Aug  7 00:18:03 2019	DevL (STEAM_0:0:97157625): /invholster
+Wed Aug  7 00:18:13 2019	DrDerpenstein (STEAM_0:0:13562763): /unbox
+Wed Aug  7 00:18:54 2019	fwop.memes was killed by DevL with a fas2_glock20
+Wed Aug  7 00:18:57 2019	fwop.memes (STEAM_0:1:503236195) spawned
+Wed Aug  7 00:19:45 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Wed Aug  7 00:19:53 2019	fwop.memes was killed by DrDerpenstein with a fas2_ots33
+Wed Aug  7 00:19:55 2019	fwop.memes (STEAM_0:1:503236195) spawned
+Wed Aug  7 00:20:00 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Wed Aug  7 00:20:34 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_healthkit
+Wed Aug  7 00:20:34 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_healthkit
+Wed Aug  7 00:20:39 2019	DrDerpenstein (STEAM_0:0:13562763): /unbox
+Wed Aug  7 00:20:43 2019	DrDerpenstein (STEAM_0:0:13562763): /unbox
+Wed Aug  7 00:20:50 2019	fwop.memes (STEAM_0:1:503236195): /unboxw
+Wed Aug  7 00:20:57 2019	DrDerpenstein (STEAM_0:0:13562763): /unbox
+Wed Aug  7 00:20:59 2019	fwop.memes (STEAM_0:1:503236195): /unbox
+Wed Aug  7 00:21:14 2019	fwop.memes (STEAM_0:1:503236195): /unbox
+Wed Aug  7 00:21:19 2019	DrDerpenstein (STEAM_0:0:13562763): /unbox
+Wed Aug  7 00:21:31 2019	fwop.memes (STEAM_0:1:503236195): /unbox
+Wed Aug  7 00:23:04 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_healthkit
+Wed Aug  7 00:23:06 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT item_healthkit
+Wed Aug  7 00:23:15 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT prop_thumper
+Wed Aug  7 00:24:01 2019	Bobbicus was killed by fwop.memes with a fas2_rem870
+Wed Aug  7 00:24:03 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Wed Aug  7 00:24:36 2019	DrDerpenstein (STEAM_0:0:13562763) disconnected
+Wed Aug  7 00:25:45 2019	Bobbicus was killed by fwop.memes with a fas2_rem870
+Wed Aug  7 00:25:49 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Wed Aug  7 00:26:02 2019	fwop.memes (STEAM_0:1:503236195): 
+Wed Aug  7 00:26:23 2019	fwop.memes (STEAM_0:1:503236195): https://www.youtube.com/watch?v=vabnZ9-ex7ohttps://www.youtube.com/watch?v=vabnZ9-ex7ohttps://www.youtube.com/watch?v=vabnZ9-e
+Wed Aug  7 00:26:31 2019	Bobbicus (STEAM_0:0:86269452): 
+Wed Aug  7 00:26:32 2019	DevL (STEAM_0:0:97157625): /drop
+Wed Aug  7 00:26:42 2019	fwop.memes (STEAM_0:1:503236195): 
+Wed Aug  7 00:26:48 2019	Bobbicus (STEAM_0:0:86269452): 
+Wed Aug  7 00:26:50 2019	fwop.memes (STEAM_0:1:503236195): 
+Wed Aug  7 00:26:53 2019	Bobbicus (STEAM_0:0:86269452): 
+Wed Aug  7 00:26:54 2019	Bobbicus was killed by fwop.memes with a fas2_rem870
+Wed Aug  7 00:27:12 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Wed Aug  7 00:30:14 2019	fwop.memes (STEAM_0:1:503236195): /unbox
+Wed Aug  7 00:31:10 2019	fwop.memes was killed by Bobbicus with a fas2_g36c
+Wed Aug  7 00:31:13 2019	fwop.memes (STEAM_0:1:503236195) spawned
+Wed Aug  7 00:31:22 2019	Bobbicus was killed by fwop.memes with a fas2_deagle
+Wed Aug  7 00:31:29 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Wed Aug  7 00:31:37 2019	Bobbicus was killed by fwop.memes with a fas2_deagle
+Wed Aug  7 00:31:40 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Wed Aug  7 00:32:04 2019	fwop.memes was killed by Bobbicus with a fas2_g36c
+Wed Aug  7 00:32:06 2019	fwop.memes (STEAM_0:1:503236195) spawned
+Wed Aug  7 00:32:30 2019	fwop.memes was killed by Bobbicus with a fas2_g36c
+Wed Aug  7 00:32:33 2019	fwop.memes (STEAM_0:1:503236195) spawned
+Wed Aug  7 00:32:53 2019	fwop.memes was killed by Bobbicus with a fas2_g36c
+Wed Aug  7 00:33:01 2019	fwop.memes (STEAM_0:1:503236195): hacks
+Wed Aug  7 00:33:01 2019	fwop.memes (STEAM_0:1:503236195) spawned
+Wed Aug  7 00:33:13 2019	DevL was killed by Himself with a suicide trick
+Wed Aug  7 00:33:15 2019	DevL (STEAM_0:0:97157625) spawned
+Wed Aug  7 00:33:23 2019	fwop.memes was killed by Bobbicus with a fas2_g36c
+Wed Aug  7 00:33:25 2019	fwop.memes (STEAM_0:1:503236195) spawned
+Wed Aug  7 00:33:31 2019	DevL was killed by Bobbicus with a fas2_g36c
+Wed Aug  7 00:33:34 2019	DevL (STEAM_0:0:97157625) spawned
+Wed Aug  7 00:33:34 2019	Bobbicus was killed by Himself with a suicide trick
+Wed Aug  7 00:33:43 2019	fwop.memes was killed by DevL with a fas2_ak12
+Wed Aug  7 00:33:45 2019	fwop.memes (STEAM_0:1:503236195) spawned
+Wed Aug  7 00:34:06 2019	fwop.memes was killed by DevL with a fas2_ak12
+Wed Aug  7 00:34:12 2019	fwop.memes (STEAM_0:1:503236195) spawned
+Wed Aug  7 00:34:37 2019	fwop.memes was killed by DevL with a fas2_ak12
+Wed Aug  7 00:35:10 2019	fwop.memes (STEAM_0:1:503236195) spawned
+Wed Aug  7 00:35:20 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Wed Aug  7 00:35:38 2019	Bobbicus was killed by Himself with a suicide trick
+Wed Aug  7 00:35:41 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Wed Aug  7 00:35:52 2019	DevL was killed by Bobbicus with a fas2_g36c
+Wed Aug  7 00:35:54 2019	DevL (STEAM_0:0:97157625) spawned
+Wed Aug  7 00:35:55 2019	Bobbicus (STEAM_0:0:86269452): /ooc wht
+Wed Aug  7 00:35:57 2019	fwop.memes (STEAM_0:1:503236195) spawned Vehicle prop_vehicle_jeep (furaitdm)
+Wed Aug  7 00:36:03 2019	Bobbicus (STEAM_0:0:86269452): /ooc how the fuck did i just one shot you
+Wed Aug  7 00:36:06 2019	fwop.memes (STEAM_0:1:503236195) spawned Vehicle prop_vehicle_jeep (furaitdm)
+Wed Aug  7 00:36:11 2019	DevL (STEAM_0:0:97157625): // i was on 17 health lol
+Wed Aug  7 00:36:15 2019	Bobbicus (STEAM_0:0:86269452): /ooc OH
+Wed Aug  7 00:36:22 2019	Bobbicus (STEAM_0:0:86269452): /OOC thought you had 100
+Wed Aug  7 00:36:30 2019	DevL was killed by Bobbicus with a fas2_g36c
+Wed Aug  7 00:36:32 2019	DevL (STEAM_0:0:97157625) spawned
+Wed Aug  7 00:36:36 2019	fwop.memes (STEAM_0:1:503236195) spawned Vehicle prop_vehicle_jeep (wrangler_fnftdm)
+Wed Aug  7 00:36:38 2019	DevL (STEAM_0:0:97157625): // lol
+Wed Aug  7 00:36:50 2019	Bobbicus (STEAM_0:0:86269452): /ooc fuckin jumped you lol
+Wed Aug  7 00:37:24 2019	fwop.memes (STEAM_0:1:503236195) spawned Vehicle prop_vehicle_jeep (jag_ftypetdm)
+Wed Aug  7 00:37:33 2019	Bobbicus was killed by DevL with a fas2_ak12
+Wed Aug  7 00:37:36 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Wed Aug  7 00:37:47 2019	DevL was killed by Bobbicus with a fas2_g36c
+Wed Aug  7 00:37:49 2019	DevL (STEAM_0:0:97157625) spawned
+Wed Aug  7 00:37:51 2019	Bobbicus (STEAM_0:0:86269452): /ooc gotem
+Wed Aug  7 00:37:55 2019	fwop.memes was killed by Bobbicus with a fas2_g36c
+Wed Aug  7 00:37:58 2019	fwop.memes (STEAM_0:1:503236195) spawned
+Wed Aug  7 00:37:59 2019	Bobbicus (STEAM_0:0:86269452): /ooc oh
+Wed Aug  7 00:38:00 2019	DevL (STEAM_0:0:97157625): /invholster
+Wed Aug  7 00:38:03 2019	Bobbicus (STEAM_0:0:86269452): /ooc ok then
+Wed Aug  7 00:38:04 2019	DevL (STEAM_0:0:97157625): /invholster
+Wed Aug  7 00:38:07 2019	DevL (STEAM_0:0:97157625): /invholster
+Wed Aug  7 00:38:10 2019	Bobbicus (STEAM_0:0:86269452): /ooc hp?
+Wed Aug  7 00:38:43 2019	DevL (STEAM_0:0:97157625): /invholster
+Wed Aug  7 00:38:50 2019	DevL was killed by Bobbicus with a fas2_g36c
+Wed Aug  7 00:38:52 2019	DevL (STEAM_0:0:97157625) spawned
+Wed Aug  7 00:38:54 2019	fwop.memes was killed by Bobbicus with a fas2_g36c
+Wed Aug  7 00:39:06 2019	fwop.memes (STEAM_0:1:503236195) disconnected
+Wed Aug  7 00:39:09 2019	DevL was killed by Bobbicus with a fas2_g36c
+Wed Aug  7 00:39:11 2019	DevL (STEAM_0:0:97157625) spawned
+Wed Aug  7 00:39:23 2019	Bobbicus was killed by DevL with a fas2_ak12
+Wed Aug  7 00:39:26 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Wed Aug  7 00:39:38 2019	DevL (STEAM_0:0:97157625): // lol he rage quit
+Wed Aug  7 00:39:51 2019	Bobbicus (STEAM_0:0:86269452): /ooc lol
+Wed Aug  7 00:39:55 2019	Bobbicus was killed by DevL with a fas2_ak12
+Wed Aug  7 00:39:59 2019	Bobbicus (STEAM_0:0:86269452):  /ooc damn
+Wed Aug  7 00:39:59 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Wed Aug  7 00:40:04 2019	Bobbicus (STEAM_0:0:86269452): //ooc damn
+Wed Aug  7 00:40:10 2019	Bobbicus (STEAM_0:0:86269452): /ooc damna
+Wed Aug  7 00:40:25 2019	DevL was killed by Bobbicus with a fas2_g36c
+Wed Aug  7 00:40:27 2019	DevL (STEAM_0:0:97157625) spawned
+Wed Aug  7 00:40:30 2019	fwop.memes (STEAM_0:1:503236195) has joined the game
+Wed Aug  7 00:40:30 2019	fwop.memes (STEAM_0:1:503236195) spawned
+Wed Aug  7 00:40:37 2019	DevL (STEAM_0:0:97157625): /invholster
+Wed Aug  7 00:40:52 2019	DevL was killed by Bobbicus with a fas2_g36c
+Wed Aug  7 00:40:54 2019	DevL (STEAM_0:0:97157625) spawned
+Wed Aug  7 00:41:05 2019	DevL (STEAM_0:0:97157625): /invholster
+Wed Aug  7 00:41:29 2019	fwop.memes (STEAM_0:1:503236195): /pro
+Wed Aug  7 00:41:38 2019	fwop.memes (STEAM_0:1:503236195) spawned
+Wed Aug  7 00:42:10 2019	DevL (STEAM_0:0:97157625): /invholster
+Wed Aug  7 00:42:29 2019	DevL (STEAM_0:0:97157625): 
+Wed Aug  7 00:42:40 2019	Bobbicus (STEAM_0:0:86269452): 
+Wed Aug  7 00:42:42 2019	DevL (STEAM_0:0:97157625): 
+Wed Aug  7 00:42:44 2019	DevL (STEAM_0:0:97157625): 
+Wed Aug  7 00:42:45 2019	DevL (STEAM_0:0:97157625): 
+Wed Aug  7 00:43:19 2019	DevL (STEAM_0:0:97157625): /invholster
+Wed Aug  7 00:43:20 2019	DevL was killed by fwop.memes with a fas2_rem870
+Wed Aug  7 00:43:31 2019	DevL (STEAM_0:0:97157625) spawned
+Wed Aug  7 00:44:07 2019	DevL was killed by Bobbicus with a fas2_g36c
+Wed Aug  7 00:44:08 2019	fwop.memes was killed by Bobbicus with a fas2_g36c
+Wed Aug  7 00:44:10 2019	DevL (STEAM_0:0:97157625) spawned
+Wed Aug  7 00:44:15 2019	fwop.memes (STEAM_0:1:503236195) spawned
+Wed Aug  7 00:44:39 2019	DevL (STEAM_0:0:97157625): /invholster
+Wed Aug  7 00:44:42 2019	DevL was killed by fwop.memes with a fas2_ks23
+Wed Aug  7 00:44:44 2019	DevL (STEAM_0:0:97157625) spawned
+Wed Aug  7 00:44:55 2019	fwop.memes (STEAM_0:1:503236195): afk
+Wed Aug  7 00:47:18 2019	Bobbicus was killed by DevL with a fas2_ak12
+Wed Aug  7 00:47:20 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Wed Aug  7 00:47:57 2019	Bobbicus was killed by DevL with a fas2_ak12
+Wed Aug  7 00:47:59 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Wed Aug  7 00:48:01 2019	Bastixx (STEAM_0:1:91231746) has joined the game
+Wed Aug  7 00:48:01 2019	Bastixx (STEAM_0:1:91231746) spawned
+Wed Aug  7 00:48:13 2019	fwop.memes was killed by Bobbicus with a rj_molotov_hull
+Wed Aug  7 00:48:23 2019	DevL was killed by Bobbicus with a rj_molotov_hull
+Wed Aug  7 00:48:25 2019	DevL (STEAM_0:0:97157625) spawned
+Wed Aug  7 00:48:30 2019	Bobbicus was killed by Himself with a suicide trick
+Wed Aug  7 00:48:34 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Wed Aug  7 00:48:46 2019	Bastixx (STEAM_0:1:91231746) disconnected
+Wed Aug  7 00:50:46 2019	DevL (STEAM_0:0:97157625): // you guys should add slot machines at some point
+Wed Aug  7 00:50:56 2019	Bobbicus (STEAM_0:0:86269452): /ooc thatd be cool
+Wed Aug  7 00:50:59 2019	DevL (STEAM_0:0:97157625): Y
+Wed Aug  7 00:51:03 2019	Bobbicus (STEAM_0:0:86269452): /ooc actually i think we already have em
+Wed Aug  7 00:51:05 2019	Bobbicus (STEAM_0:0:86269452): /casinos
+Wed Aug  7 00:51:10 2019	Bobbicus (STEAM_0:0:86269452): 
+Wed Aug  7 00:51:15 2019	Bastixx (STEAM_0:1:91231746) has joined the game
+Wed Aug  7 00:51:15 2019	Bastixx (STEAM_0:1:91231746) spawned
+Wed Aug  7 00:51:17 2019	Bobbicus (STEAM_0:0:86269452): /ooc yea we got em
+Wed Aug  7 00:51:23 2019	Bobbicus (STEAM_0:0:86269452): /ooc type /casino
+Wed Aug  7 00:51:28 2019	DevL (STEAM_0:0:97157625): /casino\
+Wed Aug  7 00:51:32 2019	DevL (STEAM_0:0:97157625): // ooooo
+Wed Aug  7 00:51:35 2019	DevL (STEAM_0:0:97157625): 
+Wed Aug  7 00:51:39 2019	Bobbicus (STEAM_0:0:86269452): /ooc lotta nice shit in there
+Wed Aug  7 00:51:57 2019	DevL (STEAM_0:0:97157625): // someone join my bj
+Wed Aug  7 00:51:57 2019	Bastixx (STEAM_0:1:91231746): 
+Wed Aug  7 00:51:59 2019	DevL (STEAM_0:0:97157625): 
+Wed Aug  7 00:52:17 2019	Bobbicus (STEAM_0:0:86269452): /ooc hell nah, i dont wanna join no blowjob
+Wed Aug  7 00:52:22 2019	Bobbicus (STEAM_0:0:86269452): 
+Wed Aug  7 00:53:27 2019	Bobbicus (STEAM_0:0:86269452): /ooc try out crash
+Wed Aug  7 00:53:33 2019	Bobbicus (STEAM_0:0:86269452): /ooc that ones my favourite
+Wed Aug  7 00:53:38 2019	Bobbicus (STEAM_0:0:86269452): 
+Wed Aug  7 00:53:41 2019	fwop.memes (STEAM_0:1:503236195) spawned
+Wed Aug  7 00:54:02 2019	fwop.memes (STEAM_0:1:503236195): 
+Wed Aug  7 00:57:38 2019	Bastixx (STEAM_0:1:91231746): 
+Wed Aug  7 00:57:59 2019	Bastixx (STEAM_0:1:91231746) spawned
+Wed Aug  7 00:58:11 2019	Bastixx (STEAM_0:1:91231746): 
+Wed Aug  7 00:59:00 2019	fwop.memes (STEAM_0:1:503236195) spawned Vehicle prop_vehicle_jeep (sl65amgtdm)
+Wed Aug  7 00:59:09 2019	fwop.memes (STEAM_0:1:503236195): 
+Wed Aug  7 00:59:48 2019	Bobbicus was killed by Himself with a suicide trick
+Wed Aug  7 00:59:50 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Wed Aug  7 01:00:01 2019	Bobbicus (STEAM_0:0:86269452): 
+Wed Aug  7 01:00:23 2019	Bastixx (STEAM_0:1:91231746): 
+Wed Aug  7 01:00:44 2019	DevL (STEAM_0:0:97157625): 
+Wed Aug  7 01:01:28 2019	Bastixx (STEAM_0:1:91231746): // bobbicus is a cutie
+Wed Aug  7 01:01:29 2019	Bastixx was killed by fwop.memes with a fas2_ks23
+Wed Aug  7 01:01:31 2019	Bastixx (STEAM_0:1:91231746) spawned
+Wed Aug  7 01:01:45 2019	DevL (STEAM_0:0:97157625): // ^
+Wed Aug  7 01:01:50 2019	DevL (STEAM_0:0:97157625): 
+Wed Aug  7 01:01:57 2019	Bobbicus (STEAM_0:0:86269452): /ooc aww, thanks B U T I T A I N T T R U E
+Wed Aug  7 01:02:04 2019	Bobbicus (STEAM_0:0:86269452): 
+Wed Aug  7 01:02:06 2019	Bastixx (STEAM_0:1:91231746): // it is
+Wed Aug  7 01:02:27 2019	fwop.memes was killed by Bastixx with a fas2_ak12
+Wed Aug  7 01:02:38 2019	fwop.memes (STEAM_0:1:503236195) spawned
+Wed Aug  7 01:02:59 2019	fwop.memes (STEAM_0:1:503236195): no
+Wed Aug  7 01:03:00 2019	Bobbicus (STEAM_0:0:86269452): /ooc yknow, im gonna take the complement, for once
+Wed Aug  7 01:03:07 2019	Bastixx (STEAM_0:1:91231746): // <3 thx
+Wed Aug  7 01:03:16 2019	Bobbicus (STEAM_0:0:86269452): /ooc just this one time tho
+Wed Aug  7 01:03:18 2019	Bastixx (STEAM_0:1:91231746): // you get raided so you remove all props?
+Wed Aug  7 01:03:22 2019	fwop.memes (STEAM_0:1:503236195): you are cute so 3>
+Wed Aug  7 01:03:34 2019	Bastixx (STEAM_0:1:91231746): // bad lol
+Wed Aug  7 01:03:36 2019	fwop.memes (STEAM_0:1:503236195): never knew u was raiding sorry
+Wed Aug  7 01:03:39 2019	Bobbicus (STEAM_0:0:86269452): /ooc who got raided?
+Wed Aug  7 01:03:43 2019	Bastixx (STEAM_0:1:91231746): // fwop
+Wed Aug  7 01:03:44 2019	DevL (STEAM_0:0:97157625): // fwop
+Wed Aug  7 01:03:47 2019	fwop.memes (STEAM_0:1:503236195): /unownalldoors
+Wed Aug  7 01:03:52 2019	Bobbicus (STEAM_0:0:86269452): /ooc well, who else did i expect?
+Wed Aug  7 01:03:53 2019	Bastixx (STEAM_0:1:91231746): // had a shotgun at close range
+Wed Aug  7 01:03:59 2019	Bastixx (STEAM_0:1:91231746): // and the jump on me
+Wed Aug  7 01:03:59 2019	fwop.memes (STEAM_0:1:503236195): i did not have nun so
+Wed Aug  7 01:04:01 2019	Bastixx (STEAM_0:1:91231746): // still missed
+Wed Aug  7 01:04:03 2019	DevL was killed by Bobbicus with a fas2_g36c
+Wed Aug  7 01:04:05 2019	DevL (STEAM_0:0:97157625) spawned
+Wed Aug  7 01:04:07 2019	Bastixx (STEAM_0:1:91231746): 
+Wed Aug  7 01:04:08 2019	Bobbicus (STEAM_0:0:86269452): /ooc yikes
+Wed Aug  7 01:04:12 2019	Bobbicus (STEAM_0:0:86269452): /ooc mega yike
+Wed Aug  7 01:04:19 2019	fwop.memes (STEAM_0:1:503236195): no long its a snipe shot and it was given
+Wed Aug  7 01:04:31 2019	fwop.memes was killed by Bobbicus with a fas2_glock20
+Wed Aug  7 01:04:34 2019	fwop.memes (STEAM_0:1:503236195) spawned
+Wed Aug  7 01:04:54 2019	fwop.memes was killed by Bobbicus with a fas2_g36c
+Wed Aug  7 01:04:56 2019	fwop.memes (STEAM_0:1:503236195) spawned
+Wed Aug  7 01:05:13 2019	fwop.memes was killed by Bobbicus with a fas2_glock20
+Wed Aug  7 01:05:15 2019	fwop.memes (STEAM_0:1:503236195) spawned
+Wed Aug  7 01:05:16 2019	Bobbicus was killed by Bastixx with a fas2_ak12
+Wed Aug  7 01:05:19 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Wed Aug  7 01:05:52 2019	Bastixx was killed by Bobbicus with a fas2_g36c
+Wed Aug  7 01:05:54 2019	Bastixx (STEAM_0:1:91231746) spawned
+Wed Aug  7 01:06:05 2019	DevL (STEAM_0:0:97157625): 
+Wed Aug  7 01:06:06 2019	fwop.memes was killed by Bastixx with a fas2_ak12
+Wed Aug  7 01:06:09 2019	fwop.memes (STEAM_0:1:503236195) spawned
+Wed Aug  7 01:06:11 2019	Bobbicus was killed by Bastixx with a fas2_ak12
+Wed Aug  7 01:06:13 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Wed Aug  7 01:06:16 2019	fwop.memes (STEAM_0:1:503236195): yikes youyr bad
+Wed Aug  7 01:06:36 2019	Bastixx was killed by fwop.memes with a fas2_m4a1
+Wed Aug  7 01:06:38 2019	Bastixx (STEAM_0:1:91231746) spawned
+Wed Aug  7 01:06:41 2019	fwop.memes was killed by Bobbicus with a fas2_g36c
+Wed Aug  7 01:06:53 2019	Bastixx was killed by Bobbicus with a fas2_g36c
+Wed Aug  7 01:06:57 2019	Bastixx (STEAM_0:1:91231746): // fwop is so bad
+Wed Aug  7 01:06:58 2019	Bastixx (STEAM_0:1:91231746): // lol
+Wed Aug  7 01:06:59 2019	Bastixx (STEAM_0:1:91231746) spawned
+Wed Aug  7 01:07:02 2019	Bobbicus (STEAM_0:0:86269452): /ooc lol
+Wed Aug  7 01:07:09 2019	fwop.memes (STEAM_0:1:503236195): why your dead
+Wed Aug  7 01:07:15 2019	Bobbicus (STEAM_0:0:86269452): /ooc i shot him
+Wed Aug  7 01:07:16 2019	Bobbicus was killed by Bastixx with a fas2_ak12
+Wed Aug  7 01:07:18 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Wed Aug  7 01:07:45 2019	fwop.memes (STEAM_0:1:503236195): /swat
+Wed Aug  7 01:07:50 2019	Bobbicus was killed by Bastixx with a fas2_ak12
+Wed Aug  7 01:07:52 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Wed Aug  7 01:07:54 2019	fwop.memes (STEAM_0:1:503236195) spawned
+Wed Aug  7 01:08:01 2019	Bastixx was killed by Himself with a suicide trick
+Wed Aug  7 01:08:03 2019	Bastixx (STEAM_0:1:91231746) spawned
+Wed Aug  7 01:08:09 2019	fwop.memes (STEAM_0:1:503236195) spawned
+Wed Aug  7 01:08:19 2019	Bobbicus was killed by Bastixx with a fas2_ak12
+Wed Aug  7 01:08:22 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Wed Aug  7 01:08:44 2019	Bobbicus (STEAM_0:0:86269452) spawned Vehicle prop_vehicle_jeep (mitsuevoxpoltdm)
+Wed Aug  7 01:08:51 2019	DevL (STEAM_0:0:97157625): /invholster
+Wed Aug  7 01:08:52 2019	DevL was killed by Himself with a suicide trick
+Wed Aug  7 01:08:55 2019	DevL (STEAM_0:0:97157625) spawned
+Wed Aug  7 01:08:57 2019	Bobbicus was killed by Bastixx with a fas2_ak12
+Wed Aug  7 01:08:59 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Wed Aug  7 01:09:02 2019	Bastixx (STEAM_0:1:91231746): // beep beep is correct
+Wed Aug  7 01:09:15 2019	fwop.memes (STEAM_0:1:503236195) spawned Vehicle prop_vehicle_jeep (chargersrt8poltdm)
+Wed Aug  7 01:09:20 2019	Bobbicus (STEAM_0:0:86269452): /ooc why am i laughing
+Wed Aug  7 01:09:22 2019	Bastixx (STEAM_0:1:91231746): 
+Wed Aug  7 01:09:23 2019	Bobbicus was killed by fwop.memes with a prop_vehicle_jeep
+Wed Aug  7 01:09:25 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Wed Aug  7 01:09:38 2019	fwop.memes was killed by Bobbicus with a fas2_g36c
+Wed Aug  7 01:09:40 2019	fwop.memes (STEAM_0:1:503236195) spawned
+Wed Aug  7 01:09:42 2019	DevL (STEAM_0:0:97157625) spawned Vehicle prop_vehicle_jeep (dodgeramtdm)
+Wed Aug  7 01:10:20 2019	DevL (STEAM_0:0:97157625): // hey bob my car is fucked again can you admin wrench it
+Wed Aug  7 01:10:22 2019	fwop.memes was killed by Bobbicus with a fas2_glock20
+Wed Aug  7 01:10:27 2019	fwop.memes (STEAM_0:1:503236195) spawned
+Wed Aug  7 01:10:59 2019	fwop.memes (STEAM_0:1:503236195): /warrent Boobbicus sus
+Wed Aug  7 01:11:16 2019	fwop.memes was killed by Bastixx with a fas2_ak12
+Wed Aug  7 01:11:21 2019	fwop.memes (STEAM_0:1:503236195) spawned
+Wed Aug  7 01:12:51 2019	Bobbicus (STEAM_0:0:86269452) spawned Vehicle prop_vehicle_jeep (porcycletdm)
+Wed Aug  7 01:13:38 2019	fwop.memes was killed by Bastixx with a fas2_ak12
+Wed Aug  7 01:13:47 2019	fwop.memes (STEAM_0:1:503236195) spawned
+Wed Aug  7 01:14:05 2019	DevL (STEAM_0:0:97157625): // its 100b
+Wed Aug  7 01:14:12 2019	Bastixx (STEAM_0:1:91231746) spawned Vehicle prop_vehicle_jeep (porcycletdm)
+Wed Aug  7 01:15:10 2019	Bastixx (STEAM_0:1:91231746): // HALP
+Wed Aug  7 01:15:13 2019	Bastixx (STEAM_0:1:91231746): // IM STUCK IN THE CEILING
+Wed Aug  7 01:15:23 2019	Bastixx (STEAM_0:1:91231746): // HALP
+Wed Aug  7 01:15:29 2019	Bastixx (STEAM_0:1:91231746): // HALP MEH
+Wed Aug  7 01:15:47 2019	fwop.memes was killed by DevL with a fas2_glock20
+Wed Aug  7 01:15:52 2019	fwop.memes (STEAM_0:1:503236195) spawned
+Wed Aug  7 01:15:59 2019	fwop.memes (STEAM_0:1:503236195) disconnected
+Wed Aug  7 01:16:37 2019	Bobbicus was killed by Bastixx with a fas2_ak12
+Wed Aug  7 01:16:40 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Wed Aug  7 01:16:41 2019	DevL (STEAM_0:0:97157625): 
+Wed Aug  7 01:16:49 2019	fwop.memes (STEAM_0:1:503236195) has joined the game
+Wed Aug  7 01:16:49 2019	fwop.memes (STEAM_0:1:503236195) spawned
+Wed Aug  7 01:17:00 2019	Bobbicus was killed by Bastixx with a fas2_ak12
+Wed Aug  7 01:17:03 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Wed Aug  7 01:17:13 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Wed Aug  7 01:17:28 2019	Bobbicus was killed by Bastixx with a fas2_ak12
+Wed Aug  7 01:17:30 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Wed Aug  7 01:17:33 2019	Bastixx was killed by DevL with a fas2_ak12
+Wed Aug  7 01:17:35 2019	Bastixx (STEAM_0:1:91231746) spawned
+Wed Aug  7 01:17:53 2019	DevL was killed by Bastixx with a fas2_ak12
+Wed Aug  7 01:17:55 2019	DevL (STEAM_0:0:97157625) spawned
+Wed Aug  7 01:18:01 2019	fwop.memes (STEAM_0:1:503236195) spawned
+Wed Aug  7 01:18:08 2019	fwop.memes (STEAM_0:1:503236195) spawned Vehicle prop_vehicle_jeep (forcrownvicpoltdm)
+Wed Aug  7 01:18:19 2019	Bastixx was killed by Bobbicus with a fas2_ak12
+Wed Aug  7 01:18:22 2019	Bastixx (STEAM_0:1:91231746) spawned
+Wed Aug  7 01:18:29 2019	DevL was killed by fwop.memes with a prop_vehicle_jeep
+Wed Aug  7 01:18:32 2019	DevL (STEAM_0:0:97157625) spawned
+Wed Aug  7 01:18:43 2019	DevL (STEAM_0:0:97157625): 
+Wed Aug  7 01:18:52 2019	DevL (STEAM_0:0:97157625): /casiono
+Wed Aug  7 01:18:55 2019	DevL (STEAM_0:0:97157625): 
+Wed Aug  7 01:18:58 2019	Bastixx was killed by fwop.memes with a prop_vehicle_jeep
+Wed Aug  7 01:19:03 2019	Bastixx (STEAM_0:1:91231746) spawned
+Wed Aug  7 01:19:16 2019	Bastixx (STEAM_0:1:91231746): // bobby permission to wage war?
+Wed Aug  7 01:19:22 2019	Bobbicus (STEAM_0:0:86269452): /ooc hell yea
+Wed Aug  7 01:19:23 2019	DevL (STEAM_0:0:97157625): /pm bob switch back to swat
+Wed Aug  7 01:19:29 2019	Bobbicus (STEAM_0:0:86269452): /ooc k
+Wed Aug  7 01:19:32 2019	fwop.memes (STEAM_0:1:503236195): imma get off
+Wed Aug  7 01:19:34 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Wed Aug  7 01:19:40 2019	fwop.memes was killed by Bastixx with a fas2_ak12
+Wed Aug  7 01:19:46 2019	fwop.memes (STEAM_0:1:503236195) spawned
+Wed Aug  7 01:20:18 2019	Bobbicus (STEAM_0:0:86269452) spawned Vehicle prop_vehicle_airboat (Airboat)
+Wed Aug  7 01:20:27 2019	fwop.memes was killed by Bastixx with a fas2_ak12
+Wed Aug  7 01:20:34 2019	fwop.memes (STEAM_0:1:503236195) spawned
+Wed Aug  7 01:20:41 2019	Bastixx (STEAM_0:1:91231746): // dude insult ,,e ,pre
+Wed Aug  7 01:20:43 2019	Bobbicus was killed by Bastixx with a fas2_ak12
+Wed Aug  7 01:20:49 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Wed Aug  7 01:20:50 2019	fwop.memes was killed by Bastixx with a fas2_ak12
+Wed Aug  7 01:20:53 2019	fwop.memes (STEAM_0:1:503236195) spawned
+Wed Aug  7 01:20:56 2019	fwop.memes (STEAM_0:1:503236195) disconnected
+Wed Aug  7 01:21:10 2019	Bastixx (STEAM_0:1:91231746): // he disconnected
+Wed Aug  7 01:21:14 2019	Bobbicus (STEAM_0:0:86269452): /ooc lol
+Wed Aug  7 01:21:18 2019	DevL (STEAM_0:0:97157625): // damnit
+Wed Aug  7 01:21:20 2019	Bastixx (STEAM_0:1:91231746): // he tried RDAing me
+Wed Aug  7 01:21:21 2019	DevL (STEAM_0:0:97157625): // lol
+Wed Aug  7 01:22:09 2019	Bobbicus was killed by Bastixx with a fas2_glock20
+Wed Aug  7 01:22:11 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Wed Aug  7 01:22:15 2019	Bastixx (STEAM_0:1:91231746): // my love taps
+Wed Aug  7 01:22:21 2019	Bobbicus was killed by Himself with a suicide trick
+Wed Aug  7 01:22:28 2019	Bobbicus (STEAM_0:0:86269452): /ooc :
+Wed Aug  7 01:22:29 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Wed Aug  7 01:23:26 2019	Bastixx (STEAM_0:1:91231746): https://www.youtube.com/watch?v=Djgx8XG4ehM
+Wed Aug  7 01:23:35 2019	DevL (STEAM_0:0:97157625): 
+Wed Aug  7 01:23:45 2019	Bastixx (STEAM_0:1:91231746): https://discord.gg/3SyrmJv
+Wed Aug  7 01:24:15 2019	fwop.memes (STEAM_0:1:503236195) has joined the game
+Wed Aug  7 01:24:15 2019	fwop.memes (STEAM_0:1:503236195) spawned
+Wed Aug  7 01:25:20 2019	fwop.memes was killed by Himself with a suicide trick
+Wed Aug  7 01:25:30 2019	fwop.memes (STEAM_0:1:503236195) spawned
+Wed Aug  7 01:26:35 2019	fwop.memes (STEAM_0:1:503236195) spawned Vehicle prop_vehicle_jeep (p1tdm)
+Wed Aug  7 01:28:18 2019	fwop.memes was killed by Bastixx with a fas2_ak12
+Wed Aug  7 01:28:22 2019	fwop.memes (STEAM_0:1:503236195) spawned
+Wed Aug  7 01:30:42 2019	fwop.memes was killed by Himself with a suicide trick
+Wed Aug  7 01:30:44 2019	fwop.memes (STEAM_0:1:503236195) spawned
+Wed Aug  7 01:31:06 2019	fwop.memes was killed by Bastixx with a rj_molotov_hull
+Wed Aug  7 01:31:08 2019	fwop.memes (STEAM_0:1:503236195) spawned
+Wed Aug  7 01:31:20 2019	fwop.memes was killed by Bastixx with a rj_molotov_hull
+Wed Aug  7 01:31:22 2019	fwop.memes (STEAM_0:1:503236195) spawned
+Wed Aug  7 01:31:34 2019	fwop.memes (STEAM_0:1:503236195): AFK
+Wed Aug  7 01:32:38 2019	Bastixx was killed by Himself with a suicide trick
+Wed Aug  7 01:32:49 2019	Bastixx (STEAM_0:1:91231746) spawned
+Wed Aug  7 01:33:50 2019	fwop.memes was killed by Himself with a suicide trick
+Wed Aug  7 01:33:55 2019	fwop.memes (STEAM_0:1:503236195) spawned
+Wed Aug  7 01:34:06 2019	Bastixx (STEAM_0:1:91231746): 
+Wed Aug  7 01:34:09 2019	fwop.memes was killed by Himself with a suicide trick
+Wed Aug  7 01:34:13 2019	fwop.memes (STEAM_0:1:503236195) spawned
+Wed Aug  7 01:34:14 2019	Bobbicus was killed by Himself with a suicide trick
+Wed Aug  7 01:34:19 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Wed Aug  7 01:34:38 2019	Bobbicus (STEAM_0:0:86269452) spawned SENT item_healthkit
+Wed Aug  7 01:34:38 2019	Bobbicus (STEAM_0:0:86269452) spawned SENT item_healthkit
+Wed Aug  7 01:34:39 2019	Bobbicus (STEAM_0:0:86269452) spawned SENT item_healthkit
+Wed Aug  7 01:34:46 2019	Bastixx (STEAM_0:1:91231746): 
+Wed Aug  7 01:35:20 2019	Bastixx (STEAM_0:1:91231746): 
+Wed Aug  7 01:36:25 2019	Bastixx (STEAM_0:1:91231746): 
+Wed Aug  7 01:39:18 2019	Bastixx (STEAM_0:1:91231746) disconnected
+Wed Aug  7 01:42:23 2019	DevL (STEAM_0:0:97157625): // i wonder who the wealthiest person on is
+Wed Aug  7 01:42:30 2019	fwop.memes (STEAM_0:1:503236195) spawned Vehicle prop_vehicle_jeep (p1tdm)
+Wed Aug  7 01:42:36 2019	fwop.memes (STEAM_0:1:503236195): me?
+Wed Aug  7 01:42:41 2019	Bobbicus (STEAM_0:0:86269452): /ooc gee, i wonder
+Wed Aug  7 01:42:52 2019	DevL (STEAM_0:0:97157625): /unbox\
+Wed Aug  7 01:42:53 2019	fwop.memes (STEAM_0:1:503236195): DSEV
+Wed Aug  7 01:42:55 2019	DevL (STEAM_0:0:97157625): /unbox
+Wed Aug  7 01:43:07 2019	fwop.memes (STEAM_0:1:503236195): DEV HOW YOU GET SO MUCH 
+Wed Aug  7 01:43:22 2019	fwop.memes (STEAM_0:1:503236195): 
+Wed Aug  7 01:44:30 2019	Bobbicus (STEAM_0:0:86269452): !return
+Wed Aug  7 01:44:35 2019	DevL (STEAM_0:0:97157625): 
+Wed Aug  7 01:44:55 2019	DevL (STEAM_0:0:97157625): 
+Wed Aug  7 01:44:59 2019	fwop.memes (STEAM_0:1:503236195) disconnected
+Wed Aug  7 01:45:04 2019	Bastixx (STEAM_0:1:91231746) has joined the game
+Wed Aug  7 01:45:05 2019	Bastixx (STEAM_0:1:91231746) spawned
+Wed Aug  7 01:45:52 2019	fwop.memes (STEAM_0:1:503236195) has joined the game
+Wed Aug  7 01:45:52 2019	fwop.memes (STEAM_0:1:503236195) spawned
+Wed Aug  7 01:47:34 2019	Bastixx (STEAM_0:1:91231746) spawned
+Wed Aug  7 01:48:46 2019	Bastixx was killed by fwop.memes with a fas2_rem870
+Wed Aug  7 01:48:56 2019	Bastixx (STEAM_0:1:91231746) spawned
+Wed Aug  7 01:49:00 2019	fwop.memes (STEAM_0:1:503236195): /DROP
+Wed Aug  7 01:49:13 2019	fwop.memes (STEAM_0:1:503236195) disconnected
+Wed Aug  7 01:49:58 2019	Bastixx was killed by Bobbicus with a fas2_g36c
+Wed Aug  7 01:50:01 2019	Bastixx (STEAM_0:1:91231746) spawned
+Wed Aug  7 01:50:31 2019	Bobbicus was killed by Himself with a suicide trick
+Wed Aug  7 01:50:34 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Wed Aug  7 01:51:57 2019	DevL (STEAM_0:0:97157625): meanie
+Wed Aug  7 01:52:10 2019	DevL (STEAM_0:0:97157625): you stood on my printers
+Wed Aug  7 01:52:17 2019	DevL (STEAM_0:0:97157625): wait this is mine
+Wed Aug  7 01:52:18 2019	DevL (STEAM_0:0:97157625): wtf
+Wed Aug  7 01:52:45 2019	DevL (STEAM_0:0:97157625): i have some better shit
+Wed Aug  7 01:52:59 2019	DevL (STEAM_0:0:97157625): tp to me 
+Wed Aug  7 01:53:00 2019	DevL (STEAM_0:0:97157625): /invholster
+Wed Aug  7 01:53:03 2019	DevL was killed by Himself with a suicide trick
+Wed Aug  7 01:53:05 2019	DevL (STEAM_0:0:97157625) spawned
+Wed Aug  7 01:54:34 2019	Bastixx (STEAM_0:1:91231746) disconnected
+Wed Aug  7 01:54:45 2019	DevL (STEAM_0:0:97157625): 
+Wed Aug  7 01:54:54 2019	DevL (STEAM_0:0:97157625): 
+Wed Aug  7 01:56:21 2019	DevL (STEAM_0:0:97157625): /invholster
+Wed Aug  7 01:56:29 2019	DevL (STEAM_0:0:97157625) spawned
+Wed Aug  7 01:57:49 2019	DevL (STEAM_0:0:97157625) disconnected
+Wed Aug  7 01:58:12 2019	Bobbicus (STEAM_0:0:86269452) disconnected
+Wed Aug  7 06:49:52 2019	fwop.memes (STEAM_0:1:503236195) has joined the game
+Wed Aug  7 06:49:52 2019	fwop.memes (STEAM_0:1:503236195) spawned
+Wed Aug  7 06:52:19 2019	fwop.memes (STEAM_0:1:503236195) spawned Vehicle prop_vehicle_jeep (p1tdm)
+Wed Aug  7 06:58:53 2019	fwop.memes (STEAM_0:1:503236195) spawned Vehicle prop_vehicle_jeep (p1tdm)
+Wed Aug  7 06:59:13 2019	fwop.memes (STEAM_0:1:503236195) spawned
+Wed Aug  7 07:00:09 2019	fwop.memes (STEAM_0:1:503236195) spawned Vehicle prop_vehicle_jeep (lex_is300tdm)
+Wed Aug  7 07:00:37 2019	fwop.memes (STEAM_0:1:503236195) spawned Vehicle prop_vehicle_jeep (hon_crxsirtdm)
+Wed Aug  7 07:01:02 2019	fwop.memes (STEAM_0:1:503236195) spawned Vehicle prop_vehicle_jeep (golfvr6tdm)
+Wed Aug  7 07:02:26 2019	fwop.memes (STEAM_0:1:503236195): /drop
+Wed Aug  7 07:02:38 2019	fwop.memes (STEAM_0:1:503236195) disconnected
+Wed Aug  7 07:20:15 2019	DevL (STEAM_0:0:97157625) has joined the game
+Wed Aug  7 07:20:15 2019	DevL (STEAM_0:0:97157625) spawned
+Wed Aug  7 07:21:16 2019	DevL (STEAM_0:0:97157625) spawned
+Wed Aug  7 07:24:14 2019	DevL (STEAM_0:0:97157625): 
+Wed Aug  7 07:50:38 2019	DevL (STEAM_0:0:97157625): 
+Wed Aug  7 07:51:42 2019	DevL (STEAM_0:0:97157625): 
+Wed Aug  7 07:52:27 2019	DevL (STEAM_0:0:97157625): 
+Wed Aug  7 07:54:26 2019	Derp (STEAM_0:0:52504530) has joined the game
+Wed Aug  7 07:54:26 2019	William (STEAM_0:0:52504530) spawned
+Wed Aug  7 07:55:26 2019	William (STEAM_0:0:52504530): 
+Wed Aug  7 07:59:24 2019	William (STEAM_0:0:52504530): 
+Wed Aug  7 08:00:01 2019	William (STEAM_0:0:52504530): 
+Wed Aug  7 08:00:13 2019	William (STEAM_0:0:52504530): 
+Wed Aug  7 08:05:28 2019	DevL (STEAM_0:0:97157625): 
+Wed Aug  7 08:06:00 2019	William (STEAM_0:0:52504530): 
+Wed Aug  7 08:07:01 2019	William (STEAM_0:0:52504530): 
+Wed Aug  7 08:09:55 2019	William (STEAM_0:0:52504530): 
+Wed Aug  7 08:10:53 2019	DevL (STEAM_0:0:97157625) disconnected
+Wed Aug  7 08:11:24 2019	William (STEAM_0:0:52504530): 
+Wed Aug  7 08:12:01 2019	DevL (STEAM_0:0:97157625) has joined the game
+Wed Aug  7 08:12:01 2019	DevL (STEAM_0:0:97157625) spawned
+Wed Aug  7 08:13:35 2019	DevL (STEAM_0:0:97157625) spawned
+Wed Aug  7 08:29:17 2019	William (STEAM_0:0:52504530) spawned
+Wed Aug  7 08:33:23 2019	DevL (STEAM_0:0:97157625): /name Deodat lawson
+Wed Aug  7 08:34:27 2019	Dio (STEAM_0:0:497465680) has joined the game
+Wed Aug  7 08:34:27 2019	Dio (STEAM_0:0:497465680) spawned
+Wed Aug  7 08:34:37 2019	Deodat lawson (STEAM_0:0:97157625): /name Deo
+Wed Aug  7 08:34:47 2019	William (STEAM_0:0:52504530) spawned
+Wed Aug  7 08:35:02 2019	William (STEAM_0:0:52504530): hello
+Wed Aug  7 08:35:09 2019	William (STEAM_0:0:52504530): well um
+Wed Aug  7 08:35:13 2019	William (STEAM_0:0:52504530): we had to do a rollback
+Wed Aug  7 08:35:28 2019	William (STEAM_0:0:52504530): so this is like a slightly updated version of what was yesterday's working version
+Wed Aug  7 08:35:39 2019	William (STEAM_0:0:52504530): the real update is still being fixed
+Wed Aug  7 08:35:44 2019	William (STEAM_0:0:52504530): its coming from one file so we know where to start
+Wed Aug  7 08:35:46 2019	William (STEAM_0:0:52504530): but its hard
+Wed Aug  7 08:35:48 2019	William (STEAM_0:0:52504530): because it makes no sense
+Wed Aug  7 08:35:54 2019	William (STEAM_0:0:52504530): u know
+Wed Aug  7 08:35:56 2019	William (STEAM_0:0:52504530): lua stuff
+Wed Aug  7 08:36:00 2019	William (STEAM_0:0:52504530): makes no sense at all
+Wed Aug  7 08:36:07 2019	William (STEAM_0:0:52504530): you miss one comma and the entire server breaks
+Wed Aug  7 08:36:16 2019	William (STEAM_0:0:52504530): ill brb
+Wed Aug  7 08:37:20 2019	Dio (STEAM_0:0:497465680) spawned SENT meleeartarmor
+Wed Aug  7 08:37:53 2019	Dio (STEAM_0:0:497465680) spawned SENT chaosskull
+Wed Aug  7 08:40:31 2019	William (STEAM_0:0:52504530): yeah
+Wed Aug  7 08:40:41 2019	William (STEAM_0:0:52504530): it drops the sword?
+Wed Aug  7 08:40:48 2019	William (STEAM_0:0:52504530): oh um
+Wed Aug  7 08:41:15 2019	Deo (STEAM_0:0:97157625): /invholster
+Wed Aug  7 08:41:17 2019	William (STEAM_0:0:52504530): well then i guess ill have to find some other type of boss
+Wed Aug  7 08:41:43 2019	William (STEAM_0:0:52504530): true but i think its a bit much for darkrp lol
+Wed Aug  7 08:41:57 2019	William (STEAM_0:0:52504530): this is like some stuff u would see in a fantasy rp server
+Wed Aug  7 08:43:43 2019	Dio (STEAM_0:0:497465680) spawned SENT chaosskull
+Wed Aug  7 08:44:45 2019	Deo (STEAM_0:0:97157625): /name DevL
+Wed Aug  7 08:49:05 2019	Dio (STEAM_0:0:497465680) spawned SENT chaosskull
+Wed Aug  7 08:50:50 2019	DevL (STEAM_0:0:97157625): /invholster
+Wed Aug  7 08:51:18 2019	DevL was killed by Himself with a suicide trick
+Wed Aug  7 08:51:20 2019	DevL (STEAM_0:0:97157625) spawned
+Wed Aug  7 08:51:48 2019	DevL was killed by Himself with a suicide trick
+Wed Aug  7 08:51:52 2019	DevL (STEAM_0:0:97157625) spawned
+Wed Aug  7 08:52:55 2019	Dio (STEAM_0:0:497465680) spawned SENT chaosskull
+Wed Aug  7 08:54:16 2019	DevL (STEAM_0:0:97157625) spawned Vehicle prop_vehicle_jeep (dodgeramtdm)
+Wed Aug  7 08:54:23 2019	Dio (STEAM_0:0:497465680) spawned SENT chaosskull
+Wed Aug  7 08:55:20 2019	Dio was killed by Himself with a suicide trick
+Wed Aug  7 08:55:22 2019	Dio (STEAM_0:0:497465680) spawned
+Wed Aug  7 08:56:31 2019	William (STEAM_0:0:52504530) disconnected
+Wed Aug  7 08:57:11 2019	Derp (STEAM_0:0:52504530) has joined the game
+Wed Aug  7 08:57:11 2019	William (STEAM_0:0:52504530) spawned
+Wed Aug  7 08:58:36 2019	DevL (STEAM_0:0:97157625) spawned
+Wed Aug  7 08:59:10 2019	DevL was killed by William with a fas2_ks23
+Wed Aug  7 08:59:13 2019	DevL (STEAM_0:0:97157625) spawned
+Wed Aug  7 08:59:20 2019	DevL was killed by William with a fas2_ks23
+Wed Aug  7 08:59:25 2019	DevL (STEAM_0:0:97157625) spawned
+Wed Aug  7 08:59:31 2019	DevL was killed by William with a fas2_ks23
+Wed Aug  7 08:59:33 2019	DevL (STEAM_0:0:97157625) spawned
+Wed Aug  7 09:02:12 2019	Dio (STEAM_0:0:497465680): 
+Wed Aug  7 09:02:12 2019	Dio was killed by Himself with a suicide trick
+Wed Aug  7 09:02:16 2019	Dio (STEAM_0:0:497465680) spawned
+Wed Aug  7 09:05:56 2019	William (STEAM_0:0:52504530): !leancfg
+Wed Aug  7 09:06:35 2019	Dio (STEAM_0:0:497465680) spawned
+Wed Aug  7 09:06:53 2019	Dio (STEAM_0:0:497465680) spawned
+Wed Aug  7 09:07:03 2019	William (STEAM_0:0:52504530): u die when u switch jobs
+Wed Aug  7 09:07:09 2019	William (STEAM_0:0:52504530): yeah
+Wed Aug  7 09:07:14 2019	William (STEAM_0:0:52504530): since the update
+Wed Aug  7 09:07:24 2019	William (STEAM_0:0:52504530): people can abuse that so we changed it
+Wed Aug  7 09:08:32 2019	Dio (STEAM_0:0:497465680) spawned
+Wed Aug  7 09:08:39 2019	DevL (STEAM_0:0:97157625) spawned
+Wed Aug  7 09:09:14 2019	William (STEAM_0:0:52504530) spawned
+Wed Aug  7 09:11:20 2019	fwop.memes (STEAM_0:1:503236195) has joined the game
+Wed Aug  7 09:11:20 2019	fwop.memes (STEAM_0:1:503236195) spawned
+Wed Aug  7 09:12:03 2019	fwop.memes (STEAM_0:1:503236195): will come hear
+Wed Aug  7 09:12:08 2019	Dio (STEAM_0:0:497465680) spawned
+Wed Aug  7 09:12:49 2019	fwop.memes (STEAM_0:1:503236195): dio tp me to will rq
+Wed Aug  7 09:13:34 2019	Dio (STEAM_0:0:497465680) spawned
+Wed Aug  7 09:14:41 2019	Dio (STEAM_0:0:497465680) spawned SENT pvault_npc
+Wed Aug  7 09:15:03 2019	Dio (STEAM_0:0:497465680) spawned SENT jewelryrobbery_blackmarket_npc
+Wed Aug  7 09:16:41 2019	Dio (STEAM_0:0:497465680) spawned
+Wed Aug  7 09:18:31 2019	fwop.memes (STEAM_0:1:503236195): !warns
+Wed Aug  7 09:20:36 2019	fwop.memes was killed by DevL with a fas2_ak12
+Wed Aug  7 09:20:38 2019	fwop.memes (STEAM_0:1:503236195) spawned
+Wed Aug  7 09:20:44 2019	Dio (STEAM_0:0:497465680) spawned SENT jewelryrobbery_blackmarket_npc
+Wed Aug  7 09:20:49 2019	fwop.memes (STEAM_0:1:503236195): !contents
+Wed Aug  7 09:20:52 2019	William was killed by DevL with a fas2_ak12
+Wed Aug  7 09:20:54 2019	fwop.memes (STEAM_0:1:503236195): 
+Wed Aug  7 09:20:55 2019	William (STEAM_0:0:52504530) spawned
+Wed Aug  7 09:21:32 2019	DevL was killed by William with a rj_molotov
+Wed Aug  7 09:21:34 2019	DevL (STEAM_0:0:97157625) spawned
+Wed Aug  7 09:21:41 2019	William was killed by Himself with a suicide trick
+Wed Aug  7 09:21:44 2019	William (STEAM_0:0:52504530) spawned
+Wed Aug  7 09:23:08 2019	William (STEAM_0:0:52504530): https://steamcommunity.com/sharedfiles/filedetails/?id=1797327391
+Wed Aug  7 09:23:19 2019	fwop.memes (STEAM_0:1:503236195): x
+Wed Aug  7 09:25:03 2019	William (STEAM_0:0:52504530): bro u sound like daft punk
+Wed Aug  7 09:25:20 2019	William (STEAM_0:0:52504530): i might
+Wed Aug  7 09:25:38 2019	William (STEAM_0:0:52504530): doesnt have a what?
+Wed Aug  7 09:25:45 2019	William (STEAM_0:0:52504530): a thief job?
+Wed Aug  7 09:25:50 2019	William (STEAM_0:0:52504530): u can just be a part of the mafia
+Wed Aug  7 09:26:07 2019	Dio (STEAM_0:0:497465680) spawned
+Wed Aug  7 09:26:14 2019	William (STEAM_0:0:52504530): he made that just from playing crash swear on my life
+Wed Aug  7 09:26:43 2019	Dio (STEAM_0:0:497465680): 
+Wed Aug  7 09:26:59 2019	William (STEAM_0:0:52504530): u have so much money u can practically buy anything u want
+Wed Aug  7 09:27:09 2019	William (STEAM_0:0:52504530): yeah tomorrow
+Wed Aug  7 09:27:17 2019	William (STEAM_0:0:52504530): u better go buy some cars
+Wed Aug  7 09:27:32 2019	William (STEAM_0:0:52504530): hell yeah dude i cant have people running around with like over 20 mil
+Wed Aug  7 09:27:35 2019	William (STEAM_0:0:52504530): thats economy breaking
+Wed Aug  7 09:27:52 2019	Dio (STEAM_0:0:497465680) spawned
+Wed Aug  7 09:27:57 2019	William (STEAM_0:0:52504530): i know because that dumb cunt has been here since forever
+Wed Aug  7 09:28:04 2019	Dio (STEAM_0:0:497465680): 
+Wed Aug  7 09:28:12 2019	William (STEAM_0:0:52504530): we have only had 2 money resets lol
+Wed Aug  7 09:28:49 2019	William (STEAM_0:0:52504530): /pm fwop if u buy all the cars and sell them after the reset
+Wed Aug  7 09:28:57 2019	William (STEAM_0:0:52504530): /pm fwop u can get a mil
+Wed Aug  7 09:28:57 2019	Dio (STEAM_0:0:497465680) spawned
+Wed Aug  7 09:29:06 2019	William (STEAM_0:0:52504530): what car costs 10 mil
+Wed Aug  7 09:29:34 2019	William (STEAM_0:0:52504530): dio did the prices pretty sure
+Wed Aug  7 09:29:37 2019	William (STEAM_0:0:52504530): no
+Wed Aug  7 09:29:38 2019	William (STEAM_0:0:52504530): just ur money
+Wed Aug  7 09:29:55 2019	William (STEAM_0:0:52504530): i mean maybe but lmao ill just see ur money and then reset ur money
+Wed Aug  7 09:29:56 2019	Dio (STEAM_0:0:497465680) spawned
+Wed Aug  7 09:30:09 2019	fwop.memes (STEAM_0:1:503236195): /dropmoney 1
+Wed Aug  7 09:30:10 2019	fwop.memes (STEAM_0:1:503236195) has dropped $1
+Wed Aug  7 09:30:57 2019	William (STEAM_0:0:52504530): it takes time
+Wed Aug  7 09:31:35 2019	William (STEAM_0:0:52504530): dude dont ever make a public server on your own computer
+Wed Aug  7 09:31:37 2019	William (STEAM_0:0:52504530): thats a terrible idea
+Wed Aug  7 09:31:37 2019	Dio (STEAM_0:0:497465680) spawned
+Wed Aug  7 09:31:48 2019	William (STEAM_0:0:52504530): i know port forwarding
+Wed Aug  7 09:31:53 2019	William (STEAM_0:0:52504530): ive done that before 
+Wed Aug  7 09:32:00 2019	William (STEAM_0:0:52504530): u know this server started as a port forwarded server
+Wed Aug  7 09:32:07 2019	Dio (STEAM_0:0:497465680): 
+Wed Aug  7 09:32:50 2019	William (STEAM_0:0:52504530): hes legit recording btw not even joking
+Wed Aug  7 09:33:28 2019	William (STEAM_0:0:52504530): lol
+Wed Aug  7 09:33:48 2019	No Chin Boy (STEAM_0:1:460390799) has joined the game
+Wed Aug  7 09:33:48 2019	No Chin Boy (STEAM_0:1:460390799) spawned
+Wed Aug  7 09:34:09 2019	William (STEAM_0:0:52504530): /police
+Wed Aug  7 09:34:11 2019	William (STEAM_0:0:52504530) spawned
+Wed Aug  7 09:34:30 2019	fwop.memes (STEAM_0:1:503236195): /unbox
+Wed Aug  7 09:34:38 2019	Disconnected player has made fwop.memes wanted, reason: Ticket Evade
+Wed Aug  7 09:34:46 2019	fwop.memes is no longer wanted by the Police. Revoked by: William
+Wed Aug  7 09:34:46 2019	fwop.memes (STEAM_0:1:503236195) spawned
+Wed Aug  7 09:34:46 2019	William (STEAM_0:0:52504530) arrested fwop.memes
+Wed Aug  7 09:34:57 2019	fwop.memes (STEAM_0:1:503236195): why are my bullets error
+Wed Aug  7 09:35:05 2019	No Chin Boy (STEAM_0:1:460390799): William
+Wed Aug  7 09:35:20 2019	No Chin Boy (STEAM_0:1:460390799) spawned
+Wed Aug  7 09:35:29 2019	William (STEAM_0:0:52504530) unarrested fwop.memes
+Wed Aug  7 09:35:38 2019	fwop.memes (STEAM_0:1:503236195): /unbox
+Wed Aug  7 09:35:45 2019	William was killed by fwop.memes with a fas2_p226
+Wed Aug  7 09:35:50 2019	William (STEAM_0:0:52504530) spawned
+Wed Aug  7 09:35:51 2019	No Chin Boy (STEAM_0:1:460390799): 
+Wed Aug  7 09:36:17 2019	William (STEAM_0:0:52504530) spawned
+Wed Aug  7 09:37:24 2019	fwop.memes was killed by Himself with a suicide trick
+Wed Aug  7 09:37:26 2019	fwop.memes (STEAM_0:1:503236195) spawned
+Wed Aug  7 09:37:45 2019	fwop.memes (STEAM_0:1:503236195): dio i had guns on me
+Wed Aug  7 09:39:06 2019	Dio was killed by Himself with a suicide trick
+Wed Aug  7 09:39:12 2019	Dio (STEAM_0:0:497465680) spawned
+Wed Aug  7 09:42:19 2019	DevL (STEAM_0:0:97157625): // i have a forsaken table
+Wed Aug  7 09:43:06 2019	DevL (STEAM_0:0:97157625): // also my truck is boofed again
+Wed Aug  7 09:43:12 2019	Dio was killed by Himself with a suicide trick
+Wed Aug  7 09:43:35 2019	Dio (STEAM_0:0:497465680) spawned
+Wed Aug  7 09:44:22 2019	DevL (STEAM_0:0:97157625): 
+Wed Aug  7 09:44:25 2019	William (STEAM_0:0:52504530): https://steamcommunity.com/sharedfiles/filedetails/?id=1797327391
+Wed Aug  7 09:45:38 2019	fwop.memes (STEAM_0:1:503236195): /UNBOX
+Wed Aug  7 09:45:48 2019	fwop.memes (STEAM_0:1:503236195): /UNBOX
+Wed Aug  7 09:46:24 2019	Dio (STEAM_0:0:497465680) spawned SENT chaosskull
+Wed Aug  7 09:47:12 2019	Dio (STEAM_0:0:497465680) spawned SENT vc_pickup_fuel_petrol
+Wed Aug  7 09:48:32 2019	fwop.memes (STEAM_0:1:503236195): 
+Wed Aug  7 09:49:01 2019	fwop.memes (STEAM_0:1:503236195): i need help
+Wed Aug  7 09:49:20 2019	Dio was killed by Himself with a suicide trick
+Wed Aug  7 09:49:31 2019	Dio (STEAM_0:0:497465680) spawned
+Wed Aug  7 09:49:34 2019	Dio was killed by Himself with a suicide trick
+Wed Aug  7 09:49:37 2019	Dio (STEAM_0:0:497465680) spawned
+Wed Aug  7 09:49:42 2019	Dio was killed by Himself with a suicide trick
+Wed Aug  7 09:49:44 2019	Dio (STEAM_0:0:497465680) spawned
+Wed Aug  7 09:50:11 2019	Dio (STEAM_0:0:497465680) disconnected
+Wed Aug  7 09:50:31 2019	fwop.memes (STEAM_0:1:503236195): drop
+Wed Aug  7 09:50:38 2019	fwop.memes (STEAM_0:1:503236195): /drop
+Wed Aug  7 09:51:01 2019	No Chin Boy (STEAM_0:1:460390799): /job Photographer
+Wed Aug  7 09:51:12 2019	fwop.memes was killed by DevL with a fas2_ak12
+Wed Aug  7 09:51:20 2019	fwop.memes (STEAM_0:1:503236195): nooooooo
+Wed Aug  7 09:51:20 2019	fwop.memes (STEAM_0:1:503236195) spawned
+Wed Aug  7 09:51:39 2019	fwop.memes (STEAM_0:1:503236195): drop
+Wed Aug  7 09:51:52 2019	fwop.memes (STEAM_0:1:503236195): /drop
+Wed Aug  7 09:52:17 2019	Dio (STEAM_0:0:497465680) has joined the game
+Wed Aug  7 09:52:17 2019	Dio (STEAM_0:0:497465680) spawned
+Wed Aug  7 09:52:39 2019	fwop.memes was killed by DevL with a fas2_ak12
+Wed Aug  7 09:52:57 2019	fwop.memes (STEAM_0:1:503236195) spawned
+Wed Aug  7 09:53:37 2019	fwop.memes was killed by DevL with a fas2_ak12
+Wed Aug  7 09:53:40 2019	fwop.memes (STEAM_0:1:503236195) spawned
+Wed Aug  7 09:53:53 2019	fwop.memes (STEAM_0:1:503236195) disconnected
+Wed Aug  7 09:54:32 2019	No Chin Boy (STEAM_0:1:460390799): /drop
+Wed Aug  7 09:56:10 2019	DevL was killed by William with a fas2_m24
+Wed Aug  7 09:56:12 2019	DevL (STEAM_0:0:97157625) spawned
+Wed Aug  7 09:57:01 2019	William was killed by DevL with a fas2_ak12
+Wed Aug  7 09:57:03 2019	Dio was killed by DevL with a fas2_ak12
+Wed Aug  7 09:57:04 2019	William (STEAM_0:0:52504530) spawned
+Wed Aug  7 09:57:08 2019	Dio (STEAM_0:0:497465680) spawned
+Wed Aug  7 09:57:13 2019	DevL was killed by No Chin Boy with a weapon_fists
+Wed Aug  7 09:57:32 2019	DevL (STEAM_0:0:97157625) spawned
+Wed Aug  7 09:58:36 2019	DevL was killed by Dio with a meleearts_blade_greatsword
+Wed Aug  7 09:58:52 2019	DevL (STEAM_0:0:97157625) spawned
+Wed Aug  7 09:59:12 2019	DevL (STEAM_0:0:97157625) spawned Vehicle prop_vehicle_airboat (Airboat)
+Wed Aug  7 09:59:54 2019	William (STEAM_0:0:52504530): https://discord.gg/xRCvv4
+Wed Aug  7 10:01:30 2019	No Chin Boy was killed by Himself with a suicide trick
+Wed Aug  7 10:01:30 2019	Dio (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_jeep (Jeep)
+Wed Aug  7 10:01:33 2019	No Chin Boy (STEAM_0:1:460390799) spawned
+Wed Aug  7 10:03:20 2019	DevL was killed by Entity [0][worldspawn] with a unknown
+Wed Aug  7 10:03:22 2019	DevL (STEAM_0:0:97157625) spawned
+Wed Aug  7 10:05:16 2019	DevL (STEAM_0:0:97157625) spawned
+Wed Aug  7 10:06:55 2019	DevL (STEAM_0:0:97157625) spawned
+Wed Aug  7 10:07:03 2019	DevL (STEAM_0:0:97157625) spawned Vehicle prop_vehicle_jeep (mitsuevoxpoltdm)
+Wed Aug  7 10:07:29 2019	DevL (STEAM_0:0:97157625) spawned Vehicle prop_vehicle_jeep (chargersrt8poltdm)
+Wed Aug  7 10:07:51 2019	DevL (STEAM_0:0:97157625) spawned Vehicle prop_vehicle_jeep (mitsuevoxpoltdm)
+Wed Aug  7 10:08:36 2019	William (STEAM_0:0:52504530) disconnected
+Wed Aug  7 10:11:15 2019	No Chin Boy was killed by DevL with a prop_vehicle_jeep
+Wed Aug  7 10:11:21 2019	No Chin Boy (STEAM_0:1:460390799): ow
+Wed Aug  7 10:11:21 2019	No Chin Boy (STEAM_0:1:460390799) spawned
+Wed Aug  7 10:11:54 2019	Dio (STEAM_0:0:497465680) disconnected
+Wed Aug  7 10:12:03 2019	No Chin Boy (STEAM_0:1:460390799) spawned
+Wed Aug  7 10:12:37 2019	No Chin Boy (STEAM_0:1:460390799): /job Car Washer
+Wed Aug  7 10:14:24 2019	Derp (STEAM_0:0:52504530) has joined the game
+Wed Aug  7 10:14:24 2019	William (STEAM_0:0:52504530) spawned
+Wed Aug  7 10:15:10 2019	William (STEAM_0:0:52504530): /dropmoney 28000
+Wed Aug  7 10:15:11 2019	William (STEAM_0:0:52504530) has dropped $28,000
+Wed Aug  7 10:15:11 2019	DevL (STEAM_0:0:97157625) spawned
+Wed Aug  7 10:19:24 2019	DevL (STEAM_0:0:97157625): // um my bit miner is kinda glitched
+Wed Aug  7 10:22:03 2019	DevL (STEAM_0:0:97157625): // oh? firecrackers?
+Wed Aug  7 10:23:00 2019	No Chin Boy was killed by Himself with a suicide trick
+Wed Aug  7 10:23:02 2019	No Chin Boy (STEAM_0:1:460390799) spawned
+Wed Aug  7 10:23:34 2019	William was killed by Himself with a suicide trick
+Wed Aug  7 10:23:36 2019	William (STEAM_0:0:52504530) spawned
+Wed Aug  7 10:25:15 2019	No Chin Boy was killed by DevL with a fas2_ak12
+Wed Aug  7 10:25:18 2019	No Chin Boy (STEAM_0:1:460390799) spawned
+Wed Aug  7 10:29:39 2019	No Chin Boy was killed by Himself with a suicide trick
+Wed Aug  7 10:29:41 2019	No Chin Boy (STEAM_0:1:460390799) spawned
+Wed Aug  7 10:29:45 2019	William (STEAM_0:0:52504530): 
+Wed Aug  7 10:30:44 2019	DevL was killed by Himself with a suicide trick
+Wed Aug  7 10:30:48 2019	DevL (STEAM_0:0:97157625) spawned
+Wed Aug  7 10:31:29 2019	DevL (STEAM_0:0:97157625): // i think vip should get acces to perm ban
+Wed Aug  7 10:32:39 2019	No Chin Boy (STEAM_0:1:460390799): 
+Wed Aug  7 10:32:57 2019	William (STEAM_0:0:52504530): 
+Wed Aug  7 10:34:02 2019	DevL (STEAM_0:0:97157625) spawned
+Wed Aug  7 10:34:35 2019	William (STEAM_0:0:52504530): 
+Wed Aug  7 10:36:10 2019	No Chin Boy (STEAM_0:1:460390799) spawned
+Wed Aug  7 10:36:34 2019	No Chin Boy was killed by Himself with a suicide trick
+Wed Aug  7 10:36:35 2019	No Chin Boy (STEAM_0:1:460390799): 
+Wed Aug  7 10:36:37 2019	No Chin Boy (STEAM_0:1:460390799): 
+Wed Aug  7 10:36:38 2019	No Chin Boy (STEAM_0:1:460390799) spawned
+Wed Aug  7 10:38:20 2019	No Chin Boy (STEAM_0:1:460390799): 
+Wed Aug  7 10:38:27 2019	No Chin Boy (STEAM_0:1:460390799): 
+Wed Aug  7 10:39:54 2019	No Chin Boy was killed by DevL with a fas2_rem870
+Wed Aug  7 10:39:56 2019	No Chin Boy (STEAM_0:1:460390799) spawned
+Wed Aug  7 10:40:08 2019	No Chin Boy (STEAM_0:1:460390799) disconnected
+Wed Aug  7 10:41:14 2019	No Chin Boy (STEAM_0:1:460390799) has joined the game
+Wed Aug  7 10:41:14 2019	No Chin Boy (STEAM_0:1:460390799) spawned
+Wed Aug  7 10:42:43 2019	baby kitten that can fly (STEAM_0:1:153883266) has joined the game
+Wed Aug  7 10:42:43 2019	baby kitten that can fly (STEAM_0:1:153883266) spawned
+Wed Aug  7 10:45:36 2019	baby kitten that can fly (STEAM_0:1:153883266) disconnected
+Wed Aug  7 10:45:47 2019	William (STEAM_0:0:52504530) disconnected
+Wed Aug  7 10:46:04 2019	DevL (STEAM_0:0:97157625): /dropmoney 5000000
+Wed Aug  7 10:46:05 2019	DevL (STEAM_0:0:97157625) has dropped $5,000,000
+Wed Aug  7 10:46:43 2019	No Chin Boy (STEAM_0:1:460390799) spawned
+Wed Aug  7 10:51:48 2019	DevL (STEAM_0:0:97157625) spawned
+Wed Aug  7 11:04:48 2019	👌Blumbing👌 (STEAM_0:1:152356796) has joined the game
+Wed Aug  7 11:04:48 2019	Big Boi Blumbing (STEAM_0:1:152356796) spawned
+Wed Aug  7 11:06:00 2019	Big Boi Blumbing (STEAM_0:1:152356796) spawned
+Wed Aug  7 11:06:13 2019	Big Boi Blumbing (STEAM_0:1:152356796): 
+Wed Aug  7 11:06:19 2019	Big Boi Blumbing (STEAM_0:1:152356796): 
+Wed Aug  7 11:06:21 2019	Big Boi Blumbing (STEAM_0:1:152356796): 
+Wed Aug  7 11:08:43 2019	Big Boi Blumbing (STEAM_0:1:152356796) spawned
+Wed Aug  7 11:11:35 2019	Big Boi Blumbing (STEAM_0:1:152356796) spawned
+Wed Aug  7 11:11:55 2019	Big Boi Blumbing (STEAM_0:1:152356796) spawned
+Wed Aug  7 11:14:16 2019	No Chin Boy was killed by Himself with a suicide trick
+Wed Aug  7 11:14:19 2019	No Chin Boy (STEAM_0:1:460390799) spawned
+Wed Aug  7 11:14:50 2019	Big Boi Blumbing (STEAM_0:1:152356796): 
+Wed Aug  7 11:15:57 2019	No Chin Boy (STEAM_0:1:460390799) spawned
+Wed Aug  7 11:16:42 2019	󠀡󠀡Whaleman (STEAM_0:0:61782673) has joined the game
+Wed Aug  7 11:16:42 2019	chabo (STEAM_0:0:61782673) spawned
+Wed Aug  7 11:17:13 2019	No Chin Boy (STEAM_0:1:460390799) spawned
+Wed Aug  7 11:18:03 2019	Big Boi Blumbing was killed by No Chin Boy with a fas2_deagle
+Wed Aug  7 11:18:05 2019	Big Boi Blumbing (STEAM_0:1:152356796) spawned
+Wed Aug  7 11:18:13 2019	No Chin Boy was killed by Big Boi Blumbing with a fas2_deagle
+Wed Aug  7 11:18:15 2019	No Chin Boy (STEAM_0:1:460390799) spawned
+Wed Aug  7 11:18:48 2019	chabo (STEAM_0:0:61782673) spawned
+Wed Aug  7 11:18:55 2019	Big Boi Blumbing was killed by No Chin Boy with a fas2_deagle
+Wed Aug  7 11:18:57 2019	Big Boi Blumbing (STEAM_0:1:152356796) spawned
+Wed Aug  7 11:18:58 2019	chabo (STEAM_0:0:61782673): // sp what happened to robber
+Wed Aug  7 11:19:02 2019	chabo (STEAM_0:0:61782673): // so
+Wed Aug  7 11:19:06 2019	No Chin Boy was killed by Big Boi Blumbing with a fas2_deagle
+Wed Aug  7 11:19:08 2019	No Chin Boy (STEAM_0:1:460390799) spawned
+Wed Aug  7 11:19:26 2019	Big Boi Blumbing was killed by No Chin Boy with a fas2_deagle
+Wed Aug  7 11:19:29 2019	Big Boi Blumbing (STEAM_0:1:152356796) spawned
+Wed Aug  7 11:19:40 2019	Big Boi Blumbing was killed by No Chin Boy with a fas2_deagle
+Wed Aug  7 11:19:43 2019	Big Boi Blumbing (STEAM_0:1:152356796) spawned
+Wed Aug  7 11:20:05 2019	No Chin Boy was killed by Big Boi Blumbing with a fas2_sks
+Wed Aug  7 11:20:08 2019	No Chin Boy (STEAM_0:1:460390799) spawned
+Wed Aug  7 11:20:13 2019	chabo was killed by No Chin Boy with a fas2_deagle
+Wed Aug  7 11:20:15 2019	chabo (STEAM_0:0:61782673) spawned
+Wed Aug  7 11:20:16 2019	No Chin Boy was killed by Big Boi Blumbing with a fas2_sks
+Wed Aug  7 11:20:18 2019	No Chin Boy (STEAM_0:1:460390799) spawned
+Wed Aug  7 11:20:31 2019	No Chin Boy was killed by Big Boi Blumbing with a fas2_sks
+Wed Aug  7 11:20:36 2019	No Chin Boy (STEAM_0:1:460390799) spawned
+Wed Aug  7 11:20:48 2019	No Chin Boy was killed by chabo with a fas2_p226
+Wed Aug  7 11:20:50 2019	No Chin Boy (STEAM_0:1:460390799) spawned
+Wed Aug  7 11:22:51 2019	Big Boi Blumbing was killed by chabo with a fas2_m24
+Wed Aug  7 11:22:53 2019	Big Boi Blumbing (STEAM_0:1:152356796) spawned
+Wed Aug  7 11:24:48 2019	Big Boi Blumbing was killed by chabo with a fas2_m24
+Wed Aug  7 11:24:52 2019	Big Boi Blumbing (STEAM_0:1:152356796) spawned
+Wed Aug  7 11:25:10 2019	No Chin Boy was killed by Himself with a suicide trick
+Wed Aug  7 11:25:12 2019	No Chin Boy (STEAM_0:1:460390799) spawned
+Wed Aug  7 11:25:16 2019	chabo was killed by Big Boi Blumbing with a fas2_glock20
+Wed Aug  7 11:25:18 2019	chabo (STEAM_0:0:61782673) spawned
+Wed Aug  7 11:25:49 2019	chabo was killed by Big Boi Blumbing with a fas2_glock20
+Wed Aug  7 11:25:51 2019	chabo (STEAM_0:0:61782673) spawned
+Wed Aug  7 11:26:00 2019	Big Boi Blumbing was killed by No Chin Boy with a fas2_deagle
+Wed Aug  7 11:26:02 2019	Big Boi Blumbing (STEAM_0:1:152356796) spawned
+Wed Aug  7 11:26:07 2019	No Chin Boy was killed by chabo with a fas2_m24
+Wed Aug  7 11:26:10 2019	No Chin Boy (STEAM_0:1:460390799) spawned
+Wed Aug  7 11:26:31 2019	No Chin Boy was killed by chabo with a fas2_m24
+Wed Aug  7 11:26:36 2019	No Chin Boy (STEAM_0:1:460390799) spawned
+Wed Aug  7 11:26:40 2019	chabo was killed by Big Boi Blumbing with a fas2_rem870
+Wed Aug  7 11:26:42 2019	chabo (STEAM_0:0:61782673) spawned
+Wed Aug  7 11:26:48 2019	Big Boi Blumbing was killed by chabo with a fas2_m24
+Wed Aug  7 11:26:51 2019	Big Boi Blumbing (STEAM_0:1:152356796) spawned
+Wed Aug  7 11:27:00 2019	chabo was killed by No Chin Boy with a fas2_uzi
+Wed Aug  7 11:27:02 2019	chabo (STEAM_0:0:61782673) spawned
+Wed Aug  7 11:27:08 2019	Big Boi Blumbing was killed by No Chin Boy with a fas2_uzi
+Wed Aug  7 11:27:10 2019	Big Boi Blumbing (STEAM_0:1:152356796) spawned
+Wed Aug  7 11:27:17 2019	chabo was killed by No Chin Boy with a fas2_uzi
+Wed Aug  7 11:27:19 2019	chabo (STEAM_0:0:61782673) spawned
+Wed Aug  7 11:27:38 2019	No Chin Boy was killed by Big Boi Blumbing with a fas2_deagle
+Wed Aug  7 11:27:40 2019	No Chin Boy (STEAM_0:1:460390799) spawned
+Wed Aug  7 11:27:51 2019	Big Boi Blumbing was killed by No Chin Boy with a fas2_deagle
+Wed Aug  7 11:27:53 2019	Big Boi Blumbing (STEAM_0:1:152356796) spawned
+Wed Aug  7 11:27:57 2019	chabo was killed by Big Boi Blumbing with a fas2_deagle
+Wed Aug  7 11:28:00 2019	chabo (STEAM_0:0:61782673) spawned
+Wed Aug  7 11:28:58 2019	chabo (STEAM_0:0:61782673) spawned
+Wed Aug  7 11:31:24 2019	chabo (STEAM_0:0:61782673) spawned Vehicle prop_vehicle_jeep (crownvic_taxitdm)
+Wed Aug  7 11:31:28 2019	Big Boi Blumbing (STEAM_0:1:152356796) spawned Vehicle prop_vehicle_jeep (porcycletdm)
+Wed Aug  7 11:31:43 2019	No Chin Boy was killed by Big Boi Blumbing with a prop_vehicle_jeep
+Wed Aug  7 11:31:47 2019	No Chin Boy (STEAM_0:1:460390799) spawned
+Wed Aug  7 11:32:25 2019	DevL was killed by Himself with a suicide trick
+Wed Aug  7 11:32:35 2019	DevL (STEAM_0:0:97157625) spawned
+Wed Aug  7 11:34:03 2019	No Chin Boy (STEAM_0:1:460390799) spawned Vehicle prop_vehicle_jeep (gallardospydtdm)
+Wed Aug  7 11:35:32 2019	DevL (STEAM_0:0:97157625) spawned Vehicle prop_vehicle_jeep (xbowtdm)
+Wed Aug  7 11:36:26 2019	Derp (STEAM_0:0:52504530) has joined the game
+Wed Aug  7 11:36:26 2019	William (STEAM_0:0:52504530) spawned
+Wed Aug  7 11:36:42 2019	Big Boi Blumbing (STEAM_0:1:152356796): !warn
+Wed Aug  7 11:36:42 2019	DevL (STEAM_0:0:97157625) spawned Vehicle prop_vehicle_jeep (p1tdm)
+Wed Aug  7 11:36:51 2019	No Chin Boy was killed by Vehicle [207][prop_vehicle_jeep] with a env_explosion
+Wed Aug  7 11:36:54 2019	No Chin Boy (STEAM_0:1:460390799) spawned
+Wed Aug  7 11:37:06 2019	William (STEAM_0:0:52504530): !warn
+Wed Aug  7 11:37:09 2019	DevL was killed by Himself with a suicide trick
+Wed Aug  7 11:37:11 2019	DevL (STEAM_0:0:97157625) spawned
+Wed Aug  7 11:38:53 2019	Big Boi Blumbing was killed by Entity [1149][func_door] with a func_door
+Wed Aug  7 11:38:57 2019	Big Boi Blumbing (STEAM_0:1:152356796) spawned
+Wed Aug  7 11:39:08 2019	Big Boi Blumbing (STEAM_0:1:152356796) disconnected
+Wed Aug  7 11:40:07 2019	DevL (STEAM_0:0:97157625) spawned Vehicle prop_vehicle_jeep (p1tdm)
+Wed Aug  7 11:40:55 2019	No Chin Boy (STEAM_0:1:460390799) spawned Vehicle prop_vehicle_jeep (gallardospydtdm)
+Wed Aug  7 11:43:11 2019	chabo was killed by Vehicle [193][prop_vehicle_jeep] with a env_explosion
+Wed Aug  7 11:43:13 2019	chabo (STEAM_0:0:61782673) spawned
+Wed Aug  7 11:43:19 2019	chabo (STEAM_0:0:61782673) disconnected
+Wed Aug  7 11:43:23 2019	No Chin Boy was killed by DevL with a fas2_ak12
+Wed Aug  7 11:43:25 2019	No Chin Boy (STEAM_0:1:460390799) spawned
+Wed Aug  7 11:44:18 2019	No Chin Boy (STEAM_0:1:460390799) spawned Vehicle prop_vehicle_jeep (gallardospydtdm)
+Wed Aug  7 11:44:36 2019	William was killed by DevL with a prop_vehicle_jeep
+Wed Aug  7 11:45:37 2019	No Chin Boy was killed by DevL with a fas2_ak12
+Wed Aug  7 11:45:42 2019	No Chin Boy (STEAM_0:1:460390799) spawned
+Wed Aug  7 11:45:55 2019	Dio (STEAM_0:0:497465680) has joined the game
+Wed Aug  7 11:45:55 2019	Dio (STEAM_0:0:497465680) spawned
+Wed Aug  7 11:46:09 2019	William (STEAM_0:0:52504530) spawned
+Wed Aug  7 11:46:34 2019	Dio (STEAM_0:0:497465680) spawned
+Wed Aug  7 11:47:24 2019	Dio was killed by DevL with a prop_vehicle_jeep
+Wed Aug  7 11:47:26 2019	Dio (STEAM_0:0:497465680) spawned
+Wed Aug  7 11:47:42 2019	No Chin Boy (STEAM_0:1:460390799) spawned Vehicle prop_vehicle_jeep (golfvr6tdm)
+Wed Aug  7 11:48:08 2019	DevL was killed by Dio with a fas2_ak12
+Wed Aug  7 11:48:12 2019	DevL (STEAM_0:0:97157625) spawned
+Wed Aug  7 11:48:34 2019	DevL was killed by Dio with a prop_vehicle_jeep
+Wed Aug  7 11:48:36 2019	DevL (STEAM_0:0:97157625) spawned
+Wed Aug  7 11:49:04 2019	No Chin Boy was killed by DevL with a fas2_ak12
+Wed Aug  7 11:49:06 2019	No Chin Boy (STEAM_0:1:460390799) spawned
+Wed Aug  7 11:49:14 2019	William was killed by DevL with a fas2_ak12
+Wed Aug  7 11:49:18 2019	William (STEAM_0:0:52504530) spawned
+Wed Aug  7 11:50:00 2019	DevL was killed by Dio with a fas2_ak12
+Wed Aug  7 11:50:02 2019	DevL (STEAM_0:0:97157625) spawned
+Wed Aug  7 11:50:28 2019	No Chin Boy was killed by Dio with a fas2_ak12
+Wed Aug  7 11:50:30 2019	No Chin Boy (STEAM_0:1:460390799) spawned
+Wed Aug  7 11:50:40 2019	Dio was killed by DevL with a fas2_ak12
+Wed Aug  7 11:50:40 2019	Dio (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_jeep (lex_is300tdm)
+Wed Aug  7 11:50:42 2019	Dio (STEAM_0:0:497465680) spawned
+Wed Aug  7 11:50:52 2019	William (STEAM_0:0:52504530): 
+Wed Aug  7 11:50:56 2019	DevL (STEAM_0:0:97157625): // YEET

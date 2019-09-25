@@ -1,0 +1,4 @@
+2019-08-13 00.15.43: <General> Logging started, map: rp_downtown_tits_v2.
+2019-08-13 00.15.43: <General> Welcome to VCMod Auto-Updater version 9.61.
+2019-08-13 00.15.43: <General> Pre-initialization complete, preparing to load addon data.
+2019-08-13 00.15.43: <General> Addons found: VCMod ELS, VCMod Main.

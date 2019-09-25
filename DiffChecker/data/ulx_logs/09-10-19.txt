@@ -1,0 +1,1781 @@
+<Logging continued from "data/ulx_logs/09-09-19.txt">
+[10:15:05] Client "Doof" connected.
+[10:17:54] Client "Doof" spawned in server <STEAM_0:1:426762407> (took 169 seconds).
+[10:19:41] Dropped "Doof" from server<STEAM_0:1:426762407>
+[10:20:27] Client "Doof" connected.
+[10:21:48] Client "Doof" spawned in server <STEAM_0:1:426762407> (took 81 seconds).
+[10:32:35] Doof: /agenda
+[11:04:37] Doof suicided!
+[11:33:09] Dropped "Doof" from server<STEAM_0:1:426762407>
+[18:56:42] Client "Bastixx" connected.
+[18:59:39] Client "DrDerpenstein sups.gg" connected.
+[19:00:44] Client "Bastixx" spawned in server <STEAM_0:1:91231746> (took 242 seconds).
+[19:00:59] Client "DrDerpenstein sups.gg" spawned in server <STEAM_0:0:13562763> (took 80 seconds).
+[19:03:01] Client "calab432" connected.
+[19:03:30] Client "Doof" connected.
+[19:05:08] Dropped "Bastixx" from server<STEAM_0:1:91231746>
+[19:05:24] Client "Doof" spawned in server <STEAM_0:1:426762407> (took 114 seconds).
+[19:06:42] Client "calab432" spawned in server <STEAM_0:0:507740623> (took 221 seconds).
+[19:06:55] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[19:06:55] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[19:06:55] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[19:06:55] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[19:06:55] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[19:06:56] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[19:06:56] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[19:08:23] DrDerpenstein<STEAM_0:0:13562763> spawned vehicle models/sligwolf/fcc/flying_crawler_car.mdl
+[19:08:42] Client "Bastixx" connected.
+[19:08:51] Client "Derp" connected.
+[19:09:51] Client "Derp" spawned in server <STEAM_0:0:52504530> (took 60 seconds).
+[19:09:53] DrDerpenstein<STEAM_0:0:13562763> used the tool remover on *72
+[19:11:10] Doof<STEAM_0:1:426762407> spawned vehicle models/sligwolf/hovercraft/hovercraft.mdl
+[19:12:04] Client "Bastixx" spawned in server <STEAM_0:1:91231746> (took 202 seconds).
+[19:12:28] Doof<STEAM_0:1:426762407> spawned vehicle models/sligwolf/trabant/trabant.mdl
+[19:12:40] Doof<STEAM_0:1:426762407> spawned vehicle models/sligwolf/trabant/trabant.mdl
+[19:12:47] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[19:13:03] DrDerpenstein<STEAM_0:0:13562763> used the tool stacker_improved on models/props_building_details/storefront_template001a_bars.mdl
+[19:13:03] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[19:13:04] DrDerpenstein<STEAM_0:0:13562763> used the tool stacker_improved on models/props_building_details/storefront_template001a_bars.mdl
+[19:13:05] DrDerpenstein<STEAM_0:0:13562763> used the tool stacker_improved on models/props_building_details/storefront_template001a_bars.mdl
+[19:13:05] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[19:13:19] DrDerpenstein<STEAM_0:0:13562763> used the tool material on models/props_building_details/storefront_template001a_bars.mdl
+[19:13:20] DrDerpenstein<STEAM_0:0:13562763> used the tool material on models/props_building_details/storefront_template001a_bars.mdl
+[19:13:20] DrDerpenstein<STEAM_0:0:13562763> used the tool material on models/props_building_details/storefront_template001a_bars.mdl
+[19:13:23] DrDerpenstein<STEAM_0:0:13562763> used the tool colour on models/props_building_details/storefront_template001a_bars.mdl
+[19:13:24] DrDerpenstein<STEAM_0:0:13562763> used the tool colour on models/props_building_details/storefront_template001a_bars.mdl
+[19:13:24] DrDerpenstein<STEAM_0:0:13562763> used the tool colour on models/props_building_details/storefront_template001a_bars.mdl
+[19:13:57] DrDerpenstein<STEAM_0:0:13562763> used the tool textscreen on maps/rp_downtown_tits_v2.bsp
+[19:13:59] DrDerpenstein<STEAM_0:0:13562763> used the tool textscreen on maps/rp_downtown_tits_v2.bsp
+[19:14:01] DrDerpenstein<STEAM_0:0:13562763> used the tool textscreen on maps/rp_downtown_tits_v2.bsp
+[19:14:06] Derp<STEAM_0:0:52504530> spawned vehicle models/sligwolf/limousine/swglimonew.mdl
+[19:14:21] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_lab/blastdoor001c.mdl
+[19:15:53] DrDerpenstein: /dropmoney 20000000
+[19:16:03] DrDerpenstein: /give 17000000
+[19:16:45] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[19:16:45] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[19:16:55] Dropped "Bastixx" from server<STEAM_0:1:91231746>
+[19:17:14] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[19:17:43] DrDerpenstein<STEAM_0:0:13562763> used the tool stacker_improved on models/props_building_details/storefront_template001a_bars.mdl
+[19:17:43] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[19:17:51] DrDerpenstein<STEAM_0:0:13562763> used the tool stacker_improved on models/props_building_details/storefront_template001a_bars.mdl
+[19:17:51] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[19:17:54] DrDerpenstein<STEAM_0:0:13562763> used the tool stacker_improved on models/props_building_details/storefront_template001a_bars.mdl
+[19:17:54] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[19:17:58] DrDerpenstein<STEAM_0:0:13562763> used the tool material on models/props_building_details/storefront_template001a_bars.mdl
+[19:17:58] DrDerpenstein<STEAM_0:0:13562763> used the tool material on models/props_building_details/storefront_template001a_bars.mdl
+[19:18:00] DrDerpenstein<STEAM_0:0:13562763> used the tool material on models/props_building_details/storefront_template001a_bars.mdl
+[19:18:01] DrDerpenstein<STEAM_0:0:13562763> used the tool material on models/props_building_details/storefront_template001a_bars.mdl
+[19:18:11] DrDerpenstein<STEAM_0:0:13562763> used the tool colour on models/props_building_details/storefront_template001a_bars.mdl
+[19:18:12] DrDerpenstein<STEAM_0:0:13562763> used the tool colour on models/props_building_details/storefront_template001a_bars.mdl
+[19:18:13] DrDerpenstein<STEAM_0:0:13562763> used the tool colour on models/props_building_details/storefront_template001a_bars.mdl
+[19:18:13] DrDerpenstein<STEAM_0:0:13562763> used the tool colour on models/props_building_details/storefront_template001a_bars.mdl
+[19:18:24] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_wasteland/laundry_washer003.mdl
+[19:18:53] DrDerpenstein<STEAM_0:0:13562763> used the tool remover on models/props_building_details/storefront_template001a_bars.mdl
+[19:19:39] DrDerpenstein<STEAM_0:0:13562763> used the tool stacker_improved on models/props_building_details/storefront_template001a_bars.mdl
+[19:19:39] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[19:19:59] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_wasteland/laundry_washer003.mdl
+[19:20:44] Client "Bastixx" connected.
+[19:20:47] Client "nickiekillian78" connected.
+[19:21:20] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_c17/concrete_barrier001a.mdl
+[19:21:48] DrDerpenstein: /pm derp turn on serverside bad coders. lets see why people are lagging
+[19:21:56] DrDerpenstein: /pm derp turn on serverside bad coders. lets see why people are lagging
+[19:22:41] DrDerpenstein<STEAM_0:0:13562763> used the tool stacker_improved on models/props_c17/concrete_barrier001a.mdl
+[19:22:41] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_c17/concrete_barrier001a.mdl
+[19:23:00] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_c17/concrete_barrier001a.mdl
+[19:23:06] Client "Bastixx" spawned in server <STEAM_0:1:91231746> (took 142 seconds).
+[19:23:50] DrDerpenstein<STEAM_0:0:13562763> used the tool stacker_improved on models/props_c17/concrete_barrier001a.mdl
+[19:23:50] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_c17/concrete_barrier001a.mdl
+[19:24:08] Derp: !safezones
+[19:24:23] DrDerpenstein<STEAM_0:0:13562763> used the tool material on models/props_c17/concrete_barrier001a.mdl
+[19:24:23] DrDerpenstein<STEAM_0:0:13562763> used the tool material on models/props_c17/concrete_barrier001a.mdl
+[19:24:24] DrDerpenstein<STEAM_0:0:13562763> used the tool material on models/props_c17/concrete_barrier001a.mdl
+[19:24:25] DrDerpenstein<STEAM_0:0:13562763> used the tool material on models/props_c17/concrete_barrier001a.mdl
+[19:24:44] DrDerpenstein<STEAM_0:0:13562763> used the tool colour on models/props_c17/concrete_barrier001a.mdl
+[19:24:44] DrDerpenstein<STEAM_0:0:13562763> used the tool colour on models/props_c17/concrete_barrier001a.mdl
+[19:24:44] DrDerpenstein<STEAM_0:0:13562763> used the tool colour on models/props_c17/concrete_barrier001a.mdl
+[19:24:44] DrDerpenstein<STEAM_0:0:13562763> used the tool colour on models/props_c17/concrete_barrier001a.mdl
+[19:25:25] DrDerpenstein<STEAM_0:0:13562763> used the tool material on models/props_wasteland/laundry_washer003.mdl
+[19:25:29] DrDerpenstein<STEAM_0:0:13562763> used the tool material on models/props_wasteland/laundry_washer003.mdl
+[19:25:45] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_wasteland/laundry_washer003.mdl
+[19:26:03] DrDerpenstein<STEAM_0:0:13562763> used the tool nocollide on models/props_wasteland/laundry_washer003.mdl
+[19:26:07] DrDerpenstein<STEAM_0:0:13562763> used the tool material on models/props_wasteland/laundry_washer003.mdl
+[19:26:13] DrDerpenstein<STEAM_0:0:13562763> used the tool material on models/props_lab/blastdoor001c.mdl
+[19:26:36] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[19:27:01] DrDerpenstein<STEAM_0:0:13562763> used the tool material on models/props_building_details/storefront_template001a_bars.mdl
+[19:27:10] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_wasteland/laundry_washer003.mdl
+[19:27:14] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_wasteland/laundry_washer003.mdl
+[19:27:15] Bastixx<STEAM_0:1:91231746> spawned vehicle models/sligwolf/fcc/flying_crawler_car.mdl
+[19:27:25] Derp<STEAM_0:0:52504530> spawned/gave himself swep wcd_admin
+[19:27:36] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_c17/concrete_barrier001a.mdl
+[19:27:54] DrDerpenstein<STEAM_0:0:13562763> used the tool weld on models/props_wasteland/laundry_washer003.mdl
+[19:27:55] DrDerpenstein<STEAM_0:0:13562763> used the tool weld on models/props_building_details/storefront_template001a_bars.mdl
+[19:27:56] DrDerpenstein<STEAM_0:0:13562763> used the tool weld on models/props_c17/concrete_barrier001a.mdl
+[19:27:57] DrDerpenstein<STEAM_0:0:13562763> used the tool weld on models/props_wasteland/laundry_washer003.mdl
+[19:27:58] DrDerpenstein<STEAM_0:0:13562763> used the tool weld on models/props_c17/concrete_barrier001a.mdl
+[19:27:58] DrDerpenstein<STEAM_0:0:13562763> used the tool weld on models/props_building_details/storefront_template001a_bars.mdl
+[19:28:02] DrDerpenstein<STEAM_0:0:13562763> used the tool weld on models/props_c17/concrete_barrier001a.mdl
+[19:28:03] DrDerpenstein<STEAM_0:0:13562763> used the tool weld on models/props_c17/concrete_barrier001a.mdl
+[19:28:04] DrDerpenstein<STEAM_0:0:13562763> used the tool weld on models/props_building_details/storefront_template001a_bars.mdl
+[19:28:05] DrDerpenstein<STEAM_0:0:13562763> used the tool weld on models/props_building_details/storefront_template001a_bars.mdl
+[19:28:05] DrDerpenstein<STEAM_0:0:13562763> used the tool weld on models/props_c17/concrete_barrier001a.mdl
+[19:28:06] DrDerpenstein<STEAM_0:0:13562763> used the tool weld on models/props_building_details/storefront_template001a_bars.mdl
+[19:28:07] DrDerpenstein<STEAM_0:0:13562763> used the tool weld on models/props_c17/concrete_barrier001a.mdl
+[19:28:08] DrDerpenstein<STEAM_0:0:13562763> used the tool weld on models/props_c17/concrete_barrier001a.mdl
+[19:28:09] DrDerpenstein<STEAM_0:0:13562763> used the tool weld on models/props_c17/concrete_barrier001a.mdl
+[19:28:09] DrDerpenstein<STEAM_0:0:13562763> used the tool weld on models/props_lab/blastdoor001c.mdl
+[19:28:10] DrDerpenstein<STEAM_0:0:13562763> used the tool weld on models/props_wasteland/laundry_washer003.mdl
+[19:28:11] DrDerpenstein<STEAM_0:0:13562763> used the tool weld on models/props_wasteland/laundry_washer003.mdl
+[19:28:13] DrDerpenstein<STEAM_0:0:13562763> used the tool weld on models/props_building_details/storefront_template001a_bars.mdl
+[19:28:13] DrDerpenstein<STEAM_0:0:13562763> used the tool weld on models/props_lab/blastdoor001c.mdl
+[19:28:14] DrDerpenstein<STEAM_0:0:13562763> used the tool weld on models/props_building_details/storefront_template001a_bars.mdl
+[19:28:14] DrDerpenstein<STEAM_0:0:13562763> used the tool weld on models/props_wasteland/laundry_washer003.mdl
+[19:28:16] DrDerpenstein<STEAM_0:0:13562763> used the tool weld on models/props_building_details/storefront_template001a_bars.mdl
+[19:28:17] DrDerpenstein<STEAM_0:0:13562763> used the tool weld on models/props_building_details/storefront_template001a_bars.mdl
+[19:28:18] DrDerpenstein<STEAM_0:0:13562763> used the tool weld on models/props_lab/blastdoor001c.mdl
+[19:28:18] DrDerpenstein<STEAM_0:0:13562763> used the tool weld on models/props_wasteland/laundry_washer003.mdl
+[19:28:23] DrDerpenstein<STEAM_0:0:13562763> used the tool weld on models/props_c17/concrete_barrier001a.mdl
+[19:28:25] Derp was killed by prop_vehicle_jeep
+[19:28:35] DrDerpenstein<STEAM_0:0:13562763> used the tool material on models/props_wasteland/laundry_washer003.mdl
+[19:28:38] DrDerpenstein<STEAM_0:0:13562763> used the tool material on models/props_wasteland/laundry_washer003.mdl
+[19:28:46] DrDerpenstein<STEAM_0:0:13562763> used the tool material on models/props_wasteland/laundry_washer003.mdl
+[19:28:47] DrDerpenstein<STEAM_0:0:13562763> used the tool material on models/props_c17/concrete_barrier001a.mdl
+[19:29:01] Derp was killed by prop_vehicle_jeep
+[19:30:02] DrDerpenstein<STEAM_0:0:13562763> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[19:30:03] DrDerpenstein<STEAM_0:0:13562763> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[19:30:12] DrDerpenstein<STEAM_0:0:13562763> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[19:30:12] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_wasteland/laundry_washer003.mdl
+[19:30:12] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_c17/concrete_barrier001a.mdl
+[19:30:12] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_c17/concrete_barrier001a.mdl
+[19:30:12] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[19:30:12] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[19:30:12] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[19:30:12] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_lab/blastdoor001c.mdl
+[19:30:12] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[19:30:12] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[19:30:12] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[19:30:12] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_wasteland/laundry_washer003.mdl
+[19:30:12] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_c17/concrete_barrier001a.mdl
+[19:30:12] DrDerpenstein<STEAM_0:0:13562763> spawned sent sammyservers_textscreen
+[19:30:12] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[19:30:12] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[19:30:12] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_c17/concrete_barrier001a.mdl
+[19:30:12] DrDerpenstein<STEAM_0:0:13562763> spawned sent sammyservers_textscreen
+[19:30:12] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_wasteland/laundry_washer003.mdl
+[19:30:12] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_c17/concrete_barrier001a.mdl
+[19:30:12] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_wasteland/laundry_washer003.mdl
+[19:30:14] Derp was killed by prop_vehicle_jeep
+[19:30:54] DrDerpenstein<STEAM_0:0:13562763> used the tool remover on models/hunter/plates/plate1x1.mdl
+[19:30:55] DrDerpenstein<STEAM_0:0:13562763> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[19:30:56] DrDerpenstein<STEAM_0:0:13562763> used the tool remover on models/hunter/plates/plate1x1.mdl
+[19:30:58] Bastixx killed calab432 using player
+[19:31:08] DrDerpenstein<STEAM_0:0:13562763> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[19:31:08] DrDerpenstein<STEAM_0:0:13562763> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[19:31:13] DrDerpenstein<STEAM_0:0:13562763> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[19:31:13] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_wasteland/laundry_washer003.mdl
+[19:31:13] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_c17/concrete_barrier001a.mdl
+[19:31:13] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_c17/concrete_barrier001a.mdl
+[19:31:13] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[19:31:13] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[19:31:13] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[19:31:13] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_lab/blastdoor001c.mdl
+[19:31:13] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[19:31:13] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[19:31:13] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_wasteland/laundry_washer003.mdl
+[19:31:13] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_wasteland/laundry_washer003.mdl
+[19:31:13] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_c17/concrete_barrier001a.mdl
+[19:31:13] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[19:31:13] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[19:31:13] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[19:31:13] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_wasteland/laundry_washer003.mdl
+[19:31:13] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_c17/concrete_barrier001a.mdl
+[19:31:13] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_c17/concrete_barrier001a.mdl
+[19:31:17] Derp was killed by prop_vehicle_jeep
+[19:31:18] Bastixx suicided!
+[19:32:21] Bastixx: /dropmoney 1000000
+[19:32:49] Bastixx<STEAM_0:1:91231746> spawned vehicle models/sligwolf/fcc/flying_crawler_car.mdl
+[19:33:13] Derp: !wcd
+[19:33:17] Bastixx<STEAM_0:1:91231746> spawned vehicle models/sligwolf/fcc/flying_crawler_car.mdl
+[19:33:19] DrDerpenstein: !wcd
+[19:33:58] calab432<STEAM_0:0:507740623> spawned vehicle models/sligwolf/hotrod/old_hotrod.mdl
+[19:34:32] Derp<STEAM_0:0:52504530> spawned/gave himself swep weapon_empty_hands
+[19:36:55] Bastixx killed calab432 using player
+[19:36:57] Bastixx was killed by prop_vehicle_jeep
+[19:38:20] Client "nat3_8" connected.
+[19:38:40] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[19:38:49] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[19:38:49] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[19:38:49] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[19:38:49] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[19:38:49] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[19:38:49] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[19:38:49] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[19:38:50] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[19:38:50] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[19:38:50] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[19:38:50] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[19:38:50] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[19:39:46] calab432 killed Derp using player
+[19:40:31] Derp killed calab432 using player
+[19:41:29] DrDerpenstein<STEAM_0:0:13562763> used the tool fading_door on models/props_building_details/storefront_template001a_bars.mdl
+[19:41:32] DrDerpenstein<STEAM_0:0:13562763> used the tool fading_door on models/props_wasteland/laundry_washer003.mdl
+[19:41:38] calab432 killed Derp using player
+[19:41:39] DrDerpenstein<STEAM_0:0:13562763> used the tool keypad_willox on maps/rp_downtown_tits_v2.bsp
+[19:41:45] DrDerpenstein<STEAM_0:0:13562763> used the tool keypad_willox on maps/rp_downtown_tits_v2.bsp
+[19:41:48] DrDerpenstein<STEAM_0:0:13562763> used the tool keypad_willox on maps/rp_downtown_tits_v2.bsp
+[19:41:51] DrDerpenstein<STEAM_0:0:13562763> used the tool keypad_willox on maps/rp_downtown_tits_v2.bsp
+[19:42:08] DrDerpenstein<STEAM_0:0:13562763> used the tool keypad_willox on maps/rp_downtown_tits_v2.bsp
+[19:42:13] DrDerpenstein<STEAM_0:0:13562763> used the tool keypad_willox on maps/rp_downtown_tits_v2.bsp
+[19:42:17] DrDerpenstein<STEAM_0:0:13562763> used the tool fading_door on models/props_building_details/storefront_template001a_bars.mdl
+[19:42:18] DrDerpenstein<STEAM_0:0:13562763> used the tool fading_door on models/props_wasteland/laundry_washer003.mdl
+[19:42:25] DrDerpenstein<STEAM_0:0:13562763> used the tool fading_door on models/props_building_details/storefront_template001a_bars.mdl
+[19:42:27] DrDerpenstein<STEAM_0:0:13562763> used the tool fading_door on models/props_wasteland/laundry_washer003.mdl
+[19:42:32] calab432 killed Derp using player
+[19:42:46] DrDerpenstein: !menu
+[19:42:51] Derp killed calab432 using player
+[19:44:35] DrDerpenstein: !apg
+[19:45:07] DrDerpenstein<STEAM_0:0:13562763> used the tool nocollide on models/props_building_details/storefront_template001a_bars.mdl
+[19:45:10] DrDerpenstein<STEAM_0:0:13562763> used the tool nocollide on models/props_wasteland/laundry_washer003.mdl
+[19:45:11] Client "nat3_8" spawned in server <STEAM_0:0:429762283> (took 411 seconds).
+[19:45:54] DrDerpenstein<STEAM_0:0:13562763> spawned model models/mechanics/gears2/pinion_40t3.mdl
+[19:46:02] calab432 killed Derp using player
+[19:46:34] Derp killed calab432 using player
+[19:47:21] DrDerpenstein killed Derp using player
+[19:47:43] calab432 killed Derp using player
+[19:47:58] DrDerpenstein killed calab432 using player
+[19:48:19] nat3_8 killed DrDerpenstein using player
+[19:48:28] Derp killed nat3_8 using player
+[19:49:39] DrDerpenstein was killed by prop_vehicle_jeep
+[19:49:55] Bastixx suicided!
+[19:50:05] calab432 killed Derp using player
+[19:50:17] calab432 killed Bastixx using player
+[19:50:26] calab432 was killed by prop_vehicle_jeep
+[19:50:40] DrDerpenstein killed Derp using player
+[19:50:48] Bastixx killed DrDerpenstein using player
+[19:51:16] Derp killed calab432 using player
+[19:51:19] DrDerpenstein was killed by prop_vehicle_jeep
+[19:51:21] Derp killed Bastixx using player
+[19:51:46] calab432 was killed by prop_vehicle_jeep
+[19:52:27] Bastixx<STEAM_0:1:91231746> spawned vehicle models/sligwolf/blue-x11/blue-x11.mdl
+[19:52:50] nat3_8<STEAM_0:0:429762283> spawned model models/props_c17/furnituredrawer001a_chunk05.mdl
+[19:52:57] calab432 killed Derp using player
+[19:53:02] DrDerpenstein<STEAM_0:0:13562763> spawned vehicle models/sligwolf/blue-x14/blue-x14.mdl
+[19:53:08] nat3_8<STEAM_0:0:429762283> spawned model models/props_c17/furnituredrawer001a_chunk05.mdl
+[19:53:09] DrDerpenstein killed calab432 using player
+[19:53:13] Derp<STEAM_0:0:52504530> spawned vehicle models/sligwolf/blue-x14/blue-x14.mdl
+[19:53:14] DrDerpenstein<STEAM_0:0:13562763> spawned vehicle models/sligwolf/blue-x14/blue-x14.mdl
+[19:53:14] Derp<STEAM_0:0:52504530> spawned vehicle models/sligwolf/fcc/flying_crawler_car.mdl
+[19:53:15] Derp<STEAM_0:0:52504530> spawned vehicle models/sligwolf/blue-x14/blue-x14.mdl
+[19:53:17] Derp<STEAM_0:0:52504530> spawned vehicle models/sligwolf/blue-x14/blue-x14.mdl
+[19:53:19] Derp<STEAM_0:0:52504530> spawned vehicle models/sligwolf/blue-x14/blue-x14.mdl
+[19:53:20] Derp<STEAM_0:0:52504530> spawned vehicle models/sligwolf/blue-x14/blue-x14.mdl
+[19:53:31] nat3_8<STEAM_0:0:429762283> spawned model models/props_c17/furnitureshelf001b.mdl
+[19:53:38] Derp<STEAM_0:0:52504530> spawned vehicle models/sligwolf/blue-x14/blue-x14.mdl
+[19:53:39] Derp<STEAM_0:0:52504530> spawned vehicle models/sligwolf/blue-x14/blue-x14.mdl
+[19:53:43] Derp<STEAM_0:0:52504530> spawned vehicle models/sligwolf/blue-x14/blue-x14.mdl
+[19:53:49] calab432 was killed by prop_vehicle_jeep
+[19:53:49] Derp was killed by prop_vehicle_jeep
+[19:54:02] nat3_8<STEAM_0:0:429762283> spawned model models/props_c17/furnitureshelf001b.mdl
+[19:54:04] Derp<STEAM_0:0:52504530> spawned vehicle models/sligwolf/blue-x14/blue-x14.mdl
+[19:54:10] nat3_8<STEAM_0:0:429762283> spawned model models/props_c17/furnitureshelf001b.mdl
+[19:54:12] Bastixx was killed by grenade_ar2
+[19:54:20] DrDerpenstein was killed by grenade_ar2
+[19:54:20] DrDerpenstein suicided!
+[19:54:34] nat3_8<STEAM_0:0:429762283> spawned model models/hunter/blocks/cube1x8x05.mdl
+[19:54:38] nat3_8<STEAM_0:0:429762283> spawned model models/hunter/blocks/cube1x3x025.mdl
+[19:54:56] calab432 killed Bastixx using player
+[19:54:58] nat3_8<STEAM_0:0:429762283> spawned model models/hunter/blocks/cube075x5x075.mdl
+[19:54:58] DrDerpenstein killed calab432 using player
+[19:55:06] nat3_8<STEAM_0:0:429762283> spawned model models/hunter/blocks/cube075x4x025.mdl
+[19:55:10] Derp<STEAM_0:0:52504530> spawned vehicle models/sligwolf/blue-x14/blue-x14.mdl
+[19:55:11] nat3_8<STEAM_0:0:429762283> spawned model models/hunter/blocks/cube075x2x025.mdl
+[19:55:17] DrDerpenstein<STEAM_0:0:13562763> spawned sent prop_physics
+[19:55:17] DrDerpenstein<STEAM_0:0:13562763> spawned sent prop_physics
+[19:55:18] DrDerpenstein<STEAM_0:0:13562763> spawned sent prop_physics
+[19:55:18] DrDerpenstein<STEAM_0:0:13562763> spawned sent prop_physics
+[19:55:18] DrDerpenstein<STEAM_0:0:13562763> spawned sent prop_physics
+[19:55:19] DrDerpenstein<STEAM_0:0:13562763> spawned sent prop_physics
+[19:55:19] DrDerpenstein<STEAM_0:0:13562763> spawned sent prop_physics
+[19:55:19] DrDerpenstein<STEAM_0:0:13562763> spawned sent prop_physics
+[19:55:22] Derp suicided!
+[19:55:37] DrDerpenstein<STEAM_0:0:13562763> spawned vehicle models/sligwolf/blue-x14/blue-x14.mdl
+[19:55:39] calab432 suicided!
+[19:55:42] nat3_8<STEAM_0:0:429762283> spawned model models/hunter/blocks/cube025x075x025.mdl
+[19:55:45] Derp<STEAM_0:0:52504530> spawned vehicle models/sligwolf/blue-x14/blue-x14.mdl
+[19:56:00] nat3_8<STEAM_0:0:429762283> spawned model models/hunter/blocks/cube075x3x025.mdl
+[19:56:09] calab432<STEAM_0:0:507740623> spawned model models/props_c17/lockers001a.mdl
+[19:56:24] nat3_8<STEAM_0:0:429762283> spawned model models/hunter/blocks/cube075x2x025.mdl
+[19:56:29] Bastixx killed calab432 using player
+[19:56:42] Derp: /dropmoney 5000
+[19:57:16] calab432 killed DrDerpenstein using player
+[19:57:28] Derp: /dropmoney 20000
+[19:57:36] Bastixx was killed by grenade_ar2
+[19:58:15] DrDerpenstein was killed by prop_vehicle_jeep
+[19:58:18] Bastixx killed calab432 using player
+[19:58:23] nat3_8<STEAM_0:0:429762283> spawned model models/hunter/blocks/cube075x2x025.mdl
+[19:58:26] Bastixx<STEAM_0:1:91231746> spawned vehicle models/sligwolf/fcc/flying_crawler_car.mdl
+[19:58:31] DrDerpenstein: !wcd
+[19:58:37] nat3_8<STEAM_0:0:429762283> spawned model models/hunter/blocks/cube075x1x025.mdl
+[19:58:42] Derp was killed by prop_vehicle_jeep
+[19:58:44] calab432<STEAM_0:0:507740623> spawned model models/props_interiors/radiator01a.mdl
+[19:58:45] calab432<STEAM_0:0:507740623> spawned model models/props_interiors/radiator01a.mdl
+[19:58:45] calab432<STEAM_0:0:507740623> spawned model models/props_interiors/radiator01a.mdl
+[19:58:45] calab432<STEAM_0:0:507740623> spawned model models/props_interiors/radiator01a.mdl
+[19:58:45] calab432<STEAM_0:0:507740623> spawned model models/props_interiors/radiator01a.mdl
+[19:58:45] calab432<STEAM_0:0:507740623> spawned model models/props_interiors/radiator01a.mdl
+[19:58:46] calab432<STEAM_0:0:507740623> spawned model models/props_interiors/radiator01a.mdl
+[19:58:46] calab432<STEAM_0:0:507740623> spawned model models/props_interiors/radiator01a.mdl
+[19:58:46] calab432<STEAM_0:0:507740623> spawned model models/props_interiors/radiator01a.mdl
+[19:58:46] calab432<STEAM_0:0:507740623> spawned model models/props_interiors/radiator01a.mdl
+[19:58:49] nat3_8<STEAM_0:0:429762283> spawned model models/hunter/blocks/cube075x1x025.mdl
+[19:59:28] nat3_8<STEAM_0:0:429762283> spawned model models/hunter/blocks/cube025x075x025.mdl
+[19:59:37] Bastixx killed calab432 using player
+[19:59:42] Bastixx<STEAM_0:1:91231746> spawned vehicle models/sligwolf/fcc/flying_crawler_car.mdl
+[19:59:43] nat3_8<STEAM_0:0:429762283> used the tool colour on models/hunter/blocks/cube075x1x025.mdl
+[19:59:44] nat3_8<STEAM_0:0:429762283> used the tool colour on models/hunter/blocks/cube075x1x025.mdl
+[19:59:45] nat3_8<STEAM_0:0:429762283> used the tool colour on models/hunter/blocks/cube025x075x025.mdl
+[19:59:47] nat3_8<STEAM_0:0:429762283> used the tool colour on models/hunter/blocks/cube025x075x025.mdl
+[19:59:47] nat3_8<STEAM_0:0:429762283> used the tool colour on models/hunter/blocks/cube075x2x025.mdl
+[19:59:58] calab432 was killed by prop_vehicle_jeep
+[20:00:03] Bastixx<STEAM_0:1:91231746> spawned vehicle models/sligwolf/fcc/flying_crawler_car.mdl
+[20:00:07] DrDerpenstein killed calab432 using player
+[20:00:26] nat3_8<STEAM_0:0:429762283> used the tool textscreen on maps/rp_downtown_tits_v2.bsp
+[20:00:29] nat3_8<STEAM_0:0:429762283> used the tool textscreen on maps/rp_downtown_tits_v2.bsp
+[20:00:37] nat3_8<STEAM_0:0:429762283> used the tool textscreen on maps/rp_downtown_tits_v2.bsp
+[20:00:38] nat3_8<STEAM_0:0:429762283> used the tool textscreen on maps/rp_downtown_tits_v2.bsp
+[20:00:50] Derp: one sec
+[20:01:01] DrDerpenstein killed calab432 using player
+[20:01:06] Derp was killed by prop_vehicle_jeep
+[20:01:12] nat3_8<STEAM_0:0:429762283> spawned model models/hunter/blocks/cube05x05x05.mdl
+[20:01:18] nat3_8<STEAM_0:0:429762283> spawned model models/hunter/blocks/cube1x150x1.mdl
+[20:01:29] Derp<STEAM_0:0:52504530> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[20:01:29] Derp<STEAM_0:0:52504530> spawned/gave himself swep cw_ws_m16a4
+[20:01:29] Derp<STEAM_0:0:52504530> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[20:01:29] Derp<STEAM_0:0:52504530> spawned/gave himself swep cw_ws_m16a4
+[20:01:29] Derp<STEAM_0:0:52504530> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[20:01:29] Derp<STEAM_0:0:52504530> spawned/gave himself swep cw_ws_m16a4
+[20:01:29] Derp<STEAM_0:0:52504530> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[20:01:29] Derp<STEAM_0:0:52504530> spawned/gave himself swep cw_ws_m16a4
+[20:01:29] Derp<STEAM_0:0:52504530> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[20:01:29] Derp<STEAM_0:0:52504530> spawned/gave himself swep cw_ws_m16a4
+[20:01:31] Derp<STEAM_0:0:52504530> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[20:01:31] Derp<STEAM_0:0:52504530> spawned/gave himself swep cw_ws_m16a4
+[20:01:34] Derp<STEAM_0:0:52504530> spawned/gave himself swep cw_ws_m16a4
+[20:01:40] Derp: /dropmoney 30000
+[20:01:43] nat3_8<STEAM_0:0:429762283> spawned model models/hunter/blocks/cube075x075x075.mdl
+[20:01:44] nat3_8<STEAM_0:0:429762283> spawned model models/hunter/blocks/cube05x1x05.mdl
+[20:01:51] nat3_8<STEAM_0:0:429762283> spawned model models/hunter/blocks/cube05x05x05.mdl
+[20:02:02] nat3_8<STEAM_0:0:429762283> used the tool colour on models/hunter/blocks/cube075x075x075.mdl
+[20:02:02] nat3_8<STEAM_0:0:429762283> used the tool colour on models/hunter/blocks/cube1x150x1.mdl
+[20:02:03] nat3_8<STEAM_0:0:429762283> used the tool colour on models/hunter/blocks/cube05x05x05.mdl
+[20:02:47] Derp: /drop
+[20:02:52] calab432<STEAM_0:0:507740623> spawned model models/props_interiors/radiator01a.mdl
+[20:03:09] Derp was killed by prop_vehicle_jeep
+[20:03:09] calab432 was killed by prop_vehicle_jeep
+[20:04:18] Derp<STEAM_0:0:52504530> spawned/gave himself swep weapon_empty_hands
+[20:05:13] Bastixx suicided!
+[20:05:14] Client "Sodium Chloride" connected.
+[20:05:38] Bastixx was killed by prop_vehicle_jeep
+[20:06:30] Bastixx<STEAM_0:1:91231746> spawned vehicle models/sligwolf/fcc/flying_crawler_car.mdl
+[20:06:41] Bastixx<STEAM_0:1:91231746> spawned vehicle models/sligwolf/fcc/flying_crawler_car.mdl
+[20:06:42] Client "Sodium Chloride" spawned in server <STEAM_0:0:497465680> (took 88 seconds).
+[20:07:03] Bastixx<STEAM_0:1:91231746> spawned vehicle models/sligwolf/fcc/flying_crawler_car.mdl
+[20:07:07] nat3_8 killed calab432 using player
+[20:07:14] Bastixx<STEAM_0:1:91231746> spawned vehicle models/sligwolf/fcc/flying_crawler_car.mdl
+[20:08:23] Doof suicided!
+[20:08:46] nat3_8 killed Dio using player
+[20:08:49] Derp: /dropmoney 30000
+[20:09:52] nat3_8 killed calab432 using player
+[20:10:35] Derp: !purge_party
+[20:10:44] Derp: dio join my purge party
+[20:10:44] Dio: /rpname Fricking Roblox Player
+[20:10:55] Derp: type !purge_party
+[20:10:57] Fricking Roblox Player: slay @
+[20:10:58] calab432<STEAM_0:0:507740623> spawned model models/props_lab/blastdoor001b.mdl
+[20:11:05] Derp: !purge_party
+[20:11:06] Fricking Roblox Player: !purge_party
+[20:11:07] calab432<STEAM_0:0:507740623> spawned model models/props_lab/blastdoor001c.mdl
+[20:11:12] nat3_8<STEAM_0:0:429762283> spawned model models/hunter/blocks/cube075x2x1.mdl
+[20:11:22] nat3_8<STEAM_0:0:429762283> spawned model models/hunter/blocks/cube025x05x025.mdl
+[20:11:29] Derp: !purge_party
+[20:11:35] Derp: !purge_party
+[20:11:35] calab432<STEAM_0:0:507740623> used the tool weld on models/props_lab/blastdoor001c.mdl
+[20:11:36] calab432<STEAM_0:0:507740623> used the tool weld on maps/rp_downtown_tits_v2.bsp
+[20:11:36] calab432<STEAM_0:0:507740623> used the tool weld on models/props_lab/blastdoor001c.mdl
+[20:11:36] calab432<STEAM_0:0:507740623> used the tool weld on models/props_lab/blastdoor001c.mdl
+[20:11:37] calab432<STEAM_0:0:507740623> used the tool weld on maps/rp_downtown_tits_v2.bsp
+[20:11:37] calab432<STEAM_0:0:507740623> used the tool weld on models/props_lab/blastdoor001c.mdl
+[20:11:38] Fricking Roblox Player: !purge_party
+[20:11:38] calab432<STEAM_0:0:507740623> used the tool weld on models/props_lab/blastdoor001c.mdl
+[20:11:38] calab432<STEAM_0:0:507740623> used the tool weld on models/props_lab/blastdoor001c.mdl
+[20:11:38] calab432<STEAM_0:0:507740623> used the tool weld on maps/rp_downtown_tits_v2.bsp
+[20:11:39] calab432<STEAM_0:0:507740623> used the tool weld on models/props_lab/blastdoor001c.mdl
+[20:11:39] nat3_8<STEAM_0:0:429762283> spawned model models/hunter/blocks/cube1x150x1.mdl
+[20:11:52] nat3_8<STEAM_0:0:429762283> spawned model models/hunter/blocks/cube125x125x025.mdl
+[20:12:01] nat3_8<STEAM_0:0:429762283> used the tool colour on models/hunter/blocks/cube125x125x025.mdl
+[20:12:06] nat3_8<STEAM_0:0:429762283> spawned model models/hunter/blocks/cube125x125x025.mdl
+[20:12:16] Bastixx<STEAM_0:1:91231746> spawned vehicle models/sligwolf/fcc/flying_crawler_car.mdl
+[20:12:17] nat3_8<STEAM_0:0:429762283> used the tool colour on models/hunter/blocks/cube125x125x025.mdl
+[20:12:20] DrDerpenstein: /advert FUCKING RAID ME...YOU WONT
+[20:12:27] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[20:12:27] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[20:12:28] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[20:12:28] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[20:12:28] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[20:12:28] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[20:12:28] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[20:12:28] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[20:12:28] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[20:12:28] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[20:12:44] Derp<STEAM_0:0:52504530> spawned/gave himself swep weapon_sh_doorcharge
+[20:13:13] Derp killed nat3_8 using player
+[20:13:25] Bastixx: /drop
+[20:13:29] Bastixx suicided!
+[20:13:35] DrDerpenstein: /advert FUCKING RAID ME...YOU WONT
+[20:14:14] Bastixx<STEAM_0:1:91231746> spawned vehicle models/sligwolf/fcc/flying_crawler_car.mdl
+[20:14:28] Fricking Roblox Player<STEAM_0:0:497465680> spawned/gave himself swep pro_lockpick
+[20:14:48] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_combine/weaponstripper.mdl
+[20:14:57] Derp was killed by prop_vehicle_jeep
+[20:15:06] nat3_8<STEAM_0:0:429762283> used the tool remover on models/hunter/blocks/cube075x075x075.mdl
+[20:15:08] DrDerpenstein<STEAM_0:0:13562763> used the tool stacker_improved on models/props_combine/weaponstripper.mdl
+[20:15:17] Fricking Roblox Player<STEAM_0:0:497465680> spawned vehicle models/sligwolf/blue-x13/blue-x13.mdl
+[20:15:22] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_combine/weaponstripper.mdl
+[20:15:29] calab432 killed Derp using player
+[20:15:31] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_combine/weaponstripper.mdl
+[20:15:37] Bastixx suicided!
+[20:15:39] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_combine/weaponstripper.mdl
+[20:16:02] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_combine/weaponstripper.mdl
+[20:16:08] DrDerpenstein: /advert FUCKING RAID ME...YOU WONT
+[20:16:20] Fricking Roblox Player: /setmoney 100000
+[20:16:26] nat3_8<STEAM_0:0:429762283> used the tool remover on models/hunter/blocks/cube025x075x025.mdl
+[20:16:33] Derp<STEAM_0:0:52504530> spawned/gave himself swep weapon_sh_doorcharge
+[20:16:39] Derp<STEAM_0:0:52504530> spawned/gave himself swep weapon_sh_doorcharge
+[20:16:56] calab432 killed Derp using player
+[20:17:41] calab432 killed Derp using player
+[20:17:42] DrDerpenstein killed calab432 using player
+[20:17:55] Dropped "Fricking Roblox Player" from server<STEAM_0:0:497465680>
+[20:18:25] DrDerpenstein killed nat3_8 using player
+[20:18:31] DrDerpenstein killed calab432 using player
+[20:18:52] Derp: !purge_party
+[20:19:09] Bastixx killed nat3_8 using player
+[20:19:40] nat3_8 killed Bastixx using player
+[20:19:41] DrDerpenstein killed calab432 using player
+[20:20:09] DrDerpenstein killed nat3_8 using player
+[20:20:19] Bastixx<STEAM_0:1:91231746> spawned vehicle models/sligwolf/fcc/flying_crawler_car.mdl
+[20:20:34] calab432 killed DrDerpenstein using player
+[20:21:06] calab432 killed Derp using player
+[20:21:49] Derp was killed by prop_vehicle_jeep
+[20:21:49] Bastixx suicided!
+[20:22:16] nat3_8 was killed by prop_vehicle_jeep
+[20:22:16] calab432 killed Derp using player
+[20:22:23] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[20:22:23] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[20:22:23] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[20:22:23] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[20:22:23] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[20:22:23] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[20:22:24] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[20:22:24] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[20:22:24] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[20:22:24] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[20:22:24] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[20:22:51] Derp: /dropmoney 25000
+[20:23:25] Bastixx killed calab432 using player
+[20:23:55] Bastixx killed nat3_8 using player
+[20:24:10] Bastixx killed calab432 using player
+[20:24:43] calab432 killed Derp using player
+[20:25:16] Derp: !logs
+[20:26:21] calab432 killed Derp using weapon_fists
+[20:26:35] Client "deathtrooper3807" connected.
+[20:26:40] Derp was killed by prop_vehicle_jeep
+[20:26:44] DrDerpenstein: /drop
+[20:27:14] Derp killed calab432 using player
+[20:27:39] Bastixx<STEAM_0:1:91231746> spawned vehicle models/sligwolf/fcc/flying_crawler_car.mdl
+[20:27:47] Derp killed calab432 using player
+[20:28:33] Dropped "calab432" from server<STEAM_0:0:507740623>
+[20:28:38] DrDerpenstein was killed by prop_vehicle_jeep
+[20:28:54] Derp was killed by prop_vehicle_jeep
+[20:29:01] nat3_8 was killed by prop_vehicle_jeep
+[20:29:38] Client "deathtrooper3807" spawned in server <STEAM_0:1:122294741> (took 183 seconds).
+[20:30:03] Bastixx killed DrDerpenstein using player
+[20:30:30] Bastixx<STEAM_0:1:91231746> spawned vehicle models/sligwolf/fcc/flying_crawler_car.mdl
+[20:30:51] deathtrooper3807: thanks
+[20:30:59] deathtrooper3807<STEAM_0:1:122294741> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[20:30:59] deathtrooper3807<STEAM_0:1:122294741> spawned/gave himself swep weapon_bugbait
+[20:31:06] Dropped "nat3_8" from server<STEAM_0:0:429762283>
+[20:32:23] Derp was killed by prop_vehicle_jeep
+[20:33:45] Dropped "deathtrooper3807" from server<STEAM_0:1:122294741>
+[20:35:41] Bastixx<STEAM_0:1:91231746> spawned vehicle models/sligwolf/fcc/flying_crawler_car.mdl
+[20:36:27] Client "21 Cabbage" connected.
+[20:39:33] Client "lee1095" connected.
+[20:39:53] Client "21 Cabbage" spawned in server <STEAM_0:1:481873656> (took 206 seconds).
+[20:41:29] Bastixx suicided!
+[20:43:28] 21 Cabbage was killed by prop_vehicle_jeep
+[20:43:33] DrDerpenstein was killed by prop_vehicle_jeep
+[20:44:18] Bastixx<STEAM_0:1:91231746> spawned vehicle models/sligwolf/fcc/flying_crawler_car.mdl
+[20:44:34] 21 Cabbage: // how do i change the guns fire rate
+[20:44:42] Derp: yo
+[20:44:48] Dropped "Doof" from server<STEAM_0:1:426762407>
+[20:44:59] Derp: // to change fire mode press E + R
+[20:45:11] Bastixx suicided!
+[20:45:36] Derp was killed by prop_vehicle_jeep
+[20:45:41] DrDerpenstein was killed by prop_vehicle_jeep
+[20:47:18] 21 Cabbage: !motd
+[20:47:46] DrDerpenstein was killed by prop_vehicle_jeep
+[20:47:53] Derp<STEAM_0:0:52504530> spawned/gave himself swep cw_tr09_mp9
+[20:48:22] Client "lee1095" spawned in server <STEAM_0:1:20293973> (took 529 seconds).
+[20:48:55] DrDerpenstein killed Derp using player
+[20:48:58] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/triangles/1x1x5.mdl
+[20:49:26] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/triangles/1x1x5.mdl
+[20:49:44] DrDerpenstein was killed by prop_vehicle_jeep
+[20:49:46] 21 Cabbage<STEAM_0:1:481873656> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[20:49:47] 21 Cabbage<STEAM_0:1:481873656> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[20:49:48] Derp<STEAM_0:0:52504530> spawned/gave himself swep cw_mac11
+[20:49:53] 21 Cabbage<STEAM_0:1:481873656> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[20:49:53] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube05x1x025.mdl
+[20:49:53] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube05x1x025.mdl
+[20:49:53] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube05x1x025.mdl
+[20:49:53] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/plates/plate1x3.mdl
+[20:49:53] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube1x5x025.mdl
+[20:49:53] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/plates/plate1x3.mdl
+[20:49:53] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube025x075x025.mdl
+[20:49:53] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube1x5x025.mdl
+[20:49:53] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/plates/plate1x3.mdl
+[20:49:53] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube05x1x025.mdl
+[20:49:53] 21 Cabbage<STEAM_0:1:481873656> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[20:49:53] 21 Cabbage<STEAM_0:1:481873656> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[20:49:53] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube1x5x025.mdl
+[20:49:53] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube1x5x025.mdl
+[20:49:53] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/plates/plate1x3.mdl
+[20:49:53] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube1x5x025.mdl
+[20:49:53] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube1x4x1.mdl
+[20:49:53] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/triangles/1x1x5.mdl
+[20:49:53] 21 Cabbage<STEAM_0:1:481873656> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[20:49:53] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube05x1x025.mdl
+[20:49:53] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube025x075x025.mdl
+[20:49:53] 21 Cabbage<STEAM_0:1:481873656> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[20:49:53] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/plates/plate1x3.mdl
+[20:49:54] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube025x075x025.mdl
+[20:49:54] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube1x4x1.mdl
+[20:49:54] 21 Cabbage<STEAM_0:1:481873656> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[20:49:54] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/triangles/1x1x5.mdl
+[20:49:54] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/triangles/1x1x5.mdl
+[20:49:54] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/misc/stair1x1.mdl
+[20:49:54] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube1x5x025.mdl
+[20:49:54] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube05x1x025.mdl
+[20:49:54] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube05x1x025.mdl
+[20:49:54] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube1x5x025.mdl
+[20:49:54] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube1x5x025.mdl
+[20:49:54] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/triangles/1x1x5.mdl
+[20:49:54] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube1x5x025.mdl
+[20:49:54] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube05x1x025.mdl
+[20:49:54] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/misc/stair1x1.mdl
+[20:49:54] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube05x1x025.mdl
+[20:49:54] Bastixx: /drop
+[20:50:05] Bastixx<STEAM_0:1:91231746> spawned vehicle models/sligwolf/fcc/flying_crawler_car.mdl
+[20:51:18] 21 Cabbage<STEAM_0:1:481873656> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[20:51:19] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube05x1x025.mdl
+[20:51:19] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube05x1x025.mdl
+[20:51:19] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube05x1x025.mdl
+[20:51:19] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/plates/plate1x3.mdl
+[20:51:19] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube1x5x025.mdl
+[20:51:19] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/plates/plate1x3.mdl
+[20:51:19] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube025x075x025.mdl
+[20:51:19] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube1x5x025.mdl
+[20:51:19] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/plates/plate1x3.mdl
+[20:51:19] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube05x1x025.mdl
+[20:51:19] 21 Cabbage<STEAM_0:1:481873656> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[20:51:19] 21 Cabbage<STEAM_0:1:481873656> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[20:51:19] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube1x5x025.mdl
+[20:51:19] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube1x5x025.mdl
+[20:51:19] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/plates/plate1x3.mdl
+[20:51:19] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube1x5x025.mdl
+[20:51:19] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube1x4x1.mdl
+[20:51:19] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/triangles/1x1x5.mdl
+[20:51:19] 21 Cabbage<STEAM_0:1:481873656> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[20:51:19] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube05x1x025.mdl
+[20:51:19] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube025x075x025.mdl
+[20:51:19] 21 Cabbage<STEAM_0:1:481873656> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[20:51:19] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/plates/plate1x3.mdl
+[20:51:19] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube025x075x025.mdl
+[20:51:19] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube1x4x1.mdl
+[20:51:19] 21 Cabbage<STEAM_0:1:481873656> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[20:51:19] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/triangles/1x1x5.mdl
+[20:51:19] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/triangles/1x1x5.mdl
+[20:51:19] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/misc/stair1x1.mdl
+[20:51:19] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube1x5x025.mdl
+[20:51:19] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube05x1x025.mdl
+[20:51:19] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube05x1x025.mdl
+[20:51:19] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube1x5x025.mdl
+[20:51:19] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube1x5x025.mdl
+[20:51:19] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/triangles/1x1x5.mdl
+[20:51:19] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube1x5x025.mdl
+[20:51:19] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube05x1x025.mdl
+[20:51:19] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/misc/stair1x1.mdl
+[20:51:19] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube05x1x025.mdl
+[20:51:20] Dropped "Bastixx" from server<STEAM_0:1:91231746>
+[20:51:41] 21 Cabbage<STEAM_0:1:481873656> used the tool remover on models/hunter/blocks/cube1x5x025.mdl
+[20:51:42] 21 Cabbage<STEAM_0:1:481873656> used the tool remover on models/hunter/blocks/cube1x5x025.mdl
+[20:51:42] 21 Cabbage<STEAM_0:1:481873656> used the tool remover on models/hunter/blocks/cube1x5x025.mdl
+[20:51:43] 21 Cabbage<STEAM_0:1:481873656> used the tool remover on models/hunter/blocks/cube1x5x025.mdl
+[20:51:43] 21 Cabbage<STEAM_0:1:481873656> used the tool remover on models/hunter/blocks/cube1x5x025.mdl
+[20:51:43] 21 Cabbage<STEAM_0:1:481873656> used the tool remover on models/hunter/blocks/cube1x5x025.mdl
+[20:51:44] 21 Cabbage<STEAM_0:1:481873656> used the tool remover on models/hunter/blocks/cube1x5x025.mdl
+[20:51:44] 21 Cabbage<STEAM_0:1:481873656> used the tool remover on models/hunter/blocks/cube1x5x025.mdl
+[20:51:44] 21 Cabbage<STEAM_0:1:481873656> used the tool remover on models/hunter/blocks/cube1x5x025.mdl
+[20:51:46] 21 Cabbage<STEAM_0:1:481873656> used the tool remover on models/hunter/misc/stair1x1.mdl
+[20:51:46] 21 Cabbage<STEAM_0:1:481873656> used the tool remover on models/hunter/misc/stair1x1.mdl
+[20:51:47] 21 Cabbage<STEAM_0:1:481873656> used the tool remover on models/hunter/plates/plate1x3.mdl
+[20:52:02] 21 Cabbage<STEAM_0:1:481873656> used the tool keypad_willox on models/hunter/triangles/1x1x5.mdl
+[20:52:03] 21 Cabbage<STEAM_0:1:481873656> used the tool keypad_willox on models/hunter/triangles/1x1x5.mdl
+[20:52:04] 21 Cabbage<STEAM_0:1:481873656> used the tool keypad_willox on models/hunter/triangles/1x1x5.mdl
+[20:52:16] 21 Cabbage<STEAM_0:1:481873656> used the tool keypad_willox on models/hunter/triangles/1x1x5.mdl
+[20:52:27] 21 Cabbage<STEAM_0:1:481873656> used the tool keypad_willox on models/hunter/triangles/1x1x5.mdl
+[20:52:52] 21 Cabbage<STEAM_0:1:481873656> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[20:53:06] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[20:53:07] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[20:53:07] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[20:53:07] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[20:53:07] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[20:53:07] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[20:53:08] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[20:53:08] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[20:53:08] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[20:53:08] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[20:53:18] 21 Cabbage<STEAM_0:1:481873656> used the tool stacker_improved on models/props_building_details/storefront_template001a_bars.mdl
+[20:53:18] 21 Cabbage<STEAM_0:1:481873656> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[20:53:19] 21 Cabbage<STEAM_0:1:481873656> used the tool stacker_improved on models/props_building_details/storefront_template001a_bars.mdl
+[20:53:19] 21 Cabbage<STEAM_0:1:481873656> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[20:53:27] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[20:53:27] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[20:53:28] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[20:53:28] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[20:53:28] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[20:53:29] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[20:53:29] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[20:53:29] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[20:53:41] 21 Cabbage<STEAM_0:1:481873656> used the tool material on models/hunter/blocks/cube1x4x1.mdl
+[20:53:41] 21 Cabbage<STEAM_0:1:481873656> used the tool material on models/props_building_details/storefront_template001a_bars.mdl
+[20:53:42] 21 Cabbage<STEAM_0:1:481873656> used the tool material on models/props_building_details/storefront_template001a_bars.mdl
+[20:53:42] 21 Cabbage<STEAM_0:1:481873656> used the tool material on models/props_building_details/storefront_template001a_bars.mdl
+[20:53:49] 21 Cabbage<STEAM_0:1:481873656> used the tool nocollide on models/props_building_details/storefront_template001a_bars.mdl
+[20:53:50] 21 Cabbage<STEAM_0:1:481873656> used the tool nocollide on models/props_building_details/storefront_template001a_bars.mdl
+[20:53:50] 21 Cabbage<STEAM_0:1:481873656> used the tool nocollide on models/props_building_details/storefront_template001a_bars.mdl
+[20:53:51] lee1095: MEEP
+[20:54:23] lee1095<STEAM_0:1:20293973> used the tool camera on maps/rp_downtown_tits_v2.bsp
+[20:54:24] lee1095<STEAM_0:1:20293973> used the tool camera on maps/rp_downtown_tits_v2.bsp
+[20:54:25] lee1095<STEAM_0:1:20293973> used the tool camera on maps/rp_downtown_tits_v2.bsp
+[20:54:25] lee1095<STEAM_0:1:20293973> used the tool camera on maps/rp_downtown_tits_v2.bsp
+[20:54:25] lee1095<STEAM_0:1:20293973> used the tool camera on maps/rp_downtown_tits_v2.bsp
+[20:54:28] lee1095<STEAM_0:1:20293973> used the tool camera on maps/rp_downtown_tits_v2.bsp
+[20:54:28] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/misc/stair1x1.mdl
+[20:54:36] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/misc/stair1x1.mdl
+[20:55:12] Client "Daniel" connected.
+[20:55:17] lee1095: what?
+[20:55:24] lee1095: I can't hear you
+[20:55:32] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/misc/stair1x1.mdl
+[20:55:58] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/misc/stair1x1.mdl
+[20:56:04] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/misc/stair1x1.mdl
+[20:56:04] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/misc/stair1x1.mdl
+[20:56:05] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/misc/stair1x1.mdl
+[20:56:05] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/misc/stair1x1.mdl
+[20:56:05] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/misc/stair1x1.mdl
+[20:56:05] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/misc/stair1x1.mdl
+[20:56:06] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/misc/stair1x1.mdl
+[20:56:06] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/misc/stair1x1.mdl
+[20:56:06] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/misc/stair1x1.mdl
+[20:56:08] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/misc/stair1x1.mdl
+[20:56:08] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/misc/stair1x1.mdl
+[20:56:08] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/misc/stair1x1.mdl
+[20:56:08] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/misc/stair1x1.mdl
+[20:56:09] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/misc/stair1x1.mdl
+[20:56:09] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/misc/stair1x1.mdl
+[20:56:09] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/misc/stair1x1.mdl
+[20:56:10] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/misc/stair1x1.mdl
+[20:56:11] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/misc/stair1x1.mdl
+[20:56:11] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/misc/stair1x1.mdl
+[20:56:11] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/misc/stair1x1.mdl
+[20:56:11] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/misc/stair1x1.mdl
+[20:56:12] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/misc/stair1x1.mdl
+[20:56:13] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/misc/stair1x1.mdl
+[20:56:13] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/misc/stair1x1.mdl
+[20:56:13] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/misc/stair1x1.mdl
+[20:56:13] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/misc/stair1x1.mdl
+[20:56:14] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/misc/stair1x1.mdl
+[20:56:14] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/misc/stair1x1.mdl
+[20:56:14] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/misc/stair1x1.mdl
+[20:56:15] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/misc/stair1x1.mdl
+[20:56:15] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/misc/stair1x1.mdl
+[20:56:15] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/misc/stair1x1.mdl
+[20:56:15] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/misc/stair1x1.mdl
+[20:56:15] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/misc/stair1x1.mdl
+[20:56:16] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/misc/stair1x1.mdl
+[20:56:17] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/misc/stair1x1.mdl
+[20:56:17] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/misc/stair1x1.mdl
+[20:56:17] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/misc/stair1x1.mdl
+[20:56:17] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/misc/stair1x1.mdl
+[20:56:22] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/misc/stair1x1.mdl
+[20:56:35] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/plates/plate1x3.mdl
+[20:56:52] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/plates/plate1x3.mdl
+[20:56:52] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/plates/plate1x3.mdl
+[20:56:53] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/plates/plate1x3.mdl
+[20:56:53] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/plates/plate1x3.mdl
+[20:56:53] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/plates/plate1x3.mdl
+[20:56:53] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/plates/plate1x3.mdl
+[20:56:53] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on maps/rp_downtown_tits_v2.bsp
+[20:56:54] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/plates/plate1x3.mdl
+[20:56:54] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/plates/plate1x3.mdl
+[20:56:54] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/plates/plate1x3.mdl
+[20:56:54] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/plates/plate1x3.mdl
+[20:56:54] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/plates/plate1x3.mdl
+[20:56:54] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/plates/plate1x3.mdl
+[20:56:55] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/plates/plate1x3.mdl
+[20:56:58] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/plates/plate1x3.mdl
+[20:56:58] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/plates/plate1x3.mdl
+[20:56:58] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/plates/plate1x3.mdl
+[20:56:58] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/plates/plate1x3.mdl
+[20:56:58] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/plates/plate1x3.mdl
+[20:56:59] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/plates/plate1x3.mdl
+[20:57:01] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/plates/plate1x3.mdl
+[20:57:01] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/plates/plate1x3.mdl
+[20:57:02] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/plates/plate1x3.mdl
+[20:57:02] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/plates/plate1x3.mdl
+[20:57:03] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/plates/plate1x3.mdl
+[20:57:09] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/plates/plate1x3.mdl
+[20:57:10] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/plates/plate1x3.mdl
+[20:57:16] 21 Cabbage<STEAM_0:1:481873656> used the tool material on models/hunter/plates/plate1x3.mdl
+[20:57:17] 21 Cabbage<STEAM_0:1:481873656> used the tool material on models/hunter/misc/stair1x1.mdl
+[20:57:19] 21 Cabbage<STEAM_0:1:481873656> used the tool material on models/hunter/misc/stair1x1.mdl
+[20:57:19] 21 Cabbage<STEAM_0:1:481873656> used the tool material on models/hunter/misc/stair1x1.mdl
+[20:57:19] 21 Cabbage<STEAM_0:1:481873656> used the tool material on models/hunter/misc/stair1x1.mdl
+[20:57:20] 21 Cabbage<STEAM_0:1:481873656> used the tool material on models/hunter/misc/stair1x1.mdl
+[20:57:57] Client "Daniel" spawned in server <STEAM_0:0:55667004> (took 165 seconds).
+[20:58:06] 21 Cabbage<STEAM_0:1:481873656> spawned model models/props_phx/construct/metal_plate1x2.mdl
+[20:58:09] lee1095: /advert Stealing CAr
+[20:58:23] 21 Cabbage<STEAM_0:1:481873656> spawned model models/props_phx/construct/metal_wire1x2.mdl
+[20:58:23] DrDerpenstein: // you dont have to advert that
+[20:58:32] 21 Cabbage<STEAM_0:1:481873656> spawned model models/props_phx/construct/metal_wire1x2.mdl
+[20:59:15] Daniel: /advert Drug addict buying drugs
+[20:59:21] 21 Cabbage: // oooh facts
+[20:59:42] DrDerpenstein: /advert sell me some drogs dude!
+[20:59:54] Daniel: /ADVERT ILL BUY HIGHER THAN WHAT DERP WILL BUY IT FOR
+[21:00:16] 21 Cabbage: // why is bhop against the rules?
+[21:00:22] DrDerpenstein: // is it?
+[21:00:22] Daniel killed DrDerpenstein using player
+[21:00:26] lee1095: // who knows?
+[21:00:27] DrDerpenstein: // what?
+[21:00:31] 21 Cabbage: // yea look in motd
+[21:00:40] 21 Cabbage: // if you get warned more than once you get banned
+[21:00:43] DrDerpenstein: // lol that'll be removed, bhop all you want
+[21:00:48] 21 Cabbage: // i love to bhop xD
+[21:00:49] DrDerpenstein: // lol wtf
+[21:00:51] Daniel: /advert Buying drugs
+[21:00:55] 21 Cabbage: // mk
+[21:00:56] DrDerpenstein: // bhop away sir
+[21:01:09] 21 Cabbage: // ty cause thats how i get around 
+[21:01:17] 21 Cabbage: // i wonder if it means people that are scripting
+[21:01:19] Daniel: /ooc cabbage make some money make me some DRUGS
+[21:01:20] DrDerpenstein: // i didnt know that was a rule lol
+[21:01:22] DrDerpenstein: // fuck that
+[21:02:24] Daniel: /DROP
+[21:03:03] Daniel: /DROP
+[21:03:08] Daniel: /DROP
+[21:04:03] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/triangles/3x3.mdl
+[21:04:06] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/triangles/4x4.mdl
+[21:04:24] Daniel killed DrDerpenstein using player
+[21:04:42] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/triangles/4x4.mdl
+[21:05:39] 21 Cabbage<STEAM_0:1:481873656> used the tool material on models/hunter/triangles/4x4.mdl
+[21:05:40] 21 Cabbage<STEAM_0:1:481873656> used the tool material on maps/rp_downtown_tits_v2.bsp
+[21:05:41] 21 Cabbage<STEAM_0:1:481873656> used the tool material on models/hunter/triangles/4x4.mdl
+[21:05:48] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/triangles/4x4.mdl
+[21:05:49] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/triangles/4x4.mdl
+[21:05:49] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/triangles/4x4.mdl
+[21:05:49] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/triangles/4x4.mdl
+[21:05:49] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/triangles/4x4.mdl
+[21:05:50] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/triangles/4x4.mdl
+[21:05:50] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/triangles/4x4.mdl
+[21:05:50] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/triangles/4x4.mdl
+[21:05:50] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/triangles/4x4.mdl
+[21:05:50] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/triangles/4x4.mdl
+[21:05:50] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/triangles/4x4.mdl
+[21:05:50] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/triangles/4x4.mdl
+[21:05:50] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/triangles/4x4.mdl
+[21:05:51] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/triangles/4x4.mdl
+[21:05:52] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/triangles/4x4.mdl
+[21:05:52] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/triangles/4x4.mdl
+[21:05:52] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/triangles/4x4.mdl
+[21:05:53] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/triangles/4x4.mdl
+[21:05:53] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/triangles/4x4.mdl
+[21:05:53] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/triangles/4x4.mdl
+[21:05:53] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/triangles/4x4.mdl
+[21:05:53] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/triangles/4x4.mdl
+[21:05:53] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/triangles/4x4.mdl
+[21:05:54] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/triangles/4x4.mdl
+[21:05:54] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/triangles/4x4.mdl
+[21:05:54] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/triangles/4x4.mdl
+[21:05:54] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/triangles/4x4.mdl
+[21:05:54] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/triangles/4x4.mdl
+[21:05:55] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/triangles/4x4.mdl
+[21:05:55] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/triangles/4x4.mdl
+[21:05:55] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/triangles/4x4.mdl
+[21:05:55] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/triangles/4x4.mdl
+[21:05:55] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/triangles/4x4.mdl
+[21:05:55] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/triangles/4x4.mdl
+[21:05:55] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/triangles/4x4.mdl
+[21:05:56] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/triangles/4x4.mdl
+[21:05:57] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/triangles/4x4.mdl
+[21:05:57] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/triangles/4x4.mdl
+[21:05:57] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/triangles/4x4.mdl
+[21:05:57] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/triangles/4x4.mdl
+[21:05:57] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/triangles/4x4.mdl
+[21:06:00] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/triangles/4x4.mdl
+[21:06:01] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/triangles/4x4.mdl
+[21:06:01] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/triangles/4x4.mdl
+[21:06:01] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/triangles/4x4.mdl
+[21:06:02] 21 Cabbage<STEAM_0:1:481873656> used the tool precision on models/hunter/triangles/4x4.mdl
+[21:06:24] Daniel killed lee1095 using player
+[21:06:27] Derp killed Daniel using player
+[21:06:40] lee1095 killed Derp using player
+[21:06:57] lee1095 killed Derp using player
+[21:07:08] 21 Cabbage: also in the motd its illegal to give people money xD
+[21:07:09] lee1095 killed DrDerpenstein using player
+[21:07:35] Daniel: /ooc how to pull up emote wheel?
+[21:07:39] DrDerpenstein: // g
+[21:07:40] 21 Cabbage: /advert counter
+[21:07:48] 21 Cabbage: /advert false
+[21:07:56] 21 Cabbage: // also do i need to advert on here?
+[21:08:02] DrDerpenstein: // NOPE
+[21:08:05] 21 Cabbage: // alr cool
+[21:08:10] DrDerpenstein: // criminals irl dont advert raids do they?
+[21:08:15] 21 Cabbage: // so ican just counter if i see something?
+[21:08:18] DrDerpenstein: // imagine that during the superbowl ads lol
+[21:08:21] DrDerpenstein: // yea
+[21:08:22] Derp killed Daniel using player
+[21:08:24] 21 Cabbage: // mk cool
+[21:08:34] DrDerpenstein: // if you can raid as a job you can raid any valid target without advert
+[21:09:01] DrDerpenstein: /dropmoney 1000
+[21:09:15] 21 Cabbage: // are blacked out bases allowed?
+[21:09:24] DrDerpenstein: // you mean 1 way walls? yes
+[21:09:24] 21 Cabbage<STEAM_0:1:481873656> used the tool colour on models/props_building_details/storefront_template001a_bars.mdl
+[21:09:30] DrDerpenstein: // but beware bullets penetrate
+[21:09:48] 21 Cabbage: // ik i aslo know whats bullet proof or not
+[21:09:49] 21 Cabbage<STEAM_0:1:481873656> used the tool colour on models/props_building_details/storefront_template001a_bars.mdl
+[21:09:49] DrDerpenstein: // just no crouch bases, or jump bases
+[21:09:49] 21 Cabbage<STEAM_0:1:481873656> used the tool colour on models/props_building_details/storefront_template001a_bars.mdl
+[21:09:50] 21 Cabbage<STEAM_0:1:481873656> used the tool colour on models/props_building_details/storefront_template001a_bars.mdl
+[21:09:50] 21 Cabbage<STEAM_0:1:481873656> used the tool colour on models/props_building_details/storefront_template001a_bars.mdl
+[21:09:51] 21 Cabbage<STEAM_0:1:481873656> used the tool colour on models/props_building_details/storefront_template001a_bars.mdl
+[21:09:52] 21 Cabbage<STEAM_0:1:481873656> used the tool colour on models/props_building_details/storefront_template001a_bars.mdl
+[21:09:52] 21 Cabbage<STEAM_0:1:481873656> used the tool colour on models/props_building_details/storefront_template001a_bars.mdl
+[21:09:53] 21 Cabbage<STEAM_0:1:481873656> used the tool colour on models/props_building_details/storefront_template001a_bars.mdl
+[21:09:59] Derp: /dropmoney 50000
+[21:10:02] Daniel: /ooc found 1k on the ground
+[21:10:17] 21 Cabbage: // i have a good dupe thats great for here so im glad you guys have adv dupe 2
+[21:10:19] 21 Cabbage<STEAM_0:1:481873656> used the tool colour on models/hunter/triangles/1x1x5.mdl
+[21:10:19] 21 Cabbage<STEAM_0:1:481873656> used the tool colour on models/hunter/triangles/1x1x5.mdl
+[21:10:21] 21 Cabbage<STEAM_0:1:481873656> used the tool colour on models/props_building_details/storefront_template001a_bars.mdl
+[21:10:21] 21 Cabbage<STEAM_0:1:481873656> used the tool colour on models/hunter/triangles/1x1x5.mdl
+[21:10:21] 21 Cabbage<STEAM_0:1:481873656> used the tool colour on models/hunter/triangles/1x1x5.mdl
+[21:10:23] 21 Cabbage<STEAM_0:1:481873656> used the tool colour on models/hunter/plates/plate1x3.mdl
+[21:10:24] 21 Cabbage<STEAM_0:1:481873656> used the tool colour on models/hunter/plates/plate1x3.mdl
+[21:10:24] 21 Cabbage<STEAM_0:1:481873656> used the tool colour on models/hunter/plates/plate1x3.mdl
+[21:10:33] Derp: /dropmoney 50000
+[21:10:43] 21 Cabbage<STEAM_0:1:481873656> used the tool colour on models/hunter/blocks/cube05x1x025.mdl
+[21:10:43] 21 Cabbage<STEAM_0:1:481873656> used the tool colour on models/hunter/blocks/cube05x1x025.mdl
+[21:10:43] 21 Cabbage<STEAM_0:1:481873656> used the tool colour on models/hunter/blocks/cube05x1x025.mdl
+[21:10:44] 21 Cabbage<STEAM_0:1:481873656> used the tool colour on models/hunter/blocks/cube05x1x025.mdl
+[21:10:45] 21 Cabbage<STEAM_0:1:481873656> used the tool colour on models/hunter/blocks/cube05x1x025.mdl
+[21:10:45] 21 Cabbage<STEAM_0:1:481873656> used the tool colour on models/hunter/blocks/cube05x1x025.mdl
+[21:10:45] 21 Cabbage<STEAM_0:1:481873656> used the tool colour on models/hunter/blocks/cube05x1x025.mdl
+[21:10:46] 21 Cabbage<STEAM_0:1:481873656> used the tool colour on models/hunter/blocks/cube05x1x025.mdl
+[21:10:47] 21 Cabbage<STEAM_0:1:481873656> used the tool colour on models/hunter/blocks/cube05x1x025.mdl
+[21:10:53] Daniel: /drop
+[21:10:56] Derp: /dropmoney 50000
+[21:10:58] Dropped "Daniel" from server<STEAM_0:0:55667004>
+[21:10:59] 21 Cabbage<STEAM_0:1:481873656> used the tool material on models/hunter/blocks/cube025x075x025.mdl
+[21:11:00] 21 Cabbage<STEAM_0:1:481873656> used the tool material on models/hunter/blocks/cube025x075x025.mdl
+[21:11:01] 21 Cabbage<STEAM_0:1:481873656> used the tool material on models/hunter/blocks/cube025x075x025.mdl
+[21:11:02] 21 Cabbage<STEAM_0:1:481873656> used the tool material on models/hunter/plates/plate1x3.mdl
+[21:11:10] 21 Cabbage<STEAM_0:1:481873656> used the tool material on models/hunter/plates/plate1x3.mdl
+[21:11:39] 21 Cabbage<STEAM_0:1:481873656> used the tool material on models/hunter/blocks/cube025x075x025.mdl
+[21:11:40] 21 Cabbage<STEAM_0:1:481873656> used the tool material on models/hunter/blocks/cube025x075x025.mdl
+[21:11:40] 21 Cabbage<STEAM_0:1:481873656> used the tool material on models/hunter/blocks/cube025x075x025.mdl
+[21:11:42] 21 Cabbage<STEAM_0:1:481873656> used the tool material on models/hunter/plates/plate1x3.mdl
+[21:11:49] 21 Cabbage<STEAM_0:1:481873656> used the tool material on models/hunter/plates/plate1x3.mdl
+[21:11:52] 21 Cabbage<STEAM_0:1:481873656> used the tool material on models/hunter/plates/plate1x3.mdl
+[21:11:52] 21 Cabbage<STEAM_0:1:481873656> used the tool material on models/hunter/plates/plate1x3.mdl
+[21:12:08] 21 Cabbage<STEAM_0:1:481873656> used the tool colour on models/hunter/blocks/cube1x4x1.mdl
+[21:12:08] 21 Cabbage<STEAM_0:1:481873656> used the tool colour on models/props_building_details/storefront_template001a_bars.mdl
+[21:12:09] 21 Cabbage<STEAM_0:1:481873656> used the tool colour on models/props_building_details/storefront_template001a_bars.mdl
+[21:12:09] 21 Cabbage<STEAM_0:1:481873656> used the tool colour on models/props_building_details/storefront_template001a_bars.mdl
+[21:12:09] 21 Cabbage<STEAM_0:1:481873656> used the tool colour on models/hunter/blocks/cube1x4x1.mdl
+[21:12:11] 21 Cabbage<STEAM_0:1:481873656> used the tool colour on models/hunter/misc/stair1x1.mdl
+[21:12:11] 21 Cabbage<STEAM_0:1:481873656> used the tool colour on models/hunter/misc/stair1x1.mdl
+[21:12:11] 21 Cabbage<STEAM_0:1:481873656> used the tool colour on models/hunter/misc/stair1x1.mdl
+[21:12:11] 21 Cabbage<STEAM_0:1:481873656> used the tool colour on models/hunter/misc/stair1x1.mdl
+[21:12:12] 21 Cabbage<STEAM_0:1:481873656> used the tool colour on models/hunter/triangles/4x4.mdl
+[21:12:13] 21 Cabbage<STEAM_0:1:481873656> used the tool colour on models/hunter/triangles/4x4.mdl
+[21:12:18] 21 Cabbage<STEAM_0:1:481873656> used the tool colour on models/hunter/plates/plate1x3.mdl
+[21:13:58] 21 Cabbage: do i ever have to rebuy the cooler?
+[21:14:07] 21 Cabbage: // do i ever have to rebuy the cooler
+[21:14:19] Derp: // u just buy it once per printer
+[21:14:30] 21 Cabbage: // k
+[21:14:46] 21 Cabbage: // the heat is going up so thats why i was asking
+[21:14:52] lee1095 killed Derp using player
+[21:15:33] Derp<STEAM_0:0:52504530> spawned/gave himself swep weapon_empty_hands
+[21:17:26] Derp: https://steamcommunity.com/sharedfiles/filedetails/?id=145177582
+[21:18:05] Derp<STEAM_0:0:52504530> spawned vehicle models/sligwolf/fcc/flying_crawler_car.mdl
+[21:18:07] Derp<STEAM_0:0:52504530> spawned vehicle models/sligwolf/blue-x14/blue-x14.mdl
+[21:18:11] Derp<STEAM_0:0:52504530> spawned vehicle models/sligwolf/blue-x11/blue-x11.mdl
+[21:18:12] Derp<STEAM_0:0:52504530> spawned vehicle models/sligwolf/hotrod/old_hotrod.mdl
+[21:18:15] Derp<STEAM_0:0:52504530> spawned vehicle models/sligwolf/blue-x13/blue-x13.mdl
+[21:18:16] Derp<STEAM_0:0:52504530> spawned vehicle models/sligwolf/hovercraft/hovercraft.mdl
+[21:18:17] Derp<STEAM_0:0:52504530> spawned vehicle models/swmodels/swoldbuggy.mdl
+[21:18:17] Derp<STEAM_0:0:52504530> spawned vehicle models/swmodels/swbuggy_02.mdl
+[21:18:17] Derp<STEAM_0:0:52504530> spawned vehicle models/swmodels/swbuggy.mdl
+[21:18:17] Derp<STEAM_0:0:52504530> spawned vehicle models/sligwolf/trabant/trabant.mdl
+[21:18:18] Derp<STEAM_0:0:52504530> spawned vehicle models/sligwolf/tractor/tractor.mdl
+[21:19:39] lee1095 killed DrDerpenstein using player
+[21:20:21] DrDerpenstein: /want lee
+[21:20:27] DrDerpenstein: /wanted lee guns
+[21:20:43] Derp: !return 21
+[21:22:11] 21 Cabbage: !donate
+[21:22:20] DrDerpenstein: /wanted lee aos
+[21:22:49] DrDerpenstein: /warrant mayor lockdown
+[21:22:58] DrDerpenstein: /wanted lee guns
+[21:23:20] DrDerpenstein: /wanted lee guns
+[21:23:59] DrDerpenstein: /wanted lee guns
+[21:24:09] lee1095 killed DrDerpenstein using player
+[21:28:10] Derp: /advert I gotta go for tonight guys ill cya later :)
+[21:28:18] DrDerpenstein: // later
+[21:28:24] Dropped "Derp" from server<STEAM_0:0:52504530>
+[21:28:59] lee1095 killed DrDerpenstein using player
+[21:32:32] 21 Cabbage<STEAM_0:1:481873656> spawned model models/props_phx/construct/metal_plate1x2.mdl
+[21:32:53] 21 Cabbage<STEAM_0:1:481873656> spawned model models/props_phx/construct/metal_wire1x2.mdl
+[21:33:08] DrDerpenstein<STEAM_0:0:13562763> spawned vehicle models/sligwolf/fcc/flying_crawler_car.mdl
+[21:35:09] 21 Cabbage<STEAM_0:1:481873656> used the tool weld on models/hunter/triangles/4x4.mdl
+[21:35:11] 21 Cabbage<STEAM_0:1:481873656> used the tool weld on models/hunter/plates/plate1x3.mdl
+[21:35:11] 21 Cabbage<STEAM_0:1:481873656> used the tool weld on models/hunter/misc/stair1x1.mdl
+[21:35:11] 21 Cabbage<STEAM_0:1:481873656> used the tool weld on models/hunter/misc/stair1x1.mdl
+[21:35:12] 21 Cabbage<STEAM_0:1:481873656> used the tool weld on models/hunter/misc/stair1x1.mdl
+[21:35:12] 21 Cabbage<STEAM_0:1:481873656> used the tool weld on models/hunter/misc/stair1x1.mdl
+[21:35:12] 21 Cabbage<STEAM_0:1:481873656> used the tool weld on models/hunter/misc/stair1x1.mdl
+[21:35:12] 21 Cabbage<STEAM_0:1:481873656> used the tool weld on models/hunter/misc/stair1x1.mdl
+[21:35:12] 21 Cabbage<STEAM_0:1:481873656> used the tool weld on models/hunter/misc/stair1x1.mdl
+[21:35:13] 21 Cabbage<STEAM_0:1:481873656> used the tool weld on models/hunter/misc/stair1x1.mdl
+[21:35:13] 21 Cabbage<STEAM_0:1:481873656> used the tool weld on models/hunter/misc/stair1x1.mdl
+[21:35:15] 21 Cabbage<STEAM_0:1:481873656> used the tool weld on models/hunter/triangles/4x4.mdl
+[21:35:16] 21 Cabbage<STEAM_0:1:481873656> used the tool weld on models/hunter/blocks/cube1x4x1.mdl
+[21:35:17] 21 Cabbage<STEAM_0:1:481873656> used the tool weld on models/props_building_details/storefront_template001a_bars.mdl
+[21:35:17] 21 Cabbage<STEAM_0:1:481873656> used the tool weld on models/props_building_details/storefront_template001a_bars.mdl
+[21:35:18] 21 Cabbage<STEAM_0:1:481873656> used the tool weld on models/props_building_details/storefront_template001a_bars.mdl
+[21:35:18] 21 Cabbage<STEAM_0:1:481873656> used the tool weld on models/props_building_details/storefront_template001a_bars.mdl
+[21:35:18] 21 Cabbage<STEAM_0:1:481873656> used the tool weld on models/props_building_details/storefront_template001a_bars.mdl
+[21:35:18] 21 Cabbage<STEAM_0:1:481873656> used the tool weld on models/hunter/blocks/cube1x4x1.mdl
+[21:35:18] 21 Cabbage<STEAM_0:1:481873656> used the tool weld on models/hunter/blocks/cube1x4x1.mdl
+[21:35:18] 21 Cabbage<STEAM_0:1:481873656> used the tool weld on models/hunter/blocks/cube1x4x1.mdl
+[21:35:19] 21 Cabbage<STEAM_0:1:481873656> used the tool weld on models/hunter/blocks/cube1x4x1.mdl
+[21:35:19] 21 Cabbage<STEAM_0:1:481873656> used the tool weld on models/hunter/blocks/cube1x4x1.mdl
+[21:35:19] 21 Cabbage<STEAM_0:1:481873656> used the tool weld on models/props_building_details/storefront_template001a_bars.mdl
+[21:35:19] 21 Cabbage<STEAM_0:1:481873656> used the tool weld on models/props_building_details/storefront_template001a_bars.mdl
+[21:35:19] 21 Cabbage<STEAM_0:1:481873656> used the tool weld on models/props_building_details/storefront_template001a_bars.mdl
+[21:35:21] 21 Cabbage<STEAM_0:1:481873656> used the tool weld on models/hunter/triangles/1x1x5.mdl
+[21:35:21] 21 Cabbage<STEAM_0:1:481873656> used the tool weld on models/hunter/triangles/1x1x5.mdl
+[21:35:21] 21 Cabbage<STEAM_0:1:481873656> used the tool weld on models/hunter/triangles/1x1x5.mdl
+[21:35:22] 21 Cabbage<STEAM_0:1:481873656> used the tool weld on models/hunter/blocks/cube05x1x025.mdl
+[21:35:22] 21 Cabbage<STEAM_0:1:481873656> used the tool weld on models/hunter/blocks/cube05x1x025.mdl
+[21:35:22] 21 Cabbage<STEAM_0:1:481873656> used the tool weld on models/hunter/blocks/cube05x1x025.mdl
+[21:35:22] 21 Cabbage<STEAM_0:1:481873656> used the tool weld on models/hunter/blocks/cube05x1x025.mdl
+[21:35:22] 21 Cabbage<STEAM_0:1:481873656> used the tool weld on models/hunter/triangles/1x1x5.mdl
+[21:35:23] 21 Cabbage<STEAM_0:1:481873656> used the tool weld on models/hunter/blocks/cube05x1x025.mdl
+[21:35:23] 21 Cabbage<STEAM_0:1:481873656> used the tool weld on models/hunter/blocks/cube05x1x025.mdl
+[21:35:23] 21 Cabbage<STEAM_0:1:481873656> used the tool weld on models/hunter/blocks/cube05x1x025.mdl
+[21:35:23] 21 Cabbage<STEAM_0:1:481873656> used the tool weld on models/hunter/blocks/cube05x1x025.mdl
+[21:35:23] 21 Cabbage<STEAM_0:1:481873656> used the tool weld on models/hunter/blocks/cube05x1x025.mdl
+[21:35:24] 21 Cabbage<STEAM_0:1:481873656> used the tool weld on models/hunter/triangles/1x1x5.mdl
+[21:35:25] 21 Cabbage<STEAM_0:1:481873656> used the tool weld on models/hunter/blocks/cube025x075x025.mdl
+[21:35:26] 21 Cabbage<STEAM_0:1:481873656> used the tool weld on models/hunter/blocks/cube025x075x025.mdl
+[21:35:26] 21 Cabbage<STEAM_0:1:481873656> used the tool weld on models/hunter/blocks/cube025x075x025.mdl
+[21:35:28] 21 Cabbage<STEAM_0:1:481873656> used the tool weld on models/hunter/blocks/cube05x1x025.mdl
+[21:35:28] 21 Cabbage<STEAM_0:1:481873656> used the tool weld on models/hunter/blocks/cube05x1x025.mdl
+[21:35:28] 21 Cabbage<STEAM_0:1:481873656> used the tool weld on models/hunter/blocks/cube05x1x025.mdl
+[21:35:28] 21 Cabbage<STEAM_0:1:481873656> used the tool weld on models/hunter/blocks/cube05x1x025.mdl
+[21:35:28] 21 Cabbage<STEAM_0:1:481873656> used the tool weld on models/hunter/blocks/cube05x1x025.mdl
+[21:35:28] 21 Cabbage<STEAM_0:1:481873656> used the tool weld on models/hunter/blocks/cube05x1x025.mdl
+[21:35:29] 21 Cabbage<STEAM_0:1:481873656> used the tool weld on models/hunter/blocks/cube05x1x025.mdl
+[21:35:29] 21 Cabbage<STEAM_0:1:481873656> used the tool weld on models/hunter/blocks/cube05x1x025.mdl
+[21:35:29] 21 Cabbage<STEAM_0:1:481873656> used the tool weld on models/hunter/blocks/cube05x1x025.mdl
+[21:35:30] 21 Cabbage<STEAM_0:1:481873656> used the tool weld on models/hunter/blocks/cube05x1x025.mdl
+[21:35:31] 21 Cabbage<STEAM_0:1:481873656> used the tool weld on maps/rp_downtown_tits_v2.bsp
+[21:35:31] 21 Cabbage<STEAM_0:1:481873656> used the tool weld on models/hunter/blocks/cube05x1x025.mdl
+[21:35:31] 21 Cabbage<STEAM_0:1:481873656> used the tool weld on models/hunter/blocks/cube05x1x025.mdl
+[21:35:31] 21 Cabbage<STEAM_0:1:481873656> used the tool weld on models/hunter/blocks/cube05x1x025.mdl
+[21:35:31] 21 Cabbage<STEAM_0:1:481873656> used the tool weld on models/hunter/blocks/cube05x1x025.mdl
+[21:35:32] 21 Cabbage<STEAM_0:1:481873656> used the tool weld on models/hunter/blocks/cube05x1x025.mdl
+[21:35:32] 21 Cabbage<STEAM_0:1:481873656> used the tool weld on models/hunter/blocks/cube05x1x025.mdl
+[21:35:32] 21 Cabbage<STEAM_0:1:481873656> used the tool weld on models/hunter/blocks/cube05x1x025.mdl
+[21:35:32] 21 Cabbage<STEAM_0:1:481873656> used the tool weld on models/hunter/blocks/cube05x1x025.mdl
+[21:35:32] 21 Cabbage<STEAM_0:1:481873656> used the tool weld on models/hunter/blocks/cube05x1x025.mdl
+[21:35:34] 21 Cabbage<STEAM_0:1:481873656> used the tool weld on models/hunter/triangles/1x1x5.mdl
+[21:35:34] 21 Cabbage<STEAM_0:1:481873656> used the tool weld on models/hunter/triangles/1x1x5.mdl
+[21:35:36] 21 Cabbage<STEAM_0:1:481873656> used the tool weld on models/props_building_details/storefront_template001a_bars.mdl
+[21:35:37] 21 Cabbage<STEAM_0:1:481873656> used the tool weld on models/props_building_details/storefront_template001a_bars.mdl
+[21:35:38] 21 Cabbage<STEAM_0:1:481873656> used the tool weld on models/props_building_details/storefront_template001a_bars.mdl
+[21:35:39] 21 Cabbage<STEAM_0:1:481873656> used the tool weld on models/props_building_details/storefront_template001a_bars.mdl
+[21:35:39] 21 Cabbage<STEAM_0:1:481873656> used the tool weld on models/props_building_details/storefront_template001a_bars.mdl
+[21:35:44] 21 Cabbage<STEAM_0:1:481873656> used the tool weld on models/hunter/plates/plate1x3.mdl
+[21:35:44] 21 Cabbage<STEAM_0:1:481873656> used the tool weld on models/hunter/plates/plate1x3.mdl
+[21:35:46] 21 Cabbage<STEAM_0:1:481873656> used the tool weld on models/hunter/plates/plate1x3.mdl
+[21:35:47] 21 Cabbage<STEAM_0:1:481873656> used the tool weld on models/hunter/plates/plate1x3.mdl
+[21:35:49] 21 Cabbage<STEAM_0:1:481873656> used the tool weld on models/hunter/triangles/1x1x5.mdl
+[21:35:49] 21 Cabbage<STEAM_0:1:481873656> used the tool weld on models/hunter/triangles/1x1x5.mdl
+[21:36:05] 21 Cabbage<STEAM_0:1:481873656> used the tool material on models/props_phx/construct/metal_plate1x2.mdl
+[21:36:06] 21 Cabbage<STEAM_0:1:481873656> used the tool material on models/props_phx/construct/metal_wire1x2.mdl
+[21:36:07] 21 Cabbage<STEAM_0:1:481873656> used the tool material on models/props_phx/construct/metal_wire1x2.mdl
+[21:36:08] 21 Cabbage<STEAM_0:1:481873656> used the tool material on models/props_phx/construct/metal_plate1x2.mdl
+[21:36:11] 21 Cabbage<STEAM_0:1:481873656> used the tool colour on models/props_phx/construct/metal_wire1x2.mdl
+[21:36:12] 21 Cabbage<STEAM_0:1:481873656> used the tool colour on models/props_phx/construct/metal_wire1x2.mdl
+[21:36:12] 21 Cabbage<STEAM_0:1:481873656> used the tool colour on models/props_phx/construct/metal_plate1x2.mdl
+[21:36:14] 21 Cabbage<STEAM_0:1:481873656> used the tool colour on models/props_phx/construct/metal_plate1x2.mdl
+[21:36:14] 21 Cabbage<STEAM_0:1:481873656> used the tool colour on models/props_phx/construct/metal_wire1x2.mdl
+[21:36:14] 21 Cabbage<STEAM_0:1:481873656> used the tool colour on models/props_phx/construct/metal_wire1x2.mdl
+[21:36:19] 21 Cabbage<STEAM_0:1:481873656> used the tool weld on models/props_phx/construct/metal_wire1x2.mdl
+[21:36:21] 21 Cabbage<STEAM_0:1:481873656> used the tool weld on models/props_phx/construct/metal_plate1x2.mdl
+[21:36:22] 21 Cabbage<STEAM_0:1:481873656> used the tool weld on models/props_phx/construct/metal_wire1x2.mdl
+[21:36:23] 21 Cabbage<STEAM_0:1:481873656> used the tool weld on models/props_phx/construct/metal_plate1x2.mdl
+[21:36:25] 21 Cabbage<STEAM_0:1:481873656> used the tool weld on models/props_phx/construct/metal_wire1x2.mdl
+[21:36:34] 21 Cabbage<STEAM_0:1:481873656> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[21:36:36] 21 Cabbage<STEAM_0:1:481873656> used the tool advdupe2 on models/hunter/blocks/cube1x4x1.mdl
+[21:36:44] 21 Cabbage<STEAM_0:1:481873656> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[21:36:44] 21 Cabbage<STEAM_0:1:481873656> used the tool advdupe2 on models/hunter/triangles/1x1x5.mdl
+[21:36:45] 21 Cabbage<STEAM_0:1:481873656> used the tool advdupe2 on models/hunter/triangles/1x1x5.mdl
+[21:36:47] 21 Cabbage<STEAM_0:1:481873656> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[21:36:50] 21 Cabbage<STEAM_0:1:481873656> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[21:38:45] 21 Cabbage<STEAM_0:1:481873656> used the tool textscreen on maps/rp_downtown_tits_v2.bsp
+[21:39:42] lee1095 suicided!
+[21:40:00] 21 Cabbage: / /where do i buy food?
+[21:40:04] 21 Cabbage: // where do i buy food
+[21:40:14] DrDerpenstein: // vending machines in town center
+[21:40:18] 21 Cabbage: // mk thanks
+[21:40:31] DrDerpenstein: they only give you 1 rn but thatll be fixed with next sver restart
+[21:40:35] DrDerpenstein: // they only give you 1 rn but thatll be fixed with next sver restart
+[21:40:44] DrDerpenstein: // or you could buy drugs from any dealer
+[21:40:47] 21 Cabbage: // ah shii so should i just die
+[21:40:55] 21 Cabbage suicided!
+[21:41:02] 21 Cabbage: // too late to answer xD
+[21:41:03] DrDerpenstein: // ive got some of dat good good if you wanna meet at vending machines
+[21:41:13] 21 Cabbage: // nah im done with crack
+[21:41:16] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[21:41:16] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[21:41:16] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[21:41:16] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[21:41:17] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[21:41:17] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[21:41:18] 21 Cabbage: // that shit messed with my head xD
+[21:41:31] DrDerpenstein: // dawg this is next level tho
+[21:41:34] DrDerpenstein: // this is meff
+[21:41:35] 21 Cabbage: // nah jk i only stick to weed so if you got that ill take it
+[21:41:40] DrDerpenstein: // i got that
+[21:41:45] 21 Cabbage: // mhm meet at vending
+[21:41:48] lee1095 suicided!
+[21:42:03] 21 Cabbage: /dropmoney 1000
+[21:43:33] DrDerpenstein: /tp lee
+[21:47:17] 21 Cabbage<STEAM_0:1:481873656> used the tool material on models/hunter/blocks/cube025x075x025.mdl
+[21:47:18] 21 Cabbage<STEAM_0:1:481873656> used the tool material on models/hunter/blocks/cube025x075x025.mdl
+[21:47:18] 21 Cabbage<STEAM_0:1:481873656> used the tool material on models/hunter/blocks/cube1x4x1.mdl
+[21:47:19] 21 Cabbage<STEAM_0:1:481873656> used the tool material on models/hunter/blocks/cube025x075x025.mdl
+[21:48:01] DrDerpenstein: /advert FOOD ON DELIVERY - JUST CALL /pm drderp
+[21:48:50] DrDerpenstein: /advert FOOD ON DELIVERY - JUST CALL /pm drderp
+[21:48:53] 21 Cabbage<STEAM_0:1:481873656> spawned model models/props_phx/construct/metal_plate1x2.mdl
+[21:49:18] 21 Cabbage: // where ya go lee
+[21:49:27] 21 Cabbage: // come onnnn finish what you started
+[21:49:53] 21 Cabbage: // thats so rule leaving me on 23 health and not trying to finish me 
+[21:49:57] 21 Cabbage: // rude*
+[21:50:04] lee1095: // sorry
+[21:50:09] 21 Cabbage: // come back :)
+[21:51:14] 21 Cabbage: // i got 4 printers waiting for you to raid me :_
+[21:52:11] 21 Cabbage<STEAM_0:1:481873656> used the tool material on models/props_phx/construct/metal_plate1x2.mdl
+[21:52:15] 21 Cabbage<STEAM_0:1:481873656> used the tool colour on models/props_phx/construct/metal_plate1x2.mdl
+[21:53:14] 21 Cabbage: // lol today someone stomped on my phone cause they were being a dick and now im out of a phone
+[21:53:23] DrDerpenstein: // sue em!
+[21:53:36] 21 Cabbage: // i would have fought them but if i got into another fight i would have been expelled.
+[21:53:48] DrDerpenstein: // thats a good reason to defend yourself tho
+[21:53:50] 21 Cabbage: // lol i told my parents that a freshman ran into me
+[21:53:52] DrDerpenstein: // those are some shit rules
+[21:54:00] 21 Cabbage: // my school is idot
+[21:54:12] 21 Cabbage: // il get expelled for self defence
+[21:54:19] 21 Cabbage: // and another reason is that it was a friend
+[21:54:24] 21 Cabbage: // lol
+[21:54:31] DrDerpenstein: // not a true freind dude, thats shit
+[21:54:40] 21 Cabbage: // i told him to xD
+[21:54:50] 21 Cabbage: // cause im getting a new phone 
+[21:54:54] 21 Cabbage: // lol i got you good
+[21:55:09] 21 Cabbage suicided!
+[21:57:05] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_shorty
+[21:58:10] 21 Cabbage killed lee1095 using player
+[21:58:16] DrDerpenstein: /drop
+[21:58:50] lee1095 killed 21 Cabbage using player
+[22:00:48] 21 Cabbage: /dropmoney 50000
+[22:01:03] DrDerpenstein: serbu
+[22:01:58] 21 Cabbage: /drop
+[22:02:04] DrDerpenstein: /drop
+[22:02:09] DrDerpenstein: /drop
+[22:02:14] DrDerpenstein: /drop
+[22:03:01] DrDerpenstein: /givemoney 50000
+[22:03:09] DrDerpenstein: /give 50000
+[22:03:25] lee1095: 120000
+[22:03:26] 21 Cabbage: /dropmoney 120000
+[22:04:08] Client "theresamaston" connected.
+[22:05:00] lee1095: /drop
+[22:05:13] 21 Cabbage: /inv
+[22:06:38] 21 Cabbage killed DrDerpenstein using player
+[22:07:02] Client "theresamaston" spawned in server <STEAM_0:1:442389183> (took 174 seconds).
+[22:07:37] lee1095: !purge_info
+[22:07:55] lee1095: !purge party
+[22:08:09] CJC: /pm dr hi
+[22:08:17] CJC<STEAM_0:1:442389183> used the tool textscreen on maps/rp_downtown_tits_v2.bsp
+[22:08:17] DrDerpenstein: /pm cjc hola
+[22:08:35] 21 Cabbage killed lee1095 using player
+[22:08:52] CJC: /invholster
+[22:09:12] Dropped "CJC" from server<STEAM_0:1:442389183>
+[22:09:12] Client "theresamaston" connected.
+[22:09:17] Dropped "lee1095" from server<STEAM_0:1:20293973>
+[22:09:28] 21 Cabbage: // rip lee
+[22:09:34] DrDerpenstein: // what happened?
+[22:09:36] 21 Cabbage: // derp wanna try to raid me
+[22:09:40] DrDerpenstein: // lol
+[22:09:45] 21 Cabbage: // idk i killed him wehn he missed all his shots
+[22:10:18] DrDerpenstein: // warning you dude, ima hit some meth first lol
+[22:10:27] 21 Cabbage: // mk so you gonna be stronked
+[22:10:40] 21 Cabbage: // warning you dude you havent been inside my base xD
+[22:10:50] DrDerpenstein: // thats about to change
+[22:10:55] 21 Cabbage: // k bet
+[22:11:00] 21 Cabbage: // im at 64 health also
+[22:11:16] 21 Cabbage: // lol
+[22:11:35] Client "theresamaston" spawned in server <STEAM_0:1:442389183> (took 143 seconds).
+[22:11:35] 21 Cabbage: // too easy lol
+[22:11:59] 21 Cabbage killed DrDerpenstein using player
+[22:13:10] 21 Cabbage: 21 Cabbage killed DrDerpenstein using cw_m3super90
+[22:13:16] 21 Cabbage: // v
+[22:13:19] 21 Cabbage: // 21 Cabbage killed DrDerpenstein using cw_m3super90
+[22:14:03] CJC<STEAM_0:1:442389183> spawned vehicle models/sligwolf/fcc/flying_crawler_car.mdl
+[22:14:45] DrDerpenstein: /kill
+[22:14:46] DrDerpenstein suicided!
+[22:15:34] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[22:15:34] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[22:15:35] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[22:15:35] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[22:15:35] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[22:15:35] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[22:15:35] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[22:15:35] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[22:15:35] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[22:15:37] 21 Cabbage: // excuse me
+[22:15:40] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[22:15:40] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[22:15:40] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[22:15:40] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[22:15:40] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[22:15:42] 21 Cabbage: // what was that
+[22:15:42] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[22:15:43] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[22:15:43] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[22:15:43] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[22:15:43] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[22:15:43] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[22:15:47] 21 Cabbage: // i saw that too you know
+[22:15:53] 21 Cabbage: // are you cheating?
+[22:15:54] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[22:15:54] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[22:15:54] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[22:15:54] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[22:15:54] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[22:15:55] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[22:15:55] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[22:15:59] 21 Cabbage: // block model set to 0
+[22:16:01] 21 Cabbage: // yea
+[22:16:07] DrDerpenstein: // lol ran out of meth
+[22:16:10] DrDerpenstein: // needed to make some
+[22:16:13] 21 Cabbage: // oh alr what ever
+[22:16:38] 21 Cabbage: // i thought of everything just not for this server so come at me with all you got
+[22:16:43] DrDerpenstein: // so it wasnt entirely meth i needed
+[22:16:52] DrDerpenstein: // its somethign that is going to be release soon
+[22:17:11] DrDerpenstein: // ready
+[22:17:14] 21 Cabbage: // ofc
+[22:18:07] DrDerpenstein killed 21 Cabbage using player
+[22:18:15] DrDerpenstein: /tp 21
+[22:18:20] DrDerpenstein: /tp 21
+[22:18:22] 21 Cabbage: // k well you did cheat
+[22:18:24] DrDerpenstein: /bring 21
+[22:18:29] CJC: no 
+[22:18:30] 21 Cabbage: // so try without cheating xD
+[22:18:36] DrDerpenstein: // i had to grab some stuff that will be added soon
+[22:18:46] CJC: they are called somthing that is not added
+[22:18:48] DrDerpenstein: // not a true raid, admittedly, but just so you're ready
+[22:18:50] 21 Cabbage: k well lets do it again and you can use it
+[22:18:53] CJC: /invholster
+[22:19:00] 21 Cabbage: // lets do it again and you can use it
+[22:19:13] DrDerpenstein: // the base?
+[22:19:14] CJC: /invholster
+[22:19:16] 21 Cabbage: // yea
+[22:19:17] DrDerpenstein: // we defend?
+[22:19:26] DrDerpenstein: // kk lemme give you some c4
+[22:20:09] CJC: /invholster
+[22:20:22] CJC: /invholster
+[22:20:46] CJC killed DrDerpenstein using player
+[22:20:57] CJC: /invholster
+[22:21:10] 21 Cabbage: // come back lol
+[22:21:26] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[22:21:27] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[22:21:27] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[22:21:27] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[22:21:28] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[22:21:28] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[22:21:28] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[22:21:28] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[22:21:28] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[22:21:28] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[22:21:28] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[22:21:29] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[22:21:29] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[22:21:29] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[22:21:57] 21 Cabbage killed CJC using player
+[22:22:03] 21 Cabbage killed DrDerpenstein using player
+[22:22:18] CJC: i was watching
+[22:22:32] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[22:22:33] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[22:22:33] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[22:22:33] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[22:22:33] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[22:22:34] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[22:22:34] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[22:22:34] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[22:22:34] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[22:22:34] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[22:22:34] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[22:22:34] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[22:22:34] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[22:22:35] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[22:22:37] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[22:22:37] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[22:23:16] 21 Cabbage killed CJC using player
+[22:23:42] CJC: no wat i am bring the rdm machine
+[22:24:00] 21 Cabbage killed DrDerpenstein using player
+[22:24:05] CJC<STEAM_0:1:442389183> spawned vehicle models/sligwolf/blue-x14/blue-x14.mdl
+[22:24:30] 21 Cabbage: / k now you both try raiding me with 500 health and both use c4
+[22:24:38] 21 Cabbage: // k both try raiding me with 500 health
+[22:24:43] 21 Cabbage: // lol
+[22:25:15] 21 Cabbage: // no cars xD
+[22:26:01] 21 Cabbage: // ready when u are
+[22:26:11] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[22:26:11] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[22:26:11] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[22:26:11] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[22:26:11] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[22:26:11] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[22:26:11] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[22:26:12] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[22:26:12] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[22:26:12] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[22:26:15] 21 Cabbage: // i swear to god dont use the rockets on me xD
+[22:26:51] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[22:26:51] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[22:26:51] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[22:26:51] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[22:26:51] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[22:26:51] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[22:26:51] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[22:26:52] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[22:26:52] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[22:27:25] CJC: /invholster
+[22:27:26] 21 Cabbage killed CJC using player
+[22:27:36] CJC: nooo
+[22:27:55] 21 Cabbage killed DrDerpenstein using player
+[22:28:10] CJC killed 21 Cabbage using player
+[22:28:18] CJC killed DrDerpenstein using player
+[22:28:24] 21 Cabbage: // can you bring me so i dont have to walk
+[22:28:37] DrDerpenstein: /bring 21
+[22:28:40] DrDerpenstein: /bring 21
+[22:28:46] DrDerpenstein: /bring 21 
+[22:29:11] 21 Cabbage: // did nut work
+[22:29:11] DrDerpenstein: // wya?
+[22:29:43] 21 Cabbage was killed by prop_vehicle_jeep
+[22:29:50] CJC was killed by grenade_ar2
+[22:29:55] DrDerpenstein: /bring 21
+[22:29:57] 21 Cabbage: // you should take that away from him lol
+[22:30:03] DrDerpenstein: // im about to
+[22:30:07] DrDerpenstein: !wcd
+[22:30:10] CJC: srry lol
+[22:30:17] CJC: ill stop
+[22:30:27] DrDerpenstein: // no more care for you!
+[22:30:30] CJC: /invholster
+[22:30:34] CJC: bye
+[22:30:52] CJC: /ooc i am sad so i leave now
+[22:31:03] DrDerpenstein: // you can have it back when you calm down
+[22:31:09] 21 Cabbage: // lol
+[22:31:16] 21 Cabbage: // i did gud defendering
+[22:31:19] CJC: /ooc i will once you give it back
+[22:31:21] DrDerpenstein: .. yea you did
+[22:31:26] DrDerpenstein: // yea you did
+[22:31:29] 21 Cabbage: // then you'll never get it back
+[22:31:31] 21 Cabbage: // lol
+[22:31:34] DrDerpenstein: // ^
+[22:31:45] CJC: i have to buy it again
+[22:31:54] DrDerpenstein: // its an infinite loop, stephen hawking lived for explaining tho
+[22:31:56] DrDerpenstein: // its an infinite loop, stephen hawking lived for explaining those
+[22:32:06] DrDerpenstein: /bring STEAM_0:1:481873656
+[22:32:12] 21 Cabbage: // lol im a nic addict in my jr year so ima take a break real quick tp to me and we will have a smoking with me time
+[22:32:17] CJC: /ooc i am leaving and not playing for a week
+[22:32:17] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_ak74
+[22:32:18] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_fiveseven
+[22:32:19] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_scarh
+[22:32:29] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_g3a3
+[22:32:30] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw2_mp7
+[22:32:31] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_g36c
+[22:32:31] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_m249_official
+[22:32:32] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_m1911
+[22:32:32] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_m14
+[22:32:33] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_l85a2
+[22:32:33] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_l115
+[22:32:34] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_deagle
+[22:32:34] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_mp5
+[22:32:35] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_ump45
+[22:32:35] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_m3super90
+[22:32:36] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_ar15
+[22:32:37] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_mac11
+[22:32:37] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_mr96
+[22:32:38] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_p99
+[22:32:38] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_makarov
+[22:32:39] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_shorty
+[22:32:40] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[22:32:53] CJC: /ooc i am leaving the server for 2 weeks
+[22:32:58] DrDerpenstein: // rip
+[22:33:24] DrDerpenstein: !wcd
+[22:33:29] CJC: /ooc i have to buy it again so bye for 3 weeks
+[22:33:47] CJC: /ooc or more
+[22:34:27] CJC: /ooc i am going to leave in 10
+[22:34:31] DrDerpenstein: // later
+[22:34:35] CJC: /ooc 9
+[22:34:41] CJC: /ooc 8
+[22:34:47] CJC: /ooc 7
+[22:34:51] CJC: /ooc 6
+[22:34:52] DrDerpenstein: // 7654321
+[22:35:12] CJC: /ooc thx for making it shorter
+[22:35:19] CJC: /ooc bye
+[22:35:27] DrDerpenstein: // lol
+[22:35:33] DrDerpenstein: // you'll miss the VIP event
+[22:35:42] CJC: /ooc i dont care
+[22:35:59] CJC: /ooc all i want is my car back
+[22:36:15] CJC: /ooc this server is un fair
+[22:36:20] 21 Cabbage: // lol yes it is
+[22:36:24] 21 Cabbage: // it sucks ikr
+[22:36:26] DrDerpenstein: // lol it was unfair that you got the car in the first place
+[22:36:32] 21 Cabbage: // i flipping flip hat dis sorver
+[22:36:35] DrDerpenstein: // im going to be removing the guns anyways
+[22:36:51] CJC: /ooc well i was  playing befor 
+[22:36:58] DrDerpenstein: // you can have it back 
+[22:37:03] CJC: /ooc so tec i am og
+[22:37:58] CJC: /ooc wen would i get it back in a year
+[22:38:06] DrDerpenstein: // tomorrow
+[22:38:17] CJC: no i want it back to dday
+[22:38:31] CJC: i know ur lying
+[22:38:49] CJC: ur just gonna say oh i dont remember
+[22:39:32] CJC: /ooc i am prob gonna leave 
+[22:39:39] DrDerpenstein: // be patient
+[22:39:54] CJC: /ooc i dont have patoints
+[22:39:55] 21 Cabbage: // ill see you in an hour :)
+[22:41:38] CJC: /ooc bye
+[22:41:57] CJC: /ooc 3
+[22:42:03] CJC: /ooc 2
+[22:42:07] CJC: /ooc 1
+[22:42:13] CJC: /ooc ok bye
+[22:42:22] Dropped "CJC" from server<STEAM_0:1:442389183>
+[22:42:23] DrDerpenstein: // its an OP car that
+[22:42:30] Client "theresamaston" connected.
+[22:44:46] Client "theresamaston" spawned in server <STEAM_0:1:442389183> (took 136 seconds).
+[22:46:26] Dropped "21 Cabbage" from server<STEAM_0:1:481873656>
+[22:46:35] DrDerpenstein: /goto cjc
+[22:46:49] CJC killed DrDerpenstein using player
+[22:47:18] CJC<STEAM_0:1:442389183> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[22:47:26] CJC<STEAM_0:1:442389183> used the tool remover on models/props_building_details/storefront_template001a_bars.mdl
+[22:47:32] CJC<STEAM_0:1:442389183> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[22:47:40] CJC<STEAM_0:1:442389183> used the tool material on models/props_building_details/storefront_template001a_bars.mdl
+[22:47:45] CJC<STEAM_0:1:442389183> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[22:47:57] CJC<STEAM_0:1:442389183> used the tool remover on models/props_building_details/storefront_template001a_bars.mdl
+[22:47:57] CJC<STEAM_0:1:442389183> used the tool remover on models/props_building_details/storefront_template001a_bars.mdl
+[22:47:57] CJC<STEAM_0:1:442389183> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[22:48:02] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube075x1x075.mdl
+[22:48:09] CJC<STEAM_0:1:442389183> used the tool stacker_improved on models/hunter/blocks/cube075x1x075.mdl
+[22:48:09] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube075x1x075.mdl
+[22:48:10] CJC<STEAM_0:1:442389183> used the tool stacker_improved on models/hunter/blocks/cube075x1x075.mdl
+[22:48:10] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube075x1x075.mdl
+[22:48:14] CJC<STEAM_0:1:442389183> used the tool colour on models/hunter/blocks/cube075x1x075.mdl
+[22:48:14] CJC<STEAM_0:1:442389183> used the tool colour on models/hunter/blocks/cube075x1x075.mdl
+[22:48:15] CJC<STEAM_0:1:442389183> used the tool colour on models/hunter/blocks/cube075x1x075.mdl
+[22:48:17] CJC<STEAM_0:1:442389183> used the tool nocollide on models/hunter/blocks/cube075x1x075.mdl
+[22:48:18] CJC<STEAM_0:1:442389183> used the tool nocollide on models/hunter/blocks/cube075x1x075.mdl
+[22:48:19] CJC<STEAM_0:1:442389183> used the tool nocollide on models/hunter/blocks/cube075x1x075.mdl
+[22:48:21] CJC<STEAM_0:1:442389183> used the tool nocollide on models/hunter/blocks/cube075x1x075.mdl
+[22:48:22] CJC<STEAM_0:1:442389183> used the tool nocollide on models/hunter/blocks/cube075x1x075.mdl
+[22:48:37] CJC: /ooc u cant kill me
+[22:48:50] DrDerpenstein: // thems raiding words
+[22:48:53] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_ak74
+[22:48:54] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_ak74
+[22:48:56] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_m249_official
+[22:48:57] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_m249_official
+[22:48:57] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_m249_official
+[22:48:57] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_m249_official
+[22:48:57] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_m249_official
+[22:48:57] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_m249_official
+[22:48:57] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_m249_official
+[22:48:57] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_m249_official
+[22:48:57] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_m249_official
+[22:48:58] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_m249_official
+[22:48:58] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_m249_official
+[22:49:05] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[22:49:05] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[22:49:05] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[22:49:05] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[22:49:05] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[22:49:05] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[22:49:06] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[22:49:06] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[22:49:06] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[22:49:06] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_sh_doorcharge
+[22:49:40] CJC: /advert kill me
+[22:50:02] CJC: /invholster
+[22:50:05] DrDerpenstein killed CJC using prop_sh_doorcharge
+[22:50:19] CJC: /invholster
+[22:50:34] CJC<STEAM_0:1:442389183> used the tool nocollide on models/hunter/blocks/cube075x1x075.mdl
+[22:50:36] CJC<STEAM_0:1:442389183> used the tool nocollide on models/hunter/blocks/cube075x1x075.mdl
+[22:50:37] CJC<STEAM_0:1:442389183> used the tool nocollide on models/hunter/blocks/cube075x1x075.mdl
+[22:50:56] DrDerpenstein killed CJC using player
+[22:51:37] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube075x2x1.mdl
+[22:51:40] CJC<STEAM_0:1:442389183> used the tool stacker_improved on models/hunter/blocks/cube075x2x1.mdl
+[22:51:40] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube075x2x1.mdl
+[22:51:40] CJC<STEAM_0:1:442389183> used the tool stacker_improved on models/hunter/blocks/cube075x2x1.mdl
+[22:51:40] CJC<STEAM_0:1:442389183> used the tool stacker_improved on models/hunter/blocks/cube075x2x1.mdl
+[22:51:41] CJC<STEAM_0:1:442389183> used the tool stacker_improved on models/hunter/blocks/cube075x2x1.mdl
+[22:51:41] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube075x2x1.mdl
+[22:51:41] CJC<STEAM_0:1:442389183> used the tool stacker_improved on models/hunter/blocks/cube075x2x1.mdl
+[22:51:41] CJC<STEAM_0:1:442389183> used the tool stacker_improved on maps/rp_downtown_tits_v2.bsp
+[22:51:41] CJC<STEAM_0:1:442389183> used the tool stacker_improved on models/hunter/blocks/cube075x2x1.mdl
+[22:51:41] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube075x2x1.mdl
+[22:51:43] CJC<STEAM_0:1:442389183> used the tool nocollide on models/hunter/blocks/cube075x2x1.mdl
+[22:51:44] CJC<STEAM_0:1:442389183> used the tool nocollide on models/hunter/blocks/cube075x2x1.mdl
+[22:51:45] CJC<STEAM_0:1:442389183> used the tool nocollide on models/hunter/blocks/cube075x2x1.mdl
+[22:51:45] CJC<STEAM_0:1:442389183> used the tool nocollide on maps/rp_downtown_tits_v2.bsp
+[22:51:46] CJC<STEAM_0:1:442389183> used the tool nocollide on models/hunter/blocks/cube075x2x1.mdl
+[22:52:01] CJC<STEAM_0:1:442389183> used the tool nocollide on models/hunter/blocks/cube075x2x1.mdl
+[22:52:01] CJC<STEAM_0:1:442389183> used the tool nocollide on models/hunter/blocks/cube075x2x1.mdl
+[22:52:03] CJC killed DrDerpenstein using player
+[22:52:06] CJC: /invholster
+[22:52:10] CJC<STEAM_0:1:442389183> used the tool nocollide on models/hunter/blocks/cube075x2x1.mdl
+[22:52:10] CJC<STEAM_0:1:442389183> used the tool nocollide on models/hunter/blocks/cube075x2x1.mdl
+[22:52:16] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube1x2x1.mdl
+[22:52:20] CJC<STEAM_0:1:442389183> used the tool stacker_improved on models/hunter/blocks/cube1x2x1.mdl
+[22:52:20] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube1x2x1.mdl
+[22:52:21] CJC<STEAM_0:1:442389183> used the tool stacker_improved on models/hunter/blocks/cube1x2x1.mdl
+[22:52:22] CJC<STEAM_0:1:442389183> used the tool stacker_improved on models/hunter/blocks/cube1x2x1.mdl
+[22:52:22] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube1x2x1.mdl
+[22:52:27] CJC<STEAM_0:1:442389183> used the tool nocollide on models/hunter/blocks/cube1x2x1.mdl
+[22:52:27] CJC<STEAM_0:1:442389183> used the tool nocollide on models/hunter/blocks/cube1x2x1.mdl
+[22:52:28] CJC<STEAM_0:1:442389183> used the tool nocollide on models/hunter/blocks/cube1x2x1.mdl
+[22:52:29] CJC<STEAM_0:1:442389183> used the tool nocollide on models/hunter/blocks/cube1x2x1.mdl
+[22:52:32] CJC<STEAM_0:1:442389183> used the tool colour on models/hunter/blocks/cube1x2x1.mdl
+[22:52:33] CJC<STEAM_0:1:442389183> used the tool colour on models/hunter/blocks/cube1x2x1.mdl
+[22:52:33] CJC<STEAM_0:1:442389183> used the tool colour on models/hunter/blocks/cube1x2x1.mdl
+[22:52:35] CJC<STEAM_0:1:442389183> used the tool colour on models/hunter/blocks/cube075x2x1.mdl
+[22:52:35] CJC<STEAM_0:1:442389183> used the tool colour on models/hunter/blocks/cube075x2x1.mdl
+[22:52:36] CJC<STEAM_0:1:442389183> used the tool colour on models/hunter/blocks/cube075x2x1.mdl
+[22:52:36] CJC<STEAM_0:1:442389183> used the tool colour on models/hunter/blocks/cube075x2x1.mdl
+[22:52:37] CJC<STEAM_0:1:442389183> used the tool colour on models/hunter/blocks/cube075x2x1.mdl
+[22:52:37] CJC<STEAM_0:1:442389183> used the tool colour on models/hunter/blocks/cube075x2x1.mdl
+[22:52:37] CJC<STEAM_0:1:442389183> used the tool colour on models/hunter/blocks/cube075x2x1.mdl
+[22:52:38] CJC<STEAM_0:1:442389183> used the tool colour on models/hunter/blocks/cube075x2x1.mdl
+[22:52:38] CJC<STEAM_0:1:442389183> used the tool colour on models/hunter/blocks/cube075x2x1.mdl
+[22:52:41] CJC<STEAM_0:1:442389183> used the tool remover on models/hunter/blocks/cube075x2x1.mdl
+[22:52:53] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube075x3x1.mdl
+[22:52:58] CJC<STEAM_0:1:442389183> used the tool stacker_improved on models/hunter/blocks/cube075x3x1.mdl
+[22:52:58] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube075x3x1.mdl
+[22:52:59] CJC<STEAM_0:1:442389183> used the tool stacker_improved on models/hunter/blocks/cube075x3x1.mdl
+[22:53:00] CJC<STEAM_0:1:442389183> used the tool stacker_improved on models/hunter/blocks/cube075x3x1.mdl
+[22:53:00] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube075x3x1.mdl
+[22:53:02] CJC<STEAM_0:1:442389183> used the tool colour on models/hunter/blocks/cube075x3x1.mdl
+[22:53:02] CJC<STEAM_0:1:442389183> used the tool colour on models/hunter/blocks/cube075x3x1.mdl
+[22:53:02] CJC<STEAM_0:1:442389183> used the tool colour on maps/rp_downtown_tits_v2.bsp
+[22:53:03] CJC<STEAM_0:1:442389183> used the tool colour on models/hunter/blocks/cube075x3x1.mdl
+[22:54:22] CJC killed DrDerpenstein using player
+[22:54:32] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_m249_official
+[22:54:32] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_m249_official
+[22:54:32] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_m249_official
+[22:54:32] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_m249_official
+[22:54:32] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_m249_official
+[22:54:33] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_m249_official
+[22:54:33] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_m249_official
+[22:54:33] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_m249_official
+[22:54:33] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_m249_official
+[22:54:33] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_m249_official
+[22:54:51] DrDerpenstein killed CJC using player
+[22:55:10] CJC<STEAM_0:1:442389183> used the tool remover on models/hunter/blocks/cube075x2x1.mdl
+[22:55:10] CJC<STEAM_0:1:442389183> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[22:55:11] CJC<STEAM_0:1:442389183> used the tool remover on models/hunter/blocks/cube075x2x1.mdl
+[22:55:11] CJC<STEAM_0:1:442389183> used the tool remover on models/hunter/blocks/cube075x2x1.mdl
+[22:55:11] CJC<STEAM_0:1:442389183> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[22:55:11] CJC<STEAM_0:1:442389183> used the tool remover on models/hunter/blocks/cube1x2x1.mdl
+[22:55:12] CJC<STEAM_0:1:442389183> used the tool remover on models/hunter/blocks/cube1x2x1.mdl
+[22:55:12] CJC<STEAM_0:1:442389183> used the tool remover on models/hunter/blocks/cube1x2x1.mdl
+[22:55:12] CJC<STEAM_0:1:442389183> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[22:55:12] CJC<STEAM_0:1:442389183> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[22:55:12] CJC<STEAM_0:1:442389183> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[22:55:13] CJC<STEAM_0:1:442389183> used the tool remover on models/hunter/blocks/cube075x3x1.mdl
+[22:55:14] CJC<STEAM_0:1:442389183> used the tool remover on models/hunter/blocks/cube075x3x1.mdl
+[22:55:14] CJC<STEAM_0:1:442389183> used the tool remover on models/hunter/blocks/cube075x3x1.mdl
+[22:55:14] CJC<STEAM_0:1:442389183> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[22:55:14] CJC<STEAM_0:1:442389183> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[22:55:36] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube075x075x025.mdl
+[22:55:41] CJC<STEAM_0:1:442389183> used the tool colour on models/hunter/blocks/cube075x075x025.mdl
+[22:55:42] CJC<STEAM_0:1:442389183> used the tool colour on models/hunter/blocks/cube075x075x025.mdl
+[22:55:43] CJC<STEAM_0:1:442389183> used the tool colour on models/hunter/blocks/cube075x075x025.mdl
+[22:55:43] CJC<STEAM_0:1:442389183> used the tool colour on models/hunter/blocks/cube075x075x025.mdl
+[22:55:43] CJC<STEAM_0:1:442389183> used the tool colour on models/hunter/blocks/cube075x075x025.mdl
+[22:55:45] CJC<STEAM_0:1:442389183> used the tool colour on models/hunter/blocks/cube075x075x025.mdl
+[22:55:48] CJC<STEAM_0:1:442389183> used the tool remover on models/hunter/blocks/cube075x075x025.mdl
+[22:55:48] CJC<STEAM_0:1:442389183> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[22:55:54] CJC killed DrDerpenstein using player
+[22:55:57] CJC: /invholster
+[22:56:05] DrDerpenstein<STEAM_0:0:13562763> spawned model models/hunter/tubes/circle4x4b.mdl
+[22:56:07] DrDerpenstein<STEAM_0:0:13562763> spawned model models/hunter/blocks/cube1x150x1.mdl
+[22:56:13] DrDerpenstein<STEAM_0:0:13562763> used the tool colour on models/hunter/blocks/cube1x150x1.mdl
+[22:56:14] DrDerpenstein<STEAM_0:0:13562763> used the tool colour on models/hunter/blocks/cube1x150x1.mdl
+[22:56:14] DrDerpenstein<STEAM_0:0:13562763> used the tool colour on models/hunter/blocks/cube1x150x1.mdl
+[22:56:14] DrDerpenstein<STEAM_0:0:13562763> used the tool colour on models/hunter/blocks/cube1x150x1.mdl
+[22:56:14] DrDerpenstein<STEAM_0:0:13562763> used the tool colour on models/hunter/blocks/cube1x150x1.mdl
+[22:56:14] DrDerpenstein<STEAM_0:0:13562763> used the tool colour on models/hunter/blocks/cube1x150x1.mdl
+[22:56:15] DrDerpenstein<STEAM_0:0:13562763> used the tool colour on models/hunter/blocks/cube1x150x1.mdl
+[22:56:15] DrDerpenstein<STEAM_0:0:13562763> used the tool colour on models/hunter/blocks/cube1x150x1.mdl
+[22:56:21] DrDerpenstein<STEAM_0:0:13562763> used the tool material on models/hunter/blocks/cube1x150x1.mdl
+[22:57:21] DrDerpenstein: !wcd
+[22:57:54] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube075x2x075.mdl
+[22:57:59] DrDerpenstein<STEAM_0:0:13562763> spawned model models/hunter/blocks/cube1x150x1.mdl
+[22:58:01] Client "21 Cabbage" connected.
+[22:58:14] DrDerpenstein<STEAM_0:0:13562763> used the tool colour on models/hunter/blocks/cube1x150x1.mdl
+[22:58:20] DrDerpenstein<STEAM_0:0:13562763> used the tool colour on models/hunter/blocks/cube1x150x1.mdl
+[22:58:22] CJC<STEAM_0:1:442389183> used the tool material on models/hunter/blocks/cube075x2x075.mdl
+[22:58:23] CJC<STEAM_0:1:442389183> used the tool material on models/hunter/blocks/cube075x2x075.mdl
+[22:58:23] CJC<STEAM_0:1:442389183> used the tool material on models/hunter/blocks/cube075x2x075.mdl
+[22:58:23] CJC<STEAM_0:1:442389183> used the tool material on models/hunter/blocks/cube075x2x075.mdl
+[22:58:24] CJC<STEAM_0:1:442389183> used the tool material on models/hunter/blocks/cube075x2x075.mdl
+[22:58:26] CJC<STEAM_0:1:442389183> used the tool remover on models/hunter/blocks/cube075x2x075.mdl
+[22:58:29] DrDerpenstein<STEAM_0:0:13562763> used the tool material on models/hunter/blocks/cube1x150x1.mdl
+[22:58:34] DrDerpenstein<STEAM_0:0:13562763> used the tool material on models/hunter/blocks/cube1x150x1.mdl
+[22:58:45] CJC<STEAM_0:1:442389183> spawned vehicle models/sligwolf/fcc/flying_crawler_car.mdl
+[22:59:33] DrDerpenstein<STEAM_0:0:13562763> used the tool material on maps/rp_downtown_tits_v2.bsp
+[22:59:34] DrDerpenstein<STEAM_0:0:13562763> used the tool material on maps/rp_downtown_tits_v2.bsp
+[22:59:34] DrDerpenstein<STEAM_0:0:13562763> used the tool material on maps/rp_downtown_tits_v2.bsp
+[22:59:35] DrDerpenstein<STEAM_0:0:13562763> used the tool material on maps/rp_downtown_tits_v2.bsp
+[22:59:35] DrDerpenstein<STEAM_0:0:13562763> used the tool material on maps/rp_downtown_tits_v2.bsp
+[23:00:05] Client "21 Cabbage" spawned in server <STEAM_0:1:481873656> (took 124 seconds).
+[23:01:12] DrDerpenstein: /tp STEAM_0:1:481873656
+[23:02:47] 21 Cabbage: // bring meh
+[23:02:56] DrDerpenstein: /tp STEAM_0:1:481873656
+[23:03:21] CJC: /ooc who wants to use my gambiling machine
+[23:03:30] CJC: you win or u die
+[23:04:05] DrDerpenstein: // what gambling machine?
+[23:04:16] CJC: go fountin
+[23:04:28] DrDerpenstein<STEAM_0:0:13562763> spawned sent bm2_bitminer_rack
+[23:04:29] DrDerpenstein<STEAM_0:0:13562763> spawned sent bm2_bitminer_server
+[23:04:41] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_fuel
+[23:04:43] CJC: mid fountin
+[23:05:51] CJC: /ooc go fountin in mid to gamble
+[23:06:48] DrDerpenstein was killed by prop_vehicle_jeep
+[23:07:03] DrDerpenstein: /dropmoney 50000
+[23:07:29] CJC: /ooc gtg bye see ya tomorow prb
+[23:07:36] DrDerpenstein: // later mate!
+[23:07:37] Dropped "CJC" from server<STEAM_0:1:442389183>
+[23:08:11] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_ak74
+[23:08:12] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_flash_grenade
+[23:08:15] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_fiveseven
+[23:08:16] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_scarh
+[23:08:16] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_g3a3
+[23:08:17] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_g36c
+[23:08:18] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_g36c
+[23:08:18] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw2_mp7
+[23:08:24] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_g36c
+[23:08:25] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw2_mp7
+[23:08:25] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_m249_official
+[23:08:25] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_m1911
+[23:08:26] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_m14
+[23:08:26] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_l85a2
+[23:08:27] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_l115
+[23:08:28] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_deagle
+[23:08:28] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_mp5
+[23:08:29] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_ump45
+[23:08:29] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_m3super90
+[23:08:30] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_ar15
+[23:08:30] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_mac11
+[23:08:31] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_mr96
+[23:08:31] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_p99
+[23:08:32] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_makarov
+[23:08:32] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_shorty
+[23:08:33] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_smoke_grenade
+[23:08:34] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_vss
+[23:08:39] DrDerpenstein: /drop
+[23:08:47] 21 Cabbage: /drop all
+[23:08:56] 21 Cabbage: /drop
+[23:09:01] 21 Cabbage: /drop
+[23:09:07] 21 Cabbage: /drop
+[23:09:11] 21 Cabbage: /drop
+[23:09:13] 21 Cabbage: /drop
+[23:09:16] 21 Cabbage: /drop
+[23:09:21] 21 Cabbage: /drop
+[23:09:24] 21 Cabbage: /drop
+[23:09:27] 21 Cabbage: /drop
+[23:09:30] 21 Cabbage: /drop
+[23:09:34] 21 Cabbage: /drop
+[23:12:59] 21 Cabbage<STEAM_0:1:481873656> spawned model models/mechanics/gears2/pinion_40.mdl
+[23:13:01] DrDerpenstein<STEAM_0:0:13562763> spawned model models/mechanics/gears2/pinion_40t3.mdl
+[23:13:17] DrDerpenstein<STEAM_0:0:13562763> used the tool stacker_improved on models/mechanics/gears2/pinion_40t3.mdl
+[23:13:17] DrDerpenstein<STEAM_0:0:13562763> spawned model models/mechanics/gears2/pinion_40t3.mdl
+[23:13:34] DrDerpenstein<STEAM_0:0:13562763> used the tool stacker_improved on models/mechanics/gears2/pinion_40t3.mdl
+[23:13:34] DrDerpenstein<STEAM_0:0:13562763> spawned model models/mechanics/gears2/pinion_40t3.mdl
+[23:13:55] DrDerpenstein<STEAM_0:0:13562763> used the tool stacker_improved on models/mechanics/gears2/pinion_40t3.mdl
+[23:13:55] DrDerpenstein<STEAM_0:0:13562763> spawned model models/mechanics/gears2/pinion_40t3.mdl
+[23:14:11] DrDerpenstein<STEAM_0:0:13562763> used the tool stacker_improved on models/mechanics/gears2/pinion_40t3.mdl
+[23:14:11] DrDerpenstein<STEAM_0:0:13562763> spawned model models/mechanics/gears2/pinion_40t3.mdl
+[23:14:24] DrDerpenstein<STEAM_0:0:13562763> used the tool stacker_improved on models/mechanics/gears2/pinion_40t3.mdl
+[23:14:24] DrDerpenstein<STEAM_0:0:13562763> spawned model models/mechanics/gears2/pinion_40t3.mdl
+[23:22:05] 21 Cabbage: /drop
+[23:22:10] 21 Cabbage: /drop
+[23:22:15] 21 Cabbage: /drop
+[23:22:18] 21 Cabbage: /droo
+[23:22:26] 21 Cabbage: /drop
+[23:22:30] 21 Cabbage: /drop
+[23:23:35] 21 Cabbage: im gonna hit my vape :)
+[23:24:57] 21 Cabbage: got myself a nice buzzzzzzzzzzzz
+[23:25:40] 21 Cabbage: my vape xD
+[23:25:43] DrDerpenstein: lol
+[23:30:17] 21 Cabbage<STEAM_0:1:481873656> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[23:30:17] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube05x1x025.mdl
+[23:30:17] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:30:17] 21 Cabbage<STEAM_0:1:481873656> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[23:30:17] 21 Cabbage<STEAM_0:1:481873656> spawned model models/props_phx/construct/metal_wire1x2.mdl
+[23:30:17] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube025x075x025.mdl
+[23:30:17] 21 Cabbage<STEAM_0:1:481873656> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[23:30:17] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/plates/plate1x3.mdl
+[23:30:17] 21 Cabbage<STEAM_0:1:481873656> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[23:30:17] 21 Cabbage<STEAM_0:1:481873656> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[23:30:17] 21 Cabbage<STEAM_0:1:481873656> spawned model models/props_phx/construct/metal_plate1x2.mdl
+[23:30:17] 21 Cabbage<STEAM_0:1:481873656> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[23:30:17] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube05x1x025.mdl
+[23:30:17] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube05x1x025.mdl
+[23:30:17] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/triangles/1x1x5.mdl
+[23:30:17] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/triangles/1x1x5.mdl
+[23:30:17] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube05x1x025.mdl
+[23:30:17] 21 Cabbage<STEAM_0:1:481873656> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[23:30:17] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube05x1x025.mdl
+[23:30:17] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:30:17] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube05x1x025.mdl
+[23:30:17] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube05x1x025.mdl
+[23:30:17] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/misc/stair1x1.mdl
+[23:30:17] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube05x1x025.mdl
+[23:30:17] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/plates/plate1x3.mdl
+[23:30:17] 21 Cabbage<STEAM_0:1:481873656> spawned model models/props_phx/construct/metal_plate1x2.mdl
+[23:30:17] 21 Cabbage<STEAM_0:1:481873656> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[23:30:17] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/triangles/4x4.mdl
+[23:30:17] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube05x1x025.mdl
+[23:30:17] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/plates/plate1x3.mdl
+[23:30:17] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/triangles/1x1x5.mdl
+[23:30:17] 21 Cabbage<STEAM_0:1:481873656> spawned model models/props_phx/construct/metal_wire1x2.mdl
+[23:30:17] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/plates/plate1x3.mdl
+[23:30:17] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/misc/stair1x1.mdl
+[23:30:17] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube025x075x025.mdl
+[23:30:17] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/triangles/4x4.mdl
+[23:30:17] 21 Cabbage<STEAM_0:1:481873656> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[23:30:17] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/misc/stair1x1.mdl
+[23:30:17] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube025x075x025.mdl
+[23:30:17] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/triangles/1x1x5.mdl
+[23:30:17] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/plates/plate1x3.mdl
+[23:30:26] 21 Cabbage<STEAM_0:1:481873656> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[23:30:26] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube05x1x025.mdl
+[23:30:26] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:30:26] 21 Cabbage<STEAM_0:1:481873656> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[23:30:26] 21 Cabbage<STEAM_0:1:481873656> spawned model models/props_phx/construct/metal_wire1x2.mdl
+[23:30:26] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube025x075x025.mdl
+[23:30:26] 21 Cabbage<STEAM_0:1:481873656> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[23:30:26] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/plates/plate1x3.mdl
+[23:30:26] 21 Cabbage<STEAM_0:1:481873656> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[23:30:26] 21 Cabbage<STEAM_0:1:481873656> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[23:30:26] 21 Cabbage<STEAM_0:1:481873656> spawned model models/props_phx/construct/metal_plate1x2.mdl
+[23:30:26] 21 Cabbage<STEAM_0:1:481873656> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[23:30:26] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube05x1x025.mdl
+[23:30:26] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube05x1x025.mdl
+[23:30:26] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/triangles/1x1x5.mdl
+[23:30:26] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/triangles/1x1x5.mdl
+[23:30:26] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube05x1x025.mdl
+[23:30:26] 21 Cabbage<STEAM_0:1:481873656> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[23:30:26] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube05x1x025.mdl
+[23:30:26] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:30:26] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube05x1x025.mdl
+[23:30:26] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube05x1x025.mdl
+[23:30:26] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/misc/stair1x1.mdl
+[23:30:26] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube05x1x025.mdl
+[23:30:27] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/plates/plate1x3.mdl
+[23:30:27] 21 Cabbage<STEAM_0:1:481873656> spawned model models/props_phx/construct/metal_plate1x2.mdl
+[23:30:27] 21 Cabbage<STEAM_0:1:481873656> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[23:30:27] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/triangles/4x4.mdl
+[23:30:27] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube05x1x025.mdl
+[23:30:27] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/plates/plate1x3.mdl
+[23:30:27] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/triangles/1x1x5.mdl
+[23:30:27] 21 Cabbage<STEAM_0:1:481873656> spawned model models/props_phx/construct/metal_wire1x2.mdl
+[23:30:27] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/plates/plate1x3.mdl
+[23:30:27] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/misc/stair1x1.mdl
+[23:30:27] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube025x075x025.mdl
+[23:30:27] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/triangles/4x4.mdl
+[23:30:27] 21 Cabbage<STEAM_0:1:481873656> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[23:30:27] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/misc/stair1x1.mdl
+[23:30:27] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube025x075x025.mdl
+[23:30:27] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/triangles/1x1x5.mdl
+[23:30:27] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/plates/plate1x3.mdl
+[23:30:39] 21 Cabbage<STEAM_0:1:481873656> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[23:30:39] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube05x1x025.mdl
+[23:30:39] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:30:39] 21 Cabbage<STEAM_0:1:481873656> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[23:30:39] 21 Cabbage<STEAM_0:1:481873656> spawned model models/props_phx/construct/metal_wire1x2.mdl
+[23:30:39] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube025x075x025.mdl
+[23:30:39] 21 Cabbage<STEAM_0:1:481873656> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[23:30:40] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/plates/plate1x3.mdl
+[23:30:40] 21 Cabbage<STEAM_0:1:481873656> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[23:30:40] 21 Cabbage<STEAM_0:1:481873656> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[23:30:40] 21 Cabbage<STEAM_0:1:481873656> spawned model models/props_phx/construct/metal_plate1x2.mdl
+[23:30:40] 21 Cabbage<STEAM_0:1:481873656> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[23:30:40] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube05x1x025.mdl
+[23:30:40] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube05x1x025.mdl
+[23:30:40] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/triangles/1x1x5.mdl
+[23:30:40] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/triangles/1x1x5.mdl
+[23:30:40] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube05x1x025.mdl
+[23:30:40] 21 Cabbage<STEAM_0:1:481873656> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[23:30:40] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube05x1x025.mdl
+[23:30:40] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:30:40] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube05x1x025.mdl
+[23:30:40] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube05x1x025.mdl
+[23:30:40] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/misc/stair1x1.mdl
+[23:30:40] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube05x1x025.mdl
+[23:30:40] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/plates/plate1x3.mdl
+[23:30:40] 21 Cabbage<STEAM_0:1:481873656> spawned model models/props_phx/construct/metal_plate1x2.mdl
+[23:30:40] 21 Cabbage<STEAM_0:1:481873656> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[23:30:40] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/triangles/4x4.mdl
+[23:30:40] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube05x1x025.mdl
+[23:30:40] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/plates/plate1x3.mdl
+[23:30:40] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/triangles/1x1x5.mdl
+[23:30:40] 21 Cabbage<STEAM_0:1:481873656> spawned model models/props_phx/construct/metal_wire1x2.mdl
+[23:30:40] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/plates/plate1x3.mdl
+[23:30:40] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/misc/stair1x1.mdl
+[23:30:40] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube025x075x025.mdl
+[23:30:40] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/triangles/4x4.mdl
+[23:30:40] 21 Cabbage<STEAM_0:1:481873656> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[23:30:40] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/misc/stair1x1.mdl
+[23:30:40] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/blocks/cube025x075x025.mdl
+[23:30:40] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/triangles/1x1x5.mdl
+[23:30:40] 21 Cabbage<STEAM_0:1:481873656> spawned model models/hunter/plates/plate1x3.mdl
+[23:32:29] Dropped "21 Cabbage" from server<STEAM_0:1:481873656>
+[23:33:32] Dropped "DrDerpenstein" from server<STEAM_0:0:13562763>

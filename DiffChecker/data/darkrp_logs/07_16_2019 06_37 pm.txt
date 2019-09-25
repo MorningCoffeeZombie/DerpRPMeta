@@ -1,0 +1,1872 @@
+Tue Jul 16 18:37:53 2019	Dio (STEAM_0:0:497465680) has joined the game
+Tue Jul 16 18:37:53 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 16 18:38:31 2019	litnig mqcueen (STEAM_0:1:5145584) has joined the game
+Tue Jul 16 18:38:31 2019	litnig mqueen (STEAM_0:1:5145584) spawned
+Tue Jul 16 18:38:48 2019	UG | M A S T E R (STEAM_0:1:180622613) has joined the game
+Tue Jul 16 18:38:48 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Tue Jul 16 18:39:21 2019	Derp (STEAM_0:0:52504530) has joined the game
+Tue Jul 16 18:39:21 2019	William (STEAM_0:0:52504530) spawned
+Tue Jul 16 18:39:37 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT arietest
+Tue Jul 16 18:39:44 2019	William (STEAM_0:0:52504530): yo
+Tue Jul 16 18:39:52 2019	UG | M A S T E R (STEAM_0:1:180622613): hi
+Tue Jul 16 18:39:55 2019	William (STEAM_0:0:52504530): demote an admin?
+Tue Jul 16 18:40:03 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Tue Jul 16 18:40:08 2019	UG | M A S T E R (STEAM_0:1:180622613): logs work
+Tue Jul 16 18:40:15 2019	William (STEAM_0:0:52504530): whats the command for logs
+Tue Jul 16 18:40:19 2019	UG | M A S T E R (STEAM_0:1:180622613): .!logs
+Tue Jul 16 18:40:21 2019	William (STEAM_0:0:52504530): 
+Tue Jul 16 18:40:24 2019	Dio (STEAM_0:0:497465680): 
+Tue Jul 16 18:40:35 2019	William (STEAM_0:0:52504530): are u talking about zookie
+Tue Jul 16 18:40:50 2019	William (STEAM_0:0:52504530): bex?
+Tue Jul 16 18:40:57 2019	William (STEAM_0:0:52504530): zookie is bex
+Tue Jul 16 18:41:10 2019	William (STEAM_0:0:52504530): are u sure hes an admin
+Tue Jul 16 18:41:15 2019	William (STEAM_0:0:52504530): or is he a mod
+Tue Jul 16 18:41:16 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662) has joined the game
+Tue Jul 16 18:41:16 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662) spawned
+Tue Jul 16 18:41:23 2019	William (STEAM_0:0:52504530): hmm
+Tue Jul 16 18:41:39 2019	William (STEAM_0:0:52504530): ye
+Tue Jul 16 18:42:09 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) has joined the game
+Tue Jul 16 18:42:09 2019	BexGasm (STEAM_0:1:63382511) spawned
+Tue Jul 16 18:42:14 2019	UG | M A S T E R (STEAM_0:1:180622613): /pm derp Can I show you something?
+Tue Jul 16 18:42:20 2019	William (STEAM_0:0:52504530): /pm ug one moment
+Tue Jul 16 18:42:27 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT arcade_npc
+Tue Jul 16 18:42:35 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT arcade_pacman
+Tue Jul 16 18:42:37 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT arcade_pacman
+Tue Jul 16 18:42:38 2019	BexGasm (STEAM_0:1:63382511): // Game crashed
+Tue Jul 16 18:42:53 2019	William (STEAM_0:0:52504530): /pm dio bex is getting on my nerves too
+Tue Jul 16 18:42:58 2019	UG | M A S T E R (STEAM_0:1:180622613): /pm bex Wanna see this?
+Tue Jul 16 18:42:58 2019	BexGasm (STEAM_0:1:63382511): /logs
+Tue Jul 16 18:43:01 2019	BexGasm (STEAM_0:1:63382511): 
+Tue Jul 16 18:43:02 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT arcade_pong
+Tue Jul 16 18:43:03 2019	BexGasm (STEAM_0:1:63382511): 
+Tue Jul 16 18:43:05 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT arcade_pong
+Tue Jul 16 18:43:13 2019	litnig mqueen (STEAM_0:1:5145584): /ooc will bring me
+Tue Jul 16 18:43:19 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT arcade_spaceinvaders
+Tue Jul 16 18:43:29 2019	William (STEAM_0:0:52504530): /pm dio i dont dislike him its just that he disagrees with literally everything i do
+Tue Jul 16 18:43:56 2019	William (STEAM_0:0:52504530): /pm dio i made a rule where u cant make crouch bases and he went insane
+Tue Jul 16 18:44:15 2019	William (STEAM_0:0:52504530): /pm dio its a base where u have to constantly crouch to get in and its pretty much just making the raid 100x harder
+Tue Jul 16 18:44:18 2019	BexGasm (STEAM_0:1:63382511): /pm ug See what?
+Tue Jul 16 18:44:20 2019	BexGasm (STEAM_0:1:63382511): 
+Tue Jul 16 18:44:29 2019	William (STEAM_0:0:52504530): /pm dio cool
+Tue Jul 16 18:44:36 2019	Curb (STEAM_0:0:190918125) has joined the game
+Tue Jul 16 18:44:36 2019	Curb (STEAM_0:0:190918125) spawned
+Tue Jul 16 18:44:37 2019	UG | M A S T E R (STEAM_0:1:180622613): /pm bex something fun. Come to me
+Tue Jul 16 18:44:52 2019	William (STEAM_0:0:52504530): /pm dio im upset at everyone to be honest
+Tue Jul 16 18:44:55 2019	BexGasm (STEAM_0:1:63382511): !goto ug
+Tue Jul 16 18:44:58 2019	William (STEAM_0:0:52504530): /pm dio everyone on here has failed me in some way 
+Tue Jul 16 18:45:06 2019	William (STEAM_0:0:52504530): /pm dio im talking about administration btw not normal users
+Tue Jul 16 18:45:23 2019	William (STEAM_0:0:52504530): /pm dio i just feel like no one really listens to me
+Tue Jul 16 18:45:34 2019	William (STEAM_0:0:52504530): /pm dio well yeah but ur a normal human being
+Tue Jul 16 18:45:36 2019	UG | M A S T E R (STEAM_0:1:180622613): There is a token slot
+Tue Jul 16 18:45:48 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT arcade_spaceinvaders
+Tue Jul 16 18:45:55 2019	William (STEAM_0:0:52504530): /pm dio im gonna try to talk to UG about stuff right now
+Tue Jul 16 18:45:59 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT arcade_pacman
+Tue Jul 16 18:46:01 2019	William (STEAM_0:0:52504530): cya later dio
+Tue Jul 16 18:46:10 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT arcade_pong
+Tue Jul 16 18:46:18 2019	William (STEAM_0:0:52504530): fucking pong?
+Tue Jul 16 18:46:31 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): 
+Tue Jul 16 18:46:33 2019	William (STEAM_0:0:52504530): how do u use them
+Tue Jul 16 18:46:35 2019	(͠≖ ͜ʖ͠≖) (DC) was killed by litnig mqueen with a fas2_deagle
+Tue Jul 16 18:46:37 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662) spawned
+Tue Jul 16 18:46:43 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT double_or_nothing
+Tue Jul 16 18:46:43 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): 
+Tue Jul 16 18:46:44 2019	William (STEAM_0:0:52504530): i dont have tokens
+Tue Jul 16 18:46:53 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT double_or_nothing
+Tue Jul 16 18:47:00 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT double_or_nothing
+Tue Jul 16 18:47:13 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT double_or_nothing
+Tue Jul 16 18:47:25 2019	William (STEAM_0:0:52504530): i love these machines 
+Tue Jul 16 18:47:37 2019	William (STEAM_0:0:52504530): people who want to do stuff
+Tue Jul 16 18:47:44 2019	William (STEAM_0:0:52504530): unboxing?
+Tue Jul 16 18:47:50 2019	UG | M A S T E R (STEAM_0:1:180622613): blue's unboxing
+Tue Jul 16 18:47:57 2019	William (STEAM_0:0:52504530): doesnt random shit fly out of it
+Tue Jul 16 18:48:17 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /dropmoney 10
+Tue Jul 16 18:48:18 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662) has dropped $10
+Tue Jul 16 18:48:24 2019	William (STEAM_0:0:52504530): i thought i saw on a server that the unboxing thing spawns like a box of some sort and random stuff flies out of it
+Tue Jul 16 18:48:35 2019	William (STEAM_0:0:52504530): oh
+Tue Jul 16 18:48:40 2019	William (STEAM_0:0:52504530): must have been another addon
+Tue Jul 16 18:48:44 2019	Curb (STEAM_0:0:190918125) disconnected
+Tue Jul 16 18:48:46 2019	William (STEAM_0:0:52504530): lmao
+Tue Jul 16 18:48:48 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Tue Jul 16 18:48:54 2019	William (STEAM_0:0:52504530): im fed up with csgo that game trash now
+Tue Jul 16 18:49:21 2019	William (STEAM_0:0:52504530): im not opposed to that idea i just dont like csgo anymore
+Tue Jul 16 18:49:22 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Tue Jul 16 18:49:33 2019	William (STEAM_0:0:52504530): i used to play it a lot
+Tue Jul 16 18:49:41 2019	William (STEAM_0:0:52504530): but since it became free and they started changing a shit ton of stuff its bad now
+Tue Jul 16 18:49:53 2019	William (STEAM_0:0:52504530): i remember when the ranking system was simple
+Tue Jul 16 18:50:05 2019	William (STEAM_0:0:52504530): i have no idea
+Tue Jul 16 18:50:10 2019	UG | M A S T E R (STEAM_0:1:180622613): /sellalldoors
+Tue Jul 16 18:50:12 2019	William (STEAM_0:0:52504530): not me
+Tue Jul 16 18:50:14 2019	UG | M A S T E R (STEAM_0:1:180622613): !goto William
+Tue Jul 16 18:50:28 2019	UG | M A S T E R (STEAM_0:1:180622613): You can't...
+Tue Jul 16 18:50:39 2019	William (STEAM_0:0:52504530): is that for everyone on the server or only staff
+Tue Jul 16 18:50:52 2019	UG | M A S T E R (STEAM_0:1:180622613): only the ranks in the addon
+Tue Jul 16 18:51:02 2019	litnig mqueen (STEAM_0:1:5145584): /ooc william tp me
+Tue Jul 16 18:51:04 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /pm ug about that "gift"
+Tue Jul 16 18:51:16 2019	William (STEAM_0:0:52504530): UG can u change the motd to the new forum
+Tue Jul 16 18:51:22 2019	BexGasm (STEAM_0:1:63382511): !motd
+Tue Jul 16 18:51:48 2019	William (STEAM_0:0:52504530): oh wait
+Tue Jul 16 18:51:49 2019	William (STEAM_0:0:52504530): nvm
+Tue Jul 16 18:51:55 2019	William (STEAM_0:0:52504530): i dont even know what the addon is called
+Tue Jul 16 18:52:03 2019	William (STEAM_0:0:52504530): UG whats the rainbow thing called
+Tue Jul 16 18:52:20 2019	William (STEAM_0:0:52504530): hes probably in the files rn
+Tue Jul 16 18:52:56 2019	William (STEAM_0:0:52504530): um
+Tue Jul 16 18:53:00 2019	William (STEAM_0:0:52504530): OH NO
+Tue Jul 16 18:53:04 2019	William (STEAM_0:0:52504530): I KNOW WHAT THAT IS
+Tue Jul 16 18:53:27 2019	William (STEAM_0:0:52504530): i was gonna say something but nvm
+Tue Jul 16 18:53:37 2019	William (STEAM_0:0:52504530): dont
+Tue Jul 16 18:53:53 2019	William (STEAM_0:0:52504530): thats the last thing we need rn
+Tue Jul 16 18:53:58 2019	Dio (STEAM_0:0:497465680): /buyshipment M4A1
+Tue Jul 16 18:54:49 2019	William (STEAM_0:0:52504530): whats the rainbow addon called
+Tue Jul 16 18:55:12 2019	litnig mqueen (STEAM_0:1:5145584): /dropmoney 10000
+Tue Jul 16 18:55:13 2019	litnig mqueen (STEAM_0:1:5145584) has dropped $10,000
+Tue Jul 16 18:55:19 2019	UG | M A S T E R (STEAM_0:1:180622613): "i dont give a fuck your rages"
+Tue Jul 16 18:55:20 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): 
+Tue Jul 16 18:55:24 2019	William (STEAM_0:0:52504530): um
+Tue Jul 16 18:55:26 2019	William (STEAM_0:0:52504530): what
+Tue Jul 16 18:55:29 2019	William (STEAM_0:0:52504530): is that what its called
+Tue Jul 16 18:55:35 2019	(͠≖ ͜ʖ͠≖) (DC) was killed by litnig mqueen with a fas2_deagle
+Tue Jul 16 18:55:45 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): 
+Tue Jul 16 18:55:47 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662) spawned
+Tue Jul 16 18:55:51 2019	William (STEAM_0:0:52504530): wow its literally called that
+Tue Jul 16 18:55:52 2019	UG | M A S T E R (STEAM_0:1:180622613): https://steamcommunity.com/sharedfiles/filedetails/?id=271366160&searchtext=I+don%27t+give+a+fuck+about+your+rages
+Tue Jul 16 18:56:07 2019	William (STEAM_0:0:52504530): who the fuck names an addon that
+Tue Jul 16 18:56:24 2019	William (STEAM_0:0:52504530): im just gonna change the ranks
+Tue Jul 16 18:56:29 2019	UG | M A S T E R (STEAM_0:1:180622613): Alright
+Tue Jul 16 18:56:32 2019	litnig mqueen (STEAM_0:1:5145584): !motd
+Tue Jul 16 18:56:35 2019	William (STEAM_0:0:52504530): ill leave ur rank there UG
+Tue Jul 16 18:56:40 2019	William (STEAM_0:0:52504530): yeah u just need to take it off the list
+Tue Jul 16 18:56:41 2019	William (STEAM_0:0:52504530): ill do it
+Tue Jul 16 18:57:27 2019	William (STEAM_0:0:52504530): did u already remove the admin rank
+Tue Jul 16 18:57:54 2019	William (STEAM_0:0:52504530): i dont see the admin rank in the list so im guessing he removed it but i think we need a server restart for it to take effect
+Tue Jul 16 18:58:02 2019	Dio was killed by litnig mqueen with a fas2_deagle
+Tue Jul 16 18:58:03 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): 
+Tue Jul 16 18:58:04 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 16 18:58:05 2019	litnig mqueen was killed by (͠≖ ͜ʖ͠≖) (DC) with a m9k_model627
+Tue Jul 16 18:58:09 2019	litnig mqueen (STEAM_0:1:5145584) spawned
+Tue Jul 16 18:58:11 2019	William (STEAM_0:0:52504530): no u will its just the rank off the rainbow list
+Tue Jul 16 18:58:16 2019	litnig mqueen (STEAM_0:1:5145584): 
+Tue Jul 16 18:58:40 2019	UG | M A S T E R (STEAM_0:1:180622613): ...
+Tue Jul 16 18:58:50 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Tue Jul 16 18:59:05 2019	William (STEAM_0:0:52504530): 
+Tue Jul 16 18:59:43 2019	Dio (STEAM_0:0:497465680) spawned SENT gmt_instrument_piano
+Tue Jul 16 18:59:46 2019	William (STEAM_0:0:52504530): !motd
+Tue Jul 16 19:00:15 2019	William (STEAM_0:0:52504530): !motd
+Tue Jul 16 19:00:53 2019	William (STEAM_0:0:52504530): im pretty sure thats rdm isnt it
+Tue Jul 16 19:02:00 2019	litnig mqueen was killed by Himself with a suicide trick
+Tue Jul 16 19:02:07 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Tue Jul 16 19:02:10 2019	litnig mqueen (STEAM_0:1:5145584) spawned
+Tue Jul 16 19:02:12 2019	Dio (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_jeep (fer_lafertdm)
+Tue Jul 16 19:02:26 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT arietest
+Tue Jul 16 19:02:26 2019	William (STEAM_0:0:52504530): before we restart i need to do one thing
+Tue Jul 16 19:02:33 2019	William (STEAM_0:0:52504530): who me
+Tue Jul 16 19:02:35 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): 
+Tue Jul 16 19:03:06 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT arietest
+Tue Jul 16 19:03:10 2019	William (STEAM_0:0:52504530): just change something in the F4 menu
+Tue Jul 16 19:03:16 2019	UG | M A S T E R was killed by Dio with a prop_vehicle_jeep
+Tue Jul 16 19:03:18 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Tue Jul 16 19:03:25 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT arietest
+Tue Jul 16 19:03:37 2019	UG | M A S T E R (STEAM_0:1:180622613): ^^
+Tue Jul 16 19:03:46 2019	William (STEAM_0:0:52504530): u have ammo?
+Tue Jul 16 19:04:06 2019	William (STEAM_0:0:52504530): um
+Tue Jul 16 19:04:09 2019	BexGasm (STEAM_0:1:63382511): /drop
+Tue Jul 16 19:04:14 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): 
+Tue Jul 16 19:04:19 2019	William (STEAM_0:0:52504530): thats strange i havent had that problem
+Tue Jul 16 19:05:02 2019	Dio was killed by Entity [0][worldspawn] with a unknown
+Tue Jul 16 19:05:04 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 16 19:05:30 2019	William (STEAM_0:0:52504530): lmao
+Tue Jul 16 19:06:06 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT arietest
+Tue Jul 16 19:06:41 2019	William (STEAM_0:0:52504530): yeah im gonna finish up here
+Tue Jul 16 19:06:54 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT arietest
+Tue Jul 16 19:07:24 2019	litnig mqueen was killed by (͠≖ ͜ʖ͠≖) (DC) with a m9k_model627
+Tue Jul 16 19:07:26 2019	litnig mqueen (STEAM_0:1:5145584) spawned
+Tue Jul 16 19:07:46 2019	William (STEAM_0:0:52504530): no its still the same
+Tue Jul 16 19:09:05 2019	William (STEAM_0:0:52504530): im not gonna
+Tue Jul 16 19:09:07 2019	William (STEAM_0:0:52504530): i was just seeing it
+Tue Jul 16 19:09:13 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT arietest
+Tue Jul 16 19:09:48 2019	William (STEAM_0:0:52504530): UG
+Tue Jul 16 19:10:19 2019	UG | M A S T E R (STEAM_0:1:180622613): yes?
+Tue Jul 16 19:10:22 2019	William (STEAM_0:0:52504530): can u do me a favor
+Tue Jul 16 19:10:24 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT arietest
+Tue Jul 16 19:10:32 2019	UG | M A S T E R (STEAM_0:1:180622613): Sure...
+Tue Jul 16 19:10:51 2019	William (STEAM_0:0:52504530): can u ask me for permission or tell me every time u add a new addon to the server so i can keep track of things better
+Tue Jul 16 19:10:59 2019	litnig mqueen was killed by (͠≖ ͜ʖ͠≖) (DC) with a m9k_model627
+Tue Jul 16 19:11:02 2019	litnig mqueen (STEAM_0:1:5145584) spawned
+Tue Jul 16 19:11:05 2019	litnig mqueen (STEAM_0:1:5145584): 
+Tue Jul 16 19:11:06 2019	UG | M A S T E R (STEAM_0:1:180622613): Alright
+Tue Jul 16 19:11:10 2019	William (STEAM_0:0:52504530): thank u
+Tue Jul 16 19:11:34 2019	William (STEAM_0:0:52504530): u should register at the new forum
+Tue Jul 16 19:11:43 2019	UG | M A S T E R (STEAM_0:1:180622613): I already did.
+Tue Jul 16 19:11:49 2019	William (STEAM_0:0:52504530): the 2nd forum?
+Tue Jul 16 19:12:22 2019	BexGasm (STEAM_0:1:63382511): 
+Tue Jul 16 19:12:43 2019	UG | M A S T E R (STEAM_0:1:180622613): no.....
+Tue Jul 16 19:12:52 2019	William (STEAM_0:0:52504530): i sent u the 2nd forum on discord
+Tue Jul 16 19:12:59 2019	William (STEAM_0:0:52504530): its much nicer looking
+Tue Jul 16 19:13:11 2019	William (STEAM_0:0:52504530): and it has a better url name
+Tue Jul 16 19:13:51 2019	BexGasm (STEAM_0:1:63382511): !jail @ 120
+Tue Jul 16 19:13:53 2019	BexGasm (STEAM_0:1:63382511): !gag lit
+Tue Jul 16 19:14:03 2019	jtroll1942 (STEAM_0:1:119864290) has joined the game
+Tue Jul 16 19:14:03 2019	jtroll1942 (STEAM_0:1:119864290) spawned
+Tue Jul 16 19:14:54 2019	William (STEAM_0:0:52504530): i need to punish him
+Tue Jul 16 19:14:57 2019	William (STEAM_0:0:52504530) spawned
+Tue Jul 16 19:14:57 2019	litnig mqueen (STEAM_0:1:5145584) spawned
+Tue Jul 16 19:14:59 2019	litnig mqueen (STEAM_0:1:5145584): yes dad
+Tue Jul 16 19:15:03 2019	William (STEAM_0:0:52504530): oh fuck
+Tue Jul 16 19:15:08 2019	BexGasm (STEAM_0:1:63382511): !jail @ 120
+Tue Jul 16 19:15:31 2019	BexGasm (STEAM_0:1:63382511): !warn litnig RDM in sit
+Tue Jul 16 19:15:38 2019	litnig mqueen (STEAM_0:1:5145584): he raped me
+Tue Jul 16 19:15:45 2019	William (STEAM_0:0:52504530) spawned
+Tue Jul 16 19:15:46 2019	BexGasm (STEAM_0:1:63382511): !unjail lit
+Tue Jul 16 19:15:47 2019	litnig mqueen was killed by Entity [0][worldspawn] with a unknown
+Tue Jul 16 19:15:49 2019	(͠≖ ͜ʖ͠≖) (DC) was killed by Entity [0][worldspawn] with a unknown
+Tue Jul 16 19:15:50 2019	litnig mqueen (STEAM_0:1:5145584) spawned
+Tue Jul 16 19:15:51 2019	jtroll1942 (STEAM_0:1:119864290): what happened to my money
+Tue Jul 16 19:15:51 2019	William was killed by Entity [0][worldspawn] with a unknown
+Tue Jul 16 19:15:52 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662) spawned
+Tue Jul 16 19:15:54 2019	William (STEAM_0:0:52504530) spawned
+Tue Jul 16 19:16:22 2019	BexGasm (STEAM_0:1:63382511): !ungag lit
+Tue Jul 16 19:17:26 2019	UG | M A S T E R (STEAM_0:1:180622613): /pm Will I registered
+Tue Jul 16 19:17:45 2019	William (STEAM_0:0:52504530): all i did was rape him
+Tue Jul 16 19:17:48 2019	jtroll1942 (STEAM_0:1:119864290): this is cheating dio
+Tue Jul 16 19:17:53 2019	Dio was killed by jtroll1942 with a fas2_ks23
+Tue Jul 16 19:17:55 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 16 19:18:04 2019	William (STEAM_0:0:52504530): well if a woman says that a man raped her the man is going to jail evidence or not
+Tue Jul 16 19:18:19 2019	Dio (STEAM_0:0:497465680): /rpname Dio On Duty
+Tue Jul 16 19:18:20 2019	William (STEAM_0:0:52504530): he deserved it
+Tue Jul 16 19:18:23 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Tue Jul 16 19:18:31 2019	BexGasm (STEAM_0:1:63382511): !god BexGasm
+Tue Jul 16 19:18:36 2019	William (STEAM_0:0:52504530): sorry
+Tue Jul 16 19:18:45 2019	William (STEAM_0:0:52504530): ik ur a good admin
+Tue Jul 16 19:18:49 2019	William (STEAM_0:0:52504530): u dont need to prove yourself
+Tue Jul 16 19:19:04 2019	William (STEAM_0:0:52504530): i see how u perform as an admin
+Tue Jul 16 19:19:06 2019	William (STEAM_0:0:52504530): im watching
+Tue Jul 16 19:19:14 2019	William (STEAM_0:0:52504530): ok
+Tue Jul 16 19:19:16 2019	UG | M A S T E R was killed by Entity [1450][entityflame] with a entityflame
+Tue Jul 16 19:19:17 2019	jtroll1942 (STEAM_0:1:119864290): dio if you tp to me one more time i will shoot you
+Tue Jul 16 19:19:19 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Tue Jul 16 19:19:25 2019	William (STEAM_0:0:52504530): i need to rape more people
+Tue Jul 16 19:19:28 2019	William (STEAM_0:0:52504530): i mean say hello
+Tue Jul 16 19:19:36 2019	William (STEAM_0:0:52504530): lmao
+Tue Jul 16 19:19:41 2019	William (STEAM_0:0:52504530): im advertising the rape
+Tue Jul 16 19:19:51 2019	William (STEAM_0:0:52504530): ronald mcdonald now raping
+Tue Jul 16 19:19:52 2019	William (STEAM_0:0:52504530): come on down
+Tue Jul 16 19:20:04 2019	litnig mqueen was killed by Himself with a suicide trick
+Tue Jul 16 19:20:05 2019	William (STEAM_0:0:52504530): idk if thats gonna attract more players
+Tue Jul 16 19:20:06 2019	litnig mqueen (STEAM_0:1:5145584) spawned
+Tue Jul 16 19:20:19 2019	William (STEAM_0:0:52504530): i honestly have no idea
+Tue Jul 16 19:20:31 2019	William (STEAM_0:0:52504530): im gonna restart it myself in a few minutes
+Tue Jul 16 19:20:47 2019	William (STEAM_0:0:52504530): i wont
+Tue Jul 16 19:20:53 2019	William (STEAM_0:0:52504530): i suggest u sign up on the forum
+Tue Jul 16 19:21:00 2019	William (STEAM_0:0:52504530): the new forum
+Tue Jul 16 19:21:03 2019	William (STEAM_0:0:52504530): u can sign up and post stuff on there
+Tue Jul 16 19:21:14 2019	William (STEAM_0:0:52504530): http://rpforum.derpdarkrp.nn.pe/index.php
+Tue Jul 16 19:21:16 2019	William (STEAM_0:0:52504530): ye
+Tue Jul 16 19:21:22 2019	UG | M A S T E R (STEAM_0:1:180622613): /dropmoney 9293423
+Tue Jul 16 19:21:23 2019	UG | M A S T E R (STEAM_0:1:180622613) has dropped $9,293,423
+Tue Jul 16 19:21:24 2019	UG | M A S T E R (STEAM_0:1:180622613): /dropmoney 9293423
+Tue Jul 16 19:21:25 2019	UG | M A S T E R (STEAM_0:1:180622613) has dropped $9,293,423
+Tue Jul 16 19:21:32 2019	William (STEAM_0:0:52504530): u dont have to moderate it just make an account
+Tue Jul 16 19:21:51 2019	William (STEAM_0:0:52504530): it came free with the server
+Tue Jul 16 19:22:12 2019	William (STEAM_0:0:52504530): wtf is going on
+Tue Jul 16 19:22:32 2019	UG | M A S T E R (STEAM_0:1:180622613): /y hey
+Tue Jul 16 19:22:34 2019	UG | M A S T E R (STEAM_0:1:180622613): place a hit
+Tue Jul 16 19:22:41 2019	UG | M A S T E R (STEAM_0:1:180622613): place a hit
+Tue Jul 16 19:22:52 2019	UG | M A S T E R (STEAM_0:1:180622613): so dio
+Tue Jul 16 19:23:01 2019	Hitman UG | M A S T E R accepted a hit on jtroll1942, ordered by (͠≖ ͜ʖ͠≖) (DC) for $1,000
+Tue Jul 16 19:23:15 2019	UG | M A S T E R (STEAM_0:1:180622613): /pm jtro Where u at?
+Tue Jul 16 19:23:28 2019	litnig mqueen was killed by Himself with a suicide trick
+Tue Jul 16 19:23:30 2019	litnig mqueen (STEAM_0:1:5145584) spawned
+Tue Jul 16 19:23:40 2019	jtroll1942 (STEAM_0:1:119864290): 
+Tue Jul 16 19:23:49 2019	litnig mqueen was killed by Himself with a suicide trick
+Tue Jul 16 19:23:51 2019	litnig mqueen (STEAM_0:1:5145584) spawned
+Tue Jul 16 19:24:03 2019	litnig mqueen was killed by Himself with a suicide trick
+Tue Jul 16 19:24:03 2019	William (STEAM_0:0:52504530): thanks for giving me a 5 inch dent in my forehead
+Tue Jul 16 19:24:05 2019	litnig mqueen (STEAM_0:1:5145584) spawned
+Tue Jul 16 19:24:19 2019	UG | M A S T E R (STEAM_0:1:180622613): /drop
+Tue Jul 16 19:24:21 2019	William (STEAM_0:0:52504530): do u not remember what i did to u
+Tue Jul 16 19:24:23 2019	Hit on jtroll1942 failed. Reason: The hitman died!
+Tue Jul 16 19:24:23 2019	UG | M A S T E R was killed by Himself with a suicide trick
+Tue Jul 16 19:24:25 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Tue Jul 16 19:24:32 2019	jtroll1942 (STEAM_0:1:119864290): 
+Tue Jul 16 19:24:33 2019	William was killed by litnig mqueen with a fas2_deagle
+Tue Jul 16 19:24:36 2019	William (STEAM_0:0:52504530) spawned
+Tue Jul 16 19:24:36 2019	UG | M A S T E R (STEAM_0:1:180622613): /hitprice 92934
+Tue Jul 16 19:24:49 2019	jtroll1942 (STEAM_0:1:119864290): how do you pm someone
+Tue Jul 16 19:24:55 2019	litnig mqueen (STEAM_0:1:5145584): 
+Tue Jul 16 19:25:00 2019	litnig mqueen (STEAM_0:1:5145584): 
+Tue Jul 16 19:25:03 2019	William was killed by litnig mqueen with a fas2_deagle
+Tue Jul 16 19:25:06 2019	William (STEAM_0:0:52504530) spawned
+Tue Jul 16 19:25:10 2019	litnig mqueen (STEAM_0:1:5145584): 
+Tue Jul 16 19:25:19 2019	UG | M A S T E R (STEAM_0:1:180622613): /hitprice 1
+Tue Jul 16 19:25:22 2019	UG | M A S T E R (STEAM_0:1:180622613): /hitprice 1
+Tue Jul 16 19:25:26 2019	UG | M A S T E R (STEAM_0:1:180622613): /hitprice 10
+Tue Jul 16 19:25:30 2019	William (STEAM_0:0:52504530): dont fuck with ronald gang
+Tue Jul 16 19:25:38 2019	William (STEAM_0:0:52504530): ronald gang will rape ur family
+Tue Jul 16 19:25:42 2019	litnig mqueen was killed by William with a fas2_deagle
+Tue Jul 16 19:25:47 2019	litnig mqueen (STEAM_0:1:5145584) spawned
+Tue Jul 16 19:25:51 2019	UG | M A S T E R (STEAM_0:1:180622613): /drop
+Tue Jul 16 19:25:59 2019	William was killed by litnig mqueen with a fas2_deagle
+Tue Jul 16 19:26:01 2019	William (STEAM_0:0:52504530): its always better when ronald mcdonald "does it" 
+Tue Jul 16 19:26:05 2019	UG | M A S T E R (STEAM_0:1:180622613): no
+Tue Jul 16 19:26:05 2019	William (STEAM_0:0:52504530) spawned
+Tue Jul 16 19:26:06 2019	litnig mqueen was killed by BexGasm with a m9k_remington1858
+Tue Jul 16 19:26:09 2019	litnig mqueen (STEAM_0:1:5145584) spawned
+Tue Jul 16 19:26:15 2019	litnig mqueen was killed by BexGasm with a m9k_remington1858
+Tue Jul 16 19:26:18 2019	litnig mqueen (STEAM_0:1:5145584) spawned
+Tue Jul 16 19:26:45 2019	Dio On Duty (STEAM_0:0:497465680): brb
+Tue Jul 16 19:26:52 2019	UG | M A S T E R (STEAM_0:1:180622613): /laws
+Tue Jul 16 19:27:02 2019	UG | M A S T E R (STEAM_0:1:180622613): /mayor
+Tue Jul 16 19:27:07 2019	UG | M A S T E R (STEAM_0:1:180622613): /placelaws
+Tue Jul 16 19:27:25 2019	William (STEAM_0:0:52504530): /pm UG i made u an admin on the new forum
+Tue Jul 16 19:27:31 2019	UG | M A S T E R (STEAM_0:1:180622613): /placelaws
+Tue Jul 16 19:27:48 2019	UG | M A S T E R (STEAM_0:1:180622613): /placelaws
+Tue Jul 16 19:28:04 2019	UG | M A S T E R (STEAM_0:1:180622613): /police
+Tue Jul 16 19:28:25 2019	William was killed by litnig mqueen with a fas2_deagle
+Tue Jul 16 19:28:30 2019	William (STEAM_0:0:52504530) spawned
+Tue Jul 16 19:28:46 2019	William (STEAM_0:0:52504530) spawned
+Tue Jul 16 19:28:51 2019	William (STEAM_0:0:52504530) spawned
+Tue Jul 16 19:29:04 2019	William (STEAM_0:0:52504530) spawned
+Tue Jul 16 19:29:08 2019	William (STEAM_0:0:52504530) spawned
+Tue Jul 16 19:29:23 2019	jtroll1942 (STEAM_0:1:119864290): /drop wepon
+Tue Jul 16 19:29:35 2019	jtroll1942 (STEAM_0:1:119864290): /drop wepon
+Tue Jul 16 19:30:26 2019	William (STEAM_0:0:52504530) spawned
+Tue Jul 16 19:30:34 2019	William was killed by litnig mqueen with a fas2_deagle
+Tue Jul 16 19:30:36 2019	William (STEAM_0:0:52504530) spawned
+Tue Jul 16 19:30:59 2019	William (STEAM_0:0:52504530): dont fuck with ronald gang
+Tue Jul 16 19:31:16 2019	William (STEAM_0:0:52504530): ronald gang only has 1 member
+Tue Jul 16 19:31:19 2019	William (STEAM_0:0:52504530): ronald mcdonald
+Tue Jul 16 19:31:23 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Tue Jul 16 19:31:29 2019	BexGasm (STEAM_0:1:63382511): !ungod bex
+Tue Jul 16 19:31:30 2019	William (STEAM_0:0:52504530): hate that bitch
+Tue Jul 16 19:31:36 2019	UG | M A S T E R (STEAM_0:1:180622613): miss click
+Tue Jul 16 19:31:39 2019	jtroll1942 (STEAM_0:1:119864290): wha
+Tue Jul 16 19:31:39 2019	BexGasm was killed by litnig mqueen with a fas2_deagle
+Tue Jul 16 19:31:41 2019	BexGasm (STEAM_0:1:63382511) spawned
+Tue Jul 16 19:31:44 2019	William (STEAM_0:0:52504530): thats what all the cops say when they shoot unarmed black men
+Tue Jul 16 19:31:59 2019	jtroll1942 (STEAM_0:1:119864290): you remove more than 2 bill from me then shoot me wow
+Tue Jul 16 19:32:10 2019	litnig mqueen was killed by BexGasm with a fas2_sr25
+Tue Jul 16 19:32:12 2019	litnig mqueen (STEAM_0:1:5145584) spawned
+Tue Jul 16 19:32:30 2019	William (STEAM_0:0:52504530): actually UG is the richest guy on the server
+Tue Jul 16 19:32:42 2019	UG | M A S T E R (STEAM_0:1:180622613): who want's money? as in thousands of dolloars?
+Tue Jul 16 19:32:45 2019	UG | M A S T E R (STEAM_0:1:180622613): /dropmoney 1
+Tue Jul 16 19:32:46 2019	UG | M A S T E R (STEAM_0:1:180622613) has dropped $1
+Tue Jul 16 19:32:47 2019	William (STEAM_0:0:52504530): UG please dont
+Tue Jul 16 19:32:48 2019	jtroll1942 (STEAM_0:1:119864290): you restest my money
+Tue Jul 16 19:32:51 2019	UG | M A S T E R (STEAM_0:1:180622613): /dropmoney 1
+Tue Jul 16 19:32:52 2019	UG | M A S T E R (STEAM_0:1:180622613) has dropped $1
+Tue Jul 16 19:32:55 2019	William (STEAM_0:0:52504530): ah shit
+Tue Jul 16 19:32:55 2019	UG | M A S T E R (STEAM_0:1:180622613): /dropmoney 1
+Tue Jul 16 19:32:56 2019	BexGasm was killed by litnig mqueen with a fas2_deagle
+Tue Jul 16 19:32:56 2019	UG | M A S T E R (STEAM_0:1:180622613) has dropped $1
+Tue Jul 16 19:32:58 2019	BexGasm (STEAM_0:1:63382511) spawned
+Tue Jul 16 19:32:59 2019	UG | M A S T E R (STEAM_0:1:180622613): /dropmoney 1
+Tue Jul 16 19:33:00 2019	UG | M A S T E R (STEAM_0:1:180622613) has dropped $1
+Tue Jul 16 19:33:02 2019	William (STEAM_0:0:52504530): this will only take 10 years
+Tue Jul 16 19:33:02 2019	UG | M A S T E R (STEAM_0:1:180622613): /dropmoney 1
+Tue Jul 16 19:33:03 2019	UG | M A S T E R (STEAM_0:1:180622613) has dropped $1
+Tue Jul 16 19:33:06 2019	UG | M A S T E R (STEAM_0:1:180622613): /dropmoney 1
+Tue Jul 16 19:33:07 2019	UG | M A S T E R (STEAM_0:1:180622613) has dropped $1
+Tue Jul 16 19:33:07 2019	litnig mqueen was killed by BexGasm with a sniper_overpowered
+Tue Jul 16 19:33:08 2019	UG | M A S T E R (STEAM_0:1:180622613): /dropmoney 1
+Tue Jul 16 19:33:09 2019	UG | M A S T E R (STEAM_0:1:180622613) has dropped $1
+Tue Jul 16 19:33:09 2019	litnig mqueen (STEAM_0:1:5145584) spawned
+Tue Jul 16 19:33:16 2019	litnig mqueen was killed by BexGasm with a overpowered_minigun
+Tue Jul 16 19:33:19 2019	litnig mqueen (STEAM_0:1:5145584) spawned
+Tue Jul 16 19:33:59 2019	BexGasm was killed by litnig mqueen with a fas2_deagle
+Tue Jul 16 19:34:01 2019	BexGasm (STEAM_0:1:63382511) spawned
+Tue Jul 16 19:34:07 2019	litnig mqueen was killed by BexGasm with a overpowered_minigun
+Tue Jul 16 19:34:09 2019	litnig mqueen (STEAM_0:1:5145584) spawned
+Tue Jul 16 19:34:38 2019	UG | M A S T E R (STEAM_0:1:180622613): yes?
+Tue Jul 16 19:34:39 2019	William (STEAM_0:0:52504530): whos the mayor
+Tue Jul 16 19:34:43 2019	UG | M A S T E R (STEAM_0:1:180622613): the console
+Tue Jul 16 19:34:46 2019	William (STEAM_0:0:52504530): best mayor
+Tue Jul 16 19:34:50 2019	UG | M A S T E R (STEAM_0:1:180622613): ^^
+Tue Jul 16 19:34:54 2019	jtroll1942 (STEAM_0:1:119864290): /drop wepon
+Tue Jul 16 19:35:00 2019	UG | M A S T E R (STEAM_0:1:180622613): So the laws...
+Tue Jul 16 19:35:03 2019	William (STEAM_0:0:52504530): UG are u enjoying being the co owner of the server or is it kind of miserable
+Tue Jul 16 19:35:27 2019	UG | M A S T E R (STEAM_0:1:180622613): idk, I like playing on this server.
+Tue Jul 16 19:35:32 2019	William (STEAM_0:0:52504530): me too
+Tue Jul 16 19:35:36 2019	William (STEAM_0:0:52504530): thanks for all the addons
+Tue Jul 16 19:35:44 2019	UG | M A S T E R (STEAM_0:1:180622613): You'r welcome.
+Tue Jul 16 19:35:49 2019	William (STEAM_0:0:52504530): are u from europe
+Tue Jul 16 19:35:50 2019	jtroll1942 (STEAM_0:1:119864290): I KNOW
+Tue Jul 16 19:35:54 2019	UG | M A S T E R (STEAM_0:1:180622613): no
+Tue Jul 16 19:36:00 2019	jtroll1942 (STEAM_0:1:119864290): I AM PISSED
+Tue Jul 16 19:36:03 2019	William (STEAM_0:0:52504530): wtf was that
+Tue Jul 16 19:36:06 2019	jtroll1942 (STEAM_0:1:119864290): I WORKED HARD FOR THAT MONEY
+Tue Jul 16 19:36:23 2019	William (STEAM_0:0:52504530): look at that
+Tue Jul 16 19:36:23 2019	jtroll1942 (STEAM_0:1:119864290): I NEVER GOT ININTED MONEY
+Tue Jul 16 19:36:30 2019	UG | M A S T E R was killed by litnig mqueen with a fas2_deagle
+Tue Jul 16 19:36:34 2019	jtroll1942 (STEAM_0:1:119864290): ALL OF THAT WAS FROM PRINTERS
+Tue Jul 16 19:36:35 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Tue Jul 16 19:36:45 2019	UG | M A S T E R (STEAM_0:1:180622613): ow
+Tue Jul 16 19:36:49 2019	litnig mqueen was killed by William with a fas2_ks23
+Tue Jul 16 19:36:51 2019	litnig mqueen (STEAM_0:1:5145584) spawned
+Tue Jul 16 19:37:09 2019	UG | M A S T E R (STEAM_0:1:180622613): you gave yourself the overpowered minigun
+Tue Jul 16 19:37:30 2019	UG | M A S T E R (STEAM_0:1:180622613): it only does 99999999 dmg
+Tue Jul 16 19:37:31 2019	jtroll1942 (STEAM_0:1:119864290): can i get a shipment of grande launchers
+Tue Jul 16 19:37:42 2019	jtroll1942 (STEAM_0:1:119864290): why
+Tue Jul 16 19:37:44 2019	William (STEAM_0:0:52504530) spawned
+Tue Jul 16 19:37:45 2019	litnig mqueen (STEAM_0:1:5145584) spawned
+Tue Jul 16 19:37:46 2019	UG | M A S T E R (STEAM_0:1:180622613): because it shoots faster
+Tue Jul 16 19:37:50 2019	jtroll1942 (STEAM_0:1:119864290): and
+Tue Jul 16 19:38:05 2019	UG | M A S T E R (STEAM_0:1:180622613): /drop
+Tue Jul 16 19:38:15 2019	UG | M A S T E R (STEAM_0:1:180622613): !strip @
+Tue Jul 16 19:38:22 2019	jtroll1942 (STEAM_0:1:119864290): DUDE
+Tue Jul 16 19:38:25 2019	UG | M A S T E R (STEAM_0:1:180622613): it doesn't shoot
+Tue Jul 16 19:38:28 2019	litnig mqueen was killed by William with a fas2_ks23
+Tue Jul 16 19:38:29 2019	jtroll1942 (STEAM_0:1:119864290): WHAT THE HELL
+Tue Jul 16 19:38:31 2019	UG | M A S T E R (STEAM_0:1:180622613): you can try
+Tue Jul 16 19:38:32 2019	litnig mqueen (STEAM_0:1:5145584) spawned
+Tue Jul 16 19:38:33 2019	William (STEAM_0:0:52504530): sup
+Tue Jul 16 19:38:39 2019	William (STEAM_0:0:52504530): ye
+Tue Jul 16 19:38:42 2019	jtroll1942 (STEAM_0:1:119864290): YOU JUST REMOVED ALL OF MY GUNS
+Tue Jul 16 19:38:46 2019	William (STEAM_0:0:52504530): this aint no game
+Tue Jul 16 19:38:50 2019	William (STEAM_0:0:52504530): this ronald gang
+Tue Jul 16 19:38:58 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Tue Jul 16 19:38:59 2019	William (STEAM_0:0:52504530): ronald gang runs the streets
+Tue Jul 16 19:39:01 2019	William (STEAM_0:0:52504530): eats the beets
+Tue Jul 16 19:39:05 2019	William (STEAM_0:0:52504530): shits the sheets
+Tue Jul 16 19:39:10 2019	jtroll1942 (STEAM_0:1:119864290): UG GIVE ME ACK MY STUFF
+Tue Jul 16 19:39:16 2019	William (STEAM_0:0:52504530): i like beets
+Tue Jul 16 19:39:23 2019	jtroll1942 (STEAM_0:1:119864290):  I HAD A ADMIN LOCKPICK ON ME
+Tue Jul 16 19:39:29 2019	William (STEAM_0:0:52504530): nah beets the food
+Tue Jul 16 19:39:34 2019	William (STEAM_0:0:52504530): the vegetable
+Tue Jul 16 19:39:36 2019	jtroll1942 (STEAM_0:1:119864290): UG GAVE ME IT FOR A MILL
+Tue Jul 16 19:39:45 2019	William (STEAM_0:0:52504530): no thats beat U FUCK
+Tue Jul 16 19:39:49 2019	jtroll1942 (STEAM_0:1:119864290): HE ALSO GAVE ME A FEW OTHER WEPONS
+Tue Jul 16 19:39:56 2019	William (STEAM_0:0:52504530): because people are retards
+Tue Jul 16 19:39:57 2019	BexGasm (STEAM_0:1:63382511): !bring jtroll
+Tue Jul 16 19:40:03 2019	BexGasm (STEAM_0:1:63382511): !jail @ 120
+Tue Jul 16 19:40:05 2019	William (STEAM_0:0:52504530): come with me
+Tue Jul 16 19:40:11 2019	jtroll1942 (STEAM_0:1:119864290): THAT WAS BEFORE THE SNAP
+Tue Jul 16 19:40:21 2019	William (STEAM_0:0:52504530): ok stand up against this wall
+Tue Jul 16 19:40:26 2019	William (STEAM_0:0:52504530): turn around
+Tue Jul 16 19:40:31 2019	UG | M A S T E R (STEAM_0:1:180622613): /drop
+Tue Jul 16 19:40:40 2019	(͠≖ ͜ʖ͠≖) (DC) was killed by William with a fas2_ks23
+Tue Jul 16 19:40:42 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662) spawned
+Tue Jul 16 19:40:47 2019	jtroll1942 (STEAM_0:1:119864290): i have no items now
+Tue Jul 16 19:40:56 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): 
+Tue Jul 16 19:40:56 2019	Possessed Harambe (STEAM_0:0:98180942) has joined the game
+Tue Jul 16 19:40:56 2019	Possessed Harambe (STEAM_0:0:98180942) spawned
+Tue Jul 16 19:41:27 2019	jtroll1942 (STEAM_0:1:119864290): rawr
+Tue Jul 16 19:41:33 2019	Dio On Duty (STEAM_0:0:497465680): meow
+Tue Jul 16 19:41:38 2019	Dio On Duty (STEAM_0:0:497465680): brb
+Tue Jul 16 19:41:49 2019	jtroll1942 (STEAM_0:1:119864290): are you just going to keep me in here
+Tue Jul 16 19:42:04 2019	jtroll1942 (STEAM_0:1:119864290): what the hell
+Tue Jul 16 19:42:04 2019	BexGasm (STEAM_0:1:63382511): 
+Tue Jul 16 19:42:13 2019	William (STEAM_0:0:52504530): i took him into an alley
+Tue Jul 16 19:42:18 2019	William (STEAM_0:0:52504530): i handcuffed him
+Tue Jul 16 19:42:31 2019	William (STEAM_0:0:52504530): no but he willingly followed ronald mcdonald with a shotgun into an alley way
+Tue Jul 16 19:43:05 2019	jtroll1942 (STEAM_0:1:119864290): how do i kill myself
+Tue Jul 16 19:43:19 2019	William (STEAM_0:0:52504530): ok
+Tue Jul 16 19:43:23 2019	BexGasm (STEAM_0:1:63382511): /return will
+Tue Jul 16 19:43:26 2019	BexGasm (STEAM_0:1:63382511): /return will
+Tue Jul 16 19:43:36 2019	jtroll1942 (STEAM_0:1:119864290): KILL ME
+Tue Jul 16 19:43:39 2019	jtroll1942 was killed by litnig mqueen with a fas2_deagle
+Tue Jul 16 19:43:50 2019	jtroll1942 (STEAM_0:1:119864290) spawned
+Tue Jul 16 19:43:50 2019	BexGasm (STEAM_0:1:63382511): /dropmoney 7450000
+Tue Jul 16 19:43:51 2019	BexGasm (STEAM_0:1:63382511) has dropped $7,450,000
+Tue Jul 16 19:44:04 2019	BexGasm (STEAM_0:1:63382511): /dropmoney 74500000
+Tue Jul 16 19:44:05 2019	BexGasm (STEAM_0:1:63382511) has dropped $74,500,000
+Tue Jul 16 19:44:06 2019	jtroll1942 (STEAM_0:1:119864290): so you want to replace the item i lost
+Tue Jul 16 19:44:32 2019	jtroll1942 (STEAM_0:1:119864290): i want the special lockpick back
+Tue Jul 16 19:44:55 2019	William (STEAM_0:0:52504530): lol
+Tue Jul 16 19:45:02 2019	William (STEAM_0:0:52504530): enjoy the server harambe
+Tue Jul 16 19:45:02 2019	jtroll1942 (STEAM_0:1:119864290): what
+Tue Jul 16 19:45:47 2019	William (STEAM_0:0:52504530): u wanna come with me
+Tue Jul 16 19:45:56 2019	William (STEAM_0:0:52504530): oh
+Tue Jul 16 19:45:56 2019	BexGasm (STEAM_0:1:63382511): 
+Tue Jul 16 19:46:00 2019	William (STEAM_0:0:52504530): alright well nevermind
+Tue Jul 16 19:46:33 2019	BexGasm (STEAM_0:1:63382511): 
+Tue Jul 16 19:46:41 2019	William (STEAM_0:0:52504530): 
+Tue Jul 16 19:46:56 2019	William (STEAM_0:0:52504530): come in
+Tue Jul 16 19:47:00 2019	William (STEAM_0:0:52504530): im gonna give u food
+Tue Jul 16 19:47:03 2019	William (STEAM_0:0:52504530): a muffin
+Tue Jul 16 19:47:11 2019	William (STEAM_0:0:52504530): i dont have weed but i have the muffin
+Tue Jul 16 19:47:12 2019	BexGasm (STEAM_0:1:63382511): 
+Tue Jul 16 19:47:19 2019	jtroll1942 (STEAM_0:1:119864290): what
+Tue Jul 16 19:47:28 2019	William (STEAM_0:0:52504530) spawned SENT zwf_oven
+Tue Jul 16 19:47:33 2019	William (STEAM_0:0:52504530) spawned SENT zwf_muffinmix
+Tue Jul 16 19:47:35 2019	William (STEAM_0:0:52504530) spawned SENT zwf_mixer
+Tue Jul 16 19:48:05 2019	William (STEAM_0:0:52504530): *breathes loudly*
+Tue Jul 16 19:48:29 2019	William (STEAM_0:0:52504530): holy fuck
+Tue Jul 16 19:48:32 2019	William (STEAM_0:0:52504530): did u lag too?
+Tue Jul 16 19:48:39 2019	William (STEAM_0:0:52504530): i think my internet died
+Tue Jul 16 19:48:47 2019	Possessed Harambe (STEAM_0:0:98180942): how does the textscreen work?
+Tue Jul 16 19:48:50 2019	William (STEAM_0:0:52504530): it died for a couple of seconds
+Tue Jul 16 19:48:52 2019	William (STEAM_0:0:52504530): it does that
+Tue Jul 16 19:49:06 2019	William (STEAM_0:0:52504530): my internet used to die every day for like hours
+Tue Jul 16 19:49:15 2019	William (STEAM_0:0:52504530): until i got a new modem and some new wires from comcast
+Tue Jul 16 19:49:20 2019	William (STEAM_0:0:52504530): eat it
+Tue Jul 16 19:49:32 2019	William (STEAM_0:0:52504530): stand still
+Tue Jul 16 19:49:45 2019	William (STEAM_0:0:52504530): its because those are police handcuffs
+Tue Jul 16 19:50:01 2019	William (STEAM_0:0:52504530): im not gonna kill u
+Tue Jul 16 19:50:13 2019	jtroll1942 (STEAM_0:1:119864290): /drop wepon
+Tue Jul 16 19:50:26 2019	BexGasm (STEAM_0:1:63382511): // Derp are we gonna restart?
+Tue Jul 16 19:50:32 2019	William (STEAM_0:0:52504530) spawned
+Tue Jul 16 19:50:32 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662) spawned
+Tue Jul 16 19:50:33 2019	William (STEAM_0:0:52504530): /ooc u want me to do it now?
+Tue Jul 16 19:50:38 2019	jtroll1942 (STEAM_0:1:119864290): no
+Tue Jul 16 19:50:40 2019	litnig mqueen (STEAM_0:1:5145584): /ooc no
+Tue Jul 16 19:50:40 2019	William (STEAM_0:0:52504530): i raped u so hard ur a different model
+Tue Jul 16 19:50:51 2019	William (STEAM_0:0:52504530): thats the price u pay for muffins
+Tue Jul 16 19:50:57 2019	jtroll1942 (STEAM_0:1:119864290): /drop wepon
+Tue Jul 16 19:51:01 2019	William (STEAM_0:0:52504530): rip
+Tue Jul 16 19:51:51 2019	litnig mqueen (STEAM_0:1:5145584): 
+Tue Jul 16 19:51:58 2019	William (STEAM_0:0:52504530): yes
+Tue Jul 16 19:52:18 2019	William (STEAM_0:0:52504530): parkour huh
+Tue Jul 16 19:52:28 2019	litnig mqueen (STEAM_0:1:5145584): /ooc can someone help me
+Tue Jul 16 19:52:29 2019	William (STEAM_0:0:52504530): which one is it
+Tue Jul 16 19:52:35 2019	jtroll1942 (STEAM_0:1:119864290): with what
+Tue Jul 16 19:52:37 2019	William (STEAM_0:0:52504530): ok
+Tue Jul 16 19:52:38 2019	William (STEAM_0:0:52504530): brb
+Tue Jul 16 19:53:43 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /pm wi climb swep 2
+Tue Jul 16 19:53:48 2019	BexGasm (STEAM_0:1:63382511): // Yes
+Tue Jul 16 19:53:50 2019	William was killed by litnig mqueen with a fas2_deagle
+Tue Jul 16 19:53:52 2019	litnig mqueen was killed by Dio On Duty with a fas2_glock20
+Tue Jul 16 19:53:55 2019	litnig mqueen (STEAM_0:1:5145584) spawned
+Tue Jul 16 19:53:58 2019	William (STEAM_0:0:52504530) spawned
+Tue Jul 16 19:54:00 2019	Dio On Duty (STEAM_0:0:497465680): !menu
+Tue Jul 16 19:54:06 2019	BexGasm (STEAM_0:1:63382511): // Its whenever but i'd rather it be done right now before people start getting on.
+Tue Jul 16 19:54:23 2019	William (STEAM_0:0:52504530): hi
+Tue Jul 16 19:55:00 2019	Hitman jtroll1942 accepted a hit on litnig mqueen, ordered by Dio On Duty for $1,000
+Tue Jul 16 19:55:07 2019	Possessed Harambe (STEAM_0:0:98180942): how do i rotate props?
+Tue Jul 16 19:55:16 2019	William (STEAM_0:0:52504530): i love this model so much
+Tue Jul 16 19:55:21 2019	Possessed Harambe (STEAM_0:0:98180942): nvm
+Tue Jul 16 19:56:18 2019	William (STEAM_0:0:52504530): :grin:
+Tue Jul 16 19:56:26 2019	William (STEAM_0:0:52504530): lol
+Tue Jul 16 19:56:33 2019	William (STEAM_0:0:52504530): :kami:
+Tue Jul 16 19:56:42 2019	BexGasm (STEAM_0:1:63382511): :awesomeface:
+Tue Jul 16 19:56:45 2019	William (STEAM_0:0:52504530): :kosmugi:
+Tue Jul 16 19:56:52 2019	BexGasm (STEAM_0:1:63382511): :chaika:
+Tue Jul 16 19:56:55 2019	Hit on litnig mqueen failed. Reason: The target has died!
+Tue Jul 16 19:56:55 2019	litnig mqueen was killed by Himself with a suicide trick
+Tue Jul 16 19:56:58 2019	litnig mqueen (STEAM_0:1:5145584) spawned
+Tue Jul 16 19:57:21 2019	BexGasm (STEAM_0:1:63382511): :kami:
+Tue Jul 16 19:57:27 2019	BexGasm (STEAM_0:1:63382511): :kami:
+Tue Jul 16 19:57:31 2019	BexGasm (STEAM_0:1:63382511): // :kami:
+Tue Jul 16 19:57:36 2019	litnig mqueen (STEAM_0:1:5145584): :grin:
+Tue Jul 16 19:57:50 2019	litnig mqueen (STEAM_0:1:5145584): :kosmugi:
+Tue Jul 16 19:58:20 2019	Hitman jtroll1942 accepted a hit on litnig mqueen, ordered by BexGasm for $1,000
+Tue Jul 16 19:58:43 2019	jtroll1942 (STEAM_0:1:119864290): ITS RONALD
+Tue Jul 16 19:58:49 2019	BexGasm (STEAM_0:1:63382511) spawned SENT bm2_bitminer_1
+Tue Jul 16 19:58:55 2019	BexGasm (STEAM_0:1:63382511) spawned SENT bm2_generator
+Tue Jul 16 19:58:56 2019	BexGasm (STEAM_0:1:63382511) spawned SENT bm2_power_lead
+Tue Jul 16 19:59:03 2019	Hitman jtroll1942 finished a hit on litnig mqueen, ordered by BexGasm for $1,000
+Tue Jul 16 19:59:03 2019	litnig mqueen was killed by jtroll1942 with a fas2_m4a1
+Tue Jul 16 19:59:07 2019	litnig mqueen (STEAM_0:1:5145584) spawned
+Tue Jul 16 19:59:33 2019	Hitman jtroll1942 accepted a hit on UG | M A S T E R, ordered by litnig mqueen for $1,000
+Tue Jul 16 19:59:34 2019	UG | M A S T E R (STEAM_0:1:180622613): /drop
+Tue Jul 16 19:59:41 2019	Hit on UG | M A S T E R failed. Reason: The target has left the server!
+Tue Jul 16 19:59:41 2019	UG | M A S T E R (STEAM_0:1:180622613) disconnected
+Tue Jul 16 19:59:53 2019	BexGasm (STEAM_0:1:63382511) spawned SENT bm2_bitminer_rack
+Tue Jul 16 19:59:56 2019	BexGasm (STEAM_0:1:63382511) spawned SENT bm2_bitminer_server
+Tue Jul 16 20:00:00 2019	BexGasm (STEAM_0:1:63382511) spawned SENT bm2_generator
+Tue Jul 16 20:00:01 2019	BexGasm (STEAM_0:1:63382511) spawned SENT bm2_power_lead
+Tue Jul 16 20:00:17 2019	BexGasm (STEAM_0:1:63382511) spawned SENT bm2_extention_lead
+Tue Jul 16 20:01:47 2019	jtroll1942 (STEAM_0:1:119864290): nice msic
+Tue Jul 16 20:02:33 2019	BexGasm (STEAM_0:1:63382511) spawned SENT gmt_instrument_piano
+Tue Jul 16 20:02:36 2019	BexGasm (STEAM_0:1:63382511) spawned SENT gmt_instrument_piano
+Tue Jul 16 20:02:51 2019	jtroll1942 (STEAM_0:1:119864290): i still think the dimond printer is over priced
+Tue Jul 16 20:02:56 2019	BexGasm (STEAM_0:1:63382511) spawned SENT gmt_instrument_piano
+Tue Jul 16 20:03:06 2019	UG | M A S T E R (STEAM_0:1:180622613) has joined the game
+Tue Jul 16 20:03:06 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Tue Jul 16 20:03:11 2019	BexGasm (STEAM_0:1:63382511): !god BexGasm
+Tue Jul 16 20:03:26 2019	litnig mqueen (STEAM_0:1:5145584): 
+Tue Jul 16 20:03:33 2019	litnig mqueen was killed by (͠≖ ͜ʖ͠≖) (DC) with a m9k_model627
+Tue Jul 16 20:03:38 2019	litnig mqueen (STEAM_0:1:5145584) spawned
+Tue Jul 16 20:03:40 2019	litnig mqueen (STEAM_0:1:5145584): 
+Tue Jul 16 20:03:54 2019	BexGasm (STEAM_0:1:63382511) spawned SENT gmt_instrument_piano
+Tue Jul 16 20:04:41 2019	litnig mqueen (STEAM_0:1:5145584): 
+Tue Jul 16 20:04:44 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /pm will it's called climb swer 2
+Tue Jul 16 20:04:51 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /pm will *swep
+Tue Jul 16 20:04:52 2019	litnig mqueen (STEAM_0:1:5145584): 
+Tue Jul 16 20:04:57 2019	litnig mqueen (STEAM_0:1:5145584): 
+Tue Jul 16 20:05:02 2019	litnig mqueen was killed by Dio On Duty with a fas2_glock20
+Tue Jul 16 20:05:07 2019	litnig mqueen (STEAM_0:1:5145584) spawned
+Tue Jul 16 20:05:13 2019	litnig mqueen (STEAM_0:1:5145584): 
+Tue Jul 16 20:05:49 2019	Dio On Duty (STEAM_0:0:497465680) spawned SENT zwf_jar
+Tue Jul 16 20:05:52 2019	Dio On Duty (STEAM_0:0:497465680) spawned SENT zwf_bong03_ent
+Tue Jul 16 20:05:57 2019	Dio On Duty (STEAM_0:0:497465680) spawned SENT zwf_bong03_ent
+Tue Jul 16 20:06:03 2019	litnig mqueen (STEAM_0:1:5145584): 
+Tue Jul 16 20:06:22 2019	Possessed Harambe (STEAM_0:0:98180942): can i get some help?
+Tue Jul 16 20:07:50 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Tue Jul 16 20:07:54 2019	BexGasm (STEAM_0:1:63382511): // Wtf
+Tue Jul 16 20:08:12 2019	Dio On Duty (STEAM_0:0:497465680) spawned SENT item_suit
+Tue Jul 16 20:08:18 2019	Possessed Harambe (STEAM_0:0:98180942): that a no?
+Tue Jul 16 20:08:21 2019	BexGasm (STEAM_0:1:63382511): 
+Tue Jul 16 20:08:37 2019	Dio On Duty (STEAM_0:0:497465680) spawned SENT item_suit
+Tue Jul 16 20:08:41 2019	Dio On Duty (STEAM_0:0:497465680) spawned SENT item_suit
+Tue Jul 16 20:08:46 2019	Dio On Duty (STEAM_0:0:497465680) spawned SENT item_suit
+Tue Jul 16 20:08:52 2019	Dio On Duty (STEAM_0:0:497465680) spawned SENT item_battery
+Tue Jul 16 20:08:58 2019	Dio On Duty (STEAM_0:0:497465680) spawned SENT item_battery
+Tue Jul 16 20:08:58 2019	Dio On Duty (STEAM_0:0:497465680) spawned SENT item_battery
+Tue Jul 16 20:08:58 2019	Dio On Duty (STEAM_0:0:497465680) spawned SENT item_battery
+Tue Jul 16 20:08:59 2019	Dio On Duty (STEAM_0:0:497465680) spawned SENT item_battery
+Tue Jul 16 20:08:59 2019	Dio On Duty (STEAM_0:0:497465680) spawned SENT item_battery
+Tue Jul 16 20:08:59 2019	Dio On Duty (STEAM_0:0:497465680) spawned SENT item_battery
+Tue Jul 16 20:08:59 2019	Dio On Duty (STEAM_0:0:497465680) spawned SENT item_battery
+Tue Jul 16 20:08:59 2019	Dio On Duty (STEAM_0:0:497465680) spawned SENT item_battery
+Tue Jul 16 20:08:59 2019	Dio On Duty (STEAM_0:0:497465680) spawned SENT item_battery
+Tue Jul 16 20:08:59 2019	Dio On Duty (STEAM_0:0:497465680) spawned SENT item_battery
+Tue Jul 16 20:09:00 2019	Dio On Duty (STEAM_0:0:497465680) spawned SENT item_battery
+Tue Jul 16 20:09:00 2019	Dio On Duty (STEAM_0:0:497465680) spawned SENT item_battery
+Tue Jul 16 20:09:00 2019	Dio On Duty (STEAM_0:0:497465680) spawned SENT item_battery
+Tue Jul 16 20:09:03 2019	William (STEAM_0:0:52504530) spawned SENT sent_arc_atm
+Tue Jul 16 20:09:12 2019	UG | M A S T E R was killed by Himself with a suicide trick
+Tue Jul 16 20:09:15 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Tue Jul 16 20:09:19 2019	BexGasm (STEAM_0:1:63382511) spawned SENT gmt_instrument_piano
+Tue Jul 16 20:09:21 2019	BexGasm (STEAM_0:1:63382511) spawned SENT gmt_instrument_piano
+Tue Jul 16 20:09:23 2019	BexGasm (STEAM_0:1:63382511) spawned SENT gmt_instrument_piano
+Tue Jul 16 20:09:34 2019	UG | M A S T E R (STEAM_0:1:180622613): !motd
+Tue Jul 16 20:09:37 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): 
+Tue Jul 16 20:09:40 2019	litnig mqueen (STEAM_0:1:5145584): 
+Tue Jul 16 20:09:57 2019	jtroll1942 (STEAM_0:1:119864290): you may want to rethink that
+Tue Jul 16 20:10:17 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): 
+Tue Jul 16 20:11:33 2019	BexGasm (STEAM_0:1:63382511) spawned SENT gmt_instrument_piano
+Tue Jul 16 20:11:51 2019	Possessed Harambe (STEAM_0:0:98180942): just no help then?
+Tue Jul 16 20:12:58 2019	BexGasm (STEAM_0:1:63382511) spawned SENT gmt_instrument_piano
+Tue Jul 16 20:13:18 2019	BexGasm (STEAM_0:1:63382511): !goto will
+Tue Jul 16 20:13:22 2019	BexGasm (STEAM_0:1:63382511): !goto will
+Tue Jul 16 20:13:23 2019	William (STEAM_0:0:52504530): huh
+Tue Jul 16 20:13:29 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /pm ug you know the "gift" i can't get it
+Tue Jul 16 20:13:30 2019	William (STEAM_0:0:52504530): im not deleting anything
+Tue Jul 16 20:13:39 2019	William (STEAM_0:0:52504530): where are u spawning them
+Tue Jul 16 20:13:47 2019	William (STEAM_0:0:52504530): ill spawn one for u
+Tue Jul 16 20:13:58 2019	William (STEAM_0:0:52504530) spawned SENT gmt_instrument_piano
+Tue Jul 16 20:14:01 2019	BexGasm (STEAM_0:1:63382511) spawned SENT gmt_instrument_piano
+Tue Jul 16 20:14:53 2019	litnig mqueen (STEAM_0:1:5145584): 
+Tue Jul 16 20:15:09 2019	litnig mqueen was killed by BexGasm with a fas2_galil
+Tue Jul 16 20:15:11 2019	litnig mqueen (STEAM_0:1:5145584) spawned
+Tue Jul 16 20:15:20 2019	UG | M A S T E R (STEAM_0:1:180622613): hello
+Tue Jul 16 20:15:43 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /pm lit omg i thought you were raiding my base
+Tue Jul 16 20:15:45 2019	UG | M A S T E R (STEAM_0:1:180622613): !vcmod
+Tue Jul 16 20:15:55 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /pm lit i'm so sorry
+Tue Jul 16 20:16:54 2019	William (STEAM_0:0:52504530): insane
+Tue Jul 16 20:17:39 2019	William (STEAM_0:0:52504530): ronald heard the piano
+Tue Jul 16 20:17:53 2019	William (STEAM_0:0:52504530) spawned
+Tue Jul 16 20:18:07 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned Vehicle prop_vehicle_jeep (mitsuevoxpoltdm)
+Tue Jul 16 20:18:11 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662) disconnected
+Tue Jul 16 20:18:18 2019	Possessed Harambe (STEAM_0:0:98180942) disconnected
+Tue Jul 16 20:19:34 2019	Blumbing (STEAM_0:1:152356796) has joined the game
+Tue Jul 16 20:19:34 2019	Blumbing (STEAM_0:1:152356796) spawned
+Tue Jul 16 20:19:53 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662) has joined the game
+Tue Jul 16 20:19:53 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662) spawned
+Tue Jul 16 20:21:24 2019	Dio On Duty (STEAM_0:0:497465680) spawned SENT grenade_helicopter
+Tue Jul 16 20:22:13 2019	William (STEAM_0:0:52504530) spawned
+Tue Jul 16 20:22:15 2019	UG | M A S T E R (STEAM_0:1:180622613): /forcelock
+Tue Jul 16 20:22:24 2019	jtroll1942 (STEAM_0:1:119864290): /drop wepon
+Tue Jul 16 20:23:36 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): 
+Tue Jul 16 20:23:49 2019	litnig mqueen was killed by (͠≖ ͜ʖ͠≖) (DC) with a m9k_model627
+Tue Jul 16 20:23:52 2019	litnig mqueen (STEAM_0:1:5145584) spawned
+Tue Jul 16 20:24:09 2019	(͠≖ ͜ʖ͠≖) (DC) was killed by UG | M A S T E R with a fas2_m1911
+Tue Jul 16 20:24:17 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662) spawned
+Tue Jul 16 20:24:40 2019	UG | M A S T E R (STEAM_0:1:180622613): get in
+Tue Jul 16 20:24:41 2019	UG | M A S T E R (STEAM_0:1:180622613): /forcelock
+Tue Jul 16 20:26:55 2019	Blumbing (STEAM_0:1:152356796): 
+Tue Jul 16 20:27:02 2019	litnig mqueen (STEAM_0:1:5145584): 
+Tue Jul 16 20:27:02 2019	Blumbing was killed by litnig mqueen with a fas2_m4a1
+Tue Jul 16 20:27:04 2019	litnig mqueen (STEAM_0:1:5145584): 
+Tue Jul 16 20:27:13 2019	Blumbing (STEAM_0:1:152356796) spawned
+Tue Jul 16 20:28:17 2019	UG | M A S T E R (STEAM_0:1:180622613): I got a license
+Tue Jul 16 20:28:38 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662) spawned
+Tue Jul 16 20:28:38 2019	UG | M A S T E R (STEAM_0:1:180622613) arrested (͠≖ ͜ʖ͠≖) (DC)
+Tue Jul 16 20:28:47 2019	UG | M A S T E R (STEAM_0:1:180622613): What's going on here
+Tue Jul 16 20:28:57 2019	UG | M A S T E R (STEAM_0:1:180622613): Did you take a shit
+Tue Jul 16 20:29:11 2019	napmin [Ez shots]-shroud 2K (STEAM_0:0:114812659) has joined the game
+Tue Jul 16 20:29:11 2019	napmin [Ez shots]-shroud 2K (STEAM_0:0:114812659) spawned
+Tue Jul 16 20:29:20 2019	litnig mqueen (STEAM_0:1:5145584): 
+Tue Jul 16 20:29:31 2019	litnig mqueen (STEAM_0:1:5145584): 
+Tue Jul 16 20:29:42 2019	litnig mqueen (STEAM_0:1:5145584): 
+Tue Jul 16 20:29:44 2019	UG | M A S T E R was killed by litnig mqueen with a fas2_m4a1
+Tue Jul 16 20:29:48 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Tue Jul 16 20:30:28 2019	litnig mqueen (STEAM_0:1:5145584) spawned
+Tue Jul 16 20:30:28 2019	UG | M A S T E R (STEAM_0:1:180622613) arrested litnig mqueen
+Tue Jul 16 20:30:39 2019	litnig mqueen (STEAM_0:1:5145584): 
+Tue Jul 16 20:31:01 2019	UG | M A S T E R (STEAM_0:1:180622613): ?
+Tue Jul 16 20:31:26 2019	BexGasm (STEAM_0:1:63382511): !return dio
+Tue Jul 16 20:32:06 2019	litnig mqueen (STEAM_0:1:5145584) spawned
+Tue Jul 16 20:32:06 2019	BexGasm (STEAM_0:1:63382511) arrested litnig mqueen
+Tue Jul 16 20:32:09 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Tue Jul 16 20:32:33 2019	litnig mqueen was killed by Himself with a suicide trick
+Tue Jul 16 20:32:35 2019	litnig mqueen (STEAM_0:1:5145584) spawned
+Tue Jul 16 20:32:35 2019	jtroll1942 (STEAM_0:1:119864290): /drop wepon
+Tue Jul 16 20:32:43 2019	Dio On Duty was killed by Himself with a suicide trick
+Tue Jul 16 20:32:45 2019	Dio On Duty (STEAM_0:0:497465680) spawned
+Tue Jul 16 20:33:24 2019	Dio On Duty was killed by Entity [0][worldspawn] with a unknown
+Tue Jul 16 20:33:27 2019	Dio On Duty (STEAM_0:0:497465680) spawned
+Tue Jul 16 20:33:58 2019	litnig mqueen (STEAM_0:1:5145584): !menu
+Tue Jul 16 20:34:03 2019	litnig mqueen (STEAM_0:1:5145584): !motd
+Tue Jul 16 20:34:50 2019	jtroll1942 (STEAM_0:1:119864290): yo can i get some kind of admin over here
+Tue Jul 16 20:34:51 2019	Dio On Duty was killed by litnig mqueen with a fas2_m4a1
+Tue Jul 16 20:34:54 2019	Dio On Duty (STEAM_0:0:497465680) spawned
+Tue Jul 16 20:34:54 2019	Blumbing (STEAM_0:1:152356796): /rpname (づ｡◕‿‿◕｡)づ
+Tue Jul 16 20:35:12 2019	litnig mqueen (STEAM_0:1:5145584): 
+Tue Jul 16 20:35:12 2019	litnig mqueen (STEAM_0:1:5145584) spawned
+Tue Jul 16 20:35:12 2019	UG | M A S T E R (STEAM_0:1:180622613) arrested litnig mqueen
+Tue Jul 16 20:35:17 2019	William (STEAM_0:0:52504530) spawned
+Tue Jul 16 20:35:17 2019	BexGasm (STEAM_0:1:63382511) arrested William
+Tue Jul 16 20:35:28 2019	William (STEAM_0:0:52504530): /unarrest Derp
+Tue Jul 16 20:35:28 2019	William (STEAM_0:0:52504530) force-unarrested Derp
+Tue Jul 16 20:35:32 2019	William (STEAM_0:0:52504530): /arrest Bex 9999
+Tue Jul 16 20:35:32 2019	BexGasm (STEAM_0:1:63382511) spawned
+Tue Jul 16 20:35:32 2019	William (STEAM_0:0:52504530) force-arrested Zookie 〈メイド〉
+Tue Jul 16 20:35:36 2019	BexGasm (STEAM_0:1:63382511): /unarrest bex
+Tue Jul 16 20:35:36 2019	BexGasm (STEAM_0:1:63382511) force-unarrested Zookie 〈メイド〉
+Tue Jul 16 20:35:39 2019	BexGasm (STEAM_0:1:63382511): 
+Tue Jul 16 20:35:46 2019	UG | M A S T E R (STEAM_0:1:180622613): hey
+Tue Jul 16 20:36:34 2019	William (STEAM_0:0:52504530) spawned
+Tue Jul 16 20:36:34 2019	napmin [Ez shots]-shroud 2K (STEAM_0:0:114812659) spawned
+Tue Jul 16 20:36:56 2019	Dio On Duty (STEAM_0:0:497465680): !menu 
+Tue Jul 16 20:37:03 2019	William (STEAM_0:0:52504530) spawned
+Tue Jul 16 20:37:03 2019	napmin [Ez shots]-shroud 2K (STEAM_0:0:114812659) spawned
+Tue Jul 16 20:37:12 2019	William (STEAM_0:0:52504530): fixed what
+Tue Jul 16 20:37:21 2019	William (STEAM_0:0:52504530): it depends on the model
+Tue Jul 16 20:37:26 2019	William was killed by Himself with a suicide trick
+Tue Jul 16 20:37:27 2019	litnig mqueen was killed by UG | M A S T E R with a fas2_m24
+Tue Jul 16 20:37:29 2019	William (STEAM_0:0:52504530) spawned
+Tue Jul 16 20:37:32 2019	litnig mqueen (STEAM_0:1:5145584) spawned
+Tue Jul 16 20:37:35 2019	litnig mqueen (STEAM_0:1:5145584): 
+Tue Jul 16 20:37:37 2019	BexGasm (STEAM_0:1:63382511): !return bex
+Tue Jul 16 20:37:53 2019	UG | M A S T E R (STEAM_0:1:180622613): hi!
+Tue Jul 16 20:37:57 2019	William (STEAM_0:0:52504530): climb swep 2
+Tue Jul 16 20:38:00 2019	William (STEAM_0:0:52504530): ill go get it now
+Tue Jul 16 20:38:06 2019	William (STEAM_0:0:52504530): do u want me to make a parkour job
+Tue Jul 16 20:38:15 2019	William (STEAM_0:0:52504530): k
+Tue Jul 16 20:39:08 2019	Dio On Duty (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_jeep (lex_is300poltdm)
+Tue Jul 16 20:39:12 2019	William (STEAM_0:0:52504530): /police
+Tue Jul 16 20:39:15 2019	Blumbing (STEAM_0:1:152356796): /pm wi can you add accesoriess
+Tue Jul 16 20:39:21 2019	UG | M A S T E R (STEAM_0:1:180622613): Because, only cp are allowed at jails cells, mayor's office, what not..
+Tue Jul 16 20:39:25 2019	UG | M A S T E R (STEAM_0:1:180622613): Because, only cp are allowed at jails cells, mayor's office, what not..
+Tue Jul 16 20:39:34 2019	William (STEAM_0:0:52504530) spawned Vehicle prop_vehicle_jeep (mitsuevoxpoltdm)
+Tue Jul 16 20:39:52 2019	UG | M A S T E R (STEAM_0:1:180622613): When people are unarrested they are teleported to spawn..
+Tue Jul 16 20:40:14 2019	Blumbing (STEAM_0:1:152356796): 
+Tue Jul 16 20:40:27 2019	William (STEAM_0:0:52504530): why
+Tue Jul 16 20:40:43 2019	jtroll1942 (STEAM_0:1:119864290): whos playing music
+Tue Jul 16 20:40:58 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Tue Jul 16 20:41:08 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): !vcmod
+Tue Jul 16 20:41:51 2019	William was killed by Dio On Duty with a prop_vehicle_jeep
+Tue Jul 16 20:41:58 2019	William (STEAM_0:0:52504530) spawned
+Tue Jul 16 20:42:12 2019	(͠≖ ͜ʖ͠≖) (DC) was killed by Entity [0][worldspawn] with a unknown
+Tue Jul 16 20:42:16 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662) spawned
+Tue Jul 16 20:42:17 2019	BexGasm (STEAM_0:1:63382511): !god BexGasm
+Tue Jul 16 20:42:42 2019	UG | M A S T E R (STEAM_0:1:180622613): yes hobo? okay....
+Tue Jul 16 20:43:04 2019	litnig mqueen was killed by Himself with a suicide trick
+Tue Jul 16 20:43:06 2019	litnig mqueen (STEAM_0:1:5145584) spawned
+Tue Jul 16 20:43:12 2019	napmin [Ez shots]-shroud 2K (STEAM_0:0:114812659): 
+Tue Jul 16 20:43:47 2019	William (STEAM_0:0:52504530): what
+Tue Jul 16 20:43:53 2019	William (STEAM_0:0:52504530): wtf
+Tue Jul 16 20:43:54 2019	BexGasm (STEAM_0:1:63382511): 
+Tue Jul 16 20:44:04 2019	UG | M A S T E R (STEAM_0:1:180622613): stop shiting 
+Tue Jul 16 20:44:05 2019	BexGasm (STEAM_0:1:63382511): !return nap
+Tue Jul 16 20:44:08 2019	BexGasm (STEAM_0:1:63382511): /return nap
+Tue Jul 16 20:44:13 2019	UG | M A S T E R (STEAM_0:1:180622613): Go to the toliet 
+Tue Jul 16 20:44:14 2019	Sir.Chacho (The First) (STEAM_0:1:421107545) has joined the game
+Tue Jul 16 20:44:14 2019	Sir.Chacho (The First) (STEAM_0:1:421107545) spawned
+Tue Jul 16 20:44:28 2019	BexGasm (STEAM_0:1:63382511): 
+Tue Jul 16 20:44:33 2019	UG | M A S T E R (STEAM_0:1:180622613): hey
+Tue Jul 16 20:44:39 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Tue Jul 16 20:44:41 2019	William (STEAM_0:0:52504530): hello
+Tue Jul 16 20:44:46 2019	William (STEAM_0:0:52504530): why
+Tue Jul 16 20:44:57 2019	William (STEAM_0:0:52504530): didnt ur report say harrassment
+Tue Jul 16 20:45:12 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Tue Jul 16 20:45:24 2019	UG | M A S T E R (STEAM_0:1:180622613): jesus christ
+Tue Jul 16 20:45:33 2019	UG | M A S T E R (STEAM_0:1:180622613): you'r really needed to take a shit
+Tue Jul 16 20:45:59 2019	William (STEAM_0:0:52504530): just leave it in here
+Tue Jul 16 20:46:06 2019	Sir.Chacho (The First) (STEAM_0:1:421107545): !donate
+Tue Jul 16 20:46:17 2019	William (STEAM_0:0:52504530): alright pay up
+Tue Jul 16 20:46:19 2019	William (STEAM_0:0:52504530): 50000
+Tue Jul 16 20:46:31 2019	William (STEAM_0:0:52504530): then i guess i need to do what needs to be done
+Tue Jul 16 20:46:39 2019	Sir.Chacho (The First) was killed by Himself with a suicide trick
+Tue Jul 16 20:46:43 2019	Sir.Chacho (The First) (STEAM_0:1:421107545) spawned
+Tue Jul 16 20:46:52 2019	UG | M A S T E R (STEAM_0:1:180622613): bend over
+Tue Jul 16 20:47:25 2019	Sir.Chacho (The First) (STEAM_0:1:421107545): /buyshipment Remington 870
+Tue Jul 16 20:47:26 2019	jtroll1942 (STEAM_0:1:119864290): who stoped all sounds
+Tue Jul 16 20:48:02 2019	(͠≖ ͜ʖ͠≖) (DC) was killed by UG | M A S T E R with a prop_vehicle_jeep
+Tue Jul 16 20:48:02 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /pm will rape counts as a crime right
+Tue Jul 16 20:48:04 2019	litnig mqueen (STEAM_0:1:5145584): /drop
+Tue Jul 16 20:48:08 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662) spawned
+Tue Jul 16 20:48:08 2019	litnig mqueen was killed by Himself with a suicide trick
+Tue Jul 16 20:48:19 2019	litnig mqueen (STEAM_0:1:5145584) spawned
+Tue Jul 16 20:48:54 2019	litnig mqueen (STEAM_0:1:5145584): 
+Tue Jul 16 20:49:17 2019	UG | M A S T E R has made napmin [Ez shots]-shroud 2K wanted, reason: Trying to grow crack
+Tue Jul 16 20:49:28 2019	BexGasm (STEAM_0:1:63382511) spawned Vehicle prop_vehicle_jeep (fer_lafertdm)
+Tue Jul 16 20:49:39 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): 
+Tue Jul 16 20:49:48 2019	litnig mqueen (STEAM_0:1:5145584): 
+Tue Jul 16 20:49:56 2019	napmin [Ez shots]-shroud 2K is no longer wanted by the Police. Revoked by: UG | M A S T E R
+Tue Jul 16 20:49:56 2019	napmin [Ez shots]-shroud 2K (STEAM_0:0:114812659) spawned
+Tue Jul 16 20:49:56 2019	UG | M A S T E R (STEAM_0:1:180622613) arrested napmin [Ez shots]-shroud 2K
+Tue Jul 16 20:50:25 2019	(͠≖ ͜ʖ͠≖) (DC) was killed by Dio On Duty with a prop_vehicle_jeep
+Tue Jul 16 20:50:28 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662) spawned
+Tue Jul 16 20:50:44 2019	William (STEAM_0:0:52504530) spawned
+Tue Jul 16 20:50:44 2019	napmin [Ez shots]-shroud 2K (STEAM_0:0:114812659) spawned
+Tue Jul 16 20:50:51 2019	William (STEAM_0:0:52504530) unarrested napmin [Ez shots]-shroud 2K
+Tue Jul 16 20:51:00 2019	litnig mqueen was killed by BexGasm with a prop_vehicle_jeep
+Tue Jul 16 20:51:04 2019	litnig mqueen (STEAM_0:1:5145584) spawned
+Tue Jul 16 20:51:12 2019	napmin [Ez shots]-shroud 2K was killed by Dio On Duty with a prop_vehicle_jeep
+Tue Jul 16 20:51:17 2019	napmin [Ez shots]-shroud 2K (STEAM_0:0:114812659): 
+Tue Jul 16 20:51:39 2019	napmin [Ez shots]-shroud 2K (STEAM_0:0:114812659) spawned
+Tue Jul 16 20:51:45 2019	Sir.Chacho (The First) (STEAM_0:1:421107545) disconnected
+Tue Jul 16 20:51:59 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Tue Jul 16 20:52:05 2019	UG | M A S T E R (STEAM_0:1:180622613): Spawn removed the cars
+Tue Jul 16 20:52:12 2019	William (STEAM_0:0:52504530): lol
+Tue Jul 16 20:52:40 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Tue Jul 16 20:52:40 2019	Dio On Duty (STEAM_0:0:497465680) spawned
+Tue Jul 16 20:52:50 2019	litnig mqueen was killed by Blumbing with a fas2_rem870
+Tue Jul 16 20:52:54 2019	BexGasm (STEAM_0:1:63382511) spawned Vehicle prop_vehicle_jeep (fer_lafertdm)
+Tue Jul 16 20:52:54 2019	litnig mqueen (STEAM_0:1:5145584) spawned
+Tue Jul 16 20:53:00 2019	UG | M A S T E R (STEAM_0:1:180622613): /pm derp 
+Tue Jul 16 20:53:21 2019	UG | M A S T E R (STEAM_0:1:180622613): There is no more title store
+Tue Jul 16 20:53:21 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Tue Jul 16 20:53:31 2019	UG | M A S T E R (STEAM_0:1:180622613): uhhhh
+Tue Jul 16 20:53:32 2019	(͠≖ ͜ʖ͠≖) (DC) was killed by Himself with a suicide trick
+Tue Jul 16 20:53:34 2019	elm0n.360 (STEAM_0:1:443520614) has joined the game
+Tue Jul 16 20:53:34 2019	elm0n.360 (STEAM_0:1:443520614) spawned
+Tue Jul 16 20:53:34 2019	UG | M A S T E R (STEAM_0:1:180622613): hell no
+Tue Jul 16 20:53:37 2019	UG | M A S T E R (STEAM_0:1:180622613): hell no
+Tue Jul 16 20:53:40 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662) spawned
+Tue Jul 16 20:53:54 2019	Dio On Duty was killed by Himself with a suicide trick
+Tue Jul 16 20:53:59 2019	jtroll1942 (STEAM_0:1:119864290): anything instesting happing
+Tue Jul 16 20:54:00 2019	Dio On Duty (STEAM_0:0:497465680) spawned
+Tue Jul 16 20:54:00 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Tue Jul 16 20:54:07 2019	Dio On Duty was killed by UG | M A S T E R with a overpowered_minigun
+Tue Jul 16 20:54:13 2019	BexGasm (STEAM_0:1:63382511): 
+Tue Jul 16 20:54:15 2019	Dio On Duty (STEAM_0:0:497465680) spawned
+Tue Jul 16 20:54:21 2019	UG | M A S T E R (STEAM_0:1:180622613): /drop
+Tue Jul 16 20:54:21 2019	BexGasm (STEAM_0:1:63382511): !hp blumb 100
+Tue Jul 16 20:54:33 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Tue Jul 16 20:54:43 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Tue Jul 16 20:54:47 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Tue Jul 16 20:54:55 2019	Dio On Duty (STEAM_0:0:497465680) spawned
+Tue Jul 16 20:54:55 2019	jtroll1942 (STEAM_0:1:119864290) spawned
+Tue Jul 16 20:55:17 2019	Dio On Duty (STEAM_0:0:497465680): !menu
+Tue Jul 16 20:55:23 2019	litnig mqueen was killed by Blumbing with a prop_vehicle_jeep
+Tue Jul 16 20:55:25 2019	litnig mqueen (STEAM_0:1:5145584) spawned
+Tue Jul 16 20:55:34 2019	UG | M A S T E R was killed by BexGasm with a prop_vehicle_jeep
+Tue Jul 16 20:55:37 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Tue Jul 16 20:56:17 2019	litnig mqueen was killed by Blumbing with a env_explosion
+Tue Jul 16 20:56:19 2019	litnig mqueen (STEAM_0:1:5145584) spawned
+Tue Jul 16 20:56:23 2019	jtroll1942 (STEAM_0:1:119864290): WHOS THE INVISIBLE FUCK MESSING WITH ME
+Tue Jul 16 20:56:31 2019	Dio On Duty (STEAM_0:0:497465680) disconnected
+Tue Jul 16 20:56:51 2019	William (STEAM_0:0:52504530): LOL
+Tue Jul 16 20:56:55 2019	William (STEAM_0:0:52504530): was i spookin u
+Tue Jul 16 20:56:59 2019	BexGasm (STEAM_0:1:63382511) spawned Vehicle prop_vehicle_jeep (dod_ram_1500tdm)
+Tue Jul 16 20:57:04 2019	William (STEAM_0:0:52504530): lmao
+Tue Jul 16 20:57:05 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662) spawned
+Tue Jul 16 20:57:05 2019	UG | M A S T E R (STEAM_0:1:180622613) arrested (͠≖ ͜ʖ͠≖) (DC)
+Tue Jul 16 20:57:13 2019	BexGasm (STEAM_0:1:63382511) spawned SENT vc_pickup_fuel_petrol
+Tue Jul 16 20:57:13 2019	UG | M A S T E R (STEAM_0:1:180622613): did I get the wrong one?
+Tue Jul 16 20:57:17 2019	William (STEAM_0:0:52504530): hey imma borrow this
+Tue Jul 16 20:57:21 2019	UG | M A S T E R (STEAM_0:1:180622613): did he steal my car?
+Tue Jul 16 20:57:26 2019	Dio (STEAM_0:0:497465680) has joined the game
+Tue Jul 16 20:57:26 2019	Dio On Duty (STEAM_0:0:497465680) spawned
+Tue Jul 16 20:57:30 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): 
+Tue Jul 16 20:57:48 2019	BexGasm (STEAM_0:1:63382511): !ungod
+Tue Jul 16 20:57:51 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Tue Jul 16 20:57:53 2019	UG | M A S T E R (STEAM_0:1:180622613): yo
+Tue Jul 16 20:57:56 2019	UG | M A S T E R (STEAM_0:1:180622613): did you steal my car?
+Tue Jul 16 20:58:01 2019	UG | M A S T E R (STEAM_0:1:180622613): sorry
+Tue Jul 16 20:58:07 2019	UG | M A S T E R (STEAM_0:1:180622613) unarrested (͠≖ ͜ʖ͠≖) (DC)
+Tue Jul 16 20:58:09 2019	William (STEAM_0:0:52504530): how is ur bitcoin goin
+Tue Jul 16 20:58:09 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Tue Jul 16 20:58:36 2019	William (STEAM_0:0:52504530): how much does fuel cost
+Tue Jul 16 20:58:37 2019	Blumbing (STEAM_0:1:152356796) spawned
+Tue Jul 16 20:58:37 2019	UG | M A S T E R (STEAM_0:1:180622613) arrested Blumbing
+Tue Jul 16 20:58:49 2019	William (STEAM_0:0:52504530): ill lower the price of fuel
+Tue Jul 16 20:58:50 2019	William (STEAM_0:0:52504530): if i can
+Tue Jul 16 20:58:55 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): 
+Tue Jul 16 20:58:57 2019	Hitman jtroll1942 accepted a hit on UG | M A S T E R, ordered by Dio On Duty for $1,000
+Tue Jul 16 20:59:02 2019	BexGasm was killed by UG | M A S T E R with a fas2_famas
+Tue Jul 16 20:59:05 2019	BexGasm (STEAM_0:1:63382511) spawned
+Tue Jul 16 20:59:34 2019	UG | M A S T E R (STEAM_0:1:180622613): what are you in for?
+Tue Jul 16 20:59:36 2019	litnig mqueen (STEAM_0:1:5145584): 
+Tue Jul 16 20:59:50 2019	BexGasm (STEAM_0:1:63382511) spawned Vehicle prop_vehicle_jeep (dod_ram_1500tdm)
+Tue Jul 16 20:59:56 2019	BexGasm (STEAM_0:1:63382511) spawned Vehicle prop_vehicle_jeep (dod_ram_1500tdm)
+Tue Jul 16 21:00:00 2019	litnig mqueen (STEAM_0:1:5145584): 
+Tue Jul 16 21:00:59 2019	BexGasm (STEAM_0:1:63382511): !jail @ 120
+Tue Jul 16 21:01:21 2019	elm0n.360 (STEAM_0:1:443520614) disconnected
+Tue Jul 16 21:01:23 2019	BexGasm (STEAM_0:1:63382511): !MOTD
+Tue Jul 16 21:01:29 2019	William (STEAM_0:0:52504530): how about this
+Tue Jul 16 21:01:34 2019	William (STEAM_0:0:52504530): how about i make the fuel give 500 fuel every time
+Tue Jul 16 21:01:37 2019	Dio On Duty was killed by Entity [0][worldspawn] with a unknown
+Tue Jul 16 21:01:41 2019	Dio On Duty (STEAM_0:0:497465680) spawned
+Tue Jul 16 21:02:00 2019	William (STEAM_0:0:52504530): sorry for the problem u are having
+Tue Jul 16 21:02:18 2019	BexGasm (STEAM_0:1:63382511): !tp dio
+Tue Jul 16 21:02:21 2019	BexGasm (STEAM_0:1:63382511): !tp dio
+Tue Jul 16 21:02:57 2019	UG | M A S T E R (STEAM_0:1:180622613): follow me
+Tue Jul 16 21:03:00 2019	BexGasm (STEAM_0:1:63382511): !jail @ 120
+Tue Jul 16 21:03:06 2019	BexGasm (STEAM_0:1:63382511): !gag lit
+Tue Jul 16 21:03:11 2019	Blumbing (STEAM_0:1:152356796): 
+Tue Jul 16 21:03:35 2019	UG | M A S T E R (STEAM_0:1:180622613): be the protector
+Tue Jul 16 21:03:37 2019	TechnologicalPikachu (STEAM_0:0:169626063) has joined the game
+Tue Jul 16 21:03:37 2019	TechnologicalPikachu (STEAM_0:0:169626063) spawned
+Tue Jul 16 21:03:41 2019	UG | M A S T E R (STEAM_0:1:180622613): yes
+Tue Jul 16 21:03:44 2019	UG | M A S T E R (STEAM_0:1:180622613): 1k
+Tue Jul 16 21:03:59 2019	UG | M A S T E R (STEAM_0:1:180622613): How long are willing to protect?
+Tue Jul 16 21:04:02 2019	William (STEAM_0:0:52504530): next restart fuel should cost 500 and should give 500
+Tue Jul 16 21:04:24 2019	UG | M A S T E R (STEAM_0:1:180622613): Well enjoy
+Tue Jul 16 21:04:26 2019	William (STEAM_0:0:52504530): exactly and u spend 1000 for a full tank
+Tue Jul 16 21:04:28 2019	UG | M A S T E R (STEAM_0:1:180622613): be the protector
+Tue Jul 16 21:04:33 2019	Hit on UG | M A S T E R failed. Reason: The hitman died!
+Tue Jul 16 21:04:33 2019	jtroll1942 was killed by Dio On Duty with a overpowered_minigun
+Tue Jul 16 21:04:39 2019	UG | M A S T E R (STEAM_0:1:180622613): /check (DC) 1000
+Tue Jul 16 21:04:40 2019	jtroll1942 (STEAM_0:1:119864290) spawned
+Tue Jul 16 21:04:49 2019	Dio On Duty (STEAM_0:0:497465680): !menu
+Tue Jul 16 21:04:59 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Tue Jul 16 21:05:03 2019	BexGasm (STEAM_0:1:63382511): !jail @ 120
+Tue Jul 16 21:05:04 2019	TechnologicalPikachu (STEAM_0:0:169626063) disconnected
+Tue Jul 16 21:05:27 2019	jtroll1942 (STEAM_0:1:119864290): /drop wepon
+Tue Jul 16 21:05:33 2019	litnig mqueen (STEAM_0:1:5145584): 
+Tue Jul 16 21:05:43 2019	William (STEAM_0:0:52504530): i think he shot it off with his gun
+Tue Jul 16 21:05:51 2019	William (STEAM_0:0:52504530): the bullets richocheted off the wall
+Tue Jul 16 21:05:55 2019	UG | M A S T E R (STEAM_0:1:180622613): new life rule
+Tue Jul 16 21:06:08 2019	BexGasm (STEAM_0:1:63382511): !jail @ 120
+Tue Jul 16 21:06:15 2019	BexGasm (STEAM_0:1:63382511): !god BexGasm
+Tue Jul 16 21:06:25 2019	litnig mqueen (STEAM_0:1:5145584): wait
+Tue Jul 16 21:06:33 2019	BexGasm (STEAM_0:1:63382511): !ban lit 1440 Attempted rdm in a sit, over all minge
+Tue Jul 16 21:06:33 2019	litnig mqueen (STEAM_0:1:5145584) disconnected
+Tue Jul 16 21:07:11 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662) spawned
+Tue Jul 16 21:07:11 2019	UG | M A S T E R (STEAM_0:1:180622613) arrested (͠≖ ͜ʖ͠≖) (DC)
+Tue Jul 16 21:07:18 2019	UG | M A S T E R was killed by Blumbing with a fas2_g36c
+Tue Jul 16 21:07:20 2019	Dio On Duty (STEAM_0:0:497465680) spawned SENT double_or_nothing
+Tue Jul 16 21:07:23 2019	UG | M A S T E R (STEAM_0:1:180622613): !jail blum
+Tue Jul 16 21:07:23 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Tue Jul 16 21:07:36 2019	BexGasm (STEAM_0:1:63382511): !gag nap
+Tue Jul 16 21:07:38 2019	UG | M A S T E R (STEAM_0:1:180622613): The door was open...
+Tue Jul 16 21:07:43 2019	BexGasm (STEAM_0:1:63382511): !jail @ 120
+Tue Jul 16 21:07:48 2019	UG | M A S T E R (STEAM_0:1:180622613): And I had the full right to arrest him
+Tue Jul 16 21:07:56 2019	UG | M A S T E R (STEAM_0:1:180622613): so?
+Tue Jul 16 21:07:58 2019	napmin [Ez shots]-shroud 2K (STEAM_0:0:114812659): wdym
+Tue Jul 16 21:08:12 2019	napmin [Ez shots]-shroud 2K (STEAM_0:0:114812659): ok stfu
+Tue Jul 16 21:08:24 2019	BexGasm (STEAM_0:1:63382511): !motd
+Tue Jul 16 21:08:29 2019	UG | M A S T E R (STEAM_0:1:180622613): Printers aren't allowed, and you can't have them if you are a cp
+Tue Jul 16 21:08:51 2019	napmin [Ez shots]-shroud 2K (STEAM_0:0:114812659): ik\
+Tue Jul 16 21:08:54 2019	UG | M A S T E R (STEAM_0:1:180622613): hi
+Tue Jul 16 21:08:56 2019	napmin [Ez shots]-shroud 2K (STEAM_0:0:114812659): i admin to
+Tue Jul 16 21:09:00 2019	napmin [Ez shots]-shroud 2K (STEAM_0:0:114812659): lmao
+Tue Jul 16 21:09:02 2019	napmin [Ez shots]-shroud 2K (STEAM_0:0:114812659): ye
+Tue Jul 16 21:09:08 2019	napmin [Ez shots]-shroud 2K (STEAM_0:0:114812659): lamo
+Tue Jul 16 21:09:12 2019	napmin [Ez shots]-shroud 2K (STEAM_0:0:114812659): lmfao 
+Tue Jul 16 21:09:16 2019	napmin [Ez shots]-shroud 2K (STEAM_0:0:114812659): ask ug
+Tue Jul 16 21:09:17 2019	BexGasm (STEAM_0:1:63382511): !mute nap
+Tue Jul 16 21:09:19 2019	napmin [Ez shots]-shroud 2K (STEAM_0:0:114812659): 
+Tue Jul 16 21:09:59 2019	BexGasm (STEAM_0:1:63382511): !ban napmin 0 Propblock, Minge, Being a dickhead. (You're not an admin, and there's not a good chance you're getting staff. Fu
+Tue Jul 16 21:09:59 2019	napmin [Ez shots]-shroud 2K (STEAM_0:0:114812659) disconnected
+Tue Jul 16 21:10:01 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): 
+Tue Jul 16 21:10:01 2019	Dio On Duty (STEAM_0:0:497465680) disconnected
+Tue Jul 16 21:10:10 2019	BexGasm (STEAM_0:1:63382511): !goto blumb
+Tue Jul 16 21:10:13 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): 
+Tue Jul 16 21:10:20 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): 
+Tue Jul 16 21:10:25 2019	UG | M A S T E R was killed by (͠≖ ͜ʖ͠≖) (DC) with a m9k_model627
+Tue Jul 16 21:10:30 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Tue Jul 16 21:10:33 2019	BexGasm (STEAM_0:1:63382511): 
+Tue Jul 16 21:10:50 2019	Dio (STEAM_0:0:497465680) has joined the game
+Tue Jul 16 21:10:50 2019	Dio On Duty (STEAM_0:0:497465680) spawned
+Tue Jul 16 21:11:00 2019	UG | M A S T E R (STEAM_0:1:180622613): Yeah, I only invited him to play on the server. Not knowing that he will break the rules..
+Tue Jul 16 21:11:16 2019	UG | M A S T E R (STEAM_0:1:180622613): He does....
+Tue Jul 16 21:12:04 2019	Dio On Duty was killed by jtroll1942 with a fas2_m24
+Tue Jul 16 21:12:07 2019	Dio On Duty (STEAM_0:0:497465680) spawned
+Tue Jul 16 21:12:12 2019	UG | M A S T E R (STEAM_0:1:180622613): I honestly don't care if he is banned. If he broke the rules. Then if that was had to be done then it's fine.
+Tue Jul 16 21:12:29 2019	Dio On Duty was killed by jtroll1942 with a fas2_m24
+Tue Jul 16 21:12:31 2019	Dio On Duty (STEAM_0:0:497465680) spawned
+Tue Jul 16 21:12:40 2019	UG | M A S T E R (STEAM_0:1:180622613): idk
+Tue Jul 16 21:12:47 2019	BexGasm (STEAM_0:1:63382511): 
+Tue Jul 16 21:12:55 2019	BexGasm (STEAM_0:1:63382511): !hp zook 100
+Tue Jul 16 21:12:59 2019	BexGasm (STEAM_0:1:63382511): !hp bex 100
+Tue Jul 16 21:13:24 2019	UG | M A S T E R (STEAM_0:1:180622613): can I come in?
+Tue Jul 16 21:14:58 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /pm Bex passcode is 1
+Tue Jul 16 21:15:02 2019	UG | M A S T E R (STEAM_0:1:180622613): /pm will Can you be a gun dealer...
+Tue Jul 16 21:15:22 2019	Dio On Duty was killed by jtroll1942 with a fas2_p226
+Tue Jul 16 21:15:22 2019	Dio On Duty (STEAM_0:0:497465680) spawned
+Tue Jul 16 21:15:57 2019	Dio On Duty was killed by jtroll1942 with a fas2_p226
+Tue Jul 16 21:15:59 2019	Dio On Duty (STEAM_0:0:497465680) spawned
+Tue Jul 16 21:16:29 2019	UG | M A S T E R (STEAM_0:1:180622613): /drop
+Tue Jul 16 21:16:32 2019	Hitman jtroll1942 accepted a hit on UG | M A S T E R, ordered by Dio On Duty for $1,000
+Tue Jul 16 21:16:40 2019	UG | M A S T E R (STEAM_0:1:180622613): /drop
+Tue Jul 16 21:16:44 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Tue Jul 16 21:17:19 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Tue Jul 16 21:17:20 2019	Dio On Duty was killed by BexGasm with a fas2_galil
+Tue Jul 16 21:17:22 2019	Dio On Duty (STEAM_0:0:497465680) spawned
+Tue Jul 16 21:17:29 2019	UG | M A S T E R (STEAM_0:1:180622613): nice
+Tue Jul 16 21:17:45 2019	Dio On Duty was killed by BexGasm with a fas2_galil
+Tue Jul 16 21:17:45 2019	William (STEAM_0:0:52504530): do u have any of zeros addons
+Tue Jul 16 21:17:47 2019	Dio On Duty (STEAM_0:0:497465680) spawned
+Tue Jul 16 21:17:53 2019	UG | M A S T E R (STEAM_0:1:180622613): I believe I do
+Tue Jul 16 21:18:01 2019	William (STEAM_0:0:52504530): i bought the weed one obviously but he makes good addons
+Tue Jul 16 21:18:11 2019	UG | M A S T E R (STEAM_0:1:180622613): As well as blue
+Tue Jul 16 21:18:14 2019	William (STEAM_0:0:52504530): yup
+Tue Jul 16 21:18:14 2019	Dio On Duty (STEAM_0:0:497465680) spawned SENT zwf_bong03_ent
+Tue Jul 16 21:18:18 2019	William (STEAM_0:0:52504530): should i buy more addons?
+Tue Jul 16 21:18:20 2019	Dio On Duty (STEAM_0:0:497465680) spawned SENT zwf_jar
+Tue Jul 16 21:18:42 2019	UG | M A S T E R (STEAM_0:1:180622613): Should we get zeros mining, and or oil
+Tue Jul 16 21:18:44 2019	BexGasm (STEAM_0:1:63382511): !ungod
+Tue Jul 16 21:19:04 2019	UG | M A S T E R (STEAM_0:1:180622613): hm
+Tue Jul 16 21:19:08 2019	William (STEAM_0:0:52504530): yo
+Tue Jul 16 21:19:28 2019	Hitman jtroll1942 finished a hit on UG | M A S T E R, ordered by Dio On Duty for $1,000
+Tue Jul 16 21:19:28 2019	UG | M A S T E R was killed by jtroll1942 with a fas2_m4a1
+Tue Jul 16 21:19:30 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Tue Jul 16 21:19:55 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Tue Jul 16 21:20:02 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Tue Jul 16 21:20:43 2019	UG | M A S T E R (STEAM_0:1:180622613): He nocliped while I was mugging him
+Tue Jul 16 21:20:50 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Tue Jul 16 21:21:09 2019	William (STEAM_0:0:52504530): one sec
+Tue Jul 16 21:21:16 2019	UG | M A S T E R (STEAM_0:1:180622613): there is something called /job
+Tue Jul 16 21:21:24 2019	UG | M A S T E R (STEAM_0:1:180622613): /job admin on duty
+Tue Jul 16 21:21:34 2019	UG | M A S T E R (STEAM_0:1:180622613): /job Robber
+Tue Jul 16 21:21:39 2019	William (STEAM_0:0:52504530): can others press the button?
+Tue Jul 16 21:21:42 2019	jtroll1942 was killed by Entity [0][worldspawn] with a unknown
+Tue Jul 16 21:21:45 2019	jtroll1942 (STEAM_0:1:119864290) spawned
+Tue Jul 16 21:21:57 2019	William (STEAM_0:0:52504530): if they can press the button and they are able to reach the button then its fine because ur not blocking it completely
+Tue Jul 16 21:22:07 2019	Dio On Duty (STEAM_0:0:497465680): /rpname no u
+Tue Jul 16 21:22:10 2019	William (STEAM_0:0:52504530): oh
+Tue Jul 16 21:22:12 2019	William (STEAM_0:0:52504530): yeah its fine
+Tue Jul 16 21:22:27 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Tue Jul 16 21:22:32 2019	William (STEAM_0:0:52504530): LMAO
+Tue Jul 16 21:22:33 2019	William (STEAM_0:0:52504530): hes gone
+Tue Jul 16 21:22:34 2019	UG | M A S T E R (STEAM_0:1:180622613): so
+Tue Jul 16 21:22:41 2019	William (STEAM_0:0:52504530): wat
+Tue Jul 16 21:22:42 2019	Hitman jtroll1942 accepted a hit on William, ordered by BexGasm for $1,000
+Tue Jul 16 21:22:46 2019	no u (STEAM_0:0:497465680): /dropmoney 2000
+Tue Jul 16 21:22:47 2019	no u (STEAM_0:0:497465680) has dropped $2,000
+Tue Jul 16 21:22:56 2019	Hitman jtroll1942 finished a hit on William, ordered by BexGasm for $1,000
+Tue Jul 16 21:22:56 2019	William was killed by jtroll1942 with a m9k_kac_pdw
+Tue Jul 16 21:22:59 2019	William (STEAM_0:0:52504530) spawned
+Tue Jul 16 21:23:06 2019	William (STEAM_0:0:52504530): why does everyone want to kill me
+Tue Jul 16 21:23:07 2019	Hitman jtroll1942 accepted a hit on no u, ordered by UG | M A S T E R for $1,000
+Tue Jul 16 21:23:10 2019	William (STEAM_0:0:52504530): do they not know that im the owner
+Tue Jul 16 21:23:10 2019	Hitman jtroll1942 finished a hit on no u, ordered by UG | M A S T E R for $1,000
+Tue Jul 16 21:23:10 2019	no u was killed by jtroll1942 with a m9k_kac_pdw
+Tue Jul 16 21:23:12 2019	no u (STEAM_0:0:497465680) spawned
+Tue Jul 16 21:23:16 2019	(͠≖ ͜ʖ͠≖) (DC) was killed by Entity [0][worldspawn] with a unknown
+Tue Jul 16 21:23:19 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662) spawned
+Tue Jul 16 21:23:20 2019	Hitman jtroll1942 accepted a hit on BexGasm, ordered by William for $1,000
+Tue Jul 16 21:23:33 2019	Hit on BexGasm failed. Reason: The hitman died!
+Tue Jul 16 21:23:33 2019	jtroll1942 was killed by BexGasm with a fas2_galil
+Tue Jul 16 21:23:38 2019	jtroll1942 (STEAM_0:1:119864290) spawned
+Tue Jul 16 21:23:41 2019	UG | M A S T E R (STEAM_0:1:180622613): Nice
+Tue Jul 16 21:23:55 2019	UG | M A S T E R was killed by BexGasm with a fas2_galil
+Tue Jul 16 21:24:00 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Tue Jul 16 21:24:09 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Tue Jul 16 21:24:42 2019	William (STEAM_0:0:52504530): who told u that
+Tue Jul 16 21:24:43 2019	jtroll1942 (STEAM_0:1:119864290): i have no hit
+Tue Jul 16 21:24:57 2019	William (STEAM_0:0:52504530): in my mind i said of course
+Tue Jul 16 21:25:02 2019	William (STEAM_0:0:52504530): of course its them
+Tue Jul 16 21:25:03 2019	jtroll1942 was killed by (͠≖ ͜ʖ͠≖) (DC) with a m9k_model627
+Tue Jul 16 21:25:07 2019	jtroll1942 (STEAM_0:1:119864290): rdm
+Tue Jul 16 21:25:10 2019	jtroll1942 (STEAM_0:1:119864290) spawned
+Tue Jul 16 21:25:11 2019	BexGasm (STEAM_0:1:63382511): !hp * 100
+Tue Jul 16 21:25:17 2019	jtroll1942 (STEAM_0:1:119864290): that was rdm
+Tue Jul 16 21:25:25 2019	William (STEAM_0:0:52504530): i dont care what they say u can be on duty as long as u make ur job say ON DUTY
+Tue Jul 16 21:25:45 2019	William (STEAM_0:0:52504530): wat
+Tue Jul 16 21:26:09 2019	BexGasm (STEAM_0:1:63382511): 
+Tue Jul 16 21:26:15 2019	William (STEAM_0:0:52504530): ok then they are wrong
+Tue Jul 16 21:26:22 2019	William (STEAM_0:0:52504530): if they do it again let me know
+Tue Jul 16 21:26:32 2019	no u (STEAM_0:0:497465680): /rpname Dio On Duty
+Tue Jul 16 21:26:35 2019	William (STEAM_0:0:52504530): how are u doin that
+Tue Jul 16 21:26:43 2019	William (STEAM_0:0:52504530): tell me
+Tue Jul 16 21:26:50 2019	William (STEAM_0:0:52504530): because if u dont im gonna ban u
+Tue Jul 16 21:26:51 2019	BexGasm (STEAM_0:1:63382511): 
+Tue Jul 16 21:27:10 2019	(͠≖ ͜ʖ͠≖) (DC) was killed by Entity [0][worldspawn] with a unknown
+Tue Jul 16 21:27:12 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662) spawned
+Tue Jul 16 21:27:13 2019	William (STEAM_0:0:52504530): how tf does that work
+Tue Jul 16 21:27:38 2019	UG | M A S T E R (STEAM_0:1:180622613): take me out to the ball game
+Tue Jul 16 21:27:41 2019	Dio On Duty (STEAM_0:0:497465680): !menu 
+Tue Jul 16 21:27:43 2019	William (STEAM_0:0:52504530) spawned
+Tue Jul 16 21:27:45 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): !menu
+Tue Jul 16 21:27:50 2019	UG | M A S T E R (STEAM_0:1:180622613): hi
+Tue Jul 16 21:27:50 2019	William (STEAM_0:0:52504530): ok well try not to do that plz
+Tue Jul 16 21:28:07 2019	BexGasm (STEAM_0:1:63382511): /pm william yo
+Tue Jul 16 21:28:09 2019	Dio On Duty (STEAM_0:0:497465680): !menu
+Tue Jul 16 21:28:13 2019	BexGasm (STEAM_0:1:63382511): /pm will we need to talk
+Tue Jul 16 21:28:15 2019	BexGasm (STEAM_0:1:63382511): 
+Tue Jul 16 21:28:20 2019	William was killed by Entity [0][worldspawn] with a unknown
+Tue Jul 16 21:28:23 2019	William (STEAM_0:0:52504530) spawned
+Tue Jul 16 21:28:24 2019	BexGasm (STEAM_0:1:63382511): 
+Tue Jul 16 21:28:27 2019	BexGasm (STEAM_0:1:63382511): 
+Tue Jul 16 21:28:44 2019	William (STEAM_0:0:52504530): UG
+Tue Jul 16 21:28:45 2019	UG | M A S T E R (STEAM_0:1:180622613): don't give him weapons..
+Tue Jul 16 21:28:51 2019	UG | M A S T E R was killed by Himself with a suicide trick
+Tue Jul 16 21:28:54 2019	BexGasm (STEAM_0:1:63382511): 
+Tue Jul 16 21:28:55 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Tue Jul 16 21:29:04 2019	UG | M A S T E R (STEAM_0:1:180622613): hi
+Tue Jul 16 21:29:07 2019	William (STEAM_0:0:52504530): u can have grenade launchers but dont give them to others
+Tue Jul 16 21:29:17 2019	William (STEAM_0:0:52504530): because then they can fuck up the server
+Tue Jul 16 21:29:19 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): !unboxing
+Tue Jul 16 21:29:20 2019	Hitman jtroll1942 accepted a hit on UG | M A S T E R, ordered by Dio On Duty for $1,000
+Tue Jul 16 21:29:22 2019	BexGasm (STEAM_0:1:63382511): !unbox
+Tue Jul 16 21:29:24 2019	Blumbing (STEAM_0:1:152356796): !unbox
+Tue Jul 16 21:29:24 2019	BexGasm (STEAM_0:1:63382511): !unboxing
+Tue Jul 16 21:29:26 2019	BexGasm (STEAM_0:1:63382511): /unbox
+Tue Jul 16 21:29:28 2019	UG | M A S T E R (STEAM_0:1:180622613): Yeah, I wasn't going to give it to anyone..
+Tue Jul 16 21:29:32 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /unbox
+Tue Jul 16 21:29:38 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): !unbox
+Tue Jul 16 21:29:38 2019	William (STEAM_0:0:52504530): ok yeah because explosives really lag the game and break a lot of shit
+Tue Jul 16 21:29:52 2019	William (STEAM_0:0:52504530): also do u want me to buy the meth addon from zero?
+Tue Jul 16 21:30:19 2019	UG | M A S T E R (STEAM_0:1:180622613): We already have a meth addon. 
+Tue Jul 16 21:30:23 2019	UG | M A S T E R (STEAM_0:1:180622613): We already have a meth addon. 
+Tue Jul 16 21:30:26 2019	William (STEAM_0:0:52504530): ???
+Tue Jul 16 21:30:51 2019	UG | M A S T E R (STEAM_0:1:180622613): you said "also do u want me to buy the meth addon from zero"
+Tue Jul 16 21:30:59 2019	William (STEAM_0:0:52504530): ye
+Tue Jul 16 21:31:01 2019	William (STEAM_0:0:52504530): do u want me to
+Tue Jul 16 21:31:31 2019	UG | M A S T E R (STEAM_0:1:180622613): I have enhanched meth..
+Tue Jul 16 21:31:37 2019	William (STEAM_0:0:52504530): we arent using it tho
+Tue Jul 16 21:31:44 2019	William (STEAM_0:0:52504530): do we have to set it up
+Tue Jul 16 21:32:21 2019	BexGasm (STEAM_0:1:63382511): !hp * 100
+Tue Jul 16 21:32:23 2019	Blumbing (STEAM_0:1:152356796): /donate
+Tue Jul 16 21:32:27 2019	BexGasm (STEAM_0:1:63382511): !donate
+Tue Jul 16 21:32:35 2019	BexGasm (STEAM_0:1:63382511): 
+Tue Jul 16 21:32:37 2019	UG | M A S T E R (STEAM_0:1:180622613): Well, it's already ready for any server. And you can edit the money that the dealer gives. Because, the addon has it set for 1
+Tue Jul 16 21:32:41 2019	William (STEAM_0:0:52504530): im gonna buy zeros meth addon it looks really good
+Tue Jul 16 21:32:47 2019	William (STEAM_0:0:52504530): do u have any donation addons?
+Tue Jul 16 21:32:58 2019	UG | M A S T E R (STEAM_0:1:180622613): I think.
+Tue Jul 16 21:33:02 2019	William (STEAM_0:0:52504530): alright cool
+Tue Jul 16 21:33:07 2019	William (STEAM_0:0:52504530): sup
+Tue Jul 16 21:33:17 2019	William (STEAM_0:0:52504530): they cant rn
+Tue Jul 16 21:33:23 2019	William (STEAM_0:0:52504530): i need to set up a page if i can
+Tue Jul 16 21:33:25 2019	jtroll1942 (STEAM_0:1:119864290): /drop wepon
+Tue Jul 16 21:33:25 2019	William (STEAM_0:0:52504530): paypal
+Tue Jul 16 21:33:27 2019	BexGasm (STEAM_0:1:63382511): 
+Tue Jul 16 21:33:32 2019	William (STEAM_0:0:52504530): donations are always nice
+Tue Jul 16 21:33:38 2019	William (STEAM_0:0:52504530): i can use them to upgrade the server
+Tue Jul 16 21:33:46 2019	William (STEAM_0:0:52504530): i dont mind paying 22 bucks a month
+Tue Jul 16 21:33:54 2019	William (STEAM_0:0:52504530): but the addons can get expensive 
+Tue Jul 16 21:34:01 2019	UG | M A S T E R (STEAM_0:1:180622613): yeah
+Tue Jul 16 21:34:18 2019	William (STEAM_0:0:52504530): alright im gonna purchase some meth and a little something extra
+Tue Jul 16 21:34:19 2019	jtroll1942 (STEAM_0:1:119864290): /party
+Tue Jul 16 21:34:27 2019	jtroll1942 (STEAM_0:1:119864290): 
+Tue Jul 16 21:34:34 2019	William (STEAM_0:0:52504530): brb
+Tue Jul 16 21:35:03 2019	William (STEAM_0:0:52504530): also i like zeros mining and oil stuff but i dont know if this map is big enough for that stuff
+Tue Jul 16 21:35:19 2019	UG | M A S T E R (STEAM_0:1:180622613): https://www.gmodstore.com/market/view/5387
+Tue Jul 16 21:35:26 2019	Hitman jtroll1942 finished a hit on UG | M A S T E R, ordered by Dio On Duty for $1,000
+Tue Jul 16 21:35:26 2019	UG | M A S T E R was killed by jtroll1942 with a fas2_m4a1
+Tue Jul 16 21:35:29 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Tue Jul 16 21:35:34 2019	William (STEAM_0:0:52504530): u guys fucked up
+Tue Jul 16 21:35:39 2019	Hitman jtroll1942 accepted a hit on William, ordered by (͠≖ ͜ʖ͠≖) (DC) for $1,000
+Tue Jul 16 21:35:43 2019	BexGasm (STEAM_0:1:63382511): /drop
+Tue Jul 16 21:35:50 2019	William (STEAM_0:0:52504530): it looks nice
+Tue Jul 16 21:35:55 2019	William (STEAM_0:0:52504530): do we have space for it tho on the map?
+Tue Jul 16 21:36:20 2019	UG | M A S T E R (STEAM_0:1:180622613): People buy the mining stuff. So they have to have space. 
+Tue Jul 16 21:36:25 2019	William (STEAM_0:0:52504530): ah ok
+Tue Jul 16 21:36:28 2019	William (STEAM_0:0:52504530): do u have to put it outside or?
+Tue Jul 16 21:36:38 2019	BexGasm (STEAM_0:1:63382511): !HP * 100
+Tue Jul 16 21:36:41 2019	UG | M A S T E R (STEAM_0:1:180622613): it can go any where.
+Tue Jul 16 21:36:48 2019	UG | M A S T E R (STEAM_0:1:180622613): afk.
+Tue Jul 16 21:36:51 2019	William (STEAM_0:0:52504530): k
+Tue Jul 16 21:37:12 2019	|-NCBA-| MovingName358 (STEAM_0:1:98512065) has joined the game
+Tue Jul 16 21:37:12 2019	|-NCBA-| MovingName358 (STEAM_0:1:98512065) spawned
+Tue Jul 16 21:37:59 2019	TechnologicalPikachu (STEAM_0:0:169626063) has joined the game
+Tue Jul 16 21:37:59 2019	TechnologicalPikachu (STEAM_0:0:169626063) spawned
+Tue Jul 16 21:38:51 2019	BexGasm (STEAM_0:1:63382511): !strip j
+Tue Jul 16 21:39:04 2019	William (STEAM_0:0:52504530): hi
+Tue Jul 16 21:39:06 2019	BexGasm (STEAM_0:1:63382511): /drop
+Tue Jul 16 21:39:08 2019	|-NCBA-| MovingName358 (STEAM_0:1:98512065): hi
+Tue Jul 16 21:39:12 2019	William (STEAM_0:0:52504530): welcome to the server
+Tue Jul 16 21:39:21 2019	TechnologicalPikachu (STEAM_0:0:169626063) disconnected
+Tue Jul 16 21:39:22 2019	ICG | umikorgil (STEAM_0:0:42981469) has joined the game
+Tue Jul 16 21:39:22 2019	ICG | umikorgil (STEAM_0:0:42981469) spawned
+Tue Jul 16 21:39:33 2019	|-NCBA-| MovingName358 (STEAM_0:1:98512065): thank you also the weed mod the good one :)
+Tue Jul 16 21:39:36 2019	William (STEAM_0:0:52504530): ik
+Tue Jul 16 21:39:46 2019	William (STEAM_0:0:52504530): im gonna add a meth mod by the same guy who made the weed mod
+Tue Jul 16 21:40:14 2019	|-NCBA-| MovingName358 (STEAM_0:1:98512065): what he made a meth mod as well? which one is it
+Tue Jul 16 21:40:20 2019	William (STEAM_0:0:52504530): zeros meth 
+Tue Jul 16 21:40:22 2019	William (STEAM_0:0:52504530): something like that
+Tue Jul 16 21:40:34 2019	William (STEAM_0:0:52504530): dont tell me u have a hit on me
+Tue Jul 16 21:40:42 2019	William (STEAM_0:0:52504530): no sorry
+Tue Jul 16 21:40:46 2019	William (STEAM_0:0:52504530): explosives lag the game
+Tue Jul 16 21:40:53 2019	William (STEAM_0:0:52504530): jail who
+Tue Jul 16 21:41:04 2019	William (STEAM_0:0:52504530): we dont need any bombs
+Tue Jul 16 21:41:22 2019	William (STEAM_0:0:52504530): ive been killed at least 15 times today by a hitman
+Tue Jul 16 21:41:48 2019	William (STEAM_0:0:52504530): SHUT UP
+Tue Jul 16 21:42:02 2019	William (STEAM_0:0:52504530): how about u grow some hair
+Tue Jul 16 21:42:16 2019	Blumbing (STEAM_0:1:152356796): 
+Tue Jul 16 21:42:20 2019	|-NCBA-| MovingName358 was killed by Blumbing with a fas2_rem870
+Tue Jul 16 21:42:32 2019	|-NCBA-| MovingName358 (STEAM_0:1:98512065) spawned
+Tue Jul 16 21:42:42 2019	William (STEAM_0:0:52504530): aw come on man
+Tue Jul 16 21:42:53 2019	Blumbing (STEAM_0:1:152356796): 
+Tue Jul 16 21:42:59 2019	Hitman jtroll1942 finished a hit on William, ordered by (͠≖ ͜ʖ͠≖) (DC) for $1,000
+Tue Jul 16 21:42:59 2019	William was killed by jtroll1942 with a fas2_galil
+Tue Jul 16 21:43:17 2019	ICG | umikorgil (STEAM_0:0:42981469) disconnected
+Tue Jul 16 21:43:18 2019	William (STEAM_0:0:52504530) spawned
+Tue Jul 16 21:43:19 2019	BexGasm (STEAM_0:1:63382511): !ungod dio
+Tue Jul 16 21:43:20 2019	Blumbing (STEAM_0:1:152356796): 
+Tue Jul 16 21:43:29 2019	jtroll1942 was killed by William with a fas2_ks23
+Tue Jul 16 21:43:30 2019	William was killed by Blumbing with a fas2_rem870
+Tue Jul 16 21:43:32 2019	jtroll1942 (STEAM_0:1:119864290) spawned
+Tue Jul 16 21:43:34 2019	William (STEAM_0:0:52504530) spawned
+Tue Jul 16 21:43:43 2019	Dio On Duty (STEAM_0:0:497465680): /dropmoney 5000
+Tue Jul 16 21:43:44 2019	Dio On Duty (STEAM_0:0:497465680) has dropped $5,000
+Tue Jul 16 21:43:55 2019	ICG | umikorgil (STEAM_0:0:42981469) has joined the game
+Tue Jul 16 21:43:55 2019	ICG | umikorgil (STEAM_0:0:42981469) spawned
+Tue Jul 16 21:44:05 2019	William was killed by BexGasm with a fas2_galil
+Tue Jul 16 21:44:10 2019	William (STEAM_0:0:52504530) spawned
+Tue Jul 16 21:44:28 2019	(͠≖ ͜ʖ͠≖) (DC) was killed by William with a fas2_rk95
+Tue Jul 16 21:44:30 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662) spawned
+Tue Jul 16 21:44:49 2019	BexGasm (STEAM_0:1:63382511) spawned Vehicle prop_vehicle_jeep (dod_ram_1500tdm)
+Tue Jul 16 21:45:17 2019	Hitman jtroll1942 accepted a hit on Dio On Duty, ordered by (͠≖ ͜ʖ͠≖) (DC) for $1,000
+Tue Jul 16 21:45:18 2019	Blumbing (STEAM_0:1:152356796) spawned Vehicle prop_vehicle_jeep (dod_ram_1500tdm)
+Tue Jul 16 21:46:35 2019	Hitman jtroll1942 finished a hit on Dio On Duty, ordered by (͠≖ ͜ʖ͠≖) (DC) for $1,000
+Tue Jul 16 21:46:35 2019	Dio On Duty was killed by jtroll1942 with a fas2_p226
+Tue Jul 16 21:46:37 2019	Dio On Duty (STEAM_0:0:497465680) spawned
+Tue Jul 16 21:46:59 2019	Hitman jtroll1942 accepted a hit on BexGasm, ordered by Dio On Duty for $1,000
+Tue Jul 16 21:47:07 2019	|-NCBA-| MovingName358 was killed by BexGasm with a prop_vehicle_jeep
+Tue Jul 16 21:47:14 2019	|-NCBA-| MovingName358 (STEAM_0:1:98512065) spawned
+Tue Jul 16 21:47:53 2019	Blumbing (STEAM_0:1:152356796) spawned Vehicle prop_vehicle_jeep (dod_ram_1500tdm)
+Tue Jul 16 21:48:10 2019	jtroll1942 (STEAM_0:1:119864290): /drop wepon
+Tue Jul 16 21:48:11 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662) spawned Vehicle prop_vehicle_jeep (fer_lafertdm)
+Tue Jul 16 21:48:39 2019	BexGasm (STEAM_0:1:63382511): 
+Tue Jul 16 21:48:45 2019	|-NCBA-| MovingName358 (STEAM_0:1:98512065): spas 12?
+Tue Jul 16 21:48:46 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): 
+Tue Jul 16 21:48:47 2019	Blumbing (STEAM_0:1:152356796): 
+Tue Jul 16 21:49:04 2019	|-NCBA-| MovingName358 (STEAM_0:1:98512065): okay db?
+Tue Jul 16 21:49:13 2019	jtroll1942 (STEAM_0:1:119864290): 
+Tue Jul 16 21:49:25 2019	|-NCBA-| MovingName358 (STEAM_0:1:98512065): yeah but im new
+Tue Jul 16 21:49:38 2019	Dio On Duty (STEAM_0:0:497465680): /buyshipment M4A1
+Tue Jul 16 21:49:42 2019	|-NCBA-| MovingName358 (STEAM_0:1:98512065): i love you <3
+Tue Jul 16 21:50:21 2019	|-NCBA-| MovingName358 (STEAM_0:1:98512065): i see
+Tue Jul 16 21:50:29 2019	BexGasm (STEAM_0:1:63382511): Hime#6429
+Tue Jul 16 21:50:49 2019	jtroll1942 (STEAM_0:1:119864290): 
+Tue Jul 16 21:50:56 2019	Hit on BexGasm failed. Reason: The hitman died!
+Tue Jul 16 21:50:56 2019	jtroll1942 was killed by BexGasm with a fas2_galil
+Tue Jul 16 21:51:11 2019	William (STEAM_0:0:52504530): hello
+Tue Jul 16 21:51:13 2019	UG | M A S T E R (STEAM_0:1:180622613): Hi
+Tue Jul 16 21:51:16 2019	BexGasm (STEAM_0:1:63382511): 
+Tue Jul 16 21:51:16 2019	William (STEAM_0:0:52504530): did u need something
+Tue Jul 16 21:51:17 2019	jtroll1942 (STEAM_0:1:119864290) spawned
+Tue Jul 16 21:51:18 2019	TechnologicalPikachu (STEAM_0:0:169626063) has joined the game
+Tue Jul 16 21:51:18 2019	TechnologicalPikachu (STEAM_0:0:169626063) spawned
+Tue Jul 16 21:51:18 2019	Porgo (STEAM_0:0:192489141) has joined the game
+Tue Jul 16 21:51:18 2019	Porgo (STEAM_0:0:192489141) spawned
+Tue Jul 16 21:51:30 2019	UG | M A S T E R (STEAM_0:1:180622613): Nah... But about that donation addon...
+Tue Jul 16 21:51:31 2019	Blumbing (STEAM_0:1:152356796) disconnected
+Tue Jul 16 21:51:36 2019	William (STEAM_0:0:52504530): ah yes
+Tue Jul 16 21:51:38 2019	William (STEAM_0:0:52504530): u got anything?
+Tue Jul 16 21:51:44 2019	UG | M A S T E R (STEAM_0:1:180622613): let me check
+Tue Jul 16 21:51:57 2019	Porgo (STEAM_0:0:192489141) disconnected
+Tue Jul 16 21:52:02 2019	UG | M A S T E R (STEAM_0:1:180622613): https://www.gmodstore.com/market/view/565
+Tue Jul 16 21:52:09 2019	TechnologicalPikachu (STEAM_0:0:169626063) disconnected
+Tue Jul 16 21:52:10 2019	William (STEAM_0:0:52504530): i knew it was that one
+Tue Jul 16 21:52:13 2019	William (STEAM_0:0:52504530): that looks nice
+Tue Jul 16 21:52:35 2019	Hitman jtroll1942 accepted a hit on William, ordered by UG | M A S T E R for $1,000
+Tue Jul 16 21:52:40 2019	Hitman jtroll1942 finished a hit on William, ordered by UG | M A S T E R for $1,000
+Tue Jul 16 21:52:40 2019	William was killed by jtroll1942 with a fas2_ak12
+Tue Jul 16 21:52:45 2019	William (STEAM_0:0:52504530) spawned
+Tue Jul 16 21:52:55 2019	Hitman jtroll1942 accepted a hit on BexGasm, ordered by William for $1,000
+Tue Jul 16 21:53:05 2019	Dropp (STEAM_0:1:188160468) has joined the game
+Tue Jul 16 21:53:05 2019	Dropp (STEAM_0:1:188160468) spawned
+Tue Jul 16 21:53:12 2019	William (STEAM_0:0:52504530): /pm UG if we somehow do get donations do u want any of the money?
+Tue Jul 16 21:53:23 2019	UG | M A S T E R (STEAM_0:1:180622613): /pm Will nah
+Tue Jul 16 21:53:29 2019	William (STEAM_0:0:52504530): /pm UG if you want any u just let me know
+Tue Jul 16 21:53:39 2019	UG | M A S T E R (STEAM_0:1:180622613): /pm will Okay
+Tue Jul 16 21:53:46 2019	William (STEAM_0:0:52504530): hi
+Tue Jul 16 21:53:54 2019	William (STEAM_0:0:52504530): dio nice shoes
+Tue Jul 16 21:54:02 2019	William (STEAM_0:0:52504530): do u like my shoes
+Tue Jul 16 21:54:02 2019	(づ｡◕‿‿◕｡)づ (STEAM_0:1:152356796) has joined the game
+Tue Jul 16 21:54:02 2019	Blumbing (STEAM_0:1:152356796) spawned
+Tue Jul 16 21:54:07 2019	William (STEAM_0:0:52504530): thank u
+Tue Jul 16 21:54:18 2019	William (STEAM_0:0:52504530): got the new toes v7 from kobe
+Tue Jul 16 21:54:35 2019	William (STEAM_0:0:52504530): yeah i got u
+Tue Jul 16 21:54:57 2019	William (STEAM_0:0:52504530): dio dont forget to register on the forum
+Tue Jul 16 21:55:07 2019	William (STEAM_0:0:52504530): alright thanks
+Tue Jul 16 21:55:25 2019	William (STEAM_0:0:52504530): if u press F4 and go to home
+Tue Jul 16 21:55:25 2019	Blumbing (STEAM_0:1:152356796): 
+Tue Jul 16 21:55:26 2019	William (STEAM_0:0:52504530): thats the forum
+Tue Jul 16 21:55:45 2019	BexGasm (STEAM_0:1:63382511): SCP [REDACTED#3436
+Tue Jul 16 21:55:57 2019	William (STEAM_0:0:52504530): /pm UG im gonna make a co owner on duty job
+Tue Jul 16 21:56:21 2019	William (STEAM_0:0:52504530): jtroll if u want sign up on the forum
+Tue Jul 16 21:56:27 2019	William (STEAM_0:0:52504530): yup
+Tue Jul 16 21:56:30 2019	William (STEAM_0:0:52504530): up and running
+Tue Jul 16 21:56:37 2019	William (STEAM_0:0:52504530): http://rpforum.derpdarkrp.nn.pe/index.php
+Tue Jul 16 21:57:10 2019	William (STEAM_0:0:52504530): ill activate ur account now
+Tue Jul 16 21:57:32 2019	William (STEAM_0:0:52504530): in the tab menu?
+Tue Jul 16 21:57:33 2019	Dropp (STEAM_0:1:188160468): !blogs
+Tue Jul 16 21:57:35 2019	Dropp (STEAM_0:1:188160468): 
+Tue Jul 16 21:57:37 2019	William (STEAM_0:0:52504530): i didnt do it
+Tue Jul 16 21:57:38 2019	William (STEAM_0:0:52504530): UG did
+Tue Jul 16 21:58:01 2019	Dropp (STEAM_0:1:188160468): !unbox
+Tue Jul 16 21:58:10 2019	William (STEAM_0:0:52504530): k i activated ur account
+Tue Jul 16 21:58:14 2019	William (STEAM_0:0:52504530): u can post now and stuff
+Tue Jul 16 21:58:21 2019	William (STEAM_0:0:52504530): if u can please post some suggestions in the suggestions thread
+Tue Jul 16 21:58:40 2019	William (STEAM_0:0:52504530): yo
+Tue Jul 16 21:58:44 2019	Dropp (STEAM_0:1:188160468): ?
+Tue Jul 16 21:58:48 2019	William (STEAM_0:0:52504530): monkey gang
+Tue Jul 16 21:59:06 2019	William (STEAM_0:0:52504530): im a monkey i have no money
+Tue Jul 16 21:59:15 2019	Blumbing (STEAM_0:1:152356796): 
+Tue Jul 16 21:59:20 2019	William (STEAM_0:0:52504530): /dropmoney 1
+Tue Jul 16 21:59:21 2019	William (STEAM_0:0:52504530) has dropped $1
+Tue Jul 16 21:59:32 2019	William (STEAM_0:0:52504530): /dropmoney 4999
+Tue Jul 16 21:59:33 2019	William (STEAM_0:0:52504530) has dropped $4,999
+Tue Jul 16 21:59:42 2019	William (STEAM_0:0:52504530): :kami:
+Tue Jul 16 21:59:44 2019	Hitman jtroll1942 finished a hit on BexGasm, ordered by William for $1,000
+Tue Jul 16 21:59:44 2019	BexGasm was killed by jtroll1942 with a fas2_ak12
+Tue Jul 16 21:59:48 2019	BexGasm (STEAM_0:1:63382511) spawned
+Tue Jul 16 22:00:02 2019	Blumbing was killed by jtroll1942 with a fas2_ak12
+Tue Jul 16 22:00:09 2019	jtroll1942 was killed by (͠≖ ͜ʖ͠≖) (DC) with a m9k_model627
+Tue Jul 16 22:00:12 2019	jtroll1942 (STEAM_0:1:119864290) spawned
+Tue Jul 16 22:01:12 2019	BexGasm (STEAM_0:1:63382511): 
+Tue Jul 16 22:01:19 2019	jtroll1942 was killed by BexGasm with a fas2_galil
+Tue Jul 16 22:01:28 2019	jtroll1942 (STEAM_0:1:119864290) spawned
+Tue Jul 16 22:01:38 2019	Dropp was killed by Himself with a suicide trick
+Tue Jul 16 22:01:41 2019	Dropp (STEAM_0:1:188160468): nerd
+Tue Jul 16 22:01:42 2019	Dropp (STEAM_0:1:188160468) spawned
+Tue Jul 16 22:01:45 2019	Dropp (STEAM_0:1:188160468): /ooc nerd
+Tue Jul 16 22:01:47 2019	BexGasm (STEAM_0:1:63382511): 
+Tue Jul 16 22:01:54 2019	Blumbing (STEAM_0:1:152356796) spawned
+Tue Jul 16 22:01:57 2019	BexGasm (STEAM_0:1:63382511): !jail @ 120
+Tue Jul 16 22:01:58 2019	BexGasm (STEAM_0:1:63382511): !jail @ 120
+Tue Jul 16 22:02:02 2019	BexGasm (STEAM_0:1:63382511): !unjail umi
+Tue Jul 16 22:02:10 2019	BexGasm (STEAM_0:1:63382511): !unjail drop
+Tue Jul 16 22:02:11 2019	Blumbing (STEAM_0:1:152356796): /buyshipment Galil
+Tue Jul 16 22:02:13 2019	Blumbing (STEAM_0:1:152356796): /buyshipment Glock 20
+Tue Jul 16 22:02:15 2019	Blumbing (STEAM_0:1:152356796): /buyshipment M4A1
+Tue Jul 16 22:02:17 2019	Blumbing (STEAM_0:1:152356796): /buyshipment Remington 870
+Tue Jul 16 22:02:19 2019	Blumbing (STEAM_0:1:152356796): /buyshipment Uzi
+Tue Jul 16 22:02:44 2019	BexGasm (STEAM_0:1:63382511): 
+Tue Jul 16 22:03:14 2019	William (STEAM_0:0:52504530): LMAO
+Tue Jul 16 22:03:16 2019	William (STEAM_0:0:52504530): DID U HEAR THAT
+Tue Jul 16 22:03:20 2019	Hitman jtroll1942 accepted a hit on Blumbing, ordered by Dio On Duty for $1,000
+Tue Jul 16 22:03:23 2019	BexGasm (STEAM_0:1:63382511): /pm will
+Tue Jul 16 22:03:25 2019	William (STEAM_0:0:52504530): his mic 
+Tue Jul 16 22:03:27 2019	William (STEAM_0:0:52504530): its just screaming
+Tue Jul 16 22:03:29 2019	BexGasm (STEAM_0:1:63382511): /pm will Why is dio god
+Tue Jul 16 22:03:34 2019	BexGasm (STEAM_0:1:63382511): 
+Tue Jul 16 22:03:36 2019	Hitman jtroll1942 finished a hit on Blumbing, ordered by Dio On Duty for $1,000
+Tue Jul 16 22:03:36 2019	Blumbing was killed by jtroll1942 with a fas2_m4a1
+Tue Jul 16 22:03:42 2019	Blumbing (STEAM_0:1:152356796) spawned
+Tue Jul 16 22:03:43 2019	BexGasm (STEAM_0:1:63382511): 
+Tue Jul 16 22:03:48 2019	(͠≖ ͜ʖ͠≖) (DC) was killed by jtroll1942 with a fas2_m4a1
+Tue Jul 16 22:03:53 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662) spawned
+Tue Jul 16 22:04:01 2019	William (STEAM_0:0:52504530): his rank is dio but he inherits admin
+Tue Jul 16 22:04:19 2019	Hitman jtroll1942 accepted a hit on Dropp, ordered by (͠≖ ͜ʖ͠≖) (DC) for $1,000
+Tue Jul 16 22:04:19 2019	William (STEAM_0:0:52504530): why
+Tue Jul 16 22:04:24 2019	William (STEAM_0:0:52504530): have u not seen his job
+Tue Jul 16 22:04:25 2019	Hitman jtroll1942 finished a hit on Dropp, ordered by (͠≖ ͜ʖ͠≖) (DC) for $1,000
+Tue Jul 16 22:04:25 2019	Dropp was killed by jtroll1942 with a fas2_m4a1
+Tue Jul 16 22:04:29 2019	Dropp (STEAM_0:1:188160468) disconnected
+Tue Jul 16 22:04:31 2019	William (STEAM_0:0:52504530): Dio On Duty
+Tue Jul 16 22:04:59 2019	William (STEAM_0:0:52504530): i told him that if he wants to use his powers he has to be on duty
+Tue Jul 16 22:05:13 2019	Blumbing (STEAM_0:1:152356796): cheese
+Tue Jul 16 22:05:14 2019	Blumbing (STEAM_0:1:152356796): cheese
+Tue Jul 16 22:05:15 2019	Blumbing (STEAM_0:1:152356796): cheese
+Tue Jul 16 22:05:16 2019	Blumbing (STEAM_0:1:152356796): cheese
+Tue Jul 16 22:05:16 2019	Blumbing (STEAM_0:1:152356796): cheese
+Tue Jul 16 22:05:17 2019	Blumbing (STEAM_0:1:152356796): cheese
+Tue Jul 16 22:05:18 2019	Blumbing (STEAM_0:1:152356796): cheese
+Tue Jul 16 22:05:18 2019	TechnologicalPikachu (STEAM_0:0:169626063) has joined the game
+Tue Jul 16 22:05:18 2019	TechnologicalPikachu (STEAM_0:0:169626063) spawned
+Tue Jul 16 22:05:19 2019	Blumbing (STEAM_0:1:152356796): cheese
+Tue Jul 16 22:05:19 2019	Blumbing (STEAM_0:1:152356796): cheese
+Tue Jul 16 22:05:22 2019	William (STEAM_0:0:52504530): i was gonna do that but i didnt wanna break the f4 menu again
+Tue Jul 16 22:05:23 2019	UG | M A S T E R (STEAM_0:1:180622613): /pm will We can make a mistforums forum, but just use it for donations. 
+Tue Jul 16 22:05:28 2019	Blumbing (STEAM_0:1:152356796): 
+Tue Jul 16 22:05:32 2019	jtroll1942 was killed by Blumbing with a fas2_galil
+Tue Jul 16 22:05:32 2019	William (STEAM_0:0:52504530): well now it does
+Tue Jul 16 22:05:37 2019	jtroll1942 (STEAM_0:1:119864290) spawned
+Tue Jul 16 22:05:45 2019	William (STEAM_0:0:52504530): im just gonna do something real quick and ill restart it
+Tue Jul 16 22:06:03 2019	jtroll1942 was killed by Blumbing with a fas2_galil
+Tue Jul 16 22:06:05 2019	jtroll1942 (STEAM_0:1:119864290) spawned
+Tue Jul 16 22:06:05 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /buyshipment Famas F1
+Tue Jul 16 22:06:06 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /buyshipment Famas F1
+Tue Jul 16 22:06:07 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /buyshipment Galil
+Tue Jul 16 22:06:07 2019	William (STEAM_0:0:52504530): ive been busy every time im trying to do something all i see in chat is "DERP DEPR DERP DEPR REPEPRAEPRERPEARPAERP
+Tue Jul 16 22:06:07 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /buyshipment Galil
+Tue Jul 16 22:06:08 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /buyshipment Galil
+Tue Jul 16 22:06:09 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /buyshipment Galil
+Tue Jul 16 22:06:17 2019	TechnologicalPikachu (STEAM_0:0:169626063) disconnected
+Tue Jul 16 22:06:27 2019	William (STEAM_0:0:52504530): literally everyone im getting PMS from like 5 different people every second
+Tue Jul 16 22:06:42 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /buyshipment Galil
+Tue Jul 16 22:06:43 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /buyshipment Galil
+Tue Jul 16 22:06:44 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /buyshipment Galil
+Tue Jul 16 22:06:45 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /buyshipment Galil
+Tue Jul 16 22:06:46 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /buyshipment Galil
+Tue Jul 16 22:06:53 2019	William (STEAM_0:0:52504530): well obviously not but the point is that at least every 2 minutes i get a PM 
+Tue Jul 16 22:07:16 2019	William (STEAM_0:0:52504530): im trying to make jobs, fix shit, restart the server, add addons and i cant do that when people expect me to be in 5 different
+Tue Jul 16 22:07:19 2019	William (STEAM_0:0:52504530): places at once
+Tue Jul 16 22:07:21 2019	Blumbing (STEAM_0:1:152356796): /buyammo 5.56x45MM
+Tue Jul 16 22:07:25 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /buyammo 5.56x45MM
+Tue Jul 16 22:07:35 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /drop
+Tue Jul 16 22:08:06 2019	William (STEAM_0:0:52504530): ill tell him to chill down with that stuff unless hes just watching like me
+Tue Jul 16 22:08:20 2019	Blumbing (STEAM_0:1:152356796): 
+Tue Jul 16 22:08:23 2019	William (STEAM_0:0:52504530): spectating is kinda buggy
+Tue Jul 16 22:08:23 2019	Dio On Duty (STEAM_0:0:497465680) spawned SENT gmt_instrument_piano
+Tue Jul 16 22:08:29 2019	Blumbing (STEAM_0:1:152356796): 
+Tue Jul 16 22:08:40 2019	William (STEAM_0:0:52504530): u cant see printers properly and sometimes the textures for weed bugs out
+Tue Jul 16 22:08:51 2019	GayThing2 (STEAM_0:1:200146233) has joined the game
+Tue Jul 16 22:08:51 2019	GayThing2 (STEAM_0:1:200146233) spawned
+Tue Jul 16 22:09:08 2019	William (STEAM_0:0:52504530): no its just more comfortable being in ur normal mode when watching people
+Tue Jul 16 22:09:33 2019	William (STEAM_0:0:52504530): well thats on him i always fly into a base and just watch from a corner and give people space
+Tue Jul 16 22:09:50 2019	UG | M A S T E R (STEAM_0:1:180622613) disconnected
+Tue Jul 16 22:10:08 2019	Blumbing (STEAM_0:1:152356796): // dio is bad at the piano
+Tue Jul 16 22:10:10 2019	William (STEAM_0:0:52504530): btw im sure ur aware to a certain extent but ive had at least 3 people tell me i should demote u
+Tue Jul 16 22:10:26 2019	William (STEAM_0:0:52504530): they tell me ur a shit admin and u abuse ur powers
+Tue Jul 16 22:10:34 2019	William (STEAM_0:0:52504530): well idk thats what they tell me
+Tue Jul 16 22:10:46 2019	Hitman jtroll1942 accepted a hit on Dio On Duty, ordered by Blumbing for $1,000
+Tue Jul 16 22:11:04 2019	Hitman jtroll1942 finished a hit on Dio On Duty, ordered by Blumbing for $1,000
+Tue Jul 16 22:11:04 2019	Dio On Duty was killed by jtroll1942 with a fas2_m4a1
+Tue Jul 16 22:11:06 2019	Dio On Duty (STEAM_0:0:497465680) spawned
+Tue Jul 16 22:11:15 2019	William (STEAM_0:0:52504530): most common complaint ive heard is constant physgunning players and tping people 
+Tue Jul 16 22:11:35 2019	(͠≖ ͜ʖ͠≖) (DC) was killed by jtroll1942 with a fas2_m4a1
+Tue Jul 16 22:11:37 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662) spawned
+Tue Jul 16 22:11:51 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): 
+Tue Jul 16 22:11:53 2019	Blumbing (STEAM_0:1:152356796) spawned Vehicle prop_vehicle_jeep (dod_ram_1500tdm)
+Tue Jul 16 22:12:02 2019	William (STEAM_0:0:52504530): i believe u im just giving info on what people say
+Tue Jul 16 22:12:19 2019	Dio On Duty (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_jeep (fer_lafertdm)
+Tue Jul 16 22:12:42 2019	William (STEAM_0:0:52504530): i dont have any problems with how u behave as an admin
+Tue Jul 16 22:13:38 2019	William (STEAM_0:0:52504530): i do however think ur in a poor mood recently because the slightest stuff kind of makes u annoyed
+Tue Jul 16 22:13:53 2019	William (STEAM_0:0:52504530): no not minges
+Tue Jul 16 22:13:54 2019	William (STEAM_0:0:52504530): fuck the minges
+Tue Jul 16 22:14:02 2019	William (STEAM_0:0:52504530): fuck rule breakers ur alright with them
+Tue Jul 16 22:14:18 2019	William (STEAM_0:0:52504530): im talking about like with other staff or with people just messing with u 
+Tue Jul 16 22:14:36 2019	William (STEAM_0:0:52504530): diamond and gold printers
+Tue Jul 16 22:14:49 2019	William (STEAM_0:0:52504530): should i up the price of the gold?
+Tue Jul 16 22:15:04 2019	Blumbing was killed by Entity [0][worldspawn] with a unknown
+Tue Jul 16 22:15:07 2019	Blumbing (STEAM_0:1:152356796) spawned
+Tue Jul 16 22:15:12 2019	Dio On Duty (STEAM_0:0:497465680): !menu
+Tue Jul 16 22:15:26 2019	William (STEAM_0:0:52504530): thats pretty small thats like 40 dollars
+Tue Jul 16 22:15:34 2019	William (STEAM_0:0:52504530): lol
+Tue Jul 16 22:16:21 2019	Blumbing was killed by jtroll1942 with a fas2_m4a1
+Tue Jul 16 22:16:21 2019	jtroll1942 was killed by Entity [0][worldspawn] with a unknown
+Tue Jul 16 22:16:23 2019	Blumbing (STEAM_0:1:152356796) spawned
+Tue Jul 16 22:16:23 2019	jtroll1942 (STEAM_0:1:119864290) spawned
+Tue Jul 16 22:16:27 2019	William (STEAM_0:0:52504530): and thats considering that i nerfed them
+Tue Jul 16 22:16:37 2019	William (STEAM_0:0:52504530): how strong are these printers jesus christ
+Tue Jul 16 22:17:05 2019	William (STEAM_0:0:52504530): ok ill change it 
+Tue Jul 16 22:17:19 2019	William (STEAM_0:0:52504530): this is probably gonna break the F4 menu
+Tue Jul 16 22:17:19 2019	Blumbing (STEAM_0:1:152356796) spawned Vehicle prop_vehicle_jeep (dod_ram_1500tdm)
+Tue Jul 16 22:17:35 2019	William (STEAM_0:0:52504530): ik
+Tue Jul 16 22:17:37 2019	William (STEAM_0:0:52504530): thanks
+Tue Jul 16 22:17:56 2019	William (STEAM_0:0:52504530): i dont think u abuse ur powers at all
+Tue Jul 16 22:17:57 2019	William (STEAM_0:0:52504530): ur very fair
+Tue Jul 16 22:18:05 2019	William (STEAM_0:0:52504530): i just think u need to calm down 
+Tue Jul 16 22:18:07 2019	Blumbing was killed by jtroll1942 with a fas2_m4a1
+Tue Jul 16 22:18:10 2019	Blumbing (STEAM_0:1:152356796) spawned
+Tue Jul 16 22:18:14 2019	William (STEAM_0:0:52504530): regular
+Tue Jul 16 22:18:25 2019	William (STEAM_0:0:52504530): yeah thats fine
+Tue Jul 16 22:18:43 2019	|-NCBA-| MovingName358 (STEAM_0:1:98512065): /drop 250
+Tue Jul 16 22:18:45 2019	GayThing2 (STEAM_0:1:200146233): /buyshipment M4A1
+Tue Jul 16 22:18:45 2019	William (STEAM_0:0:52504530): i just want u to calm down more when other staff do something that could possibly annoy u and that includes me
+Tue Jul 16 22:18:52 2019	|-NCBA-| MovingName358 (STEAM_0:1:98512065): /dropmoney 250
+Tue Jul 16 22:18:53 2019	|-NCBA-| MovingName358 (STEAM_0:1:98512065) has dropped $250
+Tue Jul 16 22:19:02 2019	William (STEAM_0:0:52504530): im not trying to call u a dick
+Tue Jul 16 22:19:09 2019	William (STEAM_0:0:52504530): i hope u understand thats not my intention at all
+Tue Jul 16 22:19:32 2019	William (STEAM_0:0:52504530): cant remember if it was today or yesterday but i shot ur tire with a shotgun and ran away and u sounded pretty pissed
+Tue Jul 16 22:19:49 2019	William (STEAM_0:0:52504530): i get why u find that annoying but its not a big deal i mean we were right outside the car dealers place
+Tue Jul 16 22:20:23 2019	William (STEAM_0:0:52504530): ik im not saying its not annoying or against the rules but just try not to let that stuff get to u too much
+Tue Jul 16 22:20:28 2019	William (STEAM_0:0:52504530): i was just trying to make u laugh
+Tue Jul 16 22:20:29 2019	jtroll1942 (STEAM_0:1:119864290) spawned Vehicle prop_vehicle_jeep (fer_lafertdm)
+Tue Jul 16 22:20:37 2019	jtroll1942 was killed by Vehicle [178][prop_vehicle_jeep] with a env_explosion
+Tue Jul 16 22:20:41 2019	William (STEAM_0:0:52504530): its ok
+Tue Jul 16 22:20:42 2019	jtroll1942 (STEAM_0:1:119864290) spawned
+Tue Jul 16 22:20:49 2019	William (STEAM_0:0:52504530): i dont hold grudges either
+Tue Jul 16 22:21:05 2019	William (STEAM_0:0:52504530): i think thats the most important thing
+Tue Jul 16 22:21:18 2019	William (STEAM_0:0:52504530): i thank u for that
+Tue Jul 16 22:21:35 2019	William (STEAM_0:0:52504530): maybe in the future if we get some donations ill send u some money or something if u want
+Tue Jul 16 22:21:55 2019	ICG | umikorgil (STEAM_0:0:42981469): /dropmoney 2000
+Tue Jul 16 22:21:55 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): 
+Tue Jul 16 22:21:56 2019	ICG | umikorgil (STEAM_0:0:42981469) has dropped $2,000
+Tue Jul 16 22:22:01 2019	William (STEAM_0:0:52504530): fair enough but the offer will always be there
+Tue Jul 16 22:22:21 2019	William (STEAM_0:0:52504530): i can see why u think that
+Tue Jul 16 22:22:31 2019	(͠≖ ͜ʖ͠≖) (DC) was killed by ICG | umikorgil with a fas2_m4a1
+Tue Jul 16 22:22:33 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662) spawned
+Tue Jul 16 22:22:45 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): 
+Tue Jul 16 22:22:46 2019	William (STEAM_0:0:52504530): u know another day a kid asked me if he could pay me so i could give him guns for his job
+Tue Jul 16 22:22:54 2019	William (STEAM_0:0:52504530): i declined that offer straight up
+Tue Jul 16 22:23:00 2019	William (STEAM_0:0:52504530): i gave him a glock for free
+Tue Jul 16 22:23:08 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): 
+Tue Jul 16 22:23:08 2019	William (STEAM_0:0:52504530): yeah it was that bee kid
+Tue Jul 16 22:23:11 2019	William (STEAM_0:0:52504530): he has a new name now
+Tue Jul 16 22:23:17 2019	William (STEAM_0:0:52504530): parrasky
+Tue Jul 16 22:23:19 2019	jtroll1942 was killed by (͠≖ ͜ʖ͠≖) (DC) with a m9k_model627
+Tue Jul 16 22:23:25 2019	jtroll1942 (STEAM_0:1:119864290) spawned
+Tue Jul 16 22:23:30 2019	William (STEAM_0:0:52504530): couldnt believe it when he offered me money for a fucking gun in game
+Tue Jul 16 22:23:45 2019	William (STEAM_0:0:52504530): true but i feel guilty doing that
+Tue Jul 16 22:23:58 2019	William (STEAM_0:0:52504530): because its stuff ive done for free already for dio and bee
+Tue Jul 16 22:24:10 2019	William (STEAM_0:0:52504530): i just do it to make them happy
+Tue Jul 16 22:24:25 2019	William (STEAM_0:0:52504530): im gonna change the printers now so prepare for a game breaking shitfest
+Tue Jul 16 22:24:31 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): 
+Tue Jul 16 22:24:36 2019	William (STEAM_0:0:52504530): ok
+Tue Jul 16 22:24:37 2019	Dirtball3000 (STEAM_0:1:199212656) has joined the game
+Tue Jul 16 22:24:37 2019	Dirtball3000 (STEAM_0:1:199212656) spawned
+Tue Jul 16 22:24:42 2019	William (STEAM_0:0:52504530): healing vape
+Tue Jul 16 22:24:42 2019	Blumbing (STEAM_0:1:152356796): /buyshipment Uzi
+Tue Jul 16 22:24:46 2019	Blumbing (STEAM_0:1:152356796): /buyshipment Uzi
+Tue Jul 16 22:24:49 2019	Blumbing (STEAM_0:1:152356796): /buyshipment Uzi
+Tue Jul 16 22:24:52 2019	William (STEAM_0:0:52504530): there is one already from the vape mod
+Tue Jul 16 22:24:56 2019	William (STEAM_0:0:52504530): a healing vape
+Tue Jul 16 22:25:11 2019	William (STEAM_0:0:52504530): i wont add a vape dealer ill just make it so anyone can buy one
+Tue Jul 16 22:25:23 2019	ICG | umikorgil (STEAM_0:0:42981469): /drop
+Tue Jul 16 22:25:44 2019	William (STEAM_0:0:52504530): i dont know how to make an npc sell things and i can deliver the same result in an easier fashion
+Tue Jul 16 22:25:58 2019	William (STEAM_0:0:52504530): i guess i could do that
+Tue Jul 16 22:26:09 2019	William (STEAM_0:0:52504530): black market vape dealer lmao
+Tue Jul 16 22:26:21 2019	William (STEAM_0:0:52504530): true
+Tue Jul 16 22:26:25 2019	William (STEAM_0:0:52504530): ill add vapes soon
+Tue Jul 16 22:26:28 2019	William (STEAM_0:0:52504530): FUCKING HELL HOW MANY VOTES
+Tue Jul 16 22:26:38 2019	William (STEAM_0:0:52504530): lmao
+Tue Jul 16 22:26:44 2019	William (STEAM_0:0:52504530): ur a robber so it makes sense
+Tue Jul 16 22:26:52 2019	William (STEAM_0:0:52504530): i vote yes just to add spice
+Tue Jul 16 22:26:56 2019	Blumbing (STEAM_0:1:152356796): 
+Tue Jul 16 22:26:59 2019	ICG | umikorgil (STEAM_0:0:42981469): !motd
+Tue Jul 16 22:27:04 2019	Dirtball3000 (STEAM_0:1:199212656): hilo
+Tue Jul 16 22:27:06 2019	|-NCBA-| MovingName358 (STEAM_0:1:98512065): !motd
+Tue Jul 16 22:27:06 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): 
+Tue Jul 16 22:27:09 2019	William (STEAM_0:0:52504530): im surprised the server has higher amount of players at night
+Tue Jul 16 22:27:11 2019	ICG | umikorgil was killed by Blumbing with a fas2_uzi
+Tue Jul 16 22:27:17 2019	ICG | umikorgil (STEAM_0:0:42981469) spawned
+Tue Jul 16 22:27:26 2019	William (STEAM_0:0:52504530): its strange to me considering that most kids are in summer vacation right now
+Tue Jul 16 22:27:42 2019	Blumbing (STEAM_0:1:152356796): 
+Tue Jul 16 22:27:43 2019	GayThing2 was killed by jtroll1942 with a prop_vehicle_jeep
+Tue Jul 16 22:27:44 2019	William (STEAM_0:0:52504530): because they can play any time of the day
+Tue Jul 16 22:27:49 2019	|-NCBA-| MovingName358 (STEAM_0:1:98512065): !laws
+Tue Jul 16 22:27:52 2019	William (STEAM_0:0:52504530): night time is like the worst time to play
+Tue Jul 16 22:27:52 2019	GayThing2 (STEAM_0:1:200146233) spawned
+Tue Jul 16 22:28:02 2019	William (STEAM_0:0:52504530): just kill ur parents
+Tue Jul 16 22:28:12 2019	William (STEAM_0:0:52504530): u know what isnt legal either
+Tue Jul 16 22:28:21 2019	Dirtball3000 (STEAM_0:1:199212656): yees
+Tue Jul 16 22:28:22 2019	GayThing2 was killed by jtroll1942 with a prop_vehicle_jeep
+Tue Jul 16 22:28:22 2019	William (STEAM_0:0:52504530): using addons on a server that we havent paid for 
+Tue Jul 16 22:28:24 2019	William (STEAM_0:0:52504530): lol
+Tue Jul 16 22:28:26 2019	jtroll1942 was killed by Entity [0][worldspawn] with a unknown
+Tue Jul 16 22:28:26 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): 
+Tue Jul 16 22:28:29 2019	jtroll1942 (STEAM_0:1:119864290) spawned
+Tue Jul 16 22:28:33 2019	William (STEAM_0:0:52504530): nobody needs to know
+Tue Jul 16 22:28:36 2019	Dirtball3000 (STEAM_0:1:199212656): kill me puss'
+Tue Jul 16 22:28:38 2019	(͠≖ ͜ʖ͠≖) (DC) was killed by ICG | umikorgil with a fas2_g36c
+Tue Jul 16 22:28:39 2019	GayThing2 (STEAM_0:1:200146233) spawned
+Tue Jul 16 22:28:40 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662) spawned
+Tue Jul 16 22:28:43 2019	William (STEAM_0:0:52504530): UG has like a collection of paid addons
+Tue Jul 16 22:28:47 2019	Dirtball3000 (STEAM_0:1:199212656): my hero
+Tue Jul 16 22:28:50 2019	William (STEAM_0:0:52504530): dude has like 70% of the gmodstore
+Tue Jul 16 22:28:59 2019	|-NCBA-| MovingName358 (STEAM_0:1:98512065): just testing
+Tue Jul 16 22:29:03 2019	William (STEAM_0:0:52504530): btw we are calling off plan overthrow
+Tue Jul 16 22:29:12 2019	jtroll1942 was killed by Entity [0][worldspawn] with a unknown
+Tue Jul 16 22:29:16 2019	jtroll1942 (STEAM_0:1:119864290) spawned
+Tue Jul 16 22:30:02 2019	TechnologicalPikachu (STEAM_0:0:169626063) has joined the game
+Tue Jul 16 22:30:02 2019	TechnologicalPikachu (STEAM_0:0:169626063) spawned
+Tue Jul 16 22:30:03 2019	Blumbing (STEAM_0:1:152356796): 
+Tue Jul 16 22:30:08 2019	Dirtball3000 (STEAM_0:1:199212656): NO
+Tue Jul 16 22:30:10 2019	Dirtball3000 was killed by Blumbing with a fas2_galil
+Tue Jul 16 22:30:13 2019	Dirtball3000 (STEAM_0:1:199212656) spawned
+Tue Jul 16 22:30:20 2019	Hitman jtroll1942 accepted a hit on GayThing2, ordered by Dio On Duty for $1,000
+Tue Jul 16 22:31:00 2019	TechnologicalPikachu (STEAM_0:0:169626063) disconnected
+Tue Jul 16 22:31:05 2019	William (STEAM_0:0:52504530): we have what
+Tue Jul 16 22:31:12 2019	William (STEAM_0:0:52504530): oh
+Tue Jul 16 22:31:19 2019	William (STEAM_0:0:52504530): i forgot
+Tue Jul 16 22:31:24 2019	William (STEAM_0:0:52504530): 
+Tue Jul 16 22:31:24 2019	Dirtball3000 was killed by jtroll1942 with a prop_vehicle_jeep
+Tue Jul 16 22:31:27 2019	Dirtball3000 (STEAM_0:1:199212656): stop time or commit ora
+Tue Jul 16 22:31:28 2019	William (STEAM_0:0:52504530): thats really nice
+Tue Jul 16 22:31:28 2019	Dirtball3000 (STEAM_0:1:199212656) spawned
+Tue Jul 16 22:31:39 2019	Dirtball3000 (STEAM_0:1:199212656): 
+Tue Jul 16 22:31:41 2019	William (STEAM_0:0:52504530): bex i just want to aplogize if ive ever felt like ive let u down in some way
+Tue Jul 16 22:32:00 2019	William (STEAM_0:0:52504530): i havent been feeling too well lately
+Tue Jul 16 22:32:08 2019	William (STEAM_0:0:52504530): so i may act a bit harsh sometimes
+Tue Jul 16 22:32:16 2019	William (STEAM_0:0:52504530): oh god
+Tue Jul 16 22:32:20 2019	William (STEAM_0:0:52504530): report on jtroll
+Tue Jul 16 22:32:25 2019	William (STEAM_0:0:52504530): if u can
+Tue Jul 16 22:32:43 2019	Dirtball3000 (STEAM_0:1:199212656): hello
+Tue Jul 16 22:32:46 2019	Dirtball3000 (STEAM_0:1:199212656): yes
+Tue Jul 16 22:32:55 2019	ICG | umikorgil (STEAM_0:0:42981469) spawned Vehicle prop_vehicle_jeep (chargersrt8poltdm)
+Tue Jul 16 22:33:12 2019	Dirtball3000 (STEAM_0:1:199212656): dio is very scary
+Tue Jul 16 22:33:26 2019	Dirtball3000 (STEAM_0:1:199212656): and i forgive jtroll
+Tue Jul 16 22:33:30 2019	William (STEAM_0:0:52504530): iiiiiiiiiiiiiiiiiiiiiii
+Tue Jul 16 22:33:32 2019	William (STEAM_0:0:52504530): fuck
+Tue Jul 16 22:33:40 2019	William (STEAM_0:0:52504530): im gonna be nerfing printers
+Tue Jul 16 22:33:43 2019	Dirtball3000 (STEAM_0:1:199212656): BECAUSE I THOUGHT HE DID IT ONM PURPOSE
+Tue Jul 16 22:33:52 2019	Dirtball3000 (STEAM_0:1:199212656): wtuoedfyg;zr7 g[w g[90euiorg
+Tue Jul 16 22:33:56 2019	William (STEAM_0:0:52504530): have u seen how much more powerful the golden printer is to the silver one?
+Tue Jul 16 22:33:57 2019	jtroll1942 (STEAM_0:1:119864290): /drop money 100000
+Tue Jul 16 22:34:02 2019	Parrasky (STEAM_0:1:195542352) has joined the game
+Tue Jul 16 22:34:02 2019	Parrasky (STEAM_0:1:195542352) spawned
+Tue Jul 16 22:34:08 2019	Dirtball3000 (STEAM_0:1:199212656): YeEt
+Tue Jul 16 22:34:09 2019	William (STEAM_0:0:52504530): gold printers are the fucking saviors of poverty
+Tue Jul 16 22:34:24 2019	William (STEAM_0:0:52504530): honestly ur better off just getting gold printers and not even investing in a diamond
+Tue Jul 16 22:34:27 2019	William (STEAM_0:0:52504530): no point
+Tue Jul 16 22:34:33 2019	William (STEAM_0:0:52504530): once u get like a mil u can do whatever u want
+Tue Jul 16 22:34:35 2019	jtroll1942 (STEAM_0:1:119864290): um my car is stuck in the air
+Tue Jul 16 22:34:50 2019	William (STEAM_0:0:52504530): god damn it
+Tue Jul 16 22:35:01 2019	William (STEAM_0:0:52504530): why do people have to be on my server everytime i need to restart it
+Tue Jul 16 22:35:03 2019	BexGasm (STEAM_0:1:63382511): !goto blumb
+Tue Jul 16 22:35:11 2019	William (STEAM_0:0:52504530): to nerf the printers
+Tue Jul 16 22:35:24 2019	William (STEAM_0:0:52504530): ill do it in a bit
+Tue Jul 16 22:35:30 2019	William (STEAM_0:0:52504530): yup
+Tue Jul 16 22:35:37 2019	William (STEAM_0:0:52504530): im gonna go afk for a bit
+Tue Jul 16 22:35:41 2019	BexGasm (STEAM_0:1:63382511): 
+Tue Jul 16 22:35:41 2019	William (STEAM_0:0:52504530): cya
+Tue Jul 16 22:35:48 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): 
+Tue Jul 16 22:36:03 2019	jtroll1942 (STEAM_0:1:119864290) spawned Vehicle prop_vehicle_jeep (fer_lafertdm)
+Tue Jul 16 22:36:05 2019	Blumbing was killed by ICG | umikorgil with a fas2_g36c
+Tue Jul 16 22:36:11 2019	BexGasm (STEAM_0:1:63382511): !god BexGasm
+Tue Jul 16 22:36:12 2019	BexGasm (STEAM_0:1:63382511): !god BexGasm
+Tue Jul 16 22:36:15 2019	BexGasm (STEAM_0:1:63382511): !ungod
+Tue Jul 16 22:36:17 2019	Blumbing (STEAM_0:1:152356796): 
+Tue Jul 16 22:36:18 2019	BexGasm was killed by Himself with a suicide trick
+Tue Jul 16 22:36:20 2019	BexGasm (STEAM_0:1:63382511) spawned
+Tue Jul 16 22:36:26 2019	Blumbing (STEAM_0:1:152356796) spawned
+Tue Jul 16 22:36:27 2019	ICG | umikorgil was killed by (͠≖ ͜ʖ͠≖) (DC) with a fas2_famas
+Tue Jul 16 22:36:27 2019	BexGasm (STEAM_0:1:63382511): 
+Tue Jul 16 22:36:33 2019	ICG | umikorgil (STEAM_0:0:42981469) spawned
+Tue Jul 16 22:36:34 2019	(͠≖ ͜ʖ͠≖) (DC) was killed by GayThing2 with a fas2_g36c
+Tue Jul 16 22:36:39 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662) spawned
+Tue Jul 16 22:37:13 2019	BexGasm (STEAM_0:1:63382511): !warn umik RDM
+Tue Jul 16 22:37:15 2019	Dirtball3000 (STEAM_0:1:199212656) disconnected
+Tue Jul 16 22:38:13 2019	BexGasm (STEAM_0:1:63382511) spawned Vehicle prop_vehicle_jeep (dod_ram_1500tdm)
+Tue Jul 16 22:38:15 2019	Hitman jtroll1942 finished a hit on GayThing2, ordered by Dio On Duty for $1,000
+Tue Jul 16 22:38:15 2019	GayThing2 was killed by jtroll1942 with a fas2_p226
+Tue Jul 16 22:38:17 2019	jtroll1942 was killed by ICG | umikorgil with a fas2_g36c
+Tue Jul 16 22:38:19 2019	GayThing2 (STEAM_0:1:200146233) spawned
+Tue Jul 16 22:38:23 2019	jtroll1942 (STEAM_0:1:119864290) spawned
+Tue Jul 16 22:38:35 2019	Dio On Duty (STEAM_0:0:497465680): /rpname Dio
+Tue Jul 16 22:39:04 2019	Parrasky (STEAM_0:1:195542352) disconnected
+Tue Jul 16 22:39:42 2019	|-NCBA-| MovingName358 (STEAM_0:1:98512065) spawned Vehicle prop_vehicle_jeep (mitsuevoxpoltdm)
+Tue Jul 16 22:40:31 2019	William (STEAM_0:0:52504530): 
+Tue Jul 16 22:40:33 2019	BexGasm was killed by ICG | umikorgil with a fas2_g36c
+Tue Jul 16 22:40:36 2019	|-NCBA-| MovingName358 (STEAM_0:1:98512065): oops
+Tue Jul 16 22:40:37 2019	BexGasm (STEAM_0:1:63382511) spawned
+Tue Jul 16 22:40:39 2019	William (STEAM_0:0:52504530): 
+Tue Jul 16 22:40:47 2019	William (STEAM_0:0:52504530): 
+Tue Jul 16 22:43:25 2019	Odie (STEAM_0:1:42601839) has joined the game
+Tue Jul 16 22:43:25 2019	Odie (STEAM_0:1:42601839) spawned
+Tue Jul 16 22:43:56 2019	Odie (STEAM_0:1:42601839) disconnected
+Tue Jul 16 22:44:14 2019	jtroll1942 was killed by Entity [0][worldspawn] with a unknown
+Tue Jul 16 22:44:17 2019	jtroll1942 (STEAM_0:1:119864290) spawned
+Tue Jul 16 22:44:21 2019	|-NCBA-| MovingName358 was killed by Entity [0][worldspawn] with a unknown
+Tue Jul 16 22:44:25 2019	|-NCBA-| MovingName358 (STEAM_0:1:98512065) spawned
+Tue Jul 16 22:44:37 2019	William (STEAM_0:0:52504530): /ooc Whoever voted no ur gonna die irl
+Tue Jul 16 22:44:40 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): 
+Tue Jul 16 22:44:42 2019	BexGasm (STEAM_0:1:63382511): 
+Tue Jul 16 22:44:52 2019	Blumbing (STEAM_0:1:152356796): 
+Tue Jul 16 22:45:15 2019	ICG | umikorgil was killed by (͠≖ ͜ʖ͠≖) (DC) with a fas2_famas
+Tue Jul 16 22:45:18 2019	ICG | umikorgil (STEAM_0:0:42981469) spawned
+Tue Jul 16 22:45:23 2019	|-NCBA-| MovingName358 was killed by (͠≖ ͜ʖ͠≖) (DC) with a fas2_famas
+Tue Jul 16 22:45:25 2019	|-NCBA-| MovingName358 (STEAM_0:1:98512065) spawned
+Tue Jul 16 22:45:43 2019	GayThing2 was killed by (͠≖ ͜ʖ͠≖) (DC) with a fas2_famas
+Tue Jul 16 22:45:45 2019	GayThing2 (STEAM_0:1:200146233) spawned
+Tue Jul 16 22:46:31 2019	Target-T4 (STEAM_0:0:243259425) has joined the game
+Tue Jul 16 22:46:31 2019	Target-T4 (STEAM_0:0:243259425) spawned
+Tue Jul 16 22:46:31 2019	RyanJoshuaa_ (STEAM_0:0:137316304) has joined the game
+Tue Jul 16 22:46:31 2019	RyanJoshuaa_ (STEAM_0:0:137316304) spawned
+Tue Jul 16 22:46:52 2019	UG | M A S T E R (STEAM_0:1:180622613) has joined the game
+Tue Jul 16 22:46:52 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Tue Jul 16 22:47:09 2019	Target-T4 (STEAM_0:0:243259425) disconnected
+Tue Jul 16 22:47:28 2019	ICG | umikorgil (STEAM_0:0:42981469) spawned Vehicle prop_vehicle_jeep (chargersrt8poltdm)
+Tue Jul 16 22:48:54 2019	Dio was killed by Entity [0][worldspawn] with a unknown
+Tue Jul 16 22:48:58 2019	RyanJoshuaa_ (STEAM_0:0:137316304): /buyshipment Galil
+Tue Jul 16 22:48:59 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 16 22:49:30 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): 
+Tue Jul 16 22:50:08 2019	GayThing2 was killed by RyanJoshuaa_ with a fas2_galil
+Tue Jul 16 22:50:08 2019	jtroll1942 was killed by RyanJoshuaa_ with a fas2_galil
+Tue Jul 16 22:50:09 2019	ICG | umikorgil was killed by RyanJoshuaa_ with a fas2_galil
+Tue Jul 16 22:50:09 2019	|-NCBA-| MovingName358 was killed by RyanJoshuaa_ with a fas2_galil
+Tue Jul 16 22:50:11 2019	|-NCBA-| MovingName358 (STEAM_0:1:98512065) spawned
+Tue Jul 16 22:50:12 2019	GayThing2 (STEAM_0:1:200146233) spawned
+Tue Jul 16 22:50:13 2019	ICG | umikorgil (STEAM_0:0:42981469) spawned
+Tue Jul 16 22:50:13 2019	jtroll1942 (STEAM_0:1:119864290) spawned
+Tue Jul 16 22:50:16 2019	ICG | umikorgil (STEAM_0:0:42981469): 
+Tue Jul 16 22:50:18 2019	jtroll1942 (STEAM_0:1:119864290): rdm
+Tue Jul 16 22:50:19 2019	Dio was killed by RyanJoshuaa_ with a fas2_galil
+Tue Jul 16 22:50:22 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 16 22:50:22 2019	BexGasm (STEAM_0:1:63382511): /briing ryan
+Tue Jul 16 22:50:26 2019	BexGasm (STEAM_0:1:63382511): !bring ryan
+Tue Jul 16 22:50:29 2019	BexGasm (STEAM_0:1:63382511): !jail @ 120
+Tue Jul 16 22:50:32 2019	BexGasm (STEAM_0:1:63382511): !jail @ 120
+Tue Jul 16 22:50:37 2019	BexGasm (STEAM_0:1:63382511): !unjail umik
+Tue Jul 16 22:51:04 2019	RyanJoshuaa_ (STEAM_0:0:137316304) disconnected
+Tue Jul 16 22:51:12 2019	Blumbing was killed by |-NCBA-| MovingName358 with a fas2_g36c
+Tue Jul 16 22:51:18 2019	|-NCBA-| MovingName358 was killed by (͠≖ ͜ʖ͠≖) (DC) with a m9k_model627
+Tue Jul 16 22:51:19 2019	Blumbing (STEAM_0:1:152356796) spawned
+Tue Jul 16 22:51:20 2019	|-NCBA-| MovingName358 (STEAM_0:1:98512065) spawned
+Tue Jul 16 22:51:34 2019	ICG | umikorgil was killed by Vehicle [178][prop_vehicle_jeep] with a env_explosion
+Tue Jul 16 22:51:39 2019	William (STEAM_0:0:52504530): took care of that dumb kid
+Tue Jul 16 22:51:45 2019	ICG | umikorgil (STEAM_0:0:42981469) spawned
+Tue Jul 16 22:52:06 2019	William (STEAM_0:0:52504530): im a fucking monkey
+Tue Jul 16 22:52:30 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): 
+Tue Jul 16 22:52:36 2019	Hitman jtroll1942 accepted a hit on Dio, ordered by ICG | umikorgil for $1,000
+Tue Jul 16 22:52:44 2019	Hitman jtroll1942 finished a hit on Dio, ordered by ICG | umikorgil for $1,000
+Tue Jul 16 22:52:44 2019	Dio was killed by jtroll1942 with a fas2_p226
+Tue Jul 16 22:52:47 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 16 22:53:17 2019	William (STEAM_0:0:52504530) spawned
+Tue Jul 16 22:53:17 2019	GayThing2 (STEAM_0:1:200146233) spawned
+Tue Jul 16 22:53:22 2019	William (STEAM_0:0:52504530): u have been ronaled
+Tue Jul 16 22:53:23 2019	William was killed by GayThing2 with a fas2_g36c
+Tue Jul 16 22:53:37 2019	William (STEAM_0:0:52504530) spawned
+Tue Jul 16 22:53:53 2019	William (STEAM_0:0:52504530): i am ronald mcdonald 
+Tue Jul 16 22:53:56 2019	William (STEAM_0:0:52504530): a god amongst men
+Tue Jul 16 22:53:57 2019	Blumbing (STEAM_0:1:152356796): 
+Tue Jul 16 22:53:59 2019	BexGasm (STEAM_0:1:63382511): 
+Tue Jul 16 22:54:04 2019	GayThing2 was killed by BexGasm with a fas2_galil
+Tue Jul 16 22:54:05 2019	William (STEAM_0:0:52504530): bow to me or suffer the raping
+Tue Jul 16 22:54:11 2019	|-NCBA-| MovingName358 was killed by Blumbing with a fas2_m4a1
+Tue Jul 16 22:54:18 2019	|-NCBA-| MovingName358 (STEAM_0:1:98512065) spawned
+Tue Jul 16 22:54:18 2019	GayThing2 (STEAM_0:1:200146233) spawned
+Tue Jul 16 22:54:21 2019	jtroll1942 was killed by Entity [0][worldspawn] with a unknown
+Tue Jul 16 22:54:23 2019	ICG | umikorgil was killed by Blumbing with a fas2_m4a1
+Tue Jul 16 22:54:24 2019	jtroll1942 (STEAM_0:1:119864290) spawned
+Tue Jul 16 22:54:25 2019	ICG | umikorgil (STEAM_0:0:42981469) spawned
+Tue Jul 16 22:54:36 2019	William (STEAM_0:0:52504530): lol
+Tue Jul 16 22:55:48 2019	Blumbing (STEAM_0:1:152356796): 
+Tue Jul 16 22:55:53 2019	jtroll1942 was killed by BexGasm with a fas2_galil
+Tue Jul 16 22:55:57 2019	jtroll1942 (STEAM_0:1:119864290) spawned
+Tue Jul 16 22:56:31 2019	jtroll1942 (STEAM_0:1:119864290): what happen to my car
+Tue Jul 16 22:57:11 2019	ICG | umikorgil (STEAM_0:0:42981469) disconnected
+Tue Jul 16 22:57:29 2019	BexGasm (STEAM_0:1:63382511): 
+Tue Jul 16 22:57:32 2019	BexGasm (STEAM_0:1:63382511): 
+Tue Jul 16 22:57:38 2019	William (STEAM_0:0:52504530): no no
+Tue Jul 16 22:57:46 2019	William was killed by GayThing2 with a fas2_glock20
+Tue Jul 16 22:57:54 2019	|-NCBA-| MovingName358 (STEAM_0:1:98512065): u are no fun
+Tue Jul 16 22:57:55 2019	William (STEAM_0:0:52504530) spawned
+Tue Jul 16 22:57:57 2019	Hitman jtroll1942 accepted a hit on GayThing2, ordered by Dio for $1,000
+Tue Jul 16 22:57:59 2019	Hitman jtroll1942 finished a hit on GayThing2, ordered by Dio for $1,000
+Tue Jul 16 22:57:59 2019	GayThing2 was killed by jtroll1942 with a fas2_p226
+Tue Jul 16 22:58:00 2019	|-NCBA-| MovingName358 (STEAM_0:1:98512065): yep
+Tue Jul 16 22:58:05 2019	GayThing2 (STEAM_0:1:200146233) spawned
+Tue Jul 16 22:58:10 2019	William (STEAM_0:0:52504530): im squidward
+Tue Jul 16 22:58:20 2019	|-NCBA-| MovingName358 (STEAM_0:1:98512065): -_-
+Tue Jul 16 22:58:23 2019	William (STEAM_0:0:52504530): do u need something
+Tue Jul 16 22:58:33 2019	William (STEAM_0:0:52504530): what is it
+Tue Jul 16 22:58:37 2019	|-NCBA-| MovingName358 (STEAM_0:1:98512065): your not enforcing anything
+Tue Jul 16 22:58:56 2019	|-NCBA-| MovingName358 (STEAM_0:1:98512065): i got rdm by the theifs
+Tue Jul 16 22:59:04 2019	BexGasm (STEAM_0:1:63382511): !jail @ 120
+Tue Jul 16 22:59:08 2019	jtroll1942 (STEAM_0:1:119864290) spawned Vehicle prop_vehicle_jeep (fer_lafertdm)
+Tue Jul 16 22:59:09 2019	|-NCBA-| MovingName358 (STEAM_0:1:98512065): ltap
+Tue Jul 16 22:59:12 2019	|-NCBA-| MovingName358 (STEAM_0:1:98512065) disconnected
+Tue Jul 16 22:59:19 2019	William (STEAM_0:0:52504530): oh sorry
+Tue Jul 16 22:59:21 2019	William (STEAM_0:0:52504530): !return
+Tue Jul 16 22:59:26 2019	William (STEAM_0:0:52504530): !reutnr bex
+Tue Jul 16 22:59:28 2019	William (STEAM_0:0:52504530): FUCK
+Tue Jul 16 22:59:37 2019	BexGasm (STEAM_0:1:63382511): !menu
+Tue Jul 16 22:59:40 2019	William (STEAM_0:0:52504530): i dont speak vietnamese
+Tue Jul 16 22:59:48 2019	William (STEAM_0:0:52504530): thats racist
+Tue Jul 16 23:00:07 2019	BexGasm (STEAM_0:1:63382511): !menu
+Tue Jul 16 23:00:20 2019	William (STEAM_0:0:52504530): what
+Tue Jul 16 23:00:22 2019	BexGasm (STEAM_0:1:63382511): !menu
+Tue Jul 16 23:00:34 2019	William (STEAM_0:0:52504530): im gonna add a vape dealer job
+Tue Jul 16 23:00:39 2019	William (STEAM_0:0:52504530): with a healing vape too
+Tue Jul 16 23:00:42 2019	William (STEAM_0:0:52504530): so people can heal
+Tue Jul 16 23:00:56 2019	William (STEAM_0:0:52504530): sorry about that
+Tue Jul 16 23:01:05 2019	William (STEAM_0:0:52504530): i brought u because i needed to talk to u about dio
+Tue Jul 16 23:01:29 2019	William (STEAM_0:0:52504530): he told me that u told him that he was minging because he was lowering a vehicle that someone had raised
+Tue Jul 16 23:02:17 2019	William (STEAM_0:0:52504530): it was several people
+Tue Jul 16 23:02:23 2019	William (STEAM_0:0:52504530): i even joined in
+Tue Jul 16 23:02:36 2019	William (STEAM_0:0:52504530): should i disable car damage against players?
+Tue Jul 16 23:02:46 2019	William (STEAM_0:0:52504530): ik 
+Tue Jul 16 23:02:55 2019	William (STEAM_0:0:52504530): i was just messing around with the car it was funny
+Tue Jul 16 23:03:23 2019	GayThing2 was killed by Himself with a suicide trick
+Tue Jul 16 23:03:23 2019	BexGasm (STEAM_0:1:63382511): !slay gay 0
+Tue Jul 16 23:03:26 2019	William (STEAM_0:0:52504530): ok if it works properly u shouldnt be able to take damage from vehicles now
+Tue Jul 16 23:03:30 2019	GayThing2 (STEAM_0:1:200146233) spawned
+Tue Jul 16 23:03:57 2019	William (STEAM_0:0:52504530): well at that point u might as well ban them
+Tue Jul 16 23:04:03 2019	William (STEAM_0:0:52504530): these people know what they are doing
+Tue Jul 16 23:04:26 2019	William (STEAM_0:0:52504530): its better to have a low population server with nice rule abiding people than a large pop filled with assholes
+Tue Jul 16 23:04:41 2019	William (STEAM_0:0:52504530): thats why i dont care about banning people
+Tue Jul 16 23:04:47 2019	William (STEAM_0:0:52504530): people dont learn
+Tue Jul 16 23:04:59 2019	Hitman jtroll1942 accepted a hit on GayThing2, ordered by Blumbing for $1,000
+Tue Jul 16 23:05:11 2019	William (STEAM_0:0:52504530): yeah nah thats not true thats an excuse
+Tue Jul 16 23:05:22 2019	William (STEAM_0:0:52504530): u cant be that retarded and even if u are i dont like retards 
+Tue Jul 16 23:05:36 2019	William (STEAM_0:0:52504530): far
+Tue Jul 16 23:05:38 2019	William (STEAM_0:0:52504530): darkrp is at the top
+Tue Jul 16 23:05:52 2019	William (STEAM_0:0:52504530): and even then our server name has nothing about military or purge or anything like that
+Tue Jul 16 23:06:17 2019	William (STEAM_0:0:52504530): i mean for fucks sake we have squidward and ronald mcdonald and monkey man how do u think this is militaryrp
+Tue Jul 16 23:06:29 2019	William (STEAM_0:0:52504530): lol
+Tue Jul 16 23:06:45 2019	William (STEAM_0:0:52504530): im gonna be honest i added those classes because i ran out of ideas for jobs
+Tue Jul 16 23:06:47 2019	William (STEAM_0:0:52504530): but im glad i did
+Tue Jul 16 23:07:01 2019	William (STEAM_0:0:52504530): im gonna add more jobs obviously
+Tue Jul 16 23:07:05 2019	William (STEAM_0:0:52504530): but i wanna take stuff one at a time
+Tue Jul 16 23:07:19 2019	William (STEAM_0:0:52504530): people seem to love the swat job
+Tue Jul 16 23:07:33 2019	Hitman jtroll1942 finished a hit on GayThing2, ordered by Blumbing for $1,000
+Tue Jul 16 23:07:33 2019	GayThing2 was killed by jtroll1942 with a fas2_m4a1
+Tue Jul 16 23:07:43 2019	Hitman jtroll1942 accepted a hit on BexGasm, ordered by (͠≖ ͜ʖ͠≖) (DC) for $1,000
+Tue Jul 16 23:08:01 2019	William (STEAM_0:0:52504530): no
+Tue Jul 16 23:08:08 2019	William (STEAM_0:0:52504530): a bank what
+Tue Jul 16 23:08:13 2019	GayThing2 (STEAM_0:1:200146233) spawned
+Tue Jul 16 23:08:15 2019	William (STEAM_0:0:52504530): everyone shut the fuck up i cant hear bex
+Tue Jul 16 23:08:56 2019	Hit on BexGasm failed. Reason: The hitman died!
+Tue Jul 16 23:08:56 2019	jtroll1942 was killed by (͠≖ ͜ʖ͠≖) (DC) with a fas2_famas
+Tue Jul 16 23:08:59 2019	jtroll1942 (STEAM_0:1:119864290) spawned
+Tue Jul 16 23:09:15 2019	BexGasm (STEAM_0:1:63382511): 
+Tue Jul 16 23:09:20 2019	GayThing2 was killed by Blumbing with a fas2_m4a1
+Tue Jul 16 23:09:22 2019	GayThing2 (STEAM_0:1:200146233) spawned
+Tue Jul 16 23:10:05 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Tue Jul 16 23:10:28 2019	UG | M A S T E R (STEAM_0:1:180622613): hi
+Tue Jul 16 23:10:31 2019	William (STEAM_0:0:52504530): yo
+Tue Jul 16 23:10:58 2019	Blumbing (STEAM_0:1:152356796): !fourm
+Tue Jul 16 23:11:08 2019	UG | M A S T E R (STEAM_0:1:180622613): So, the server will need to restart for the site to be able to. Actually give the people what they purchased on the site.
+Tue Jul 16 23:11:09 2019	Blumbing (STEAM_0:1:152356796): !motd
+Tue Jul 16 23:11:09 2019	Dio (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_jeep (fer_lafertdm)
+Tue Jul 16 23:11:15 2019	William (STEAM_0:0:52504530): thats fine
+Tue Jul 16 23:11:18 2019	William (STEAM_0:0:52504530): let me just do something
+Tue Jul 16 23:11:20 2019	William (STEAM_0:0:52504530): before the restart
+Tue Jul 16 23:11:24 2019	UG | M A S T E R (STEAM_0:1:180622613): K.
+Tue Jul 16 23:11:34 2019	Blumbing (STEAM_0:1:152356796): 
+Tue Jul 16 23:11:40 2019	Blumbing (STEAM_0:1:152356796): !motd
+Tue Jul 16 23:12:31 2019	Dio was killed by Himself with a suicide trick
+Tue Jul 16 23:12:34 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 16 23:12:39 2019	Dio was killed by Himself with a suicide trick
+Tue Jul 16 23:12:42 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 16 23:12:48 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /buyammo 5.56x45MM
+Tue Jul 16 23:12:50 2019	Dio was killed by Himself with a suicide trick
+Tue Jul 16 23:12:53 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 16 23:12:55 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /buyammo 5.56x45MM
+Tue Jul 16 23:12:55 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /buyammo 5.56x45MM
+Tue Jul 16 23:12:56 2019	(͠≖ ͜ʖ͠≖) (DC) (STEAM_0:1:95023662): /buyammo 5.56x45MM
+Tue Jul 16 23:17:24 2019	Dio was killed by jtroll1942 with a fas2_m4a1
+Tue Jul 16 23:17:26 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 16 23:17:27 2019	jtroll1942 was killed by GayThing2 with a fas2_rk95
+Tue Jul 16 23:17:30 2019	jtroll1942 (STEAM_0:1:119864290) spawned
+Tue Jul 16 23:18:46 2019	BexGasm (STEAM_0:1:63382511): 
+Tue Jul 16 23:18:58 2019	William (STEAM_0:0:52504530): WHAT THE FUCK
+Tue Jul 16 23:19:49 2019	William (STEAM_0:0:52504530): what the arrest stick?
+Tue Jul 16 23:19:53 2019	William (STEAM_0:0:52504530): who
+Tue Jul 16 23:19:59 2019	William (STEAM_0:0:52504530): ye
+Tue Jul 16 23:20:01 2019	Blumbing (STEAM_0:1:152356796): 
+Tue Jul 16 23:20:02 2019	jtroll1942 (STEAM_0:1:119864290) spawned
+Tue Jul 16 23:20:02 2019	Dio (STEAM_0:0:497465680) arrested jtroll1942
+Tue Jul 16 23:20:10 2019	BexGasm (STEAM_0:1:63382511): 
+Tue Jul 16 23:20:11 2019	Blumbing (STEAM_0:1:152356796): 
+Tue Jul 16 23:20:16 2019	GayThing2 was killed by BexGasm with a fas2_galil
+Tue Jul 16 23:20:20 2019	Dio (STEAM_0:0:497465680) unarrested jtroll1942
+Tue Jul 16 23:20:21 2019	GayThing2 (STEAM_0:1:200146233) spawned
+Tue Jul 16 23:20:33 2019	William (STEAM_0:0:52504530): did u just call me a goober
+Tue Jul 16 23:20:36 2019	William (STEAM_0:0:52504530): thats it 
+Tue Jul 16 23:20:38 2019	William (STEAM_0:0:52504530): permabanned
+Tue Jul 16 23:20:41 2019	William (STEAM_0:0:52504530): ddosed
+Tue Jul 16 23:20:44 2019	William (STEAM_0:0:52504530): family murdered
+Tue Jul 16 23:20:45 2019	Dio (STEAM_0:0:497465680): /buyshipment Remington 870
+Tue Jul 16 23:20:47 2019	William (STEAM_0:0:52504530): motherboard fried
+Tue Jul 16 23:20:51 2019	William (STEAM_0:0:52504530): lol
+Tue Jul 16 23:20:59 2019	William (STEAM_0:0:52504530): thats more important to me
+Tue Jul 16 23:21:04 2019	William (STEAM_0:0:52504530): idgaf if my mom dies tf
+Tue Jul 16 23:21:12 2019	William (STEAM_0:0:52504530): how am i supposed to play gmod without my computer
+Tue Jul 16 23:21:14 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 16 23:21:14 2019	GayThing2 (STEAM_0:1:200146233) arrested Dio
+Tue Jul 16 23:21:16 2019	UG | M A S T E R (STEAM_0:1:180622613) disconnected
+Tue Jul 16 23:21:27 2019	GayThing2 was killed by jtroll1942 with a fas2_rem870
+Tue Jul 16 23:21:35 2019	GayThing2 (STEAM_0:1:200146233) spawned
+Tue Jul 16 23:21:42 2019	William (STEAM_0:0:52504530): /unarrest dio
+Tue Jul 16 23:21:42 2019	William (STEAM_0:0:52504530) force-unarrested Dio
+Tue Jul 16 23:21:45 2019	BexGasm (STEAM_0:1:63382511): 
+Tue Jul 16 23:21:48 2019	William was killed by jtroll1942 with a fas2_rem870
+Tue Jul 16 23:21:50 2019	jtroll1942 was killed by BexGasm with a fas2_galil
+Tue Jul 16 23:21:58 2019	jtroll1942 (STEAM_0:1:119864290) spawned
+Tue Jul 16 23:22:12 2019	Blumbing (STEAM_0:1:152356796): 
+Tue Jul 16 23:22:17 2019	BexGasm was killed by GayThing2 with a fas2_g36c
+Tue Jul 16 23:22:18 2019	GayThing2 was killed by Blumbing with a fas2_m4a1
+Tue Jul 16 23:22:19 2019	Hitman jtroll1942 accepted a hit on BexGasm, ordered by Dio for $1,000
+Tue Jul 16 23:22:20 2019	BexGasm (STEAM_0:1:63382511) spawned
+Tue Jul 16 23:22:27 2019	GayThing2 (STEAM_0:1:200146233) spawned
+Tue Jul 16 23:22:28 2019	William (STEAM_0:0:52504530) spawned
+Tue Jul 16 23:22:35 2019	Parrasky (STEAM_0:1:195542352) has joined the game
+Tue Jul 16 23:22:35 2019	Parrasky (STEAM_0:1:195542352) spawned
+Tue Jul 16 23:22:42 2019	UG | M A S T E R (STEAM_0:1:180622613) has joined the game
+Tue Jul 16 23:22:42 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Tue Jul 16 23:23:22 2019	UG | M A S T E R (STEAM_0:1:180622613): hi
+Tue Jul 16 23:23:23 2019	William (STEAM_0:0:52504530) spawned
+Tue Jul 16 23:23:25 2019	William (STEAM_0:0:52504530): hi
+Tue Jul 16 23:23:25 2019	Hit on BexGasm failed. Reason: The hitman died!
+Tue Jul 16 23:23:25 2019	jtroll1942 was killed by Blumbing with a fas2_m4a1
+Tue Jul 16 23:23:27 2019	UG | M A S T E R (STEAM_0:1:180622613): hi
+Tue Jul 16 23:23:29 2019	jtroll1942 (STEAM_0:1:119864290) spawned
+Tue Jul 16 23:23:34 2019	Blumbing (STEAM_0:1:152356796): /buyammo 5.56x45MM
+Tue Jul 16 23:23:38 2019	Hitman jtroll1942 accepted a hit on GayThing2, ordered by UG | M A S T E R for $1,000
+Tue Jul 16 23:24:02 2019	William (STEAM_0:0:52504530): 
+Tue Jul 16 23:24:06 2019	BexGasm (STEAM_0:1:63382511): /drop
+Tue Jul 16 23:24:09 2019	Hitman jtroll1942 finished a hit on GayThing2, ordered by UG | M A S T E R for $1,000
+Tue Jul 16 23:24:09 2019	GayThing2 was killed by jtroll1942 with a fas2_rem870

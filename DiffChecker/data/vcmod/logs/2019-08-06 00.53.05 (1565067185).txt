@@ -1,0 +1,28 @@
+2019-08-06 00.53.05: <General> Logging started, map: rp_downtown_tits_v2.
+2019-08-06 00.53.05: <General> Welcome to VCMod Auto-Updater version 9.61.
+2019-08-06 00.53.05: <General> Pre-initialization complete, preparing to load addon data.
+2019-08-06 00.53.05: <General> Addons found: VCMod ELS, VCMod Main.
+2019-08-06 00.53.34: <General> Preparations started. Server needs to have atleast one player on it for preparations to continue.
+2019-08-06 00.53.39: <General> Preparations are complete, handshaking API.
+2019-08-06 00.53.41: <General> Handshake successful.
+2019-08-06 00.53.41: <General> Handshake finished.
+2019-08-06 00.53.42: <General> Contacting preload API.
+2019-08-06 00.53.43: <General> Initializing preload.
+2019-08-06 00.53.43: <General> Preload finished. Initializing addons.
+2019-08-06 00.53.43: <General> Started loading serverside.
+2019-08-06 00.53.43: <General> Loaded Main v1.737 serverside.
+2019-08-06 00.53.43: <General> Loaded ELS v1.1426 serverside.
+2019-08-06 00.53.43: <General> Finished loading serverside.
+2019-08-06 00.53.43: <General> Vehicle data "Airboat" loaded.
+2019-08-06 00.53.44: <General> All repair man NPC's have been placed on the map.
+2019-08-06 00.53.44: <Repair man> all Repair men have been placed on the map.
+2019-08-06 00.53.49: <General> Scanning for potentially incompatible hooks.
+2019-08-06 00.53.49: <General> No incompatibilities found.
+2019-08-06 00.53.49: <General> General vehicle data is up to date.
+2019-08-06 00.53.49: <Fuel> All fuel stations have been respawned.
+2019-08-06 00.54.25: <General> Player William has loaded and is waiting for a temp-key.
+2019-08-06 00.54.25: <General> Sent API key to player William. 99 keys left.
+2019-08-06 00.54.25: <General> Initializing player William.
+2019-08-06 00.55.02: <General> Player DrDerpenstein has loaded and is waiting for a temp-key.
+2019-08-06 00.55.03: <General> Sent API key to player DrDerpenstein. 98 keys left.
+2019-08-06 00.55.03: <General> Initializing player DrDerpenstein.

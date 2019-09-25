@@ -1,0 +1,497 @@
+{
+	"Vehicles": {
+		"models/tdmcars/hon_civic97.mdl$$$_VC_$$$Honda Civic Type R 97$$$_VC_$$$0": {
+			"Color": {
+				"r": 0.0,
+				"b": 0.0,
+				"a": 255.0,
+				"g": 0.0
+			},
+			"Skin": 2.0,
+			"BGroups": {
+				"2": 0.0,
+				"3": 0.0,
+				"5": 3.0,
+				"6": 1.0,
+				"7": 1.0,
+				"8": 1.0,
+				"9": 1.0
+			}
+		},
+		"models/tdmcars/morg_aeross.mdl$$$_VC_$$$Morgan Aero SS$$$_VC_$$$0": {
+			"Color": {
+				"r": 4.0,
+				"b": 119.0,
+				"a": 255.0,
+				"g": 4.0
+			},
+			"Skin": 2.0
+		},
+		"models/tdmcars/ford_transit.mdl$$$_VC_$$$Ford Transit$$$_VC_$$$0": {
+			"Color": {
+				"r": 255.0,
+				"b": 255.0,
+				"a": 255.0,
+				"g": 255.0
+			},
+			"Skin": 2.0,
+			"BGroups": {
+				"2": 0.0,
+				"3": 0.0,
+				"4": 0.0,
+				"5": 0.0,
+				"6": 0.0
+			}
+		},
+		"models/tdmcars/del_dmc.mdl$$$_VC_$$$Delorean DMC-12$$$_VC_$$$0": {
+			"Skin": 2.0,
+			"Color": {
+				"r": 48.0,
+				"b": 48.0,
+				"a": 255.0,
+				"g": 48.0
+			},
+			"Health": 100.0,
+			"Fuel": 99.0,
+			"BGroups": [
+				0.0,
+				0.0
+			]
+		},
+		"models/tdmcars/golfvr6_mk3.mdl$$$_VC_$$$Volkswagen Golf VR6 GTi$$$_VC_$$$0": [],
+		"models/tdmcars/lex_is300.mdl$$$_VC_$$$Lexus IS 300$$$_VC_$$$0": [],
+		"models/tdmcars/minicooper_offroad.mdl$$$_VC_$$$Miri Coorer 4x4$$$_VC_$$$0": {
+			"Color": {
+				"r": 91.0,
+				"b": 56.0,
+				"a": 255.0,
+				"g": 78.0
+			},
+			"Skin": 13.0
+		},
+		"models/tdmcars/emergency/chargersrt8.mdl$$$_VC_$$$Dodge Charger SRT8 Police$$$_VC_$$$1": [],
+		"models/airboat.mdl$$$_VC_$$$Airboat$$$_VC_$$$0": {
+			"Color": {
+				"r": 255.0,
+				"b": 255.0,
+				"a": 255.0,
+				"g": 255.0
+			},
+			"BGroups": [
+				0.0,
+				0.0,
+				1.0
+			]
+		},
+		"models/tdmcars/dod_ram_1500.mdl$$$_VC_$$$Dodge RAM 1500$$$_VC_$$$0": {
+			"Skin": 2.0,
+			"Color": {
+				"r": 0.0,
+				"b": 0.0,
+				"a": 255.0,
+				"g": 0.0
+			},
+			"Health": 98.0357,
+			"Fuel": 99.0,
+			"BGroups": {
+				"4": 0.0,
+				"5": 0.0,
+				"6": 0.0,
+				"7": 1.0,
+				"9": 0.0
+			}
+		},
+		"models/tdmcars/mitsu_evox.mdl$$$_VC_$$$Mitsubishi Lancer Evolution X GSR$$$_VC_$$$0": {
+			"Skin": 2.0,
+			"DamagedObjects": {
+				"light": {
+					"1": [],
+					"2": [],
+					"3": [],
+					"4": [],
+					"5": [],
+					"7": [],
+					"8": [],
+					"9": [],
+					"10": [],
+					"11": [],
+					"12": [],
+					"13": [],
+					"15": [],
+					"16": [],
+					"17": [],
+					"18": [],
+					"19": []
+				},
+				"wheel": [
+					[],
+					[],
+					[],
+					[]
+				]
+			},
+			"Color": {
+				"r": 255.0,
+				"b": 255.0,
+				"a": 255.0,
+				"g": 255.0
+			},
+			"Health": 100.0,
+			"Fuel": 78.0,
+			"BGroups": {
+				"3": 1.0,
+				"4": 1.0,
+				"5": 1.0,
+				"6": 1.0,
+				"7": 1.0
+			}
+		},
+		"models/tdmcars/mini_coupe.mdl$$$_VC_$$$Mini Cooper Coupe$$$_VC_$$$0": {
+			"Color": {
+				"r": 132.0,
+				"b": 0.0,
+				"a": 255.0,
+				"g": 0.0
+			},
+			"Skin": 2.0,
+			"BGroups": {
+				"2": 0.0,
+				"3": 0.0,
+				"4": 1.0,
+				"5": 0.0,
+				"6": 0.0,
+				"7": 0.0
+			}
+		},
+		"models/tdmcars/dodgeram.mdl$$$_VC_$$$Dodge RAM SRT10$$$_VC_$$$0": {
+			"Color": {
+				"r": 255.0,
+				"b": 255.0,
+				"a": 255.0,
+				"g": 255.0
+			},
+			"Skin": 2.0,
+			"BGroups": {
+				"2": 0.0,
+				"3": 0.0,
+				"4": 0.0
+			}
+		},
+		"models/tdmcars/lambo_diablo.mdl$$$_VC_$$$Lamborghini Diablo$$$_VC_$$$0": {
+			"Skin": 2.0,
+			"DamagedObjects": {
+				"wheel": {
+					"2": []
+				},
+				"light": {
+					"1": [],
+					"2": [],
+					"3": [],
+					"5": [],
+					"6": [],
+					"7": [],
+					"10": [],
+					"11": [],
+					"12": [],
+					"13": [],
+					"15": [],
+					"16": [],
+					"17": []
+				},
+				"exhaust": {
+					"2": [],
+					"3": [],
+					"4": []
+				}
+			},
+			"Color": {
+				"r": 0.0,
+				"b": 181.0,
+				"a": 255.0,
+				"g": 105.0
+			},
+			"Health": 99.9291,
+			"Fuel": 97.0,
+			"BGroups": {
+				"2": 0.0
+			}
+		},
+		"models/tdmcars/coltralliart.mdl$$$_VC_$$$Mitsubishi Colt Ralliart$$$_VC_$$$0": [],
+		"models/tdmcars/nis_leaf.mdl$$$_VC_$$$Nissan Leaf$$$_VC_$$$0": {
+			"Color": {
+				"r": 8.0,
+				"b": 255.0,
+				"a": 255.0,
+				"g": 0.0
+			},
+			"Skin": 2.0,
+			"BGroups": {
+				"5": 0.0,
+				"4": 0.0
+			}
+		},
+		"models/tdmcars/for_f100.mdl$$$_VC_$$$Ford F100$$$_VC_$$$0": {
+			"Color": {
+				"r": 140.0,
+				"b": 0.0,
+				"a": 255.0,
+				"g": 0.0
+			},
+			"Skin": 2.0
+		},
+		"models/tdmcars/mclaren_mp412cgt3.mdl$$$_VC_$$$McLaren GT MP4-12C GT3$$$_VC_$$$0": {
+			"Skin": 2.0,
+			"Color": {
+				"r": 255.0,
+				"b": 0.0,
+				"a": 255.0,
+				"g": 97.0
+			},
+			"Health": 99.3849,
+			"Fuel": 99.0,
+			"BGroups": {
+				"2": 1.0
+			}
+		},
+		"models/tdmcars/for_she_gt500.mdl$$$_VC_$$$Ford Shelby GT500$$$_VC_$$$0": {
+			"Color": {
+				"r": 255.0,
+				"b": 0.0,
+				"a": 255.0,
+				"g": 123.0
+			},
+			"Skin": 2.0,
+			"BGroups": {
+				"4": 0.0,
+				"5": 0.0,
+				"6": 1.0
+			}
+		},
+		"models/tdmcars/ktm_xbow.mdl$$$_VC_$$$KTM X-BOW$$$_VC_$$$0": {
+			"Skin": 3.0,
+			"DamagedObjects": {
+				"light": {
+					"7": [],
+					"9": []
+				}
+			},
+			"Color": {
+				"r": 209.0,
+				"b": 209.0,
+				"a": 255.0,
+				"g": 209.0
+			},
+			"Health": 100.0,
+			"Fuel": 99.0
+		},
+		"models/tdmcars/pon_fierogt.mdl$$$_VC_$$$Pontiac Fiero GT$$$_VC_$$$0": {
+			"Color": {
+				"r": 255.0,
+				"b": 0.0,
+				"a": 255.0,
+				"g": 0.0
+			}
+		},
+		"models/tdmcars/jee_willys.mdl$$$_VC_$$$Jeep Willys$$$_VC_$$$0": {
+			"Color": {
+				"r": 84.0,
+				"b": 0.0,
+				"a": 255.0,
+				"g": 0.0
+			},
+			"Skin": 2.0
+		},
+		"models/tdmcars/mini_clubman.mdl$$$_VC_$$$Mini Cooper Clubman$$$_VC_$$$0": {
+			"Color": {
+				"r": 0.0,
+				"b": 0.0,
+				"a": 255.0,
+				"g": 0.0
+			},
+			"Skin": 2.0,
+			"BGroups": {
+				"2": 0.0,
+				"3": 0.0,
+				"4": 0.0
+			}
+		},
+		"models/tdmcars/crownvic_taxi.mdl$$$_VC_$$$Ford Crown Victoria Taxi$$$_VC_$$$0": {
+			"Skin": 0.0,
+			"DamagedObjects": {
+				"light": {
+					"1": [],
+					"2": [],
+					"3": [],
+					"8": [],
+					"9": [],
+					"11": [],
+					"12": []
+				},
+				"exhaust": {
+					"2": []
+				}
+			},
+			"Color": {
+				"r": 250.0,
+				"b": 0.0,
+				"a": 255.0,
+				"g": 255.0
+			},
+			"Health": 99.6054,
+			"Fuel": 95.0,
+			"BGroups": [
+				1.0,
+				0.0,
+				0.0
+			]
+		},
+		"models/tdmcars/for_raptor.mdl$$$_VC_$$$Ford Raptor SVT$$$_VC_$$$0": {
+			"Skin": 2.0,
+			"Color": {
+				"r": 0.0,
+				"b": 0.0,
+				"a": 255.0,
+				"g": 0.0
+			},
+			"Health": 100.0,
+			"Fuel": 99.0,
+			"BGroups": {
+				"4": 0.0,
+				"5": 1.0,
+				"6": 0.0,
+				"7": 0.0,
+				"8": 1.0
+			}
+		},
+		"models/tdmcars/fer_lafer.mdl$$$_VC_$$$Ferrari LaFerrari$$$_VC_$$$0": {
+			"Skin": 0.0,
+			"DamagedObjects": {
+				"exhaust": {
+					"3": [],
+					"4": []
+				},
+				"light": {
+					"5": [],
+					"6": [],
+					"7": [],
+					"8": [],
+					"9": [],
+					"10": [],
+					"11": [],
+					"12": [],
+					"13": [],
+					"15": []
+				}
+			},
+			"Color": {
+				"r": 255.0,
+				"b": 0.0,
+				"a": 255.0,
+				"g": 0.0
+			},
+			"Health": 100.0,
+			"Fuel": 98.0,
+			"BGroups": {
+				"6": 1.0,
+				"7": 1.0,
+				"8": 1.0
+			}
+		},
+		"models/tdmcars/tesla_models.mdl$$$_VC_$$$Tesla Model S$$$_VC_$$$0": {
+			"Color": {
+				"r": 0.0,
+				"b": 0.0,
+				"a": 255.0,
+				"g": 0.0
+			},
+			"Skin": 2.0
+		},
+		"models/tdmcars/jeep_wrangler_fnf.mdl$$$_VC_$$$Jeep Wrangler F&F$$$_VC_$$$0": {
+			"Color": {
+				"r": 0.0,
+				"b": 0.0,
+				"a": 255.0,
+				"g": 0.0
+			},
+			"Skin": 2.0,
+			"BGroups": {
+				"5": 1.0,
+				"6": 1.0,
+				"7": 1.0
+			}
+		},
+		"models/tdmcars/vol_850r.mdl$$$_VC_$$$Volvo 850 R$$$_VC_$$$0": {
+			"Color": {
+				"r": 0.0,
+				"b": 255.0,
+				"a": 255.0,
+				"g": 0.0
+			}
+		},
+		"models/tdmcars/courier_truck.mdl$$$_VC_$$$Courier Truck$$$_VC_$$$0": {
+			"Skin": 9.0,
+			"DamagedObjects": {
+				"exhaust": {
+					"2": []
+				}
+			},
+			"Color": {
+				"r": 255.0,
+				"b": 255.0,
+				"a": 255.0,
+				"g": 255.0
+			},
+			"Health": 99.6053,
+			"Fuel": 95.0
+		},
+		"models/tdmcars/toy_fj.mdl$$$_VC_$$$Toyota FJ Cruiser$$$_VC_$$$0": {
+			"Color": {
+				"r": 0.0,
+				"b": 29.0,
+				"a": 255.0,
+				"g": 255.0
+			}
+		},
+		"models/tdmcars/gmcvan.mdl$$$_VC_$$$GMC Vandura$$$_VC_$$$0": {
+			"Color": {
+				"r": 255.0,
+				"b": 255.0,
+				"a": 255.0,
+				"g": 255.0
+			},
+			"Skin": 4.0
+		},
+		"models/tdmcars/hon_crxsir.mdl$$$_VC_$$$Honda CR-X SiR$$$_VC_$$$0": [],
+		"models/tdmcars/dod_challenger70.mdl$$$_VC_$$$Dodge Challenger 1970$$$_VC_$$$0": {
+			"Skin": 7.0,
+			"Color": {
+				"r": 0.0,
+				"b": 255.0,
+				"a": 255.0,
+				"g": 51.0
+			},
+			"Health": 99.8947,
+			"Fuel": 98.0,
+			"BGroups": [
+				0.0
+			]
+		},
+		"models/tdmcars/vw_camper65.mdl$$$_VC_$$$Volkswagen Camper 1965$$$_VC_$$$0": {
+			"Color": {
+				"r": 0.0,
+				"b": 255.0,
+				"a": 255.0,
+				"g": 208.0
+			},
+			"Skin": 3.0,
+			"BGroups": {
+				"4": 3.0,
+				"5": 2.0,
+				"7": 0.0,
+				"8": 0.0,
+				"9": 1.0,
+				"10": 1.0
+			}
+		}
+	}
+}

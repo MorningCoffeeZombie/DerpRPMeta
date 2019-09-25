@@ -1,0 +1,7 @@
+{
+	"Vehicles": {
+		"models/tdmcars/emergency/chargersrt8.mdl$$$_VC_$$$Dodge Charger SRT8 Police$$$_VC_$$$1": {
+			"Spawned": 249.0
+		}
+	}
+}

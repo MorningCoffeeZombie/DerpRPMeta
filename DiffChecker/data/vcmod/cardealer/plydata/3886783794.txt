@@ -1,0 +1,21 @@
+{
+	"Vehicles": {
+		"models/tdmcars/emergency/chargersrt8.mdl$$$_VC_$$$Dodge Charger SRT8 Police$$$_VC_$$$1": {
+			"Health": 93.6898,
+			"Fuel": 99.0,
+			"DamagedObjects": {
+				"light": {
+					"260": [],
+					"261": [],
+					"11": [],
+					"43": [],
+					"10": [],
+					"9": [],
+					"8": [],
+					"17": [],
+					"257": []
+				}
+			}
+		}
+	}
+}

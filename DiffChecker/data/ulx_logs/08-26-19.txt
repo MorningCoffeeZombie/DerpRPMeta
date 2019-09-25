@@ -1,0 +1,30 @@
+<Logging continued from "data/ulx_logs/08-25-19.txt">
+[15:16:17] Client "jonatanrodriguez10" connected.
+[15:34:05] Client "jonatanrodriguez10" spawned in server <STEAM_0:1:443410052> (took 1068 seconds).
+[15:35:54] jonatanrodriguez10<STEAM_0:1:443410052> spawned/gave himself swep weapon_ninjaskunai
+[15:38:00] Dropped "jonatanrodriguez10" from server<STEAM_0:1:443410052>
+[21:46:04] Client "DrDerpenstein sups.gg" connected.
+[21:46:41] Client "DrDerpenstein sups.gg" spawned in server <STEAM_0:0:13562763> (took 37 seconds).
+[21:47:17] Dropped "DrDerpenstein" from server<STEAM_0:0:13562763>
+
+
+
+[21:50:55] New map: rp_downtown_tits_v2
+[21:50:55] Client "DrDerpenstein sups.gg" connected.
+[21:50:55] Client "DrDerpenstein sups.gg" connected.
+[21:50:55] Client "DrDerpenstein sups.gg" connected.
+[21:50:55] Client "DrDerpenstein sups.gg" connected.
+[21:51:34] Client "DrDerpenstein sups.gg" spawned in server <STEAM_0:0:13562763> (took 39 seconds).
+[21:52:38] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_generator
+[21:52:48] DrDerpenstein<STEAM_0:0:13562763> spawned sent bm2_fuel
+[21:53:05] DrDerpenstein<STEAM_0:0:13562763> spawned sent bm2_generator
+[21:53:26] DrDerpenstein<STEAM_0:0:13562763> spawned sent bm2_generator
+[21:54:10] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_jar
+[22:01:02] Dropped "DrDerpenstein" from server<STEAM_0:0:13562763>
+[22:56:38] Client "Derp" connected.
+[22:57:16] Client "Derp" spawned in server <STEAM_0:0:52504530> (took 38 seconds).
+[22:58:18] Dropped "Derp" from server<STEAM_0:0:52504530>
+[22:58:29] Client "DrDerpenstein sups.gg" connected.
+[22:58:57] Client "DrDerpenstein sups.gg" spawned in server <STEAM_0:0:13562763> (took 28 seconds).
+[22:59:48] Dropped "DrDerpenstein" from server<STEAM_0:0:13562763>
+<Logging continued in "data/ulx_logs/08-27-19.txt">

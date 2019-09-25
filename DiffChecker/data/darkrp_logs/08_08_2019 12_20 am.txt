@@ -1,0 +1,14 @@
+Thu Aug  8 00:20:49 2019	Derp (STEAM_0:0:52504530) has joined the game
+Thu Aug  8 00:20:49 2019	William (STEAM_0:0:52504530) spawned
+Thu Aug  8 00:21:00 2019	DrDerpenstein sups.gg (STEAM_0:0:13562763) has joined the game
+Thu Aug  8 00:21:00 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Thu Aug  8 00:21:20 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Thu Aug  8 00:22:20 2019	William (STEAM_0:0:52504530) disconnected
+Thu Aug  8 00:22:23 2019	DrDerpenstein (STEAM_0:0:13562763) disconnected
+Thu Aug  8 00:22:53 2019	Derp (STEAM_0:0:52504530) has joined the game
+Thu Aug  8 00:22:53 2019	William (STEAM_0:0:52504530) spawned
+Thu Aug  8 00:22:56 2019	DrDerpenstein sups.gg (STEAM_0:0:13562763) has joined the game
+Thu Aug  8 00:22:56 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Thu Aug  8 00:23:21 2019	William (STEAM_0:0:52504530): /bmd
+Thu Aug  8 00:23:24 2019	William (STEAM_0:0:52504530): /blackmarket
+Thu Aug  8 00:25:01 2019	DrDerpenstein (STEAM_0:0:13562763) disconnected

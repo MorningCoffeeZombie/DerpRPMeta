@@ -1,0 +1,46 @@
+{
+	"Vehicles": {
+		"models/tdmcars/nis_leaf.mdl$$$_VC_$$$Nissan Leaf$$$_VC_$$$0": {
+			"Health": 99.7693,
+			"Fuel": 99.0,
+			"Spawned": 1582.0
+		},
+		"models/tdmcars/emergency/for_taurus_13.mdl$$$_VC_$$$Ford Taurus 2013$$$_VC_$$$1": [],
+		"models/airboat.mdl$$$_VC_$$$Airboat$$$_VC_$$$0": {
+			"Fuel": 95.0,
+			"Health": 95.7037
+		},
+		"models/tdmcars/hsvw427_pol.mdl$$$_VC_$$$Holden HSV W427 Police$$$_VC_$$$1": [],
+		"models/tdmcars/lam_gallardospyd.mdl$$$_VC_$$$Lamborghini Gallardo LP570-4 Spyder Performante$$$_VC_$$$0": {
+			"Color": {
+				"r": 1.0,
+				"b": 211.0,
+				"a": 255.0,
+				"g": 12.0
+			},
+			"Health": 99.0077,
+			"Fuel": 98.0,
+			"DamagedObjects": {
+				"light": {
+					"11": [],
+					"12": [],
+					"13": [],
+					"14": [],
+					"15": [],
+					"28": [],
+					"29": [],
+					"30": [],
+					"31": [],
+					"32": []
+				},
+				"exhaust": {
+					"4": [],
+					"3": []
+				}
+			}
+		},
+		"models/tdmcars/emergency/chargersrt8.mdl$$$_VC_$$$Dodge Charger SRT8 Police$$$_VC_$$$1": [],
+		"models/tdmcars/emergency/mitsu_evox.mdl$$$_VC_$$$Mitsubishi Evo X Police$$$_VC_$$$0": [],
+		"models/tdmcars/emergency/for_crownvic.mdl$$$_VC_$$$Ford Crown Victoria$$$_VC_$$$0": []
+	}
+}

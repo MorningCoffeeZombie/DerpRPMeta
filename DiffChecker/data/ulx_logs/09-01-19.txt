@@ -1,0 +1,9 @@
+<Logging continued from "data/ulx_logs/08-31-19.txt">
+[00:04:56] Client "AidanFTW" connected.
+[00:09:17] Client "AidanFTW" spawned in server <STEAM_0:0:102264109> (took 261 seconds).
+[00:17:03] Dropped "AidanFTW" from server<STEAM_0:0:102264109>
+[10:38:22] Client "Abigail J. Weinberg" connected.
+[10:41:30] Client "Abigail J. Weinberg" spawned in server <STEAM_0:0:60846721> (took 188 seconds).
+[10:45:18] Dropped "Abigail J. Weinberg" from server<STEAM_0:0:60846721>
+[16:51:02] Client "Turtleluck" connected.
+<Logging continued in "data/ulx_logs/09-02-19.txt">

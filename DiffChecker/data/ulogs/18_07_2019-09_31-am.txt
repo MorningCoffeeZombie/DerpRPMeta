@@ -1,0 +1,73 @@
+18/07/2019 - 09:31:45 AM	Derp(Joining/Connecting) connected from the server
+18/07/2019 - 09:33:47 AM	William(Citizen) entered 'gm_spawnvehicle'
+18/07/2019 - 09:33:55 AM	William(Citizen) entered 'gm_spawnvehicle'
+18/07/2019 - 09:34:09 AM	William(Citizen) entered 'vc_drivebymode_toggle'
+18/07/2019 - 09:35:40 AM	William(Citizen) entered 'gm_spawnvehicle'
+18/07/2019 - 09:35:52 AM	William(Citizen) entered 'gm_giveswep'
+18/07/2019 - 09:36:19 AM	William(Citizen) entered 'gm_giveswep'
+18/07/2019 - 09:36:23 AM	William(Citizen) entered 'gm_giveswep'
+18/07/2019 - 09:41:37 AM	William(Citizen) entered 'gm_spawnvehicle'
+18/07/2019 - 09:42:57 AM	William(Citizen) entered 'gm_spawnvehicle'
+18/07/2019 - 09:43:20 AM	William(Citizen) entered 'vc_drivebymode_toggle'
+18/07/2019 - 09:43:22 AM	iWolfz -ERP-(Joining/Connecting) connected from the server
+18/07/2019 - 09:43:34 AM	William(Citizen) entered 'vc_drivebymode_toggle'
+18/07/2019 - 09:44:23 AM	iWolfz -ERP-(Citizen) disconnected from the server
+18/07/2019 - 09:44:38 AM	William(Citizen) entered 'gm_spawnvehicle'
+18/07/2019 - 09:45:43 AM	William(Citizen) used ULX command ' unban STEAM_0:0:443923189'
+18/07/2019 - 09:48:19 AM	iWolfz -ERP-(Joining/Connecting) connected from the server
+18/07/2019 - 09:48:37 AM	iWolfz -ERP-(Citizen) disconnected from the server
+18/07/2019 - 09:49:45 AM	William(Citizen) used ULX command ' unban STEAM_0:0:443923189'
+18/07/2019 - 09:51:56 AM	iWolfz -ERP-(Joining/Connecting) connected from the server
+18/07/2019 - 09:52:12 AM	iWolfz -ERP-(Citizen) disconnected from the server
+18/07/2019 - 09:53:08 AM	William(Citizen) used ULX command ' unban STEAM_0:0:443923189'
+18/07/2019 - 09:59:56 AM	iWolfz -ERP-(Joining/Connecting) connected from the server
+18/07/2019 - 10:00:19 AM	William(Citizen) said 'there u go'
+18/07/2019 - 10:00:24 AM	William(Citizen) said 'dont ask me why that happened'
+18/07/2019 - 10:00:26 AM	William(Citizen) said 'i have no idea'
+18/07/2019 - 10:00:32 AM	William(Citizen) said 'im guessing u dont have CSS legally?'
+18/07/2019 - 10:00:42 AM	William(Citizen) said 'u dont have it purchased on steam right?'
+18/07/2019 - 10:00:54 AM	iWolfz -ERP-(Citizen) disconnected from the server
+18/07/2019 - 10:05:07 AM	William(Citizen) used ULX command ' unban STEAM_0:0:443923189'
+18/07/2019 - 10:13:14 AM	William(Master Meth Cook) changed his team from 'Citizen' to 'Master Meth Cook'
+18/07/2019 - 10:13:44 AM	William(Master Meth Cook) entered 'gm_spawnsent'
+18/07/2019 - 10:13:55 AM	William(Master Meth Cook) entered 'gm_spawnsent'
+18/07/2019 - 10:13:58 AM	William(Master Meth Cook) entered 'gm_spawnsent'
+18/07/2019 - 10:14:00 AM	William(Master Meth Cook) entered 'gm_spawnsent'
+18/07/2019 - 10:14:09 AM	William(Master Meth Cook) entered 'gm_spawnsent'
+18/07/2019 - 10:14:19 AM	William(Master Meth Cook) entered 'gm_spawnsent'
+18/07/2019 - 10:14:20 AM	William(Master Meth Cook) entered 'gm_spawnsent'
+18/07/2019 - 10:14:21 AM	William(Master Meth Cook) entered 'gm_spawnsent'
+18/07/2019 - 10:14:25 AM	William(Master Meth Cook) entered 'gm_spawnsent'
+18/07/2019 - 10:14:26 AM	William(Master Meth Cook) entered 'gm_spawnsent'
+18/07/2019 - 10:14:31 AM	William(Master Meth Cook) entered 'gm_spawnsent'
+18/07/2019 - 10:14:32 AM	William(Master Meth Cook) entered 'gm_spawnsent'
+18/07/2019 - 10:14:49 AM	William(Master Meth Cook) entered 'gm_spawnsent'
+18/07/2019 - 10:15:03 AM	William(Master Meth Cook) entered 'gm_spawnsent'
+18/07/2019 - 10:15:04 AM	William(Master Meth Cook) entered 'gm_spawnsent'
+18/07/2019 - 10:15:06 AM	William(Master Meth Cook) entered 'gm_spawnsent'
+18/07/2019 - 10:15:07 AM	William(Master Meth Cook) entered 'gm_spawnsent'
+18/07/2019 - 10:15:09 AM	William(Master Meth Cook) entered 'gm_spawnsent'
+18/07/2019 - 10:15:25 AM	William(Master Meth Cook) entered 'gm_spawnsent'
+18/07/2019 - 10:15:30 AM	iWolfz -ERP-(Joining/Connecting) connected from the server
+18/07/2019 - 10:16:41 AM	William(Master Meth Cook) entered 'gm_spawnsent'
+18/07/2019 - 10:16:43 AM	iWolfz -ERP-(Citizen) disconnected from the server
+18/07/2019 - 10:19:06 AM	William(Master Meth Cook) used ULX command ' unban STEAM_0:0:443923189'
+18/07/2019 - 10:19:35 AM	William(Master Meth Cook) used 'permaprops'
+18/07/2019 - 10:19:45 AM	William(Master Meth Cook) used 'permaprops'
+18/07/2019 - 10:20:00 AM	William(Master Meth Cook) used 'permaprops'
+18/07/2019 - 10:22:04 AM	William(Citizen) changed his team from 'Master Meth Cook' to 'Citizen'
+18/07/2019 - 10:24:38 AM	William(Citizen) entered 'gm_spawnsent'
+18/07/2019 - 10:25:41 AM	William(Citizen) entered 'gm_spawnsent'
+18/07/2019 - 10:25:42 AM	William(Citizen) entered 'gm_spawnsent'
+18/07/2019 - 10:27:27 AM	William(Citizen) entered 'gm_spawnsent'
+18/07/2019 - 10:27:38 AM	William(Citizen) entered 'gm_spawnsent'
+18/07/2019 - 10:27:50 AM	William(Citizen) entered 'gm_spawnsent'
+18/07/2019 - 10:28:07 AM	William(Citizen) entered 'gm_spawnsent'
+18/07/2019 - 10:29:19 AM	iWolfz -ERP-(Joining/Connecting) connected from the server
+18/07/2019 - 10:29:36 AM	iWolfz -ERP-(Citizen) disconnected from the server
+18/07/2019 - 10:30:54 AM	William(Citizen) entered '_darkrp_doanimation'
+18/07/2019 - 10:33:43 AM	[HURT] The world hurt William(Citizen) with 57 damage using fall damage
+18/07/2019 - 10:35:37 AM	William(Citizen) entered 'pp_cfg_open'
+18/07/2019 - 10:35:49 AM	William(Citizen) used 'permaprops'
+18/07/2019 - 10:36:12 AM	William(Citizen) used 'permaprops'
+18/07/2019 - 10:36:18 AM	William(Citizen) used 'permaprops'

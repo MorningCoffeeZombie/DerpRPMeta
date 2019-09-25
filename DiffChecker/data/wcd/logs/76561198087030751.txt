@@ -1,0 +1,93 @@
+18:58:01 - 17/09/2019:
+ BOUGHT DESIGN for vehicle '349726', cost: $$128,500.
+
+18:57:12 - 17/09/2019:
+BOUGHT vehicle '287402' for $55,000.
+
+18:57:12 - 17/09/2019:
+BOUGHT vehicle '349726' for $90,000.
+
+18:50:55 - 17/09/2019:
+ BOUGHT DESIGN for vehicle '684469', cost: $$125,000.
+
+18:37:34 - 17/09/2019:
+BOUGHT vehicle '443369' for $15,000.
+
+18:37:32 - 17/09/2019:
+BOUGHT vehicle '921848' for $15,000.
+
+18:37:32 - 17/09/2019:
+BOUGHT vehicle '589712' for $25,000.
+
+18:37:31 - 17/09/2019:
+BOUGHT vehicle '527901' for $25,000.
+
+18:37:31 - 17/09/2019:
+BOUGHT vehicle '740173' for $25,000.
+
+18:37:30 - 17/09/2019:
+BOUGHT vehicle '463900' for $35,000.
+
+18:37:30 - 17/09/2019:
+BOUGHT vehicle '948434' for $35,000.
+
+18:37:30 - 17/09/2019:
+BOUGHT vehicle '315701' for $50,000.
+
+18:37:29 - 17/09/2019:
+BOUGHT vehicle '886665' for $50,000.
+
+21:48:51 - 16/09/2019:
+BOUGHT vehicle '382139' for $95,000.
+
+21:48:50 - 16/09/2019:
+BOUGHT vehicle '837578' for $125,000.
+
+21:48:49 - 16/09/2019:
+BOUGHT vehicle '634488' for $175,000.
+
+21:48:47 - 16/09/2019:
+BOUGHT vehicle '369625' for $7,500,000.
+
+21:01:16 - 16/09/2019:
+ BOUGHT DESIGN for vehicle '787508', cost: $$128,500.
+
+00:18:34 - 16/09/2019:
+BOUGHT vehicle '899126' for $65,000.
+
+21:59:41 - 14/09/2019:
+ BOUGHT DESIGN for vehicle '583479', cost: $$173,500.
+
+21:59:23 - 14/09/2019:
+BOUGHT vehicle '583479' for $100,000.
+
+21:56:18 - 14/09/2019:
+ BOUGHT DESIGN for vehicle '664138', cost: $$163,500.
+
+21:56:04 - 14/09/2019:
+BOUGHT vehicle '664138' for $90,000.
+
+21:50:35 - 14/09/2019:
+ BOUGHT DESIGN for vehicle '517307', cost: $$165,000.
+
+21:50:15 - 14/09/2019:
+BOUGHT vehicle '517307' for $100,000.
+
+21:39:06 - 14/09/2019:
+ BOUGHT DESIGN for vehicle '902978', cost: $$168,500.
+
+21:37:44 - 14/09/2019:
+BOUGHT vehicle '902978' for $15,000.
+
+21:37:22 - 14/09/2019:
+ BOUGHT DESIGN for vehicle '821833', cost: $$35,000.
+
+21:34:44 - 14/09/2019:
+ BOUGHT DESIGN for vehicle '794217', cost: $$178,500.
+
+21:34:04 - 14/09/2019:
+BOUGHT vehicle '794217' for $35,000.
+
+21:28:39 - 14/09/2019:
+BOUGHT vehicle '787508' for $40,000.
+

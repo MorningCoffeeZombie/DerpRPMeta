@@ -1,0 +1,104 @@
+{
+	"Vehicles": {
+		"models/tdmcars/emergency/for_crownvic.mdl$$$_VC_$$$Ford Crown Victoria$$$_VC_$$$0": {
+			"Health": 0.0,
+			"Fuel": 0.0,
+			"DamagedObjects": {
+				"light": {
+					"2": [],
+					"3": [],
+					"5": [],
+					"11": [],
+					"12": [],
+					"13": [],
+					"14": [],
+					"15": [],
+					"20": [],
+					"90": [],
+					"89": [],
+					"81": [],
+					"93": [],
+					"57": []
+				},
+				"exhaust": [
+					[]
+				]
+			}
+		},
+		"models/tdmcars/hsvw427_pol.mdl$$$_VC_$$$Holden HSV W427 Police$$$_VC_$$$1": {
+			"Health": 0.0,
+			"Fuel": 0.0,
+			"DamagedObjects": {
+				"exhaust": {
+					"1": [],
+					"4": []
+				},
+				"light": {
+					"6": [],
+					"8": [],
+					"9": [],
+					"11": [],
+					"13": [],
+					"16": [],
+					"18": [],
+					"20": [],
+					"28": [],
+					"29": []
+				}
+			}
+		},
+		"models/tdmcars/emergency/chargersrt8.mdl$$$_VC_$$$Dodge Charger SRT8 Police$$$_VC_$$$1": {
+			"Health": 0.0,
+			"Fuel": 0.0,
+			"DamagedObjects": {
+				"light": {
+					"1": [],
+					"3": [],
+					"4": [],
+					"9": [],
+					"12": [],
+					"13": [],
+					"14": [],
+					"16": [],
+					"17": [],
+					"31": [],
+					"32": [],
+					"33": [],
+					"34": [],
+					"39": [],
+					"40": [],
+					"41": [],
+					"42": [],
+					"44": [],
+					"45": [],
+					"46": [],
+					"47": [],
+					"48": [],
+					"49": [],
+					"50": [],
+					"260": [],
+					"84": [],
+					"76": [],
+					"83": [],
+					"259": [],
+					"75": [],
+					"232": [],
+					"256": [],
+					"263": [],
+					"74": [],
+					"261": [],
+					"233": [],
+					"258": [],
+					"73": []
+				},
+				"exhaust": {
+					"2": []
+				}
+			}
+		},
+		"models/tdmcars/emergency/mitsu_evox.mdl$$$_VC_$$$Mitsubishi Evo X Police$$$_VC_$$$0": [],
+		"models/tdmcars/emergency/for_taurus_13.mdl$$$_VC_$$$Ford Taurus 2013$$$_VC_$$$1": {
+			"Spawned": 1459.0
+		}
+	}
+}

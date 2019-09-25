@@ -1,0 +1,552 @@
+<Logging continued from "data/ulx_logs/08-18-19.txt">
+[09:40:27] Client "DevL" connected.
+[09:42:42] Client "DevL" spawned in server <STEAM_0:0:97157625> (took 135 seconds).
+[10:10:57] Dropped "DevL" from server<STEAM_0:0:97157625>
+[18:09:27] Client "theresamaston" connected.
+[18:11:09] Client "theresamaston" spawned in server <STEAM_0:1:442389183> (took 102 seconds).
+[18:13:15] CJC<STEAM_0:1:442389183> spawned vehicle models/airboat.mdl
+[18:14:03] CJC<STEAM_0:1:442389183> used the tool textscreen on maps/rp_downtown_tits_v2.bsp
+[18:15:01] CJC<STEAM_0:1:442389183> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[18:15:08] CJC<STEAM_0:1:442389183> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[18:15:08] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube075x3x1.mdl
+[18:15:08] CJC<STEAM_0:1:442389183> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:15:08] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube075x3x1.mdl
+[18:15:08] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube075x3x1.mdl
+[18:15:08] CJC<STEAM_0:1:442389183> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:15:08] CJC<STEAM_0:1:442389183> spawned model models/props_c17/fence01a.mdl
+[18:15:08] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube075x3x1.mdl
+[18:15:17] CJC<STEAM_0:1:442389183> used the tool fading_door on models/props_c17/fence01a.mdl
+[18:15:20] CJC<STEAM_0:1:442389183> used the tool keypad_willox on models/hunter/blocks/cube075x3x1.mdl
+[18:15:21] CJC<STEAM_0:1:442389183> used the tool keypad_willox on models/hunter/blocks/cube075x3x1.mdl
+[18:15:29] CJC<STEAM_0:1:442389183> used the tool material on models/props_building_details/storefront_template001a_bars.mdl
+[18:15:32] CJC<STEAM_0:1:442389183> used the tool material on models/props_building_details/storefront_template001a_bars.mdl
+[18:15:34] CJC<STEAM_0:1:442389183> used the tool material on models/props_c17/fence01a.mdl
+[18:15:45] CJC<STEAM_0:1:442389183> used the tool remover on models/maxofs2d/button_05.mdl
+[18:15:49] CJC<STEAM_0:1:442389183> used the tool remover on models/maxofs2d/button_05.mdl
+[18:15:58] CJC<STEAM_0:1:442389183> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[18:15:58] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube075x3x1.mdl
+[18:15:58] CJC<STEAM_0:1:442389183> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:15:58] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube075x3x1.mdl
+[18:15:58] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube075x3x1.mdl
+[18:15:58] CJC<STEAM_0:1:442389183> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:15:58] CJC<STEAM_0:1:442389183> spawned model models/props_c17/fence01a.mdl
+[18:15:58] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube075x3x1.mdl
+[18:16:05] CJC<STEAM_0:1:442389183> used the tool material on models/props_c17/fence01a.mdl
+[18:16:06] CJC<STEAM_0:1:442389183> used the tool material on models/props_building_details/storefront_template001a_bars.mdl
+[18:16:08] CJC<STEAM_0:1:442389183> used the tool material on models/props_building_details/storefront_template001a_bars.mdl
+[18:16:14] CJC<STEAM_0:1:442389183> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:16:29] CJC<STEAM_0:1:442389183> used the tool material on models/props_building_details/storefront_template001a_bars.mdl
+[18:16:37] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:16:37] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:16:37] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:16:38] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:16:38] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:16:38] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:16:38] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:16:38] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:16:39] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:16:39] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:16:43] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:16:43] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:16:44] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:16:49] CJC<STEAM_0:1:442389183> used the tool nocollide on models/props_building_details/storefront_template001a_bars.mdl
+[18:17:01] CJC<STEAM_0:1:442389183> used the tool nocollide on models/props_building_details/storefront_template001a_bars.mdl
+[18:17:02] CJC<STEAM_0:1:442389183> used the tool nocollide on models/props_building_details/storefront_template001a_bars.mdl
+[18:17:09] CJC<STEAM_0:1:442389183> used the tool nocollide on models/props_building_details/storefront_template001a_bars.mdl
+[18:17:15] CJC<STEAM_0:1:442389183> used the tool nocollide on models/props_building_details/storefront_template001a_bars.mdl
+[18:17:18] CJC<STEAM_0:1:442389183> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:17:26] CJC<STEAM_0:1:442389183> used the tool material on models/props_building_details/storefront_template001a_bars.mdl
+[18:17:35] CJC<STEAM_0:1:442389183> used the tool material on models/props_building_details/storefront_template001a_bars.mdl
+[18:17:39] Client "Bobbicus" connected.
+[18:17:39] CJC<STEAM_0:1:442389183> used the tool nocollide on models/props_building_details/storefront_template001a_bars.mdl
+[18:17:45] CJC<STEAM_0:1:442389183> used the tool nocollide on models/props_building_details/storefront_template001a_bars.mdl
+[18:17:49] CJC<STEAM_0:1:442389183> used the tool nocollide on models/props_building_details/storefront_template001a_bars.mdl
+[18:17:50] CJC<STEAM_0:1:442389183> used the tool nocollide on models/props_building_details/storefront_template001a_bars.mdl
+[18:17:51] CJC<STEAM_0:1:442389183> used the tool nocollide on models/props_building_details/storefront_template001a_bars.mdl
+[18:17:52] CJC<STEAM_0:1:442389183> used the tool nocollide on models/props_building_details/storefront_template001a_bars.mdl
+[18:17:56] CJC<STEAM_0:1:442389183> used the tool nocollide on models/props_building_details/storefront_template001a_bars.mdl
+[18:17:57] CJC<STEAM_0:1:442389183> used the tool nocollide on models/props_building_details/storefront_template001a_bars.mdl
+[18:18:17] CJC<STEAM_0:1:442389183> used the tool nocollide on models/props_building_details/storefront_template001a_bars.mdl
+[18:18:21] CJC<STEAM_0:1:442389183> used the tool nocollide on models/props_building_details/storefront_template001a_bars.mdl
+[18:18:37] CJC<STEAM_0:1:442389183> used the tool remover on models/props_building_details/storefront_template001a_bars.mdl
+[18:18:40] CJC<STEAM_0:1:442389183> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:18:46] CJC<STEAM_0:1:442389183> used the tool material on models/props_building_details/storefront_template001a_bars.mdl
+[18:18:54] CJC<STEAM_0:1:442389183> used the tool nocollide on models/props_building_details/storefront_template001a_bars.mdl
+[18:18:58] CJC<STEAM_0:1:442389183> used the tool nocollide on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:02] CJC<STEAM_0:1:442389183> used the tool nocollide on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:08] CJC<STEAM_0:1:442389183> used the tool nocollide on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:12] CJC<STEAM_0:1:442389183> used the tool nocollide on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:13] CJC<STEAM_0:1:442389183> used the tool nocollide on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:13] CJC<STEAM_0:1:442389183> used the tool nocollide on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:13] CJC<STEAM_0:1:442389183> used the tool nocollide on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:13] CJC<STEAM_0:1:442389183> used the tool nocollide on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:13] CJC<STEAM_0:1:442389183> used the tool nocollide on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:27] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:27] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:27] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:28] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:28] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:28] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:28] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:29] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:29] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:29] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:29] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:29] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:30] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:30] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:30] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:30] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:30] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:31] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:31] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:31] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:31] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:31] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:32] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:32] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:32] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:33] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:34] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:34] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:34] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:34] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:34] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:35] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:35] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:35] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:35] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:35] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:36] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:36] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:36] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:36] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:36] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:37] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:37] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:37] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:37] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:37] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:38] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:38] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:38] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:38] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:38] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:39] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:39] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:39] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:39] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:40] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:40] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:40] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:40] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:40] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:41] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:41] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:41] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:41] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:42] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:42] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:42] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:42] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:42] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:43] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:43] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:43] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:43] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:44] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:44] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:44] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:44] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:44] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:45] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:45] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:45] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:45] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:46] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:46] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:46] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:46] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:47] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:47] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:47] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:47] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:48] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:48] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:48] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:48] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:49] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:49] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:49] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:49] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:50] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:50] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:50] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:50] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:50] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:51] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:51] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:51] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:52] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:52] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:52] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:52] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:52] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:53] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:53] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:53] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:19:55] CJC<STEAM_0:1:442389183> used the tool nocollide on models/props_building_details/storefront_template001a_bars.mdl
+[18:20:07] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:20:23] Client "Bobbicus" spawned in server <STEAM_0:0:86269452> (took 164 seconds).
+[18:20:27] CJC<STEAM_0:1:442389183> used the tool nocollide on models/props_building_details/storefront_template001a_bars.mdl
+[18:20:27] CJC<STEAM_0:1:442389183> used the tool nocollide on models/props_building_details/storefront_template001a_bars.mdl
+[18:20:35] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:20:35] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:20:36] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:20:36] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:20:36] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:20:36] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:20:36] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:20:37] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:20:37] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:20:37] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:20:37] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:20:38] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:20:38] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:20:38] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:20:38] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:20:38] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:20:39] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:20:39] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:20:39] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:20:39] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:20:39] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:20:40] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:20:40] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:20:40] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:20:40] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:20:41] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:20:41] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:20:41] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:20:41] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:20:42] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:20:42] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:20:42] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:20:42] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:20:42] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:20:43] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:20:43] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:20:43] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:20:43] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:20:43] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:20:44] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:20:44] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:20:44] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:20:44] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:20:45] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:20:45] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:20:45] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:20:45] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:20:46] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:20:46] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:20:46] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:20:46] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:20:46] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:20:47] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:20:47] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:20:47] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:20:47] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:20:47] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:20:48] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:20:48] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:20:48] CJC<STEAM_0:1:442389183> used the tool precision on models/props_building_details/storefront_template001a_bars.mdl
+[18:20:55] CJC<STEAM_0:1:442389183> used the tool remover on models/maxofs2d/button_05.mdl
+[18:20:58] CJC<STEAM_0:1:442389183> used the tool remover on models/maxofs2d/button_05.mdl
+[18:21:03] CJC<STEAM_0:1:442389183> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:21:13] CJC<STEAM_0:1:442389183> used the tool material on models/props_building_details/storefront_template001a_bars.mdl
+[18:21:17] CJC<STEAM_0:1:442389183> used the tool advdupe2 on models/props_building_details/storefront_template001a_bars.mdl
+[18:21:17] CJC<STEAM_0:1:442389183> used the tool advdupe2 on models/props_building_details/storefront_template001a_bars.mdl
+[18:21:19] CJC<STEAM_0:1:442389183> used the tool advdupe2 on models/props_building_details/storefront_template001a_bars.mdl
+[18:21:19] CJC<STEAM_0:1:442389183> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[18:21:19] CJC<STEAM_0:1:442389183> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:21:20] CJC<STEAM_0:1:442389183> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[18:21:20] CJC<STEAM_0:1:442389183> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:21:21] CJC<STEAM_0:1:442389183> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[18:21:21] CJC<STEAM_0:1:442389183> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:21:40] CJC<STEAM_0:1:442389183> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[18:21:40] CJC<STEAM_0:1:442389183> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:21:48] CJC<STEAM_0:1:442389183> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[18:21:48] CJC<STEAM_0:1:442389183> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:21:48] CJC<STEAM_0:1:442389183> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[18:21:48] CJC<STEAM_0:1:442389183> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:21:49] CJC<STEAM_0:1:442389183> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[18:21:49] CJC<STEAM_0:1:442389183> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:21:49] CJC<STEAM_0:1:442389183> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[18:21:49] CJC<STEAM_0:1:442389183> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:21:49] CJC<STEAM_0:1:442389183> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[18:21:49] CJC<STEAM_0:1:442389183> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:21:49] CJC<STEAM_0:1:442389183> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[18:21:49] CJC<STEAM_0:1:442389183> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:21:49] CJC<STEAM_0:1:442389183> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[18:21:49] CJC<STEAM_0:1:442389183> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:21:50] CJC<STEAM_0:1:442389183> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[18:21:50] CJC<STEAM_0:1:442389183> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:21:50] CJC<STEAM_0:1:442389183> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[18:21:50] CJC<STEAM_0:1:442389183> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:21:50] CJC<STEAM_0:1:442389183> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[18:21:50] CJC<STEAM_0:1:442389183> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:21:50] CJC<STEAM_0:1:442389183> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[18:21:50] CJC<STEAM_0:1:442389183> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:23:02] CJC<STEAM_0:1:442389183> used the tool material on models/hunter/blocks/cube075x3x1.mdl
+[18:23:03] CJC<STEAM_0:1:442389183> used the tool material on models/hunter/blocks/cube075x3x1.mdl
+[18:23:04] CJC<STEAM_0:1:442389183> used the tool material on models/hunter/blocks/cube075x3x1.mdl
+[18:23:04] CJC<STEAM_0:1:442389183> used the tool material on models/hunter/blocks/cube075x3x1.mdl
+[18:23:06] CJC<STEAM_0:1:442389183> used the tool material on models/hunter/blocks/cube075x3x1.mdl
+[18:23:07] CJC<STEAM_0:1:442389183> used the tool material on models/hunter/blocks/cube075x3x1.mdl
+[18:23:08] CJC<STEAM_0:1:442389183> used the tool material on models/hunter/blocks/cube075x3x1.mdl
+[18:23:20] CJC<STEAM_0:1:442389183> used the tool material on models/hunter/blocks/cube075x3x1.mdl
+[18:24:51] Dropped "Bobbicus" from server<STEAM_0:0:86269452>
+[18:25:18] CJC<STEAM_0:1:442389183> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:25:20] CJC<STEAM_0:1:442389183> used the tool remover on models/props_building_details/storefront_template001a_bars.mdl
+[18:25:22] CJC<STEAM_0:1:442389183> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[18:25:22] CJC<STEAM_0:1:442389183> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:25:23] CJC<STEAM_0:1:442389183> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[18:25:23] CJC<STEAM_0:1:442389183> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:25:35] CJC<STEAM_0:1:442389183> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[18:25:35] CJC<STEAM_0:1:442389183> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:26:12] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube025x150x025.mdl
+[18:26:38] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube025x150x025.mdl
+[18:26:46] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube025x125x025.mdl
+[18:26:57] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube025x125x025.mdl
+[18:30:17] CJC<STEAM_0:1:442389183> spawned model models/props_phx/construct/metal_plate1x2.mdl
+[18:30:29] CJC<STEAM_0:1:442389183> spawned model models/props_phx/construct/metal_wire1x2.mdl
+[18:30:42] CJC<STEAM_0:1:442389183> used the tool stacker_improved on models/props_phx/construct/metal_wire1x2.mdl
+[18:30:42] CJC<STEAM_0:1:442389183> spawned model models/props_phx/construct/metal_wire1x2.mdl
+[18:30:49] CJC<STEAM_0:1:442389183> spawned model models/props_phx/construct/metal_wire1x2.mdl
+[18:32:54] CJC<STEAM_0:1:442389183> used the tool stacker_improved on models/props_phx/construct/metal_plate1x2.mdl
+[18:32:54] CJC<STEAM_0:1:442389183> spawned model models/props_phx/construct/metal_plate1x2.mdl
+[18:33:00] CJC<STEAM_0:1:442389183> used the tool stacker_improved on models/props_phx/construct/metal_wire1x2.mdl
+[18:33:00] CJC<STEAM_0:1:442389183> spawned model models/props_phx/construct/metal_wire1x2.mdl
+[18:33:02] CJC<STEAM_0:1:442389183> used the tool stacker_improved on models/props_phx/construct/metal_wire1x2.mdl
+[18:33:02] CJC<STEAM_0:1:442389183> spawned model models/props_phx/construct/metal_wire1x2.mdl
+[18:33:05] CJC<STEAM_0:1:442389183> used the tool stacker_improved on models/props_phx/construct/metal_wire1x2.mdl
+[18:33:05] CJC<STEAM_0:1:442389183> spawned model models/props_phx/construct/metal_wire1x2.mdl
+[18:33:09] CJC<STEAM_0:1:442389183> used the tool remover on models/props_phx/construct/metal_wire1x2.mdl
+[18:33:40] CJC<STEAM_0:1:442389183> used the tool stacker_improved on models/props_phx/construct/metal_plate1x2.mdl
+[18:33:40] CJC<STEAM_0:1:442389183> spawned model models/props_phx/construct/metal_plate1x2.mdl
+[18:33:41] CJC<STEAM_0:1:442389183> used the tool stacker_improved on models/props_phx/construct/metal_wire1x2.mdl
+[18:33:41] CJC<STEAM_0:1:442389183> spawned model models/props_phx/construct/metal_wire1x2.mdl
+[18:33:42] CJC<STEAM_0:1:442389183> used the tool stacker_improved on models/props_phx/construct/metal_wire1x2.mdl
+[18:33:42] CJC<STEAM_0:1:442389183> spawned model models/props_phx/construct/metal_wire1x2.mdl
+[18:33:50] CJC<STEAM_0:1:442389183> used the tool stacker_improved on models/props_phx/construct/metal_wire1x2.mdl
+[18:33:50] CJC<STEAM_0:1:442389183> spawned model models/props_phx/construct/metal_wire1x2.mdl
+[18:34:38] CJC<STEAM_0:1:442389183> used the tool stacker_improved on models/props_phx/construct/metal_wire1x2.mdl
+[18:34:48] CJC<STEAM_0:1:442389183> used the tool remover on models/props_phx/construct/metal_wire1x2.mdl
+[18:35:08] CJC<STEAM_0:1:442389183> used the tool stacker_improved on models/props_phx/construct/metal_wire1x2.mdl
+[18:35:08] CJC<STEAM_0:1:442389183> spawned model models/props_phx/construct/metal_wire1x2.mdl
+[18:36:47] CJC<STEAM_0:1:442389183> used the tool fading_door on models/props_c17/fence01a.mdl
+[18:36:58] CJC<STEAM_0:1:442389183> used the tool keypad_willox on models/hunter/blocks/cube075x3x1.mdl
+[18:36:59] CJC<STEAM_0:1:442389183> used the tool keypad_willox on models/hunter/blocks/cube075x3x1.mdl
+[18:37:14] CJC<STEAM_0:1:442389183> used the tool remover on models/hunter/plates/plate1x1.mdl
+[18:37:14] CJC<STEAM_0:1:442389183> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[18:37:25] CJC<STEAM_0:1:442389183> used the tool textscreen on maps/rp_downtown_tits_v2.bsp
+[18:46:26] CJC: /invholster
+[18:46:28] CJC: /invholster
+[18:48:44] CJC: /invholster
+[18:49:21] Dropped "CJC" from server<STEAM_0:1:442389183>
+[20:49:02] Client "Doof" connected.
+[20:51:06] Client "Doof" spawned in server <STEAM_0:1:426762407> (took 124 seconds).
+[20:51:40] Dropped "Doof" from server<STEAM_0:1:426762407>
+[20:52:20] Client "Doof" connected.
+[20:53:24] Client "Doof" spawned in server <STEAM_0:1:426762407> (took 64 seconds).
+[20:54:36] Dropped "Doof" from server<STEAM_0:1:426762407>
+[20:55:27] Client "Doof" connected.
+[20:56:07] Client "Doof" connected.
+[20:57:16] Client "Doof" spawned in server <STEAM_0:1:426762407> (took 69 seconds).
+[21:04:58] Dropped "Doof" from server<STEAM_0:1:426762407>
+[22:02:40] Client "Derp" connected.
+[22:02:42] Client "DrDerpenstein sups.gg" connected.
+[22:03:11] Client "DevL" connected.
+[22:03:15] Client "Derp" spawned in server <STEAM_0:0:52504530> (took 35 seconds).
+[22:03:16] Client "DrDerpenstein sups.gg" spawned in server <STEAM_0:0:13562763> (took 34 seconds).
+[22:03:44] William: oh no
+[22:03:53] William: what the hell happened dude
+[22:04:19] William suicided!
+[22:04:24] William: i want to die
+[22:04:30] William: wait a minute
+[22:04:31] William: so
+[22:04:32] William: ur telling me
+[22:04:45] William: that to fix the fucking hitbox issue we have to do this shit EVERY GOD DAMN TIME?
+[22:04:54] William: AAAAAAAAAAAAAAAAAAAAAAAA
+[22:05:04] William: please kill me irl
+[22:05:11] William: fucking grab a samurai sword
+[22:05:14] William: and stab me
+[22:05:26] William: alright
+[22:05:29] Client "DevL" spawned in server <STEAM_0:0:97157625> (took 138 seconds).
+[22:05:43] William: i havent seen devl in a while
+[22:05:53] William: hes there and here
+[22:06:05] William: greetings earthling
+[22:06:22] William: we are the ones called derp
+[22:06:39] William: what did u vote for 
+[22:07:26] William: dude we are mega fucked
+[22:07:34] William<STEAM_0:0:52504530> spawned/gave himself swep cw_dpe_mp412_rex
+[22:08:06] William: we only changed it on the dev server
+[22:08:09] William: and now its affecting people here too
+[22:08:29] William: we should download a clean copy of the hud
+[22:08:32] William: see if that helps
+[22:08:49] William: should i make a ticket?
+[22:09:13] William: and it affected someone who never even played on the dev server
+[22:09:18] William: while we made said change
+[22:09:28] DrDerpenstein<STEAM_0:0:13562763> spawned sent rj_molotov_ammo
+[22:09:36] DrDerpenstein<STEAM_0:0:13562763> spawned sent rj_molotov_ammo
+[22:09:36] DrDerpenstein<STEAM_0:0:13562763> spawned sent rj_molotov_ammo
+[22:09:36] DrDerpenstein<STEAM_0:0:13562763> spawned sent rj_molotov_ammo
+[22:09:37] DrDerpenstein<STEAM_0:0:13562763> spawned sent rj_molotov_ammo
+[22:09:37] DrDerpenstein<STEAM_0:0:13562763> spawned sent rj_molotov_ammo
+[22:09:37] DrDerpenstein<STEAM_0:0:13562763> spawned sent rj_molotov_ammo
+[22:09:37] DrDerpenstein<STEAM_0:0:13562763> spawned sent rj_molotov_ammo
+[22:09:37] DrDerpenstein<STEAM_0:0:13562763> spawned sent rj_molotov_ammo
+[22:09:37] DrDerpenstein<STEAM_0:0:13562763> spawned sent rj_molotov_ammo
+[22:10:09] DrDerpenstein suicided!
+[22:10:37] William: is that a fucking dying rat
+[22:10:53] William: dude punch the guinea pig
+[22:11:07] DevL: /job Tard Wrangler
+[22:11:19] DrDerpenstein: /job Terd Wrangler
+[22:11:24] DevL suicided!
+[22:11:32] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_vape_helium
+[22:15:41] DevL: /casino
+[22:15:58] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_vape_hallucinogenic
+[22:16:00] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_vape_hallucinogenic
+[22:19:05] William: i made a support ticket on gmodstore
+[22:19:13] William: pretty much explained the problem as much as i can
+[22:19:26] William: i bet u if we changed that tho it would fucking break everything
+[22:19:49] William: the weirdest problem is how it went from server to server
+[22:19:59] William: that is literally fucking impossible
+[22:20:17] William: no they are completely different control panels
+[22:22:18] DevL: /casino
+[22:22:40] DevL suicided!
+[22:22:58] DevL<STEAM_0:0:97157625> spawned model models/props_c17/oildrum001.mdl
+[22:24:15] William<STEAM_0:0:52504530> spawned/gave himself swep cw_dp_m3super90
+[22:24:16] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_gpee
+[22:25:10] William<STEAM_0:0:52504530> spawned/gave himself swep cw_dp_m3super90
+[22:26:31] DevL suicided!
+[22:28:21] William: i have an idea for a mod
+[22:28:48] William: its really simple but i think it would be cool if when u type in chat there is a circle around you thats see
+[22:28:53] William: that shows u how far ur typing range goes
+[22:29:07] William: like if someone is in that bubble they can hear u when u type
+[22:29:15] William: exactly
+[22:29:33] William: honestly we could make that a mod and put it on gmodstore
+[22:30:10] William: yay i have an idea thats not shit
+[22:30:37] William: we can also throw in a little config menu for the bubble too maybe
+[22:30:39] William: color
+[22:30:42] William: opacity
+[22:30:44] William: et cetera
+[22:30:53] William: exactly
+[22:31:34] William: definitely
+[22:31:47] William: ill put it on the wishlist
+[22:32:57] DevL: Player:IsSpeaking()
+[22:34:17] William: this is a good time to have that bad coderz mod
+[22:34:35] William: that would help us so much
+[22:34:48] William: probably finds inefficient ways that people code
+[22:34:55] William: and removes useless functions
+[22:35:07] DevL: :/
+[22:35:54] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props/cs_militia/bar01.mdl
+[22:36:16] William: i like playing poker
+[22:36:26] William: im terrible at poker but i like it
+[22:36:43] William: blackjack is like 95% luck
+[22:37:34] DevL: /casino
+[22:37:36] DrDerpenstein: /casino
+[22:37:36] William: /casino
+[22:38:14] DevL: /casino
+[22:39:07] DrDerpenstein: /casino
+[22:39:29] DevL: /casino
+[22:39:30] DrDerpenstein: /casino
+[22:41:18] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_dp_ar15
+[22:41:19] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_dp_ar15
+[22:41:19] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_dp_ar15
+[22:41:19] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_dp_ar15
+[22:41:19] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_dp_ar15
+[22:41:19] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_dp_ar15
+[22:41:20] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_dp_ar15
+[22:42:01] William: there is a limit as to where u start not hearing it
+[22:42:06] William: but the volume sounds the same when u can hear it
+[22:42:17] William: so pretty much no 3D audio
+[22:42:20] William: from what i can tell
+[22:42:45] Client "TheRealKitten" connected.
+[22:42:56] William: wtf
+[22:42:59] William: do u see that in chat
+[22:43:26] DrDerpenstein killed William using player
+[22:43:34] William: well we have it on the workshop and im pretty sure we also have the actual map file in the files
+[22:43:35] DrDerpenstein: /tp DrDerpenstein
+[22:43:55] William<STEAM_0:0:52504530> spawned/gave himself swep cw_dp_makarov
+[22:44:45] William: well at least there will be less failures in the world
+[22:45:26] William: if that guy doesnt respond to my ticket within 48 hours im fucking leaving a shit review and i might also get another HUD 
+[22:45:58] Client "CobaltLord" connected.
+[22:46:06] William: i think for now we should maybe disable voting for mayor too
+[22:46:40] William<STEAM_0:0:52504530> spawned/gave himself swep cw_dp_mac11
+[22:46:42] William killed DrDerpenstein using player
+[22:46:45] William suicided!
+[22:48:14] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_dp_ar15
+[22:48:14] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_dp_ar15
+[22:48:14] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_dp_ar15
+[22:48:14] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_dp_ar15
+[22:48:14] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_dp_ar15
+[22:48:14] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_dp_ar15
+[22:48:25] Client "Kingnamer" connected.
+[22:50:33] Client "CobaltLord" connected.
+[22:50:56] DrDerpenstein: /job weeewoooweeewoooweeewooo
+[22:50:57] DevL: // qucik derpenstein piss on him
+[22:51:12] Client "BB4LIFE" connected.
+[22:51:13] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_gpee
+[22:52:30] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_gpee
+[22:52:31] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_gpee
+[22:52:31] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_gpee
+[22:52:31] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_gpee
+[22:52:31] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_gpee
+[22:54:01] DevL: /name Ramsey Gordon
+[22:54:06] William<STEAM_0:0:52504530> spawned/gave himself swep cw_dp_m3super90
+[22:54:29] Ramsey Gordon<STEAM_0:0:97157625> spawned model models/props_wasteland/kitchen_counter001d.mdl
+[22:54:40] Client "Kingnamer" spawned in server <STEAM_0:1:57822085> (took 375 seconds).
+[22:55:21] Dropped "Kingnamer" from server<STEAM_0:1:57822085>
+[22:56:18] Client "Kingnamer" connected.
+[22:57:51] Client "Kingnamer" spawned in server <STEAM_0:1:57822085> (took 93 seconds).
+[22:58:47] Dropped "Kingnamer" from server<STEAM_0:1:57822085>
+[23:00:01] Ramsey Gordon<STEAM_0:0:97157625> spawned vehicle models/airboat.mdl
+[23:00:52] DrDerpenstein<STEAM_0:0:13562763> spawned vehicle models/airboat.mdl
+[23:02:01] Ramsey Gordon killed DrDerpenstein using player
+[23:03:11] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_healthkit
+[23:03:11] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_healthkit
+[23:03:11] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_healthkit
+[23:03:11] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_healthkit
+[23:03:11] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[23:03:12] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[23:03:12] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[23:04:25] William: i added the kingnamer guy and apologized for the problem him and his friend are having
+[23:04:31] William: told him to join tomorrow and he said alright
+[23:08:06] William<STEAM_0:0:52504530> spawned/gave himself swep cw_dpe_glock17
+[23:09:12] Client "Japanese Fried Salami" connected.
+[23:09:45] Client "wishes" connected.
+[23:10:01] William: ik
+[23:10:04] William: and it makes me mad that they probably will leave
+[23:10:07] William: before they even connect
+[23:10:28] William: i have to go right now can u please tell me which car addons i need to remove
+[23:10:31] William: just msg me on discord
+[23:11:13] William: alright
+[23:11:14] William: cya later man
+[23:11:18] Dropped "William" from server<STEAM_0:0:52504530>
+[23:14:04] DrDerpenstein<STEAM_0:0:13562763> spawned vehicle models/tdmcars/bmw507.mdl
+[23:14:41] DrDerpenstein<STEAM_0:0:13562763> spawned vehicle models/buggy.mdl
+[23:16:37] Client "Japanese Fried Salami" spawned in server <STEAM_0:0:57919623> (took 445 seconds).
+[23:17:50] Japanese Fried Salami suicided!
+[23:19:04] Japanese Fried Salami<STEAM_0:0:57919623> spawned model models/props_c17/furnituretoilet001a.mdl
+[23:22:37] Ramsey Gordon<STEAM_0:0:97157625> spawned/gave himself swep weapon_vfirethrower
+[23:29:57] Client "wishes" spawned in server <STEAM_0:0:511010338> (took 1212 seconds).
+[23:32:04] DrDerpenstein<STEAM_0:0:13562763> spawned vehicle models/tdmcars/vip_viper.mdl
+[23:32:09] DrDerpenstein<STEAM_0:0:13562763> used the tool colour on models/tdmcars/vip_viper.mdl
+[23:32:16] DrDerpenstein<STEAM_0:0:13562763> used the tool material on models/tdmcars/vip_viper.mdl
+[23:34:58] Dropped "wishes" from server<STEAM_0:0:511010338>
+[23:35:14] Dropped "Japanese Fried Salami" from server<STEAM_0:0:57919623>
+[23:36:06] DrDerpenstein: /goto Ramsey 
+[23:36:31] DrDerpenstein: /dropmoney 100000
+[23:36:44] Dropped "DrDerpenstein" from server<STEAM_0:0:13562763>
+[23:38:52] Dropped "Ramsey Gordon" from server<STEAM_0:0:97157625>

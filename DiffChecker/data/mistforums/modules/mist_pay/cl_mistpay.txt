@@ -1,0 +1,3 @@
+net.Receive( "MistPay.Menu", function()
+	gui.OpenURL( MistForum.url.."/donate?steamid="..LocalPlayer():SteamID() )
+end )

@@ -1,0 +1,38 @@
+[06:21:08] New map: rp_downtown_tits_v2
+[21:08:12] Client "DrDerpenstein sups.gg" connected.
+[21:08:40] Client "DrDerpenstein sups.gg" spawned in server <STEAM_0:0:13562763> (took 28 seconds).
+[21:08:53] DrDerpenstein: asdfasdf
+[21:08:55] DrDerpenstein: /cards
+[21:10:26] Dropped "DrDerpenstein" from server<STEAM_0:0:13562763>
+[22:24:18] Client "Sukebena-Chan" connected.
+[22:28:51] Client "Sukebena-Chan" spawned in server <STEAM_0:1:63382511> (took 273 seconds).
+[22:29:39] Bexgasm~: # nigga nigga nigga bitch nigga nigga
+[22:30:12] Bexgasm~<STEAM_0:1:63382511> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[22:30:12] Bexgasm~<STEAM_0:1:63382511> spawned model models/hunter/plates/plate075x2.mdl
+[22:30:12] Bexgasm~<STEAM_0:1:63382511> spawned model models/hunter/plates/plate2x3.mdl
+[22:30:12] Bexgasm~<STEAM_0:1:63382511> spawned model models/hunter/plates/plate075x2.mdl
+[22:30:12] Bexgasm~<STEAM_0:1:63382511> spawned model models/hunter/plates/plate3x4.mdl
+[22:30:12] Bexgasm~<STEAM_0:1:63382511> spawned model models/hunter/plates/plate2x4.mdl
+[22:30:12] Bexgasm~<STEAM_0:1:63382511> spawned model models/hunter/plates/plate075x2.mdl
+[22:30:12] Bexgasm~<STEAM_0:1:63382511> spawned model models/hunter/blocks/cube1x3x1.mdl
+[22:30:12] Bexgasm~<STEAM_0:1:63382511> spawned model models/hunter/plates/plate3x4.mdl
+[22:30:12] Bexgasm~<STEAM_0:1:63382511> spawned model models/hunter/plates/plate2x4.mdl
+[22:30:12] Bexgasm~<STEAM_0:1:63382511> spawned model models/hunter/plates/plate1x2.mdl
+[22:30:12] Bexgasm~<STEAM_0:1:63382511> spawned model models/hunter/blocks/cube1x1x1.mdl
+[22:30:12] Bexgasm~<STEAM_0:1:63382511> spawned model models/hunter/plates/plate3x4.mdl
+[22:30:12] Bexgasm~<STEAM_0:1:63382511> spawned model models/hunter/plates/plate075x5.mdl
+[22:30:12] Bexgasm~<STEAM_0:1:63382511> spawned model models/hunter/plates/plate1x2.mdl
+[22:30:12] Bexgasm~<STEAM_0:1:63382511> spawned model models/hunter/blocks/cube1x3x1.mdl
+[22:30:12] Bexgasm~<STEAM_0:1:63382511> spawned model models/hunter/blocks/cube025x4x025.mdl
+[22:30:12] Bexgasm~<STEAM_0:1:63382511> spawned model models/hunter/plates/plate05x2.mdl
+[22:30:12] Bexgasm~<STEAM_0:1:63382511> spawned model models/hunter/plates/plate2x5.mdl
+[22:30:12] Bexgasm~<STEAM_0:1:63382511> spawned model models/hunter/blocks/cube1x1x1.mdl
+[22:30:12] Bexgasm~<STEAM_0:1:63382511> spawned model models/hunter/plates/plate075x2.mdl
+[22:32:53] Bexgasm~: /drop
+[22:37:19] Bexgasm~<STEAM_0:1:63382511> used the tool remover on models/items/item_item_crate.mdl
+[22:37:19] Bexgasm~<STEAM_0:1:63382511> used the tool remover on models/items/item_item_crate.mdl
+[22:37:19] Bexgasm~<STEAM_0:1:63382511> used the tool remover on models/items/item_item_crate.mdl
+[22:37:20] Bexgasm~<STEAM_0:1:63382511> used the tool remover on models/items/item_item_crate.mdl
+[22:37:20] Bexgasm~<STEAM_0:1:63382511> used the tool remover on models/items/item_item_crate.mdl
+[22:37:21] Bexgasm~<STEAM_0:1:63382511> used the tool remover on models/items/item_item_crate.mdl
+<Logging continued in "data/ulx_logs/09-12-19.txt">

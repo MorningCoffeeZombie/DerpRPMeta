@@ -1,0 +1,678 @@
+Tue Jul 30 16:50:47 2019	Dio (STEAM_0:0:497465680) has joined the game
+Tue Jul 30 16:50:47 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 30 16:52:39 2019	Dio (STEAM_0:0:497465680): 
+Tue Jul 30 16:54:22 2019	Dio (STEAM_0:0:497465680): 
+Tue Jul 30 17:03:59 2019	Dio (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_prisoner_pod (Seat_Airboat)
+Tue Jul 30 17:04:01 2019	Dio (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_prisoner_pod (Chair_Office2)
+Tue Jul 30 17:04:07 2019	Dio (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_jeep (Jeep)
+Tue Jul 30 17:04:59 2019	Dio was killed by Entity [0][worldspawn] with a unknown
+Tue Jul 30 17:05:09 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 30 17:05:28 2019	Dio (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_airboat (Airboat)
+Tue Jul 30 17:07:26 2019	Dio (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_prisoner_pod (Pod)
+Tue Jul 30 17:08:13 2019	Dio (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_prisoner_pod (phx_seat3)
+Tue Jul 30 17:08:23 2019	Dio (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_prisoner_pod (Seat_Jeep)
+Tue Jul 30 17:19:40 2019	Dio (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_airboat (Airboat)
+Tue Jul 30 17:19:41 2019	Dio (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_airboat (Airboat)
+Tue Jul 30 17:19:41 2019	Dio (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_airboat (Airboat)
+Tue Jul 30 17:22:09 2019	Dio (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_prisoner_pod (Pod)
+Tue Jul 30 17:22:11 2019	Dio (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_prisoner_pod (Pod)
+Tue Jul 30 17:22:14 2019	Dio (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_prisoner_pod (Pod)
+Tue Jul 30 17:56:02 2019	Dio (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_jeep (veyronsstdm)
+Tue Jul 30 17:56:21 2019	Dio (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_jeep (bmwm613tdm)
+Tue Jul 30 18:20:57 2019	Dio (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_prisoner_pod (phx_seat)
+Tue Jul 30 18:21:03 2019	Dio (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_prisoner_pod (phx_seat)
+Tue Jul 30 18:21:29 2019	Dio (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_prisoner_pod (Chair_Plastic)
+Tue Jul 30 18:21:40 2019	Dio (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_prisoner_pod (Chair_Office2)
+Tue Jul 30 18:21:43 2019	Dio (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_prisoner_pod (Chair_Office1)
+Tue Jul 30 18:30:55 2019	Derp (STEAM_0:0:52504530) has joined the game
+Tue Jul 30 18:30:55 2019	William (STEAM_0:0:52504530) spawned
+Tue Jul 30 18:31:05 2019	Dio (STEAM_0:0:497465680): 
+Tue Jul 30 18:32:04 2019	William (STEAM_0:0:52504530): what have i just witnessed
+Tue Jul 30 18:32:25 2019	William (STEAM_0:0:52504530): this man dances by himself alone 
+Tue Jul 30 18:32:30 2019	William (STEAM_0:0:52504530): what a legend
+Tue Jul 30 18:32:57 2019	William (STEAM_0:0:52504530): 
+Tue Jul 30 18:34:41 2019	William (STEAM_0:0:52504530): 
+Tue Jul 30 18:35:00 2019	William (STEAM_0:0:52504530): is that minecraft music
+Tue Jul 30 18:35:18 2019	William (STEAM_0:0:52504530): i know how to do it but no one else can hear the music
+Tue Jul 30 18:35:18 2019	William (STEAM_0:0:52504530): just u
+Tue Jul 30 18:35:33 2019	William (STEAM_0:0:52504530): no one can hear ur custom music
+Tue Jul 30 18:35:39 2019	William (STEAM_0:0:52504530): yeah
+Tue Jul 30 18:35:50 2019	William (STEAM_0:0:52504530) spawned SENT blues_decals
+Tue Jul 30 18:37:32 2019	Bobbicus (STEAM_0:0:86269452) has joined the game
+Tue Jul 30 18:37:32 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Tue Jul 30 18:39:17 2019	William (STEAM_0:0:52504530): it does
+Tue Jul 30 18:39:21 2019	William (STEAM_0:0:52504530): how did you do that
+Tue Jul 30 18:39:34 2019	William (STEAM_0:0:52504530): ye
+Tue Jul 30 18:40:16 2019	William (STEAM_0:0:52504530): i see
+Tue Jul 30 18:40:25 2019	William (STEAM_0:0:52504530): im gonna use the new casino stuff now
+Tue Jul 30 18:40:50 2019	Bobbicus (STEAM_0:0:86269452): 
+Tue Jul 30 18:40:53 2019	William (STEAM_0:0:52504530): 
+Tue Jul 30 18:41:30 2019	William (STEAM_0:0:52504530): /setmoney william 250000
+Tue Jul 30 18:41:30 2019	William (STEAM_0:0:52504530) set Derp's money to $250,000
+Tue Jul 30 18:41:32 2019	William (STEAM_0:0:52504530): 
+Tue Jul 30 18:44:03 2019	William (STEAM_0:0:52504530): 
+Tue Jul 30 18:44:08 2019	Bobbicus (STEAM_0:0:86269452): 
+Tue Jul 30 18:44:20 2019	William (STEAM_0:0:52504530): 
+Tue Jul 30 18:44:36 2019	William (STEAM_0:0:52504530): 
+Tue Jul 30 18:48:20 2019	William was killed by Bobbicus with a weapon_ninjaskunai
+Tue Jul 30 18:48:22 2019	Dio was killed by Bobbicus with a weapon_ninjaskunai
+Tue Jul 30 18:48:23 2019	William (STEAM_0:0:52504530) spawned
+Tue Jul 30 18:48:25 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 30 18:48:33 2019	William was killed by Dio with a weapon_ninjaskunai
+Tue Jul 30 18:48:35 2019	William (STEAM_0:0:52504530) spawned
+Tue Jul 30 18:48:55 2019	William was killed by Dio with a weapon_ninjaskunai
+Tue Jul 30 18:48:58 2019	William (STEAM_0:0:52504530) spawned
+Tue Jul 30 18:49:01 2019	Dio was killed by William with a fas2_deagle
+Tue Jul 30 18:49:03 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 30 18:49:07 2019	Bobbicus was killed by William with a fas2_deagle
+Tue Jul 30 18:49:09 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Tue Jul 30 18:49:21 2019	Bobbicus was killed by Dio with a weapon_ninjaskunai
+Tue Jul 30 18:49:23 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Tue Jul 30 18:49:30 2019	William was killed by Dio with a weapon_ninjaskunai
+Tue Jul 30 18:49:31 2019	Dio was killed by Bobbicus with a weapon_ninjaskunai
+Tue Jul 30 18:49:33 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 30 18:49:33 2019	William (STEAM_0:0:52504530) spawned
+Tue Jul 30 18:49:43 2019	Dio was killed by William with a fas2_deagle
+Tue Jul 30 18:49:45 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 30 18:49:48 2019	William was killed by Dio with a weapon_ninjaskunai
+Tue Jul 30 18:49:51 2019	William (STEAM_0:0:52504530) spawned
+Tue Jul 30 18:50:04 2019	Dio was killed by William with a fas2_deagle
+Tue Jul 30 18:50:07 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 30 18:50:19 2019	Dio (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_airboat (Airboat)
+Tue Jul 30 18:50:56 2019	Bobbicus was killed by Dio with a weapon_ninjaskunai
+Tue Jul 30 18:50:59 2019	William was killed by Dio with a weapon_ninjaskunai
+Tue Jul 30 18:51:00 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Tue Jul 30 18:51:01 2019	William (STEAM_0:0:52504530) spawned
+Tue Jul 30 18:52:03 2019	William (STEAM_0:0:52504530) spawned SENT blues_decals
+Tue Jul 30 18:52:05 2019	William (STEAM_0:0:52504530) spawned SENT blues_decals
+Tue Jul 30 18:52:43 2019	Bobbicus was killed by Dio with a weapon_ninjaskunai
+Tue Jul 30 18:52:45 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Tue Jul 30 18:52:58 2019	Bobbicus was killed by Himself with a suicide trick
+Tue Jul 30 18:53:08 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Tue Jul 30 18:54:07 2019	Bobbicus was killed by Himself with a suicide trick
+Tue Jul 30 18:54:11 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Tue Jul 30 18:55:55 2019	Dio was killed by Bobbicus with a weapon_ninjaskunai
+Tue Jul 30 18:55:57 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 30 18:56:12 2019	William was killed by Bobbicus with a weapon_ninjaskunai
+Tue Jul 30 18:56:15 2019	William (STEAM_0:0:52504530) spawned
+Tue Jul 30 18:56:16 2019	Bobbicus was killed by Dio with a weapon_ninjaskunai
+Tue Jul 30 18:56:18 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Tue Jul 30 18:56:28 2019	Dio was killed by Bobbicus with a weapon_ninjaskunai
+Tue Jul 30 18:56:30 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 30 18:56:45 2019	Bobbicus was killed by Dio with a weapon_ninjaskunai
+Tue Jul 30 18:56:48 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Tue Jul 30 18:56:57 2019	Dio was killed by Bobbicus with a weapon_ninjaskunai
+Tue Jul 30 18:56:59 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 30 18:58:43 2019	Bobbicus was killed by Dio with a weapon_ninjaskunai
+Tue Jul 30 18:58:46 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Tue Jul 30 18:59:16 2019	Dio was killed by Bobbicus with a weapon_ninjaskunai
+Tue Jul 30 18:59:20 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 30 19:01:16 2019	Bobbicus was killed by Dio with a weapon_ninjaskunai
+Tue Jul 30 19:01:20 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Tue Jul 30 19:01:34 2019	Bobbicus was killed by Dio with a weapon_ninjaskunai
+Tue Jul 30 19:01:38 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Tue Jul 30 19:01:43 2019	Dio was killed by Bobbicus with a weapon_ninjaskunai
+Tue Jul 30 19:01:46 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 30 19:02:42 2019	Bobbicus (STEAM_0:0:86269452) spawned SENT item_healthkit
+Tue Jul 30 19:02:43 2019	Bobbicus (STEAM_0:0:86269452) spawned SENT item_healthvial
+Tue Jul 30 19:02:59 2019	Dio was killed by Bobbicus with a weapon_ninjaskunai
+Tue Jul 30 19:03:01 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 30 19:03:14 2019	William (STEAM_0:0:52504530): why 
+Tue Jul 30 19:03:20 2019	William (STEAM_0:0:52504530): we need 2 cops
+Tue Jul 30 19:03:35 2019	William (STEAM_0:0:52504530): /police
+Tue Jul 30 19:06:47 2019	Bobbicus was killed by Himself with a suicide trick
+Tue Jul 30 19:06:52 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Tue Jul 30 19:06:54 2019	Dio (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_jeep (f100tdm)
+Tue Jul 30 19:07:44 2019	Dio (STEAM_0:0:497465680) spawned SENT vc_pickup_fuel_petrol
+Tue Jul 30 19:09:25 2019	Bobbicus was killed by Himself with a suicide trick
+Tue Jul 30 19:09:30 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Tue Jul 30 19:10:17 2019	Bobbicus was killed by Himself with a suicide trick
+Tue Jul 30 19:10:20 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Tue Jul 30 19:10:35 2019	Bobbicus was killed by Himself with a suicide trick
+Tue Jul 30 19:10:38 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Tue Jul 30 19:11:28 2019	Bobbicus was killed by Dio with a fas2_glock20
+Tue Jul 30 19:11:30 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Tue Jul 30 19:11:48 2019	William was killed by Bobbicus with a fas2_glock20
+Tue Jul 30 19:11:52 2019	William (STEAM_0:0:52504530) spawned
+Tue Jul 30 19:11:53 2019	Bobbicus was killed by Dio with a weapon_ninjaskunai
+Tue Jul 30 19:11:58 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Tue Jul 30 19:12:34 2019	Bobbicus was killed by Dio with a weapon_ninjaskunai
+Tue Jul 30 19:12:39 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Tue Jul 30 19:13:11 2019	Bobbicus was killed by Dio with a weapon_ninjaskunai
+Tue Jul 30 19:13:14 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Tue Jul 30 19:15:58 2019	Bobbicus was killed by Dio with a weapon_ninjaskunai
+Tue Jul 30 19:16:03 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Tue Jul 30 19:16:12 2019	Bobbicus was killed by Dio with a weapon_ninjaskunai
+Tue Jul 30 19:16:15 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Tue Jul 30 19:16:30 2019	Dio was killed by Bobbicus with a weapon_ninjaskunai
+Tue Jul 30 19:16:33 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 30 19:18:26 2019	Bobbicus was killed by Dio with a weapon_ninjaskunai
+Tue Jul 30 19:18:53 2019	William was killed by Dio with a weapon_ninjaskunai
+Tue Jul 30 19:19:17 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Tue Jul 30 19:19:28 2019	William (STEAM_0:0:52504530) spawned
+Tue Jul 30 19:19:39 2019	Bobbicus was killed by Dio with a weapon_ninjaskunai
+Tue Jul 30 19:19:41 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Tue Jul 30 19:19:49 2019	Bobbicus was killed by Dio with a weapon_ninjaskunai
+Tue Jul 30 19:19:51 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Tue Jul 30 19:21:28 2019	Dio was killed by Bobbicus with a m9k_magpulpdr
+Tue Jul 30 19:21:31 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 30 19:21:38 2019	Bobbicus was killed by Dio with a weapon_ninjaskunai
+Tue Jul 30 19:21:40 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Tue Jul 30 19:22:08 2019	Bobbicus was killed by Himself with a suicide trick
+Tue Jul 30 19:22:10 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Tue Jul 30 19:22:33 2019	Bobbicus was killed by Himself with a suicide trick
+Tue Jul 30 19:27:34 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Tue Jul 30 19:27:41 2019	William (STEAM_0:0:52504530): 
+Tue Jul 30 19:27:43 2019	Bobbicus (STEAM_0:0:86269452): 
+Tue Jul 30 19:41:34 2019	Bobbicus was killed by Dio with a weapon_ninjaskunai
+Tue Jul 30 19:41:39 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Tue Jul 30 19:42:42 2019	William (STEAM_0:0:52504530): 
+Tue Jul 30 19:42:42 2019	Bobbicus (STEAM_0:0:86269452): 
+Tue Jul 30 19:42:52 2019	William (STEAM_0:0:52504530): 
+Tue Jul 30 19:42:53 2019	Dio (STEAM_0:0:497465680): 
+Tue Jul 30 19:47:07 2019	Dio (STEAM_0:0:497465680): 
+Tue Jul 30 19:51:44 2019	Bobbicus (STEAM_0:0:86269452): /dropmoney 5000000
+Tue Jul 30 19:51:45 2019	Bobbicus (STEAM_0:0:86269452) has dropped $5,000,000
+Tue Jul 30 19:51:50 2019	William (STEAM_0:0:52504530): 
+Tue Jul 30 19:52:32 2019	Bobbicus (STEAM_0:0:86269452): 
+Tue Jul 30 19:52:42 2019	William (STEAM_0:0:52504530): 
+Tue Jul 30 19:53:35 2019	Bobbicus was killed by Himself with a suicide trick
+Tue Jul 30 19:53:40 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Tue Jul 30 19:53:51 2019	Bobbicus was killed by Himself with a suicide trick
+Tue Jul 30 19:53:53 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Tue Jul 30 19:53:57 2019	Bobbicus was killed by Himself with a suicide trick
+Tue Jul 30 19:54:02 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Tue Jul 30 19:54:03 2019	Bobbicus was killed by Himself with a suicide trick
+Tue Jul 30 19:54:05 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Tue Jul 30 19:54:10 2019	Bobbicus was killed by Himself with a suicide trick
+Tue Jul 30 19:54:17 2019	Bobbicus (STEAM_0:0:86269452): 
+Tue Jul 30 19:54:33 2019	Dio (STEAM_0:0:497465680): 
+Tue Jul 30 19:55:01 2019	Dio (STEAM_0:0:497465680): 
+Tue Jul 30 19:55:03 2019	William (STEAM_0:0:52504530): 
+Tue Jul 30 19:55:23 2019	William (STEAM_0:0:52504530): 
+Tue Jul 30 19:56:09 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Tue Jul 30 19:56:19 2019	DrDerpenstein sups.gg (STEAM_0:0:13562763) has joined the game
+Tue Jul 30 19:56:19 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Tue Jul 30 19:56:50 2019	William (STEAM_0:0:52504530): 
+Tue Jul 30 19:56:55 2019	Bobbicus was killed by Himself with a suicide trick
+Tue Jul 30 19:56:57 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Tue Jul 30 19:57:18 2019	DrDerpenstein was killed by Dio with a weapon_ninjaskunai
+Tue Jul 30 19:57:22 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Tue Jul 30 19:57:31 2019	DrDerpenstein (STEAM_0:0:13562763): /unbox
+Tue Jul 30 19:57:33 2019	Bobbicus was killed by Himself with a suicide trick
+Tue Jul 30 19:57:42 2019	Bobbicus (STEAM_0:0:86269452) disconnected
+Tue Jul 30 19:57:46 2019	Dio (STEAM_0:0:497465680): /unbox
+Tue Jul 30 19:58:28 2019	William (STEAM_0:0:52504530): 
+Tue Jul 30 19:59:10 2019	Dio was killed by DrDerpenstein with a fas2_ak12
+Tue Jul 30 19:59:14 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 30 19:59:15 2019	William (STEAM_0:0:52504530): hi
+Tue Jul 30 19:59:23 2019	William (STEAM_0:0:52504530): u should check out the new casino stuff
+Tue Jul 30 19:59:24 2019	Bobbicus (STEAM_0:0:86269452) has joined the game
+Tue Jul 30 19:59:24 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Tue Jul 30 19:59:28 2019	DrDerpenstein was killed by Dio with a weapon_ninjaskunai
+Tue Jul 30 19:59:30 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Tue Jul 30 20:00:16 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Jul 30 20:00:30 2019	Dio (STEAM_0:0:497465680): /ooc :/
+Tue Jul 30 20:01:07 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Jul 30 20:01:13 2019	William (STEAM_0:0:52504530): 
+Tue Jul 30 20:01:25 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Jul 30 20:01:33 2019	William (STEAM_0:0:52504530): 
+Tue Jul 30 20:01:34 2019	Dio (STEAM_0:0:497465680): 
+Tue Jul 30 20:02:19 2019	William (STEAM_0:0:52504530): 
+Tue Jul 30 20:03:35 2019	Dio (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_jeep (porcycletdm)
+Tue Jul 30 20:03:42 2019	DrDerpenstein (STEAM_0:0:13562763): /
+Tue Jul 30 20:03:45 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Jul 30 20:04:06 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Jul 30 20:04:07 2019	Dio was killed by William with a fas2_deagle
+Tue Jul 30 20:04:10 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 30 20:04:18 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Jul 30 20:04:20 2019	William (STEAM_0:0:52504530): one sec brb
+Tue Jul 30 20:04:23 2019	Dio (STEAM_0:0:497465680): 
+Tue Jul 30 20:04:53 2019	bsn (STEAM_0:1:129463817) has joined the game
+Tue Jul 30 20:04:53 2019	bsn (STEAM_0:1:129463817) spawned
+Tue Jul 30 20:05:54 2019	William (STEAM_0:0:52504530): one sec ill be right back
+Tue Jul 30 20:06:00 2019	bsn (STEAM_0:1:129463817) disconnected
+Tue Jul 30 20:06:56 2019	Dio (STEAM_0:0:497465680) spawned SENT jewelryrobbery_alarm_1
+Tue Jul 30 20:07:09 2019	DrDerpenstein (STEAM_0:0:13562763): // stock market is a fun one
+Tue Jul 30 20:07:23 2019	Dio (STEAM_0:0:497465680) spawned SENT jewelryrobbery_jewelry
+Tue Jul 30 20:07:32 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Jul 30 20:08:24 2019	William (STEAM_0:0:52504530): 
+Tue Jul 30 20:09:17 2019	William (STEAM_0:0:52504530): 
+Tue Jul 30 20:09:59 2019	William (STEAM_0:0:52504530): its addicting
+Tue Jul 30 20:10:03 2019	Dio (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_prisoner_pod (Chair_Plastic)
+Tue Jul 30 20:10:04 2019	Dio (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_prisoner_pod (Chair_Plastic)
+Tue Jul 30 20:10:04 2019	Dio (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_prisoner_pod (Chair_Plastic)
+Tue Jul 30 20:10:05 2019	Dio (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_prisoner_pod (Chair_Plastic)
+Tue Jul 30 20:10:05 2019	Dio (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_prisoner_pod (Chair_Plastic)
+Tue Jul 30 20:10:08 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Jul 30 20:10:10 2019	William (STEAM_0:0:52504530): u know a lot about money so
+Tue Jul 30 20:10:13 2019	William (STEAM_0:0:52504530): i think i need ur help
+Tue Jul 30 20:10:16 2019	Bobbicus (STEAM_0:0:86269452): 
+Tue Jul 30 20:10:29 2019	William (STEAM_0:0:52504530): ok so i have full control over literally everything in the casino
+Tue Jul 30 20:10:35 2019	William (STEAM_0:0:52504530): the most important thing is the odds
+Tue Jul 30 20:10:57 2019	William (STEAM_0:0:52504530): i am having trouble understanding what these sentences are trying to tell me about the odds its very confusing to me
+Tue Jul 30 20:11:10 2019	William (STEAM_0:0:52504530): do u think we can get in a discord call?
+Tue Jul 30 20:11:17 2019	DrDerpenstein (STEAM_0:0:13562763): sure lemme open it
+Tue Jul 30 20:11:19 2019	William (STEAM_0:0:52504530): thx
+Tue Jul 30 20:11:48 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Jul 30 20:13:39 2019	William (STEAM_0:0:52504530): 
+Tue Jul 30 20:15:37 2019	Bobbicus was killed by Himself with a suicide trick
+Tue Jul 30 20:15:39 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Tue Jul 30 20:15:50 2019	Bobbicus was killed by Himself with a suicide trick
+Tue Jul 30 20:15:55 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Tue Jul 30 20:17:12 2019	William (STEAM_0:0:52504530): who is facecamping?
+Tue Jul 30 20:17:13 2019	William (STEAM_0:0:52504530): boby?
+Tue Jul 30 20:17:18 2019	William (STEAM_0:0:52504530): bobby*
+Tue Jul 30 20:17:18 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Jul 30 20:17:25 2019	William (STEAM_0:0:52504530): oh
+Tue Jul 30 20:17:50 2019	Bobbicus was killed by Dio with a fas2_rk95
+Tue Jul 30 20:17:54 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Tue Jul 30 20:18:04 2019	William (STEAM_0:0:52504530): 
+Tue Jul 30 20:18:21 2019	Bobbicus was killed by Dio with a fas2_rk95
+Tue Jul 30 20:18:24 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Tue Jul 30 20:18:39 2019	Bobbicus was killed by Dio with a fas2_rk95
+Tue Jul 30 20:18:42 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Tue Jul 30 20:18:45 2019	William (STEAM_0:0:52504530): 
+Tue Jul 30 20:18:59 2019	William (STEAM_0:0:52504530): 
+Tue Jul 30 20:19:01 2019	Dio was killed by Bobbicus with a fas2_m3s90
+Tue Jul 30 20:19:03 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 30 20:19:22 2019	Dio was killed by Bobbicus with a fas2_m3s90
+Tue Jul 30 20:19:24 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 30 20:19:34 2019	Bobbicus was killed by Dio with a fas2_galil
+Tue Jul 30 20:19:36 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Tue Jul 30 20:20:01 2019	Dio was killed by Bobbicus with a fas2_m21
+Tue Jul 30 20:20:03 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 30 20:20:37 2019	Bobbicus was killed by Dio with a fas2_m21
+Tue Jul 30 20:20:39 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Tue Jul 30 20:21:36 2019	Dio was killed by Bobbicus with a fas2_m14
+Tue Jul 30 20:21:40 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 30 20:22:09 2019	Dio (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_jeep (morgaerosstdm)
+Tue Jul 30 20:22:09 2019	Dio (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_jeep (morgaerosstdm)
+Tue Jul 30 20:22:09 2019	Dio (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_jeep (morgaerosstdm)
+Tue Jul 30 20:22:09 2019	Dio (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_jeep (morgaerosstdm)
+Tue Jul 30 20:22:10 2019	Dio (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_jeep (morgaerosstdm)
+Tue Jul 30 20:22:14 2019	Dio was killed by Bobbicus with a fas2_m14
+Tue Jul 30 20:22:18 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 30 20:22:29 2019	Dio (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_jeep (morgaerosstdm)
+Tue Jul 30 20:23:57 2019	Dio was killed by Bobbicus with a fas2_mac11
+Tue Jul 30 20:24:01 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 30 20:24:09 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Jul 30 20:24:15 2019	Dio (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_jeep (cad_lmptdm)
+Tue Jul 30 20:24:44 2019	Dio was killed by Bobbicus with a fas2_glock20
+Tue Jul 30 20:24:50 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 30 20:25:19 2019	Bobbicus was killed by Dio with a weapon_ninjaskunai
+Tue Jul 30 20:25:21 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Tue Jul 30 20:25:40 2019	Bobbicus was killed by Dio with a weapon_ninjaskunai
+Tue Jul 30 20:25:44 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Tue Jul 30 20:25:59 2019	Bobbicus was killed by Dio with a weapon_ninjaskunai
+Tue Jul 30 20:26:01 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Tue Jul 30 20:26:25 2019	Dio was killed by Bobbicus with a weapon_ninjaskunai
+Tue Jul 30 20:26:27 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 30 20:26:53 2019	William (STEAM_0:0:52504530): 
+Tue Jul 30 20:27:35 2019	Bobbicus was killed by Dio with a weapon_ninjaskunai
+Tue Jul 30 20:27:37 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Tue Jul 30 20:28:01 2019	Dio was killed by Bobbicus with a weapon_ninjaskunai
+Tue Jul 30 20:28:03 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 30 20:28:04 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Jul 30 20:28:11 2019	Bobbicus was killed by Dio with a weapon_ninjaskunai
+Tue Jul 30 20:28:13 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Tue Jul 30 20:28:42 2019	Dio was killed by Bobbicus with a weapon_ninjaskunai
+Tue Jul 30 20:28:56 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 30 20:29:13 2019	Dio was killed by Bobbicus with a weapon_ninjaskunai
+Tue Jul 30 20:29:16 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 30 20:29:19 2019	William (STEAM_0:0:52504530): 
+Tue Jul 30 20:29:22 2019	Dio was killed by Himself with a suicide trick
+Tue Jul 30 20:29:25 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 30 20:29:34 2019	William (STEAM_0:0:52504530): 
+Tue Jul 30 20:29:55 2019	William (STEAM_0:0:52504530): 
+Tue Jul 30 20:30:01 2019	Bobbicus was killed by Dio with a crossbow_bolt
+Tue Jul 30 20:30:03 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Tue Jul 30 20:30:11 2019	Dio was killed by Bobbicus with a weapon_ninjaskunai
+Tue Jul 30 20:30:13 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 30 20:30:27 2019	Dio was killed by Bobbicus with a weapon_ninjaskunai
+Tue Jul 30 20:30:29 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 30 20:30:51 2019	William (STEAM_0:0:52504530): 
+Tue Jul 30 20:31:11 2019	Bobbicus was killed by Dio with a weapon_ar2
+Tue Jul 30 20:31:13 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Tue Jul 30 20:31:26 2019	Bobbicus was killed by Dio with a npc_satchel
+Tue Jul 30 20:31:32 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Tue Jul 30 20:31:49 2019	Bobbicus was killed by Dio with a weapon_crowbar
+Tue Jul 30 20:31:52 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Tue Jul 30 20:32:13 2019	Dio was killed by Bobbicus with a weapon_ninjaskunai
+Tue Jul 30 20:32:23 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 30 20:32:28 2019	Bobbicus was killed by Himself with a suicide trick
+Tue Jul 30 20:32:28 2019	William (STEAM_0:0:52504530): !unbox
+Tue Jul 30 20:32:31 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Tue Jul 30 20:32:50 2019	Bobbicus was killed by Dio with a npc_satchel
+Tue Jul 30 20:32:54 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Tue Jul 30 20:33:05 2019	Bobbicus was killed by Dio with a npc_satchel
+Tue Jul 30 20:33:07 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Tue Jul 30 20:33:16 2019	Bobbicus was killed by Dio with a npc_satchel
+Tue Jul 30 20:33:18 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Tue Jul 30 20:33:31 2019	Bobbicus was killed by Dio with a weapon_crowbar
+Tue Jul 30 20:33:34 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Tue Jul 30 20:33:41 2019	Bobbicus was killed by Dio with a m9k_honeybadger
+Tue Jul 30 20:33:44 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Tue Jul 30 20:33:52 2019	Bobbicus was killed by Dio with a m9k_smgp90
+Tue Jul 30 20:33:54 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Tue Jul 30 20:35:00 2019	Bobbicus was killed by Dio with a npc_satchel
+Tue Jul 30 20:35:02 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Tue Jul 30 20:35:14 2019	William (STEAM_0:0:52504530): 
+Tue Jul 30 20:35:29 2019	William (STEAM_0:0:52504530): what
+Tue Jul 30 20:35:30 2019	Bobbicus (STEAM_0:0:86269452): /ooc oh
+Tue Jul 30 20:35:33 2019	William (STEAM_0:0:52504530): oh god
+Tue Jul 30 20:35:52 2019	Bobbicus was killed by Dio with a npc_satchel
+Tue Jul 30 20:35:55 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Tue Jul 30 20:36:07 2019	Bobbicus was killed by Dio with a npc_satchel
+Tue Jul 30 20:36:09 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Tue Jul 30 20:36:31 2019	Bobbicus was killed by Dio with a m9k_honeybadger
+Tue Jul 30 20:36:33 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Tue Jul 30 20:36:40 2019	William (STEAM_0:0:52504530): 
+Tue Jul 30 20:36:40 2019	Bobbicus was killed by Dio with a npc_satchel
+Tue Jul 30 20:36:46 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Tue Jul 30 20:36:55 2019	Bobbicus was killed by Dio with a npc_satchel
+Tue Jul 30 20:36:58 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Tue Jul 30 20:37:10 2019	Bobbicus was killed by Himself with a suicide trick
+Tue Jul 30 20:37:12 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Tue Jul 30 20:37:23 2019	Bobbicus was killed by Dio with a npc_satchel
+Tue Jul 30 20:37:25 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Tue Jul 30 20:37:35 2019	William (STEAM_0:0:52504530): 
+Tue Jul 30 20:37:39 2019	Dio was killed by Bobbicus with a m9k_uzi
+Tue Jul 30 20:37:41 2019	Bobbicus was killed by Himself with a suicide trick
+Tue Jul 30 20:37:42 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 30 20:37:49 2019	Bobbicus was killed by Himself with a suicide trick
+Tue Jul 30 20:38:22 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Tue Jul 30 20:39:33 2019	Bobbicus was killed by Himself with a suicide trick
+Tue Jul 30 20:39:46 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Jul 30 20:41:57 2019	Bobbicus (STEAM_0:0:86269452) spawned
+Tue Jul 30 20:42:42 2019	Bobbicus (STEAM_0:0:86269452) disconnected
+Tue Jul 30 20:45:41 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Jul 30 20:48:54 2019	William (STEAM_0:0:52504530): one sec
+Tue Jul 30 20:52:08 2019	William (STEAM_0:0:52504530): !leancfg
+Tue Jul 30 20:52:47 2019	William (STEAM_0:0:52504530): !leancfg
+Tue Jul 30 20:53:40 2019	William (STEAM_0:0:52504530): ok u can tell the story now
+Tue Jul 30 20:54:14 2019	William (STEAM_0:0:52504530): thats great
+Tue Jul 30 20:54:23 2019	William (STEAM_0:0:52504530): well hopefully that can help out the server
+Tue Jul 30 20:54:37 2019	William (STEAM_0:0:52504530): IP
+Tue Jul 30 20:54:52 2019	William (STEAM_0:0:52504530): that will help
+Tue Jul 30 20:55:01 2019	William (STEAM_0:0:52504530): wont make the server packed but maybe we can get back to the old days
+Tue Jul 30 20:55:09 2019	William (STEAM_0:0:52504530): the days when we had an average of like 10 people online towards the night
+Tue Jul 30 20:55:18 2019	William (STEAM_0:0:52504530): i have no fucking clue
+Tue Jul 30 20:55:24 2019	William (STEAM_0:0:52504530): blacklist what prop?
+Tue Jul 30 20:55:39 2019	William (STEAM_0:0:52504530): which one the blue or green one
+Tue Jul 30 20:55:59 2019	William (STEAM_0:0:52504530): ok
+Tue Jul 30 20:56:26 2019	William (STEAM_0:0:52504530): its gonna be blacklisted again
+Tue Jul 30 20:58:21 2019	Dio (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_prisoner_pod (Chair_Office1)
+Tue Jul 30 20:58:30 2019	Dio (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_prisoner_pod (Chair_Office1)
+Tue Jul 30 21:10:16 2019	William (STEAM_0:0:52504530): !leancfg
+Tue Jul 30 21:15:10 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Jul 30 21:15:33 2019	DrDerpenstein was killed by Dio with a m9k_usc
+Tue Jul 30 21:15:35 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Tue Jul 30 21:15:53 2019	William was killed by Himself with a suicide trick
+Tue Jul 30 21:15:56 2019	William (STEAM_0:0:52504530) spawned
+Tue Jul 30 21:16:10 2019	DrDerpenstein was killed by Himself with a suicide trick
+Tue Jul 30 21:17:26 2019	Mr. Slaps (STEAM_0:1:43336498) has joined the game
+Tue Jul 30 21:17:26 2019	Mr. Slaps (STEAM_0:1:43336498) spawned
+Tue Jul 30 21:19:02 2019	Mr. Slaps (STEAM_0:1:43336498) disconnected
+Tue Jul 30 21:22:28 2019	Dio (STEAM_0:0:497465680): /cc
+Tue Jul 30 21:22:30 2019	Dio (STEAM_0:0:497465680): !unjail @
+Tue Jul 30 21:22:34 2019	Dio (STEAM_0:0:497465680): 
+Tue Jul 30 21:24:27 2019	Dio (STEAM_0:0:497465680): 
+Tue Jul 30 21:25:24 2019	Dio (STEAM_0:0:497465680): 
+Tue Jul 30 21:26:07 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Tue Jul 30 21:26:14 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Jul 30 21:26:31 2019	Dio (STEAM_0:0:497465680): 
+Tue Jul 30 21:27:05 2019	Dio (STEAM_0:0:497465680): 
+Tue Jul 30 21:27:45 2019	Dio (STEAM_0:0:497465680): 
+Tue Jul 30 21:28:09 2019	Dio (STEAM_0:0:497465680): 
+Tue Jul 30 21:28:38 2019	Dio (STEAM_0:0:497465680): 
+Tue Jul 30 21:29:24 2019	Dio (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_jeep (pon_firebirdtransamtdm)
+Tue Jul 30 21:29:45 2019	WebbedPit's BRO (STEAM_0:1:198160487) has joined the game
+Tue Jul 30 21:29:45 2019	WebbedPit's BRO (STEAM_0:1:198160487) spawned
+Tue Jul 30 21:31:44 2019	Dio (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_jeep (pon_firebirdtransamtdm)
+Tue Jul 30 21:31:49 2019	Dio (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_jeep (pon_firebirdtransamtdm)
+Tue Jul 30 21:32:13 2019	Dio (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_jeep (pon_firebirdtransamtdm)
+Tue Jul 30 21:34:47 2019	WebbedPit's BRO (STEAM_0:1:198160487) disconnected
+Tue Jul 30 21:40:47 2019	Dio was killed by Himself with a suicide trick
+Tue Jul 30 21:40:52 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 30 21:41:25 2019	Dio was killed by Himself with a suicide trick
+Tue Jul 30 21:41:27 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 30 21:41:51 2019	Dio was killed by Himself with a suicide trick
+Tue Jul 30 21:41:53 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 30 21:43:43 2019	Dio was killed by Himself with a suicide trick
+Tue Jul 30 21:44:18 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 30 21:44:19 2019	Dio was killed by Himself with a suicide trick
+Tue Jul 30 21:44:19 2019	Dio (STEAM_0:0:497465680): !slay Dio explode
+Tue Jul 30 21:44:21 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 30 21:44:48 2019	Dio was killed by Himself with a suicide trick
+Tue Jul 30 21:45:13 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 30 21:45:36 2019	Dio was killed by Himself with a suicide trick
+Tue Jul 30 21:46:00 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 30 21:46:13 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Jul 30 21:46:23 2019	Dio was killed by Himself with a suicide trick
+Tue Jul 30 21:46:45 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 30 21:46:47 2019	Dio (STEAM_0:0:497465680): 
+Tue Jul 30 21:54:03 2019	William (STEAM_0:0:52504530) disconnected
+Tue Jul 30 21:54:06 2019	DrDerpenstein (STEAM_0:0:13562763): // DIOOOOOO
+Tue Jul 30 21:54:15 2019	DrDerpenstein (STEAM_0:0:13562763): // IM COMIN FOR YOU
+Tue Jul 30 21:54:17 2019	Dio was killed by DrDerpenstein with a fas2_ak12
+Tue Jul 30 21:54:19 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 30 21:55:00 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Jul 30 21:55:04 2019	Dio (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_jeep (pon_firebirdtransamtdm)
+Tue Jul 30 21:55:47 2019	Dio was killed by DrDerpenstein with a prop_vehicle_jeep
+Tue Jul 30 21:55:50 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 30 21:56:34 2019	DrDerpenstein (STEAM_0:0:13562763): get down
+Tue Jul 30 21:57:51 2019	[DS]KingTurtle (STEAM_0:0:110347521) has joined the game
+Tue Jul 30 21:57:51 2019	[DS]KingTurtle (STEAM_0:0:110347521) spawned
+Tue Jul 30 21:59:00 2019	[DS]KingTurtle was killed by DrDerpenstein with a fas2_ak12
+Tue Jul 30 21:59:09 2019	DrDerpenstein was killed by Dio with a fas2_ak12
+Tue Jul 30 21:59:11 2019	[DS]KingTurtle (STEAM_0:0:110347521) spawned
+Tue Jul 30 21:59:12 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Jul 30 21:59:16 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Tue Jul 30 22:00:06 2019	Dio (STEAM_0:0:497465680): 
+Tue Jul 30 22:00:11 2019	[DS]KingTurtle (STEAM_0:0:110347521): first time in the game
+Tue Jul 30 22:00:47 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Jul 30 22:01:37 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Jul 30 22:01:40 2019	[DS]KingTurtle (STEAM_0:0:110347521): how do i talk
+Tue Jul 30 22:01:59 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Jul 30 22:02:46 2019	DrDerpenstein was killed by Dio with a fas2_ak12
+Tue Jul 30 22:02:49 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Tue Jul 30 22:03:01 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Jul 30 22:04:00 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Jul 30 22:04:57 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Jul 30 22:06:00 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Jul 30 22:06:42 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Tue Jul 30 22:06:42 2019	Dio (STEAM_0:0:497465680) arrested DrDerpenstein
+Tue Jul 30 22:06:47 2019	DrDerpenstein (STEAM_0:0:13562763): // oof
+Tue Jul 30 22:06:53 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Jul 30 22:06:54 2019	Dio (STEAM_0:0:497465680) unarrested DrDerpenstein
+Tue Jul 30 22:07:46 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Jul 30 22:10:21 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Jul 30 22:10:35 2019	Dio was killed by DrDerpenstein with a fas2_ak12
+Tue Jul 30 22:10:37 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 30 22:11:01 2019	DrDerpenstein was killed by Himself with a suicide trick
+Tue Jul 30 22:11:04 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Tue Jul 30 22:11:08 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Jul 30 22:12:05 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Jul 30 22:12:38 2019	Dio (STEAM_0:0:497465680): 
+Tue Jul 30 22:12:47 2019	Dio was killed by DrDerpenstein with a fas2_ak12
+Tue Jul 30 22:12:53 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 30 22:13:55 2019	DrDerpenstein was killed by Dio with a fas2_rk95
+Tue Jul 30 22:14:00 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Tue Jul 30 22:14:07 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Jul 30 22:14:20 2019	Dio was killed by DrDerpenstein with a fas2_ak12
+Tue Jul 30 22:14:24 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 30 22:14:56 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Jul 30 22:15:12 2019	DrDerpenstein was killed by Dio with a fas2_rk95
+Tue Jul 30 22:15:16 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Tue Jul 30 22:15:39 2019	DrDerpenstein was killed by Dio with a fas2_rk95
+Tue Jul 30 22:15:44 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Tue Jul 30 22:15:58 2019	Dio was killed by DrDerpenstein with a fas2_ak12
+Tue Jul 30 22:16:01 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 30 22:16:03 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Jul 30 22:16:13 2019	Dio was killed by DrDerpenstein with a fas2_ak12
+Tue Jul 30 22:16:16 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 30 22:16:35 2019	Dio was killed by DrDerpenstein with a fas2_ak12
+Tue Jul 30 22:16:39 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 30 22:16:59 2019	DrDerpenstein was killed by Dio with a weapon_ninjaskunai
+Tue Jul 30 22:17:01 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Tue Jul 30 22:17:05 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Jul 30 22:17:25 2019	Dio was killed by DrDerpenstein with a fas2_ak12
+Tue Jul 30 22:17:27 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 30 22:18:06 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Jul 30 22:18:21 2019	Dio was killed by DrDerpenstein with a fas2_ak12
+Tue Jul 30 22:18:24 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 30 22:19:00 2019	DrDerpenstein was killed by Dio with a weapon_ninjaskunai
+Tue Jul 30 22:19:10 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Tue Jul 30 22:19:13 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Jul 30 22:19:36 2019	Dio was killed by DrDerpenstein with a fas2_ak12
+Tue Jul 30 22:19:38 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 30 22:19:57 2019	Dio was killed by DrDerpenstein with a fas2_ak12
+Tue Jul 30 22:20:01 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 30 22:20:32 2019	DrDerpenstein was killed by Dio with a weapon_ninjaskunai
+Tue Jul 30 22:20:34 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Tue Jul 30 22:20:37 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Jul 30 22:21:09 2019	Dio was killed by DrDerpenstein with a fas2_ak12
+Tue Jul 30 22:21:12 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 30 22:22:48 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Jul 30 22:23:17 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Jul 30 22:24:07 2019	DrDerpenstein (STEAM_0:0:13562763): // DAT NOISE!
+Tue Jul 30 22:24:36 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Jul 30 22:25:03 2019	DrDerpenstein (STEAM_0:0:13562763): /unbox
+Tue Jul 30 22:26:55 2019	DrDerpenstein (STEAM_0:0:13562763): /unbox
+Tue Jul 30 22:27:26 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Jul 30 22:27:41 2019	DrDerpenstein (STEAM_0:0:13562763): /unbox
+Tue Jul 30 22:28:36 2019	Dio was killed by Himself with a suicide trick
+Tue Jul 30 22:28:38 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 30 22:29:14 2019	DrDerpenstein was killed by Dio with a fas2_rem870
+Tue Jul 30 22:29:17 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Tue Jul 30 22:29:21 2019	DrDerpenstein (STEAM_0:0:13562763): /unbox
+Tue Jul 30 22:29:29 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Jul 30 22:30:16 2019	Dio was killed by Himself with a suicide trick
+Tue Jul 30 22:30:20 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 30 22:33:36 2019	Dio (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_prisoner_pod (Chair_Office1)
+Tue Jul 30 22:34:48 2019	[DS]KingTurtle (STEAM_0:0:110347521): /ooc i like this surver
+Tue Jul 30 22:35:52 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Jul 30 22:36:27 2019	Dio (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_jeep (mclarenf1tdm)
+Tue Jul 30 22:36:49 2019	Dio (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_jeep (mp412cgt3tdm)
+Tue Jul 30 22:37:16 2019	Dio (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_jeep (mer_slrtdm)
+Tue Jul 30 22:38:21 2019	Dio (STEAM_0:0:497465680) spawned Vehicle prop_vehicle_jeep (colttdm)
+Tue Jul 30 22:39:12 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Jul 30 22:39:21 2019	DrDerpenstein (STEAM_0:0:13562763): // its a chill place
+Tue Jul 30 22:39:23 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Jul 30 22:40:38 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Jul 30 22:43:39 2019	DrDerpenstein (STEAM_0:0:13562763): // super admin mate
+Tue Jul 30 22:44:34 2019	DrDerpenstein was killed by Himself with a suicide trick
+Tue Jul 30 22:44:38 2019	DrDerpenstein (STEAM_0:0:13562763): // lol no
+Tue Jul 30 22:44:38 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Tue Jul 30 22:44:55 2019	DrDerpenstein was killed by Dio with a fas2_rk95
+Tue Jul 30 22:44:59 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Tue Jul 30 22:45:07 2019	DrDerpenstein (STEAM_0:0:13562763): // no, i am actually helping william dev
+Tue Jul 30 22:45:16 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Jul 30 22:45:30 2019	[DS]KingTurtle (STEAM_0:0:110347521): he leveled up
+Tue Jul 30 22:46:10 2019	Dio (STEAM_0:0:497465680) spawned SENT edit_sky
+Tue Jul 30 22:46:17 2019	Dio (STEAM_0:0:497465680) spawned SENT edit_sky
+Tue Jul 30 22:46:41 2019	DrDerpenstein (STEAM_0:0:13562763): /unbox
+Tue Jul 30 22:50:14 2019	Dio (STEAM_0:0:497465680): 
+Tue Jul 30 22:50:17 2019	[DS]KingTurtle was killed by Dio with a fas2_glock20
+Tue Jul 30 22:50:27 2019	[DS]KingTurtle (STEAM_0:0:110347521) spawned
+Tue Jul 30 22:50:32 2019	Dio (STEAM_0:0:497465680): 
+Tue Jul 30 22:51:38 2019	Dio (STEAM_0:0:497465680): 
+Tue Jul 30 22:52:35 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Jul 30 22:53:05 2019	[DS]KingTurtle was killed by Dio with a fas2_glock20
+Tue Jul 30 22:53:09 2019	[DS]KingTurtle (STEAM_0:0:110347521) spawned
+Tue Jul 30 22:54:02 2019	Dio (STEAM_0:0:497465680): yeet
+Tue Jul 30 22:54:13 2019	Dio (STEAM_0:0:497465680): 
+Tue Jul 30 22:54:17 2019	[DS]KingTurtle (STEAM_0:0:110347521): 
+Tue Jul 30 22:55:44 2019	[DS]KingTurtle (STEAM_0:0:110347521): /occ help 911
+Tue Jul 30 22:55:57 2019	Dio (STEAM_0:0:497465680): 
+Tue Jul 30 22:56:18 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Jul 30 22:57:05 2019	[DS]KingTurtle (STEAM_0:0:110347521): /ooc lol
+Tue Jul 30 22:57:29 2019	Dio (STEAM_0:0:497465680) spawned SENT gmt_instrument_piano
+Tue Jul 30 22:59:33 2019	[DS]KingTurtle (STEAM_0:0:110347521): 
+Tue Jul 30 22:59:50 2019	[DS]KingTurtle (STEAM_0:0:110347521): /drop
+Tue Jul 30 23:00:59 2019	[DS]KingTurtle (STEAM_0:0:110347521): /rpname Turtle
+Tue Jul 30 23:01:07 2019	Turtle (STEAM_0:0:110347521): /requestlicense
+Tue Jul 30 23:02:41 2019	Dio (STEAM_0:0:497465680) spawned SENT itemstore_bank
+Tue Jul 30 23:02:42 2019	Dio (STEAM_0:0:497465680) spawned SENT itemstore_bank
+Tue Jul 30 23:02:45 2019	Dio (STEAM_0:0:497465680) spawned SENT itemstore_box_huge
+Tue Jul 30 23:02:53 2019	Dio (STEAM_0:0:497465680) spawned SENT itemstore_box_large
+Tue Jul 30 23:02:55 2019	Dio (STEAM_0:0:497465680) spawned SENT itemstore_box
+Tue Jul 30 23:02:57 2019	Dio (STEAM_0:0:497465680) spawned SENT itemstore_box_huge
+Tue Jul 30 23:03:03 2019	Dio (STEAM_0:0:497465680) spawned SENT itemstore_bank
+Tue Jul 30 23:03:13 2019	Dio (STEAM_0:0:497465680) spawned SENT itemstore_bank
+Tue Jul 30 23:05:15 2019	Turtle (STEAM_0:0:110347521): /drop
+Tue Jul 30 23:09:58 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Jul 30 23:10:01 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Jul 30 23:10:16 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Jul 30 23:10:21 2019	DrDerpenstein (STEAM_0:0:13562763): /return
+Tue Jul 30 23:10:35 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Jul 30 23:10:49 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Jul 30 23:11:09 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT bm2_fuel
+Tue Jul 30 23:11:16 2019	DrDerpenstein (STEAM_0:0:13562763) spawned SENT bm2_fuel
+Tue Jul 30 23:11:46 2019	DrDerpenstein was killed by Himself with a suicide trick
+Tue Jul 30 23:11:52 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
+Tue Jul 30 23:23:19 2019	Turtle (STEAM_0:0:110347521): /drop
+Tue Jul 30 23:27:08 2019	Dio (STEAM_0:0:497465680) disconnected
+Tue Jul 30 23:27:26 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Jul 30 23:28:21 2019	Dio (STEAM_0:0:497465680) has joined the game
+Tue Jul 30 23:28:21 2019	Dio (STEAM_0:0:497465680) spawned
+Tue Jul 30 23:28:32 2019	Turtle (STEAM_0:0:110347521): /ooc how do i become a mod
+Tue Jul 30 23:28:51 2019	Dio (STEAM_0:0:497465680): /ooc forgot to say byw
+Tue Jul 30 23:28:59 2019	Dio (STEAM_0:0:497465680): /ooc or more of good night
+Tue Jul 30 23:29:12 2019	Dio (STEAM_0:0:497465680) disconnected
+Tue Jul 30 23:30:02 2019	Turtle (STEAM_0:0:110347521): 
+Tue Jul 30 23:31:59 2019	Turtle (STEAM_0:0:110347521): 
+Tue Jul 30 23:33:00 2019	Turtle (STEAM_0:0:110347521): !motd
+Tue Jul 30 23:33:53 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Jul 30 23:34:05 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Jul 30 23:34:34 2019	Turtle (STEAM_0:0:110347521): !motd
+Tue Jul 30 23:41:33 2019	Turtle (STEAM_0:0:110347521): !motd
+Tue Jul 30 23:42:09 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Jul 30 23:56:58 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Tue Jul 30 23:59:37 2019	Turtle (STEAM_0:0:110347521) disconnected
+Wed Jul 31 00:07:58 2019	DrDerpenstein (STEAM_0:0:13562763): /creatflip
+Wed Jul 31 00:08:04 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Wed Jul 31 00:08:22 2019	DrDerpenstein (STEAM_0:0:13562763): /creatflip
+Wed Jul 31 00:08:24 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Wed Jul 31 00:15:24 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Wed Jul 31 00:15:34 2019	DrDerpenstein (STEAM_0:0:13562763): !casinoconfig
+Wed Jul 31 00:15:39 2019	DrDerpenstein (STEAM_0:0:13562763): !casinocfg
+Wed Jul 31 00:15:48 2019	DrDerpenstein (STEAM_0:0:13562763): !config
+Wed Jul 31 00:15:50 2019	DrDerpenstein (STEAM_0:0:13562763): !admin
+Wed Jul 31 00:15:53 2019	DrDerpenstein (STEAM_0:0:13562763): !uld
+Wed Jul 31 00:15:57 2019	DrDerpenstein (STEAM_0:0:13562763): !ulx
+Wed Jul 31 00:16:01 2019	DrDerpenstein (STEAM_0:0:13562763): !badmin
+Wed Jul 31 00:16:04 2019	DrDerpenstein (STEAM_0:0:13562763): !help
+Wed Jul 31 00:16:13 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Wed Jul 31 00:16:23 2019	DrDerpenstein (STEAM_0:0:13562763): /admin
+Wed Jul 31 00:18:13 2019	DrDerpenstein (STEAM_0:0:13562763): /admin
+Wed Jul 31 00:20:07 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Wed Jul 31 00:20:23 2019	Igor2009 (STEAM_0:0:156365818) has joined the game
+Wed Jul 31 00:20:23 2019	Igor2009 (STEAM_0:0:156365818) spawned
+Wed Jul 31 00:20:36 2019	Sukebena-Chan (STEAM_0:1:63382511) has joined the game
+Wed Jul 31 00:20:36 2019	Bexgasm~ (STEAM_0:1:63382511) spawned
+Wed Jul 31 00:22:18 2019	Igor2009 (STEAM_0:0:156365818): 
+Wed Jul 31 00:22:18 2019	Igor2009 (STEAM_0:0:156365818): 
+Wed Jul 31 00:23:09 2019	Kilobyte (STEAM_0:1:73892581) has joined the game
+Wed Jul 31 00:23:09 2019	Kilobyte (STEAM_0:1:73892581) spawned
+Wed Jul 31 00:23:27 2019	Kilobyte was killed by Igor2009 with a fas2_glock20
+Wed Jul 31 00:23:48 2019	Kilobyte (STEAM_0:1:73892581) disconnected
+Wed Jul 31 00:25:34 2019	Kilobyte (STEAM_0:1:73892581) has joined the game
+Wed Jul 31 00:25:34 2019	Kilobyte (STEAM_0:1:73892581) spawned
+Wed Jul 31 00:26:13 2019	Kilobyte (STEAM_0:1:73892581) disconnected
+Wed Jul 31 00:28:07 2019	Kilobyte (STEAM_0:1:73892581) has joined the game
+Wed Jul 31 00:28:07 2019	Kilobyte (STEAM_0:1:73892581) spawned
+Wed Jul 31 00:28:45 2019	Kilobyte (STEAM_0:1:73892581) disconnected
+Wed Jul 31 00:30:19 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Wed Jul 31 00:30:42 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Wed Jul 31 00:30:49 2019	Bexgasm~ (STEAM_0:1:63382511): 
+Wed Jul 31 00:30:55 2019	DrDerpenstein (STEAM_0:0:13562763): 
+Wed Jul 31 00:31:57 2019	DrDerpenstein (STEAM_0:0:13562763) disconnected
+Wed Jul 31 00:32:30 2019	Igor2009 (STEAM_0:0:156365818): /000
+Wed Jul 31 00:32:54 2019	Igor2009 (STEAM_0:0:156365818) disconnected
+Wed Jul 31 00:34:28 2019	Bexgasm~ was killed by Entity [0][worldspawn] with a unknown
+Wed Jul 31 00:34:32 2019	Bexgasm~ (STEAM_0:1:63382511) spawned
+Wed Jul 31 00:34:44 2019	Bexgasm~ (STEAM_0:1:63382511): 
+Wed Jul 31 00:47:07 2019	Bexgasm~ (STEAM_0:1:63382511) spawned SENT keypad
+Wed Jul 31 00:47:07 2019	Bexgasm~ (STEAM_0:1:63382511) spawned SENT keypad

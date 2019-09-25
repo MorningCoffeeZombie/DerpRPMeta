@@ -1,0 +1,11 @@
+{
+	"Vehicles": {
+		"models/airboat.mdl$$$_VC_$$$Airboat$$$_VC_$$$0": {
+			"Fuel": 98.0,
+			"Health": 15.5395
+		},
+		"models/tdmcars/hon_crxsir.mdl$$$_VC_$$$Honda CR-X SiR$$$_VC_$$$0": {
+			"Spawned": 1612.0
+		}
+	}
+}

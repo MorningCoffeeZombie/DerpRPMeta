@@ -1,0 +1,12 @@
+18/07/2019 - 07:00:21 PM	UG | M A S T E R(Joining/Connecting) connected from the server
+18/07/2019 - 07:00:31 PM	Derp(Joining/Connecting) connected from the server
+18/07/2019 - 07:00:58 PM	Bobbicus(Joining/Connecting) connected from the server
+18/07/2019 - 07:01:09 PM	UG | M A S T E R(Citizen) said '/goto will'
+18/07/2019 - 07:01:31 PM	UG | M A S T E R(Citizen) said 'you have you'r fadmin'
+18/07/2019 - 07:01:46 PM	UG | M A S T E R(Citizen) used ULX command ' strip $238791546'
+18/07/2019 - 07:01:49 PM	William(Citizen) said 'b-but'
+18/07/2019 - 07:01:58 PM	William(Citizen) said 'tab menu is still ugly as shit'
+18/07/2019 - 07:02:02 PM	William(Citizen) said 'where is the old tab menu'
+18/07/2019 - 07:02:07 PM	William(Citizen) said 'the one when fadmin was working'
+18/07/2019 - 07:02:15 PM	William(Citizen) said 'all i see are ulx commands'
+18/07/2019 - 07:02:24 PM	UG | M A S T E R(Citizen) used ULX command ' map rp_downtown_tits_v2'

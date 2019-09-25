@@ -1,0 +1,5 @@
+{
+	"Vehicles": {
+		"models/tdmcars/emergency/mitsu_evox.mdl$$$_VC_$$$Mitsubishi Evo X Police$$$_VC_$$$0": []
+	}
+}

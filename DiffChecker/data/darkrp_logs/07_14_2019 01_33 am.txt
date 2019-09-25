@@ -1,0 +1,614 @@
+Sun Jul 14 01:33:06 2019	UG | M A S T E R (STEAM_0:1:180622613) has joined the game
+Sun Jul 14 01:33:06 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Sun Jul 14 01:34:22 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Sun Jul 14 01:34:53 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT ariechart
+Sun Jul 14 01:34:57 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT ariechart
+Sun Jul 14 01:35:25 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT arierules
+Sun Jul 14 01:35:28 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT arierules
+Sun Jul 14 01:36:00 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT ariesite
+Sun Jul 14 01:36:02 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT arieinformation
+Sun Jul 14 01:36:05 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT arieinformation
+Sun Jul 14 01:36:19 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT arieinformation
+Sun Jul 14 01:37:16 2019	UG | M A S T E R (STEAM_0:1:180622613) disconnected
+Sun Jul 14 09:21:13 2019	iWolfz -ERP- (STEAM_0:0:443923189) has joined the game
+Sun Jul 14 09:21:13 2019	iWolfz -ERP- (STEAM_0:0:443923189) spawned
+Sun Jul 14 09:23:16 2019	iWolfz -ERP- (STEAM_0:0:443923189): 
+Sun Jul 14 09:23:18 2019	iWolfz -ERP- (STEAM_0:0:443923189): !back
+Sun Jul 14 09:23:21 2019	iWolfz -ERP- (STEAM_0:0:443923189): 
+Sun Jul 14 09:23:45 2019	iWolfz -ERP- (STEAM_0:0:443923189): !help
+Sun Jul 14 09:23:47 2019	iWolfz -ERP- (STEAM_0:0:443923189): /help
+Sun Jul 14 09:25:30 2019	iWolfz -ERP- (STEAM_0:0:443923189) disconnected
+Sun Jul 14 13:49:41 2019	LV (STEAM_0:0:460419170) has joined the game
+Sun Jul 14 13:49:41 2019	LV (STEAM_0:0:460419170) spawned
+Sun Jul 14 13:55:03 2019	LV (STEAM_0:0:460419170) disconnected
+Sun Jul 14 14:20:52 2019	Derp (STEAM_0:0:52504530) has joined the game
+Sun Jul 14 14:20:52 2019	Derp (STEAM_0:0:52504530) spawned
+Sun Jul 14 14:24:53 2019	Derp (STEAM_0:0:52504530) spawned SENT double_or_nothing
+Sun Jul 14 14:27:02 2019	Derp (STEAM_0:0:52504530) spawned SENT zwf_buyer_npc
+Sun Jul 14 14:27:07 2019	Derp (STEAM_0:0:52504530) spawned SENT zwf_buyer_npc
+Sun Jul 14 14:27:16 2019	Derp (STEAM_0:0:52504530) spawned SENT zwf_buyer_npc
+Sun Jul 14 14:27:19 2019	Derp (STEAM_0:0:52504530) spawned SENT zwf_splice_lab
+Sun Jul 14 14:27:21 2019	Derp (STEAM_0:0:52504530) spawned SENT zwf_buyer_npc
+Sun Jul 14 14:27:22 2019	Derp (STEAM_0:0:52504530) spawned SENT zwf_buyer_npc
+Sun Jul 14 14:27:33 2019	Derp (STEAM_0:0:52504530) spawned SENT zwf_buyer_npc
+Sun Jul 14 14:27:34 2019	Derp (STEAM_0:0:52504530) spawned SENT zwf_buyer_npc
+Sun Jul 14 14:27:36 2019	Derp (STEAM_0:0:52504530) spawned SENT zwf_buyer_npc
+Sun Jul 14 14:32:18 2019	Derp (STEAM_0:0:52504530) spawned SENT zwf_buyer_npc
+Sun Jul 14 14:32:20 2019	Derp (STEAM_0:0:52504530) spawned SENT zwf_buyer_npc
+Sun Jul 14 14:32:28 2019	iWolfz -ERP- (STEAM_0:0:443923189) has joined the game
+Sun Jul 14 14:32:28 2019	iWolfz -ERP- (STEAM_0:0:443923189) spawned
+Sun Jul 14 14:33:07 2019	Derp (STEAM_0:0:52504530) spawned SENT zwf_buyer_npc
+Sun Jul 14 14:33:14 2019	iWolfz -ERP- (STEAM_0:0:443923189): // hi
+Sun Jul 14 14:33:19 2019	Derp (STEAM_0:0:52504530): hey
+Sun Jul 14 14:33:28 2019	Derp (STEAM_0:0:52504530): do u see errors?
+Sun Jul 14 14:33:33 2019	Derp (STEAM_0:0:52504530): good
+Sun Jul 14 14:33:40 2019	Derp (STEAM_0:0:52504530): oh yeah
+Sun Jul 14 14:33:57 2019	Derp (STEAM_0:0:52504530): i suggest u download the collection 
+Sun Jul 14 14:34:03 2019	Derp (STEAM_0:0:52504530): sometimes gmod doesnt download the errors
+Sun Jul 14 14:34:21 2019	Derp (STEAM_0:0:52504530): i will beat u
+Sun Jul 14 14:34:51 2019	Derp (STEAM_0:0:52504530): lets make weed
+Sun Jul 14 14:35:06 2019	Derp (STEAM_0:0:52504530): lol
+Sun Jul 14 14:35:19 2019	Derp (STEAM_0:0:52504530): i think the profit changes over time so u have to keep track of the profit amount
+Sun Jul 14 14:35:28 2019	Derp (STEAM_0:0:52504530): does it say 7 for u?
+Sun Jul 14 14:35:38 2019	Derp (STEAM_0:0:52504530): before it was 24
+Sun Jul 14 14:36:09 2019	Derp (STEAM_0:0:52504530): the ranks are fixed
+Sun Jul 14 14:36:30 2019	Derp (STEAM_0:0:52504530): i removed all of that shit
+Sun Jul 14 14:36:34 2019	Derp (STEAM_0:0:52504530): the groups are fine now
+Sun Jul 14 14:36:49 2019	iWolfz -ERP- was killed by Himself with a suicide trick
+Sun Jul 14 14:36:52 2019	iWolfz -ERP- (STEAM_0:0:443923189) spawned
+Sun Jul 14 14:36:59 2019	iWolfz -ERP- (STEAM_0:0:443923189): // Why?? :O
+Sun Jul 14 14:37:07 2019	iWolfz -ERP- (STEAM_0:0:443923189): !goto derp
+Sun Jul 14 14:37:11 2019	Derp (STEAM_0:0:52504530): why what
+Sun Jul 14 14:37:20 2019	Derp (STEAM_0:0:52504530): i made u a better moderator
+Sun Jul 14 14:37:22 2019	Derp (STEAM_0:0:52504530): the rank u had was shit
+Sun Jul 14 14:37:31 2019	Derp (STEAM_0:0:52504530): the trial mod couldnt do anything
+Sun Jul 14 14:37:35 2019	Derp (STEAM_0:0:52504530): now u can actually do stuff
+Sun Jul 14 14:37:48 2019	iWolfz -ERP- (STEAM_0:0:443923189): !wanr
+Sun Jul 14 14:37:49 2019	iWolfz -ERP- (STEAM_0:0:443923189): !warn
+Sun Jul 14 14:37:53 2019	Derp (STEAM_0:0:52504530): !warn
+Sun Jul 14 14:38:10 2019	Derp (STEAM_0:0:52504530): we removed BAM because people hated it
+Sun Jul 14 14:38:33 2019	Derp (STEAM_0:0:52504530): but if the server gets filled with propblockers and everyone is complaining when there is no admins on i swear to god
+Sun Jul 14 14:38:47 2019	Derp (STEAM_0:0:52504530): thank u
+Sun Jul 14 14:38:50 2019	Derp (STEAM_0:0:52504530): alright lets grow some weed
+Sun Jul 14 14:38:56 2019	Derp (STEAM_0:0:52504530): do we need a bigger place
+Sun Jul 14 14:39:16 2019	Derp (STEAM_0:0:52504530): ye
+Sun Jul 14 14:39:20 2019	Derp (STEAM_0:0:52504530): lol
+Sun Jul 14 14:39:55 2019	Derp (STEAM_0:0:52504530): alright
+Sun Jul 14 14:40:12 2019	Derp (STEAM_0:0:52504530): .!ban wolf weedman
+Sun Jul 14 14:40:36 2019	Derp (STEAM_0:0:52504530): are u spawning stuff in?
+Sun Jul 14 14:40:48 2019	Derp (STEAM_0:0:52504530): are u buying it or just spawning
+Sun Jul 14 14:40:55 2019	Derp (STEAM_0:0:52504530): oh ok
+Sun Jul 14 14:41:04 2019	Derp (STEAM_0:0:52504530): excuse me
+Sun Jul 14 14:41:17 2019	Derp (STEAM_0:0:52504530): thats what they all say
+Sun Jul 14 14:42:49 2019	Derp (STEAM_0:0:52504530): keep in mind that at the beginning ur probably not gonna make back ur money because u spent a lot 
+Sun Jul 14 14:43:06 2019	Derp (STEAM_0:0:52504530): maybe 2nd or 3rd time selling u will make profit but it also depends on the guy 
+Sun Jul 14 14:44:29 2019	Derp (STEAM_0:0:52504530) spawned SENT zwf_autopacker
+Sun Jul 14 14:45:19 2019	Derp (STEAM_0:0:52504530): we will find out
+Sun Jul 14 14:47:02 2019	Derp (STEAM_0:0:52504530): u have noclip
+Sun Jul 14 14:47:15 2019	Derp (STEAM_0:0:52504530): its fine as long as u dont abuse it
+Sun Jul 14 14:47:27 2019	Derp (STEAM_0:0:52504530): only use noclip when u really have to
+Sun Jul 14 14:47:40 2019	Derp (STEAM_0:0:52504530): but ur a good guy so idc when u use it
+Sun Jul 14 14:47:53 2019	Derp (STEAM_0:0:52504530): UM
+Sun Jul 14 14:47:56 2019	Derp (STEAM_0:0:52504530): HEY
+Sun Jul 14 14:47:58 2019	Derp (STEAM_0:0:52504530): HEY
+Sun Jul 14 14:48:04 2019	Derp (STEAM_0:0:52504530): lol
+Sun Jul 14 14:48:06 2019	Derp (STEAM_0:0:52504530): how do u fix that
+Sun Jul 14 14:48:34 2019	Derp (STEAM_0:0:52504530): what happened
+Sun Jul 14 14:48:41 2019	Derp (STEAM_0:0:52504530): ye
+Sun Jul 14 14:49:06 2019	Derp (STEAM_0:0:52504530): ok thank for telling me
+Sun Jul 14 14:49:14 2019	Derp (STEAM_0:0:52504530): its infected again
+Sun Jul 14 14:49:32 2019	Derp (STEAM_0:0:52504530): i dont think it lets me disinfect it because its ur stuff
+Sun Jul 14 14:49:50 2019	Derp (STEAM_0:0:52504530): yay its done
+Sun Jul 14 14:50:01 2019	Derp (STEAM_0:0:52504530): oh yeah we will fix prop flying too eventually
+Sun Jul 14 14:50:13 2019	Derp (STEAM_0:0:52504530): me and the co owner just went to bed because we were so tired
+Sun Jul 14 14:51:35 2019	Derp (STEAM_0:0:52504530): btw u can use the pallet to sell blocks of weed
+Sun Jul 14 14:52:01 2019	Derp (STEAM_0:0:52504530): oh no
+Sun Jul 14 14:52:07 2019	Derp (STEAM_0:0:52504530): the guy who joined
+Sun Jul 14 14:52:20 2019	Derp (STEAM_0:0:52504530): i dont dislike him but hes a bit annoying
+Sun Jul 14 14:52:29 2019	Derp (STEAM_0:0:52504530): he acts like a 6 year old but hes 14
+Sun Jul 14 14:52:53 2019	Derp (STEAM_0:0:52504530): ok
+Sun Jul 14 14:52:56 2019	LV (STEAM_0:0:460419170) has joined the game
+Sun Jul 14 14:52:56 2019	LV (STEAM_0:0:460419170) spawned
+Sun Jul 14 14:53:20 2019	LV (STEAM_0:0:460419170): !goto derp
+Sun Jul 14 14:53:29 2019	LV (STEAM_0:0:460419170): hey derp
+Sun Jul 14 14:53:45 2019	LV (STEAM_0:0:460419170): i wolfz
+Sun Jul 14 14:54:16 2019	Derp (STEAM_0:0:52504530): ye
+Sun Jul 14 14:54:44 2019	LV (STEAM_0:0:460419170): derp
+Sun Jul 14 14:54:44 2019	Derp (STEAM_0:0:52504530): lol
+Sun Jul 14 14:54:47 2019	Derp (STEAM_0:0:52504530): ye
+Sun Jul 14 14:54:54 2019	LV (STEAM_0:0:460419170): what happen yesterday
+Sun Jul 14 14:55:05 2019	iWolfz -ERP- (STEAM_0:0:443923189): derp name of addon
+Sun Jul 14 14:55:12 2019	Derp (STEAM_0:0:52504530): co owner was just messing around but he stopped and he is helping now
+Sun Jul 14 14:55:19 2019	Derp (STEAM_0:0:52504530): zeros growop
+Sun Jul 14 14:55:29 2019	LV (STEAM_0:0:460419170): i thought some one was hacking
+Sun Jul 14 14:55:36 2019	Derp (STEAM_0:0:52504530): he was hacking but he wasnt permanently damaging the server
+Sun Jul 14 14:55:41 2019	LV (STEAM_0:0:460419170): oh
+Sun Jul 14 14:56:07 2019	LV (STEAM_0:0:460419170): i joined earlier and i saw the ground and i could see almost everything but now i cant it is weird
+Sun Jul 14 14:56:15 2019	Derp (STEAM_0:0:52504530): we changed maps
+Sun Jul 14 14:56:20 2019	LV (STEAM_0:0:460419170): i know
+Sun Jul 14 14:56:30 2019	LV (STEAM_0:0:460419170): but now i cant see much that i could earlier
+Sun Jul 14 14:56:42 2019	Derp (STEAM_0:0:52504530): this map is probably using more css textures than the other one
+Sun Jul 14 14:56:57 2019	LV (STEAM_0:0:460419170): i thought this was the exact one i usually play on
+Sun Jul 14 14:57:06 2019	Derp (STEAM_0:0:52504530): this map is really common now
+Sun Jul 14 14:57:14 2019	Derp (STEAM_0:0:52504530): the first one we had on the server used to be really common
+Sun Jul 14 14:57:30 2019	LV (STEAM_0:0:460419170): its going to blow
+Sun Jul 14 14:57:36 2019	Derp (STEAM_0:0:52504530): well shit lmao
+Sun Jul 14 14:57:49 2019	Derp (STEAM_0:0:52504530): hes doing research
+Sun Jul 14 14:57:55 2019	Derp (STEAM_0:0:52504530): on how to grow the weed
+Sun Jul 14 14:57:55 2019	LV (STEAM_0:0:460419170): on what
+Sun Jul 14 14:58:00 2019	LV (STEAM_0:0:460419170): oh i know how to
+Sun Jul 14 14:58:06 2019	Derp (STEAM_0:0:52504530): well this weed is more difficult 
+Sun Jul 14 14:58:09 2019	Derp (STEAM_0:0:52504530): the seed is harder
+Sun Jul 14 14:58:23 2019	LV (STEAM_0:0:460419170): i think i know then
+Sun Jul 14 14:58:32 2019	Derp (STEAM_0:0:52504530): ur generator blew up
+Sun Jul 14 14:58:49 2019	Derp (STEAM_0:0:52504530): what is the problem ur having with the weed maybe i can help
+Sun Jul 14 14:58:49 2019	LV (STEAM_0:0:460419170): wait let me look on tablet
+Sun Jul 14 14:58:57 2019	LV (STEAM_0:0:460419170): i might to
+Sun Jul 14 15:00:22 2019	Derp (STEAM_0:0:52504530): i think it needs to grow a bit more
+Sun Jul 14 15:00:41 2019	LV (STEAM_0:0:460419170): what
+Sun Jul 14 15:00:52 2019	Derp (STEAM_0:0:52504530): i think something happened
+Sun Jul 14 15:00:53 2019	LV (STEAM_0:0:460419170): !cloak lv 255
+Sun Jul 14 15:00:56 2019	Derp (STEAM_0:0:52504530): i cant remove the mix 
+Sun Jul 14 15:00:57 2019	LV (STEAM_0:0:460419170): !god
+Sun Jul 14 15:01:53 2019	Derp (STEAM_0:0:52504530): lol
+Sun Jul 14 15:02:09 2019	Derp (STEAM_0:0:52504530): OH YEAH
+Sun Jul 14 15:02:21 2019	LV (STEAM_0:0:460419170): no
+Sun Jul 14 15:02:28 2019	Sausy (STEAM_0:0:112032713) has joined the game
+Sun Jul 14 15:02:28 2019	Sausy (STEAM_0:0:112032713) spawned
+Sun Jul 14 15:02:37 2019	Derp (STEAM_0:0:52504530): how much
+Sun Jul 14 15:02:50 2019	LV (STEAM_0:0:460419170): /pm derp put it on the pallet so you get more money
+Sun Jul 14 15:03:00 2019	LV (STEAM_0:0:460419170): /pm derp heal the plant
+Sun Jul 14 15:03:04 2019	Derp (STEAM_0:0:52504530): lv says if u put it on the pallet u get more money
+Sun Jul 14 15:03:25 2019	Derp (STEAM_0:0:52504530): brb
+Sun Jul 14 15:03:31 2019	Derp (STEAM_0:0:52504530): hi
+Sun Jul 14 15:03:38 2019	Sausy (STEAM_0:0:112032713): hi
+Sun Jul 14 15:03:43 2019	Derp (STEAM_0:0:52504530): sup
+Sun Jul 14 15:03:57 2019	Sausy (STEAM_0:0:112032713): nothing much i was just about to use the advdupe tool
+Sun Jul 14 15:04:02 2019	Derp (STEAM_0:0:52504530): does it work
+Sun Jul 14 15:04:04 2019	LV (STEAM_0:0:460419170) spawned SENT zwf_pot_hydro
+Sun Jul 14 15:04:06 2019	Sausy (STEAM_0:0:112032713): idk
+Sun Jul 14 15:04:09 2019	Derp (STEAM_0:0:52504530): lets try
+Sun Jul 14 15:04:16 2019	Sausy (STEAM_0:0:112032713): well
+Sun Jul 14 15:04:17 2019	Derp (STEAM_0:0:52504530): ok its fucking gone
+Sun Jul 14 15:04:19 2019	Sausy (STEAM_0:0:112032713): there isn't any
+Sun Jul 14 15:04:27 2019	Derp (STEAM_0:0:52504530): lmao it was there yesterday
+Sun Jul 14 15:04:32 2019	LV (STEAM_0:0:460419170): /pm der hey derp if i was weed grower can i use the special stuff
+Sun Jul 14 15:04:34 2019	Sausy (STEAM_0:0:112032713): bruh
+Sun Jul 14 15:04:42 2019	Sausy (STEAM_0:0:112032713): maybe it decided to grow little feets and run away
+Sun Jul 14 15:04:47 2019	Derp (STEAM_0:0:52504530): knowing this game
+Sun Jul 14 15:04:49 2019	Derp (STEAM_0:0:52504530): probably
+Sun Jul 14 15:04:55 2019	Sausy (STEAM_0:0:112032713): yup
+Sun Jul 14 15:05:01 2019	iWolfz -ERP- (STEAM_0:0:443923189): // Derp,
+Sun Jul 14 15:05:02 2019	iWolfz -ERP- (STEAM_0:0:443923189): 
+Sun Jul 14 15:05:03 2019	Sausy (STEAM_0:0:112032713): well i guess i can't paste my base
+Sun Jul 14 15:05:04 2019	iWolfz -ERP- (STEAM_0:0:443923189): 
+Sun Jul 14 15:05:12 2019	Derp (STEAM_0:0:52504530): ill try to fix it in a bit
+Sun Jul 14 15:05:16 2019	Sausy (STEAM_0:0:112032713): ok
+Sun Jul 14 15:05:21 2019	LV (STEAM_0:0:460419170): !goto derp
+Sun Jul 14 15:05:22 2019	Derp (STEAM_0:0:52504530): if u need anything else rn let me know
+Sun Jul 14 15:05:27 2019	Derp (STEAM_0:0:52504530): /give 5000
+Sun Jul 14 15:05:29 2019	Derp (STEAM_0:0:52504530) has given $5,000 to Sausy (STEAM_0:0:112032713)
+Sun Jul 14 15:05:35 2019	Derp (STEAM_0:0:52504530): /dropmoney 5000
+Sun Jul 14 15:05:36 2019	Derp (STEAM_0:0:52504530) has dropped $5,000
+Sun Jul 14 15:05:40 2019	LV (STEAM_0:0:460419170): hey derp
+Sun Jul 14 15:05:43 2019	Derp (STEAM_0:0:52504530): what
+Sun Jul 14 15:05:52 2019	LV (STEAM_0:0:460419170): did you see my pm
+Sun Jul 14 15:05:58 2019	Derp (STEAM_0:0:52504530): yeah go ahead idc
+Sun Jul 14 15:06:03 2019	LV (STEAM_0:0:460419170): ok thank you
+Sun Jul 14 15:06:17 2019	LV (STEAM_0:0:460419170): !goto wolf
+Sun Jul 14 15:06:18 2019	iWolfz -ERP- (STEAM_0:0:443923189): 
+Sun Jul 14 15:06:19 2019	iWolfz -ERP- (STEAM_0:0:443923189): 
+Sun Jul 14 15:06:20 2019	Derp (STEAM_0:0:52504530): this server is like 3 days old so sorry if its kind of shit rn
+Sun Jul 14 15:06:28 2019	Sausy (STEAM_0:0:112032713): nah
+Sun Jul 14 15:06:43 2019	Derp (STEAM_0:0:52504530): it was only me working on it for a while until a friend came along to help
+Sun Jul 14 15:06:46 2019	LV (STEAM_0:0:460419170): hey wolfz
+Sun Jul 14 15:06:57 2019	LV (STEAM_0:0:460419170): can i base here and do weed with you
+Sun Jul 14 15:07:02 2019	Sausy (STEAM_0:0:112032713): aslong u have precision tool and stacker and keypads im gucci
+Sun Jul 14 15:07:06 2019	LV (STEAM_0:0:460419170): oh
+Sun Jul 14 15:07:10 2019	iWolfz -ERP- (STEAM_0:0:443923189): // oof
+Sun Jul 14 15:07:12 2019	iWolfz -ERP- (STEAM_0:0:443923189): // Derp I gotta go
+Sun Jul 14 15:07:15 2019	LV (STEAM_0:0:460419170): you can see me
+Sun Jul 14 15:07:17 2019	Derp (STEAM_0:0:52504530): sounds good ill make sure u get ur advdupe as well but it might require a server restart so ill do it in a bit
+Sun Jul 14 15:07:24 2019	iWolfz -ERP- (STEAM_0:0:443923189) disconnected
+Sun Jul 14 15:07:39 2019	Sausy (STEAM_0:0:112032713): lemme know before you restart the server
+Sun Jul 14 15:07:43 2019	Derp (STEAM_0:0:52504530): ill let u know
+Sun Jul 14 15:07:48 2019	Sausy (STEAM_0:0:112032713): ok perfect
+Sun Jul 14 15:08:03 2019	LV (STEAM_0:0:460419170): !goto derp
+Sun Jul 14 15:08:06 2019	LV (STEAM_0:0:460419170): can you see me
+Sun Jul 14 15:08:24 2019	Derp (STEAM_0:0:52504530): no
+Sun Jul 14 15:08:25 2019	LV (STEAM_0:0:460419170): use the special stuff
+Sun Jul 14 15:08:35 2019	Derp (STEAM_0:0:52504530): nah im fine i wanna do it like this
+Sun Jul 14 15:08:46 2019	LV (STEAM_0:0:460419170): ok i will go greet reese
+Sun Jul 14 15:08:52 2019	Derp (STEAM_0:0:52504530): reese
+Sun Jul 14 15:08:53 2019	LV (STEAM_0:0:460419170): what what
+Sun Jul 14 15:08:54 2019	Derp (STEAM_0:0:52504530): who is reese
+Sun Jul 14 15:09:00 2019	reesemorrow34 (STEAM_0:1:422822587) has joined the game
+Sun Jul 14 15:09:00 2019	reesemorrow34 (STEAM_0:1:422822587) spawned
+Sun Jul 14 15:09:00 2019	LV (STEAM_0:0:460419170): it said he joined
+Sun Jul 14 15:09:07 2019	Derp (STEAM_0:0:52504530): i guess hes gone
+Sun Jul 14 15:09:09 2019	Derp (STEAM_0:0:52504530): or hes still loading
+Sun Jul 14 15:09:13 2019	Derp (STEAM_0:0:52504530): oh no there he is
+Sun Jul 14 15:09:15 2019	LV (STEAM_0:0:460419170): hes on
+Sun Jul 14 15:09:17 2019	LV (STEAM_0:0:460419170): brb
+Sun Jul 14 15:09:21 2019	LV (STEAM_0:0:460419170): !goto reese
+Sun Jul 14 15:09:31 2019	LV (STEAM_0:0:460419170): welcome
+Sun Jul 14 15:09:47 2019	LV (STEAM_0:0:460419170): !uncloak
+Sun Jul 14 15:09:58 2019	LV (STEAM_0:0:460419170): welcome
+Sun Jul 14 15:10:02 2019	reesemorrow34 (STEAM_0:1:422822587): hi
+Sun Jul 14 15:10:13 2019	LV (STEAM_0:0:460419170): i am going to let you do your job have fun
+Sun Jul 14 15:10:17 2019	reesemorrow34 (STEAM_0:1:422822587): ok
+Sun Jul 14 15:10:33 2019	LV (STEAM_0:0:460419170): !goto derp
+Sun Jul 14 15:10:39 2019	LV (STEAM_0:0:460419170): can i do weed with you
+Sun Jul 14 15:10:47 2019	Derp (STEAM_0:0:52504530): u have to have ur own stuff or else it wont work
+Sun Jul 14 15:10:53 2019	LV (STEAM_0:0:460419170): i know
+Sun Jul 14 15:10:57 2019	Derp (STEAM_0:0:52504530): well do it upstairs
+Sun Jul 14 15:11:05 2019	LV (STEAM_0:0:460419170): ok thank you
+Sun Jul 14 15:11:08 2019	reesemorrow34 (STEAM_0:1:422822587): // how can I apply for staff?
+Sun Jul 14 15:11:21 2019	Derp (STEAM_0:0:52504530): /ooc we are in the process of making a website rn
+Sun Jul 14 15:11:34 2019	Derp (STEAM_0:0:52504530): /ooc what staff position do u want
+Sun Jul 14 15:11:59 2019	reesemorrow34 (STEAM_0:1:422822587): what posititions are there?
+Sun Jul 14 15:12:06 2019	LV (STEAM_0:0:460419170): as i play more can i get super admin
+Sun Jul 14 15:12:53 2019	Derp (STEAM_0:0:52504530): before i give u such a powerful rank u need to get CSS and u need to prove to me that u are doing a good job
+Sun Jul 14 15:13:00 2019	LV (STEAM_0:0:460419170): i need you to shoot me also
+Sun Jul 14 15:13:12 2019	LV (STEAM_0:0:460419170): well i am in god
+Sun Jul 14 15:13:14 2019	LV (STEAM_0:0:460419170): hold on
+Sun Jul 14 15:13:18 2019	LV (STEAM_0:0:460419170): !ungod
+Sun Jul 14 15:13:31 2019	Sausy (STEAM_0:0:112032713): // umm derp
+Sun Jul 14 15:13:43 2019	LV (STEAM_0:0:460419170): want me to try and help him3
+Sun Jul 14 15:13:55 2019	LV (STEAM_0:0:460419170): want me to try and help him
+Sun Jul 14 15:14:07 2019	Derp (STEAM_0:0:52504530): yes
+Sun Jul 14 15:14:12 2019	Sausy (STEAM_0:0:112032713): // you should not use Stacker you should use Stacker v2
+Sun Jul 14 15:14:12 2019	LV (STEAM_0:0:460419170) spawned SENT zwf_pot_hydro
+Sun Jul 14 15:14:20 2019	Derp (STEAM_0:0:52504530): i didnt even know that was a thing 
+Sun Jul 14 15:14:24 2019	Sausy (STEAM_0:0:112032713): advanced stacker or something like that
+Sun Jul 14 15:14:30 2019	LV (STEAM_0:0:460419170) spawned SENT zwf_weedblock
+Sun Jul 14 15:14:31 2019	Sausy (STEAM_0:0:112032713): it makes the job more easier
+Sun Jul 14 15:14:44 2019	Derp (STEAM_0:0:52504530): sorry my staff told me to just get stacker and nothing else
+Sun Jul 14 15:15:02 2019	Sausy (STEAM_0:0:112032713): well ik alot of good addons for building since i am a pro builder
+Sun Jul 14 15:15:13 2019	Derp (STEAM_0:0:52504530): ill try to find that stacker tool before i restart
+Sun Jul 14 15:15:25 2019	Sausy (STEAM_0:0:112032713): i'll find it for you
+Sun Jul 14 15:15:30 2019	Sausy (STEAM_0:0:112032713): send you the link
+Sun Jul 14 15:16:00 2019	Sausy (STEAM_0:0:112032713): https://steamcommunity.com/sharedfiles/filedetails/?id=264467687
+Sun Jul 14 15:16:04 2019	Sausy (STEAM_0:0:112032713): improved stacker
+Sun Jul 14 15:16:05 2019	LV (STEAM_0:0:460419170) spawned SENT zwf_pot_hydro
+Sun Jul 14 15:16:06 2019	Derp (STEAM_0:0:52504530): thanks
+Sun Jul 14 15:16:09 2019	Sausy (STEAM_0:0:112032713): np
+Sun Jul 14 15:16:21 2019	Derp (STEAM_0:0:52504530): and u also want advdupe right
+Sun Jul 14 15:16:28 2019	Sausy (STEAM_0:0:112032713): yuh
+Sun Jul 14 15:16:31 2019	Sausy (STEAM_0:0:112032713): advdupe 2
+Sun Jul 14 15:16:33 2019	Derp (STEAM_0:0:52504530): k
+Sun Jul 14 15:16:44 2019	Derp (STEAM_0:0:52504530): this man is a fucking hitman with a tip jar
+Sun Jul 14 15:16:52 2019	Sausy (STEAM_0:0:112032713): // https://steamcommunity.com/sharedfiles/filedetails/?id=773402917
+Sun Jul 14 15:16:58 2019	Sausy (STEAM_0:0:112032713): // that's advdupe 2
+Sun Jul 14 15:17:07 2019	reesemorrow34 (STEAM_0:1:422822587): im changing my job just give me a sec
+Sun Jul 14 15:17:12 2019	Derp (STEAM_0:0:52504530): /pm sausy i sent u a FR
+Sun Jul 14 15:17:20 2019	Derp (STEAM_0:0:52504530): no its fine lol i just think its funny as hell
+Sun Jul 14 15:17:21 2019	Sausy (STEAM_0:0:112032713): // in steams ?
+Sun Jul 14 15:17:30 2019	Derp (STEAM_0:0:52504530): /pm sausy yup
+Sun Jul 14 15:17:39 2019	Sausy (STEAM_0:0:112032713): // i accepted
+Sun Jul 14 15:17:45 2019	LV (STEAM_0:0:460419170) spawned SENT zwf_weedstick
+Sun Jul 14 15:17:53 2019	LV (STEAM_0:0:460419170) spawned SENT zwf_lamp
+Sun Jul 14 15:18:00 2019	Derp (STEAM_0:0:52504530): um
+Sun Jul 14 15:18:07 2019	reesemorrow34 (STEAM_0:1:422822587): yes?
+Sun Jul 14 15:18:07 2019	LV (STEAM_0:0:460419170): /pm derp hey derp i need help
+Sun Jul 14 15:18:11 2019	Derp (STEAM_0:0:52504530): n-nothing
+Sun Jul 14 15:18:24 2019	Derp (STEAM_0:0:52504530): ye
+Sun Jul 14 15:18:36 2019	LV (STEAM_0:0:460419170): i want to get the special lamp but i cant get it
+Sun Jul 14 15:18:47 2019	Derp (STEAM_0:0:52504530): u mean the led lamp
+Sun Jul 14 15:18:54 2019	LV (STEAM_0:0:460419170): yes
+Sun Jul 14 15:19:09 2019	LV (STEAM_0:0:460419170): can you get it
+Sun Jul 14 15:19:11 2019	Derp (STEAM_0:0:52504530): i cant even buy it myself its only for superadmins and VIP and im neither
+Sun Jul 14 15:19:15 2019	Derp (STEAM_0:0:52504530): i need to change that in the settings
+Sun Jul 14 15:19:18 2019	Sausy (STEAM_0:0:112032713): // btw i am prop pushing my self..
+Sun Jul 14 15:19:24 2019	LV (STEAM_0:0:460419170): so no one can get it
+Sun Jul 14 15:19:29 2019	Derp (STEAM_0:0:52504530): only superadmins right now
+Sun Jul 14 15:19:33 2019	Derp (STEAM_0:0:52504530): ill change it later
+Sun Jul 14 15:19:40 2019	LV (STEAM_0:0:460419170): is it possible to be vip and admin
+Sun Jul 14 15:19:46 2019	Derp (STEAM_0:0:52504530): no u can only be one at a time
+Sun Jul 14 15:19:51 2019	LV (STEAM_0:0:460419170): oh ok
+Sun Jul 14 15:19:57 2019	LV (STEAM_0:0:460419170): i will pick admin
+Sun Jul 14 15:19:58 2019	Derp (STEAM_0:0:52504530): ill change it later so admins can do it too
+Sun Jul 14 15:20:06 2019	LV (STEAM_0:0:460419170): thank you
+Sun Jul 14 15:21:11 2019	LV (STEAM_0:0:460419170) spawned SENT zwf_outlet
+Sun Jul 14 15:23:35 2019	LV (STEAM_0:0:460419170) spawned SENT zwf_autopacker
+Sun Jul 14 15:25:00 2019	LV (STEAM_0:0:460419170): /dropmoney 11000
+Sun Jul 14 15:25:01 2019	LV (STEAM_0:0:460419170) has dropped $11,000
+Sun Jul 14 15:25:07 2019	Derp (STEAM_0:0:52504530): why
+Sun Jul 14 15:25:13 2019	LV (STEAM_0:0:460419170): take it its for the special stuff
+Sun Jul 14 15:25:18 2019	reesemorrow34 (STEAM_0:1:422822587): hey
+Sun Jul 14 15:25:29 2019	Sausy (STEAM_0:0:112032713): hi
+Sun Jul 14 15:25:31 2019	reesemorrow34 (STEAM_0:1:422822587): I need help
+Sun Jul 14 15:25:34 2019	Sausy (STEAM_0:0:112032713): wat
+Sun Jul 14 15:25:41 2019	reesemorrow34 (STEAM_0:1:422822587): how do u use the key pad
+Sun Jul 14 15:25:45 2019	Sausy (STEAM_0:0:112032713): o
+Sun Jul 14 15:25:52 2019	Sausy (STEAM_0:0:112032713): well i haven't use them yet
+Sun Jul 14 15:25:57 2019	Sausy (STEAM_0:0:112032713): let me check if it works
+Sun Jul 14 15:26:01 2019	reesemorrow34 (STEAM_0:1:422822587): me too so idk
+Sun Jul 14 15:26:06 2019	Sausy (STEAM_0:0:112032713): sorry
+Sun Jul 14 15:26:33 2019	reesemorrow34 (STEAM_0:1:422822587): can u show me how it works?
+Sun Jul 14 15:27:02 2019	Derp (STEAM_0:0:52504530): /addmoney lv 100000
+Sun Jul 14 15:27:02 2019	Derp (STEAM_0:0:52504530) added $100,000 to LV's wallet
+Sun Jul 14 15:27:02 2019	Sausy (STEAM_0:0:112032713): hold Q
+Sun Jul 14 15:27:08 2019	Sausy (STEAM_0:0:112032713): click on utilities
+Sun Jul 14 15:27:15 2019	LV (STEAM_0:0:460419170): my weed is gone
+Sun Jul 14 15:27:17 2019	Sausy (STEAM_0:0:112032713): scrol down until you see "buddies"
+Sun Jul 14 15:27:23 2019	Sausy (STEAM_0:0:112032713): click "buddies"
+Sun Jul 14 15:27:30 2019	LV (STEAM_0:0:460419170): i put it on the thing
+Sun Jul 14 15:27:39 2019	Derp (STEAM_0:0:52504530): do it again
+Sun Jul 14 15:27:39 2019	Sausy (STEAM_0:0:112032713): and down where it say's "add: buddies"
+Sun Jul 14 15:27:46 2019	Sausy (STEAM_0:0:112032713): "add buddy:"
+Sun Jul 14 15:27:50 2019	Sausy (STEAM_0:0:112032713): click my name
+Sun Jul 14 15:27:53 2019	Derp (STEAM_0:0:52504530): um
+Sun Jul 14 15:27:54 2019	Sausy (STEAM_0:0:112032713): and check all the boxes
+Sun Jul 14 15:28:10 2019	LV (STEAM_0:0:460419170): well
+Sun Jul 14 15:28:17 2019	LV (STEAM_0:0:460419170): i am confused
+Sun Jul 14 15:28:18 2019	Derp (STEAM_0:0:52504530): dont ask me because i dont know
+Sun Jul 14 15:28:27 2019	Sausy (STEAM_0:0:112032713): ok..
+Sun Jul 14 15:28:27 2019	LV (STEAM_0:0:460419170) spawned SENT zwf_weedstick
+Sun Jul 14 15:28:29 2019	Sausy (STEAM_0:0:112032713): goto buddies
+Sun Jul 14 15:28:36 2019	Sausy (STEAM_0:0:112032713): and when you are on "buddies"
+Sun Jul 14 15:28:40 2019	Sausy (STEAM_0:0:112032713): look all the way down
+Sun Jul 14 15:28:44 2019	Sausy (STEAM_0:0:112032713): until u see "Sausy"
+Sun Jul 14 15:28:49 2019	Sausy (STEAM_0:0:112032713): click my name "Sausy"
+Sun Jul 14 15:29:01 2019	Sausy (STEAM_0:0:112032713): and it should pop up like this check boxes thing
+Sun Jul 14 15:29:03 2019	Sausy (STEAM_0:0:112032713): check all of them
+Sun Jul 14 15:29:18 2019	Sausy (STEAM_0:0:112032713): this will allow you to give me permission to help you build
+Sun Jul 14 15:29:18 2019	reesemorrow34 (STEAM_0:1:422822587): I dont see it:/
+Sun Jul 14 15:29:21 2019	Sausy (STEAM_0:0:112032713): ok
+Sun Jul 14 15:29:24 2019	Sausy (STEAM_0:0:112032713): HOLD Q
+Sun Jul 14 15:29:26 2019	Sausy (STEAM_0:0:112032713): right ?
+Sun Jul 14 15:29:30 2019	Sausy (STEAM_0:0:112032713): it opens the menu of props
+Sun Jul 14 15:29:41 2019	Sausy (STEAM_0:0:112032713): all the way to right top corner
+Sun Jul 14 15:29:44 2019	Sausy (STEAM_0:0:112032713): you'll see
+Sun Jul 14 15:29:48 2019	Sausy (STEAM_0:0:112032713): "utilities
+Sun Jul 14 15:29:53 2019	Sausy (STEAM_0:0:112032713): right ?
+Sun Jul 14 15:29:59 2019	Sausy (STEAM_0:0:112032713): do you see "Utilities
+Sun Jul 14 15:30:00 2019	Sausy (STEAM_0:0:112032713): ok
+Sun Jul 14 15:30:01 2019	reesemorrow34 (STEAM_0:1:422822587): yes
+Sun Jul 14 15:30:03 2019	Sausy (STEAM_0:0:112032713): click it
+Sun Jul 14 15:30:07 2019	Sausy (STEAM_0:0:112032713): now
+Sun Jul 14 15:30:17 2019	Sausy (STEAM_0:0:112032713): scrol down until you see "Buddies"
+Sun Jul 14 15:30:23 2019	Sausy (STEAM_0:0:112032713): click that
+Sun Jul 14 15:30:31 2019	Sausy (STEAM_0:0:112032713): and when you are in that menu
+Sun Jul 14 15:30:37 2019	Sausy (STEAM_0:0:112032713): all the way down
+Sun Jul 14 15:30:43 2019	Sausy (STEAM_0:0:112032713): it should say "Add Buddy"
+Sun Jul 14 15:30:47 2019	Sausy (STEAM_0:0:112032713): click
+Sun Jul 14 15:30:48 2019	Derp (STEAM_0:0:52504530): *breathes*
+Sun Jul 14 15:30:51 2019	Sausy (STEAM_0:0:112032713): click MY name
+Sun Jul 14 15:30:57 2019	Sausy (STEAM_0:0:112032713): wtf
+Sun Jul 14 15:31:02 2019	Sausy (STEAM_0:0:112032713): ok
+Sun Jul 14 15:31:03 2019	reesemorrow34 (STEAM_0:1:422822587): did it
+Sun Jul 14 15:31:03 2019	Sausy (STEAM_0:0:112032713): you did it
+Sun Jul 14 15:31:14 2019	reesemorrow34 (STEAM_0:1:422822587): its 4321
+Sun Jul 14 15:31:15 2019	Sausy (STEAM_0:0:112032713): so look
+Sun Jul 14 15:31:26 2019	Sausy (STEAM_0:0:112032713): you see
+Sun Jul 14 15:31:29 2019	Sausy (STEAM_0:0:112032713): you dont have this prop
+Sun Jul 14 15:31:34 2019	Sausy (STEAM_0:0:112032713): in fading doors
+Sun Jul 14 15:31:40 2019	Sausy (STEAM_0:0:112032713): so it wont do anything
+Sun Jul 14 15:31:53 2019	Sausy (STEAM_0:0:112032713): sooo listen
+Sun Jul 14 15:31:59 2019	Sausy (STEAM_0:0:112032713): this is very important
+Sun Jul 14 15:32:02 2019	reesemorrow34 (STEAM_0:1:422822587): did it
+Sun Jul 14 15:32:17 2019	Sausy (STEAM_0:0:112032713): your fading foor button must be the same button as the keypad
+Sun Jul 14 15:32:32 2019	reesemorrow34 (STEAM_0:1:422822587): yup it is
+Sun Jul 14 15:32:33 2019	Sausy (STEAM_0:0:112032713): so if the fading door let's say its.... numpad 1
+Sun Jul 14 15:32:49 2019	Sausy (STEAM_0:0:112032713): then the keypad must have the numpad 1 as the acess button
+Sun Jul 14 15:33:08 2019	Sausy (STEAM_0:0:112032713): see ?
+Sun Jul 14 15:33:15 2019	Sausy (STEAM_0:0:112032713): they dont have the same keybind
+Sun Jul 14 15:33:18 2019	Derp (STEAM_0:0:52504530) spawned
+Sun Jul 14 15:33:21 2019	Sausy (STEAM_0:0:112032713): so they are not connected
+Sun Jul 14 15:33:30 2019	Sausy (STEAM_0:0:112032713): wich keybind did you use for the fading door ?
+Sun Jul 14 15:33:37 2019	Sausy (STEAM_0:0:112032713): what button ?
+Sun Jul 14 15:33:37 2019	reesemorrow34 (STEAM_0:1:422822587): h
+Sun Jul 14 15:33:41 2019	Sausy (STEAM_0:0:112032713): ok soo look
+Sun Jul 14 15:34:07 2019	Sausy (STEAM_0:0:112032713): there
+Sun Jul 14 15:34:09 2019	Sausy (STEAM_0:0:112032713): try it now
+Sun Jul 14 15:34:28 2019	Sausy (STEAM_0:0:112032713): i dont think i can update keypads..
+Sun Jul 14 15:34:32 2019	Sausy (STEAM_0:0:112032713): ok u try
+Sun Jul 14 15:34:34 2019	Sausy (STEAM_0:0:112032713): umm
+Sun Jul 14 15:34:37 2019	Sausy (STEAM_0:0:112032713): goto keypad
+Sun Jul 14 15:34:52 2019	Sausy (STEAM_0:0:112032713): there
+Sun Jul 14 15:35:25 2019	Sausy (STEAM_0:0:112032713): you need a keypad outside
+Sun Jul 14 15:35:57 2019	Sausy (STEAM_0:0:112032713): also
+Sun Jul 14 15:35:59 2019	Sausy (STEAM_0:0:112032713): add secure mode
+Sun Jul 14 15:36:30 2019	Derp was killed by Himself with a suicide trick
+Sun Jul 14 15:36:33 2019	Derp (STEAM_0:0:52504530) spawned
+Sun Jul 14 15:36:48 2019	Sausy (STEAM_0:0:112032713): . . .
+Sun Jul 14 15:36:55 2019	Derp (STEAM_0:0:52504530): *coughs*
+Sun Jul 14 15:36:57 2019	Sausy (STEAM_0:0:112032713): hands up
+Sun Jul 14 15:37:00 2019	Sausy (STEAM_0:0:112032713): i have a tool gun
+Sun Jul 14 15:37:00 2019	Derp (STEAM_0:0:52504530): oh shit
+Sun Jul 14 15:37:05 2019	Sausy (STEAM_0:0:112032713): pew pew
+Sun Jul 14 15:37:10 2019	Sausy (STEAM_0:0:112032713): bruh
+Sun Jul 14 15:37:12 2019	Derp (STEAM_0:0:52504530): dont ask why i did that pose
+Sun Jul 14 15:37:14 2019	Derp (STEAM_0:0:52504530): i paniced
+Sun Jul 14 15:37:18 2019	Sausy (STEAM_0:0:112032713): lmao
+Sun Jul 14 15:37:33 2019	Sausy (STEAM_0:0:112032713): this tools are making me fuck everything up
+Sun Jul 14 15:37:34 2019	LV (STEAM_0:0:460419170): /pm derp can you make meth in this
+Sun Jul 14 15:37:38 2019	Derp (STEAM_0:0:52504530): sorry
+Sun Jul 14 15:37:57 2019	Sausy (STEAM_0:0:112032713): you should fire whoever told you to add this old ass addons
+Sun Jul 14 15:38:00 2019	Derp (STEAM_0:0:52504530): do u wanna be a mod?
+Sun Jul 14 15:38:09 2019	Sausy (STEAM_0:0:112032713): it'd be an honor
+Sun Jul 14 15:38:19 2019	Derp (STEAM_0:0:52504530): there
+Sun Jul 14 15:38:23 2019	Sausy (STEAM_0:0:112032713): i can flyyy
+Sun Jul 14 15:38:38 2019	Derp (STEAM_0:0:52504530): we prefer that mods dont use noclip but we gave them it just in case if something crazy happens
+Sun Jul 14 15:38:47 2019	Sausy (STEAM_0:0:112032713): ok
+Sun Jul 14 15:39:00 2019	Sausy (STEAM_0:0:112032713): pls add ghost props
+Sun Jul 14 15:39:00 2019	Derp (STEAM_0:0:52504530): are u trying to setup a gunstore or something
+Sun Jul 14 15:39:06 2019	Sausy (STEAM_0:0:112032713): im gonna prop kill my self in some point
+Sun Jul 14 15:39:11 2019	Sausy (STEAM_0:0:112032713): OH SHIT
+Sun Jul 14 15:39:17 2019	Sausy (STEAM_0:0:112032713): OMG
+Sun Jul 14 15:39:19 2019	Derp (STEAM_0:0:52504530): lmao
+Sun Jul 14 15:39:23 2019	Derp (STEAM_0:0:52504530): OH MY FUCKING GOD
+Sun Jul 14 15:39:23 2019	Sausy (STEAM_0:0:112032713): help
+Sun Jul 14 15:39:30 2019	Sausy (STEAM_0:0:112032713): OMFG
+Sun Jul 14 15:39:36 2019	Sausy (STEAM_0:0:112032713): JUST WHEN I WAS TALKING ABOUT IT
+Sun Jul 14 15:39:38 2019	Derp (STEAM_0:0:52504530): is that ghost prop stuff an addon on the workshop 
+Sun Jul 14 15:39:44 2019	Sausy (STEAM_0:0:112032713): yes
+Sun Jul 14 15:39:48 2019	Derp (STEAM_0:0:52504530): k ill get that too
+Sun Jul 14 15:39:49 2019	Sausy (STEAM_0:0:112032713): i'l look it up
+Sun Jul 14 15:39:51 2019	Sausy (STEAM_0:0:112032713): is like
+Sun Jul 14 15:39:55 2019	Sausy (STEAM_0:0:112032713): anti prop kill thing
+Sun Jul 14 15:39:57 2019	Derp (STEAM_0:0:52504530): right
+Sun Jul 14 15:40:38 2019	Sausy (STEAM_0:0:112032713): well idk wich one is best
+Sun Jul 14 15:40:49 2019	Sausy (STEAM_0:0:112032713): just look up on google "Gmod Anti-Prop kill addon
+Sun Jul 14 15:40:50 2019	Sausy (STEAM_0:0:112032713): or
+Sun Jul 14 15:40:54 2019	Sausy (STEAM_0:0:112032713): ghost prop
+Sun Jul 14 15:40:56 2019	Sausy (STEAM_0:0:112032713): or something like that
+Sun Jul 14 15:41:04 2019	Derp (STEAM_0:0:52504530): alright ill find one dont worry about it
+Sun Jul 14 15:41:05 2019	Sausy (STEAM_0:0:112032713): so people dont start prop surfing and prop killing 
+Sun Jul 14 15:41:12 2019	Derp (STEAM_0:0:52504530): sorry for of all these problems
+Sun Jul 14 15:41:19 2019	Sausy (STEAM_0:0:112032713): it's ok the server is new as you said
+Sun Jul 14 15:41:27 2019	Derp (STEAM_0:0:52504530): the last time i made a server was 5 years ago
+Sun Jul 14 15:41:33 2019	Sausy (STEAM_0:0:112032713): oof
+Sun Jul 14 15:44:56 2019	LV (STEAM_0:0:460419170): /pm derp hey derp can you come to me
+Sun Jul 14 15:45:02 2019	Derp (STEAM_0:0:52504530): /pm LV hold on im busy rn
+Sun Jul 14 15:45:21 2019	LV (STEAM_0:0:460419170): /pm derp where are all the weed buyers or do i have to get one
+Sun Jul 14 15:45:29 2019	LV (STEAM_0:0:460419170): /pm derp i mean can i bring that one
+Sun Jul 14 15:45:48 2019	LV (STEAM_0:0:460419170): /pm derp i am moving locations
+Sun Jul 14 15:47:48 2019	LV (STEAM_0:0:460419170): /pm derp hey derp i  am sorry to bother can i bring him to my new location then make weed and sell it
+Sun Jul 14 15:48:01 2019	LV (STEAM_0:0:460419170): /pm derp (the weed buyer)
+Sun Jul 14 15:49:43 2019	Derp (STEAM_0:0:52504530): /pm lv sure 
+Sun Jul 14 15:49:57 2019	LV (STEAM_0:0:460419170): /pm derp ok thank you can i no clip him there to get there faster
+Sun Jul 14 15:52:35 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) has joined the game
+Sun Jul 14 15:52:35 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511) spawned
+Sun Jul 14 15:52:36 2019	Sausy (STEAM_0:0:112032713): woops
+Sun Jul 14 15:53:26 2019	Sausy (STEAM_0:0:112032713): hi
+Sun Jul 14 15:53:30 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // Hey all
+Sun Jul 14 15:53:33 2019	Derp (STEAM_0:0:52504530): ok all of the addons u mentioned should be in the server now
+Sun Jul 14 15:53:35 2019	Derp (STEAM_0:0:52504530): a restart is needed
+Sun Jul 14 15:53:38 2019	LV (STEAM_0:0:460419170): // Hey Zookie
+Sun Jul 14 15:53:40 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // Servers a wee bit janky o/o
+Sun Jul 14 15:53:43 2019	Sausy (STEAM_0:0:112032713): oh shit
+Sun Jul 14 15:53:45 2019	Doof (STEAM_0:1:426762407) has joined the game
+Sun Jul 14 15:53:45 2019	Doof (STEAM_0:1:426762407) spawned
+Sun Jul 14 15:53:46 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // o.o*
+Sun Jul 14 15:53:46 2019	Sausy (STEAM_0:0:112032713): ur building was wasted
+Sun Jul 14 15:53:51 2019	reesemorrow34 (STEAM_0:1:422822587): damn
+Sun Jul 14 15:53:53 2019	Sausy (STEAM_0:0:112032713): fuck
+Sun Jul 14 15:53:56 2019	Derp (STEAM_0:0:52504530): in what way
+Sun Jul 14 15:53:59 2019	Sausy (STEAM_0:0:112032713): i'll help u build
+Sun Jul 14 15:54:02 2019	reesemorrow34 (STEAM_0:1:422822587): ok
+Sun Jul 14 15:54:06 2019	Sausy (STEAM_0:0:112032713): when the server restarts
+Sun Jul 14 15:54:09 2019	Derp (STEAM_0:0:52504530): i know why
+Sun Jul 14 15:54:11 2019	Sausy (STEAM_0:0:112032713): it should be as new and better
+Sun Jul 14 15:54:23 2019	Derp (STEAM_0:0:52504530): well idk about the loading screen its working for me
+Sun Jul 14 15:54:24 2019	reesemorrow34 (STEAM_0:1:422822587): ok how long will it take to erstart?
+Sun Jul 14 15:54:26 2019	Sausy (STEAM_0:0:112032713): // im ready for restart
+Sun Jul 14 15:54:32 2019	Sausy (STEAM_0:0:112032713): idfk
+Sun Jul 14 15:54:36 2019	reesemorrow34 (STEAM_0:1:422822587): ok
+Sun Jul 14 15:54:37 2019	Derp (STEAM_0:0:52504530): the rest of the stuff u just need to download the collection because its a lot of server content from the workshop
+Sun Jul 14 15:54:41 2019	Derp (STEAM_0:0:52504530): sure idc
+Sun Jul 14 15:54:46 2019	Sausy (STEAM_0:0:112032713): we just gotta wait until is back on
+Sun Jul 14 15:54:48 2019	LV (STEAM_0:0:460419170) spawned SENT zwf_autopacker
+Sun Jul 14 15:54:50 2019	Sausy (STEAM_0:0:112032713): you know
+Sun Jul 14 15:54:50 2019	Derp (STEAM_0:0:52504530): u cant use it?
+Sun Jul 14 15:54:51 2019	LV (STEAM_0:0:460419170) spawned SENT zwf_pot_hydro
+Sun Jul 14 15:54:53 2019	LV (STEAM_0:0:460419170) spawned SENT zwf_pot_hydro
+Sun Jul 14 15:54:53 2019	Sausy (STEAM_0:0:112032713): just spam join button
+Sun Jul 14 15:54:55 2019	Derp (STEAM_0:0:52504530): umm
+Sun Jul 14 15:54:57 2019	reesemorrow34 (STEAM_0:1:422822587): k
+Sun Jul 14 15:55:01 2019	Sausy (STEAM_0:0:112032713): goto legacy browser
+Sun Jul 14 15:55:03 2019	Derp (STEAM_0:0:52504530): i think its because we are in spawn
+Sun Jul 14 15:55:04 2019	Sausy (STEAM_0:0:112032713): goto history
+Sun Jul 14 15:55:09 2019	Sausy (STEAM_0:0:112032713): and click this server and press join
+Sun Jul 14 15:55:16 2019	Derp (STEAM_0:0:52504530): its cuz were in spawn
+Sun Jul 14 15:55:17 2019	Sausy (STEAM_0:0:112032713): or just look up for DerpRP
+Sun Jul 14 15:55:22 2019	Derp (STEAM_0:0:52504530): ill post the link in the chat
+Sun Jul 14 15:55:23 2019	reesemorrow34 (STEAM_0:1:422822587): ok
+Sun Jul 14 15:55:31 2019	Sausy (STEAM_0:0:112032713): // when is the restart ?
+Sun Jul 14 15:55:37 2019	reesemorrow34 (STEAM_0:1:422822587): idk
+Sun Jul 14 15:55:43 2019	Derp (STEAM_0:0:52504530): https://steamcommunity.com/sharedfiles/filedetails/?id=1797327391
+Sun Jul 14 15:55:46 2019	Derp (STEAM_0:0:52504530): /ooc https://steamcommunity.com/sharedfiles/filedetails/?id=1797327391
+Sun Jul 14 15:55:47 2019	Sausy (STEAM_0:0:112032713): perfekt
+Sun Jul 14 15:55:50 2019	Sausy (STEAM_0:0:112032713): oh wait..
+Sun Jul 14 15:56:09 2019	Derp (STEAM_0:0:52504530): the motd got reset for some reason
+Sun Jul 14 15:56:14 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !motd
+Sun Jul 14 15:56:15 2019	LV (STEAM_0:0:460419170): // restart is soon?
+Sun Jul 14 15:56:17 2019	Sausy (STEAM_0:0:112032713): im ur first donator
+Sun Jul 14 15:56:20 2019	Derp (STEAM_0:0:52504530): ill put it in there now
+Sun Jul 14 15:56:21 2019	Sausy (STEAM_0:0:112032713): // yes
+Sun Jul 14 15:56:24 2019	reesemorrow34 (STEAM_0:1:422822587): thanks
+Sun Jul 14 15:56:26 2019	Derp (STEAM_0:0:52504530): !motd
+Sun Jul 14 15:56:26 2019	LV (STEAM_0:0:460419170): // i just spent 50k
+Sun Jul 14 15:56:28 2019	Sausy (STEAM_0:0:112032713): nP
+Sun Jul 14 15:56:28 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !motd
+Sun Jul 14 15:56:33 2019	Derp (STEAM_0:0:52504530): oh right
+Sun Jul 14 15:56:33 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !jail doof
+Sun Jul 14 15:56:36 2019	Sausy (STEAM_0:0:112032713): wait
+Sun Jul 14 15:56:41 2019	Sausy (STEAM_0:0:112032713): //
+Sun Jul 14 15:56:43 2019	Sausy (STEAM_0:0:112032713): // derp
+Sun Jul 14 15:56:45 2019	Sausy (STEAM_0:0:112032713): // derp
+Sun Jul 14 15:56:51 2019	Sausy (STEAM_0:0:112032713): // Derp
+Sun Jul 14 15:56:52 2019	Derp (STEAM_0:0:52504530): its alright hes just fucking around
+Sun Jul 14 15:56:52 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !unjail doof
+Sun Jul 14 15:57:13 2019	Derp (STEAM_0:0:52504530): we should have rules already if u !motd
+Sun Jul 14 15:57:18 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !motd
+Sun Jul 14 15:57:18 2019	Derp (STEAM_0:0:52504530): at the bottom 
+Sun Jul 14 15:57:31 2019	Derp (STEAM_0:0:52504530): !motd
+Sun Jul 14 15:57:38 2019	Doof (STEAM_0:1:426762407): /unownalldoors
+Sun Jul 14 15:57:41 2019	Sausy (STEAM_0:0:112032713): // Derp did you add Extreme Precision ?
+Sun Jul 14 15:57:41 2019	Doof (STEAM_0:1:426762407): /requestlicense
+Sun Jul 14 15:57:47 2019	Sausy (STEAM_0:0:112032713): // i mean 
+Sun Jul 14 15:57:51 2019	Derp (STEAM_0:0:52504530): do u think i do not listen
+Sun Jul 14 15:57:51 2019	Sausy (STEAM_0:0:112032713): // Smart Snap
+Sun Jul 14 15:57:56 2019	Derp (STEAM_0:0:52504530): IM ALWAYS LISTENING
+Sun Jul 14 15:58:27 2019	Sausy (STEAM_0:0:112032713): bruh
+Sun Jul 14 15:58:29 2019	Sausy (STEAM_0:0:112032713): xD
+Sun Jul 14 15:58:29 2019	Derp (STEAM_0:0:52504530): stuff is still a WIP
+Sun Jul 14 15:58:38 2019	Derp (STEAM_0:0:52504530): i mean next restart should be enough for people to play
+Sun Jul 14 15:58:43 2019	Derp (STEAM_0:0:52504530): i dont see why they couldnt
+Sun Jul 14 15:58:44 2019	Sausy (STEAM_0:0:112032713): you should've bought printers
+Sun Jul 14 15:58:48 2019	Sausy (STEAM_0:0:112032713): or mining thingys
+Sun Jul 14 15:58:54 2019	Sausy (STEAM_0:0:112032713): BRUH
+Sun Jul 14 15:58:56 2019	reesemorrow34 (STEAM_0:1:422822587): ?
+Sun Jul 14 15:58:57 2019	Sausy (STEAM_0:0:112032713): my msg didn't send
+Sun Jul 14 15:59:00 2019	Derp (STEAM_0:0:52504530): yeah maybe some extra security measures are needed for people to stop fucking everything up but like we have time
+Sun Jul 14 15:59:01 2019	Sausy (STEAM_0:0:112032713): lemme say it again
+Sun Jul 14 15:59:04 2019	Derp (STEAM_0:0:52504530): wat
+Sun Jul 14 15:59:09 2019	Sausy (STEAM_0:0:112032713): you should've bought printers
+Sun Jul 14 15:59:14 2019	Derp (STEAM_0:0:52504530): what about the jar
+Sun Jul 14 15:59:14 2019	Sausy (STEAM_0:0:112032713): or mining thingys
+Sun Jul 14 15:59:22 2019	Sausy (STEAM_0:0:112032713): and place it here.
+Sun Jul 14 15:59:22 2019	reesemorrow34 (STEAM_0:1:422822587): I dont have enough money
+Sun Jul 14 15:59:26 2019	Derp (STEAM_0:0:52504530): let me see
+Sun Jul 14 15:59:33 2019	Derp (STEAM_0:0:52504530): give me a tip
+Sun Jul 14 15:59:35 2019	Sausy (STEAM_0:0:112032713): how much money do you have ?
+Sun Jul 14 15:59:40 2019	Sausy (STEAM_0:0:112032713): how much $ ?
+Sun Jul 14 15:59:43 2019	Sausy (STEAM_0:0:112032713): do you have
+Sun Jul 14 15:59:46 2019	Derp (STEAM_0:0:52504530): u tipped 0
+Sun Jul 14 15:59:53 2019	reesemorrow34 (STEAM_0:1:422822587): I have 1,370
+Sun Jul 14 15:59:57 2019	Derp (STEAM_0:0:52504530): give me a tip
+Sun Jul 14 16:00:08 2019	Derp (STEAM_0:0:52504530): one more time
+Sun Jul 14 16:00:09 2019	Sausy (STEAM_0:0:112032713): well
+Sun Jul 14 16:00:10 2019	Derp (STEAM_0:0:52504530): oh
+Sun Jul 14 16:00:13 2019	Derp (STEAM_0:0:52504530): u just get it automatically 
+Sun Jul 14 16:00:23 2019	Sausy (STEAM_0:0:112032713): we the server restarts i'm gonna buy US some printers
+Sun Jul 14 16:00:28 2019	Sausy (STEAM_0:0:112032713): when*
+Sun Jul 14 16:00:30 2019	reesemorrow34 (STEAM_0:1:422822587): ok
+Sun Jul 14 16:00:31 2019	Derp (STEAM_0:0:52504530): not surprised
+Sun Jul 14 16:00:36 2019	Derp (STEAM_0:0:52504530): gmod is a sack of shit for optimization and stability
+Sun Jul 14 16:00:48 2019	Sausy (STEAM_0:0:112032713): this is my rainbow barrel
+Sun Jul 14 16:00:49 2019	Doof was killed by Himself with a suicide trick
+Sun Jul 14 16:00:55 2019	Derp (STEAM_0:0:52504530): are u hyped for S&box
+Sun Jul 14 16:01:14 2019	Sausy (STEAM_0:0:112032713): ...
+Sun Jul 14 16:01:16 2019	Derp (STEAM_0:0:52504530): what is going in here
+Sun Jul 14 16:01:19 2019	Sausy (STEAM_0:0:112032713): um
+Sun Jul 14 16:01:21 2019	Sausy (STEAM_0:0:112032713): nothing..
+Sun Jul 14 16:01:33 2019	Derp (STEAM_0:0:52504530): god damn it lmao
+Sun Jul 14 16:01:36 2019	Sausy (STEAM_0:0:112032713): sorry i panicked
+Sun Jul 14 16:01:40 2019	Sausy (STEAM_0:0:112032713): haha
+Sun Jul 14 16:01:44 2019	Sausy (STEAM_0:0:112032713): did you add the addons?
+Sun Jul 14 16:01:46 2019	Derp (STEAM_0:0:52504530): ye
+Sun Jul 14 16:01:53 2019	Derp (STEAM_0:0:52504530): i also added an anti prop kill thingy hopefully it works
+Sun Jul 14 16:01:57 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // oh damn
+Sun Jul 14 16:01:58 2019	Sausy (STEAM_0:0:112032713): the very important one is Smart Snap did you add Smart Snap ?
+Sun Jul 14 16:01:59 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // my game
+Sun Jul 14 16:02:02 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): // my games fixed
+Sun Jul 14 16:02:03 2019	Derp (STEAM_0:0:52504530): yeah it should be on there
+Sun Jul 14 16:02:06 2019	Sausy (STEAM_0:0:112032713): ok good
+Sun Jul 14 16:02:08 2019	Zookie 〈メイド〉 (STEAM_0:1:63382511): !goto derp
+Sun Jul 14 16:02:16 2019	Sausy (STEAM_0:0:112032713): let's prop surf
+Sun Jul 14 16:02:19 2019	Derp (STEAM_0:0:52504530): im about to restart the entire server
+Sun Jul 14 16:02:24 2019	Derp (STEAM_0:0:52504530): i suggest u restart the entire game too
+Sun Jul 14 16:02:32 2019	Derp (STEAM_0:0:52504530): /ooc ALRIGHT RESTARTING
+Sun Jul 14 16:02:45 2019	Doof (STEAM_0:1:426762407) spawned

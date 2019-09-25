@@ -1,0 +1,82 @@
+Mon Jul 15 01:16:43 2019	Derp (STEAM_0:0:52504530) has joined the game
+Mon Jul 15 01:16:43 2019	Officer Derp (STEAM_0:0:52504530) spawned
+Mon Jul 15 01:17:02 2019	malicousbee (STEAM_0:1:508601712) has joined the game
+Mon Jul 15 01:17:02 2019	malicousbee (STEAM_0:1:508601712) spawned
+Mon Jul 15 01:18:10 2019	Officer Derp (STEAM_0:0:52504530): sure
+Mon Jul 15 01:18:18 2019	Officer Derp (STEAM_0:0:52504530): https://steamcommunity.com/sharedfiles/filedetails/?id=1797327391
+Mon Jul 15 01:18:51 2019	Officer Derp (STEAM_0:0:52504530): /rpname
+Mon Jul 15 01:18:54 2019	Officer Derp (STEAM_0:0:52504530): /rpname Derp
+Mon Jul 15 01:19:09 2019	malicousbee (STEAM_0:1:508601712) disconnected
+Mon Jul 15 01:19:10 2019	Derp (STEAM_0:0:52504530): 
+Mon Jul 15 01:19:40 2019	malicousbee (STEAM_0:1:508601712) has joined the game
+Mon Jul 15 01:19:40 2019	malicousbee (STEAM_0:1:508601712) spawned
+Mon Jul 15 01:20:23 2019	Derp (STEAM_0:0:52504530): ur kermit
+Mon Jul 15 01:20:30 2019	Derp (STEAM_0:0:52504530): ye
+Mon Jul 15 01:20:34 2019	Derp (STEAM_0:0:52504530): u might have to restart ur game
+Mon Jul 15 01:20:36 2019	UG | M A S T E R (STEAM_0:1:180622613) has joined the game
+Mon Jul 15 01:20:36 2019	Officer Jake (STEAM_0:1:180622613) spawned
+Mon Jul 15 01:20:40 2019	malicousbee (STEAM_0:1:508601712) disconnected
+Mon Jul 15 01:20:46 2019	Derp (STEAM_0:0:52504530): 
+Mon Jul 15 01:21:40 2019	Officer Jake (STEAM_0:1:180622613): hi
+Mon Jul 15 01:21:44 2019	Derp (STEAM_0:0:52504530): hi
+Mon Jul 15 01:21:53 2019	Officer Jake (STEAM_0:1:180622613): how's the hud
+Mon Jul 15 01:21:57 2019	Derp (STEAM_0:0:52504530): i like it
+Mon Jul 15 01:22:07 2019	Officer Jake (STEAM_0:1:180622613): /mayor
+Mon Jul 15 01:22:09 2019	Officer Jake (STEAM_0:1:180622613): /lockdown
+Mon Jul 15 01:22:14 2019	Derp (STEAM_0:0:52504530): do u think we should change the F4 menu
+Mon Jul 15 01:22:30 2019	Officer Jake (STEAM_0:1:180622613): I was waiting for you to say that.
+Mon Jul 15 01:22:44 2019	Officer Jake (STEAM_0:1:180622613): I have three choices 
+Mon Jul 15 01:22:47 2019	Derp (STEAM_0:0:52504530): alright
+Mon Jul 15 01:22:49 2019	Officer Jake (STEAM_0:1:180622613): all from gmodstore
+Mon Jul 15 01:22:52 2019	Derp (STEAM_0:0:52504530): nice
+Mon Jul 15 01:22:53 2019	Officer Jake (STEAM_0:1:180622613): aMenu
+Mon Jul 15 01:22:56 2019	Officer Jake (STEAM_0:1:180622613): Sh F4
+Mon Jul 15 01:23:00 2019	Officer Jake (STEAM_0:1:180622613): Arvia
+Mon Jul 15 01:23:15 2019	Officer Jake (STEAM_0:1:180622613): Arvia is the creator of this hud
+Mon Jul 15 01:23:31 2019	malicousbee (STEAM_0:1:508601712) has joined the game
+Mon Jul 15 01:23:31 2019	malicousbee (STEAM_0:1:508601712) spawned
+Mon Jul 15 01:23:56 2019	Officer Jake (STEAM_0:1:180622613): hey
+Mon Jul 15 01:24:15 2019	Derp (STEAM_0:0:52504530): i cant find aMenu on the gmodstore
+Mon Jul 15 01:24:31 2019	UG | M A S T E R (STEAM_0:1:180622613) set UG | M A S T E R's name to UG | M A S T E R
+Mon Jul 15 01:24:50 2019	Derp (STEAM_0:0:52504530): which class
+Mon Jul 15 01:24:55 2019	Derp (STEAM_0:0:52504530): why
+Mon Jul 15 01:25:06 2019	malicousbee (STEAM_0:1:508601712) spawned
+Mon Jul 15 01:25:06 2019	UG | M A S T E R (STEAM_0:1:180622613) arrested malicousbee
+Mon Jul 15 01:25:09 2019	Derp (STEAM_0:0:52504530): lmao
+Mon Jul 15 01:25:10 2019	UG | M A S T E R (STEAM_0:1:180622613): /unarrest *
+Mon Jul 15 01:25:10 2019	UG | M A S T E R (STEAM_0:1:180622613) force-unarrested Derp
+Mon Jul 15 01:25:10 2019	UG | M A S T E R (STEAM_0:1:180622613) force-unarrested malicousbee
+Mon Jul 15 01:25:10 2019	UG | M A S T E R (STEAM_0:1:180622613) force-unarrested UG | M A S T E R
+Mon Jul 15 01:25:22 2019	Derp (STEAM_0:0:52504530): can u not see kermit?
+Mon Jul 15 01:25:45 2019	Derp (STEAM_0:0:52504530): its still an error
+Mon Jul 15 01:25:46 2019	Derp (STEAM_0:0:52504530): for u
+Mon Jul 15 01:26:20 2019	malicousbee was killed by Derp with a weapon_deagle2
+Mon Jul 15 01:26:22 2019	malicousbee (STEAM_0:1:508601712) spawned
+Mon Jul 15 01:26:33 2019	UG | M A S T E R (STEAM_0:1:180622613): /pm derp I'm going to call you on discord
+Mon Jul 15 01:26:39 2019	Derp (STEAM_0:0:52504530): /pm UG ok
+Mon Jul 15 01:27:40 2019	malicousbee (STEAM_0:1:508601712): /ooc can u add weapons to me private class : ]
+Mon Jul 15 01:29:04 2019	Derp (STEAM_0:0:52504530): i might
+Mon Jul 15 01:29:21 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT itemstore_bank
+Mon Jul 15 01:29:24 2019	malicousbee (STEAM_0:1:508601712): /ooc Its Getting popular
+Mon Jul 15 01:29:27 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned SENT itemstore_bank
+Mon Jul 15 01:29:57 2019	UG | M A S T E R (STEAM_0:1:180622613) disconnected
+Mon Jul 15 01:30:30 2019	UG | M A S T E R (STEAM_0:1:180622613) has joined the game
+Mon Jul 15 01:30:30 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Mon Jul 15 01:31:09 2019	UG | M A S T E R (STEAM_0:1:180622613) disconnected
+Mon Jul 15 01:31:41 2019	UG | M A S T E R (STEAM_0:1:180622613) has joined the game
+Mon Jul 15 01:31:41 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Mon Jul 15 01:31:45 2019	Derp (STEAM_0:0:52504530): weapon_gpee
+Mon Jul 15 01:32:20 2019	Derp (STEAM_0:0:52504530): YES
+Mon Jul 15 01:32:29 2019	Derp (STEAM_0:0:52504530): what
+Mon Jul 15 01:33:48 2019	malicousbee was killed by Himself with a suicide trick
+Mon Jul 15 01:33:49 2019	UG | M A S T E R (STEAM_0:1:180622613): !goto derp
+Mon Jul 15 01:33:50 2019	malicousbee (STEAM_0:1:508601712) spawned
+Mon Jul 15 01:34:10 2019	malicousbee (STEAM_0:1:508601712): /ooc :(
+Mon Jul 15 01:34:32 2019	malicousbee (STEAM_0:1:508601712): /ooc please help
+Mon Jul 15 01:35:13 2019	malicousbee (STEAM_0:1:508601712): /ooc help
+Mon Jul 15 01:35:21 2019	malicousbee (STEAM_0:1:508601712): /ooc ive been abused
+Mon Jul 15 01:37:26 2019	malicousbee (STEAM_0:1:508601712) disconnected
+Mon Jul 15 01:37:53 2019	malicousbee (STEAM_0:1:508601712) has joined the game
+Mon Jul 15 01:37:53 2019	malicousbee (STEAM_0:1:508601712) spawned
+Mon Jul 15 01:41:25 2019	Derp (STEAM_0:0:52504530): 
+Mon Jul 15 01:43:28 2019	Derp (STEAM_0:0:52504530): 

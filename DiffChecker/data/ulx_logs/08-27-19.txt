@@ -1,0 +1,720 @@
+<Logging continued from "data/ulx_logs/08-26-19.txt">
+[21:12:37] Client "Turtleluck" connected.
+[21:14:07] Client "Derp" connected.
+[21:14:49] Client "Derp" spawned in server <STEAM_0:0:52504530> (took 42 seconds).
+[21:15:29] Dropped "Derp" from server<STEAM_0:0:52504530>
+[21:16:32] Client "Turtleluck" spawned in server <STEAM_0:0:4113812> (took 235 seconds).
+[21:20:59] Client "theresamaston" connected.
+[21:23:16] Turtleluck<STEAM_0:0:4113812> spawned model models/props_phx/construct/metal_plate2x4.mdl
+[21:23:35] Dropped "Turtleluck" from server<STEAM_0:0:4113812>
+[21:23:42] Client "theresamaston" spawned in server <STEAM_0:1:442389183> (took 163 seconds).
+[21:25:06] Client "Turtleluck" connected.
+[21:27:07] Client "Turtleluck" spawned in server <STEAM_0:0:4113812> (took 121 seconds).
+[21:30:26] CJC<STEAM_0:1:442389183> used the tool textscreen on maps/rp_downtown_tits_v2.bsp
+[21:31:02] CJC<STEAM_0:1:442389183> used the tool textscreen on maps/rp_downtown_tits_v2.bsp
+[21:32:42] CJC<STEAM_0:1:442389183> spawned model models/props_c17/concrete_barrier001a.mdl
+[21:32:47] CJC<STEAM_0:1:442389183> spawned model models/props_c17/concrete_barrier001a.mdl
+[21:32:51] CJC<STEAM_0:1:442389183> spawned model models/props_c17/concrete_barrier001a.mdl
+[21:32:54] CJC<STEAM_0:1:442389183> spawned model models/props_c17/concrete_barrier001a.mdl
+[21:32:58] CJC<STEAM_0:1:442389183> used the tool precision on models/props_c17/concrete_barrier001a.mdl
+[21:32:58] CJC<STEAM_0:1:442389183> used the tool precision on models/props_c17/concrete_barrier001a.mdl
+[21:32:58] CJC<STEAM_0:1:442389183> used the tool precision on models/props_c17/concrete_barrier001a.mdl
+[21:32:58] CJC<STEAM_0:1:442389183> used the tool precision on models/props_c17/concrete_barrier001a.mdl
+[21:32:58] CJC<STEAM_0:1:442389183> used the tool precision on models/props_c17/concrete_barrier001a.mdl
+[21:32:59] CJC<STEAM_0:1:442389183> used the tool precision on models/props_c17/concrete_barrier001a.mdl
+[21:33:16] Dropped "Turtleluck" from server<STEAM_0:0:4113812>
+[21:34:55] CJC<STEAM_0:1:442389183> used the tool remover on models/hunter/plates/plate1x1.mdl
+[21:34:55] CJC<STEAM_0:1:442389183> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[21:34:55] CJC<STEAM_0:1:442389183> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[21:34:56] CJC<STEAM_0:1:442389183> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[21:34:56] CJC<STEAM_0:1:442389183> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[21:34:56] CJC<STEAM_0:1:442389183> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[21:34:56] CJC<STEAM_0:1:442389183> used the tool remover on models/hunter/plates/plate1x1.mdl
+[21:34:57] CJC<STEAM_0:1:442389183> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[21:34:58] CJC: /invholster
+[21:36:03] CJC<STEAM_0:1:442389183> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[21:36:03] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube025x1x025.mdl
+[21:36:03] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube025x1x025.mdl
+[21:36:03] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube1x3x025.mdl
+[21:36:03] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube075x1x1.mdl
+[21:36:03] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube025x3x025.mdl
+[21:36:03] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube025x2x025.mdl
+[21:36:03] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube1x3x1.mdl
+[21:36:03] CJC<STEAM_0:1:442389183> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[21:36:03] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube025x2x025.mdl
+[21:36:03] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube1x3x1.mdl
+[21:36:03] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube025x2x025.mdl
+[21:36:03] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube1x3x1.mdl
+[21:36:03] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube025x1x025.mdl
+[21:36:03] CJC<STEAM_0:1:442389183> spawned model models/props_phx/mechanics/slider1.mdl
+[21:36:03] CJC<STEAM_0:1:442389183> spawned model models/props_phx/construct/metal_plate1x2.mdl
+[21:36:03] CJC<STEAM_0:1:442389183> spawned model models/props_c17/fence01a.mdl
+[21:36:03] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube075x2x1.mdl
+[21:36:03] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube1x3x025.mdl
+[21:36:03] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube1x3x025.mdl
+[21:36:03] CJC<STEAM_0:1:442389183> spawned model models/props_c17/fence01a.mdl
+[21:36:03] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube1x3x1.mdl
+[21:36:03] CJC<STEAM_0:1:442389183> spawned model models/props_phx/construct/metal_plate1x2.mdl
+[21:36:03] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube075x1x1.mdl
+[21:36:03] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube1x3x025.mdl
+[21:36:03] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube1x3x025.mdl
+[21:36:03] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube1x3x1.mdl
+[21:36:03] CJC<STEAM_0:1:442389183> spawned model models/props_c17/fence01a.mdl
+[21:36:03] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube1x3x1.mdl
+[21:36:04] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube075x8x075.mdl
+[21:36:04] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube075x8x075.mdl
+[21:36:04] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube1x3x1.mdl
+[21:36:04] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube1x3x025.mdl
+[21:36:04] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube1x3x025.mdl
+[21:36:04] CJC<STEAM_0:1:442389183> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[21:36:04] CJC<STEAM_0:1:442389183> spawned model models/props_phx/construct/metal_plate1x2.mdl
+[21:36:04] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube1x3x1.mdl
+[21:36:04] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube025x2x025.mdl
+[21:36:04] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube1x3x025.mdl
+[21:36:04] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube1x3x025.mdl
+[21:36:04] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube025x3x025.mdl
+[21:36:04] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube025x2x025.mdl
+[21:36:04] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube4x4x025.mdl
+[21:36:04] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube1x3x1.mdl
+[21:36:04] CJC<STEAM_0:1:442389183> spawned model models/props_c17/fence01a.mdl
+[21:36:04] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube4x4x025.mdl
+[21:36:04] CJC<STEAM_0:1:442389183> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[21:36:04] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube025x1x025.mdl
+[21:36:04] CJC<STEAM_0:1:442389183> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[21:36:04] CJC<STEAM_0:1:442389183> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[21:36:14] CJC<STEAM_0:1:442389183> used the tool fading_door on models/hunter/blocks/cube025x1x025.mdl
+[21:36:18] CJC<STEAM_0:1:442389183> used the tool fading_door on models/hunter/blocks/cube025x1x025.mdl
+[21:36:22] CJC<STEAM_0:1:442389183> used the tool fading_door on models/hunter/blocks/cube025x1x025.mdl
+[21:36:27] CJC<STEAM_0:1:442389183> used the tool fading_door on models/hunter/blocks/cube025x2x025.mdl
+[21:36:31] CJC<STEAM_0:1:442389183> used the tool keypad_willox on models/hunter/blocks/cube025x1x025.mdl
+[21:36:36] CJC<STEAM_0:1:442389183> used the tool keypad_willox on models/hunter/blocks/cube025x1x025.mdl
+[21:36:41] CJC<STEAM_0:1:442389183> used the tool keypad_willox on models/hunter/blocks/cube025x3x025.mdl
+[21:36:45] CJC<STEAM_0:1:442389183> used the tool keypad_willox on models/hunter/blocks/cube025x3x025.mdl
+[21:36:49] CJC<STEAM_0:1:442389183> used the tool keypad_willox on models/hunter/blocks/cube025x2x025.mdl
+[21:36:54] CJC<STEAM_0:1:442389183> used the tool keypad_willox on models/hunter/blocks/cube025x2x025.mdl
+[21:36:58] CJC<STEAM_0:1:442389183> used the tool keypad_willox on models/hunter/blocks/cube075x1x1.mdl
+[21:37:03] CJC<STEAM_0:1:442389183> used the tool keypad_willox on maps/rp_downtown_tits_v2.bsp
+[21:37:11] CJC<STEAM_0:1:442389183> used the tool colour on models/hunter/blocks/cube1x3x1.mdl
+[21:37:11] CJC<STEAM_0:1:442389183> used the tool colour on models/hunter/blocks/cube1x3x1.mdl
+[21:37:12] CJC<STEAM_0:1:442389183> used the tool colour on models/hunter/blocks/cube1x3x025.mdl
+[21:37:13] CJC<STEAM_0:1:442389183> used the tool colour on models/hunter/blocks/cube1x3x025.mdl
+[21:37:14] CJC<STEAM_0:1:442389183> used the tool colour on models/hunter/blocks/cube1x3x1.mdl
+[21:37:14] CJC<STEAM_0:1:442389183> used the tool colour on models/hunter/blocks/cube1x3x1.mdl
+[21:37:17] CJC<STEAM_0:1:442389183> used the tool colour on models/hunter/blocks/cube075x1x1.mdl
+[21:37:17] CJC<STEAM_0:1:442389183> used the tool colour on models/hunter/blocks/cube4x4x025.mdl
+[21:37:19] CJC<STEAM_0:1:442389183> used the tool colour on models/hunter/blocks/cube1x3x025.mdl
+[21:37:27] CJC<STEAM_0:1:442389183> used the tool colour on models/hunter/blocks/cube4x4x025.mdl
+[21:37:57] CJC<STEAM_0:1:442389183> used the tool nocollide on models/hunter/blocks/cube1x3x1.mdl
+[21:37:57] CJC<STEAM_0:1:442389183> used the tool nocollide on models/hunter/blocks/cube1x3x1.mdl
+[21:37:59] CJC<STEAM_0:1:442389183> used the tool nocollide on models/hunter/blocks/cube1x3x1.mdl
+[21:37:59] CJC<STEAM_0:1:442389183> used the tool nocollide on models/hunter/blocks/cube1x3x1.mdl
+[21:38:01] CJC<STEAM_0:1:442389183> used the tool nocollide on models/hunter/blocks/cube1x3x1.mdl
+[21:38:03] CJC<STEAM_0:1:442389183> used the tool nocollide on models/props_building_details/storefront_template001a_bars.mdl
+[21:38:05] CJC<STEAM_0:1:442389183> used the tool nocollide on models/hunter/blocks/cube1x3x1.mdl
+[21:38:06] CJC<STEAM_0:1:442389183> used the tool nocollide on models/props_building_details/storefront_template001a_bars.mdl
+[21:38:09] CJC<STEAM_0:1:442389183> used the tool nocollide on models/hunter/blocks/cube075x1x1.mdl
+[21:38:10] CJC<STEAM_0:1:442389183> used the tool nocollide on models/props_building_details/storefront_template001a_bars.mdl
+[21:38:16] CJC<STEAM_0:1:442389183> used the tool material on models/props_building_details/storefront_template001a_bars.mdl
+[21:38:17] CJC<STEAM_0:1:442389183> used the tool material on models/props_building_details/storefront_template001a_bars.mdl
+[21:38:18] CJC<STEAM_0:1:442389183> used the tool material on models/props_building_details/storefront_template001a_bars.mdl
+[21:38:19] CJC<STEAM_0:1:442389183> used the tool material on models/props_building_details/storefront_template001a_bars.mdl
+[21:38:50] CJC<STEAM_0:1:442389183> used the tool remover on models/hunter/blocks/cube1x3x1.mdl
+[21:38:50] CJC<STEAM_0:1:442389183> used the tool remover on models/props_building_details/storefront_template001a_bars.mdl
+[21:38:51] CJC<STEAM_0:1:442389183> used the tool remover on models/hunter/blocks/cube1x3x1.mdl
+[21:38:51] CJC<STEAM_0:1:442389183> used the tool remover on models/hunter/blocks/cube1x3x1.mdl
+[21:38:51] CJC<STEAM_0:1:442389183> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[21:38:51] CJC<STEAM_0:1:442389183> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[21:38:52] CJC<STEAM_0:1:442389183> used the tool remover on models/hunter/blocks/cube1x3x025.mdl
+[21:38:52] CJC<STEAM_0:1:442389183> used the tool remover on models/hunter/blocks/cube1x3x025.mdl
+[21:38:52] CJC<STEAM_0:1:442389183> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[21:38:52] CJC<STEAM_0:1:442389183> used the tool remover on models/hunter/blocks/cube1x3x025.mdl
+[21:38:52] CJC<STEAM_0:1:442389183> used the tool remover on models/hunter/blocks/cube1x3x1.mdl
+[21:38:53] CJC<STEAM_0:1:442389183> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[21:38:53] CJC<STEAM_0:1:442389183> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[21:38:54] CJC<STEAM_0:1:442389183> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[21:38:54] CJC<STEAM_0:1:442389183> used the tool remover on models/props_phx/mechanics/slider1.mdl
+[21:38:54] CJC<STEAM_0:1:442389183> used the tool remover on models/props_phx/construct/metal_plate1x2.mdl
+[21:38:57] CJC: /invholster
+[21:39:00] CJC<STEAM_0:1:442389183> used the tool remover on models/hunter/blocks/cube1x3x1.mdl
+[21:39:00] CJC<STEAM_0:1:442389183> used the tool remover on models/props_c17/fence01a.mdl
+[21:39:00] CJC<STEAM_0:1:442389183> used the tool remover on models/hunter/blocks/cube1x3x1.mdl
+[21:39:00] CJC<STEAM_0:1:442389183> used the tool remover on models/hunter/blocks/cube025x3x025.mdl
+[21:39:01] CJC<STEAM_0:1:442389183> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[21:39:01] CJC<STEAM_0:1:442389183> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[21:39:01] CJC<STEAM_0:1:442389183> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[21:39:01] CJC<STEAM_0:1:442389183> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[21:39:02] CJC<STEAM_0:1:442389183> used the tool remover on models/hunter/blocks/cube025x1x025.mdl
+[21:39:03] CJC<STEAM_0:1:442389183> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[21:39:03] CJC<STEAM_0:1:442389183> used the tool remover on models/props_lab/keypad.mdl
+[21:39:03] CJC<STEAM_0:1:442389183> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[21:39:04] CJC<STEAM_0:1:442389183> used the tool remover on models/props_lab/keypad.mdl
+[21:39:06] CJC<STEAM_0:1:442389183> used the tool remover on models/props_lab/keypad.mdl
+[21:39:06] CJC<STEAM_0:1:442389183> used the tool remover on models/hunter/blocks/cube025x2x025.mdl
+[21:39:06] CJC<STEAM_0:1:442389183> used the tool remover on models/hunter/blocks/cube075x2x1.mdl
+[21:39:07] CJC<STEAM_0:1:442389183> used the tool remover on models/props_building_details/storefront_template001a_bars.mdl
+[21:39:07] CJC<STEAM_0:1:442389183> used the tool remover on models/props_building_details/storefront_template001a_bars.mdl
+[21:39:07] CJC<STEAM_0:1:442389183> used the tool remover on models/hunter/blocks/cube1x3x025.mdl
+[21:39:07] CJC<STEAM_0:1:442389183> used the tool remover on models/props_phx/construct/metal_plate1x2.mdl
+[21:39:08] CJC<STEAM_0:1:442389183> used the tool remover on models/hunter/blocks/cube075x1x1.mdl
+[21:39:08] CJC<STEAM_0:1:442389183> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[21:39:08] CJC<STEAM_0:1:442389183> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[21:39:08] CJC<STEAM_0:1:442389183> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[21:39:09] CJC<STEAM_0:1:442389183> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[21:39:09] CJC<STEAM_0:1:442389183> used the tool remover on models/props_phx/construct/metal_plate1x2.mdl
+[21:39:09] CJC<STEAM_0:1:442389183> used the tool remover on models/hunter/blocks/cube1x3x1.mdl
+[21:39:10] CJC<STEAM_0:1:442389183> used the tool remover on models/props_building_details/storefront_template001a_bars.mdl
+[21:39:10] CJC<STEAM_0:1:442389183> used the tool remover on models/props_building_details/storefront_template001a_bars.mdl
+[21:39:10] CJC<STEAM_0:1:442389183> used the tool remover on models/hunter/blocks/cube1x3x1.mdl
+[21:39:11] CJC<STEAM_0:1:442389183> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[21:39:11] CJC<STEAM_0:1:442389183> used the tool remover on models/hunter/blocks/cube075x1x1.mdl
+[21:39:11] CJC<STEAM_0:1:442389183> used the tool remover on models/hunter/blocks/cube025x2x025.mdl
+[21:39:11] CJC<STEAM_0:1:442389183> used the tool remover on models/hunter/blocks/cube025x2x025.mdl
+[21:39:12] CJC<STEAM_0:1:442389183> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[21:39:12] CJC<STEAM_0:1:442389183> used the tool remover on models/hunter/blocks/cube025x1x025.mdl
+[21:39:12] CJC<STEAM_0:1:442389183> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[21:39:13] CJC<STEAM_0:1:442389183> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[21:39:13] CJC<STEAM_0:1:442389183> used the tool remover on models/props_lab/keypad.mdl
+[21:39:14] CJC<STEAM_0:1:442389183> used the tool remover on models/props_lab/keypad.mdl
+[21:39:15] CJC<STEAM_0:1:442389183> used the tool remover on models/props_lab/keypad.mdl
+[21:39:15] CJC<STEAM_0:1:442389183> used the tool remover on models/hunter/blocks/cube025x2x025.mdl
+[21:39:16] CJC<STEAM_0:1:442389183> used the tool remover on models/hunter/blocks/cube025x2x025.mdl
+[21:39:16] CJC<STEAM_0:1:442389183> used the tool remover on models/hunter/blocks/cube025x3x025.mdl
+[21:39:16] CJC<STEAM_0:1:442389183> used the tool remover on models/hunter/blocks/cube4x4x025.mdl
+[21:39:17] CJC<STEAM_0:1:442389183> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[21:39:17] CJC<STEAM_0:1:442389183> used the tool remover on models/hunter/blocks/cube025x1x025.mdl
+[21:39:17] CJC<STEAM_0:1:442389183> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[21:39:17] CJC<STEAM_0:1:442389183> used the tool remover on models/hunter/blocks/cube025x1x025.mdl
+[21:39:18] CJC<STEAM_0:1:442389183> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[21:39:18] CJC<STEAM_0:1:442389183> used the tool remover on models/props_lab/keypad.mdl
+[21:39:20] CJC<STEAM_0:1:442389183> used the tool remover on models/props_lab/keypad.mdl
+[21:39:20] CJC<STEAM_0:1:442389183> used the tool remover on models/props_c17/fence01a.mdl
+[21:39:20] CJC<STEAM_0:1:442389183> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[21:39:21] CJC<STEAM_0:1:442389183> used the tool remover on models/props_c17/fence01a.mdl
+[21:39:21] CJC<STEAM_0:1:442389183> used the tool remover on models/hunter/blocks/cube1x3x025.mdl
+[21:39:21] CJC<STEAM_0:1:442389183> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[21:39:22] CJC<STEAM_0:1:442389183> used the tool remover on models/props_c17/fence01a.mdl
+[21:39:22] CJC<STEAM_0:1:442389183> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[21:39:22] CJC<STEAM_0:1:442389183> used the tool remover on models/hunter/blocks/cube1x3x025.mdl
+[21:39:22] CJC<STEAM_0:1:442389183> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[21:39:23] CJC<STEAM_0:1:442389183> used the tool remover on models/hunter/blocks/cube1x3x025.mdl
+[21:39:23] CJC<STEAM_0:1:442389183> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[21:39:23] CJC<STEAM_0:1:442389183> used the tool remover on models/hunter/blocks/cube1x3x025.mdl
+[21:39:24] CJC<STEAM_0:1:442389183> used the tool remover on models/hunter/blocks/cube4x4x025.mdl
+[21:39:24] CJC<STEAM_0:1:442389183> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[21:39:24] CJC<STEAM_0:1:442389183> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[21:39:24] CJC<STEAM_0:1:442389183> used the tool remover on models/hunter/blocks/cube1x3x025.mdl
+[21:39:25] CJC<STEAM_0:1:442389183> used the tool remover on models/hunter/blocks/cube1x3x1.mdl
+[21:39:43] CJC<STEAM_0:1:442389183> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[21:39:43] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube05x2x025.mdl
+[21:39:43] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube1x8x05.mdl
+[21:39:43] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube05x2x025.mdl
+[21:39:43] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube05x2x025.mdl
+[21:39:43] CJC<STEAM_0:1:442389183> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[21:39:43] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube4x8x05.mdl
+[21:39:43] CJC<STEAM_0:1:442389183> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[21:39:43] CJC<STEAM_0:1:442389183> spawned model models/hunter/plates/plate2x5.mdl
+[21:39:43] CJC<STEAM_0:1:442389183> spawned model models/hunter/plates/plate2x6.mdl
+[21:39:43] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube4x8x05.mdl
+[21:39:43] CJC<STEAM_0:1:442389183> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[21:39:43] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube1x8x05.mdl
+[21:39:43] CJC<STEAM_0:1:442389183> spawned model models/props_c17/fence01b.mdl
+[21:39:44] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube1x8x05.mdl
+[21:39:44] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube1x8x05.mdl
+[21:39:44] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube1x8x05.mdl
+[21:39:44] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube4x8x05.mdl
+[21:39:44] CJC<STEAM_0:1:442389183> spawned model models/hunter/plates/plate2x6.mdl
+[21:39:44] CJC<STEAM_0:1:442389183> spawned model models/hunter/plates/plate2x6.mdl
+[21:39:44] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube4x8x05.mdl
+[21:39:44] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube4x8x05.mdl
+[21:39:44] CJC<STEAM_0:1:442389183> spawned model models/props_c17/fence01b.mdl
+[21:39:44] CJC<STEAM_0:1:442389183> spawned model models/props_c17/fence01b.mdl
+[21:39:44] CJC<STEAM_0:1:442389183> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[21:39:44] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube6x8x05.mdl
+[21:39:44] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube1x8x05.mdl
+[21:39:44] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube1x8x05.mdl
+[21:39:44] CJC<STEAM_0:1:442389183> spawned model models/props_c17/fence01b.mdl
+[21:39:44] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube1x8x05.mdl
+[21:39:44] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube4x8x05.mdl
+[21:39:44] CJC<STEAM_0:1:442389183> spawned model models/hunter/plates/plate2x6.mdl
+[21:39:44] CJC<STEAM_0:1:442389183> spawned model models/hunter/plates/plate2x3.mdl
+[21:39:44] CJC<STEAM_0:1:442389183> spawned model models/hunter/plates/plate1x2.mdl
+[21:39:44] CJC<STEAM_0:1:442389183> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[21:40:36] CJC<STEAM_0:1:442389183> used the tool textscreen on maps/rp_downtown_tits_v2.bsp
+[21:41:14] CJC<STEAM_0:1:442389183> used the tool fading_door on models/hunter/blocks/cube05x2x025.mdl
+[21:41:18] CJC<STEAM_0:1:442389183> used the tool fading_door on models/hunter/blocks/cube05x2x025.mdl
+[21:41:22] CJC<STEAM_0:1:442389183> used the tool fading_door on models/hunter/blocks/cube05x2x025.mdl
+[21:41:28] CJC<STEAM_0:1:442389183> used the tool fading_door on models/hunter/blocks/cube05x2x025.mdl
+[21:41:47] Dropped "CJC" from server<STEAM_0:1:442389183>
+[21:41:47] Client "theresamaston" connected.
+[21:42:54] Client "Turtleluck" connected.
+[21:43:45] Client "theresamaston" spawned in server <STEAM_0:1:442389183> (took 118 seconds).
+[21:46:09] CJC<STEAM_0:1:442389183> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[21:46:09] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube05x2x025.mdl
+[21:46:09] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube1x8x05.mdl
+[21:46:09] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube05x2x025.mdl
+[21:46:09] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube05x2x025.mdl
+[21:46:09] CJC<STEAM_0:1:442389183> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[21:46:09] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube4x8x05.mdl
+[21:46:09] CJC<STEAM_0:1:442389183> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[21:46:09] CJC<STEAM_0:1:442389183> spawned model models/hunter/plates/plate2x5.mdl
+[21:46:09] CJC<STEAM_0:1:442389183> spawned model models/hunter/plates/plate2x6.mdl
+[21:46:09] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube4x8x05.mdl
+[21:46:09] CJC<STEAM_0:1:442389183> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[21:46:09] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube1x8x05.mdl
+[21:46:09] CJC<STEAM_0:1:442389183> spawned model models/props_c17/fence01b.mdl
+[21:46:09] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube1x8x05.mdl
+[21:46:09] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube1x8x05.mdl
+[21:46:09] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube1x8x05.mdl
+[21:46:09] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube4x8x05.mdl
+[21:46:09] CJC<STEAM_0:1:442389183> spawned model models/hunter/plates/plate2x6.mdl
+[21:46:09] CJC<STEAM_0:1:442389183> spawned model models/hunter/plates/plate2x6.mdl
+[21:46:09] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube4x8x05.mdl
+[21:46:09] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube4x8x05.mdl
+[21:46:09] CJC<STEAM_0:1:442389183> spawned model models/props_c17/fence01b.mdl
+[21:46:09] CJC<STEAM_0:1:442389183> spawned model models/props_c17/fence01b.mdl
+[21:46:09] CJC<STEAM_0:1:442389183> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[21:46:09] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube6x8x05.mdl
+[21:46:09] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube1x8x05.mdl
+[21:46:09] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube1x8x05.mdl
+[21:46:09] CJC<STEAM_0:1:442389183> spawned model models/props_c17/fence01b.mdl
+[21:46:09] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube1x8x05.mdl
+[21:46:09] CJC<STEAM_0:1:442389183> spawned model models/hunter/blocks/cube4x8x05.mdl
+[21:46:09] CJC<STEAM_0:1:442389183> spawned model models/hunter/plates/plate2x6.mdl
+[21:46:09] CJC<STEAM_0:1:442389183> spawned model models/hunter/plates/plate2x3.mdl
+[21:46:09] CJC<STEAM_0:1:442389183> spawned model models/hunter/plates/plate1x2.mdl
+[21:46:09] CJC<STEAM_0:1:442389183> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[21:47:03] Client "Turtleluck" spawned in server <STEAM_0:0:4113812> (took 249 seconds).
+[21:47:30] CJC<STEAM_0:1:442389183> used the tool textscreen on maps/rp_downtown_tits_v2.bsp
+[21:47:50] CJC<STEAM_0:1:442389183> used the tool fading_door on models/hunter/blocks/cube05x2x025.mdl
+[21:47:53] CJC<STEAM_0:1:442389183> used the tool fading_door on models/hunter/blocks/cube05x2x025.mdl
+[21:48:02] CJC<STEAM_0:1:442389183> used the tool fading_door on models/hunter/blocks/cube05x2x025.mdl
+[21:48:11] CJC<STEAM_0:1:442389183> used the tool keypad_willox on models/hunter/blocks/cube1x8x05.mdl
+[21:48:15] CJC<STEAM_0:1:442389183> used the tool keypad_willox on models/hunter/blocks/cube1x8x05.mdl
+[21:48:19] CJC<STEAM_0:1:442389183> used the tool keypad_willox on models/hunter/blocks/cube1x8x05.mdl
+[21:48:23] CJC<STEAM_0:1:442389183> used the tool keypad_willox on models/hunter/blocks/cube1x8x05.mdl
+[21:48:26] CJC<STEAM_0:1:442389183> used the tool keypad_willox on models/hunter/blocks/cube1x8x05.mdl
+[21:48:29] CJC<STEAM_0:1:442389183> used the tool keypad_willox on models/hunter/blocks/cube1x8x05.mdl
+[21:49:36] Client "bert simson" connected.
+[21:49:46] Client "Derp" connected.
+[21:50:22] CJC: hello derp
+[21:50:25] Client "Derp" spawned in server <STEAM_0:0:52504530> (took 39 seconds).
+[21:50:45] Dropped "Turtleluck" from server<STEAM_0:0:4113812>
+[21:51:10] CJC: /
+[21:51:16] CJC: /pm derp hi
+[21:52:01] Derp: hello
+[21:52:07] Derp: just hopping on to say hello
+[21:52:21] Derp: im not good at growing weed
+[21:52:24] Client "bert simson" spawned in server <STEAM_0:1:179345279> (took 168 seconds).
+[21:52:51] Derp: if u put time and effort u can make quite a bit of money
+[21:53:45] Derp: hi
+[21:53:59] Derp: why are u in that corner
+[21:54:11] Derp: um
+[21:55:02] bobbicus has a wonderful voice<STEAM_0:1:179345279> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[21:55:08] bobbicus has a wonderful voice<STEAM_0:1:179345279> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[21:55:14] Derp: sup
+[21:55:19] bobbicus has a wonderful voice: why is the toolbar jacked up
+[21:55:27] bobbicus has a wonderful voice: smh everything is out of place
+[21:55:37] bobbicus has a wonderful voice<STEAM_0:1:179345279> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[21:55:40] bobbicus has a wonderful voice<STEAM_0:1:179345279> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[21:55:44] bobbicus has a wonderful voice<STEAM_0:1:179345279> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[21:55:44] bobbicus has a wonderful voice<STEAM_0:1:179345279> spawned model models/gibs/hgibs.mdl
+[21:55:49] Derp: its to put things in places that make more sense
+[21:55:49] bobbicus has a wonderful voice: oh that one worked
+[21:55:59] Derp: um
+[21:56:04] Derp: what the hell am i looking at
+[21:57:02] bobbicus has a wonderful voice: is that anticheat actually custom?
+[21:57:13] Derp: as far as i know yes
+[21:57:24] Derp: he talked to me about it and he showed me the code
+[21:57:35] bobbicus has a wonderful voice: I seen a couple other servers with that same thing, might just be coinsidence :^)
+[21:57:45] bobbicus has a wonderful voice: uhhh
+[21:57:46] Derp: he probably uses other anticheats as a base
+[21:57:53] Dropped "bobbicus has a wonderful voice" from server<STEAM_0:1:179345279>
+[21:59:07] Derp: it automatically packs ur weed
+[21:59:29] Derp: i mean yeah
+[21:59:42] Derp: i think its VIP only
+[22:00:23] Derp: buy the muffin mix
+[22:01:09] CJC: /invholster
+[22:01:50] Derp: idk
+[22:01:56] CJC suicided!
+[22:02:32] CJC: /invholster
+[22:05:13] CJC: /invholster
+[22:07:50] Client "bert simson" connected.
+[22:07:55] Dropped "CJC" from server<STEAM_0:1:442389183>
+[22:09:45] Derp suicided!
+[22:09:51] Derp<STEAM_0:0:52504530> used the tool camera on maps/rp_downtown_tits_v2.bsp
+[22:10:19] Client "DrDerpenstein sups.gg" connected.
+[22:11:07] Client "bert simson" spawned in server <STEAM_0:1:179345279> (took 197 seconds).
+[22:11:22] Client "DrDerpenstein sups.gg" spawned in server <STEAM_0:0:13562763> (took 63 seconds).
+[22:11:47] Dropped "DrDerpenstein" from server<STEAM_0:0:13562763>
+[22:11:53] bobbicus has a wonderful voice: // dUde
+[22:11:56] Derp: // yesh
+[22:12:04] bobbicus has a wonderful voice: // i didnt crash
+[22:12:08] Derp: noice
+[22:12:45] bobbicus has a wonderful voice: is the anticheat just the checks for lua being ran or does it have other things
+[22:12:55] bobbicus has a wonderful voice: you said like 20 people got banned from just "invalid lua executed"
+[22:13:14] Derp: i mean thats probably just the message it outputs but im sure its doing a lot of things
+[22:13:22] Derp: i could change the message if i wanted to i think
+[22:14:01] bobbicus has a wonderful voice: how big is the anticheat script?
+[22:14:11] Derp: i have no clue let me check it out and ill let u know
+[22:16:44] bobbicus has a wonderful voice<STEAM_0:1:179345279> used the tool button on maps/rp_downtown_tits_v2.bsp
+[22:16:45] bobbicus has a wonderful voice<STEAM_0:1:179345279> used the tool button on maps/rp_downtown_tits_v2.bsp
+[22:16:45] bobbicus has a wonderful voice<STEAM_0:1:179345279> used the tool button on maps/rp_downtown_tits_v2.bsp
+[22:16:46] bobbicus has a wonderful voice<STEAM_0:1:179345279> used the tool button on maps/rp_downtown_tits_v2.bsp
+[22:16:46] bobbicus has a wonderful voice<STEAM_0:1:179345279> used the tool button on maps/rp_downtown_tits_v2.bsp
+[22:16:53] bobbicus has a wonderful voice<STEAM_0:1:179345279> used the tool button on maps/rp_downtown_tits_v2.bsp
+[22:16:54] bobbicus has a wonderful voice<STEAM_0:1:179345279> used the tool button on maps/rp_downtown_tits_v2.bsp
+[22:16:56] bobbicus has a wonderful voice<STEAM_0:1:179345279> used the tool button on maps/rp_downtown_tits_v2.bsp
+[22:16:57] bobbicus has a wonderful voice<STEAM_0:1:179345279> used the tool button on maps/rp_downtown_tits_v2.bsp
+[22:16:59] bobbicus has a wonderful voice<STEAM_0:1:179345279> used the tool button on maps/rp_downtown_tits_v2.bsp
+[22:17:17] bobbicus has a wonderful voice<STEAM_0:1:179345279> used the tool button on maps/rp_downtown_tits_v2.bsp
+[22:17:18] bobbicus has a wonderful voice<STEAM_0:1:179345279> used the tool button on maps/rp_downtown_tits_v2.bsp
+[22:18:06] Derp: ok so uh i cant seem to find the anti cheat
+[22:18:09] bobbicus has a wonderful voice<STEAM_0:1:179345279> used the tool button on maps/rp_downtown_tits_v2.bsp
+[22:18:11] bobbicus has a wonderful voice<STEAM_0:1:179345279> used the tool button on maps/rp_downtown_tits_v2.bsp
+[22:18:11] bobbicus has a wonderful voice<STEAM_0:1:179345279> used the tool button on maps/rp_downtown_tits_v2.bsp
+[22:18:13] bobbicus has a wonderful voice<STEAM_0:1:179345279> used the tool button on maps/rp_downtown_tits_v2.bsp
+[22:18:15] bobbicus has a wonderful voice: /shrug
+[22:18:17] bobbicus has a wonderful voice: doesnt matter
+[22:18:20] bobbicus has a wonderful voice<STEAM_0:1:179345279> used the tool button on maps/rp_downtown_tits_v2.bsp
+[22:18:21] bobbicus has a wonderful voice<STEAM_0:1:179345279> used the tool button on maps/rp_downtown_tits_v2.bsp
+[22:18:22] bobbicus has a wonderful voice<STEAM_0:1:179345279> used the tool button on maps/rp_downtown_tits_v2.bsp
+[22:18:23] bobbicus has a wonderful voice<STEAM_0:1:179345279> used the tool button on maps/rp_downtown_tits_v2.bsp
+[22:18:24] bobbicus has a wonderful voice<STEAM_0:1:179345279> used the tool button on maps/rp_downtown_tits_v2.bsp
+[22:18:25] bobbicus has a wonderful voice<STEAM_0:1:179345279> used the tool button on maps/rp_downtown_tits_v2.bsp
+[22:18:42] Derp: i found one of them tho
+[22:18:45] Derp: we have like 2 or 3
+[22:18:55] bobbicus has a wonderful voice: which ones do you have
+[22:19:01] bobbicus has a wonderful voice<STEAM_0:1:179345279> used the tool button on maps/rp_downtown_tits_v2.bsp
+[22:19:02] Derp: the one i found is called modern anti cheat
+[22:19:03] bobbicus has a wonderful voice<STEAM_0:1:179345279> used the tool button on maps/rp_downtown_tits_v2.bsp
+[22:19:08] bobbicus has a wonderful voice<STEAM_0:1:179345279> used the tool button on maps/rp_downtown_tits_v2.bsp
+[22:19:09] bobbicus has a wonderful voice<STEAM_0:1:179345279> used the tool button on maps/rp_downtown_tits_v2.bsp
+[22:19:11] bobbicus has a wonderful voice: oh lol
+[22:19:18] Derp: but i know there is another one that he made
+[22:19:22] Derp: but i have no idea what its called
+[22:19:35] Client "AK Brother K" connected.
+[22:20:09] bobbicus has a wonderful voice<STEAM_0:1:179345279> used the tool button on maps/rp_downtown_tits_v2.bsp
+[22:20:17] bobbicus has a wonderful voice<STEAM_0:1:179345279> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[22:20:17] bobbicus has a wonderful voice<STEAM_0:1:179345279> spawned model models/gibs/hgibs.mdl
+[22:20:32] Derp: is that a dupe?
+[22:20:37] bobbicus has a wonderful voice<STEAM_0:1:179345279> used the tool material on models/gibs/hgibs.mdl
+[22:20:46] bobbicus has a wonderful voice: yes sir
+[22:20:52] Derp: what is the combine error made out of
+[22:20:54] Derp: is that like rope
+[22:20:57] bobbicus has a wonderful voice: mhm
+[22:21:14] bobbicus has a wonderful voice: i made 2 of them man
+[22:21:18] bobbicus has a wonderful voice<STEAM_0:1:179345279> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[22:21:18] bobbicus has a wonderful voice<STEAM_0:1:179345279> spawned model models/gibs/hgibs.mdl
+[22:21:30] Derp: uh
+[22:21:39] bobbicus has a wonderful voice: that one is just extendable
+[22:21:47] bobbicus has a wonderful voice<STEAM_0:1:179345279> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[22:21:47] bobbicus has a wonderful voice<STEAM_0:1:179345279> spawned model models/props_phx/games/chess/black_bishop.mdl
+[22:21:47] bobbicus has a wonderful voice<STEAM_0:1:179345279> spawned model models/props_phx/games/chess/black_king.mdl
+[22:21:47] bobbicus has a wonderful voice<STEAM_0:1:179345279> spawned model models/props_phx/games/chess/white_bishop.mdl
+[22:21:47] bobbicus has a wonderful voice<STEAM_0:1:179345279> spawned model models/props_phx/games/chess/white_rook.mdl
+[22:21:47] bobbicus has a wonderful voice<STEAM_0:1:179345279> spawned model models/props_phx/games/chess/white_queen.mdl
+[22:21:47] bobbicus has a wonderful voice<STEAM_0:1:179345279> spawned model models/props_phx/games/chess/white_pawn.mdl
+[22:21:47] bobbicus has a wonderful voice<STEAM_0:1:179345279> spawned model models/props_phx/games/chess/white_rook.mdl
+[22:21:47] bobbicus has a wonderful voice<STEAM_0:1:179345279> spawned model models/props_phx/games/chess/black_pawn.mdl
+[22:21:47] bobbicus has a wonderful voice<STEAM_0:1:179345279> spawned model models/props_phx/games/chess/black_pawn.mdl
+[22:21:47] bobbicus has a wonderful voice<STEAM_0:1:179345279> spawned model models/props_phx/games/chess/black_pawn.mdl
+[22:21:47] bobbicus has a wonderful voice<STEAM_0:1:179345279> spawned model models/props_phx/games/chess/white_pawn.mdl
+[22:21:47] bobbicus has a wonderful voice<STEAM_0:1:179345279> spawned model models/props_phx/games/chess/white_pawn.mdl
+[22:21:47] bobbicus has a wonderful voice<STEAM_0:1:179345279> spawned model models/props_phx/games/chess/black_pawn.mdl
+[22:21:47] bobbicus has a wonderful voice<STEAM_0:1:179345279> spawned model models/props_phx/games/chess/white_pawn.mdl
+[22:21:47] bobbicus has a wonderful voice<STEAM_0:1:179345279> spawned model models/props_phx/games/chess/white_knight.mdl
+[22:21:47] bobbicus has a wonderful voice<STEAM_0:1:179345279> spawned model models/props_phx/games/chess/black_pawn.mdl
+[22:21:47] bobbicus has a wonderful voice<STEAM_0:1:179345279> spawned model models/props_phx/games/chess/black_pawn.mdl
+[22:21:47] bobbicus has a wonderful voice<STEAM_0:1:179345279> spawned model models/props_phx/games/chess/white_pawn.mdl
+[22:21:47] bobbicus has a wonderful voice<STEAM_0:1:179345279> spawned model models/props_phx/games/chess/black_knight.mdl
+[22:21:47] bobbicus has a wonderful voice<STEAM_0:1:179345279> spawned model models/props_phx/games/chess/black_bishop.mdl
+[22:21:47] bobbicus has a wonderful voice<STEAM_0:1:179345279> spawned model models/props_phx/games/chess/black_pawn.mdl
+[22:21:47] bobbicus has a wonderful voice<STEAM_0:1:179345279> spawned model models/props_phx/games/chess/black_pawn.mdl
+[22:21:47] bobbicus has a wonderful voice<STEAM_0:1:179345279> spawned model models/props_phx/games/chess/black_queen.mdl
+[22:21:47] bobbicus has a wonderful voice<STEAM_0:1:179345279> spawned model models/props_phx/games/chess/white_pawn.mdl
+[22:21:47] bobbicus has a wonderful voice<STEAM_0:1:179345279> spawned model models/props_phx/games/chess/white_pawn.mdl
+[22:21:47] bobbicus has a wonderful voice<STEAM_0:1:179345279> spawned model models/props_phx/games/chess/white_king.mdl
+[22:21:47] bobbicus has a wonderful voice<STEAM_0:1:179345279> spawned model models/props_phx/games/chess/black_rook.mdl
+[22:21:47] bobbicus has a wonderful voice<STEAM_0:1:179345279> spawned model models/props_phx/games/chess/white_knight.mdl
+[22:21:47] bobbicus has a wonderful voice<STEAM_0:1:179345279> spawned model models/props_phx/games/chess/black_knight.mdl
+[22:21:47] bobbicus has a wonderful voice<STEAM_0:1:179345279> spawned model models/props_phx/games/chess/black_rook.mdl
+[22:21:47] bobbicus has a wonderful voice<STEAM_0:1:179345279> spawned model models/props_phx/games/chess/white_bishop.mdl
+[22:21:47] bobbicus has a wonderful voice<STEAM_0:1:179345279> spawned model models/props_phx/games/chess/white_pawn.mdl
+[22:22:04] Dropped "bobbicus has a wonderful voice" from server<STEAM_0:1:179345279>
+[22:23:31] (SILENT) Derp restricted tool rope from user
+[22:23:43] (SILENT) Derp restricted tool weld from owner
+[22:23:45] Derp<STEAM_0:0:52504530> spawned/used tool weld -=RESTRICTED=-
+[22:23:50] (SILENT) Derp unrestricted weld from owner
+[22:23:51] Derp<STEAM_0:0:52504530> used the tool weld on maps/rp_downtown_tits_v2.bsp
+[22:23:52] Derp<STEAM_0:0:52504530> used the tool weld on maps/rp_downtown_tits_v2.bsp
+[22:23:53] Derp<STEAM_0:0:52504530> used the tool weld on maps/rp_downtown_tits_v2.bsp
+[22:23:53] Derp<STEAM_0:0:52504530> used the tool weld on maps/rp_downtown_tits_v2.bsp
+[22:23:53] Derp<STEAM_0:0:52504530> used the tool weld on maps/rp_downtown_tits_v2.bsp
+[22:23:53] Derp<STEAM_0:0:52504530> used the tool weld on maps/rp_downtown_tits_v2.bsp
+[22:24:05] Client "AK Brother K" spawned in server <STEAM_0:0:6415518> (took 270 seconds).
+[22:24:06] (SILENT) Derp restricted tool winch from user
+[22:24:46] Derp: hi
+[22:27:36] AK Brother K<STEAM_0:0:6415518> spawned/gave himself swep csgo_bayonet
+[22:27:46] Derp: is this your first time playing darkrp?
+[22:28:01] Derp: press Y to type
+[22:28:07] AK Brother K: oh
+[22:28:13] Client "DrDerpenstein sups.gg" connected.
+[22:28:50] Client "DrDerpenstein sups.gg" spawned in server <STEAM_0:0:13562763> (took 37 seconds).
+[22:29:28] Derp: hes really new
+[22:29:30] Derp: he didnt even know how to type
+[22:29:41] Derp: he didnt even know how to type
+[22:29:46] Derp: he didnt even know how to type
+[22:29:46] Derp: he didnt even know how to type
+[22:29:47] Derp: he didnt even know how to type
+[22:29:56] Derp: that is fucking insane
+[22:30:34] AK Brother K: im in the sewer
+[22:30:41] Derp: if i had a dollar for every tear thats hit the ground since i started this server i would be richer than jeff bezos
+[22:30:46] AK Brother K: hiding
+[22:31:20] AK Brother K<STEAM_0:0:6415518> spawned/gave himself swep weapon_rape
+[22:31:28] AK Brother K<STEAM_0:0:6415518> spawned/gave himself swep climb_swep2
+[22:31:31] Derp: i think we need to finish up with the cars and vending machines and we should be good to go
+[22:31:31] AK Brother K<STEAM_0:0:6415518> spawned/gave himself swep weapon_empty_hands
+[22:31:32] AK Brother K<STEAM_0:0:6415518> spawned/gave himself swep weapon_fists
+[22:31:43] Derp: sure
+[22:31:48] Derp: no one even cares anyways
+[22:31:54] Derp: i doubt anyone is even gonna realize that someone has one or not
+[22:31:58] Dropped "AK Brother K" from server<STEAM_0:0:6415518>
+[22:32:24] Derp: well we dont even have 7 people on at a time so
+[22:32:57] Derp: we really need to fucking get TDM out of here
+[22:33:07] Derp: that shit is too damn big and every server has TDM
+[22:33:10] Derp: too generic
+[22:33:16] Derp: i dont think we have
+[22:33:21] Derp: anyways VCMOD doesnt work for me right now so
+[22:33:32] Derp: yeah thats what happens when u have DRM 
+[22:33:36] Derp: sometimes it fails to load
+[22:33:38] Client "bert simson" connected.
+[22:33:43] Derp: dude bert has joined like 4 times
+[22:33:45] Derp: he keeps crashing
+[22:34:04] Derp: first time he crashed he said it was windows media player
+[22:34:04] Derp: lol
+[22:34:12] Derp: i dont know man
+[22:35:34] (SILENT) Derp restricted tool elastic from user
+[22:35:45] (SILENT) Derp restricted tool muscle from user
+[22:36:03] Derp: im doing it just in case someone finds a way to use them anyways
+[22:36:12] Client "bert simson" spawned in server <STEAM_0:1:179345279> (took 154 seconds).
+[22:36:24] DrDerpenstein<STEAM_0:0:13562763> used the tool material on models/player/group01/female_02.mdl
+[22:36:26] Derp: its always confusing when bert joins because his name is different in game
+[22:36:33] Derp<STEAM_0:0:52504530> used the tool camera on maps/rp_downtown_tits_v2.bsp
+[22:36:35] Derp: oh my god
+[22:36:37] Derp: my fucking body
+[22:36:39] DrDerpenstein<STEAM_0:0:13562763> used the tool material on models/player/group01/female_02.mdl
+[22:36:55] Derp: ah yes ive always wanted to become a piece of wood
+[22:37:04] DrDerpenstein<STEAM_0:0:13562763> used the tool material on maps/rp_downtown_tits_v2.bsp
+[22:37:04] DrDerpenstein<STEAM_0:0:13562763> used the tool material on maps/rp_downtown_tits_v2.bsp
+[22:37:04] DrDerpenstein<STEAM_0:0:13562763> used the tool material on models/player/group01/female_02.mdl
+[22:37:16] bobbicus has a wonderful voice: hmm
+[22:37:36] Derp: wat
+[22:37:37] DrDerpenstein<STEAM_0:0:13562763> used the tool material on maps/rp_downtown_tits_v2.bsp
+[22:37:37] DrDerpenstein<STEAM_0:0:13562763> used the tool material on models/player/group01/female_02.mdl
+[22:37:38] bobbicus has a wonderful voice: do !menu then ban tab i think
+[22:37:39] Derp: repeat that again
+[22:37:40] bobbicus has a wonderful voice: maybe?
+[22:37:56] Derp: who did the admin ban
+[22:37:59] bobbicus has a wonderful voice<STEAM_0:1:179345279> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[22:38:01] DrDerpenstein: !menu
+[22:38:34] Derp: i think its cuz ur SA
+[22:38:35] bobbicus has a wonderful voice: it should be near the settings tab at the top
+[22:38:40] bobbicus has a wonderful voice: idk if its still a thing
+[22:38:48] bobbicus has a wonderful voice: can he see it?
+[22:38:54] Derp: i believe right now its an owner only thing
+[22:39:02] Derp: ill change it
+[22:39:10] Derp granted access "xgui_managebans" to group superadmin
+[22:39:14] Derp: there
+[22:39:29] bobbicus has a wonderful voice: im crashing again
+[22:39:32] bobbicus has a wonderful voice: nevermind
+[22:39:38] Derp: why do u keep crashing
+[22:39:45] bobbicus has a wonderful voice: I dont know!
+[22:39:56] Derp: its probably because of all of ur hacks
+[22:39:59] Derp: lol
+[22:40:13] DrDerpenstein: !menu
+[22:40:26] bobbicus has a wonderful voice: dude the code that banned me yesterday was just the clientside simplethirdperson code
+[22:40:33] bobbicus has a wonderful voice: i had it in autorun
+[22:40:59] bobbicus has a wonderful voice: i had no detours for it either at the time
+[22:41:05] Derp: u had a thirdperson command in autorun for ur game?
+[22:41:05] bobbicus has a wonderful voice: and i just disabled it entirely 
+[22:41:39] DrDerpenstein: !menu
+[22:41:45] Derp: i only did that once and it was with poor bert here
+[22:41:47] bobbicus has a wonderful voice: i think my ban message was more professional
+[22:42:17] Derp: hes gay which makes it funny to me
+[22:42:22] Derp: yes
+[22:42:57] DrDerpenstein: !menu
+[22:43:23] Derp: i can change people's groups
+[22:43:49] bobbicus has a wonderful voice: oh and derp i never bought cheats smh
+[22:44:12] Derp: dont unban the people with Steam IDS
+[22:44:23] Derp: most of those are people who were absolutely trying to fucking break every rule in existence with no regret
+[22:44:38] Derp: the reason we used their ids was because they tried leaving to escape punishment
+[22:45:17] Derp: wtf are these 2 bans
+[22:45:21] Derp: Server Precaution
+[22:45:40] Derp: i think those were 2 guys that came on and we like using basic mods
+[22:45:50] Derp: were*
+[22:46:06] Derp: i mean i guess
+[22:46:19] Derp: lets just change all weird bans to 1 week
+[22:46:45] bobbicus has a wonderful voice: drderp
+[22:46:49] bobbicus has a wonderful voice: wanna see my moonwalking abilities
+[22:47:24] Derp: is that ur moonwalk
+[22:47:35] bobbicus has a wonderful voice: big moonwalk
+[22:47:40] Derp: big boi walk
+[22:47:51] bobbicus has a wonderful voice: Is it faster?
+[22:47:58] Derp: is what faster?
+[22:48:00] Derp: ur moonwalk?
+[22:48:03] bobbicus has a wonderful voice: than normal walking yeah
+[22:49:19] Derp: his steam name is Sukebena-Chan
+[22:49:26] Derp: hes like a fucking gay weeb
+[22:50:14] Derp: the people he banned deserved to be banned but i think all of his bans were permabans
+[22:50:42] Derp: trust me if i banned someone they definitely deserved it
+[22:50:45] Derp: i give people a lot of chances
+[22:51:06] bobbicus has a wonderful voice: derp
+[22:51:08] DrDerpenstein brought bobbicus has a wonderful voice
+[22:51:08] bobbicus has a wonderful voice: come over here
+[22:51:09] bobbicus has a wonderful voice: OH
+[22:51:11] bobbicus has a wonderful voice: OKAY 
+[22:51:25] DrDerpenstein started a fire.
+[22:51:30] DrDerpenstein extinguished 0 fires.
+[22:51:36] bobbicus has a wonderful voice: /y what does my spray look like
+[22:51:40] DrDerpenstein: !menu
+[22:51:42] DrDerpenstein extinguished 0 fires.
+[22:51:43] DrDerpenstein extinguished 0 fires.
+[22:51:43] DrDerpenstein extinguished 0 fires.
+[22:51:43] DrDerpenstein extinguished 0 fires.
+[22:51:43] DrDerpenstein extinguished 0 fires.
+[22:51:44] DrDerpenstein extinguished 0 fires.
+[22:51:44] Derp: i dont see anything
+[22:51:44] DrDerpenstein extinguished 0 fires.
+[22:51:44] DrDerpenstein extinguished 0 fires.
+[22:51:45] DrDerpenstein extinguished 0 fires.
+[22:51:46] DrDerpenstein extinguished 0 fires.
+[22:51:46] DrDerpenstein extinguished 0 fires.
+[22:51:46] DrDerpenstein extinguished 0 fires.
+[22:51:47] DrDerpenstein extinguished 0 fires.
+[22:51:53] DrDerpenstein started a fire.
+[22:51:54] DrDerpenstein started a fire.
+[22:51:54] DrDerpenstein started a fire.
+[22:51:54] DrDerpenstein started a fire.
+[22:51:55] DrDerpenstein started a fire.
+[22:51:55] DrDerpenstein started a fire.
+[22:51:58] Derp: oh
+[22:51:59] DrDerpenstein extinguished all 6 fires.
+[22:52:01] Derp: zombie dog
+[22:52:05] bobbicus has a wonderful voice: now back up
+[22:52:16] Derp: oh
+[22:52:22] Derp: how the hell
+[22:52:31] bobbicus has a wonderful voice: thats a big r_cleardecals moment
+[22:52:51] Derp: i mean shit i aint complaining if u know what i mean
+[22:52:51] bobbicus has a wonderful voice: HOW
+[22:53:04] Derp: seriously tho how did u do that
+[22:53:08] bobbicus has a wonderful voice: right dude me neither people were mad on ttt about that
+[22:53:23] Derp: show me ur ways
+[22:53:31] bobbicus has a wonderful voice: its just a spray 4head
+[22:53:38] Derp: yeah but thats not a normal spray
+[22:53:42] bobbicus has a wonderful voice: yeah sure it is
+[22:53:53] Derp: is it a gif or something or a straight up png/jpg
+[22:54:04] bobbicus has a wonderful voice: vtf
+[22:54:09] Derp: ah
+[22:54:23] Derp: look at this shit man
+[22:54:37] Derp: back up now
+[22:54:52] Derp: i fucking triple approve
+[22:55:07] Derp<STEAM_0:0:52504530> used the tool camera on maps/rp_downtown_tits_v2.bsp
+[22:55:16] bobbicus has a wonderful voice: /y it was meant for a jailbreak server
+[22:55:21] bobbicus has a wonderful voice: a while ago
+[22:55:34] Derp: just wish the girl had a more pretty looking face rn she looks like she wants to stab me
+[22:56:04] bobbicus has a wonderful voice: didnt spend much time looking for some content dude got the first thing i found
+[22:56:10] bobbicus has a wonderful voice: i didnt want to load it up in photoshop and resize it
+[22:56:41] Derp: thats kinda creepy lmao
+[22:56:52] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[22:56:53] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[22:56:53] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[22:56:53] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[22:56:53] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[22:56:55] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_pistol_large
+[22:56:55] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_pistol_large
+[22:56:55] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_pistol_large
+[22:56:55] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_pistol_large
+[22:56:56] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_large
+[22:56:56] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_large
+[22:56:56] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_large
+[22:56:56] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_large
+[22:56:56] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_large
+[22:56:57] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_large
+[22:56:57] Derp<STEAM_0:0:52504530> spawned/gave himself swep cw_ar15
+[22:56:58] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_357_large
+[22:56:58] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_357_large
+[22:56:58] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_357_large
+[22:56:59] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_box_buckshot
+[22:56:59] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_box_buckshot
+[22:57:00] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_crossbow
+[22:57:00] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_crossbow
+[22:57:00] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[22:57:00] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[22:57:00] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[22:57:01] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_grenade
+[22:57:01] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_grenade
+[22:57:01] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_grenade
+[22:57:02] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_altfire
+[22:57:02] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_altfire
+[22:57:02] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_altfire
+[22:57:02] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[22:57:02] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[22:57:03] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[22:57:03] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[22:57:03] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[22:57:03] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[22:57:05] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[22:57:09] bobbicus has a wonderful voice: // I MCRASHING
+[22:57:12] bobbicus has a wonderful voice: // nvm
+[22:57:26] DrDerpenstein killed Derp using player
+[22:57:30] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_healthkit
+[22:57:30] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[22:57:31] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[22:57:31] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[22:57:31] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[22:57:31] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[22:57:31] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[22:57:34] Derp: that gun tickles people
+[22:57:43] Derp: well i had like 20 health
+[22:57:46] bobbicus has a wonderful voice: wait fly to the other side of the map right there
+[22:58:04] bobbicus has a wonderful voice: // i meant so I can still see you but far away
+[22:58:15] DrDerpenstein: // what about it
+[22:58:19] DrDerpenstein: // its the naked chick
+[22:58:25] bobbicus has a wonderful voice: // oh
+[22:58:27] bobbicus has a wonderful voice: // its clientside then
+[22:58:33] DrDerpenstein killed bobbicus has a wonderful voice using player
+[22:58:39] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[22:58:40] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[22:58:40] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[22:58:40] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[22:58:40] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[22:58:41] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_healthkit
+[22:58:41] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_healthkit
+[22:58:41] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_healthkit
+[22:58:41] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_healthkit
+[22:58:41] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_healthkit
+[22:58:41] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_healthkit
+[22:58:45] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[22:58:45] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[22:59:17] bobbicus has a wonderful voice: // well im off
+[22:59:21] DrDerpenstein: // c ya
+[22:59:22] Dropped "bobbicus has a wonderful voice" from server<STEAM_0:1:179345279>
+[22:59:37] Derp: i gotta get off too lmao
+[22:59:49] Derp: oh yeah ur still a staff guy
+[23:00:14] Derp: tomorrow im getting rid of VCMOD and TDM
+[23:00:17] Derp: i dont want it
+[23:00:32] Derp: ill get other vehicles and stuff
+[23:00:34] Derp: so dont worry
+[23:00:45] Derp: i just dont want to have a generic ass server
+[23:00:48] Derp: especially with this fucking map
+[23:01:02] Derp: aight sounds good
+[23:01:13] Derp: let me know what happens with prometheus
+[23:01:49] Derp: cool ill talk to u tomorrow
+[23:01:57] Derp: have a goodnight brother
+[23:02:03] Derp<STEAM_0:0:52504530> used the tool remover on models/items/item_item_crate.mdl
+[23:02:03] Derp<STEAM_0:0:52504530> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[23:02:03] Derp<STEAM_0:0:52504530> used the tool remover on models/items/item_item_crate.mdl
+[23:02:03] Derp<STEAM_0:0:52504530> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[23:02:06] Dropped "DrDerpenstein" from server<STEAM_0:0:13562763>
+[23:02:13] Dropped "Derp" from server<STEAM_0:0:52504530>
+<Logging continued in "data/ulx_logs/08-28-19.txt">

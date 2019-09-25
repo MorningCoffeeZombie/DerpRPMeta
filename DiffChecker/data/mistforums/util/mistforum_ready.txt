@@ -1,0 +1,5 @@
+// Our last file to be processed.
+SetGlobalBool("mistforums-loaded", true)
+
+// starts the bootstrapper internally
+MistForum.getServerIp() -- grab and cache the ip

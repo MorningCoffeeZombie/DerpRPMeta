@@ -1,0 +1,20 @@
+<Logging continued from "data/ulx_logs/09-05-19.txt">
+[18:45:44] Client "Derp" connected.
+[18:46:42] Client "Derp" spawned in server <STEAM_0:0:52504530> (took 58 seconds).
+[18:47:47] Derp<STEAM_0:0:52504530> spawned sent emotes_npc
+[18:47:48] Derp<STEAM_0:0:52504530> used the tool permaprops on models/humans/group02/female_01.mdl
+[19:08:04] Derp<STEAM_0:0:52504530> spawned/gave himself swep cw_l115
+[19:08:33] Derp<STEAM_0:0:52504530> spawned/gave himself swep cw_l115
+[19:08:41] Dropped "Derp" from server<STEAM_0:0:52504530>
+[19:48:46] Client "DrDerpenstein sups.gg" connected.
+[20:14:06] Client "DrDerpenstein sups.gg" connected.
+[20:14:48] Client "DrDerpenstein sups.gg" spawned in server <STEAM_0:0:13562763> (took 42 seconds).
+[20:15:03] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_ak74
+[20:15:16] Dropped "DrDerpenstein" from server<STEAM_0:0:13562763>
+[20:47:10] Client "UG | M A S T E R" connected.
+[20:50:43] Client "UG | M A S T E R" spawned in server <STEAM_0:1:180622613> (took 213 seconds).
+[20:54:04] UG | M A S T E R<STEAM_0:1:180622613> spawned/gave himself swep weapon_ninjaskunai
+[20:56:05] UG | M A S T E R: .
+[20:56:11] UG | M A S T E R: // ?
+[21:07:03] Dropped "UG | M A S T E R" from server<STEAM_0:1:180622613>
+<Logging continued in "data/ulx_logs/09-07-19.txt">

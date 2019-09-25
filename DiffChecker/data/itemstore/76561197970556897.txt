@@ -1,0 +1,1 @@
+[{"Data":{"Amount":726723.0},"Class":"spawned_money"},{"Data":{"THC":25.0,"WeedName":"OG Kush","Perf_Amount":115.0,"Perf_Time":125.0,"ZWFOwner":"nil","Perf_THC":102.0,"WeedAmount":140.0,"PlantID":7.0},"Class":"zwf_jar"}]

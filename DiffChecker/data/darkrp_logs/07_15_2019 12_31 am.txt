@@ -1,0 +1,259 @@
+Mon Jul 15 00:31:18 2019	UG | M A S T E R (STEAM_0:1:180622613): /y someone is here
+Mon Jul 15 00:31:26 2019	Derp (STEAM_0:0:52504530) spawned SENT zwf_weedstick
+Mon Jul 15 00:31:27 2019	UG | M A S T E R (STEAM_0:1:180622613): get ready
+Mon Jul 15 00:31:45 2019	malicousbee was killed by UG | M A S T E R with a fas2_g3
+Mon Jul 15 00:31:47 2019	malicousbee (STEAM_0:1:508601712) spawned
+Mon Jul 15 00:31:48 2019	jtroll1942 was killed by UG | M A S T E R with a fas2_g3
+Mon Jul 15 00:31:55 2019	jtroll1942 (STEAM_0:1:119864290) spawned
+Mon Jul 15 00:31:58 2019	Dio was killed by UG | M A S T E R with a fas2_g3
+Mon Jul 15 00:32:00 2019	the deadly doctor (STEAM_0:0:223172042): i need weed
+Mon Jul 15 00:32:03 2019	Dio (STEAM_0:0:497465680) spawned
+Mon Jul 15 00:32:19 2019	the deadly doctor (STEAM_0:0:223172042): can yall see what im typing
+Mon Jul 15 00:32:54 2019	jtroll1942 (STEAM_0:1:119864290): wow
+Mon Jul 15 00:32:56 2019	malicousbee (STEAM_0:1:508601712) disconnected
+Mon Jul 15 00:33:15 2019	jtroll1942 was killed by UG | M A S T E R with a fas2_g3
+Mon Jul 15 00:33:23 2019	jtroll1942 (STEAM_0:1:119864290) spawned
+Mon Jul 15 00:33:27 2019	UG | M A S T E R (STEAM_0:1:180622613): fucking lockpicking the door
+Mon Jul 15 00:33:31 2019	malicousbee (STEAM_0:1:508601712) has joined the game
+Mon Jul 15 00:33:31 2019	malicousbee (STEAM_0:1:508601712) spawned
+Mon Jul 15 00:33:47 2019	UG | M A S T E R (STEAM_0:1:180622613): So dio, hope you know you'r going back in jail.
+Mon Jul 15 00:34:00 2019	UG | M A S T E R (STEAM_0:1:180622613): /arrest dio 999999
+Mon Jul 15 00:34:00 2019	Dio (STEAM_0:0:497465680) spawned
+Mon Jul 15 00:34:00 2019	UG | M A S T E R (STEAM_0:1:180622613) force-arrested Dio
+Mon Jul 15 00:34:09 2019	Dio (STEAM_0:0:497465680): wait a second
+Mon Jul 15 00:34:39 2019	jtroll1942 was killed by Derp with a fas2_glock20
+Mon Jul 15 00:34:41 2019	jtroll1942 (STEAM_0:1:119864290) spawned
+Mon Jul 15 00:34:41 2019	malicousbee (STEAM_0:1:508601712): /pm de
+Mon Jul 15 00:34:55 2019	UG | M A S T E R (STEAM_0:1:180622613): yeah
+Mon Jul 15 00:34:58 2019	malicousbee (STEAM_0:1:508601712): /pm derp i can also get guns with my class
+Mon Jul 15 00:35:02 2019	UG | M A S T E R (STEAM_0:1:180622613): I got that addon from gmodstore
+Mon Jul 15 00:35:14 2019	UG | M A S T E R (STEAM_0:1:180622613): /y freeze
+Mon Jul 15 00:35:22 2019	the deadly doctor (STEAM_0:0:223172042) unarrested Dio
+Mon Jul 15 00:35:55 2019	jtroll1942 was killed by UG | M A S T E R with a fas2_g3
+Mon Jul 15 00:35:58 2019	Derp was killed by the deadly doctor with a fas2_deagle
+Mon Jul 15 00:35:59 2019	jtroll1942 (STEAM_0:1:119864290) spawned
+Mon Jul 15 00:36:03 2019	Derp (STEAM_0:0:52504530) spawned
+Mon Jul 15 00:36:03 2019	the deadly doctor was killed by UG | M A S T E R with a fas2_g3
+Mon Jul 15 00:36:07 2019	the deadly doctor (STEAM_0:0:223172042) spawned
+Mon Jul 15 00:36:17 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Mon Jul 15 00:36:35 2019	UG | M A S T E R (STEAM_0:1:180622613): /911 backup required
+Mon Jul 15 00:36:48 2019	the deadly doctor (STEAM_0:0:223172042) spawned
+Mon Jul 15 00:36:48 2019	Derp (STEAM_0:0:52504530) arrested the deadly doctor
+Mon Jul 15 00:36:55 2019	Dio was killed by UG | M A S T E R with a fas2_thrown_m67
+Mon Jul 15 00:37:01 2019	Dio (STEAM_0:0:497465680) spawned
+Mon Jul 15 00:37:02 2019	the deadly doctor (STEAM_0:0:223172042) spawned
+Mon Jul 15 00:37:02 2019	Derp (STEAM_0:0:52504530) arrested the deadly doctor
+Mon Jul 15 00:37:07 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Mon Jul 15 00:37:35 2019	the deadly doctor (STEAM_0:0:223172042) spawned
+Mon Jul 15 00:37:35 2019	UG | M A S T E R (STEAM_0:1:180622613) arrested the deadly doctor
+Mon Jul 15 00:37:44 2019	the deadly doctor (STEAM_0:0:223172042) spawned
+Mon Jul 15 00:37:44 2019	Derp (STEAM_0:0:52504530) arrested the deadly doctor
+Mon Jul 15 00:37:54 2019	UG | M A S T E R (STEAM_0:1:180622613): /forcelockdown
+Mon Jul 15 00:37:56 2019	malicousbee (STEAM_0:1:508601712): /ooc derp can i also get guns with this class
+Mon Jul 15 00:38:03 2019	UG | M A S T E R (STEAM_0:1:180622613): /forcelock
+Mon Jul 15 00:38:08 2019	UG | M A S T E R was killed by Dio with a fas2_sks
+Mon Jul 15 00:38:15 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Mon Jul 15 00:38:17 2019	UG | M A S T E R (STEAM_0:1:180622613): /mayor
+Mon Jul 15 00:38:17 2019	jtroll1942 (STEAM_0:1:119864290): can i just all ways spawn with an rpg
+Mon Jul 15 00:38:19 2019	UG | M A S T E R (STEAM_0:1:180622613): /lockdown
+Mon Jul 15 00:38:25 2019	UG | M A S T E R (STEAM_0:1:180622613): /job Police
+Mon Jul 15 00:38:33 2019	Derp was killed by Dio with a fas2_sks
+Mon Jul 15 00:38:34 2019	UG | M A S T E R (STEAM_0:1:180622613): /job police
+Mon Jul 15 00:38:38 2019	UG | M A S T E R (STEAM_0:1:180622613): /police
+Mon Jul 15 00:38:44 2019	Derp (STEAM_0:0:52504530) spawned
+Mon Jul 15 00:38:58 2019	UG | M A S T E R (STEAM_0:1:180622613): /chief
+Mon Jul 15 00:39:01 2019	UG | M A S T E R (STEAM_0:1:180622613): /chief
+Mon Jul 15 00:39:03 2019	UG | M A S T E R (STEAM_0:1:180622613): /chief
+Mon Jul 15 00:39:18 2019	UG | M A S T E R (STEAM_0:1:180622613): /lockdown
+Mon Jul 15 00:39:22 2019	Derp (STEAM_0:0:52504530): can u send me all of the addons u have so i can install them even if ur not here
+Mon Jul 15 00:39:32 2019	UG | M A S T E R (STEAM_0:1:180622613): /police
+Mon Jul 15 00:39:44 2019	UG | M A S T E R (STEAM_0:1:180622613): /arrest the 9234929592
+Mon Jul 15 00:39:44 2019	the deadly doctor (STEAM_0:0:223172042) spawned
+Mon Jul 15 00:39:44 2019	UG | M A S T E R (STEAM_0:1:180622613) force-arrested the deadly doctor
+Mon Jul 15 00:39:48 2019	Derp (STEAM_0:0:52504530): so anyways
+Mon Jul 15 00:40:02 2019	UG | M A S T E R was killed by Dio with a fas2_sks
+Mon Jul 15 00:40:03 2019	Derp was killed by Dio with a fas2_sks
+Mon Jul 15 00:40:04 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Mon Jul 15 00:40:07 2019	Derp (STEAM_0:0:52504530) spawned
+Mon Jul 15 00:40:18 2019	UG | M A S T E R (STEAM_0:1:180622613): /pm derp lock & load
+Mon Jul 15 00:40:31 2019	UG | M A S T E R (STEAM_0:1:180622613): you'r a citizen
+Mon Jul 15 00:41:07 2019	UG | M A S T E R (STEAM_0:1:180622613): don't mind that
+Mon Jul 15 00:41:09 2019	jtroll1942 (STEAM_0:1:119864290): why is there so much drugs here
+Mon Jul 15 00:41:15 2019	the deadly doctor was killed by Dio with a fas2_sks
+Mon Jul 15 00:41:18 2019	the deadly doctor (STEAM_0:0:223172042) spawned
+Mon Jul 15 00:41:38 2019	malicousbee (STEAM_0:1:508601712) spawned
+Mon Jul 15 00:41:38 2019	UG | M A S T E R (STEAM_0:1:180622613) arrested malicousbee
+Mon Jul 15 00:41:44 2019	UG | M A S T E R (STEAM_0:1:180622613): /unarrest mali
+Mon Jul 15 00:41:44 2019	UG | M A S T E R (STEAM_0:1:180622613) force-unarrested malicousbee
+Mon Jul 15 00:41:45 2019	Dio was killed by Derp with a fas2_ak12
+Mon Jul 15 00:41:48 2019	UG | M A S T E R (STEAM_0:1:180622613): /arrest mali 99999
+Mon Jul 15 00:41:48 2019	malicousbee (STEAM_0:1:508601712) spawned
+Mon Jul 15 00:41:48 2019	UG | M A S T E R (STEAM_0:1:180622613) force-arrested malicousbee
+Mon Jul 15 00:41:52 2019	Dio (STEAM_0:0:497465680) spawned
+Mon Jul 15 00:42:29 2019	UG | M A S T E R (STEAM_0:1:180622613): /911 jail cells now
+Mon Jul 15 00:42:37 2019	UG | M A S T E R (STEAM_0:1:180622613): so
+Mon Jul 15 00:42:42 2019	UG | M A S T E R (STEAM_0:1:180622613): Let's talk
+Mon Jul 15 00:42:46 2019	jtroll1942 (STEAM_0:1:119864290): no
+Mon Jul 15 00:43:07 2019	Derp (STEAM_0:0:52504530): because i added the kermit model but the server hasnt restarted
+Mon Jul 15 00:43:21 2019	UG | M A S T E R (STEAM_0:1:180622613): Are you all in a gang to attack the pd
+Mon Jul 15 00:43:30 2019	jtroll1942 (STEAM_0:1:119864290): so why is the safe full of stuff
+Mon Jul 15 00:43:49 2019	Derp (STEAM_0:0:52504530): vapes is cool but i can see that it has the potential to lag a server to absolute hell
+Mon Jul 15 00:43:58 2019	Dio was killed by UG | M A S T E R with a fas2_m3s90
+Mon Jul 15 00:44:01 2019	Dio (STEAM_0:0:497465680) spawned
+Mon Jul 15 00:44:17 2019	Derp (STEAM_0:0:52504530): /unarrest the
+Mon Jul 15 00:44:17 2019	Derp (STEAM_0:0:52504530) force-unarrested the deadly doctor
+Mon Jul 15 00:44:18 2019	UG | M A S T E R (STEAM_0:1:180622613): /me starts a city lockdown
+Mon Jul 15 00:44:22 2019	Derp (STEAM_0:0:52504530): /unarrest mali
+Mon Jul 15 00:44:22 2019	Derp (STEAM_0:0:52504530) force-unarrested malicousbee
+Mon Jul 15 00:44:33 2019	Dio (STEAM_0:0:497465680): i hope you dont mind me asking but is what im doing legal if not then ill stop
+Mon Jul 15 00:44:36 2019	Derp (STEAM_0:0:52504530): /pm UG can u send me all the addons u have on discord plz
+Mon Jul 15 00:44:45 2019	Derp (STEAM_0:0:52504530): /pm ug i wanna be able to install addons even when ur offline
+Mon Jul 15 00:45:04 2019	the deadly doctor was killed by Dio with a m9k_model627
+Mon Jul 15 00:45:07 2019	the deadly doctor (STEAM_0:0:223172042) spawned
+Mon Jul 15 00:45:35 2019	malicousbee (STEAM_0:1:508601712): 
+Mon Jul 15 00:45:41 2019	Dio (STEAM_0:0:497465680) spawned
+Mon Jul 15 00:45:41 2019	the deadly doctor (STEAM_0:0:223172042) arrested Dio
+Mon Jul 15 00:45:45 2019	UG | M A S T E R (STEAM_0:1:180622613): !goto mali
+Mon Jul 15 00:45:51 2019	UG | M A S T E R (STEAM_0:1:180622613): hi
+Mon Jul 15 00:46:10 2019	Derp (STEAM_0:0:52504530): if u wanna talk about addons u should probably talk to MASTER
+Mon Jul 15 00:46:15 2019	Derp (STEAM_0:0:52504530): hes the main developer
+Mon Jul 15 00:46:19 2019	Derp (STEAM_0:0:52504530): he knows what hes doing more than me
+Mon Jul 15 00:46:41 2019	the deadly doctor (STEAM_0:0:223172042) unarrested Dio
+Mon Jul 15 00:47:05 2019	UG | M A S T E R (STEAM_0:1:180622613): ???
+Mon Jul 15 00:47:08 2019	UG | M A S T E R (STEAM_0:1:180622613): SPEAK
+Mon Jul 15 00:48:54 2019	UG | M A S T E R (STEAM_0:1:180622613): okay
+Mon Jul 15 00:48:55 2019	malicousbee was killed by the deadly doctor with a fas2_sks
+Mon Jul 15 00:49:06 2019	malicousbee (STEAM_0:1:508601712) spawned
+Mon Jul 15 00:49:23 2019	malicousbee (STEAM_0:1:508601712): /ooc is bhop allowed
+Mon Jul 15 00:50:01 2019	malicousbee was killed by jtroll1942 with a fas2_sks
+Mon Jul 15 00:50:04 2019	malicousbee (STEAM_0:1:508601712) spawned
+Mon Jul 15 00:50:30 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Mon Jul 15 00:50:30 2019	the deadly doctor (STEAM_0:0:223172042) arrested UG | M A S T E R
+Mon Jul 15 00:50:34 2019	UG | M A S T E R (STEAM_0:1:180622613): /unarrest UG
+Mon Jul 15 00:50:34 2019	UG | M A S T E R (STEAM_0:1:180622613) force-unarrested UG | M A S T E R
+Mon Jul 15 00:50:47 2019	the deadly doctor (STEAM_0:0:223172042) spawned
+Mon Jul 15 00:50:47 2019	UG | M A S T E R (STEAM_0:1:180622613) arrested the deadly doctor
+Mon Jul 15 00:50:53 2019	jtroll1942 was killed by Entity [0][worldspawn] with a unknown
+Mon Jul 15 00:50:55 2019	jtroll1942 (STEAM_0:1:119864290) spawned
+Mon Jul 15 00:50:59 2019	Dio (STEAM_0:0:497465680): jtroll
+Mon Jul 15 00:51:05 2019	UG | M A S T E R (STEAM_0:1:180622613): jtroll1942
+Mon Jul 15 00:51:09 2019	UG | M A S T E R (STEAM_0:1:180622613): is the drug boy
+Mon Jul 15 00:51:10 2019	Dio (STEAM_0:0:497465680): what u gonna do with your weed
+Mon Jul 15 00:51:33 2019	UG | M A S T E R (STEAM_0:1:180622613): jtroll1942 is the one we gotta arrest Officer Derp
+Mon Jul 15 00:51:40 2019	jtroll1942 (STEAM_0:1:119864290): derp can you help
+Mon Jul 15 00:51:40 2019	Derp (STEAM_0:0:52504530): /police
+Mon Jul 15 00:51:48 2019	UG | M A S T E R (STEAM_0:1:180622613): no
+Mon Jul 15 00:51:53 2019	Derp (STEAM_0:0:52504530): u too
+Mon Jul 15 00:52:26 2019	the deadly doctor (STEAM_0:0:223172042): ;
+Mon Jul 15 00:52:35 2019	jtroll1942 (STEAM_0:1:119864290): derp i need some of your help
+Mon Jul 15 00:52:58 2019	Derp (STEAM_0:0:52504530): hey
+Mon Jul 15 00:53:43 2019	Derp (STEAM_0:0:52504530): did u see what i asked u?
+Mon Jul 15 00:53:50 2019	UG | M A S T E R (STEAM_0:1:180622613): The addons thing
+Mon Jul 15 00:53:57 2019	UG | M A S T E R (STEAM_0:1:180622613): About the addons
+Mon Jul 15 00:53:59 2019	Derp (STEAM_0:0:52504530): yeah
+Mon Jul 15 00:54:30 2019	jtroll1942 was killed by the deadly doctor with a fas2_glock20
+Mon Jul 15 00:54:33 2019	Derp (STEAM_0:0:52504530): can u like put them all in one winrar file and then put it up for download so i can have access to them so i can customize the
+Mon Jul 15 00:54:38 2019	jtroll1942 (STEAM_0:1:119864290) spawned
+Mon Jul 15 00:54:51 2019	jtroll1942 (STEAM_0:1:119864290): deadly what was that for
+Mon Jul 15 00:56:29 2019	Derp (STEAM_0:0:52504530): we are looking for j right
+Mon Jul 15 00:56:46 2019	UG | M A S T E R (STEAM_0:1:180622613): I mean we can arrest this person. As we are here
+Mon Jul 15 00:56:49 2019	jtroll1942 (STEAM_0:1:119864290): hello
+Mon Jul 15 00:56:51 2019	Derp (STEAM_0:0:52504530): true
+Mon Jul 15 00:57:50 2019	UG | M A S T E R (STEAM_0:1:180622613): wanna cheat to that swear part or roleplay there
+Mon Jul 15 00:57:55 2019	Derp (STEAM_0:0:52504530): sewer
+Mon Jul 15 00:57:56 2019	Derp (STEAM_0:0:52504530): cheat
+Mon Jul 15 00:58:18 2019	jtroll1942 was killed by Entity [0][worldspawn] with a unknown
+Mon Jul 15 00:58:20 2019	jtroll1942 (STEAM_0:1:119864290) spawned
+Mon Jul 15 00:58:33 2019	UG | M A S T E R (STEAM_0:1:180622613): let us come in
+Mon Jul 15 00:58:58 2019	malicousbee was killed by Derp with a fas2_glock20
+Mon Jul 15 00:59:01 2019	malicousbee (STEAM_0:1:508601712) spawned
+Mon Jul 15 00:59:22 2019	Derp (STEAM_0:0:52504530): did u sell his bitcoin
+Mon Jul 15 01:00:13 2019	Derp (STEAM_0:0:52504530): lol
+Mon Jul 15 01:00:14 2019	Derp (STEAM_0:0:52504530): listen
+Mon Jul 15 01:00:24 2019	Derp (STEAM_0:0:52504530): everyone that has money on this server right now didnt spend much time getting it
+Mon Jul 15 01:00:31 2019	Derp (STEAM_0:0:52504530): the printers were absolutely broken
+Mon Jul 15 01:00:37 2019	Derp (STEAM_0:0:52504530): if u had green printers u could get a mil really fast
+Mon Jul 15 01:00:46 2019	malicousbee (STEAM_0:1:508601712) spawned
+Mon Jul 15 01:00:46 2019	UG | M A S T E R (STEAM_0:1:180622613) arrested malicousbee
+Mon Jul 15 01:00:51 2019	Derp (STEAM_0:0:52504530): criminal disposed of
+Mon Jul 15 01:00:52 2019	malicousbee (STEAM_0:1:508601712): /OOC FUCKCKDKSFK
+Mon Jul 15 01:01:01 2019	UG | M A S T E R (STEAM_0:1:180622613): /pm jtroll1942 where are you
+Mon Jul 15 01:01:06 2019	jtroll1942 (STEAM_0:1:119864290): who
+Mon Jul 15 01:01:18 2019	Derp (STEAM_0:0:52504530): i think we should use the normal ulx motd instead
+Mon Jul 15 01:01:22 2019	jtroll1942 (STEAM_0:1:119864290): o me
+Mon Jul 15 01:01:27 2019	UG | M A S T E R (STEAM_0:1:180622613): instead of fadmin
+Mon Jul 15 01:01:31 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Mon Jul 15 01:01:34 2019	Derp (STEAM_0:0:52504530): fadmin?
+Mon Jul 15 01:01:38 2019	Derp (STEAM_0:0:52504530): fadmin has an motd?
+Mon Jul 15 01:01:40 2019	jtroll1942 (STEAM_0:1:119864290): trying to sell your bitcoin miner that you didnt start
+Mon Jul 15 01:01:43 2019	UG | M A S T E R (STEAM_0:1:180622613): no
+Mon Jul 15 01:01:50 2019	Derp (STEAM_0:0:52504530): jasper motd is kinda broken
+Mon Jul 15 01:01:52 2019	Dio was killed by the deadly doctor with a fas2_glock20
+Mon Jul 15 01:01:56 2019	Dio (STEAM_0:0:497465680) spawned
+Mon Jul 15 01:02:00 2019	malicousbee was killed by UG | M A S T E R with a fas2_glock20
+Mon Jul 15 01:02:01 2019	Derp (STEAM_0:0:52504530): it has like combine textures and its really awkward
+Mon Jul 15 01:02:02 2019	malicousbee (STEAM_0:1:508601712) spawned
+Mon Jul 15 01:02:09 2019	UG | M A S T E R (STEAM_0:1:180622613): so remove it?
+Mon Jul 15 01:02:14 2019	Derp (STEAM_0:0:52504530): do u have any other motds
+Mon Jul 15 01:02:20 2019	Derp (STEAM_0:0:52504530): if not we can just use the normal ulx motd
+Mon Jul 15 01:02:24 2019	Derp (STEAM_0:0:52504530): i dont mind
+Mon Jul 15 01:03:04 2019	UG | M A S T E R (STEAM_0:1:180622613): https://garrysmods.org/download/46703/motd-clean-slick
+Mon Jul 15 01:03:17 2019	malicousbee was killed by UG | M A S T E R with a fas2_glock20
+Mon Jul 15 01:03:22 2019	malicousbee (STEAM_0:1:508601712): /OOC WTF
+Mon Jul 15 01:03:24 2019	malicousbee (STEAM_0:1:508601712): /OOC RDM
+Mon Jul 15 01:03:25 2019	malicousbee (STEAM_0:1:508601712) spawned
+Mon Jul 15 01:03:36 2019	Derp (STEAM_0:0:52504530): that one looks nice
+Mon Jul 15 01:03:38 2019	UG | M A S T E R (STEAM_0:1:180622613): i know where jtroll1942
+Mon Jul 15 01:03:42 2019	UG | M A S T E R (STEAM_0:1:180622613): is
+Mon Jul 15 01:03:44 2019	UG | M A S T E R (STEAM_0:1:180622613): let's go
+Mon Jul 15 01:03:45 2019	Derp (STEAM_0:0:52504530): k
+Mon Jul 15 01:03:54 2019	malicousbee was killed by Himself with a suicide trick
+Mon Jul 15 01:03:56 2019	Derp (STEAM_0:0:52504530): XD
+Mon Jul 15 01:03:57 2019	malicousbee (STEAM_0:1:508601712) spawned
+Mon Jul 15 01:03:57 2019	Derp (STEAM_0:0:52504530): wtf
+Mon Jul 15 01:03:59 2019	UG | M A S T E R (STEAM_0:1:180622613): /arrest mali 120
+Mon Jul 15 01:03:59 2019	malicousbee (STEAM_0:1:508601712) spawned
+Mon Jul 15 01:03:59 2019	UG | M A S T E R (STEAM_0:1:180622613) force-arrested malicousbee
+Mon Jul 15 01:04:05 2019	malicousbee (STEAM_0:1:508601712): /OOC WHAT
+Mon Jul 15 01:04:15 2019	malicousbee (STEAM_0:1:508601712): /OOC im calling g man
+Mon Jul 15 01:04:26 2019	malicousbee (STEAM_0:1:508601712): /ooc im calling epic gamex
+Mon Jul 15 01:04:27 2019	UG | M A S T E R was killed by Entity [0][worldspawn] with a unknown
+Mon Jul 15 01:04:29 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
+Mon Jul 15 01:04:30 2019	Derp (STEAM_0:0:52504530): NOOO
+Mon Jul 15 01:04:32 2019	UG | M A S T E R (STEAM_0:1:180622613): 
+Mon Jul 15 01:05:18 2019	Derp (STEAM_0:0:52504530): *coughs loudly*
+Mon Jul 15 01:05:18 2019	UG | M A S T E R (STEAM_0:1:180622613): hi
+Mon Jul 15 01:05:27 2019	UG | M A S T E R (STEAM_0:1:180622613): /me coughs loudly
+Mon Jul 15 01:05:42 2019	UG | M A S T E R (STEAM_0:1:180622613): /forcerpname Officer Jake
+Mon Jul 15 01:05:48 2019	UG | M A S T E R (STEAM_0:1:180622613): /forcerpname UG Officer Jake
+Mon Jul 15 01:05:48 2019	Officer Jake (STEAM_0:1:180622613) set UG | M A S T E R's name to Officer Jake
+Mon Jul 15 01:05:55 2019	jtroll1942 (STEAM_0:1:119864290) spawned
+Mon Jul 15 01:05:55 2019	Officer Jake (STEAM_0:1:180622613) arrested jtroll1942
+Mon Jul 15 01:06:10 2019	Dio (STEAM_0:0:497465680) spawned
+Mon Jul 15 01:06:10 2019	the deadly doctor (STEAM_0:0:223172042) arrested Dio
+Mon Jul 15 01:06:33 2019	Officer Jake (STEAM_0:1:180622613): 
+Mon Jul 15 01:06:45 2019	Officer Jake (STEAM_0:1:180622613): /forcerpname Derp Officer Derp
+Mon Jul 15 01:06:45 2019	Officer Jake (STEAM_0:1:180622613) set Derp's name to Officer Derp
+Mon Jul 15 01:06:51 2019	the deadly doctor was killed by Officer Jake with a fas2_glock20
+Mon Jul 15 01:06:58 2019	the deadly doctor (STEAM_0:0:223172042) spawned
+Mon Jul 15 01:07:23 2019	Officer Derp (STEAM_0:0:52504530): he got arrested
+Mon Jul 15 01:07:31 2019	Officer Derp (STEAM_0:0:52504530): fuck
+Mon Jul 15 01:07:38 2019	Officer Derp (STEAM_0:0:52504530): lol alright man
+Mon Jul 15 01:07:42 2019	Officer Derp (STEAM_0:0:52504530): tomorrow we should have more stuff 
+Mon Jul 15 01:07:45 2019	jtroll1942 (STEAM_0:1:119864290): wow
+Mon Jul 15 01:07:45 2019	Officer Derp (STEAM_0:0:52504530): the new printers
+Mon Jul 15 01:07:50 2019	Officer Derp (STEAM_0:0:52504530): new motd
+Mon Jul 15 01:07:55 2019	Officer Derp (STEAM_0:0:52504530): new jobs probably too
+Mon Jul 15 01:07:57 2019	jtroll1942 (STEAM_0:1:119864290): this is the reason why i stole the bitcoin miner
+Mon Jul 15 01:08:00 2019	Officer Derp (STEAM_0:0:52504530): ill start working on those
+Mon Jul 15 01:08:05 2019	Officer Derp (STEAM_0:0:52504530): and ill add more guns to the dealer
+Mon Jul 15 01:08:14 2019	Officer Jake (STEAM_0:1:180622613): we will do a other event.
+Mon Jul 15 01:08:16 2019	Dio (STEAM_0:0:497465680) disconnected
+Mon Jul 15 01:08:28 2019	Officer Derp (STEAM_0:0:52504530): /pm officer lets restart the server
+Mon Jul 15 01:08:35 2019	Officer Jake (STEAM_0:1:180622613): /forcerpname the Mr. Doctor
+Mon Jul 15 01:08:35 2019	Officer Jake (STEAM_0:1:180622613) set the deadly doctor's name to Mr. Doctor
+Mon Jul 15 01:08:42 2019	jtroll1942 (STEAM_0:1:119864290): DID YOU JUST DELATE MY HARD WORK
+Mon Jul 15 01:09:07 2019	Officer Jake was killed by Mr. Doctor with a fas2_glock20
+Mon Jul 15 01:09:10 2019	Officer Jake (STEAM_0:1:180622613) spawned
+Mon Jul 15 01:09:12 2019	Officer Jake (STEAM_0:1:180622613): .
+Mon Jul 15 01:09:29 2019	malicousbee (STEAM_0:1:508601712): /ooc RESTART

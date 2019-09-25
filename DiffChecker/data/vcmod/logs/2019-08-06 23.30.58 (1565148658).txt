@@ -1,0 +1,224 @@
+2019-08-06 23.30.58: <General> Logging started, map: rp_downtown_tits_v2.
+2019-08-06 23.30.58: <General> Welcome to VCMod Auto-Updater version 9.61.
+2019-08-06 23.30.58: <General> Pre-initialization complete, preparing to load addon data.
+2019-08-06 23.30.58: <General> Addons found: VCMod ELS, VCMod Main.
+2019-08-06 23.31.33: <General> Preparations started. Server needs to have atleast one player on it for preparations to continue.
+2019-08-06 23.31.37: <General> Preparations are complete, handshaking API.
+2019-08-06 23.31.39: <General> Handshake successful.
+2019-08-06 23.31.39: <General> Handshake finished.
+2019-08-06 23.31.40: <General> Contacting preload API.
+2019-08-06 23.31.40: <General> Initializing preload.
+2019-08-06 23.31.40: <General> Preload finished. Initializing addons.
+2019-08-06 23.31.40: <General> Started loading serverside.
+2019-08-06 23.31.40: <General> Loaded Main v1.737 serverside.
+2019-08-06 23.31.40: <General> Loaded ELS v1.1426 serverside.
+2019-08-06 23.31.40: <General> Finished loading serverside.
+2019-08-06 23.31.41: <General> Vehicle data "Airboat" loaded.
+2019-08-06 23.31.42: <General> All repair man NPC's have been placed on the map.
+2019-08-06 23.31.42: <Repair man> all Repair men have been placed on the map.
+2019-08-06 23.31.46: <General> Scanning for potentially incompatible hooks.
+2019-08-06 23.31.46: <General> No incompatibilities found.
+2019-08-06 23.31.46: <General> General vehicle data is up to date.
+2019-08-06 23.31.46: <Fuel> All fuel stations have been respawned.
+2019-08-06 23.32.25: <General> Player William has loaded and is waiting for a temp-key.
+2019-08-06 23.32.27: <General> Sent API key to player William. 99 keys left.
+2019-08-06 23.32.27: <General> Initializing player William.
+2019-08-06 23.36.33: <General> Player DrDerpenstein has loaded and is waiting for a temp-key.
+2019-08-06 23.36.34: <General> Sent API key to player DrDerpenstein. 98 keys left.
+2019-08-06 23.36.34: <General> Initializing player DrDerpenstein.
+2019-08-06 23.40.01: <General> Player fwop.memes has loaded and is waiting for a temp-key.
+2019-08-06 23.40.01: <General> Sent API key to player fwop.memes. 97 keys left.
+2019-08-06 23.40.01: <General> Initializing player fwop.memes.
+2019-08-06 23.50.00: <General> Player DevL has loaded and is waiting for a temp-key.
+2019-08-06 23.50.00: <General> Sent API key to player DevL. 96 keys left.
+2019-08-06 23.50.00: <General> Initializing player DevL.
+2019-08-07 00.14.56: <General> Player Bobbicus has loaded and is waiting for a temp-key.
+2019-08-07 00.14.57: <General> Sent API key to player Bobbicus. 95 keys left.
+2019-08-07 00.14.57: <General> Initializing player Bobbicus.
+2019-08-07 00.16.06: <General> Player DevL has loaded and is waiting for a temp-key.
+2019-08-07 00.16.08: <General> Sent API key to player DevL. 94 keys left.
+2019-08-07 00.16.08: <General> Initializing player DevL.
+2019-08-07 00.35.57: <Car dealer> Player: fwop.memes(76561198966738119) has spawned a vehicle Mazda Furai (TDM Cars) (for a test drive) from Car dealer called: "Tier 6".
+2019-08-07 00.35.58: <General> Vehicle data "Mazda Furai" loaded.
+2019-08-07 00.36.02: <Car dealer> Player: fwop.memes(76561198966738119) test drive has just ended.
+2019-08-07 00.36.06: <Car dealer> Player: fwop.memes(76561198966738119) has spawned a vehicle Mazda Furai (TDM Cars) (for a test drive) from Car dealer called: "Tier 6".
+2019-08-07 00.36.26: <Car dealer> Player: fwop.memes(76561198966738119) test drive has just ended.
+2019-08-07 00.36.36: <Car dealer> Player: fwop.memes(76561198966738119) has spawned a vehicle Jeep Wrangler F&F (TDM Cars) (for a test drive) from Car dealer called: "Tier 5 Cars".
+2019-08-07 00.36.37: <General> Vehicle data "Jeep Wrangler F&F" loaded.
+2019-08-07 00.37.09: <Car dealer> Player: fwop.memes(76561198966738119) test drive has just ended.
+2019-08-07 00.37.24: <Car dealer> Player: fwop.memes(76561198966738119) has spawned a vehicle Jaguar F-Type (TDM Cars) (for a test drive) from Car dealer called: "Tier 6".
+2019-08-07 00.37.25: <General> Vehicle data "Jaguar F-Type" loaded.
+2019-08-07 00.37.55: <Car dealer> Player: fwop.memes(76561198966738119) test drive has just ended.
+2019-08-07 00.41.12: <General> Player fwop.memes has loaded and is waiting for a temp-key.
+2019-08-07 00.41.13: <General> Sent API key to player fwop.memes. 93 keys left.
+2019-08-07 00.41.13: <General> Initializing player fwop.memes.
+2019-08-07 00.48.25: <General> Player Bastixx has loaded and is waiting for a temp-key.
+2019-08-07 00.48.26: <General> Sent API key to player Bastixx. 92 keys left.
+2019-08-07 00.48.26: <General> Initializing player Bastixx.
+2019-08-07 00.51.50: <General> Player Bastixx has loaded and is waiting for a temp-key.
+2019-08-07 00.51.51: <General> Sent API key to player Bastixx. 91 keys left.
+2019-08-07 00.51.51: <General> Initializing player Bastixx.
+2019-08-07 00.59.00: <Car dealer> Player: fwop.memes(76561198966738119) has spawned a vehicle Mercedes-Benz SL65 AMG (TDM Cars) (for a test drive) from Car dealer called: "Tier 6".
+2019-08-07 00.59.01: <General> Vehicle data "Mercedes-Benz SL65 AMG" loaded.
+2019-08-07 00.59.04: <Car dealer> Player: fwop.memes(76561198966738119) test drive has just ended.
+2019-08-07 01.08.42: <Car dealer> Player: Bobbicus(76561198132804632) has bought a vehicle Mitsubishi Evo X Police (TDM Emergency) from Car dealer called: "Government Dealer" for 0.
+2019-08-07 01.08.44: <Car dealer> Player: Bobbicus(76561198132804632) has spawned a vehicle Mitsubishi Evo X Police (TDM Emergency) from Car dealer called: "Government Dealer".
+2019-08-07 01.08.45: <General> Vehicle data "Mitsubishi Evo X Police" loaded.
+2019-08-07 01.08.53: <Car dealer> Player: fwop.memes(76561198966738119) has bought a vehicle Mitsubishi Evo X Police (TDM Emergency) from Car dealer called: "Government Dealer" for 0.
+2019-08-07 01.09.05: <Car dealer> Player: fwop.memes(76561198966738119) has bought a vehicle Dodge Charger SRT8 Police (TDM Emergency) from Car dealer called: "Government Dealer" for 0.
+2019-08-07 01.09.09: <Car dealer> Player: fwop.memes(76561198966738119) has bought a vehicle Ford Crown Victoria (TDM Emergency) from Car dealer called: "Government Dealer" for 0.
+2019-08-07 01.09.15: <Car dealer> Player: fwop.memes(76561198966738119) has spawned a vehicle Dodge Charger SRT8 Police (TDM Emergency) from Car dealer called: "Government Dealer".
+2019-08-07 01.09.16: <General> Vehicle data "Dodge Charger SRT8 Police" loaded.
+2019-08-07 01.09.42: <Car dealer> Player: DevL(76561198154580978) has spawned a vehicle Dodge RAM SRT10 (TDM Cars) from Car dealer called: "Tier 4 Cars".
+2019-08-07 01.09.43: <General> Vehicle data "Dodge RAM SRT10" loaded.
+2019-08-07 01.09.59: <Repair man> Player: DevL(76561198154580978) has just been deducted 10 for repairs.
+2019-08-07 01.10.01: <Car dealer> Player: fwop.memes(76561198966738119) has failed spawning a vehicle Holden HSV W427 Police (TDM Emergency) (for a test drive) from Car dealer called: "Government Dealer", reason: all parking spots taken.
+2019-08-07 01.10.05: <Repair man> Player: DevL(76561198154580978) has just completed the repairs by a Repair man "Dodge RAM SRT10".
+2019-08-07 01.10.16: <General> vehicle "Dodge Charger SRT8 Police(TDM Emergency)" has exploded.
+2019-08-07 01.12.51: <Car dealer> Player: Bobbicus(76561198132804632) has spawned a vehicle Porsche Tricycle (TDM Cars) from Car dealer called: "Vip Dealer".
+2019-08-07 01.12.52: <General> Vehicle data "Porsche Tricycle" loaded.
+2019-08-07 01.14.11: <Car dealer> Player: Bastixx(76561198142729221) has bought a vehicle Porsche Tricycle (TDM Cars) from Car dealer called: "Vip Dealer" for 0.
+2019-08-07 01.14.12: <Car dealer> Player: Bastixx(76561198142729221) has spawned a vehicle Porsche Tricycle (TDM Cars) from Car dealer called: "Vip Dealer".
+2019-08-07 01.15.59: <Car dealer> Player: fwop.memes(76561198966738119) has disconnected removing vehicle "Dodge Charger SRT8 Police(TDM Emergency).
+2019-08-07 01.17.12: <General> Player fwop.memes has loaded and is waiting for a temp-key.
+2019-08-07 01.17.13: <General> Sent API key to player fwop.memes. 90 keys left.
+2019-08-07 01.17.13: <General> Initializing player fwop.memes.
+2019-08-07 01.18.08: <Car dealer> Player: fwop.memes(76561198966738119) has spawned a vehicle Ford Crown Victoria (TDM Emergency) from Car dealer called: "Government Dealer".
+2019-08-07 01.18.09: <General> Vehicle data "Ford Crown Victoria" loaded.
+2019-08-07 01.20.04: <Car dealer> Player: fwop.memes(76561198966738119) has bought a vehicle Ford Taurus 2013 (TDM Emergency) from Car dealer called: "Government Dealer" for 0.
+2019-08-07 01.20.04: <General> vehicle "Ford Crown Victoria(TDM Emergency)" has exploded.
+2019-08-07 01.20.16: <General> vehicle "Mitsubishi Evo X Police(TDM Emergency)" has exploded.
+2019-08-07 01.20.18: <Car dealer> Player: Bobbicus(76561198132804632) has spawned a vehicle Airboat (Half-Life 2) from Car dealer called: "AirBoat Dealer".
+2019-08-07 01.24.43: <General> Player fwop.memes has loaded and is waiting for a temp-key.
+2019-08-07 01.24.44: <General> Sent API key to player fwop.memes. 89 keys left.
+2019-08-07 01.24.44: <General> Initializing player fwop.memes.
+2019-08-07 01.26.35: <Car dealer> Player: fwop.memes(76561198966738119) has spawned a vehicle McLaren P1 (TDM Cars) from Car dealer called: "Tier 5 Cars".
+2019-08-07 01.26.36: <General> Vehicle data "McLaren P1" loaded.
+2019-08-07 01.26.47: <General> vehicle "McLaren P1(TDM Cars)" has exploded.
+2019-08-07 01.26.47: <General> vehicle "McLaren P1(TDM Cars)" has exploded.
+2019-08-07 01.32.16: <General> vehicle "Airboat(Half-Life 2)" has exploded.
+2019-08-07 01.42.30: <Car dealer> Player: fwop.memes(76561198966738119) has spawned a vehicle McLaren P1 (TDM Cars) from Car dealer called: "Tier 5 Cars".
+2019-08-07 01.44.59: <Car dealer> Player: fwop.memes(76561198966738119) has disconnected removing vehicle "McLaren P1(TDM Cars).
+2019-08-07 01.45.36: <General> Player Bastixx has loaded and is waiting for a temp-key.
+2019-08-07 01.45.36: <General> Sent API key to player Bastixx. 88 keys left.
+2019-08-07 01.45.36: <General> Initializing player Bastixx.
+2019-08-07 01.46.18: <General> Player fwop.memes has loaded and is waiting for a temp-key.
+2019-08-07 01.46.18: <General> Sent API key to player fwop.memes. 87 keys left.
+2019-08-07 01.46.18: <General> Initializing player fwop.memes.
+2019-08-07 06.50.12: <General> Player fwop.memes has loaded and is waiting for a temp-key.
+2019-08-07 06.50.14: <General> Sent API key to player fwop.memes. 86 keys left.
+2019-08-07 06.50.14: <General> Initializing player fwop.memes.
+2019-08-07 06.52.19: <Car dealer> Player: fwop.memes(76561198966738119) has spawned a vehicle McLaren P1 (TDM Cars) from Car dealer called: "Tier 5 Cars".
+2019-08-07 06.52.33: <Fuel> Player: fwop.memes(76561198966738119) has bought fuel "Petrol" for: 19.5.
+2019-08-07 06.54.43: <Repair man> Player: fwop.memes(76561198966738119) has just been deducted 8 for repairs.
+2019-08-07 06.54.48: <Repair man> Player: fwop.memes(76561198966738119) has just completed the repairs by a Repair man "McLaren P1".
+2019-08-07 06.57.13: <Repair man> Player: fwop.memes(76561198966738119) has just been deducted 8 for repairs.
+2019-08-07 06.57.18: <Repair man> Player: fwop.memes(76561198966738119) has just completed the repairs by a Repair man "McLaren P1".
+2019-08-07 06.57.40: <Fuel> Player: fwop.memes(76561198966738119) has bought fuel "Petrol" for: 26.
+2019-08-07 06.58.51: <Car dealer> Player: fwop.memes(76561198966738119) has changed settings for Car dealer called: "Tier 5 Cars".
+2019-08-07 06.58.53: <Car dealer> Player: fwop.memes(76561198966738119) has spawned a vehicle McLaren P1 (TDM Cars) from Car dealer called: "Tier 5 Cars".
+2019-08-07 07.00.00: <Car dealer> Player: fwop.memes(76561198966738119) has sold a vehicle McLaren P1 (TDM Cars) from Car dealer called: "Tier 5 Cars" for 187500.
+2019-08-07 07.00.09: <Car dealer> Player: fwop.memes(76561198966738119) has spawned a vehicle Lexus IS 300 (TDM Cars) (for a test drive) from Car dealer called: "Tier 1 Cars".
+2019-08-07 07.00.10: <General> Vehicle data "Lexus IS 300" loaded.
+2019-08-07 07.00.25: <Car dealer> Player: fwop.memes(76561198966738119) test drive has just ended.
+2019-08-07 07.00.37: <Car dealer> Player: fwop.memes(76561198966738119) has spawned a vehicle Honda CR-X SiR (TDM Cars) (for a test drive) from Car dealer called: "Tier 1 Cars".
+2019-08-07 07.00.38: <General> Vehicle data "Honda CR-X SiR" loaded.
+2019-08-07 07.00.54: <Car dealer> Player: fwop.memes(76561198966738119) test drive has just ended.
+2019-08-07 07.01.02: <Car dealer> Player: fwop.memes(76561198966738119) has spawned a vehicle Volkswagen Golf VR6 GTi (TDM Cars) (for a test drive) from Car dealer called: "Tier 1 Cars".
+2019-08-07 07.01.03: <General> Vehicle data "Volkswagen Golf VR6 GTi" loaded.
+2019-08-07 07.01.17: <Car dealer> Player: fwop.memes(76561198966738119) test drive has just ended.
+2019-08-07 07.20.55: <General> Player DevL has loaded and is waiting for a temp-key.
+2019-08-07 07.20.55: <General> Sent API key to player DevL. 85 keys left.
+2019-08-07 07.20.55: <General> Initializing player DevL.
+2019-08-07 07.54.37: <General> Player William has loaded and is waiting for a temp-key.
+2019-08-07 07.54.37: <General> Sent API key to player William. 84 keys left.
+2019-08-07 07.54.37: <General> Initializing player William.
+2019-08-07 08.12.34: <General> Player DevL has loaded and is waiting for a temp-key.
+2019-08-07 08.12.35: <General> Sent API key to player DevL. 83 keys left.
+2019-08-07 08.12.35: <General> Initializing player DevL.
+2019-08-07 08.34.37: <General> Player Dio has loaded and is waiting for a temp-key.
+2019-08-07 08.34.39: <General> Sent API key to player Dio. 82 keys left.
+2019-08-07 08.34.39: <General> Initializing player Dio.
+2019-08-07 08.54.16: <Car dealer> Player: DevL(76561198154580978) has spawned a vehicle Dodge RAM SRT10 (TDM Cars) from Car dealer called: "Tier 4 Cars".
+2019-08-07 08.57.21: <General> Player William has loaded and is waiting for a temp-key.
+2019-08-07 08.57.22: <General> Sent API key to player William. 81 keys left.
+2019-08-07 08.57.22: <General> Initializing player William.
+2019-08-07 09.11.46: <General> Player fwop.memes has loaded and is waiting for a temp-key.
+2019-08-07 09.11.46: <General> Sent API key to player fwop.memes. 80 keys left.
+2019-08-07 09.11.46: <General> Initializing player fwop.memes.
+2019-08-07 09.22.29: <Car dealer> Player: Dio(76561198955197088) has added a new car dealer.
+2019-08-07 09.26.05: <Car dealer> Player: Dio(76561198955197088) has deleted a car dealer.
+2019-08-07 09.26.06: <General> detected a car dealer that was removed incorectly, respawning all.
+2019-08-07 09.34.07: <General> Player No Chin Boy has loaded and is waiting for a temp-key.
+2019-08-07 09.34.07: <General> Sent API key to player No Chin Boy. 79 keys left.
+2019-08-07 09.34.07: <General> Initializing player No Chin Boy.
+2019-08-07 09.52.27: <General> Player Dio has loaded and is waiting for a temp-key.
+2019-08-07 09.52.29: <General> Sent API key to player Dio. 78 keys left.
+2019-08-07 09.52.29: <General> Initializing player Dio.
+2019-08-07 09.59.12: <Car dealer> Player: DevL(76561198154580978) has spawned a vehicle Airboat (Half-Life 2) from Car dealer called: "AirBoat Dealer".
+2019-08-07 10.01.30: <General> vehicle "Airboat(Half-Life 2)" has exploded.
+2019-08-07 10.01.31: <General> Vehicle data "Jeep" loaded.
+2019-08-07 10.07.03: <Car dealer> Player: DevL(76561198154580978) has spawned a vehicle Mitsubishi Evo X Police (TDM Emergency) from Car dealer called: "Government Dealer".
+2019-08-07 10.07.29: <Car dealer> Player: DevL(76561198154580978) has spawned a vehicle Dodge Charger SRT8 Police (TDM Emergency) from Car dealer called: "Government Dealer".
+2019-08-07 10.07.49: <Car dealer> Player: DevL(76561198154580978) has sold a vehicle Mitsubishi Evo X Police (TDM Emergency) from Car dealer called: "Government Dealer" for 0.
+2019-08-07 10.07.50: <Car dealer> Player: DevL(76561198154580978) has bought a vehicle Mitsubishi Evo X Police (TDM Emergency) from Car dealer called: "Government Dealer" for 0.
+2019-08-07 10.07.51: <Car dealer> Player: DevL(76561198154580978) has spawned a vehicle Mitsubishi Evo X Police (TDM Emergency) from Car dealer called: "Government Dealer".
+2019-08-07 10.14.35: <General> Player William has loaded and is waiting for a temp-key.
+2019-08-07 10.14.35: <General> Sent API key to player William. 77 keys left.
+2019-08-07 10.14.35: <General> Initializing player William.
+2019-08-07 10.24.34: <General> detected a repair man that was removed incorectly, respawning all.
+2019-08-07 10.24.34: <General> All repair man NPC's have been placed on the map.
+2019-08-07 10.24.34: <Repair man> all Repair men have been placed on the map.
+2019-08-07 10.24.34: <General> detected a car dealer that was removed incorectly, respawning all.
+2019-08-07 10.24.34: <General> detected a fuel station that was removed incorectly or its nozzle was missing, respawning all.
+2019-08-07 10.24.34: <Fuel> All fuel stations have been respawned.
+2019-08-07 10.40.08: <General> Player: No Chin Boy(76561198881047327) has disconnected removing spikestrips.
+2019-08-07 10.41.43: <General> Player No Chin Boy has loaded and is waiting for a temp-key.
+2019-08-07 10.41.44: <General> Sent API key to player No Chin Boy. 76 keys left.
+2019-08-07 10.41.44: <General> Initializing player No Chin Boy.
+2019-08-07 10.42.59: <General> Player baby kitten that can fly has loaded and is waiting for a temp-key.
+2019-08-07 10.43.00: <General> Sent API key to player baby kitten that can fly. 75 keys left.
+2019-08-07 10.43.00: <General> Initializing player baby kitten that can fly.
+2019-08-07 11.05.41: <General> Player Big Boi Blumbing has loaded and is waiting for a temp-key.
+2019-08-07 11.05.43: <General> Sent API key to player Big Boi Blumbing. 74 keys left.
+2019-08-07 11.05.43: <General> Initializing player Big Boi Blumbing.
+2019-08-07 11.17.27: <General> Player chabo has loaded and is waiting for a temp-key.
+2019-08-07 11.17.28: <General> Sent API key to player chabo. 73 keys left.
+2019-08-07 11.17.28: <General> Initializing player chabo.
+2019-08-07 11.30.51: <Car dealer> Player: chabo(76561198083831074) has bought a vehicle Ford Crown Victoria Taxi (TDM Cars) from Car dealer called: "Tier 4 Cars" for 60000.
+2019-08-07 11.30.59: <Car dealer> Player: chabo(76561198083831074) has changed settings for Car dealer called: "Tier 4 Cars".
+2019-08-07 11.31.24: <Car dealer> Player: chabo(76561198083831074) has spawned a vehicle Ford Crown Victoria Taxi (TDM Cars) from Car dealer called: "Tier 4 Cars".
+2019-08-07 11.31.25: <General> Vehicle data "Ford Crown Victoria Taxi" loaded.
+2019-08-07 11.31.28: <Car dealer> Player: Big Boi Blumbing(76561198264979321) has spawned a vehicle Porsche Tricycle (TDM Cars) from Car dealer called: "Vip Dealer".
+2019-08-07 11.33.57: <Car dealer> Player: No Chin Boy(76561198881047327) has bought a vehicle Lamborghini Gallardo LP570-4 Spyder Performante (TDM Cars) from Car dealer called: "Tier 5 Cars" for 250000.
+2019-08-07 11.34.01: <Car dealer> Player: No Chin Boy(76561198881047327) has changed settings for Car dealer called: "Tier 5 Cars".
+2019-08-07 11.34.03: <Car dealer> Player: No Chin Boy(76561198881047327) has spawned a vehicle Lamborghini Gallardo LP570-4 Spyder Performante (TDM Cars) from Car dealer called: "Tier 5 Cars".
+2019-08-07 11.34.04: <General> Vehicle data "Lamborghini Gallardo LP570-4 Spyder Performante" loaded.
+2019-08-07 11.35.32: <Car dealer> Player: DevL(76561198154580978) has spawned a vehicle KTM X-BOW (TDM Cars) (for a test drive) from Car dealer called: "Tier 5 Cars".
+2019-08-07 11.35.34: <General> Vehicle data "KTM X-BOW" loaded.
+2019-08-07 11.36.12: <Car dealer> Player: DevL(76561198154580978) test drive has just ended.
+2019-08-07 11.36.36: <General> Player William has loaded and is waiting for a temp-key.
+2019-08-07 11.36.36: <General> Sent API key to player William. 72 keys left.
+2019-08-07 11.36.36: <General> Initializing player William.
+2019-08-07 11.36.42: <Car dealer> Player: DevL(76561198154580978) has spawned a vehicle McLaren P1 (TDM Cars) (for a test drive) from Car dealer called: "Tier 5 Cars".
+2019-08-07 11.36.51: <General> vehicle "Lamborghini Gallardo LP570-4 Spyder Performante(TDM Cars)" has exploded.
+2019-08-07 11.37.08: <Car dealer> Player: DevL(76561198154580978) test drive has just ended.
+2019-08-07 11.37.49: <Car dealer> Player: DevL(76561198154580978) has bought a vehicle McLaren P1 (TDM Cars) from Car dealer called: "Tier 5 Cars" for 250000.
+2019-08-07 11.38.09: <Car dealer> Player: DevL(76561198154580978) has changed settings for Car dealer called: "Tier 5 Cars".
+2019-08-07 11.40.07: <Car dealer> Player: DevL(76561198154580978) has spawned a vehicle McLaren P1 (TDM Cars) from Car dealer called: "Tier 5 Cars".
+2019-08-07 11.40.55: <Car dealer> Player: No Chin Boy(76561198881047327) has spawned a vehicle Lamborghini Gallardo LP570-4 Spyder Performante (TDM Cars) from Car dealer called: "Tier 5 Cars".
+2019-08-07 11.43.11: <General> vehicle "Lamborghini Gallardo LP570-4 Spyder Performante(TDM Cars)" has exploded.
+2019-08-07 11.44.18: <Car dealer> Player: No Chin Boy(76561198881047327) has spawned a vehicle Lamborghini Gallardo LP570-4 Spyder Performante (TDM Cars) from Car dealer called: "Tier 5 Cars".
+2019-08-07 11.45.12: <Repair man> Player: DevL(76561198154580978) has just been deducted 274 for repairs.
+2019-08-07 11.45.33: <Repair man> Player: DevL(76561198154580978) has just completed the repairs by a Repair man "McLaren P1".
+2019-08-07 11.45.33: <General> vehicle "Lamborghini Gallardo LP570-4 Spyder Performante(TDM Cars)" has exploded.
+2019-08-07 11.46.07: <General> Player Dio has loaded and is waiting for a temp-key.
+2019-08-07 11.46.07: <General> Sent API key to player Dio. 71 keys left.
+2019-08-07 11.46.07: <General> Initializing player Dio.
+2019-08-07 11.47.39: <Car dealer> Player: No Chin Boy(76561198881047327) has bought a vehicle Volkswagen Golf VR6 GTi (TDM Cars) from Car dealer called: "Tier 1 Cars" for 20000.
+2019-08-07 11.47.42: <Car dealer> Player: No Chin Boy(76561198881047327) has spawned a vehicle Volkswagen Golf VR6 GTi (TDM Cars) from Car dealer called: "Tier 1 Cars".
+2019-08-07 11.49.17: <General> vehicle "Volkswagen Golf VR6 GTi(TDM Cars)" has exploded.
+2019-08-07 11.49.17: <General> vehicle "Volkswagen Golf VR6 GTi(TDM Cars)" has exploded.
+2019-08-07 11.49.52: <General> vehicle "McLaren P1(TDM Cars)" has exploded.
+2019-08-07 11.49.52: <General> vehicle "McLaren P1(TDM Cars)" has exploded.
+2019-08-07 11.50.40: <Car dealer> Player: Dio(76561198955197088) has spawned a vehicle Lexus IS 300 (TDM Cars) from Car dealer called: "Tier 1 Cars".

