@@ -23,8 +23,8 @@ TEAM_CITIZEN = DarkRP.createJob("Citizen", {
         "models/player/Group01/Male_08.mdl",
         "models/player/Group01/Male_09.mdl"
     },
-    description = [[The Citizen is the most basic level of society you can hold besides being a hobo. You have no specific role in city life.]],
-    weapons = {},
+    description = [[]],
+    weapons = {"itemstore_pickup"},
     command = "citizen",
     max = 0,
     salary = GAMEMODE.Config.normalsalary,
@@ -78,9 +78,9 @@ TEAM_GANG = DarkRP.createJob("Gangster", {
     description = [[The lowest person of crime.
         A gangster generally works for the Mobboss who runs the crime family.
         The Mob boss sets your agenda and you follow it or you might be punished.]],
-    weapons = {},
+    weapons = {"climb_swep2", "itemstore_pickup"},
     command = "gangster",
-    max = 3,
+    max = 0,
     salary = GAMEMODE.Config.normalsalary,
     admin = 0,
     vote = false,
@@ -107,17 +107,16 @@ TEAM_MOB = DarkRP.createJob("Mob boss", {
 
 TEAM_GUN = DarkRP.createJob("Gun Dealer", {
     color = Color(255, 140, 0, 255),
-    model = "models/player/monk.mdl",
-    description = [[A Gun Dealer is the only person who can sell guns to other people.
-        Make sure you aren't caught selling illegal firearms to the public! You might get arrested!]],
-    weapons = {},
+    model = "models/vinrax/player/scp049_player.mdl",
+    description = [[]],
+    weapons = {"itemstore_pickup"},
     command = "gundealer",
-    max = 2,
+    max = 3,
     salary = GAMEMODE.Config.normalsalary,
     admin = 0,
     vote = false,
-    hasLicense = false,
-    category = "Citizens",
+    hasLicense = true,
+    category = "Dealers",
 })
 
 TEAM_MEDIC = DarkRP.createJob("Medic", {
@@ -188,14 +187,10 @@ TEAM_MAYOR = DarkRP.createJob("Mayor", {
 TEAM_HOBO = DarkRP.createJob("Hobo", {
     color = Color(80, 45, 0, 255),
     model = "models/player/corpse1.mdl",
-    description = [[The lowest member of society. Everybody laughs at you.
-        You have no home.
-        Beg for your food and money
-        Sing for everyone who passes to get money
-        Make your own wooden home somewhere in a corner or outside someone else's door]],
-    weapons = {"weapon_bugbait"},
+    description = [[]],
+    weapons = {"weapon_bugbait", "itemstore_pickup"},
     command = "hobo",
-    max = 5,
+    max = 0,
     salary = 0,
     admin = 0,
     vote = false,
@@ -260,7 +255,7 @@ GAMEMODE.CivilProtection = {
 }
 
 -- Hitman team
-DarkRP.addHitmanTeam(TEAM_MOB)
+DarkRP.addHitmanTeam(TEAM_HITMAN)
 
 -- Demote groups
 DarkRP.createDemoteGroup("Cops", {TEAM_POLICE, TEAM_CHIEF})
@@ -286,7 +281,7 @@ DarkRP.createCategory{
 }
 
 DarkRP.createCategory{
-    name = "Gangsters",
+    name = "Criminals",
     categorises = "jobs",
     startExpanded = true,
     color = Color(75, 75, 75, 255),

@@ -11,7 +11,7 @@ function FAdmin.Access.AddGroup(name, admin_access --[[0 = not admin, 1 = admin,
     FAdmin.Access.Groups[name] = FAdmin.Access.Groups[name] or {ADMIN = admin_access, PRIVS = privs or {}, immunity = immunity}
 
     -- Register custom usergroups with CAMI
-    if name ~= "user" and name ~= "admin" and name ~= "superadmin" and not fromCAMI then
+    if name ~= "user" and name ~= "admin" and name ~= "superadmin"  and not fromCAMI then
         CAMI.RegisterUsergroup({
             Name = name,
             Inherits = FAdmin.Access.ADMIN[admin_access]

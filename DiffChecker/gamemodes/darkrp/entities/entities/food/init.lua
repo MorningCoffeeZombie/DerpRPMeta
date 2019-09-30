@@ -18,8 +18,6 @@ function ENT:Initialize()
 end
 
 function ENT:OnTakeDamage(dmg)
-    self:TakePhysicsDamage(dmg)
-
     self.damage = self.damage - dmg:GetDamage()
 
     if (self.damage <= 0) then
