@@ -1,1 +1,0 @@
-{"1":{"Data":{"Amount":7.0,"Contents":7.0,"Class":"cw_deagle"},"Class":"spawned_shipment"},"4":{"Data":{"Amount":6.0,"Contents":13.0,"Class":"cw_shorty"},"Class":"spawned_shipment"},"5":{"Data":{"Amount":4.0,"Contents":10.0,"Class":"cw_vss"},"Class":"spawned_shipment"}}

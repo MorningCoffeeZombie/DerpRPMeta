@@ -1,1 +1,0 @@
-[{"Data":{"Amount":8.0,"Contents":1.0,"Class":"fas2_glock20"},"Class":"spawned_shipment"},{"Data":{"THC":32.0,"WeedName":"Octane XX","WeedAmount":10.0,"WeedID":1.0},"Class":"zwf_joint_ent"}]

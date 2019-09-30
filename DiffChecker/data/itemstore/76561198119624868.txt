@@ -1,1 +1,0 @@
-{"1":{"Data":{"Amount":2.0,"Contents":7.0,"Class":"fas2_pp19"},"Class":"spawned_shipment"},"3":{"Data":{"THC":25.0,"WeedName":"OG Kush","Perf_Amount":115.0,"Perf_Time":125.0,"ZWFOwner":"STEAM_0:1:180622613","Perf_THC":102.0,"WeedAmount":200.0,"PlantID":7.0},"Class":"zwf_jar"}}

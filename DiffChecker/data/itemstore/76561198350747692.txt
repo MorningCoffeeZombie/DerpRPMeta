@@ -1,1 +1,0 @@
-[{"Data":{"Amount":7.0,"Class":"cw_makarov","Contents":1.0},"Class":"spawned_shipment"},{"Data":{"Amount":3.0,"Class":"cw_ws_m16a4","Contents":20.0},"Class":"spawned_shipment"}]

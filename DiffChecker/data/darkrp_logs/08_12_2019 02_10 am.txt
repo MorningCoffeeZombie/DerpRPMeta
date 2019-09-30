@@ -1,8 +1,0 @@
-Mon Aug 12 02:10:23 2019	Derp (STEAM_0:0:52504530) has joined the game
-Mon Aug 12 02:10:23 2019	William (STEAM_0:0:52504530) spawned
-Mon Aug 12 02:10:28 2019	DrDerpenstein sups.gg (STEAM_0:0:13562763) has joined the game
-Mon Aug 12 02:10:28 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
-Mon Aug 12 02:11:36 2019	William (STEAM_0:0:52504530): dude honestly if it keeps being this bad we are gonna have to like completely reset the jobs.lua file
-Mon Aug 12 02:11:40 2019	William (STEAM_0:0:52504530): and start from scratch
-Mon Aug 12 02:15:09 2019	DrDerpenstein (STEAM_0:0:13562763) disconnected
-Mon Aug 12 02:15:18 2019	William (STEAM_0:0:52504530) disconnected

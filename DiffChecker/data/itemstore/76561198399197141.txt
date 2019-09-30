@@ -1,1 +1,0 @@
-[{"Data":{"THC":39.0,"WeedName":"DD High Yield 2","Perf_Amount":213.0,"Perf_Time":81.0,"ZWFOwner":"STEAM_0:0:97157625","Perf_THC":150.0,"WeedAmount":111.75,"PlantID":7.0},"Class":"zwf_jar"}]

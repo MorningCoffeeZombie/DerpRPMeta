@@ -1,8 +1,0 @@
-Mon Jul 15 10:25:46 2019	iWolfz -ERP- (STEAM_0:0:443923189) has joined the game
-Mon Jul 15 10:25:46 2019	iWolfz -ERP- (STEAM_0:0:443923189) spawned
-Mon Jul 15 10:26:12 2019	iWolfz -ERP- (STEAM_0:0:443923189): // y
-Mon Jul 15 10:27:52 2019	iWolfz -ERP- (STEAM_0:0:443923189): !hp 100 iwolfz
-Mon Jul 15 10:27:58 2019	iWolfz -ERP- (STEAM_0:0:443923189): !hp * 100
-Mon Jul 15 10:28:24 2019	iWolfz -ERP- (STEAM_0:0:443923189) disconnected
-Mon Jul 15 10:32:37 2019	UG | M A S T E R (STEAM_0:1:180622613) has joined the game
-Mon Jul 15 10:32:37 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned

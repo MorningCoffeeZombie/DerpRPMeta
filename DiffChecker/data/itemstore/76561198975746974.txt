@@ -1,1 +1,0 @@
-[{"Data":{"Amount":4.0,"Class":"cw_vss","Contents":10.0},"Class":"spawned_shipment"},{"Data":{"Amount":3.0,"Clip1":60.0,"Ammo":60.0,"Class":"cw_scarh","Model":"models/cw2/rifles/w_scarh.mdl"},"Class":"spawned_weapon"}]

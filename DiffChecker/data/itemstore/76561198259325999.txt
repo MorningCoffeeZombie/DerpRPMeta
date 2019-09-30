@@ -1,1 +1,0 @@
-[{"Data":{"Amount":9.0,"Contents":11.0,"Class":"weapon_vape_medicinal"},"Class":"spawned_shipment"}]

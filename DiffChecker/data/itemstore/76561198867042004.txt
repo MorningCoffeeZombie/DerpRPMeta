@@ -1,1 +1,0 @@
-[{"Data":{"Amount":8.0,"Class":"fas2_famas","Contents":8.0},"Class":"spawned_shipment"},{"Data":{"Amount":4.0,"Class":"fas2_rk95","Contents":6.0},"Class":"spawned_shipment"}]

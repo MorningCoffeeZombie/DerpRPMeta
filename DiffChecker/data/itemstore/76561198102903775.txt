@@ -1,1 +1,0 @@
-[{"Data":{"Amount":2.0,"Contents":3.0,"Class":"fas2_sks"},"Class":"spawned_shipment"},{"Data":{"Amount":8.0,"Class":"cw_dp_ump45","Contents":7.0},"Class":"spawned_shipment"}]

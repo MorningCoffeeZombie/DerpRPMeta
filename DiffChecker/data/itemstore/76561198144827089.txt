@@ -1,1 +1,0 @@
-[{"Data":{"THC":32.0,"WeedName":"Dark Devil","WeedAmount":10.0,"WeedID":7.0},"Class":"zwf_joint_ent"}]

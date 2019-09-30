@@ -1,6 +1,0 @@
-Mon Jul 15 10:58:30 2019	UG | M A S T E R (STEAM_0:1:180622613) has joined the game
-Mon Jul 15 10:58:30 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
-Mon Jul 15 11:01:53 2019	UG | M A S T E R (STEAM_0:1:180622613): /forcelock
-Mon Jul 15 11:01:53 2019	UG | M A S T E R (STEAM_0:1:180622613) force-locked a door with forcelock (locked door is saved)
-Mon Jul 15 11:12:18 2019	UG | M A S T E R (STEAM_0:1:180622613): /forceunlock
-Mon Jul 15 11:12:18 2019	UG | M A S T E R (STEAM_0:1:180622613) force-unlocked a door with forcelock (unlocked door is saved)

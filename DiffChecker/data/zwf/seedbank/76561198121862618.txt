@@ -1,1 +1,0 @@
-[{"Weed_ID":1.0,"Weed_Name":"Octane XX","Perf_Amount":320.0,"Perf_Time":94.0,"SeedCount":5.0,"Perf_THC":355.0}]

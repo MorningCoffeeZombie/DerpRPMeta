@@ -1,1 +1,0 @@
-[{"Data":{"Model":"models/zerochain/zmlab/zmlab_transportcrate_full.mdl","MethAmount":1171.35},"Class":"zmlab_collectcrate"},{"Data":{"Model":"models/zerochain/zmlab/zmlab_transportcrate_full.mdl","MethAmount":1000.0},"Class":"zmlab_collectcrate"},{"Data":{"Amount":8.0,"Class":"fas2_m4a1","Contents":5.0},"Class":"spawned_shipment"}]

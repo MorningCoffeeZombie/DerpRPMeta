@@ -1,1 +1,0 @@
-[{"Data":{"Amount":3.0,"Class":"cw_nen_glock17","Contents":3.0},"Class":"spawned_shipment"}]

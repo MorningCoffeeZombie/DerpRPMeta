@@ -1,1 +1,0 @@
-{"16":{"Data":{"Amount":7.0,"Clip1":0.0,"Ammo":0.0,"Class":"weapon_vape_medicinal","Model":"models/swamponions/vape.mdl","Clip2":0.0},"Class":"spawned_weapon"},"6":{"Data":{"Amount":1.0,"Clip1":20.0,"Ammo":0.0,"Class":"cw_fiveseven","Model":"models/weapons/w_pist_fiveseven.mdl","Clip2":-1.0},"Class":"spawned_weapon"}}

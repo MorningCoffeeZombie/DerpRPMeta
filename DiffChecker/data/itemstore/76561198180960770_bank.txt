@@ -1,1 +1,0 @@
-{"26":{"Data":{"Amount":9.0,"Contents":9.0,"Class":"fas2_rem870"},"Class":"spawned_shipment"},"27":{"Data":{"Amount":8.0,"Contents":1.0,"Class":"fas2_glock20"},"Class":"spawned_shipment"}}

@@ -1,1 +1,0 @@
-[{"Data":{"Amount":1.0,"Clip1":0.0,"Ammo":0.0,"Class":"fas2_uzi","Model":"models/weapons/w_smg_mac10.mdl","Clip2":0.0},"Class":"spawned_weapon"}]

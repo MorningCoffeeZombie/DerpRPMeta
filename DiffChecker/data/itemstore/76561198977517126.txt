@@ -1,1 +1,0 @@
-[{"Data":{"Amount":4.0,"Contents":4.0,"Class":"fas2_galil"},"Class":"spawned_shipment"},{"Data":{"Amount":1.0,"Clip1":36.0,"Ammo":197.0,"Class":"fas2_galil","Model":"models/weapons/w_rif_galil.mdl","Clip2":-1.0},"Class":"spawned_weapon"}]

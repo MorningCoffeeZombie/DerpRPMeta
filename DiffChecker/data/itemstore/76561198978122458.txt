@@ -1,1 +1,0 @@
-[{"Data":{"Amount":4.0,"Contents":5.0,"Class":"fas2_m4a1"},"Class":"spawned_shipment"}]

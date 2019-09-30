@@ -1,6 +1,0 @@
-{"url":"https://derprpdonationsite.mistforums.com/api/ulx/sync",
-"data":"{\"ulx_roles\":\"(minified) 12 records\",
-\"api_key\":\"M9E17SKcEt1Bqj2kfjJavz9a67mQET\",
-\"game_server_id\":\"27063\",
-\"api_secret\":\"jguWNKiEiAm9TkHS6MI60YZyG5JGXt\"}",
-"errorMsg":"unsuccessful"}

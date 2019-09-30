@@ -1,1 +1,0 @@
-[{"pos":"[-6414.4912 3468.6768 -14.9688]","platforms":[{"ang":"{0.0132 358.988 0.0022}","pos":"[-6276.644 3490.2483 -21.0103]"}],"group":3.0,"ang":"{0 0 0}","model":"models/characters/hostage_01.mdl","name":"Test Dealer"}]

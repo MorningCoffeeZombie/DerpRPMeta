@@ -1,6 +1,0 @@
-Mon Aug 12 02:05:01 2019	Derp (STEAM_0:0:52504530) has joined the game
-Mon Aug 12 02:05:01 2019	William (STEAM_0:0:52504530) spawned
-Mon Aug 12 02:05:29 2019	DrDerpenstein sups.gg (STEAM_0:0:13562763) has joined the game
-Mon Aug 12 02:05:29 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
-Mon Aug 12 02:06:00 2019	DrDerpenstein (STEAM_0:0:13562763) disconnected
-Mon Aug 12 02:06:46 2019	William (STEAM_0:0:52504530) disconnected

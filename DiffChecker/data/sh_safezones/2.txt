@@ -1,1 +1,0 @@
-{"points":["[1340.9688 -365.75 -195.375]","[-318.9375 -2143.5 -178.75]"],"shape":1.0,"opts":{"namecolor":"52,1522,2129","ptime":45.0,"noprop":true,"noatk":false,"entermsg":"","nonpc":false,"pusg":"","hud":true,"noveh":false,"name":"Spawn","leavemsg":""},"date":1563082485.0,"creator":"STEAM_0:1:180622613","size":1024.0,"map":"rp_downtown_tits_v2"}

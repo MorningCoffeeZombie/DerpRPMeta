@@ -1,1 +1,0 @@
-[{"Data":{"MethAmount":25.0},"Class":"zmlab_meth"}]

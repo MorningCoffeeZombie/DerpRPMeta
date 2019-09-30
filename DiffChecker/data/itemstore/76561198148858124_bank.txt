@@ -1,1 +1,0 @@
-{"19":{"Data":{"Amount":8.0,"Contents":4.0,"Class":"fas2_galil"},"Class":"spawned_shipment"}}

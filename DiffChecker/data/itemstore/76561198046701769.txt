@@ -1,1 +1,0 @@
-{"4":{"Data":{"Amount":7.0,"Class":"fas2_glock20","Contents":1.0},"Class":"spawned_shipment"}}

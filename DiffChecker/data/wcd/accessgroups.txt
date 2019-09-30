@@ -1,1 +1,0 @@
-{"VIP":{"needBoth":false,"jobs":[],"name":"VIP","ranks":{"moderator":true,"trialmoderator":true,"admin":true,"coowner":true,"vip":true,"superadmin":true,"owner":true}}}

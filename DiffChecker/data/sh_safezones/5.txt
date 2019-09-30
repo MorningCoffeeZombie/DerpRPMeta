@@ -1,1 +1,0 @@
-{"points":["[274.9688 -2091.8438 -9.2188]","[-149.75 -4342.6875 -200.9688]"],"shape":1.0,"map":"rp_downtown_tits_v2","date":1565179409.0,"creator":"STEAM_0:0:52504530","size":333.0,"opts":{"namecolor":"52,152,219","ptime":45.0,"noprop":true,"noatk":false,"entermsg":"","nonpc":false,"pusg":"","hud":true,"noveh":false,"name":"Spawn Tunnel","leavemsg":""}}

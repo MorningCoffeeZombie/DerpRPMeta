@@ -1,1 +1,0 @@
-[{"Data":{"SeedID":7.0,"Perf_Amount":100.0,"Perf_Time":100.0,"SeedCount":3.0,"SeedName":"Dark Devil","ZWFOwner":"STEAM_0:1:122318848","Perf_THC":100.0},"Class":"zwf_seed"},{"Data":{"Amount":4.0,"Class":"fas2_ks23","Contents":10.0},"Class":"spawned_shipment"},{"Data":{"Amount":7.0,"Class":"fas2_rem870","Contents":9.0},"Class":"spawned_shipment"}]

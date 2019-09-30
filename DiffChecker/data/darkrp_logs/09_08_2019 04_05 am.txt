@@ -1,7 +1,0 @@
-Sun Sep  8 04:05:53 2019	DrDerpenstein sups.gg (STEAM_0:0:13562763) has joined the game
-Sun Sep  8 04:05:54 2019	DrDerpenstein (STEAM_0:0:13562763) spawned
-Sun Sep  8 04:11:00 2019	DrDerpenstein (STEAM_0:0:13562763) spawned Vehicle prop_vehicle_jeep (sw_blue-x14_normal)
-Sun Sep  8 04:11:48 2019	DrDerpenstein (STEAM_0:0:13562763) spawned Vehicle prop_vehicle_jeep (sw_motorbike)
-Sun Sep  8 04:11:48 2019	DrDerpenstein (STEAM_0:0:13562763) spawned Vehicle prop_vehicle_jeep (sw_motorbike_s)
-Sun Sep  8 04:11:54 2019	DrDerpenstein (STEAM_0:0:13562763) spawned Vehicle prop_vehicle_jeep (sw_motorbike_s)
-Sun Sep  8 04:13:56 2019	DrDerpenstein (STEAM_0:0:13562763) disconnected

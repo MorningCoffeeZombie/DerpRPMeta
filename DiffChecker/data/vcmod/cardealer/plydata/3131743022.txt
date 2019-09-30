@@ -1,8 +1,0 @@
-{
-	"Vehicles": {
-		"models/airboat.mdl$$$_VC_$$$Airboat$$$_VC_$$$0": {
-			"Fuel": 99.0,
-			"Health": 98.6826
-		}
-	}
-}

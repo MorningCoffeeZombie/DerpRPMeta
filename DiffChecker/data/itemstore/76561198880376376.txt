@@ -1,1 +1,0 @@
-[{"Data":{"Amount":4.0,"Contents":5.0,"Class":"fas2_m4a1"},"Class":"spawned_shipment"},{"Data":{"Amount":3.0,"Contents":10.0,"Class":"fas2_ks23"},"Class":"spawned_shipment"},{"Data":{"Amount":10.0,"Contents":11.0,"Class":"weapon_vape_medicinal"},"Class":"spawned_shipment"}]

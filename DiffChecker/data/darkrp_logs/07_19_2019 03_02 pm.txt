@@ -1,3 +1,0 @@
-Fri Jul 19 15:02:07 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned
-Fri Jul 19 15:02:07 2019	UG | M A S T E R (STEAM_0:1:180622613): 
-Fri Jul 19 15:02:42 2019	UG | M A S T E R (STEAM_0:1:180622613) spawned Vehicle prop_vehicle_prisoner_pod (Chair_Office2)

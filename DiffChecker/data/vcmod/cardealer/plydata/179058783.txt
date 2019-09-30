@@ -1,5 +1,0 @@
-{
-	"Vehicles": {
-		"models/tdmcars/fer_lafer.mdl$$$_VC_$$$Ferrari LaFerrari$$$_VC_$$$0": []
-	}
-}

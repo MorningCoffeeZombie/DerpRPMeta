@@ -1,1 +1,0 @@
-[{"Data":{"THC":100.0,"WeedName":"OG Kush","ZWFOwner":"STEAM_0:1:180622613","WeedAmount":100.0,"WeedID":7.0},"Class":"zwf_weedblock"},{"Data":{"Amount":5.0,"Class":"fas2_m4a1","Contents":5.0},"Class":"spawned_shipment"}]

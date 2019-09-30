@@ -1,1 +1,0 @@
-{"points":["[-307.25 -1740.9688 140.25]","[-704.5313 -2422.7813 -195.9688]"],"shape":1.0,"map":"rp_downtown_tits_v2","date":1565179110.0,"creator":"STEAM_0:0:52504530","size":1024.0,"opts":{"namecolor":"52,152,219","ptime":45.0,"noprop":true,"noatk":false,"leavemsg":"","entermsg":"","pusg":"","name":"Spawn Hallway","noveh":true,"hud":true,"nonpc":false}}

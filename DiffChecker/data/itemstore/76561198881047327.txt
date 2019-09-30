@@ -1,1 +1,0 @@
-{"2":{"Data":{"Amount":1.0,"Clip1":30.0,"Ammo":60.0,"Class":"fas2_m4a1","Model":"models/weapons/w_rif_m4a1.mdl"},"Class":"spawned_weapon"}}
