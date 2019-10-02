@@ -16,7 +16,7 @@ end)
 
 /*|Weapon Configuration|*/
 SWEP.Category		= "Sevan's Weapons"
-SWEP.PrintName		= "Breaching Charge"
+SWEP.PrintName		= "C4 Explosoves"
 SWEP.Author			= "Sevan Buechele"
 SWEP.Contact		= "STEAM_0:1:65313765"
 SWEP.Spawnable		= true
@@ -24,16 +24,19 @@ SWEP.AdminOnly		= false
 SWEP.WorldModel		= "models/minic23/csgo/breach_charge_detonator.mdl"
 SWEP.ViewModelFOV	= 60
 SWEP.UseHands		= true
+SWEP.Slot			= 4
+SWEP.DrawAmmo		= false
 AddCSLuaFile()
 
 /*Weapon Initialization|*/
 function SWEP:Initialize()
-	self.Instructions			=	"Primary fire to detonate. Secondary fire to plant."
+	--self.Instructions			=	"Primary fire to detonate. Secondary fire to plant."
+	self.Instructions			=	"Primary fire to plant. Secondary fire to detonate."
 	self.AutoSwitchFrom			=	false
 	self.Primary.ClipSize		=	-1
 	self.Primary.DefaultClip	=	-1
 	self.Primary.Automatic		=	false
-	self.Primary.Ammo			=	"none"
+	self.Primary.Ammo			=	"none"	-- Default none. Might need to be "ammo_breachingcharge" based on autorun_ lua files
 	self.Secondary.ClipSize		=	-1
 	self.Secondary.DefaultClip	=	-1
 	self.Secondary.Automatic	=	false
@@ -93,7 +96,7 @@ function SWEP:Deploy()
 end
 
 /*|Trigger|*/
-function SWEP:PrimaryAttack()
+function SWEP:SecondaryAttack()
 	if IsFirstTimePredicted() then
 		if SERVER and self.bombs then
 			for k,v in pairs(self.bombs) do
@@ -106,12 +109,13 @@ function SWEP:PrimaryAttack()
 		if self.Owner:IsValid() then
 			if self.Owner:GetAmmoCount("ammo_breachingcharge") <= 0 then
 				self:EmitSound("weapons/pistol/pistol_empty.wav")
+				self.Owner:StripWeapon("weapon_breachingcharge")	-- Added by MorningCoffeeZombie. If charge isnt stripped players can /drop it and pick it up for infinite ammo.
 			end
 		end
 		self:SetNextPrimaryFire(CurTime()+0.5)
 	end
 end
-function SWEP:SecondaryAttack()
+function SWEP:PrimaryAttack()
 	if IsFirstTimePredicted() then
 		local pos,ang = self:GetSelection()
 		if pos ~= Vector(0,0,0) and self.Owner:GetAmmoCount("ammo_breachingcharge") > 0 then
@@ -342,6 +346,7 @@ function SWEP:DrawWorldModel()
 end
 
 /*|Display Overide|*/
+--[[ Commenting out ammo display. ~MorningCoffeeZombie
 if CLIENT then
 	function SWEP:CustomAmmoDisplay()
 		self.AmmoDisplay = self.AmmoDisplay or {}
@@ -349,6 +354,7 @@ if CLIENT then
 		return self.AmmoDisplay
 	end
 end
+--]]
 
 /*|Selection Preview|*/
 function SWEP:CreatePreview(mdl,pos,ang)

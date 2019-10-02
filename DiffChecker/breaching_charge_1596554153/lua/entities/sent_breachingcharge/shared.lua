@@ -9,7 +9,7 @@
 ENT.Type		= "anim"
 ENT.Base		= "base_anim"
 ENT.Category	= "Sevan's Entities"
-ENT.PrintName	= "Breaching Charge"
+ENT.PrintName	= "C4 Explosives"
 ENT.Author		= "Sevan Buechele"
 ENT.Contact		= "STEAM_0:1:65313765"
 ENT.Spawnable	= false
@@ -59,7 +59,7 @@ function ENT:Explode()
 					v.ent:Spawn()
 					v.ent:GetPhysicsObject():SetVelocityInstantaneous(self:GetUp()*-500)
 				end
-				timer.Simple(10,function()
+				timer.Simple(60,function()	-- The number here is how long it takes before the door respawns. Default 10sec is too fast.
 					if v:IsValid() then
 						v:SetCollisionGroup(COLLISION_GROUP_NONE)
 						v:CollisionRulesChanged()
