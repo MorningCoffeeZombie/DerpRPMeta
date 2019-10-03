@@ -6,7 +6,7 @@ Setup
 local LANG = EdgeHUD.RegisterLanguage({
 	Name = "Swedish",
 	Author = "Jompe",
-	CompatibleVersion = "1.9.1",
+	CompatibleVersion = "1.9.2",
 })
 
 --[[-------------------------------------------------------------------------

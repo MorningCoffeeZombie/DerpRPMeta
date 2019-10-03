@@ -365,10 +365,10 @@ EdgeHUD.Configuration.AddConfigOption( "CrashScreen_ReconnectTimer", {
 
 EdgeHUD.Configuration.AddConfigOption( "NotificationSystem", {
 	Title = "[Misc] Notification System",
-	Description = "Should EdgeHUD override the default Garry's Mod notification design.",
+	Description = "Should EdgeHUD override the default Garry's Mod notification design. (Other notification addons will override this)",
 	TypeEnum = EDGEHUD_CONFIG_TABLE,
 	Default = "EdgeHUD Design",
-	AllowedValues = {"EdgeHUD Design","Default Design","Unaffected (Choose this if using other 3rd party notification system) (Requires restart)"},
+	AllowedValues = {"EdgeHUD Design","Default Design"},
 	SortItems = false,
 	ExampleImage = "notifications",
 } )

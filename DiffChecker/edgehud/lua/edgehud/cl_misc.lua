@@ -640,234 +640,244 @@ end
 Notification system
 ---------------------------------------------------------------------------]]
 
-if EdgeHUD.Configuration.GetConfigValue( "NotificationSystem" ) == "EdgeHUD Design" then
+--Get the functionData.
+local addLegacyData = debug.getinfo(notification.AddLegacy)
+local addProgressData = debug.getinfo(notification.AddLegacy)
+local killData = debug.getinfo(notification.Kill)
 
-	--REad the original derma file.
-	local notificationDermaFile = file.Read("lua/includes/modules/notification.lua","GAME")
+--Check if EdgeHUD should load the notifications or if another addon has been given priority.
+if string.find(addLegacyData.short_src,"edgehud") != nil and string.find(addProgressData.short_src,"edgehud") != nil and string.find(killData.short_src,"edgehud") != nil then
 
-	--Append code to the bottom so we get access to the panel.
-	notificationDermaFile = notificationDermaFile .. "\nEdgeHUD.NotificationPanel = PANEL"
+	if EdgeHUD.Configuration.GetConfigValue( "NotificationSystem" ) == "EdgeHUD Design" then
 
-	--Change the notification startpos.
-	notificationDermaFile = string.Replace(notificationDermaFile,"local ideal_y = ScrH() - 150 - h - total_h","local ideal_y = ScrH() - 210 - h - total_h")
+		--REad the original derma file.
+		local notificationDermaFile = file.Read("lua/includes/modules/notification.lua","GAME")
 
-	--Run the code.
-	RunString(notificationDermaFile,"EdgeHUD")
+		--Append code to the bottom so we get access to the panel.
+		notificationDermaFile = notificationDermaFile .. "\nEdgeHUD.NotificationPanel = PANEL"
 
-	--Save the PANEL:Init function.
-	EdgeHUD.NotificationPanel.oldFunc = EdgeHUD.NotificationPanel.Init
+		--Change the notification startpos.
+		notificationDermaFile = string.Replace(notificationDermaFile,"local ideal_y = ScrH() - 150 - h - total_h","local ideal_y = ScrH() - 210 - h - total_h")
 
-	--Create a table for the notifications.
-	local notificationsTbl = {}
+		--Run the code.
+		RunString(notificationDermaFile,"EdgeHUD")
 
-	--OVerride the PANEL:Init function.
-	function EdgeHUD.NotificationPanel:Init(  )
+		--Save the PANEL:Init function.
+		EdgeHUD.NotificationPanel.oldFunc = EdgeHUD.NotificationPanel.Init
 
-		--Call the old PANEL:Init function.
-		self:oldFunc()
+		--Create a table for the notifications.
+		local notificationsTbl = {}
 
-		timer.Simple(0,function(  )
+		--OVerride the PANEL:Init function.
+		function EdgeHUD.NotificationPanel:Init(  )
 
-			if !IsValid(self) then return end
+			--Call the old PANEL:Init function.
+			self:oldFunc()
 
-			local oldPos = self.fy
+			timer.Simple(0,function(  )
 
-			self.fy = oldPos - 100
+				if !IsValid(self) then return end
+
+				local oldPos = self.fy
+
+				self.fy = oldPos - 100
+
+			end)
+
+			notificationsTbl[self] = true
+
+			--Set the default font.
+			self.Label:SetFont("EdgeHUD:Notification")
+
+			--Disable positioning stuff.
+			self.Label:Dock(NODOCK)
+			self.Label:SetContentAlignment(7)
+
+		end
+
+		function EdgeHUD.NotificationPanel:OnRemove(  )
+
+			notificationsTbl[self] = nil
+
+		end
+
+		function EdgeHUD.NotificationPanel:Think()
+			self:SetAlpha(EdgeHUD.shouldDraw and 255 or 0)
+		end
+
+		--Override the paint function.
+		EdgeHUD.NotificationPanel.Paint = function( s,w,h )
+
+			surface.SetDrawColor(COLORS["Black_Transparent"])
+			surface.DrawRect(0,0,w,h)
+
+			--Draw the white outline.
+			surface.SetDrawColor(COLORS["White_Outline"])
+			surface.DrawOutlinedRect(0,0,w,h)
+
+			--Draw the corners.
+			surface.SetDrawColor(COLORS["White_Corners"])
+			EdgeHUD.DrawEdges(0,0,w,h, 8)
+
+
+			if ( !s.Progress ) then return end
+
+			--Determine the position.
+			local x, y = 8, math.floor(s:GetTall() * 0.82 - 5)
+
+			--Determine the size.
+			local barBackgroundWidth, barBackgroundHeight = s:GetWide() - 16, 5
+
+			--Draw a dark background.
+			surface.SetDrawColor( 50, 50, 50, 150 )
+			surface.DrawRect( x, y, barBackgroundWidth, barBackgroundHeight )
+
+			--Draw a darker outline.
+			surface.SetDrawColor(0,0,0,80)
+			surface.DrawOutlinedRect(x,y,barBackgroundWidth,barBackgroundHeight)
+
+			local barWidth = math.floor(barBackgroundWidth * 0.3)
+
+			local propWidth = barBackgroundWidth / 100
+			local prop = CurTime() % propWidth / propWidth
+
+			local barPos = math.floor((barBackgroundWidth + barWidth) * prop)
+
+			surface.SetDrawColor(66, 134, 244, 255)
+			surface.DrawRect(math.max(x,barPos - barWidth + x) + 1,y + 1,math.min(barWidth,barBackgroundWidth + barWidth - barPos,barPos) - 2,3)
+
+		end
+
+		--OVerride the SizeToContents func.
+		function EdgeHUD.NotificationPanel:SizeToContents(  )
+
+			--Resize the label.
+			self.Label:SizeToContents()
+
+			--Get the size of the label.
+			local width, height = self.Label:GetSize()
+
+			--Set the height.
+			local notificationHeight = 45
+
+			--Add some margin at the sides.
+			width = width + 16
+
+			--Determine the position of the DLabel.
+			local labelX, labelY = 8, notificationHeight * 0.18
+
+			--Check if we got a valid image.
+			if IsValid(self.Image) then
+
+				--Disable docking.
+				self.Image:Dock(NODOCK)
+
+				--Set the size of the image.
+				self.Image:SetSize(30,30)
+
+				--Add the size of the image + some margin.
+				width = width + self.Image:GetTall() + 8
+
+				--Set the position of the image.
+				self.Image:SetPos(8,notificationHeight / 2 - self.Image:GetTall() / 2)
+
+				--Determine the position of the Label.
+				labelX, labelY = 16 + self.Image:GetTall(),notificationHeight / 2 - height / 2
+
+			end
+
+			--Set the position of the label.
+			self.Label:SetPos(math.floor(labelX), math.floor(labelY))
+
+			--Set the notification size.
+			self:SetSize(math.floor(width),math.floor(notificationHeight))
+
+			--Call self:InvalidateLayout
+			self:InvalidateLayout()
+
+		end
+
+		hook.Add("EdgeHUD:AddonReload","EdgeHUD:Unload_Notifications",function(  )
+
+			for k,v in pairs(notificationsTbl) do
+				if IsValid(k) then
+					k:SetVisible(false)
+				end
+			end
 
 		end)
 
-		notificationsTbl[self] = true
+	else
 
-		--Set the default font.
-		self.Label:SetFont("EdgeHUD:Notification")
+		--REad the original derma file.
+		local notificationDermaFile = file.Read("lua/includes/modules/notification.lua","GAME")
 
-		--Disable positioning stuff.
-		self.Label:Dock(NODOCK)
-		self.Label:SetContentAlignment(7)
+		--Append code to the bottom so we get access to the panel.
+		notificationDermaFile = notificationDermaFile .. "\nEdgeHUD.NotificationPanel = PANEL"
 
-	end
+		--Run the code.
+		RunString(notificationDermaFile,"EdgeHUD")
 
-	function EdgeHUD.NotificationPanel:OnRemove(  )
+		--Save the PANEL:Init function.
+		EdgeHUD.NotificationPanel.oldFunc = EdgeHUD.NotificationPanel.Init
 
-		notificationsTbl[self] = nil
+		--Create a table for the notifications.
+		local notificationsTbl = {}
 
-	end
+		--OVerride the PANEL:Init function.
+		function EdgeHUD.NotificationPanel:Init(  )
 
-	function EdgeHUD.NotificationPanel:Think()
-		self:SetAlpha(EdgeHUD.shouldDraw and 255 or 0)
-	end
+			--Call the old PANEL:Init function.
+			self:oldFunc()
 
-	--Override the paint function.
-	EdgeHUD.NotificationPanel.Paint = function( s,w,h )
-
-		surface.SetDrawColor(COLORS["Black_Transparent"])
-		surface.DrawRect(0,0,w,h)
-
-		--Draw the white outline.
-		surface.SetDrawColor(COLORS["White_Outline"])
-		surface.DrawOutlinedRect(0,0,w,h)
-
-		--Draw the corners.
-		surface.SetDrawColor(COLORS["White_Corners"])
-		EdgeHUD.DrawEdges(0,0,w,h, 8)
-
-
-		if ( !s.Progress ) then return end
-
-		--Determine the position.
-		local x, y = 8, math.floor(s:GetTall() * 0.82 - 5)
-
-		--Determine the size.
-		local barBackgroundWidth, barBackgroundHeight = s:GetWide() - 16, 5
-
-		--Draw a dark background.
-		surface.SetDrawColor( 50, 50, 50, 150 )
-		surface.DrawRect( x, y, barBackgroundWidth, barBackgroundHeight )
-
-		--Draw a darker outline.
-		surface.SetDrawColor(0,0,0,80)
-		surface.DrawOutlinedRect(x,y,barBackgroundWidth,barBackgroundHeight)
-
-		local barWidth = math.floor(barBackgroundWidth * 0.3)
-
-		local propWidth = barBackgroundWidth / 100
-		local prop = CurTime() % propWidth / propWidth
-
-		local barPos = math.floor((barBackgroundWidth + barWidth) * prop)
-
-		surface.SetDrawColor(66, 134, 244, 255)
-		surface.DrawRect(math.max(x,barPos - barWidth + x) + 1,y + 1,math.min(barWidth,barBackgroundWidth + barWidth - barPos,barPos) - 2,3)
-
-	end
-
-	--OVerride the SizeToContents func.
-	function EdgeHUD.NotificationPanel:SizeToContents(  )
-
-		--Resize the label.
-		self.Label:SizeToContents()
-
-		--Get the size of the label.
-		local width, height = self.Label:GetSize()
-
-		--Set the height.
-		local notificationHeight = 45
-
-		--Add some margin at the sides.
-		width = width + 16
-
-		--Determine the position of the DLabel.
-		local labelX, labelY = 8, notificationHeight * 0.18
-
-		--Check if we got a valid image.
-		if IsValid(self.Image) then
-
-			--Disable docking.
-			self.Image:Dock(NODOCK)
-
-			--Set the size of the image.
-			self.Image:SetSize(30,30)
-
-			--Add the size of the image + some margin.
-			width = width + self.Image:GetTall() + 8
-
-			--Set the position of the image.
-			self.Image:SetPos(8,notificationHeight / 2 - self.Image:GetTall() / 2)
-
-			--Determine the position of the Label.
-			labelX, labelY = 16 + self.Image:GetTall(),notificationHeight / 2 - height / 2
+			notificationsTbl[self] = true
 
 		end
 
-		--Set the position of the label.
-		self.Label:SetPos(math.floor(labelX), math.floor(labelY))
+		function EdgeHUD.NotificationPanel:OnRemove(  )
 
-		--Set the notification size.
-		self:SetSize(math.floor(width),math.floor(notificationHeight))
+			notificationsTbl[self] = nil
 
-		--Call self:InvalidateLayout
-		self:InvalidateLayout()
+		end
 
-	end
-
-	hook.Add("EdgeHUD:AddonReload","EdgeHUD:Unload_Notifications",function(  )
-
-		for k,v in pairs(notificationsTbl) do
-			if IsValid(k) then
-				k:SetVisible(false)
+		hook.Add("EdgeHUD:AddonReload","EdgeHUD:Unload_DefaultNotifications",function(  )
+			for k,v in pairs(notificationsTbl) do
+				if IsValid(k) then
+					k:SetVisible(false)
+				end
 			end
-		end
-
-	end)
-
-elseif EdgeHUD.Configuration.GetConfigValue( "NotificationSystem" ) == "Default Design" then
-
-	--REad the original derma file.
-	local notificationDermaFile = file.Read("lua/includes/modules/notification.lua","GAME")
-
-	--Append code to the bottom so we get access to the panel.
-	notificationDermaFile = notificationDermaFile .. "\nEdgeHUD.NotificationPanel = PANEL"
-
-	--Run the code.
-	RunString(notificationDermaFile,"EdgeHUD")
-
-	--Save the PANEL:Init function.
-	EdgeHUD.NotificationPanel.oldFunc = EdgeHUD.NotificationPanel.Init
-
-	--Create a table for the notifications.
-	local notificationsTbl = {}
-
-	--OVerride the PANEL:Init function.
-	function EdgeHUD.NotificationPanel:Init(  )
-
-		--Call the old PANEL:Init function.
-		self:oldFunc()
-
-		notificationsTbl[self] = true
+		end)
 
 	end
 
-	function EdgeHUD.NotificationPanel:OnRemove(  )
+	--Add delayed notifications.
+	for k,v in pairs(EdgeHUD_NotificationsQueue_Legacy) do
+		notification.AddLegacy(v.text,v.type,v.length)
+	end
 
-		notificationsTbl[self] = nil
+	for k,v in pairs(EdgeHUD_NotificationsQueue_Progress) do
+		notification.AddLegacy(k,v)
+	end
+
+	--Reset the EdgeHUD_NotificationsQueue_Legacy and EdgeHUD_NotificationsQueue_Progress.
+	EdgeHUD_NotificationsQueue_Legacy = {}
+	EdgeHUD_NotificationsQueue_Progress = {}
+
+	--For some reason some people are experiencing the _Notify being dropped.
+	local function DisplayNotify(msg)
+
+		local txt = msg:ReadString()
+		GAMEMODE:AddNotify(txt, msg:ReadShort(), msg:ReadLong())
+		surface.PlaySound("buttons/lightswitch2.wav")
+
+		-- Log to client console
+		MsgC(Color(255, 20, 20, 255), "[DarkRP] ", Color(200, 200, 200, 255), txt, "\n")
 
 	end
 
-	hook.Add("EdgeHUD:AddonReload","EdgeHUD:Unload_DefaultNotifications",function(  )
-		for k,v in pairs(notificationsTbl) do
-			if IsValid(k) then
-				k:SetVisible(false)
-			end
-		end
-	end)
+	usermessage.Hook("_Notify", DisplayNotify)
 
 end
-
---Add delayed notifications.
-for k,v in pairs(EdgeHUD_NotificationsQueue_Legacy) do
-	notification.AddLegacy(v.text,v.type,v.length)
-end
-
-for k,v in pairs(EdgeHUD_NotificationsQueue_Progress) do
-	notification.AddLegacy(k,v)
-end
-
---Reset the EdgeHUD_NotificationsQueue_Legacy and EdgeHUD_NotificationsQueue_Progress.
-EdgeHUD_NotificationsQueue_Legacy = {}
-EdgeHUD_NotificationsQueue_Progress = {}
-
---For some reason some people are experiencing the _Notify being dropped.
-local function DisplayNotify(msg)
-
-	local txt = msg:ReadString()
-	GAMEMODE:AddNotify(txt, msg:ReadShort(), msg:ReadLong())
-	surface.PlaySound("buttons/lightswitch2.wav")
-
-	-- Log to client console
-	MsgC(Color(255, 20, 20, 255), "[DarkRP] ", Color(200, 200, 200, 255), txt, "\n")
-
-end
-
-usermessage.Hook("_Notify", DisplayNotify)
 
 --[[-------------------------------------------------------------------------
 Crash Screen
