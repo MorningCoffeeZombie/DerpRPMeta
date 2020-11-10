@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProfiles>
-<!-- Written by QtCreator 4.13.2, 2020-11-10T15:27:36. -->
+<!-- Written by QtCreator 4.13.2, 2020-11-10T15:27:26. -->
 <qtcreator>
  <data>
   <variable>Kit.IrrelevantAspects</variable>
@@ -24,18 +24,18 @@
      <value type="QString" key="Platform"></value>
      <value type="QString" key="Toolset"></value>
     </valuemap>
-    <value type="QString" key="CMakeProjectManager.CMakeKitInformation">{c3db8639-d900-4437-b107-346b0bad70a1}</value>
+    <value type="QString" key="CMakeProjectManager.CMakeKitInformation">{c8a9a47e-04ea-45ca-a62d-1c7356fc20f0}</value>
     <value type="QString" key="PE.Profile.Device">Desktop Device</value>
     <value type="QString" key="PE.Profile.DeviceType">Desktop</value>
     <valuemap type="QVariantMap" key="PE.Profile.ToolChainsV3">
-     <value type="QByteArray" key="C">{087412d1-e611-404b-bec0-38462f0ed564}</value>
-     <value type="QByteArray" key="Cxx">{f30f82dc-b58c-45fe-aa23-a905a82794a8}</value>
+     <value type="QByteArray" key="C">{7ba07f3f-1e69-43d4-bc97-fe3e531ae03b}</value>
+     <value type="QByteArray" key="Cxx">{3e70897d-b3d2-400a-b75d-76ceb4e30280}</value>
     </valuemap>
     <value type="int" key="QtSupport.QtInformation">1</value>
    </valuemap>
    <value type="QString" key="PE.Profile.DeviceTypeForIcon"></value>
    <value type="QString" key="PE.Profile.Icon"></value>
-   <value type="QString" key="PE.Profile.Id">{a0310559-35d7-4435-9401-f6410d9e0a9c}</value>
+   <value type="QString" key="PE.Profile.Id">{ab08d15b-27eb-48b7-beb0-e9aae0a08bc9}</value>
    <valuelist type="QVariantList" key="PE.Profile.MutableInfo"/>
    <value type="QString" key="PE.Profile.Name">Desktop</value>
    <value type="bool" key="PE.Profile.SDK">false</value>
@@ -48,7 +48,7 @@
  </data>
  <data>
   <variable>Profile.Default</variable>
-  <value type="QString">{a0310559-35d7-4435-9401-f6410d9e0a9c}</value>
+  <value type="QString">{ab08d15b-27eb-48b7-beb0-e9aae0a08bc9}</value>
  </data>
  <data>
   <variable>Version</variable>

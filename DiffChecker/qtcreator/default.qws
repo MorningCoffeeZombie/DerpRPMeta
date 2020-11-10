@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorSession>
-<!-- Written by QtCreator 4.13.2, 2020-11-10T15:32:36. -->
+<!-- Written by QtCreator 4.13.2, 2020-11-10T15:27:26. -->
 <qtcreator>
  <data>
   <variable>CascadeSetActive</variable>
@@ -12,7 +12,7 @@
  </data>
  <data>
   <variable>EditorSettings</variable>
-  <value type="QByteArray">AAAAD0VkaXRvck1hbmFnZXJWNQAAAAEAAACGAC8AaABvAG0AZQAvAHIAZABvAGcAZwAvAEQAZQBzAGsAdABvAHAALwBUAHIAYQBkAGUARABhAHQAYQAvAFQAbwBTAC8ATQBhAHIAawBlAHQATQBhAGsAZQByAFMAYwBhAG4AbgBlAHIALwBVAEkALwBtAGEAaQBuAE0AZQBuAHUALgB1AGkAAAAMAAAAACAAAAACAAAAAAAAAAAAAAhpAAAAAQAAAAAAAAAAAAAAOQAAAAEAAACGAC8AaABvAG0AZQAvAHIAZABvAGcAZwAvAEQAZQBzAGsAdABvAHAALwBUAHIAYQBkAGUARABhAHQAYQAvAFQAbwBTAC8ATQBhAHIAawBlAHQATQBhAGsAZQByAFMAYwBhAG4AbgBlAHIALwBVAEkALwBtAGEAaQBuAE0AZQBuAHUALgB1AGkAAAAWAG0AYQBpAG4ATQBlAG4AdQAuAHUAaQAAABxGb3JtRWRpdG9yLkRlc2lnbmVyWG1sRWRpdG9yAAAAAPsAAAANY3VycmVudGVkaXRvcgAAAIYALwBoAG8AbQBlAC8AcgBkAG8AZwBnAC8ARABlAHMAawB0AG8AcAAvAFQAcgBhAGQAZQBEAGEAdABhAC8AVABvAFMALwBNAGEAcgBrAGUAdABNAGEAawBlAHIAUwBjAGEAbgBuAGUAcgAvAFUASQAvAG0AYQBpAG4ATQBlAG4AdQAuAHUAaQAAADgARgBvAHIAbQBFAGQAaQB0AG8AcgAuAEQAZQBzAGkAZwBuAGUAcgBYAG0AbABFAGQAaQB0AG8AcgAAACAAAAACAAAAAAAAAAAAAAhpAAAAAQAAAAAAAAAAAAAAOQAAAAA=</value>
+  <value type="QByteArray">AAAAD0VkaXRvck1hbmFnZXJWNQAAAAMAAABkAC8AaABvAG0AZQAvAHIAZABvAGcAZwAvAFEAVABDAHIAZQBhAHQAZQByAC8ATQBhAHIAawBlAHQATQBhAGsAZQByAE0AYQBuAGEAZwBlAHIALwBsAGEAdQBuAGMAaAAuAHAAeQAAAAwAAAAAIAAAAAIAAAFQAAAAAAAAAWIAAAAfAAAAAAAAAVAAAAF2AAAAbgAvAGgAbwBtAGUALwByAGQAbwBnAGcALwBRAFQAQwByAGUAYQB0AGUAcgAvAE0AYQByAGsAZQB0AE0AYQBrAGUAcgBNAGEAbgBhAGcAZQByAC8AVQBJAC8AbQBhAGkAbgBNAGUAbgB1AC4AdQBpAAAADAAAAAAgAAAAAgAAAAAAAAAAAAAIaQAAAAEAAAAAAAAAAAAAADkAAAB2AC8AaABvAG0AZQAvAHIAZABvAGcAZwAvAFEAVABDAHIAZQBhAHQAZQByAC8ATQBhAHIAawBlAHQATQBhAGsAZQByAE0AYQBuAGEAZwBlAHIALwBVAEkALwBnAGEAbQBtAGEAUwBjAGEAbABwAGUAcgAuAHUAaQAAAAwAAAAAIAAAAAIAAAAAAAAAAAAABxkAAAABAAAAAAAAAAAAAAA4AAAAAgAAAGQALwBoAG8AbQBlAC8AcgBkAG8AZwBnAC8AUQBUAEMAcgBlAGEAdABlAHIALwBNAGEAcgBrAGUAdABNAGEAawBlAHIATQBhAG4AYQBnAGUAcgAvAGwAYQB1AG4AYwBoAC4AcAB5AAAAEgBsAGEAdQBuAGMAaAAuAHAAeQAAABlQeXRob25FZGl0b3IuUHl0aG9uRWRpdG9yAAAAAG4ALwBoAG8AbQBlAC8AcgBkAG8AZwBnAC8AUQBUAEMAcgBlAGEAdABlAHIALwBNAGEAcgBrAGUAdABNAGEAawBlAHIATQBhAG4AYQBnAGUAcgAvAFUASQAvAG0AYQBpAG4ATQBlAG4AdQAuAHUAaQAAABYAbQBhAGkAbgBNAGUAbgB1AC4AdQBpAAAAHEZvcm1FZGl0b3IuRGVzaWduZXJYbWxFZGl0b3IAAAAA0wAAAA1jdXJyZW50ZWRpdG9yAAAAZAAvAGgAbwBtAGUALwByAGQAbwBnAGcALwBRAFQAQwByAGUAYQB0AGUAcgAvAE0AYQByAGsAZQB0AE0AYQBrAGUAcgBNAGEAbgBhAGcAZQByAC8AbABhAHUAbgBjAGgALgBwAHkAAAAyAFAAeQB0AGgAbwBuAEUAZABpAHQAbwByAC4AUAB5AHQAaABvAG4ARQBkAGkAdABvAHIAAAAgAAAAAgAAAVAAAAAAAAABYgAAAB8AAAAAAAABUAAAAXYAAAAA</value>
  </data>
  <data>
   <variable>ProjectDependencies</variable>
@@ -21,43 +21,39 @@
  <data>
   <variable>ProjectList</variable>
   <valuelist type="QVariantList">
-   <value type="QString">/home/rdogg/Desktop/TradeData/ToS/MarketMakerScanner/main.pyproject</value>
+   <value type="QString">/home/rdogg/QTCreater/MarketMakerManager/main.pyproject</value>
   </valuelist>
  </data>
  <data>
   <variable>StartupProject</variable>
-  <value type="QString">/home/rdogg/Desktop/TradeData/ToS/MarketMakerScanner/main.pyproject</value>
+  <value type="QString">/home/rdogg/QTCreater/MarketMakerManager/main.pyproject</value>
  </data>
  <data>
   <variable>value-ActiveMode</variable>
-  <value type="QString">Design</value>
+  <value type="QString">Edit</value>
  </data>
  <data>
   <variable>value-Breakpoints</variable>
   <valuelist type="QVariantList"/>
  </data>
  <data>
-  <variable>value-DebuggerSeparateWidgetGeometry</variable>
-  <value type="QRect">400x400+0+0</value>
- </data>
- <data>
-  <variable>value-DefaultFormats</variable>
-  <valuemap type="QVariantMap"/>
- </data>
- <data>
-  <variable>value-IndividualFormats</variable>
-  <valuemap type="QVariantMap"/>
- </data>
- <data>
   <variable>value-ProjectTree.ExpandData</variable>
   <valuelist type="QVariantList">
    <valuelist type="QVariantList">
-    <value type="QString">/home/rdogg/Desktop/TradeData/ToS/MarketMakerScanner/UI</value>
+    <value type="QString">/home/rdogg/QTCreater/MarketMakerManager/Data</value>
+    <value type="QString">Data</value>
+   </valuelist>
+   <valuelist type="QVariantList">
+    <value type="QString">/home/rdogg/QTCreater/MarketMakerManager/Apps</value>
+    <value type="QString">Apps</value>
+   </valuelist>
+   <valuelist type="QVariantList">
+    <value type="QString">/home/rdogg/QTCreater/MarketMakerManager/UI</value>
     <value type="QString">UI</value>
    </valuelist>
    <valuelist type="QVariantList">
-    <value type="QString">/home/rdogg/Desktop/TradeData/ToS/MarketMakerScanner</value>
-    <value type="QString">main [master]</value>
+    <value type="QString">/home/rdogg/QTCreater/MarketMakerManager</value>
+    <value type="QString">main</value>
    </valuelist>
   </valuelist>
  </data>
@@ -73,21 +69,13 @@
   <value type="bool">true</value>
  </data>
  <data>
-  <variable>value-Watchers</variable>
-  <valuelist type="QVariantList"/>
- </data>
- <data>
   <variable>valueKeys</variable>
   <valuelist type="QVariantList">
    <value type="QString">ActiveMode</value>
    <value type="QString">Breakpoints</value>
-   <value type="QString">DebuggerSeparateWidgetGeometry</value>
-   <value type="QString">DefaultFormats</value>
-   <value type="QString">IndividualFormats</value>
    <value type="QString">ProjectTree.ExpandData</value>
    <value type="QString">TaskWindow.Categories</value>
    <value type="QString">TaskWindow.IncludeWarnings</value>
-   <value type="QString">Watchers</value>
   </valuelist>
  </data>
 </qtcreator>
