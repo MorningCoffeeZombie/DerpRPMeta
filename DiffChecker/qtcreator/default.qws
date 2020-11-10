@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE QtCreatorSession>
+<!-- Written by QtCreator 4.13.2, 2020-11-10T15:32:36. -->
+<qtcreator>
+ <data>
+  <variable>CascadeSetActive</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>Color</variable>
+  <value type="QString">#666666</value>
+ </data>
+ <data>
+  <variable>EditorSettings</variable>
+  <value type="QByteArray">AAAAD0VkaXRvck1hbmFnZXJWNQAAAAEAAACGAC8AaABvAG0AZQAvAHIAZABvAGcAZwAvAEQAZQBzAGsAdABvAHAALwBUAHIAYQBkAGUARABhAHQAYQAvAFQAbwBTAC8ATQBhAHIAawBlAHQATQBhAGsAZQByAFMAYwBhAG4AbgBlAHIALwBVAEkALwBtAGEAaQBuAE0AZQBuAHUALgB1AGkAAAAMAAAAACAAAAACAAAAAAAAAAAAAAhpAAAAAQAAAAAAAAAAAAAAOQAAAAEAAACGAC8AaABvAG0AZQAvAHIAZABvAGcAZwAvAEQAZQBzAGsAdABvAHAALwBUAHIAYQBkAGUARABhAHQAYQAvAFQAbwBTAC8ATQBhAHIAawBlAHQATQBhAGsAZQByAFMAYwBhAG4AbgBlAHIALwBVAEkALwBtAGEAaQBuAE0AZQBuAHUALgB1AGkAAAAWAG0AYQBpAG4ATQBlAG4AdQAuAHUAaQAAABxGb3JtRWRpdG9yLkRlc2lnbmVyWG1sRWRpdG9yAAAAAPsAAAANY3VycmVudGVkaXRvcgAAAIYALwBoAG8AbQBlAC8AcgBkAG8AZwBnAC8ARABlAHMAawB0AG8AcAAvAFQAcgBhAGQAZQBEAGEAdABhAC8AVABvAFMALwBNAGEAcgBrAGUAdABNAGEAawBlAHIAUwBjAGEAbgBuAGUAcgAvAFUASQAvAG0AYQBpAG4ATQBlAG4AdQAuAHUAaQAAADgARgBvAHIAbQBFAGQAaQB0AG8AcgAuAEQAZQBzAGkAZwBuAGUAcgBYAG0AbABFAGQAaQB0AG8AcgAAACAAAAACAAAAAAAAAAAAAAhpAAAAAQAAAAAAAAAAAAAAOQAAAAA=</value>
+ </data>
+ <data>
+  <variable>ProjectDependencies</variable>
+  <valuemap type="QVariantMap"/>
+ </data>
+ <data>
+  <variable>ProjectList</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">/home/rdogg/Desktop/TradeData/ToS/MarketMakerScanner/main.pyproject</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>StartupProject</variable>
+  <value type="QString">/home/rdogg/Desktop/TradeData/ToS/MarketMakerScanner/main.pyproject</value>
+ </data>
+ <data>
+  <variable>value-ActiveMode</variable>
+  <value type="QString">Design</value>
+ </data>
+ <data>
+  <variable>value-Breakpoints</variable>
+  <valuelist type="QVariantList"/>
+ </data>
+ <data>
+  <variable>value-DebuggerSeparateWidgetGeometry</variable>
+  <value type="QRect">400x400+0+0</value>
+ </data>
+ <data>
+  <variable>value-DefaultFormats</variable>
+  <valuemap type="QVariantMap"/>
+ </data>
+ <data>
+  <variable>value-IndividualFormats</variable>
+  <valuemap type="QVariantMap"/>
+ </data>
+ <data>
+  <variable>value-ProjectTree.ExpandData</variable>
+  <valuelist type="QVariantList">
+   <valuelist type="QVariantList">
+    <value type="QString">/home/rdogg/Desktop/TradeData/ToS/MarketMakerScanner/UI</value>
+    <value type="QString">UI</value>
+   </valuelist>
+   <valuelist type="QVariantList">
+    <value type="QString">/home/rdogg/Desktop/TradeData/ToS/MarketMakerScanner</value>
+    <value type="QString">main [master]</value>
+   </valuelist>
+  </valuelist>
+ </data>
+ <data>
+  <variable>value-TaskWindow.Categories</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">Task.Category.QmlAnalysis</value>
+   <value type="QString">AssetExporter.Export</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>value-TaskWindow.IncludeWarnings</variable>
+  <value type="bool">true</value>
+ </data>
+ <data>
+  <variable>value-Watchers</variable>
+  <valuelist type="QVariantList"/>
+ </data>
+ <data>
+  <variable>valueKeys</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">ActiveMode</value>
+   <value type="QString">Breakpoints</value>
+   <value type="QString">DebuggerSeparateWidgetGeometry</value>
+   <value type="QString">DefaultFormats</value>
+   <value type="QString">IndividualFormats</value>
+   <value type="QString">ProjectTree.ExpandData</value>
+   <value type="QString">TaskWindow.Categories</value>
+   <value type="QString">TaskWindow.IncludeWarnings</value>
+   <value type="QString">Watchers</value>
+  </valuelist>
+ </data>
+</qtcreator>
